@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opinion of Sundry Antiquaries Touching the Antiquity of Parliaments</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 111r–116v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS305.xml">British Library, Harley MS 305, ff. 231r–254r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS491.xml">British Library, Lansdowne MS 491, ff. 22r–44x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_45144.xml">British Library, Additional MS 45144, ff. 1r–32r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_48102.xml">British Library, Additional MS 48102, ff. 1r–35r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_2975.xml">British Library, Egerton MS 2975, ff. 1r–29v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_225.xml">British Library, Hargrave MS 225, ff. 92r–114v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_298.xml">British Library, Stowe MS 298, ff. 143r–162v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_572.xml">British Library, Stowe MS 572, ff. 8r–16r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_1039.xml">Harvard Law School,  MS 1039</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_24.xml">Inner Temple Library, Petyt MS 538/24, ff. 1r–31x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 39r–47v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>The several Opinions of sundry learned Antiquaries...touching the Antiquity, Power, Order, State, Manner, Persons and Proceedings of the High-Court of Parliament in England</title>
+                  <date when="1658">1658</date>
+                  <idno type="Wing">D1796</idno>
+                  <biblScope unit="page" from="8" to="10">8-10</biblScope>
+                  <biblScope unit="sigs" from="B1v" to="B2v">B1v-B2v</biblScope>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <editor>Thomas Hearne</editor>
+                  <title type="shorttitle">A Collection of Curious Discourse Written By Eminent Antiquaries</title>
+                  <edition>2nd ed.</edition>
+                  <pubPlace>London</pubPlace>
+                  <date when="1771">1771</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="281" to="310">281-310</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date/>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>parliament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

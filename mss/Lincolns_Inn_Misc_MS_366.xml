@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lincoln's Inn Misc MS 366</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Lincolns_Inn_Misc_MS_366">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>Lincoln's Inn</repository>
+               <collection>Misc</collection>
+               <idno>MS 366</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>195x</locus>
+                  <title>Petition to Charles I</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0021">John Williams</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WilliamsPetitionCharles1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>350x-354x</locus>
+                  <title>Resolution of the Judges Touching Popish Recusants</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/JudgesResolutionTouchingRecusants.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>256x-262x</locus>
+                  <title>A Relation of the Proceedings against Ambassadors who have Miscarried Themselves</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CottonProceedingsAgainstAmbassadors1624.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>311r-320v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0184">Sir William Jones</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/JonesArgumentConcerningShipMoney1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>327v-329v</locus>
+                  <title>An Act for Abolishing Episcopacy</title>
+                        <author>
+               <persName>General Assembly of Scotland</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ActAbolishingEpiscopacy1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>335r-340v</locus>
+                  <title>Letter to Coke in the Time of His Trouble</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/LetterCokeTimeTrouble1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

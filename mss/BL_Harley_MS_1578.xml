@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>British Library Harley MS 1578</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Harley_MS_1578">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1578</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>224r-227v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0004">George Croke</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CrokeShipMoney1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>248r-268x</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0184">Sir William Jones</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/JonesArgumentConcerningShipMoney1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>269r-278v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0141">Richard Hutton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HuttonArgumentConcerningShipMoney1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>365r-379x</locus>
+                  <title>Charge to all the Judges in the Star Chamber</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0148">Thomas Lord Coventry</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CoventryChargeJudges1635.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>380r-398r</locus>
+                  <title>The Course of Passing Bills in Parliament</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CoursePassingBillsParliament.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>399r-407r</locus>
+                  <title>An Act for Abolishing Episcopacy</title>
+                        <author>
+               <persName>General Assembly of Scotland</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ActAbolishingEpiscopacy1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters</title>
+            <author>
+               <persName corresp="../people/people.xml#P0143">Robert Cecil, 1st Earl of Salisbury</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0144">Matthew Hutton, Archbishop of York</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS677.xml">British Library, Harley MS 677, ff. 45r–48r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS787.xml">British Library, Harley MS 787, ff. 90v–93r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_38139.xml">British Library, Additional MS 38139, ff. 181r, 194r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_38429.xml">British Library, Additional MS 38429, f. 93r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_7002.xml">British Library, Harley MS 7002, ff. 49r–51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BnF_CinqCents_de_Colbert_ms_466.xml">Bibliothèque nationale de France, Cinq-Cents de Colbert ms 466, ff. 281r–282v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, ff. 104–107</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_335.xml">Cambridge University Library, Additional MS 335, ff. 53r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, pp470–472</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_303.xml">Folger Shakespeare Library,  MS V.b.303, p227</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_102.xml">Huntington Library,  HM 102, ff. 38r–39r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_14.xml">Nottingham University Library, Cl LP 14</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, ff. 203r–204v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_10.xml">The National Archives,  SP 14/10, /64–57</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/University_College_Oxford_MS_152.xml">University College,  MS 152 [on deposit at the Bodleian], ff. 119–120</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>Ralph Winwood</author>
+                  <title>Memorials of Affairs of State in the Reigns of Q. Elizabeth and K. James I</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1725">1725</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="40" to="40">40</biblScope>
+               </bibl>
+               <bibl>
+                  <author>John Strype</author>
+                  <title>The life and acts of John Whitgift</title>
+                  <pubPlace>Oxford</pubPlace>
+                  <date when="1822">1822</date>
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="page" from="420" to="421">420-421</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1604">1604</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

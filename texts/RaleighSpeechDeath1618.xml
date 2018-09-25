@@ -1,0 +1,658 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech at his Death</title>
+            <author>
+               <persName corresp="../people/people.xml#P0017">
+                  Sir Walter Raleigh
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72354">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72354</idno>
+                 <msName>Trumbull Miscellany</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_141">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 141</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_180">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 180</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3787">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 3787</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_852">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 852</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4106">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4106</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_40838">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 40838</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_69394">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 69394</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_73086">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73086</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_73087">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73087</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72329">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72329</idno>
+                <msName>Trumbull miscellany</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1893">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1893</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6353">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6353</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_784">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Egerton</collection>
+                <idno>MS 784</idno>
+                 <msName>The Diary of Mr. William Whiteway of Dorchester, co. Dorset</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34727">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 34727</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_G_b_7">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS G.b.7</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_G_b_9">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS G.b.9</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS34727.xml">British Library, Additional MS 34727, f. 35v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS40838.xml">British Library, Additional MS 40838, f. 30r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4106.xml">British Library, Additional MS 4106, ff. 82r–83v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 267r–269v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS69394.xml">British Library, Additional MS 69394, ff. 59v–62v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72329.xml">British Library, Additional MS 72329, ff. 118r–119v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72354.xml">British Library, Additional MS 72354, ff. 50r–51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS73086.xml">British Library, Additional MS 73086, ff. 20r–22r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS73087.xml">British Library, Additional MS 73087, ff. 43r–46v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS784.xml">British Library, Egerton MS 784, p.6</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 93r–94r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1893.xml">British Library, Harley MS 1893</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3787.xml">British Library, Harley MS 3787, ff. 182r–182v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 47x–48x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS852.xml">British Library, Harley MS 852, ff. 29r–32r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6353.xml">British Library, Harley MS 6353, ff. 80r–86r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_141.xml">British Library, Stowe MS 141, f. 74x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_141.xml">British Library, Stowe MS 141, f. 75x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_180.xml">British Library, Stowe MS 180, ff. 47x–48x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b32.xml">Beinecke Library, Osborn b32, pp145–153</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, ff. 102r–103</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, ff. 114r–115v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_c_319.xml">Bodleian Library,  MS Eng. hist. c. 319, ff. 18r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_280.xml">Bodleian Library,  MS Rawlinson D 280, ff. 46r–52v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_859.xml">Bodleian Library,  MS Rawlinson D 859, ff. 84r–85v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Dd387.xml">Cambridge University Library,  MS Dd.3.87, Item 18, 1r–5v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, pp464–467</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm633.xml">Cambridge University Library,  MS Mm.6.33, ff. 181r–185v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb7.xml">Folger Shakespeare Library,  MS G.b.7, ff. 135r–138r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 161r–170v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_418.xml">Folger Shakespeare Library,  MS V.a.418, ff. 1r–4v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_303.xml">Folger Shakespeare Library,  MS V.b.303, pp271–275</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_Z_e_1.xml">Folger Shakespeare Library,  MS Z.e.1, item 11</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_7340.xml">Gonville &amp; Caius College,  MS 73/40, ff. 214r–215r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_18.xml">Inner Temple Library, Petyt MS 538/18, ff. 240r–244r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Jesus_College_Oxford_MS_83.xml">Jesus College,  MS 83 [on deposit in Bodleian], ff. 68v–70r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_5.xml">Nottingham University Library, Cl LP 5, item 5, 2–5</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 512–517</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, ff. 152–157</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, ff. 14r–16v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDMI1882.xml">Somerset Archives,  DD\MI/18/82</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDSF7111.xml">Somerset Archives,  DD\SF/7/1/11, item 1</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_103.xml">The National Archives,  SP 14/103, /52 [ff.74r–76r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_103.xml">The National Archives,  SP 14/103, /54 [ff.77r–83r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_O521.xml">Trinity College,  MS O.5.21, ff. 178–185</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>Arraignment and Conviction of Sr Walter Rawleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1648">1648</date>
+                  <idno type="Wing">A3744</idno>
+                  <biblScope unit="page" from="26" to="34">26-34</biblScope>
+                  <biblScope unit="sigs" from="D2v" to="E2v">D2v-E2v</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Sir Walter Raleigh's Sceptick</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1651">1651</date>
+                  <idno type="Wing">R186/R186A</idno>
+                  <biblScope unit="page" from="139" to="150">139-150</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1657">1657</date>
+                  <idno type="Wing">R180</idno>
+                  <biblScope unit="page" from="197" to="202">197-202</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1661">1661</date>
+                  <idno type="Wing">R181</idno>
+                  <biblScope unit="page" from="259" to="264">259-264</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1664">1664</date>
+                  <idno type="Wing">R182</idno>
+                  <biblScope unit="page" from="259" to="264">259-264</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1669">1669</date>
+                  <idno type="Wing">R183</idno>
+                  <biblScope unit="page" from="259" to="264">259-264</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1675">1675</date>
+                  <idno type="Wing">R184</idno>
+                  <biblScope unit="page" from="259" to="264">259-264</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">
+                        <roleName>Sir</roleName>
+                        <forename>Walter</forename>
+                        <surname>Raleigh</surname>
+                     </persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1681">1681</date>
+                  <idno type="Wing">R185</idno>
+                  <biblScope unit="page" from="260" to="265">260-265</biblScope>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="439" to="442">439-442</biblScope>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="selected_criticism">
+               <bibl type="book">
+                  <author>
+                     <persName>Anna R. Beer</persName>
+                  </author>
+                  <title>Sir Walter Ralegh and his Readers in the Seventeenth Century</title>
+                  <pubPlace>Basingstoke</pubPlace>
+                  <publisher>Macmillan</publisher>
+                  <date>1997</date>
+               </bibl>
+               <bibl type="article">
+                  <author>
+                     <persName>Andrew Fleck</persName>
+                  </author>
+                  <title level="a">"At the Time of His Death": Manuscript Instability and Walter Ralegh's Performance on the Scaffold</title>
+                  <title level="j">Journal of British Studies</title>
+                  <biblScope unit="volume">48</biblScope>
+                  <biblScope unit="number">1</biblScope>
+                  <date>2009</date>
+                  <biblScope unit="page" from="4" to="28">pp. 4–28</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>On 29 October 1618, Ralegh was brought to a scaffold in Westminster's Old Palace Yard to be beheaded. In the final hour before his death, he delivered an apologetic 
+               speech to the gathered crowd justifying his conduct and insisting on his loyalty to King James and on his Christian belief. Many commentators recorded their favourable 
+               impressions of the speech, which helped revive Ralegh's reputation. Several different transcripts were made by onlookers.</p>
+            </abstract>
+         <creation>
+            <date when="1618-10-29">27[i.e. 29] October 1618</date>
+            <placeName corresp="../places/places.xml#PL0007">Palace of Westminster</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>execution</term>
+               <term>France</term>
+               <term>diplomacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-04"/>
+            <change status="proofread" who="#NM" when="2018-06-08"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="21r" facs="/bl/add_ms_11600/add_ms_11600_f021r/add_ms_11600_f021r.jpg"/>
+         <head>
+            S<ex>i</ex>r Wa<add place="above">l</add>ter Rawleigh his speech at his death <lb/>
+            who was beheaded in the Pallace of Westm<ex>inster</ex>r <lb/>
+            the 27th of October 1618./ betweene the <lb/>
+            howres of 8 and 9 in the morning these lords <lb/>
+            being present there.
+         </head>
+         <p>
+            <cb/>
+            The Earle of Arundell <lb/>
+            The Earle of Oxford <lb/>
+            The Earle of Lincolne <lb/>
+            The Earle of Northampton. <lb/>
+            <cb/>
+            Lo<ex>rd</ex> Viscont Doncaster <lb/>
+            Lo<ex>rd</ex> Percy <lb/>
+            Lo<ex>rd</ex> Sheffeild <lb/>
+            Lo<ex>rd</ex> Windsor.
+         </p>
+         <p>
+            And also many k<ex>nigh</ex>ts gent<ex>lemen</ex> of ranke and quality beinge assended
+            <fw type="catch" place="bot-right">the Scaffold</fw>
+            <pb n="21v" facs="/bl/add_ms_11600/add_ms_11600_f021v/add_ms_11600_f021v.jpg"/>
+            the Scaffold he saluted the lords &amp; gentleman present w<ex>hi</ex>ch <lb/>
+            done he spake as followeth./
+         </p>
+         <p>
+            If there shall appeare any disturbance or trembling passion <lb/>
+            in me I desire you not to impute it to any imbicillity or weak=<lb break="no"/>
+            nes of heart but rather to a strong and uiolent feauor that <lb/>
+            is now ready to hinder me in what I intend to say for this <lb/>
+            is now the third fitt &amp; the houre of it is neere at hand for <lb/>
+            yesterday when I was called out of my bed I was in the <lb/>
+            full heate &amp; extreamity thereof &amp; I pray god it may <lb/>
+            now misse me that my voyce may not be hindred in the <lb/>
+            deliuery of that I would say for I desire that your <lb/>
+            lo<ex>rdship</ex>ps may be wittnesses thereof. I thanke god that I <lb/>
+            am deliuered out of darkenes to dye in the light. heere <lb/>
+            the lords most of them being in a window against the <lb/>
+            scaffold desired him to stay his speech &amp; they would <lb/>
+            come downe to him which they did &amp; then he proceeded <lb/>
+            in this manner./
+         </p>
+         <p>
+            As I sayd I thanke god I am come out of darkenes <lb/>
+            to dye in the light I meane imprisonment in the towre <lb/>
+            but concerning the matter for w<ex>hi</ex>ch the king hath taken <lb/>
+            soe great offence against me (being insensed thereunto by <lb/>
+            some) I must confesse that there were some probabilitys <lb/>
+            to moue him thereunto yet farr from truth the mayne <lb/>
+            &amp; materiall poynts thereof are these first that I did <lb/>
+            practise w<ex>i</ex>th France &amp; secondly that I had spoken <lb/>
+            uile naught &amp; scandalous wordes of the kinge./
+         </p>
+         <p>
+            For the first concerning some practise w<ex>i</ex>th Fraunce I <lb/>
+            heere call the eternull god to wittnes that I neuer <lb/>
+            directly nor indirectly had any practise treaty message <lb/>
+            or businesse with the king or state of France or with <lb/>
+            any thence nor neuer had any w<ex>i</ex>th the French Agent nor <lb/>
+            yet neuer saw him vntill he came to me to my howse o <lb/>
+            lord I call thy all seeing Ma<ex>jes</ex>tie to wittnes that I am <lb/>
+            most cleare &amp; innocent herein alas it were a foolish <lb/>
+            maddnes in mee to lye in the pr<ex>e</ex>sence of god to whom I am <lb/>
+            am at this uery instant going &amp; before whom I am <lb/>
+            now to make my accompt for what profitt would it be <lb/>
+            to me to sett a little florish and glosse on these things &amp; <lb/>
+            loose my owne soule for when a man shall desire god 
+            <fw type="catch" place="bot-right">to be a</fw>
+            <pb n="22r" facs="/bl/add_ms_11600/add_ms_11600_f022r/add_ms_11600_f022r.jpg"/>
+            to be a wittnesse of his sayings &amp; he shall then speake falslye <lb/>
+            o what a most fearefull &amp; terrible thing it is to call god to <lb/>
+            <add place="margin">bare</add> wittnes of his falshood, euen in men that haue tyme after it to <lb/>
+            repent then what is it to me that haue noe tyme after this: I <lb/>
+            am now out of the power of the world &amp; am not in case to flatter <lb/>
+            kings, but now am in the power of death, it is true that I did <lb/>
+            intend to fly to <hi rend="italic">Rochell</hi> &amp; to haue liued there vntill I could <lb/>
+            haue wrought my peace, but that <add place="above">I</add> euer intended any enterprise <lb/>
+            or that there was a frentch com<ex>m</ex>ission forth as is surmised &amp; <lb/>
+            hath been strongly enforced against me o lord I renownce thy <lb/>
+            mercyes if I know of any such thing./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f021r/add_ms_11600_f021r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f021v/add_ms_11600_f021v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f022r/add_ms_11600_f022r.jpg"/>
+   </facsimile>
+</TEI>

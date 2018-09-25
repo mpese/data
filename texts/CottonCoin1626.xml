@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opinion Touching the Alteration of Coin</title>
+            <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHarleyMS390.xml">
+               <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 390</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_296">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 296</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_811">
+                    <country>United Kingdom</country>
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Lansdowne</collection>
+                    <idno>MS 811</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_3378">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 3378</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_211">
+                    <country>United Kingdom</country>
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Lansdowne</collection>
+                    <idno>MS 211</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3378.xml">British Library, Egerton MS 3378, ff. 18r–21r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS211.xml">British Library, Lansdowne MS 211, ff. 70r–86r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS811.xml">British Library, Lansdowne MS 811, ff. 140r–156x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1583.xml">British Library, Harley MS 1583, ff. 3r–6r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_296.xml">British Library, Stowe MS 296, ff. 87r–91x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b22.xml">Beinecke Library, Osborn b22, ff. 234r–248v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb158.xml">Beinecke Library, Osborn fb158, item IIId, 121–125, 249</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_119.xml">Bodleian Library,  MS Carte 119, ff. 92r–98r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_280.xml">Bodleian Library,  MS Rawlinson D 280, ff. 6r–12v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_548.xml">Bodleian Library,  MS Rawlinson D 548, ff. 46r–50r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_911.xml">Bodleian Library,  MS Rawlinson D 911, ff. 116r–123r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_310.xml">Folger Shakespeare Library,  MS V.b.310</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_X_d_335.xml">Folger Shakespeare Library,  MS X.d.335, ff. 2r–8r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_291274.xml">Gonville &amp; Caius College,  MS 291/274, pp375–381</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266.xml">Houghton Library,  fMS Eng 1266, volume I, ff.111r–117r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 183–186</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_22.xml">Woburn Abbey,  MS 22, reversing volume, 9–22</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>Robert Cotton</author>
+                  <title>Cottoni Posthuma</title>
+                  <date when="1651">1651</date>
+                  <biblScope unit="page" from="283" to="307">283-307</biblScope>
+                  <biblScope unit="sigs" from="T6r" to="X2r">T6r-X2r</biblScope>
+               </bibl>
+               <bibl>
+                  <author>Robert Cotton</author>
+                  <title>Cottoni Posthuma</title>
+                  <date when="1672">1672</date>
+                  <biblScope unit="page" from="281" to="294">281-294</biblScope>
+                  <biblScope unit="sigs" from="T6r" to="V3v">T6r-V3v</biblScope>
+               </bibl>
+               <bibl>
+                  <author>Robert Cotton</author>
+                  <title>Cottoni Posthuma</title>
+                  <date when="1679">1679</date>
+                  <biblScope unit="page" from="283" to="307">283-307</biblScope>
+                  <biblScope unit="sigs" from="T5r" to="X2r">T5r-X2r</biblScope>
+               </bibl>
+               <bibl>
+                  <author>Robert Cotton</author>
+                  <title>A speech made by Sir Robert Cotton, Kt and Baron[e]t  before the Lords of His Majesty's most  honorable Privy-Council, at the council-table  being thither called to deliver his opinion  touching the alteration of coin</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1690">1690</date>
+                  <idno type="Wing">C6501A</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1626-09-02">2 September 1626</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>coinage</term>
+               <term>The Mint</term>
+               <term>finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+
+         <pb n="117r" facs="/bl/harley_ms_390_part/harley_ms_390_f117r/harley_ms_390_f117r.jpg"/>
+         <head>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">September 1626</tei:add> <lb/>
+            Certaine generall Rules collected <lb/>
+            concerning money &amp; bullion out of <lb/>
+            the late Consultation at Court.
+         </head>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">1</tei:add>Gold &amp; silver haue a twofold estimation; In the extrin<lb break="no"/>
+            sick, as they are moneys, they are the Princes measures giuen to <lb/>
+            his people, &amp; this a prerogatiue of Kings. In the Intrinsick <lb/>
+            they are commodities ualueing each other according to the plentie, <lb/>
+            or scarcitie, &amp; so all other com<ex>m</ex>odities by them; &amp; that is the <lb/>
+            sole power of trade.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">2</tei:add>The measures in a Kingdome ought to be constant. <lb/>
+            It is the Iustice &amp; Honour of the King For if they be altered, <lb/>
+            all men at that instant are deceived in their precedent Con=<lb break="no"/>
+            tracts, either for Lands or Money &amp; the King most of all: for no <lb/>
+            man knoweth then, either what he hath, or what he oweth.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">3</tei:add>This made the Lo<ex>rd</ex> Treasurer Burghleigh in an<ex>n</ex>o .73. <lb/>
+            when some Projectors had sett on foot a matter of this nature <lb/>
+            to tell them, they were worthy to suffer death, for attempting <add place="above">to putt</add> <lb/>
+            so great a dishonour on the Queene, &amp; detriment &amp; discontent <lb/>
+            upon hir people. 
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">4</tei:add>For to alter this publick measure, is to leaue all the Mar=<lb break="no"/>
+            ketts of the Kingdome vnfurnished: And what wilbe the mischeife, <lb/>
+            the Proclamation of 5<hi rend="superscript">to</hi> Edw. 6. 3<hi rend="superscript">o</hi> Maria et 4<hi rend="superscript">to</hi> Elizab: <lb/>
+            will manifest; when but a rumour of the `like produced that effect <lb/>
+            so farre, that besides the faith of the Princes to the contrary <lb/>
+            delivered in their Edicts, they were enforced to cause the <lb/>
+            Magistrates in every shire respectively to constraine the <lb/>
+            people to furnish the Markets, to prevent a Mutiny.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">5</tei:add>To make this Measure then at this time short, is to rayse <lb/>
+            all prices, or to turne the Money or Measure now currant <lb/>
+            into disuse &amp; Bullion. For who will depart with any, when it <lb/>
+            is richer by <hi rend="italic">seven</hi> in the hundred in the Masse, then the new <lb/>
+            Moneys, &amp; yet of no more value in the markett.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">6</tei:add>Hence of necessitie it must follow, that there will not <lb/>
+            in a long time be sufficient minted of the new to drive the <lb/>
+            exchange of the Kingdome: And so all Trade at one instant <lb/>
+            at a stand, &amp; in the meane time the Marketts vnfurnished; <lb/>
+            which how it may concerne the quiet of the State is worthie <lb/>
+            care.
+         </p>
+         <p rend="indent">
+            And thus farre as Money is <lb/>
+            a Measure
+         </p>
+         <p>
+            Now as it is a Com<ex>m</ex>oditie, it is respected &amp; valued by <lb/>
+            the Intrinsecall qualitie: and first the one mettall to the other
+         </p>
+         <p>
+            All com<ex>m</ex>odities are prised by Plenty or Scarcitie; by dearnes or <lb/>
+            cheapnes, the one by the other. If then we desire our Silver <lb/>
+            to buy Gold, as it Late hath done, we must let it be <ex>th</ex>e cheaper <lb/>
+            <fw type="catch" place="bot-right">and</fw>
+            <pb n="117v"/>
+                <add place="header">September 1626</add>
+                <lb/>
+            and lesse in proportion valued; &amp; so contrary: For one equivalent <lb/>
+            proportion in both will bring in neither. We see the proofe <lb/>
+            thereof by the unusuall quantitie of Gold brought lately to the <lb/>
+            Mint, by reason of the price we rate it above all other <lb/>
+            Countries, &amp; Gold may be bought too deere. To furnish <lb/>
+            then this way the Mint with both, is all <add place="above">together</add> impossible
+         </p>
+         <p>
+            And at this time it was apparantly proved both by the <lb/>
+            best Artists &amp; Marchants most acquainted with the Exchange <lb/>
+            in both the Examples of the Mintmasters in the Rex Doller <lb/>
+            &amp; Ryall of 8, that Silver here is of equall value, &amp; Gold <lb/>
+            aboue with the forraine parts in the Intrinsick. &amp; that <lb/>
+            the Fallacy presented to the Lords by the Mintmasters is <lb/>
+            onely in the Nomination or the Extrinsicall qualitie.
+         </p>
+         <p>
+            But if we desire both, it is not the raising of the value <lb/>
+            that doth it, but the ballasing of Trade. For buy we in <lb/>
+            more then we sell of other Commodities, be the money never so <lb/>
+            high prised, we must part with it to make the disproportion <lb/>
+            even: If we sell more then we buy, the contrary will follow.
+         </p>
+         <p>
+            And this is plaine in Spaines necessities: For should that <lb/>
+            King advance to a double rate his Ryall of 8; yet needing <lb/>
+            by reason of the barrennes of his Country, more forraigne <lb/>
+            wares then he can countervaile by exchange w<ex>i</ex>th his owne, <lb/>
+            he must part with his money, &amp; gaineth no more by in=<lb break="no"/>
+            hansing his Coine, but that he payeth a higher price for the <lb/>
+            Commodities he buyeth, if this worke of Raising be his owne. <lb/>
+            But if we shall make improvement of Gold &amp; Silver being <lb/>
+            the Staple Commoditie of His State, we then advancing <lb/>
+            the price of His, abase him to our owne Com<ex>m</ex>modities.
+         </p>
+         <p>
+            To shape this Kingdome to the fashion of the Nether-<lb break="no"/>
+            landers, were to frame a Royall Monarchie by a Societie <lb/>
+            of Merchants. Their Country is a Continuall Faire, &amp; so <lb/>
+            the price of Money must rise &amp; fall to fitt their occassions: <lb/>
+            we see this by raising of the Exchange at Frankfort <lb/>
+            &amp; other places at the vsuall times of their Marts.
+         </p>
+         <p>
+            The frequent &amp; dayly Change in the Lowcountries <lb/>
+            of their Moneys is no such injustice to any there as it would <lb/>
+            be here; For being all either Mechanicks or Merchants, <lb/>
+            they can rate accordingly their labours or their wares, <lb/>
+            (whether it be Coine or other Merchandise,) to the present <lb/>
+            condition of their owne money in Exchange.
+         </p>
+         <pb n="118r"/>
+         <p>
+            <add place="header">September 1626</add>
+            And our English Merchants, to whose profession it pro=<lb break="no"/>
+            perly belongs, do so according to the just Intrinsick value <lb/>
+            of their Forreigne Coine, in all Barter of Com<ex>m</ex>odities or Exchange <lb/>
+            except at Usance; which we, that are ruled &amp; tyed <del rend="strikethrough">
+                    <gap reason="illegible" quantity="5" unit="chars"/>
+                </del> <lb/>
+            by the Extrinsick Measure of Moneys in all our constant <lb/>
+            Reckonings &amp; Annuall Bargaines at home, can not doe.
+         </p>
+         <p>
+            And for vs then to raise our Coine at this time to <lb/>
+            equall their proportions, were but to render our selves to  a <lb/>
+            perpetuall incertaintie: For they will raise vpon vs daily <lb/>
+            then againe, which, if we of course shall follow (else re=<lb break="no"/>
+            ceiue no profitt by this present <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del>change) we then destroy <lb/>
+            the Policie, Iustice, Honour, &amp; Tranquillity of our <lb/>
+            state at home for ever.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_390_part/harley_ms_390_f117r/harley_ms_390_f117r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Account of the Spanish Armado</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS21935.xml">
+               <msIdentifier xml:id="BL_Add_MS_21935">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 21935</idno>
+                <msName>Nehemiah Wallington book</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 21935</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3786.xml">British Library, Harley MS 3786, ff. 75v–76r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72372.xml">British Library, Additional MS 72372, ff. 78r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb57.xml">Beinecke Library, Osborn fb57, ff. 367–371</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1639">1639</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>account</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Spanish Armada</term>
+               <term>Bishops' Wars</term>
+               <term>war</term>
+               <term>foreign policy</term>
+               <term>Spain</term>
+               <term>Catholicism</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-08" who="#TW" status="proofread"/>
+            <change when="2018-08-08" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="86r" facs="/bl/add_ms_21935_part/add_ms_21935_f086r/add_ms_21935_f086r.jpg"/>
+         <gap reason="elision"/>
+         <pb n="86v" facs="/bl/add_ms_21935_part/add_ms_21935_f086v/add_ms_21935_f086v.jpg"/>
+         <gap reason="elision"/>
+         <p>
+            Heere is the gratest Armado now lyes in the downes of <lb/>
+            the Spainyards that Came to our Coost since 88 It Consists <lb/>
+            of Sixty Sixe vescells where of the Admirall Carrys Sixty <lb/>
+            foure peeces of Brasse Ordinances a pieces
+            <fw type="catch" place="bot-right">
+               <add place="below">And</add>
+                    <del rend="superscript">There</del>
+            </fw>
+         </p>
+         <pb n="87r" facs="/bl/add_ms_21935_part/add_ms_21935_f087r/add_ms_21935_f087r.jpg"/>
+         <p>
+            <add place="header" rend="align-centre">1639</add>
+            <add place="header" rend="align-centre">OF a great Nauie of Spainesh Ships at Sea</add>
+            And forty Ships or Gallyes of fifty peeces of Brasse ordinances a <lb/>
+            pieces. There is tenn thousand Land Souldiers, and abundance <lb/>
+            of Siluer designed for Dunkirke But some eaighttene saile of <lb/>
+            Hollandars vnder the Command of the valiant Generall Martin <lb/>
+            Harps: troopes stopt their Course wnad fought Satter day . Sabbath <lb/>
+            day and part of Munday Last, Wherein they say on both sids there <lb/>
+            is aboue three thousand men Slayen, The Spanish Fleet haue take<supplied>n</supplied> <lb/>
+            shelter on our Coast and the Hollanders waite vpon them with <lb/>
+            thirty or fourty Saile of men of warr ouer which they must goe <lb/>
+            to Dunkirke <space extent="3" unit="chars"/> It is said the Duke of Midian is generall of the <lb/>
+            Spainesh fleete
+         </p>
+         <p>
+            Now herein the mercy of God lyes . in that the enemies of God <ex>tha</ex>t <lb/>
+            were among vs had so Contriued after they had stired vp this <lb/>
+            warr with the Scots And our King and Strength of our land were <lb/>
+            in Scotland in fight And so had ordered that there was no looking <lb/>
+            to. nor powder nor other prouison at our Sinkports that so this <lb/>
+            Nauy Should Come suddenly vpon vs. Wee then being vnprepared &amp; <lb/>
+            vnprouided for them: For they hoping we should be in fight with <ex>th</ex>e <lb/>
+            Scots and we vnprouided in our Sinkports, <ex>tha</ex>t then wee mite be the <lb/>
+            souner surprised of them <space unit="chars" extent="3"/> But our God sets in Heauen and Lafes <lb/>
+            them to Scorne for first. We then had no fight with the Scotes <lb/>
+            and our King come home in Safty. And the Lord stired up <ex>th</ex>e  Holenders <lb/>
+            to fight for vs Nay our God himselfe did fight for vs For the means <lb/>
+            ware but small: for but XVIII Saile of Holanders not thinking of <lb/>
+            Svch a Nauie as fiue score &amp; Six saile of Spainyards so prouided <lb/>
+            with fiue score and Sixe peeces of brasse ordinances with tenne <lb/>
+            thousand of Solgers So Suddenly to come And yet the Holenders <lb/>
+            to haue Slayen so many of them makeing them to take <lb/>
+            shelter: haueing but a few of themselues Slayen: I Say <lb/>
+            here is the very grat goodness &amp; marcy of God to vs seen in <lb/>
+            this his Name haue the praise of all I will ouer with this mercy <lb/>
+            againe <ex>tha</ex>t we mite the more Clerely see Gods loue to vs. I Say
+            <fw type="catch" place="bot-right">The</fw>
+            <pb n="87v" facs="/bl/add_ms_21935_part/add_ms_21935_f087v/add_ms_21935_f087v.jpg"/>
+            <add place="header" rend="align-centre">1639</add>
+            <add place="header" rend="align-centre">A Grate deliuerance</add>
+            The great Armado of Spaine in the yeere 1639 prouided as <lb/>
+            most doe Coniecter by the intention of this Spainish and Popes <lb/>
+            faction among vs to Surprise this our natiue Country of Eng<lb break="no"/>
+            land at that time when there was a defience betwene our <lb/>
+            King &amp; the Scots The Lord hath gratiously frostrated their <lb/>
+            purposes and deliuered his Church and Children by a miracellous <lb/>
+            way . wee being without any forse &amp; strength of our one <lb/>
+            rather then wee should perish . the Lord raysed vp another <lb/>
+            Nation to fite for vs. Namely the Hollenders who discouering <lb/>
+            of them when they first came about <ex>th</ex>e first of october set <lb/>
+            vpon them with grat violence and killed So many of their <lb/>
+            men that they were discoueraged in their asinge &amp; before <lb/>
+            they returned one the thertene of the same October they fell <lb/>
+            to battail againe. And the Admorall of Spaine and many other <lb/>
+            grate Ships being so Strong hat Cannon Shot would not enter <lb/>
+            the fired them. So that by fier and watter they were all <lb/>
+            destroyed: Some of them they tooke . Some they burned and <lb/>
+            some they sunke and some ware droue vpon the Sand And few <lb/>
+            Left to goe home to tell the newes:. Praised by our God
+         </p>
+         <p>
+            Before this I did see a nother Letter that shewed how <ex>tha</ex>t the <lb/>
+            King of Spaine hath a grate Nauie of Ships at Lisbon there <lb/>
+            are of them three hundred and twenty grate Ships &amp; Sixty small <lb/>
+            Ships as pinkes &amp; pinnases they are Laden with Souldiers <lb/>
+            and amunition for warre there are Sexty thousand <add place="above">land</add> Souldiers <lb/>
+            and eaight hundred of voluntary nobel men &amp; gentelmen <lb/>
+            thertene thousand Marriners &amp; three thousand gally slaves <lb/>
+            Seuen thousand barrells of gunpowder Three thousand of <lb/>
+            Brasse Ordnances for feld peces . The generall of the <lb/>
+            Army is the Arch Duke of Austry The <del rend="strikethrough">other Comman</del>
+            <pb n="88r" facs="/bl/add_ms_21935_part/add_ms_21935_f088r/add_ms_21935_f088r.jpg"/>
+            <add place="header" rend="align-centr">1639</add>
+            <add place="header" rend="align-centr">A Bvndel of Marcyes</add>
+            The other Commanders are these Duke Dalbargne, Duke <lb/>
+            Endisicke. Duke Baidon. Marquese Debald Don Edmund with <lb/>
+            diuers other Dones whose names are yet to vs vnknowen. There <lb/>
+            is also the young Marquese Spinola with your Earle of Tiron<supplied>e</supplied> <lb/>
+            the Earle Areguill with thirty thousand horses to ione with <lb/>
+            the army the Duke of Sauory is hie Admirall of this fleet <lb/>
+            S<ex>i</ex>r Robart Dudly vise Admirall S<ex>i</ex>r Griffin marke Hammand &amp; <lb/>
+            S<ex>i</ex>r Gvy standly Colonells of the regiments Also the Earle of <lb/>
+            westerland hath grate Command in this Armie the Persia King <lb/>
+            hath sent to Lisbone twenty armed Elaphants but to what end <lb/>
+            as yet is vnknowen the Citie of Dunkirke with other places <lb/>
+            in the neitherlands that are vnder the King of Spains Dominoio<add place="above">ns</add> <lb/>
+            haue prepared eaighty Ships for this Servis
+         </p>
+         <p>
+            The end that I doe take notis of this: is because I did heere it <lb/>
+            reported that they were for England  . but say they were not <lb/>
+            yet this I know our Sinnes deserues it: and the enemies want not <lb/>
+            wills nor mallis for they gnash their teeth and enuy at our peace <lb/>
+            and prosperity: And if God doth strike feare on them that they <lb/>
+            dare not venter on vs . and turne their mindes to goe another <lb/>
+            way: Let Gods name haue all the praise  
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_21935_part/add_ms_21935_f086r/add_ms_21935_f086r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_21935_part/add_ms_21935_f086v/add_ms_21935_f086v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_21935_part/add_ms_21935_f087r/add_ms_21935_f087r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_21935_part/add_ms_21935_f087v/add_ms_21935_f087v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_21935_part/add_ms_21935_f088r/add_ms_21935_f088r.jpg"/>
+   </facsimile>
+</TEI>

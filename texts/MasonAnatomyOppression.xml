@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anatomy of Oppression [incomplete]</title>
+            <author>
+               <persName corresp="../people/people.xml#0106">Robert Mason</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS10611.xml">
+               <msIdentifier xml:id="BL_Add_MS_10611">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 10611</idno>
+               <msName>The Anatomy of Oppression</msName>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 10611</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>James I granted Mason permission to print this in July 1604 (SP 14/8 f.249)</p>
+         </abstract>
+         <creation>
+            <date when="1604">1604</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN"/>
+            <language ident="LA"/>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>treatise</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="1r"/>
+         <head rend="align-centre bold">
+            The Anatomye of Oppression <lb/>
+            or Discouerye of sondrie extre=<lb break="no"/>
+            mities exercised by Subiectes <lb/>
+            one to an other, more cruellie <lb/>
+            then of olde tyme as the latter <lb/>
+            chaunginge of lawes, haue <lb/>
+            geuen further meanes thereof <lb/>
+            then in former ages
+         </head>
+         <p rend="align-centre bold">
+            With an appeale to the <lb/>
+            Kinges Maiestie,
+         </p>
+         <p rend="align-centre bold">
+            Manifesting that his Highnes <lb/>
+            hath absolute power to relieue <lb/>
+            The Oppressed
+         </p>
+         <p rend="align-centre bold">
+            Composed
+            By Robert Mason
+            of Lincolnes Inne
+            Gentleman.
+         </p>
+         <p rend="align-centre">
+            Vitet Censura furorem.
+         </p>
+         <pb n="2r"/>
+         <p>
+             [1r]
+            
+            [Dedicated to James] When I your poore subiecte had, accordinge to my slender Capacitie penned downe some notes to discover the extreame oppression [2r] Inflicted on sondrye your Maiesties Loyall and Lovigne subiectes by Inprisoninge their bodies to the distruction of theire lyves, wth some motives for qualification of that Rigor: I stoode amazed, to whome I might become sutor to Conntneannce that my poore Labor, to Patronize, and protect the same; ffor Usurye, Exaction and Oppression wth their Complices (being the Cheife things therein portraied) have taken possession and hold int he vinusall [?] state of this Kingdome 
+            
+         </p>
+      </body>
+   </text>
+</TEI>

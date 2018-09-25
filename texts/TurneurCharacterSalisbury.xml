@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of Robert, Earl of Salisbury</title>
+            <author>
+               <persName corresp="../people/people.xml#P0214">William Turneur</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_36.xml">British Library, Harley MS 36, ff. 395r–396v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_e_28.xml">Bodleian Library,  MS Eng. hist. e. 28, ff. 436b–436gg</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 145v–149r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_45.xml">Nottingham University Library, Cl LP 45</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_69.xml">The National Archives,  SP 14/69, /59</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_25.xml">Woburn Abbey,  MS 25</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1612">c.1612?</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

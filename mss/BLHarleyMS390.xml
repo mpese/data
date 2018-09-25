@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 390</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+               <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>70r-72r</locus>
+                   <title when="1620-06">Letters to the Heads of Cambridge Colleges</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0008">Thomas Howard, 1st Earl of Berkshire</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0009">George Villiers, 1st Duke of Buckingham</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesBuckinghamBerkshireLettersCambridge1626.xml" type="t_witness"/>
+                   <msDesc>
+                    <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1626-06"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>117r-118r</locus>
+                   <title when="1620-09-02">Opinion Touching the Alteration of Coin</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonCoin1626.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1626-09">September 1626</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>193r</locus>
+                   <title when="1626-01-20">Letter to the Earl of Bristol</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">
+                         Charles I
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesLetterBristol1626.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1627-01-26" notAfter="1627-02-03"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>203v-203r (reversed foliation)</locus>
+                   <title when="1626">Altera Secretissima Instructio</title>
+                   <author/>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/AlteraSecretissimaInstructio1626.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>360r</locus>
+                   <title when="1628">The Danger Wherein the Kingdom Now Standeth and the Remedy (reference)</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note>A reference in a letter from Joseph Meade (8 March 1628) to having received a copy of the text from a friend.</note>
+                   <link target="../texts/CottonDanger1626v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628-03-08">"S<ex>i</ex>r After I had sealed I received a l[ette]re from a freind...he sent me also a Copie of S<ex>i</ex>r R. Cottons advise given to the Lords of the Counsell at their desire (at what time this parlament was intended) how all things might be accommodated. I have not time to read or copie it &amp; so cannot send it till next week."</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>379r-386r</locus>
+                   <title when="1628-04-04">Proceedings at the Council Table, 4 April 1628</title>
+                   <author>
+                      <persName corresp="../people/people.xml#0009">George Villiers, 1st Duke of Buckingham</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note>Newsletter with printed copy of speech</note>
+                   <link target="../texts/VilliersProceedingsCouncilTable1628v2.xml" type="witness"/>
+                   <link target="../texts/VilliersProceedingsCouncilTable1628v1.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628-04-12">
+                            <origPlace corresp="../places/places.xml#PL0012">Christ's College, Cambridge</origPlace>
+                         </origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>417r, 420r</locus>
+                   <title when="1628-06-26">Articles Against Melvin</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade?</name>
+                   </respStmt>
+                   <note>Newsletter with copy of Melvin's speeches</note>
+                   <link target="../texts/ArticlesAgainstMelvin1628.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628-07-05">
+                            <origPlace corresp="../places/places.xml#PL0012">Christ's College, Cambridge</origPlace>
+                         </origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>537r-v</locus>
+                   <title when="1630">Letter to Shah Safi of the Safavid Empire</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesLetterShahSafi1630.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation>Foliation in black ink, corrected in pencil in places (ink foliation struck through). Follows pencil foliation where present.</foliation>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p>Joseph Mede</p>
+                   </handNote>
+                   <handNote n="2">
+                      <p>Sir Martin Stuteville</p>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin from="1626-01-12" to="1631-05-20">Newsletters sent from <persName corresp="..people/people.xml#P0023">Joseph Mede</persName> to <persName corresp="..people/people.xml#P0024">Sir Martin Stuteville</persName>
+                    </origin>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_390_part/harley_ms_390_f070r/harley_ms_390_f070r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_390_part/harley_ms_390_f071r/harley_ms_390_f071r.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_390_part/harley_ms_390_f071v/harley_ms_390_f071v.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_390_part/harley_ms_390_f072r/harley_ms_390_f072r.jpg"/>
+      <graphic n="5" url="/bl/harley_ms_390_part/harley_ms_390_f117r/harley_ms_390_f117r.jpg"/>
+      <graphic n="6" url="/bl/harley_ms_390_part/harley_ms_390_f193r/harley_ms_390_f193r.jpg"/>
+      <graphic n="7" url="/bl/harley_ms_390_part/harley_ms_390_f378r/harley_ms_390_f378r.jpg"/>
+      <graphic n="8" url="/bl/harley_ms_390_part/harley_ms_390_f378v/harley_ms_390_f378v.jpg"/>
+      <graphic n="9" url="/bl/harley_ms_390_part/harley_ms_390_f379r/harley_ms_390_f379r.jpg"/>
+      <graphic n="10" url="/bl/harley_ms_390_part/harley_ms_390_f379v/harley_ms_390_f379v.jpg"/>
+      <graphic n="11" url="/bl/harley_ms_390_part/harley_ms_390_f380r/harley_ms_390_f380r.jpg"/>
+      <graphic n="12" url="/bl/harley_ms_390_part/harley_ms_390_f380v/harley_ms_390_f380v.jpg"/>
+      <graphic n="13" url="/bl/harley_ms_390_part/harley_ms_390_f381r/harley_ms_390_f381r.jpg"/>
+      <graphic n="14" url="/bl/harley_ms_390_part/harley_ms_390_f381v/harley_ms_390_f381v.jpg"/>
+      <graphic n="15" url="/bl/harley_ms_390_part/harley_ms_390_f382r/harley_ms_390_f382r.jpg"/>
+      <graphic n="16" url="/bl/harley_ms_390_part/harley_ms_390_f382v/harley_ms_390_f382v.jpg"/>
+      <graphic n="17" url="/bl/harley_ms_390_part/harley_ms_390_f383r/harley_ms_390_f383r.jpg"/>
+      <graphic n="18" url="/bl/harley_ms_390_part/harley_ms_390_f383v/harley_ms_390_f383v.jpg"/>
+      <graphic n="19" url="/bl/harley_ms_390_part/harley_ms_390_f384r/harley_ms_390_f384r.jpg"/>
+      <graphic n="20" url="/bl/harley_ms_390_part/harley_ms_390_f384v/harley_ms_390_f384v.jpg"/>
+      <graphic n="21" url="/bl/harley_ms_390_part/harley_ms_390_f385r/harley_ms_390_f385r.jpg"/>
+      <graphic n="22" url="/bl/harley_ms_390_part/harley_ms_390_f385v/harley_ms_390_f385v.jpg"/>
+      <graphic n="23" url="/bl/harley_ms_390_part/harley_ms_390_f386r/harley_ms_390_f386r.jpg"/>
+      <graphic n="24" url="/bl/harley_ms_390_part/harley_ms_390_f420r/harley_ms_390_f420r.jpg"/>
+      <graphic n="25" url="/bl/harley_ms_390_part/harley_ms_390_f537r/harley_ms_390_f537r.jpg"/>
+      <graphic n="26" url="/bl/harley_ms_390_part/harley_ms_390_f537v/harley_ms_390_f537v.jpg"/>
+   </facsimile>
+</TEI>

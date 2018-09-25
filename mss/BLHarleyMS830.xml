@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 830</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_830">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 830</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>38r-52r</locus>
+                   <title when="1617-05-07">Speech at First Taking His Seat in Chancery</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BaconSpeechChancery1617v1.xml" type="witness"/>
+                   <link target="../texts/BaconSpeechChancery1617v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>53r-60v</locus>
+                   <title when="1618">Opinion on Sutton's Charity</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BaconSuttonCharity.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>66r-98v</locus>
+                   <title>Of the Original of Ecclesiastical Jurisdiction of Testaments</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0208">John Selden</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/SeldenOriginallEcclesiasticalJurisdiction.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin>'Just Pagitt Febr 23' (f.66r)</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>211x-217x</locus>
+                   <title when="1624-04-27">A Relation of the Proceedings against Ambassadors who have Miscarried Themselves</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonProceedingsAgainstAmbassadors1624.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

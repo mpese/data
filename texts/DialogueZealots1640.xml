@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue Between Two Zealots Concerning the &amp;c in the New Oath</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1467">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1467</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_24863">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 24863</idno>
+                  <msName/>
+               </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS24863.xml">British Library, Additional MS 24863, ff. 86r–87v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1467.xml">British Library, Sloane MS 1467, ff. 1r–1v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b200.xml">Beinecke Library, Osborn b200, ff. 268–279</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Douce_357.xml">Bodleian Library,  MS Douce 357, ff. 4v–5v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_poetry_26.xml">Bodleian Library,  MS Rawlinson poetry 26, ff. 94r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_MSP_9.xml">Durham University Library, MSP 9, reversing the volume, 192–193</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_466.xml">The National Archives,  SP 16/466, /42 [ff.132v–133v]</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>verse</term>
+               <term>dialogue</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-30" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="69v" facs="/bl/add_ms_22959/add_ms_22959_f069v/add_ms_22959_f069v.jpg"/>
+         <head rend="italic">
+            A Dialogue between two Zelots <lb/>
+            concerning /&amp;c/ in the newe oath.
+         </head>
+         <lg rend="italic">
+            <l>S<ex>i</ex>r Roger from a zealous piece of freeze</l>
+            <l>Raisd' to a vicar but without degrees:</l>
+            <l>Whose yeerly auditt may by strict accompt</l>
+            <l>To xx nobles and his veiles amount</l>
+            <l>Fedde on the Common of the Female charity</l>
+            <l>Vntill the Scottes can bring about theire parity.</l>
+            <pb n="70r" facs="/bl/add_ms_22959/add_ms_22959_f070r/add_ms_22959_f070r.jpg"/>
+            <l>So shotten that his soule much like himselfe</l>
+            <l>Walkes but in Quirpo; this same Clergie else</l>
+            <l>Encountring with a brother of the cloath</l>
+            <l>Fell presently to cudgels with the Oath</l>
+            <l>The quarrell was a strange mis-shapen monster</l>
+            <l>&amp;c: (god blesse us) which they conster</l>
+            <l>The Brand upon the buttocke of the Beast</l>
+            <l>The Dragons tayle tied on a knott: a Neast</l>
+            <l>Of yong Apocrypha'<del rend="strikethrough">l</del>s, the fashion</l>
+            <l>Of a new mentall reseruation</l>
+            <l>Whiles Roger thus derides the text, the other</l>
+            <l>Winkes and expoundes, saying, my pious brother</l>
+            <l>Hearken with reuerence for the point is nice</l>
+            <l>I neuer read ont' but I fasted twice</l>
+            <l>And so by Reuelation know it better</l>
+            <l>Then all the learn'de Idolaters of the Letter</l>
+            <l>With that he swel'de and sette upon the Theame</l>
+            <l>Like great Goliah with his Weauers beame</l>
+            <l>I say to the &amp;c thou lyest</l>
+            <l>Thou art the curled locke of Anti-Christ</l>
+            <l>Rubbish of Babel for who will not say</l>
+            <l>Tongues are confounded in et cetera?</l>
+            <l>Who sweares &amp;c sweares more oathes at once</l>
+            <l>Then Cerberus out of his triple sconce</l>
+            <l>Who uiewes it well with the same eye beholdes</l>
+            <l>The ould false serpent in his numerous foldes</l>
+            <l>Accurs'd &amp;c now now I sent</l>
+            <l>What the prodigious bloudy oysters meant</l>
+            <l>Oh Bowker Bowker how cam'st thou to lacke</l>
+            <l>This fiend in thy Prophetick Almanacke?</l>
+            <l>'Tis the darke uault where the infernall plott</l>
+            <l>Of Powder gainst the State was first begotte</l>
+            <pb n="70v" facs="/bl/add_ms_22959/add_ms_22959_f070v/add_ms_22959_f070v.jpg"/>
+            <l>Peruse the Oath and you shall soon descry it</l>
+            <l>By all the Father<del rend="strikethrough">s</del> Garnets that stand by it</l>
+            <l>Gainst which the Church whereof I am a member</l>
+            <l>Shall keep another Fifth day of Nouember</l>
+            <l>Nay heeres not all I cannot halfe untrusse</l>
+            <l>Et cetera ‘tis so abdominous</l>
+            <l>The Trojan Nagge was not so fully lin’de</l>
+            <l>Vnrippe &amp;c and you shall finde</l>
+            <l>Ogg the great Commissary and which is worse </l>
+            <l>
+                    <add place="LM">
+                        <hi rend="underline">Skewbald</hi>
+                    </add>The Apparitor upon the skew-balde horse</l>
+            <l>Then finally my babe of grace forbeare</l>
+            <l>Et cetera will be too large to sweare</l>
+            <l>For 'tis (to speake in a familier stile)</l>
+            <l>A Yorkeshire way-bit longer then a mile</l>
+            <l>Heere Roger was inspirde and by Gods diggers</l>
+            <l>Heele sweare in wordes at length and not in figures</l>
+            <l>No by this drinke which he takes of as loath</l>
+            <l>To leaue &amp;c in his liquid oath</l>
+            <l>His brother pledg'de him and in that bloudy wine</l>
+            <l>He sweares hee’l be the Synods Catiline</l>
+            <l>Thus they dranke on not offering to parte</l>
+            <l>Till they had sworne out the eleuenth quart</l>
+            <l>Whiles all that heard and saw them jointly say</l>
+            <l>They and theire tribe were all - &amp;c.</l>
+         </lg>
+         <p rend="italic">
+                <foreign xml:lang="la">In cathedra derisorum ne sedeam Psa. 1.</foreign>
+            </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f069v/add_ms_22959_f069v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f070r/add_ms_22959_f070r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22959/add_ms_22959_f070v/add_ms_22959_f070v.jpg"/>
+   </facsimile>
+</TEI>

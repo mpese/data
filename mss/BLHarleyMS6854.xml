@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 6854</title>
+            <respStmt xml:id="NM">
+                <name>Noah Millstone</name>
+                <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+                <name>Sebastiaan Verweij</name>
+                <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+                <name>Richard Bell</name>
+                <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                <name>Mike Jones</name>
+                <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+        </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_6854">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6854</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                    <locus>3r-14r</locus>
+                    <title when="1613">Challenges</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0110">Lord Edward Bruce</persName>
+                    </author>
+                    <author>
+                        <persName corresp="../people/people.xml#P0111">Sir Edward Sackville</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/BruceSackvilleChallenges1613v1.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v2.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v3.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v4.xml" type="t_witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v5.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v6.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v7.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v8.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                 <msItem n="2">
+                     <locus>129x-142x</locus>
+                     <title when="1628">A Parallel of Robert Devereux, Earl of Essex, and George Villiers, Duke of Buckingham</title>
+                     <author>
+                         <persName corresp="../people/people.xml#P0178">Sir Henry Wotton</persName>
+                     </author>
+                     <respStmt>
+                         <resp/>
+                         <name/>
+                     </respStmt>
+                     <note/>
+                     <link target="../texts/WottonParallelEssexBuckingham.xml" type="witness"/>
+                     <msDesc>
+                         <msIdentifier/>
+                         <history>
+                             <summary/>
+                             <origin>Here unattributed</origin>
+                             <provenance/>
+                         </history>
+                     </msDesc>
+                 </msItem>
+                 <msItem n="3">
+                     <locus>145x-176x</locus>
+                     <title when="1630">The Disparity and Difference Between George Villiers, Duke of Buckingham, and Robert Devereux, Earl of Essex</title>
+                     <author>
+                         <persName corresp="../people/people.xml#P0177">Edward Hyde</persName>
+                     </author>
+                     <respStmt>
+                         <resp/>
+                         <name/>
+                     </respStmt>
+                     <note/>
+                     <link target="../texts/HydeDifferenceEssexBuckingham.xml" type="witness"/>
+                     <msDesc>
+                         <msIdentifier/>
+                         <history>
+                             <summary/>
+                             <origin/>
+                             <provenance/>
+                         </history>
+                     </msDesc>
+                 </msItem>
+                 <msItem n="4">
+                    <locus>341x-380x</locus>
+                    <title when="1631">The Manner of the Trial Between Donald Lord Reay and David Ramsey</title>
+                    <author/>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                     <link target="../texts/ReayRamseyTrial1631.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                 </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>British Library Stowe MS 402</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Stowe_MS_402">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 402</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>1r-2r</locus>
+                  <title>Libel Against the Earl of Essex</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0175">Lady Frances Howard</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HowardLibelAgainstEssex1613.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>2r-4v</locus>
+                  <title>Letters on the Essex Nullity</title>
+                        <author>
+                    <persName corresp="../people/people.xml#P0015">James VI/I</persName>
+                </author>
+                        <author>
+                    <persName corresp="../people/people.xml#P0015">George Abbot</persName>
+                </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/AbbotJamesNullity1613.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>5r-11r</locus>
+                  <title>The First Arraingment of Richard Weston at Guildhall</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WestonFirstArraingment1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>11r-14v</locus>
+                  <title>The Second Arraignment of Richard Weston</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WestonSecondArraignment1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>14v-16v</locus>
+                  <title>The Arraignment of Ann Turner, Widow, at the King's Bench</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/TurnerArraignment1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>17r-19v</locus>
+                  <title>The Arraignment of Sir Gervase Elwes, Lieutenant of the Tower</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ElwesArraignment1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>19v-21v</locus>
+                  <title>Speech and Repentance at His Execution</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0165">Sir Gervase Elwes</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ElwesSpeechRepentance1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>22r-v</locus>
+                  <title>Proceedings at the Arraignment of James Franklin</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/FranklinProceedingsArraignment1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>22v-23v</locus>
+                  <title>The First Proceedings Against Sir Thomas Mounson</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/MounsonFirstProceedings1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>32r-33r</locus>
+                  <title>Letter to King James regarding Sir Edward Coke</title>
+                        <author>
+               Privy Council
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PrivyCouncilLetterRegardingCoke1616.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation>folio</foliation>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

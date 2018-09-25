@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilium Rengnans</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee556.xml">Cambridge University Library,  MS Ee.5.56, f. 2v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1622">1622</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>prophecy</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>prophecy</term>
+               <term>political conflict</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-16" who="#RB" status="proofread"/>
+            <change when="2018-03-16" who="#RB" status="draft"/>
+            <change when="2010" who="#NM" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="102r" facs="/bl/add_ms_28640/add_ms_28640_f102r/add_ms_28640_f102r.jpg"/>
+         <p>
+            <add place="header">
+               <handShift medium="light ink"/>
+               <add place="LM">
+                  The difference I <lb/>
+                  haue thus set down.
+               </add>
+               1642 In the time of our Ciuill warres this was printed <lb/>
+               among other idle p<ex>ro</ex>phecies, as the p<ex>ro</ex>phesie of Mr Truswell Recorder of Lincoln.
+            </add>
+            <handShift medium="dark ink"/>
+            The Lilly shall reigne in a <hi rend="underline">noble worlde</hi>
+                <add place="LM">
+                    <handShift medium="light ink"/>merry world.</add>
+                <handShift medium="dark ink"/>, &amp; he shall be moved a=<lb break="no"/>
+            gainst the seed of the Lyon, &amp; he shall stande <hi rend="underline">in his fielde</hi> <add place="LM">
+                    <handShift medium="light ink"/>on one side</add>
+                <handShift medium="dark ink"/> among <lb/>
+            thornes in his kingdome. <space unit="chars" extent="8"/> Then shall come the sonne of man <lb/>
+            bearing three wilde beastes in his Armes, whose kingdome is the <lb/>
+            land of hte moone, he is to be dreade over all the world, <space unit="chars" extent="3"/> And with <lb/>
+            greate people, he shall passe waters, &amp; he shall come into the lande <lb/>
+            of the Lyon in <hi rend="underline">looking for helpe — <ex>tha</ex>t which his beast of that co<ex>u</ex>
+                </hi>
+                <add place="LM">helpe with the <lb/>beastes of his own <lb/>country.</add>
+                <lb break="no"/>
+            try hath all to rente his skinne <space unit="chars" extent="5"/> And in that yeere shall come an <lb/>
+            Eagle out of the Easte &amp; his wings spredde with the <hi rend="underline">sonne</hi>
+                <add place="LM">sunne</add> with a <lb/>
+            greate multitude of his chickens vnto the helpe of the sonne of man <lb/>
+            And in that yeere shall be <hi rend="underline">destructions of Castles</hi> &amp; <hi rend="underline">greate fyer</hi>
+                <add place="LM">castles upon the <lb/>Thames / great <lb/> feare./</add> shall <lb/>
+            be over all the world, &amp; in a parte of thie lande of the <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> Lyon there <lb/>
+            shall be a greate battaile among <hi rend="underline">many kings,</hi>
+                <add place="LM">many kingdomes.</add> &amp; that day shall be <lb/>
+            the bloudie field &amp; the Lily shall loose his crowne, with the which <lb/>
+            afterwards the sonne of man shall be crowned. <space unit="chars" extent="3"/> And within 4 y- <lb/>
+            after there shall be many battailes for the faith <space unit="chars" extent="3"/> And the most p<ex>ar</ex>t <lb/>
+            of the world shall be destroyed &amp; the heade of the worlde shall be <lb/>
+            made to stoupe, but the sonne of man with the Eagle shall prevaile. <lb/>
+            And then shall be an vniu<ex>er</ex>sall peace over all the worlde. <space unit="chars" extent="3"/> And the<ex>n</ex> <lb/>
+            shall be greate plenty of all manner of fruites. And the sonne of <lb/>
+            man shall take an vniu<ex>er</ex>sall token. <space extent="2" unit="chars"/> &amp; shall vp to the <hi rend="underline">lande of the <lb/>
+            Easte</hi>
+                <add place="LM">land of the <lb/>Crosse</add> &amp; then the first cause shall be fulfilled &amp; abide for ever.
+         </p>
+         <p rend="align-centre">
+            This was sent me by Mr Tho. Lammas
+         </p>
+         <p>
+            In the 7th line I haue lefte a space more the<ex>n</ex> was in the copie be=<lb break="no"/>
+            cause I suppose there is a defecte of a worde or two.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f102r/add_ms_28640_f102r.jpg"/>
+   </facsimile>
+</TEI>

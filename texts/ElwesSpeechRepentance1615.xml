@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech and Repentance at His Execution</title>
+            <author>
+               <persName corresp="../people/people.xml#P0165">Sir Gervase Elwes</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1893.xml">British Library, Harley MS 1893</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_34218.xml">British Library, Additional MS 34218, ff. 226r–227v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_35832.xml">British Library, Additional MS 35832, ??</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_401.xml">British Library, Stowe MS 401, ff. 39v–44v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_402.xml">British Library, Stowe MS 402, ff. 19v–21v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, ff. 51–55</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_1227.xml">Harvard Law School,  MS 1227</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Legal_Papers_Box_1.xml">Huntington Library, Hastings Legal Papers Box 1, Item 16</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/University_College_Oxford_MS_152.xml">University College,  MS 152 [on deposit at the Bodleian], ff. 80–94</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0165">Sir Gervase Elwes</persName>
+                  </author>
+                  <title>The lieutenant of the Tower his speech and repentance, at the time of his death</title>
+                  <date when="1615">1615</date>
+                  <idno type="STC">7626</idno>
+                  <idno type="STC">7626.5</idno>
+                  <idno type="STC">7627</idno>
+                  <biblScope unit="page" from="8" to="10">8-10</biblScope>
+                  <biblScope unit="sigs" from="B1v" to="B2v">B1v-B2v</biblScope>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">The Harleian Miscellany</title>
+                  <edition>1st ed.</edition> 
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="page" from="514" to="518">514-518</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1615-11-20">20 November 1615</date>
+            <placeName corresp="../places/places.xml#PL0037">Tower Hill</placeName>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term>scaffold speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Overbury affair</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

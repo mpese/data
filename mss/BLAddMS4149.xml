@@ -1,0 +1,699 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Add MS 4149</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>109r-110v</locus>
+                   <title when="1603-04-10">Letter Written at Newcastle to the Peers of England and the Privy Council</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0016">James I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JamesILetterNewcastle1603.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>114r-131v</locus>
+                   <title when="1604">Certain Articles or Considerations Touching the Union of the Kingdoms of England and Scotland</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey?</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ArticlesUnionEnglandScotland.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>132r-152v</locus>
+                   <title when="1607">A Discourse of the State of Spain</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CornwallisDiscourseSpain1607.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>152r-158r</locus>
+                   <title when="1607-09">A Discourse to prove that conjunction by alliance of marriage of England and Spain is the most safe, honorable and profitablest course for both the monarchies</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CornwallisDiscourseSpanishEnglishMarriage1607.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>158r-162v</locus>
+                   <title when="1620-06">Letter to the Marquess of Buckingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0014">Thomas Alured</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/AluredLetterBuckingham1620v2.xml" type="t_witness"/>
+                   <link target="../texts/AluredLetterBuckingham1620v1.xml" type="witness"/>
+                   <link target="../texts/AluredLetterBuckingham1620v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>163r-172v</locus>
+                   <title when="1625-01-03">A Relation of the Carriage of the Marriages that Should Have Been Made</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0122">John Digby, 1st Earl of Bristol</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DigbyRelationCarriageMarriage1625.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>183r-183v</locus>
+                   <title when="1606-08-14">Letter to James I Concerning a Supposed Scandal Touching the Countess of Nottingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0123">Christian IV, King of Denmark</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0108">"Feathery"?</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DenmarkToJamesI1606.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>184r-192v</locus>
+                   <title when="1611">A Match Propounded by the Savoian Betweene the Lady Elizabeth &amp; the Prince of Piedmont</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/MatchPrincessElizabethPrincePiedmont.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>193r-203v</locus>
+                   <title when="1611">A Discourse Touching a Marriage between Prince Henry of England and a Daughter of Savoy</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DiscourseMarriagePrinceHenrySavoy.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="10">
+                   <locus>204r-209v</locus>
+                   <title when="1614-06">Apology to James I</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CornwallisApology1614.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="11">
+                   <locus>210r-211r</locus>
+                   <title when="1613">Challenges</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0110">Lord Edward Bruce</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0111">Sir Edward Sackville</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BruceSackvilleChallenges1613v1.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v2.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v3.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v4.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v5.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v6.xml" type="t_witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v7.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v8.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="12">
+                   <locus>211r-213r</locus>
+                   <title>His Dream (a sonnett)</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0126">
+                         John Hoskins
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="13">
+                   <locus>216r-217v</locus>
+                   <title when="1617-04-16">Commission to Treat for a Marriage with Maria of Spain</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0122">John Digby, 1st Earl of Bristol</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DigbyCommissionTreatMarriageWithMariaSpain1617.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="14">
+                   <locus>218r-225v</locus>
+                   <title when="1622">Considerations upon the Treaty of Marriage between England and Spain</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv1.xml" type="t_witness"/>
+                   <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="15">
+                   <locus>226r-236v</locus>
+                   <title when="1622">Relation of all the Important Passages of the Treaty held at Brussels between the Ministers of the Archdukes and Sir Richard Weston</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RelationTreatBrussels1622.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="16">
+                   <locus>282r-283v</locus>
+                   <title when="1623">Speeches and Letters Concerning the Spanish Match</title>
+                   <author>
+                      <persName corresp="..people/people.xml#P0007">Charles Stuart, Prince of Wales</persName>
+                   </author>
+                   <author>
+                      <persName corresp="..people/people.xml#P0219">Phillip IV, King of Spain</persName>
+                   </author>
+                   <author>
+                      <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v3.xml" type="t_witness"/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v1.xml" type="witness"/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="17">
+                   <locus>323r-327v</locus>
+                   <title when="1621-07-31">Speech to the Commissioners at the Guild Hall</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0021">John Williams, Bishop of Lincoln</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0108">"Feathery"</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/WilliamsSpeechCommissionersGuildhall1621.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance>Owned by Simonds D'Ewes</provenance>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f109r/add_ms_4149_f109r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f109v/add_ms_4149_f109v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f110r/add_ms_4149_f110r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f110v/add_ms_4149_f110v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_4149_part/add_ms_4149_f114r/add_ms_4149_f114r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_4149_part/add_ms_4149_f114v/add_ms_4149_f114v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_4149_part/add_ms_4149_f115r/add_ms_4149_f115r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_4149_part/add_ms_4149_f115v/add_ms_4149_f115v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_4149_part/add_ms_4149_f116r/add_ms_4149_f116r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_4149_part/add_ms_4149_f116v/add_ms_4149_f116v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_4149_part/add_ms_4149_f117r/add_ms_4149_f117r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_4149_part/add_ms_4149_f117v/add_ms_4149_f117v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_4149_part/add_ms_4149_f118r/add_ms_4149_f118r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_4149_part/add_ms_4149_f118v/add_ms_4149_f118v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_4149_part/add_ms_4149_f119r/add_ms_4149_f119r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_4149_part/add_ms_4149_f119v/add_ms_4149_f119v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_4149_part/add_ms_4149_f120r/add_ms_4149_f120r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_4149_part/add_ms_4149_f120v/add_ms_4149_f120v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_4149_part/add_ms_4149_f121r/add_ms_4149_f121r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_4149_part/add_ms_4149_f121v/add_ms_4149_f121v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_4149_part/add_ms_4149_f122r/add_ms_4149_f122r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_4149_part/add_ms_4149_f122v/add_ms_4149_f122v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_4149_part/add_ms_4149_f123r/add_ms_4149_f123r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_4149_part/add_ms_4149_f123v/add_ms_4149_f123v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_4149_part/add_ms_4149_f124r/add_ms_4149_f124r.jpg"/>
+      <graphic n="26" url="/bl/add_ms_4149_part/add_ms_4149_f124v/add_ms_4149_f124v.jpg"/>
+      <graphic n="27" url="/bl/add_ms_4149_part/add_ms_4149_f125r/add_ms_4149_f125r.jpg"/>
+      <graphic n="28" url="/bl/add_ms_4149_part/add_ms_4149_f125v/add_ms_4149_f125v.jpg"/>
+      <graphic n="29" url="/bl/add_ms_4149_part/add_ms_4149_f126r/add_ms_4149_f126r.jpg"/>
+      <graphic n="30" url="/bl/add_ms_4149_part/add_ms_4149_f126v/add_ms_4149_f126v.jpg"/>
+      <graphic n="31" url="/bl/add_ms_4149_part/add_ms_4149_f127r/add_ms_4149_f127r.jpg"/>
+      <graphic n="32" url="/bl/add_ms_4149_part/add_ms_4149_f127v/add_ms_4149_f127v.jpg"/>
+      <graphic n="33" url="/bl/add_ms_4149_part/add_ms_4149_f128r/add_ms_4149_f128r.jpg"/>
+      <graphic n="34" url="/bl/add_ms_4149_part/add_ms_4149_f128v/add_ms_4149_f128v.jpg"/>
+      <graphic n="35" url="/bl/add_ms_4149_part/add_ms_4149_f129r/add_ms_4149_f129r.jpg"/>
+      <graphic n="36" url="/bl/add_ms_4149_part/add_ms_4149_f129v/add_ms_4149_f129v.jpg"/>
+      <graphic n="37" url="/bl/add_ms_4149_part/add_ms_4149_f130r/add_ms_4149_f130r.jpg"/>
+      <graphic n="38" url="/bl/add_ms_4149_part/add_ms_4149_f130v/add_ms_4149_f130v.jpg"/>
+      <graphic n="39" url="/bl/add_ms_4149_part/add_ms_4149_f131r/add_ms_4149_f131r.jpg"/>
+      <graphic n="40" url="/bl/add_ms_4149_part/add_ms_4149_f131v/add_ms_4149_f131v.jpg"/>
+      <graphic n="41" url="/bl/add_ms_4149_part/add_ms_4149_f132r/add_ms_4149_f132r.jpg"/>
+      <graphic n="42" url="/bl/add_ms_4149_part/add_ms_4149_f132v/add_ms_4149_f132v.jpg"/>
+      <graphic n="43" url="/bl/add_ms_4149_part/add_ms_4149_f133r/add_ms_4149_f133r.jpg"/>
+      <graphic n="44" url="/bl/add_ms_4149_part/add_ms_4149_f133v/add_ms_4149_f133v.jpg"/>
+      <graphic n="45" url="/bl/add_ms_4149_part/add_ms_4149_f134r/add_ms_4149_f134r.jpg"/>
+      <graphic n="46" url="/bl/add_ms_4149_part/add_ms_4149_f134v/add_ms_4149_f134v.jpg"/>
+      <graphic n="47" url="/bl/add_ms_4149_part/add_ms_4149_f135r/add_ms_4149_f135r.jpg"/>
+      <graphic n="48" url="/bl/add_ms_4149_part/add_ms_4149_f135v/add_ms_4149_f135v.jpg"/>
+      <graphic n="49" url="/bl/add_ms_4149_part/add_ms_4149_f136r/add_ms_4149_f136r.jpg"/>
+      <graphic n="50" url="/bl/add_ms_4149_part/add_ms_4149_f136v/add_ms_4149_f136v.jpg"/>
+      <graphic n="51" url="/bl/add_ms_4149_part/add_ms_4149_f137r/add_ms_4149_f137r.jpg"/>
+      <graphic n="52" url="/bl/add_ms_4149_part/add_ms_4149_f137v/add_ms_4149_f137v.jpg"/>
+      <graphic n="53" url="/bl/add_ms_4149_part/add_ms_4149_f138r/add_ms_4149_f138r.jpg"/>
+      <graphic n="54" url="/bl/add_ms_4149_part/add_ms_4149_f138v/add_ms_4149_f138v.jpg"/>
+      <graphic n="55" url="/bl/add_ms_4149_part/add_ms_4149_f139r/add_ms_4149_f139r.jpg"/>
+      <graphic n="56" url="/bl/add_ms_4149_part/add_ms_4149_f139v/add_ms_4149_f139v.jpg"/>
+      <graphic n="57" url="/bl/add_ms_4149_part/add_ms_4149_f140r/add_ms_4149_f140r.jpg"/>
+      <graphic n="58" url="/bl/add_ms_4149_part/add_ms_4149_f140v/add_ms_4149_f140v.jpg"/>
+      <graphic n="59" url="/bl/add_ms_4149_part/add_ms_4149_f141r/add_ms_4149_f141r.jpg"/>
+      <graphic n="60" url="/bl/add_ms_4149_part/add_ms_4149_f141v/add_ms_4149_f141v.jpg"/>
+      <graphic n="61" url="/bl/add_ms_4149_part/add_ms_4149_f142r/add_ms_4149_f142r.jpg"/>
+      <graphic n="62" url="/bl/add_ms_4149_part/add_ms_4149_f142v/add_ms_4149_f142v.jpg"/>
+      <graphic n="63" url="/bl/add_ms_4149_part/add_ms_4149_f143r/add_ms_4149_f143r.jpg"/>
+      <graphic n="64" url="/bl/add_ms_4149_part/add_ms_4149_f143v/add_ms_4149_f143v.jpg"/>
+      <graphic n="65" url="/bl/add_ms_4149_part/add_ms_4149_f144r/add_ms_4149_f144r.jpg"/>
+      <graphic n="66" url="/bl/add_ms_4149_part/add_ms_4149_f144v/add_ms_4149_f144v.jpg"/>
+      <graphic n="67" url="/bl/add_ms_4149_part/add_ms_4149_f145r/add_ms_4149_f145r.jpg"/>
+      <graphic n="68" url="/bl/add_ms_4149_part/add_ms_4149_f145v/add_ms_4149_f145v.jpg"/>
+      <graphic n="69" url="/bl/add_ms_4149_part/add_ms_4149_f146r/add_ms_4149_f146r.jpg"/>
+      <graphic n="70" url="/bl/add_ms_4149_part/add_ms_4149_f146v/add_ms_4149_f146v.jpg"/>
+      <graphic n="71" url="/bl/add_ms_4149_part/add_ms_4149_f147r/add_ms_4149_f147r.jpg"/>
+      <graphic n="72" url="/bl/add_ms_4149_part/add_ms_4149_f147v/add_ms_4149_f147v.jpg"/>
+      <graphic n="73" url="/bl/add_ms_4149_part/add_ms_4149_f148r/add_ms_4149_f148r.jpg"/>
+      <graphic n="74" url="/bl/add_ms_4149_part/add_ms_4149_f148v/add_ms_4149_f148v.jpg"/>
+      <graphic n="75" url="/bl/add_ms_4149_part/add_ms_4149_f149r/add_ms_4149_f149r.jpg"/>
+      <graphic n="76" url="/bl/add_ms_4149_part/add_ms_4149_f149v/add_ms_4149_f149v.jpg"/>
+      <graphic n="77" url="/bl/add_ms_4149_part/add_ms_4149_f150r/add_ms_4149_f150r.jpg"/>
+      <graphic n="78" url="/bl/add_ms_4149_part/add_ms_4149_f150v/add_ms_4149_f150v.jpg"/>
+      <graphic n="79" url="/bl/add_ms_4149_part/add_ms_4149_f151r/add_ms_4149_f151r.jpg"/>
+      <graphic n="80" url="/bl/add_ms_4149_part/add_ms_4149_f151v/add_ms_4149_f151v.jpg"/>
+      <graphic n="81" url="/bl/add_ms_4149_part/add_ms_4149_f152r/add_ms_4149_f152r.jpg"/>
+      <graphic n="82" url="/bl/add_ms_4149_part/add_ms_4149_f152v/add_ms_4149_f152v.jpg"/>
+      <graphic n="83" url="/bl/add_ms_4149_part/add_ms_4149_f153r/add_ms_4149_f153r.jpg"/>
+      <graphic n="84" url="/bl/add_ms_4149_part/add_ms_4149_f153v/add_ms_4149_f153v.jpg"/>
+      <graphic n="85" url="/bl/add_ms_4149_part/add_ms_4149_f154r/add_ms_4149_f154r.jpg"/>
+      <graphic n="86" url="/bl/add_ms_4149_part/add_ms_4149_f154v/add_ms_4149_f154v.jpg"/>
+      <graphic n="87" url="/bl/add_ms_4149_part/add_ms_4149_f155r/add_ms_4149_f155r.jpg"/>
+      <graphic n="88" url="/bl/add_ms_4149_part/add_ms_4149_f155v/add_ms_4149_f155v.jpg"/>
+      <graphic n="89" url="/bl/add_ms_4149_part/add_ms_4149_f156r/add_ms_4149_f156r.jpg"/>
+      <graphic n="90" url="/bl/add_ms_4149_part/add_ms_4149_f156v/add_ms_4149_f156v.jpg"/>
+      <graphic n="91" url="/bl/add_ms_4149_part/add_ms_4149_f157r/add_ms_4149_f157r.jpg"/>
+      <graphic n="92" url="/bl/add_ms_4149_part/add_ms_4149_f157v/add_ms_4149_f157v.jpg"/>
+      <graphic n="93" url="/bl/add_ms_4149_part/add_ms_4149_f158r/add_ms_4149_f158r.jpg"/>
+      <graphic n="94" url="/bl/add_ms_4149_part/add_ms_4149_f158v/add_ms_4149_f158v.jpg"/>
+      <graphic n="95" url="/bl/add_ms_4149_part/add_ms_4149_f159r/add_ms_4149_f159r.jpg"/>
+      <graphic n="96" url="/bl/add_ms_4149_part/add_ms_4149_f159v/add_ms_4149_f159v.jpg"/>
+      <graphic n="97" url="/bl/add_ms_4149_part/add_ms_4149_f160r/add_ms_4149_f160r.jpg"/>
+      <graphic n="98" url="/bl/add_ms_4149_part/add_ms_4149_f160v/add_ms_4149_f160v.jpg"/>
+      <graphic n="99" url="/bl/add_ms_4149_part/add_ms_4149_f161r/add_ms_4149_f161r.jpg"/>
+      <graphic n="100" url="/bl/add_ms_4149_part/add_ms_4149_f161v/add_ms_4149_f161v.jpg"/>
+      <graphic n="101" url="/bl/add_ms_4149_part/add_ms_4149_f162r/add_ms_4149_f162r.jpg"/>
+      <graphic n="102" url="/bl/add_ms_4149_part/add_ms_4149_f162v/add_ms_4149_f162v.jpg"/>
+      <graphic n="103" url="/bl/add_ms_4149_part/add_ms_4149_f163r/add_ms_4149_f163r.jpg"/>
+      <graphic n="104" url="/bl/add_ms_4149_part/add_ms_4149_f163v/add_ms_4149_f163v.jpg"/>
+      <graphic n="105" url="/bl/add_ms_4149_part/add_ms_4149_f164r/add_ms_4149_f164r.jpg"/>
+      <graphic n="106" url="/bl/add_ms_4149_part/add_ms_4149_f164v/add_ms_4149_f164v.jpg"/>
+      <graphic n="107" url="/bl/add_ms_4149_part/add_ms_4149_f165r/add_ms_4149_f165r.jpg"/>
+      <graphic n="108" url="/bl/add_ms_4149_part/add_ms_4149_f165v/add_ms_4149_f165v.jpg"/>
+      <graphic n="109" url="/bl/add_ms_4149_part/add_ms_4149_f166r/add_ms_4149_f166r.jpg"/>
+      <graphic n="110" url="/bl/add_ms_4149_part/add_ms_4149_f166v/add_ms_4149_f166v.jpg"/>
+      <graphic n="111" url="/bl/add_ms_4149_part/add_ms_4149_f167r/add_ms_4149_f167r.jpg"/>
+      <graphic n="112" url="/bl/add_ms_4149_part/add_ms_4149_f167v/add_ms_4149_f167v.jpg"/>
+      <graphic n="113" url="/bl/add_ms_4149_part/add_ms_4149_f168r/add_ms_4149_f168r.jpg"/>
+      <graphic n="114" url="/bl/add_ms_4149_part/add_ms_4149_f168v/add_ms_4149_f168v.jpg"/>
+      <graphic n="115" url="/bl/add_ms_4149_part/add_ms_4149_f169r/add_ms_4149_f169r.jpg"/>
+      <graphic n="116" url="/bl/add_ms_4149_part/add_ms_4149_f169v/add_ms_4149_f169v.jpg"/>
+      <graphic n="117" url="/bl/add_ms_4149_part/add_ms_4149_f170r/add_ms_4149_f170r.jpg"/>
+      <graphic n="118" url="/bl/add_ms_4149_part/add_ms_4149_f170v/add_ms_4149_f170v.jpg"/>
+      <graphic n="119" url="/bl/add_ms_4149_part/add_ms_4149_f171r/add_ms_4149_f171r.jpg"/>
+      <graphic n="120" url="/bl/add_ms_4149_part/add_ms_4149_f171v/add_ms_4149_f171v.jpg"/>
+      <graphic n="121" url="/bl/add_ms_4149_part/add_ms_4149_f172r/add_ms_4149_f172r.jpg"/>
+      <graphic n="122" url="/bl/add_ms_4149_part/add_ms_4149_f172v/add_ms_4149_f172v.jpg"/>
+      <graphic n="123" url="/bl/add_ms_4149_part/add_ms_4149_f183r/add_ms_4149_f183r.jpg"/>
+      <graphic n="124" url="/bl/add_ms_4149_part/add_ms_4149_f183v/add_ms_4149_f183v.jpg"/>
+      <graphic n="125" url="/bl/add_ms_4149_part/add_ms_4149_f184r/add_ms_4149_f184r.jpg"/>
+      <graphic n="126" url="/bl/add_ms_4149_part/add_ms_4149_f184v/add_ms_4149_f184v.jpg"/>
+      <graphic n="127" url="/bl/add_ms_4149_part/add_ms_4149_f185r/add_ms_4149_f185r.jpg"/>
+      <graphic n="128" url="/bl/add_ms_4149_part/add_ms_4149_f185v/add_ms_4149_f185v.jpg"/>
+      <graphic n="129" url="/bl/add_ms_4149_part/add_ms_4149_f186r/add_ms_4149_f186r.jpg"/>
+      <graphic n="130" url="/bl/add_ms_4149_part/add_ms_4149_f186v/add_ms_4149_f186v.jpg"/>
+      <graphic n="131" url="/bl/add_ms_4149_part/add_ms_4149_f187r/add_ms_4149_f187r.jpg"/>
+      <graphic n="132" url="/bl/add_ms_4149_part/add_ms_4149_f187v/add_ms_4149_f187v.jpg"/>
+      <graphic n="133" url="/bl/add_ms_4149_part/add_ms_4149_f188r/add_ms_4149_f188r.jpg"/>
+      <graphic n="134" url="/bl/add_ms_4149_part/add_ms_4149_f188v/add_ms_4149_f188v.jpg"/>
+      <graphic n="135" url="/bl/add_ms_4149_part/add_ms_4149_f189r/add_ms_4149_f189r.jpg"/>
+      <graphic n="136" url="/bl/add_ms_4149_part/add_ms_4149_f189v/add_ms_4149_f189v.jpg"/>
+      <graphic n="137" url="/bl/add_ms_4149_part/add_ms_4149_f190r/add_ms_4149_f190r.jpg"/>
+      <graphic n="138" url="/bl/add_ms_4149_part/add_ms_4149_f190v/add_ms_4149_f190v.jpg"/>
+      <graphic n="139" url="/bl/add_ms_4149_part/add_ms_4149_f191r/add_ms_4149_f191r.jpg"/>
+      <graphic n="140" url="/bl/add_ms_4149_part/add_ms_4149_f191v/add_ms_4149_f191v.jpg"/>
+      <graphic n="141" url="/bl/add_ms_4149_part/add_ms_4149_f192r/add_ms_4149_f192r.jpg"/>
+      <graphic n="142" url="/bl/add_ms_4149_part/add_ms_4149_f192v/add_ms_4149_f192v.jpg"/>
+      <graphic n="143" url="/bl/add_ms_4149_part/add_ms_4149_f193r/add_ms_4149_f193r.jpg"/>
+      <graphic n="144" url="/bl/add_ms_4149_part/add_ms_4149_f193v/add_ms_4149_f193v.jpg"/>
+      <graphic n="145" url="/bl/add_ms_4149_part/add_ms_4149_f194r/add_ms_4149_f194r.jpg"/>
+      <graphic n="146" url="/bl/add_ms_4149_part/add_ms_4149_f194v/add_ms_4149_f194v.jpg"/>
+      <graphic n="147" url="/bl/add_ms_4149_part/add_ms_4149_f195r/add_ms_4149_f195r.jpg"/>
+      <graphic n="148" url="/bl/add_ms_4149_part/add_ms_4149_f195v/add_ms_4149_f195v.jpg"/>
+      <graphic n="149" url="/bl/add_ms_4149_part/add_ms_4149_f196r/add_ms_4149_f196r.jpg"/>
+      <graphic n="150" url="/bl/add_ms_4149_part/add_ms_4149_f196v/add_ms_4149_f196v.jpg"/>
+      <graphic n="151" url="/bl/add_ms_4149_part/add_ms_4149_f197r/add_ms_4149_f197r.jpg"/>
+      <graphic n="152" url="/bl/add_ms_4149_part/add_ms_4149_f197v/add_ms_4149_f197v.jpg"/>
+      <graphic n="153" url="/bl/add_ms_4149_part/add_ms_4149_f198r/add_ms_4149_f198r.jpg"/>
+      <graphic n="154" url="/bl/add_ms_4149_part/add_ms_4149_f198v/add_ms_4149_f198v.jpg"/>
+      <graphic n="155" url="/bl/add_ms_4149_part/add_ms_4149_f199r/add_ms_4149_f199r.jpg"/>
+      <graphic n="156" url="/bl/add_ms_4149_part/add_ms_4149_f199v/add_ms_4149_f199v.jpg"/>
+      <graphic n="157" url="/bl/add_ms_4149_part/add_ms_4149_f200r/add_ms_4149_f200r.jpg"/>
+      <graphic n="158" url="/bl/add_ms_4149_part/add_ms_4149_f200v/add_ms_4149_f200v.jpg"/>
+      <graphic n="159" url="/bl/add_ms_4149_part/add_ms_4149_f201r/add_ms_4149_f201r.jpg"/>
+      <graphic n="160" url="/bl/add_ms_4149_part/add_ms_4149_f201v/add_ms_4149_f201v.jpg"/>
+      <graphic n="161" url="/bl/add_ms_4149_part/add_ms_4149_f202r/add_ms_4149_f202r.jpg"/>
+      <graphic n="162" url="/bl/add_ms_4149_part/add_ms_4149_f202v/add_ms_4149_f202v.jpg"/>
+      <graphic n="163" url="/bl/add_ms_4149_part/add_ms_4149_f203r/add_ms_4149_f203r.jpg"/>
+      <graphic n="164" url="/bl/add_ms_4149_part/add_ms_4149_f203v/add_ms_4149_f203v.jpg"/>
+      <graphic n="165" url="/bl/add_ms_4149_part/add_ms_4149_f204r/add_ms_4149_f204r.jpg"/>
+      <graphic n="166" url="/bl/add_ms_4149_part/add_ms_4149_f204v/add_ms_4149_f204v.jpg"/>
+      <graphic n="167" url="/bl/add_ms_4149_part/add_ms_4149_f205r/add_ms_4149_f205r.jpg"/>
+      <graphic n="168" url="/bl/add_ms_4149_part/add_ms_4149_f205v/add_ms_4149_f205v.jpg"/>
+      <graphic n="169" url="/bl/add_ms_4149_part/add_ms_4149_f206r/add_ms_4149_f206r.jpg"/>
+      <graphic n="170" url="/bl/add_ms_4149_part/add_ms_4149_f206v/add_ms_4149_f206v.jpg"/>
+      <graphic n="171" url="/bl/add_ms_4149_part/add_ms_4149_f207r/add_ms_4149_f207r.jpg"/>
+      <graphic n="172" url="/bl/add_ms_4149_part/add_ms_4149_f207v/add_ms_4149_f207v.jpg"/>
+      <graphic n="173" url="/bl/add_ms_4149_part/add_ms_4149_f208r/add_ms_4149_f208r.jpg"/>
+      <graphic n="174" url="/bl/add_ms_4149_part/add_ms_4149_f208v/add_ms_4149_f208v.jpg"/>
+      <graphic n="175" url="/bl/add_ms_4149_part/add_ms_4149_f209r/add_ms_4149_f209r.jpg"/>
+      <graphic n="176" url="/bl/add_ms_4149_part/add_ms_4149_f209v/add_ms_4149_f209v.jpg"/>
+      <graphic n="177" url="/bl/add_ms_4149_part/add_ms_4149_f210r/add_ms_4149_f210r.jpg"/>
+      <graphic n="178" url="/bl/add_ms_4149_part/add_ms_4149_f210v/add_ms_4149_f210v.jpg"/>
+      <graphic n="179" url="/bl/add_ms_4149_part/add_ms_4149_f211r/add_ms_4149_f211r.jpg"/>
+      <graphic n="180" url="/bl/add_ms_4149_part/add_ms_4149_f211v/add_ms_4149_f211v.jpg"/>
+      <graphic n="181" url="/bl/add_ms_4149_part/add_ms_4149_f212r/add_ms_4149_f212r.jpg"/>
+      <graphic n="182" url="/bl/add_ms_4149_part/add_ms_4149_f212v/add_ms_4149_f212v.jpg"/>
+      <graphic n="183" url="/bl/add_ms_4149_part/add_ms_4149_f213r/add_ms_4149_f213r.jpg"/>
+      <graphic n="184" url="/bl/add_ms_4149_part/add_ms_4149_f218r/add_ms_4149_f218r.jpg"/>
+      <graphic n="185" url="/bl/add_ms_4149_part/add_ms_4149_f218v/add_ms_4149_f218v.jpg"/>
+      <graphic n="186" url="/bl/add_ms_4149_part/add_ms_4149_f219r/add_ms_4149_f219r.jpg"/>
+      <graphic n="187" url="/bl/add_ms_4149_part/add_ms_4149_f219v/add_ms_4149_f219v.jpg"/>
+      <graphic n="188" url="/bl/add_ms_4149_part/add_ms_4149_f220r/add_ms_4149_f220r.jpg"/>
+      <graphic n="189" url="/bl/add_ms_4149_part/add_ms_4149_f220v/add_ms_4149_f220v.jpg"/>
+      <graphic n="190" url="/bl/add_ms_4149_part/add_ms_4149_f221r/add_ms_4149_f221r.jpg"/>
+      <graphic n="191" url="/bl/add_ms_4149_part/add_ms_4149_f221v/add_ms_4149_f221v.jpg"/>
+      <graphic n="192" url="/bl/add_ms_4149_part/add_ms_4149_f222r/add_ms_4149_f222r.jpg"/>
+      <graphic n="193" url="/bl/add_ms_4149_part/add_ms_4149_f222v/add_ms_4149_f222v.jpg"/>
+      <graphic n="194" url="/bl/add_ms_4149_part/add_ms_4149_f223r/add_ms_4149_f223r.jpg"/>
+      <graphic n="195" url="/bl/add_ms_4149_part/add_ms_4149_f223v/add_ms_4149_f223v.jpg"/>
+      <graphic n="196" url="/bl/add_ms_4149_part/add_ms_4149_f224r/add_ms_4149_f224r.jpg"/>
+      <graphic n="197" url="/bl/add_ms_4149_part/add_ms_4149_f224v/add_ms_4149_f224v.jpg"/>
+      <graphic n="198" url="/bl/add_ms_4149_part/add_ms_4149_f225r/add_ms_4149_f225r.jpg"/>
+      <graphic n="199" url="/bl/add_ms_4149_part/add_ms_4149_f225v/add_ms_4149_f225v.jpg"/>
+      <graphic n="200" url="/bl/add_ms_4149_part/add_ms_4149_f226r/add_ms_4149_f226r.jpg"/>
+      <graphic n="201" url="/bl/add_ms_4149_part/add_ms_4149_f226v/add_ms_4149_f226v.jpg"/>
+      <graphic n="202" url="/bl/add_ms_4149_part/add_ms_4149_f227r/add_ms_4149_f227r.jpg"/>
+      <graphic n="203" url="/bl/add_ms_4149_part/add_ms_4149_f227v/add_ms_4149_f227v.jpg"/>
+      <graphic n="204" url="/bl/add_ms_4149_part/add_ms_4149_f228r/add_ms_4149_f228r.jpg"/>
+      <graphic n="205" url="/bl/add_ms_4149_part/add_ms_4149_f228v/add_ms_4149_f228v.jpg"/>
+      <graphic n="206" url="/bl/add_ms_4149_part/add_ms_4149_f229r/add_ms_4149_f229r.jpg"/>
+      <graphic n="207" url="/bl/add_ms_4149_part/add_ms_4149_f229v/add_ms_4149_f229v.jpg"/>
+      <graphic n="208" url="/bl/add_ms_4149_part/add_ms_4149_f230r/add_ms_4149_f230r.jpg"/>
+      <graphic n="209" url="/bl/add_ms_4149_part/add_ms_4149_f230v/add_ms_4149_f230v.jpg"/>
+      <graphic n="210" url="/bl/add_ms_4149_part/add_ms_4149_f231r/add_ms_4149_f231r.jpg"/>
+      <graphic n="211" url="/bl/add_ms_4149_part/add_ms_4149_f231v/add_ms_4149_f231v.jpg"/>
+      <graphic n="212" url="/bl/add_ms_4149_part/add_ms_4149_f232r/add_ms_4149_f232r.jpg"/>
+      <graphic n="213" url="/bl/add_ms_4149_part/add_ms_4149_f232v/add_ms_4149_f232v.jpg"/>
+      <graphic n="214" url="/bl/add_ms_4149_part/add_ms_4149_f233r/add_ms_4149_f233r.jpg"/>
+      <graphic n="215" url="/bl/add_ms_4149_part/add_ms_4149_f233v/add_ms_4149_f233v.jpg"/>
+      <graphic n="216" url="/bl/add_ms_4149_part/add_ms_4149_f234r/add_ms_4149_f234r.jpg"/>
+      <graphic n="217" url="/bl/add_ms_4149_part/add_ms_4149_f234v/add_ms_4149_f234v.jpg"/>
+      <graphic n="218" url="/bl/add_ms_4149_part/add_ms_4149_f235r/add_ms_4149_f235r.jpg"/>
+      <graphic n="219" url="/bl/add_ms_4149_part/add_ms_4149_f235v/add_ms_4149_f235v.jpg"/>
+      <graphic n="220" url="/bl/add_ms_4149_part/add_ms_4149_f236r/add_ms_4149_f236r.jpg"/>
+      <graphic n="221" url="/bl/add_ms_4149_part/add_ms_4149_f236v/add_ms_4149_f236v.jpg"/>
+      <graphic n="222" url="/bl/add_ms_4149_part/add_ms_4149_f282r/add_ms_4149_f282r.jpg"/>
+      <graphic n="223" url="/bl/add_ms_4149_part/add_ms_4149_f282v/add_ms_4149_f282v.jpg"/>
+      <graphic n="224" url="/bl/add_ms_4149_part/add_ms_4149_f323r/add_ms_4149_f323r.jpg"/>
+      <graphic n="225" url="/bl/add_ms_4149_part/add_ms_4149_f323v/add_ms_4149_f323v.jpg"/>
+      <graphic n="226" url="/bl/add_ms_4149_part/add_ms_4149_f324r/add_ms_4149_f324r.jpg"/>
+      <graphic n="227" url="/bl/add_ms_4149_part/add_ms_4149_f324v/add_ms_4149_f324v.jpg"/>
+      <graphic n="228" url="/bl/add_ms_4149_part/add_ms_4149_f325r/add_ms_4149_f325r.jpg"/>
+      <graphic n="229" url="/bl/add_ms_4149_part/add_ms_4149_f325v/add_ms_4149_f325v.jpg"/>
+      <graphic n="230" url="/bl/add_ms_4149_part/add_ms_4149_f326r/add_ms_4149_f326r.jpg"/>
+      <graphic n="231" url="/bl/add_ms_4149_part/add_ms_4149_f326v/add_ms_4149_f326v.jpg"/>
+      <graphic n="232" url="/bl/add_ms_4149_part/add_ms_4149_f327r/add_ms_4149_f327r.jpg"/>
+      <graphic n="233" url="/bl/add_ms_4149_part/add_ms_4149_f327v/add_ms_4149_f327v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bodleian Library MS Rawlinson C 674</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Bodl_MS_Rawlinson_C_674">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>Bodleian Library</repository>
+               <collection/>
+               <idno>MS Rawlinson C 674</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>66r</locus>
+                  <title>Directions and Commands given at Newmarket to the Prince's Two Chaplains Concering their Service in Spain</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/JamesDirectionsPrincesChaplains1623.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>66v-67v</locus>
+                  <title>Instructions Concerning Lecturers and Ministers</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesInstructionsLecturers1629v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>68r-74r</locus>
+                  <title>Information Against Cotton et al.</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0029">Sir Robert Heath</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HeathInformationAgainstCotton1629.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>74v-75v</locus>
+                  <title>Instructions which you are to follow in the execution of his Majesty’s commission concerning the Order of Knighthood to be taken at the King's coronation</title>
+                        <author>
+               <persName corresp="../people/people.xml#P007">Charles I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesInstructionsKnighthoodCoronation1630.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

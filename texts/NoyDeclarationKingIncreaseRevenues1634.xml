@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration How the King of England may Support and Increase his Annual Revenues, being collected out of the Rolls and the Records of the Tower, the Parliaments, the Rolls [Chapel] and the Close Petitions</title>
+            <author>
+               <persName corresp="../people/people.xml#P0027">William Noy</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Lansdowne_MS_806.xml">British Library, Lansdowne MS 806, ff. 171r–203x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_1117.xml">Bodleian Library,  MS Rawlinson D 1117, ff49</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_443.xml">Folger Shakespeare Library,  MS V.a.443</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Lincolns_Inn_Hale_MS_81.xml">Lincoln's Inn, Hale MS 81, ff. 149r–178v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_581.xml">Senate House, University of London,  MS 581</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1634">1634</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>royal revenue</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

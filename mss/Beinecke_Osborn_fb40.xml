@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beinecke Library Osborn fb40</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Beinecke_Osborn_fb40">
+               <country>USA</country>
+               <settlement>New Haven, CT</settlement>
+               <repository>Beinecke Library</repository>
+               <collection>Osborn</collection>
+               <idno>fb40</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>21x-113x</locus>
+                  <title>Fragmenta Regalia</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0193">Sir Robert Naunton</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Partly Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/NauntonFragmentaRegalia.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>129x-134x</locus>
+                  <title>A Collection Offered to King James on Calling a Parliament</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0143">Robert Cecil, 1st Earl Salisbury</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Partly Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CecilCollectionOfferedJamesCallingParliament1608.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>433x-493x</locus>
+                  <title>The Proceedings which Happened Touching the Divorcement between the Lady Frances Howard and Robert, Earl of Essex</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ProceedingsDivorceHowardEssex.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>513x-544x</locus>
+                  <title>Large Apology on his Return from Guiana</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLargeApology1618.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>557x-580x</locus>
+                  <title>Il Di Lodi La Sera</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0117">Sir Walter Cope</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CopeIlDiLodaLaSera1612.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

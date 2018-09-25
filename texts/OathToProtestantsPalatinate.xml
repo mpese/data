@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Oath Presented to the Protestants of the Palatinate</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+               <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1623">After 1623</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>oath</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Palatinate</term>
+               <term>Protestantism</term>
+               <term>confessional identity</term>
+               <term>confessional conflict</term>
+               <term>Catholicism</term>
+               <term>conversion</term>
+               <term>Holy Roman Empire</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-14" who="#RB" status="proofread"/>
+            <change when="2018-03-14" who="#RB" status="draft"/>
+            <change when="2010" who="#NM" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="191r"/>
+         <head rend="align-centre">
+            An oath presented to all <ex>th</ex>e protestants <lb/>
+            <ex>tha</ex>t weare forced to turne papests <lb/>
+            after <ex>th</ex>e <add place="above">takinge of</add> <del rend="strikethrough">taken in</del> <ex>th</ex>e Pallatinate.
+         </head>
+         <p>
+            I. N. Poore sinner confesse before god, and all <ex>th</ex>e S<ex>ain</ex>t and <lb/>
+            before <ex>tha</ex>t preist and pastor of soules standing in <ex>th</ex>e roome of <supplied reason="damage" cert="medium">god</supplied> <lb/>
+            <ex>tha</ex>t I haue all my life gone astray in a <unclear>cauesul unecrable</unclear> &amp; <lb/>
+            hereticall religion. &amp; <ex>tha</ex>t in <ex>th</ex>e supper of <ex>tha</ex>t religion I rec<supplied cert="medium">eaved</supplied> <lb/>
+             nothing but plaine Bakers bread; &amp; plaine wine in a Cup <lb/>
+            and I do beleiue <ex>tha</ex>t all my Ancestors and all others, <ex>tha</ex>t ha<supplied reason="damage">ve</supplied> <lb/>
+            liued in <ex>tha</ex>t faith are damned &amp; p<ex>er</ex>ished for euer: Theref<supplied reason="damage">fore</supplied> <lb/>
+            I p<ex>ro</ex>mise before god &amp; <ex>th</ex>e Virgin Mary his Moth<ex>e</ex>r &amp; before <supplied reason="damage">the</supplied> <lb/>
+            preist and pastor of soules being in <ex>th</ex>e place of god here p<ex>er</ex>
+                <gap reason="damage"/> <lb/>
+            <ex>tha</ex>t I will neuer adhere to <ex>tha</ex>t accursed &amp; hereticall religi<supplied reason="damage">on</supplied> <lb/>
+            so help me god./
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Sloane MS 3520</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Sloane_MS_3520">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 3520</idno>
+                <msName>Divers Letters wrytten by Sir Walter Rawleigh</msName>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>2r-4v</locus>
+                   <title when="1617-11-14">Letter to His Wife from Guiana</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note>Here dated 22 March 1617</note>
+                   <link target="../texts/RaleighLetterHisWifeGuiana1617.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>5r-9v</locus>
+                   <title when="1617">Letter to Secretary Sir Ralph Winwood</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterWinwoodA1617.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>9v-10v</locus>
+                   <title when="1618">Second Letter to Secretary Sir Ralph Winwood</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterWinwoodB1618.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>10v-12r</locus>
+                   <title when="1603">Letter to James I Before his Trial</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">
+                         Sir Walter Raleigh
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterJames1603.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>12r-13r</locus>
+                   <title when="1604">Letter to James after his Condemnation</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">
+                         Sir Walter Raleigh
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterCondemnation1604.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>13r-14v</locus>
+                   <title when="1618">Letter to Sir Robert Carr</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterCarr.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>14v-17r</locus>
+                   <title when="1603">Letter to His Wife</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterHisWife1603.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation>Quarto paper book, title is in Feathery's hand</foliation>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

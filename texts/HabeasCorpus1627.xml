@@ -1,0 +1,965 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Arguments Made in the Greate Case of Habeas Corpus</title>
+            <author>
+               <persName corresp="../people/people.xml#P0026">Sir John Bramston the Elder</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0027">William Noy</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0028">Sir Henry Calthorpe</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0029">Sir Robert Heath</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48051">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48051</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2217</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2234">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2234</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4103">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4103</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4619">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4619</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_245">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 245</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_39">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 39</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_252">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 252</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_37">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 37</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48051.xml">British Library, Additional MS 48051, iiir–115r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48101.xml">British Library, Additional MS 48101, ff. 164r–175v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHargraveMS39.xml">British Library, Hargrave MS 39, ff. 25r–35v, 40r–42v, 55r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS252.xml">British Library, Harley MS 252, ff. 37r–47v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS37.xml">British Library, Harley MS 37, ff. 112r–116v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS37.xml">British Library, Harley MS 37, ff. 172r–203v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS37.xml">British Library, Harley MS 37, ff. 302r–313r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4103.xml">British Library, Harley MS 4103, ff. 10r–96v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4619.xml">British Library, Harley MS 4619, ff. 208r–217v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_245.xml">British Library, Hargrave MS 245, ff84</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, ff. 61r–81v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2234.xml">British Library, Harley MS 2234, ff. 282r–292v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_c_397.xml">Bodleian Library,  MS Eng. hist. c. 397, ff. 1r–40v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_d_231.xml">Bodleian Library,  MS Eng. hist. d. 231, ff. 5r–120v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_917.xml">Bodleian Library,  MS Rawlinson C 917, ff. 1–232</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_191.xml">Bodleian Library,  MS Tanner 191, ff88</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_72.xml">Bodleian Library,  MS Tanner 72, ff. 215r–225</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ff317.xml">Cambridge University Library,  MS Ff.3.17, ff. 116r–182r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_309.xml">Folger Shakespeare Library,  MS V.b.309, ff. 1r–133r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_XIIA27.xml">Hertfordshire Archives and Local Studies,  XII.A.27</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_1239.xml">Harvard Law School,  MS 1239</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1084.xml">Houghton Library,  fMS Eng 1084, ff. 119–216</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U1475Z10.xml">Kent Archives,  U1475/Z10</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Pw_V_85.xml">Nottingham University Library, Pw V 85, ff. 1r–75v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_BRY_78.xml">Parliamentary Archives,  BRY/78, ff. 15r–113v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 68r–76v</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title>State Trials</title>
+                  <citedRange unit="volume">3</citedRange>
+                  <citedRange unit="page" from="114" to="139">114-139</citedRange>
+               </bibl>
+               <bibl>
+                  <editor>Samuel R. Gardiner</editor>
+                  <title>The Constitutional Documents of the Puritan Revolution, 1625-1660</title>
+                  <edition>3rd ed.</edition>
+                  <date when="1906">1906</date>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Clarendon Press</publisher>
+                  <citedRange unit="page" from="58" to="64">58-64</citedRange>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+         </abstract>
+         <creation>
+            <date when="1627-11-22">22 November 1627</date>
+            <placeName corresp="../places/places.xml#PL0010">Court of King's Bench</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>legal argument</term>
+               <term>court report</term>
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>habeas corpus</term>
+               <term>bail</term>
+               <term>Magna Carta</term>
+               <term>Five Knights' case</term>
+               <term>imprisonment</term>
+               <term>royal prerogative</term>
+               <term>liberty of the subject</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="4r" facs="/bl/add_ms_35331/add_ms_35331_f004r/add_ms_35331_f004r.jpg"/>
+         <p>
+            <add place="header">
+               <hi rend="underline">An<ex>n</ex>o: 3: Carolj Regis, An<ex>n</ex>o: Dom: 1627.</hi>
+            </add>
+            The came out A Com<ex>m</ex>ission from the kinge to require a loane of all subiectes (throughe the kingdome) <lb/>
+            of asmuch as every man was upon the booke of Subsedie, beinge 5. subsedyes. As hee that was founde <lb/>
+            xx:<hi rend="superscript">l</hi> lande upon the laste subsedy booke was to lende the kinge xx:<hi rend="superscript">l</hi> Hee that was xx:<hi rend="superscript">l</hi> goodes upon <lb/>
+            the Subsedy booke was to lende xiij<hi rend="superscript">l</hi> vi<hi rend="superscript">s</hi> viij.<hi rend="superscript">d</hi> et sic de cæteris/
+         </p>
+         <p>
+            Some gentlemen beinge Com<ex>m</ex>issioners refused to sitte upon this Com<ex>m</ex>ission, others refused to lende: and <lb/>
+            some of both opinions were by the kinges com<ex>m</ex>aunde Com<ex>m</ex>itted to prison, and detayned aboute three <lb/>
+            quarters of a yere in prison, for there refusall: But att laste the saide prisoners broughte an <lb/>
+            habeas Corpus in the kinges benche Ter: Mich: An<ex>n</ex>o:3. Caroli Regis. 1627. where the case was <lb/>
+            argued; the argum<ex>en</ex>tes of w<ex>hi</ex>ch case followe as they were taken by some p<ex>re</ex>sente./
+         </p>
+         <p rend="indent">
+            <title>
+               The argum<ex>en</ex>ts made in the greate case of habeas Corpas 22:<hi rend="superscript">o</hi> Novemb<ex>e</ex>r <lb/>
+            3:<hi rend="superscript">o</hi> Carolj in Banco Regis. Betweene the kinge and S<ex>i</ex>r Iohn <lb/>
+            Heningham, S<ex>i</ex>r walter Erle, S<ex>i</ex>r Edwarde Hambdem, and S<ex>i</ex>r <lb/>
+            Iohn Corbett./
+            </title>
+         </p>
+         <p>
+            Argum<ex>en</ex>ts of S<ex>e</ex>rgeant Bramston for S<ex>i</ex>r John Heningham.
+         </p>
+         <p>
+            The retourne beinge reade hee moved that it was insufficiente, and that the prisoner oughte <lb/>
+            to bee bayled: And saide as it was his parte to move the petition of S<ex>e</ex>r Iohn Heningham, soe <lb/>
+            hee woulde move nothinge w<ex>hi</ex>ch was againste lawe:/
+         </p>
+         <p>
+            <add place="LM">
+               see this arugm<ex>en</ex>t <lb/>
+               <ref>pag: 59</ref>. more <lb/>
+               att large /
+            </add>
+            Hee tooke exception to the retourne, to the manner and legall forme: and also to the matter &amp; <lb/>
+            substance. To the matter it is to generall, for <hi rend="underline">noe cause of imp<ex>ri</ex>sonm<ex>en</ex>t is shewed,</hi> soe also there <lb/>
+            is noe tyme menc<ex>i</ex>oned when hee was taken and impr<ex>i</ex>soned, and therfore insufficiente for matters <lb/>
+            of substance for theise two causes./
+         </p>
+         <p>
+            The cause w<ex>hi</ex>ch is retourned is only <foreign xml:lang="la">Mandatu<ex>m</ex> Regis</foreign>, w<ex>hi</ex>ch is altogeather uncertayne and to generall.
+         </p>
+         <p>
+            His exception to the legall forme; for that it is not-fully and pr<ex>e</ex>cisely retourned: as yo<ex>u</ex>r retournes of Gaylors <lb/>
+            oughte to be: but it is a retourne of anothers certificate, and not of his owne Conusance. Firste there <lb/>
+            ought to bee a cause in speciall, or generall: for its the purpose of that write, and the meanes appointed <lb/>
+            by the lawe for the enlargem<ex>en</ex>t and libertie of the subiecte. And all the meanes <hi rend="underline">in the wryte <foreign xml:lang="la">de homine <lb/>
+               Repleqiando</foreign> is for that there is a speciall exception that hee is com<ex>m</ex>itted by the com<ex>m</ex>aundm<ex>en</ex>t</hi> of the <lb/>
+            kinge. salie nisi captus sit pper speciale præceptu<ex>m</ex> meu<ex>m</ex>./
+         </p>
+         <p>
+            A cause oughte to bee retourned that the lawe maye iudge of the insufficiency of it./ yf it maye not bee <lb/>
+            retourned p<ex>ar</ex>ticularly, yet generally yt oughte: for otherwise nothinge may appeare to the Courte <lb/>
+            wherupo<ex>n</ex> they maye iudge: and also that yt maye appeare that there imp<ex>ri</ex>sonm<ex>en</ex>t is not againste <lb/>
+            the statute of 25: Ed: 3: cap: 4./ soe by the stat: of <hi rend="underline">42: Ed: 3. 3. Noe man shalbee taken</hi> upon <hi rend="italic">A <lb/>
+            Suggestion</hi> made to the kinge or his Councell, unlesse it bee upon p<ex>re</ex>sente matter of recorde, or <lb/>
+            by proces and write originall, accordinge to the olde Laws of the lande: See the tytle of the acte <lb/>
+            yf it bee soe that they neede not an expresse cause p<ex>ar</ex>ticularly or generally, <hi rend="underline">then the subiecte shalbee <lb/>
+            disinherited of the lawe</hi>, w<ex>hi</ex>ch is his birth-righte, and inheritance: And therfore hee holdeth all that hee <lb/>
+            hath retourned voide and evill: For as the subiectes of the kinge are borne for the kinge to <lb/>
+            doe him and the com<ex>m</ex>on wealthe service: soe they are borne to inherite and enioye the lawes, <lb/>
+            and that every man maye equally haue the benefite of the lawe./
+         </p>
+         <p>
+            Secondly there is not any tyme expreste of his com<ex>m</ex>ittm<ex>en</ex>t and then noe cause to remaunde him: <lb/>
+            the write is to bringe the body w<ex>i</ex>th the cause: here is a cause expressed for his retayner, but not <lb/>
+            for his com<ex>m</ex>ittm<ex>en</ex>t/ For what ende was this write ordayned? for the libertie of the subiecte, that yf <lb/>
+            there bee a sufficiente cause, yf noe cause bee, then hee is to bee enlarged; and maye not bee unlesse <lb/>
+            the tyme of his impr<ex>i</ex>sonm<ex>en</ex>t and cause bee expressed. The tyme is the matter it selfe, for it <lb/>
+            intendes the most highe cause viz: <hi rend="italic">High Treason</hi> yf a man bee imprisoned for suspition before <lb/>
+            conviction or tryall the p[ar]tie maye have an habeas corpus./
+         </p>
+         <p>
+            The tyme when hee was imprisoned oughte to appeare that the Courte maye adiudge yf hee <lb/>
+            <add place="LM">
+               none is to bee kept <lb/>
+               imp<ex>ri</ex>son over longe.
+            </add>
+            hath bynn a longe tyme in prison before hee bee put to answere: for otherwise one maye <lb/>
+            bee kepte in prison duringe his life, only for a suspition, and hee never suffred to have <lb/>
+            a tryall: w<ex>hi</ex>ch shalbee againste the saide Stat: and lawes of Magna Carta cap:29. <foreign xml:lang="la">
+                    <hi rend="italic">nullus <lb/>
+               liber homo capiatur, vel imprisonetur nisi per legem terræ</hi>
+                </foreign>. And Stat: 28: Ed:3: cap:3. <lb/>
+            noe free man shalbee taken, or imprisoned w<ex>i</ex>thout beinge broughte to answere by due proces <lb/>
+            of lawe: admitte there bee a sufficiente cause retourned w<ex>hi</ex>ch appeares not, then there wilbee <lb/>
+            a p<ex>er</ex>petualll imp<ex>ri</ex>sonm<ex>en</ex>t/ The Iudge oughte not to come upon the p<ex>re</ex>sente subiecte but upon <lb/>
+            that w<ex>hi</ex>ch may happen yf that retourene bee laufull: yf that retourne bee good, then its <lb/>
+            but the makinge of a neue warrante, and soe the cause shall never appeare, nor the p<ex>ar</ex>tie <lb/>
+            ever enlarged w<ex>hi</ex>ch is againste the lawe expreste in the booke of 19: H: 6: 3. where its <lb/>
+            helde that the lawe is the moste highe inheritance w<ex>hi</ex>ch the kinge hath, for by the <lb/>
+            <hi rend="align-right">lawe hee himself and all his subiectes are <lb/>
+                </hi>
+            <fw type="catch" place="bot-right">
+                    <sic>are</sic> ruled, and yf</fw>
+            <pb n="4v" facs="/bl/add_ms_35331/add_ms_35331_f004v/add_ms_35331_f004v.jpg"/>
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>in</ex>i 1627</hi>
+                </add>
+            are to bee ruled, and yf his lawe were not, noe kinge nor noe inheritance shalbee. West:1:cap:15. The <lb/>
+            letter of the Stat: is. <gap extent="3" unit="chars"/> Forasmuch as before this tyme it was not determined what p<ex>er</ex>sons are <hi rend="underline">replevisable</hi> <lb/>
+            and what not, but only of them w<ex>hi</ex>ch are taken for the deathe of a man, or by the com<ex>m</ex>aundem<ex>en</ex>t of the <lb/>
+            <add place="LM">West:1: Expounded</add>
+            kinge &amp;c. But our case touchethe not upon that Statute: For th<hi rend="underline">ere the com<ex>m</ex>aundem<ex>en</ex>t of the kinge is intended by wryte, and not by word</hi>e: Howe bee it that Stamforde fol: 72: E. saithe that it is understoode <lb/>
+            of the com<ex>m</ex>aundem<ex>en</ex>t of his owne mouthe, or of his Councell w<ex>hi</ex>ch is incorporate to him, spakinge w<ex>i</ex>th the <lb/>
+            mouthe of the kinge himselfe: the same Stat: saithe that such &amp;c  shalbee in noe wise replevisable by the <lb/>
+            <hi rend="underline">com<ex>m</ex>on write, that is intended, by the write <foreign xml:lang="la">
+                        <hi rend="italic">de homine replegiando</hi>
+                    </foreign>
+                </hi> expressed in Fitz. Nat: Brev: <lb/>
+            will any man saye that in all the 4: cases expressed in the Stat: West:1: cap:15. that a man <lb/>
+            here shalbee p<ex>er</ex>petually impr<ex>i</ex>soned, or taken for the deathe of a man is not bayleable, by the com<ex>m</ex>on lawe; <lb/>
+            <add place="LM">
+               <hi rend="align-centre underline">Note</hi> <lb/>
+               As sherifs are forbidden <lb/>
+               to bayle any man ag<ex>ains</ex>t <lb/>
+               Stat: West:1:cap:15. Soe <lb/>
+               likewise are Iustices of P: <lb/>
+               by 1:&amp;2: Phil:&amp;Mar: cap:13. <lb/>
+               But Iudges of Asszes or of <lb/>
+               the K: benche are not re=<lb break="no"/>
+               strayned by any Statutes <lb/>
+               but they maye Bayle a <lb/>
+               prisoner where th'other <lb/>
+               cannot./
+            </add>
+            but shall hee not bee baylyed? hee shall by the write of <hi rend="italic">Odio &amp; Atia</hi>. Cok lib:9:fol:56./ Bracton Coroner: 24. <lb/>
+            But by the Stat: 28: Ed:3: cap:9. <hi rend="underline">that speciall write of Odio &amp; atia was for that the impr<ex>i</ex>sonm<ex>en</ex>t shall not <lb/>
+               bee to longe</hi>: For the interpr<ex>e</ex>tacon of the acte of West:1. men have bynn bayled for highe Treason./ <lb/>
+            Another exception to the matter, in respette of the generality of the cause of impr<ex>i</ex>sonm<ex>en</ex>t and detayning viz: <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">per Speciale mandatum Domini Regis</hi>
+                </foreign>, howe that shalbee intended, yf that were by write, or other=<lb break="no"/>
+            wise. The Statute of Marleb: cap:8. saythe, they w<ex>hi</ex>ch bee taken &amp; imprisoned for a Redisseisen, shall <lb/>
+            not be deliuered w<ex>i</ex>thout speciall com<ex>m</ex>aunde, that is intended by wryte, for as hee is imprisoned <lb/>
+            by wryte, soe shall hee bee enlarged by wryte./
+         </p>
+         <p>
+            The exception of the manner of the retourne was, for that it hath relation to the signification <lb/>
+            of another: and the officer himselfe oughte to retourne the cause of his cognizance, and not as hee is cer=<lb break="no"/>
+            tified: therfore yt behoofethe that the retourne bee <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>omin</ex>i regis</foreign>, and not by theise wordes <lb/>
+            <foreign xml:lang="la">nihi signifacatu<ex>m</ex>
+                </foreign>, for hee is an Officer of the Courte. Soe that yf there bee a false retourne, the p<ex>ar</ex>tie <lb/>
+            maye haue remedy, and then the Courte maye punishe him./ This case is not upon p<ex>re</ex>sidentes <lb/>
+            but upon the fundamentall rules of lawe: yet hee recited p<ex>re</ex>sidentes in the poynte./ Some <lb/>
+            of them where the kinge com<ex>m</ex>ittethe a man w<ex>i</ex>thout his Councell: some where the kinge and <lb/>
+            Councell: and some where the Councell alone com<ex>m</ex>itteth. 7. H: 8: rotulo.8. <hi rend="italic">Hamson</hi> <lb/>
+            was com<ex>m</ex>itted to the Marshalsey <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>omi</ex>ni Regis</foreign>, and hee was bayled upon a habeas <lb/>
+            corpus./ 22: H: 8. rott. 37. <hi rend="italic">Iohn Parker</hi> was com<ex>m</ex>itted to the Marshalsey, and that cause <lb/>
+            was retourned to bee <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>omi</ex>ni</foreign> Regis, and upon a habeas corpus hee was bayled. <lb/>
+            40: Eliz: <hi rend="italic">Wendon</hi> was com<ex>m</ex>itted to the Fleete <foreign xml:lang="la">per mandatu<ex>m</ex> Reginæ &amp; consilij sui</foreign> and hee <lb/>
+            was bayled upon such a retourne. 8: Iacobi. <hi rend="italic">Cæsar</hi> was com<ex>m</ex>itted <foreign xml:lang="la">p<ex>er</ex> mandatu<ex>m</ex> D<ex>omi</ex>ni Regis,</foreign> and <lb/>
+            hee was broughte hither by a heabeas corpus cu<ex>m</ex> causa, and there was a Rule, vnlesse the <lb/>
+            retourne was amended, the prisoner shoulde bee deliuered. Stamf fol: 72. vpon the Statute <lb/>
+            of west. 1. hee saithe that the com<ex>m</ex>aunde of the Councell is the com<ex>m</ex>aunde of the kinge, &amp; that <lb/>
+            the Councell is the mouthe and body of the kinge. 40: Eliz: <hi rend="italic">Thomas Cawridge</hi> was bayled <lb/>
+            out of the Towre upon a habeas corpus. 40: Eliz: <hi rend="italic">Harcote</hi> from the Gate-howse; in the <lb/>
+            same yere <hi rend="italic">S<ex>i</ex>r Rob<ex>ert</ex> Vernon</hi> was com<ex>m</ex>itted for suspition of Treason <foreign xml:lang="la">per speciale man=<lb break="no"/>
+            datu<ex>m</ex> D<ex>omin</ex>e Reginæ</foreign> and hee was bayled upon a habeas corpus: <hi rend="underline">For hee oughte not to <lb/>
+            bee p<ex>er</ex>petually impr<ex>i</ex>soned, but oughte to come in due tyme to his tryall</hi>./ 12: Iacobi <lb/>
+            <hi rend="italic">Miles Regnor</hi> was deliuered out of the Gatehowse upon an habeas corpus, and in the <lb/>
+            same yere was <hi rend="italic">Tho<ex>mas</ex> Beckwich</hi> bayled./ and in 14: Iacobi <hi rend="italic">S<ex>i</ex>r Tho<ex>mas</ex> Manson</hi> was bay=<lb break="no"/>
+            led out of the Towre, and soe hee prayed that S<ex>i</ex>r Io<ex>hn</ex> Hemingham mighte bee bayled./
+         </p>
+         <p>
+            Argum<ex>en</ex>te of Noy Councell for S<ex>i</ex>r Walter Erle.
+         </p>
+         <p>
+            The retournes are much of one tenore. The firste habeas corpus was dated 4: November <lb/>
+            yet the prisoner came in upon a sicut alias: and the warrante for his restraynte was <lb/>
+            dated the 7:th of November: for the cause of detayninge was after the write was directed <lb/>
+            to him. The alias, is to retourne the body w<ex>i</ex>th the cause, then the Guardian of y<hi rend="superscript">e</hi> Fleete <lb/>
+            retourned for what cause hee is detayned: howe bee yt, its certified that it is not good: <lb/>
+            And as the p<ex>ar</ex>tie is to bee bayled when the retourne is insufficiente, soe when noe cause is <lb/>
+            retourned, then when as sufficiente cause is retourned.
+         </p>
+         <p>
+            In the retourne there is a signification of the kinges pleasure, aswell as the firste com<ex>m</ex>aundm<ex>en</ex>t/ <lb/>
+            9: Ed:3:xl:30. in a Cessavit seriante <unclear>Pecuell</unclear> saide <unclear>for</unclear> the Com<ex>m</ex>ons of Northumber=<lb break="no"/>
+            lande that they had made there complainte to the kinge, Father of the then Kinge that <lb/>
+            the Country was destroyed by the warre of the Scottes, soe that the people maye not <lb/>
+            make profite of there landes: hee signifies his pleasure that noe Cessuvit of the <lb/>
+            people in the same County shoulde bee duringe the warre &amp;c./ And averred that <lb/>
+            <fw type="catch" place="bot-right">the warre yet enduringe by w<ex>hi</ex>ch &amp;c./</fw>
+            <pb n="5r" facs="/bl/add_ms_35331/add_ms_35331_f005r/add_ms_35331_f005r.jpg"/>
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>ini</ex> 1627</hi>
+                </add>
+            yet enduringe by w<ex>hi</ex>ch &amp;c./ here wee haue com<ex>m</ex>aundem<ex>en</ex>t by write of the kinge that nowe is to holde his <lb/>
+            plea, and therfore wee shall not <unclear>sucease</unclear>./ Out of w<ex>hi</ex>ch hee intendethe two thinges. Firste that the significac<ex>i</ex>on <lb/>
+            of the kinge ended w<ex>i</ex>th his deathe. 2:ly that yf the kinge signifiethe his pleasure one waye, and after <lb/>
+            signifie his pleasure another waye, that it shalbee as the laste signification is./ Here the kinge <lb/>
+            by his habeas corpus signifieth his pleasure that hee will haue there bodyes w<ex>i</ex>th there cause remo=<lb break="no"/>
+            ved hither <foreign xml:lang="la">ad subijciendu<ex>m</ex> et recipiendu<ex>m</ex>
+                </foreign>, that is to submitte and receave the lawe./ Every <lb/>
+            officer of the Courte oughte to make his retourne of his owne cognisance, and not of the certificate <lb/>
+            of another to him: hee retournes not that the kinge com<ex>m</ex>aundes him to detayne him in prison, <lb/>
+            but hee retournes that the Courtes certifies to him &amp;c Nowe hee oughte to retourne the ymediate <lb/>
+            and primary cause. 23: Ed: 3. <foreign xml:lang="la">Retourne del vicount 87. in ho<ex>min</ex>e replegiando</foreign> the vicount
+            retourne that hee had a com<ex>m</ex>aunde to the Baylife of an Abbott, whoe answered him that hee was villaine <lb/>
+            to the Abbott, by w<ex>hi</ex>ch hee maye not make deliuerance, and for that the answere was not sufficiente a <lb/>
+            sicut alias was awarded for hee oughte to retourne upon his owne conuzance. for yf the Sherife <lb/>
+            retourned that the saide Abbott had claymed him to bee his villaine, then it had bynn good. T: <lb/>
+            31 Ed:3: rott: 46. banco regis. In the booke there is but a parte of the case, but the role is more. <lb/>
+            <add place="LM">
+               <hi rend="align-centre">◠</hi> <lb/>
+               Excomunication <lb/>
+               for d<ex>eliverin</ex>g the K<ex>ings</ex> wryte./
+            </add>
+            The Abbot of <unclear>Buns..ed</unclear> &amp; Prysell in the Courte Christian, and Prysell broughte a p<ex>ro</ex>hibition <lb/>
+            and the B<ex>ishop</ex> of Norwiche excommunicated him for bringinge in the p<ex>ro</ex>hibition, and Prisell loste by a <lb/>
+            defaulte, and then is a Quære made for a contempte for excomunicatinge him for deliueringe <lb/>
+            of the kinges wryte. And the Abbot saide hee oughte not to bee answered and shewed an excomunic=<lb break="no"/>
+            cac<ex>i</ex>on: there two exceptions are taken, and both in one case. Firste because the cause of eco=<lb break="no"/>
+            nication appeared not, for hee was excomunicated for deliuery of that wryte, and that exco=<lb break="no"/>
+            munication maye bee for the same matter, and then wee obiecte not againste him the same <lb/>
+            excomunication for w<ex>hi</ex>ch hee complaynethe. 2:ly every man that informes the Courte oughte <lb/>
+            to doe that by ymediate cause that hee knowethe: soe here it is insufficiente for that hee re=<lb break="no"/>
+            retournes the certificate of another <sic>another</sic> cause, for that, the retourne is not good./
+         </p>
+         <p>
+            The Stat. of Magna Carta. <foreign xml:lang="la">Nullus liber homo est &amp;c</foreign> for theise <hi rend="underline">wordes <hi rend="italic">
+                        <foreign xml:lang="la">per legem terræ,</foreign>
+                    </hi> <lb/>
+            are <hi rend="italic">to bee expounded Proces of Lawe</hi>
+                </hi>, by wryte, or attaychmente of the body./ 36:Ed:3: <lb/>
+            <add place="LM">
+               answere to the petition <lb/>
+               36: Ed:3: numero. <lb/>
+               9: &amp; numero. 20./ <lb/>
+               <figure>
+                        <figDesc>Two horizontally-aligned dots beneath an upward-pointing arrow</figDesc>
+                    </figure>
+            </add>
+            numero:9. <add place="above">&amp; nomber 20</add> a private Statute, and the same yere numero:20. yt was complayned in p<ex>ar</ex>li=<lb break="no"/>
+            amente that diu<ex>er</ex>se p<ex>er</ex>sons were imp<ex>ri</ex>soned <foreign xml:lang="la">per <hi rend="underline">speciale mandatu<ex>m</ex>
+                    </hi> D<ex>omi</ex>ni regis</foreign> and otherwise, <lb/>
+            and it was desired that the former Stat. shoulde bee putt in execution, and it was answered <lb/>
+            bee it done w<ex>i</ex>thout disturbance./ 37: Ed:3: cap:18. there is an exposition of the greate <lb/>
+            Charter./ 16: H: 6: means de faits, <add place="above">Fitz:82.</add> an action of trespas was broughte for cuttinge trees <lb/>
+            the def iustifies the cuttinge <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>om</ex>ini regis</foreign>, and adiudged yt was noe plea, w<ex>i</ex>th=<lb break="no"/>
+            out shewinge espetialtie of the com<ex>m</ex>aunde: and there it is holden by the Courte, that yf the <lb/>
+            <hi rend="underline">Kinge com<ex>m</ex>aunde to arreste one, hee maye not averre in an action of false imp<ex>ri</ex>sonm<ex>en</ex>t</hi> <lb/>
+            <add place="LM">
+               <hi rend="underline">Note.</hi>
+            </add>
+            <del rend="strikethrough">
+                    <gap reason="illegible" quantity="8" unit="chars"/>
+                </del> <add place="above">althoughe</add> it bee in the kinges pr<ex>e</ex>sence./ 1: H:7: 4. Hussey saith that markham saide <lb/>
+            to Ed: 4. that the kinge maye not arreste one <add place="above">upon suspition <unclear reason="superscript - need to look at original MS"/>
+                </add> <del rend="strikethrough">
+                    <gap reason="illegible" quantity="4" unit="chars"/>
+                </del> the p<ex>ar</ex>tie maye not haue remedy against <lb/>
+            him, yf hee were falsely imp<ex>ri</ex>soned. Here the kinge makes you Iudges of the cause of his <lb/>
+            com<ex>m</ex>ittm<ex>en</ex>t by the bringinge of the wryte, and yf the cause bee not sufficiente hee is to bee <lb/>
+            bayled, but there is noe cause expressed, therfore hee shalbee bayled./
+         </p>
+         <p>
+            The Stat: West: 1:15. intendethe only <foreign xml:lang="la">de homine replegiando</foreign>, when it saithe by the com<ex>m</ex>on wrtye: <lb/>
+            that in 4. causes hee shall not bee bayled and deliuered by the com<ex>m</ex>on wrtye. Bracton. 153. <lb/>
+            the wryte <foreign xml:lang="la">de homine replegiando</foreign> was att the com<ex>m</ex>on lawe, and Bracton after the wryte <lb/>
+            menc<ex>i</ex>onethe the takinge w<ex>i</ex>thin the Forre <unclear/> w<ex>hi</ex>ch is one of the 4: causes expressed in the Stat: <lb/>
+            for that hee shall not bee deliuered by com<ex>m</ex>on wryte, therfore the Statute alterethe the <lb/>
+            allegac<ex>i</ex>on in the pointe. 21: Ed: 4:71. <hi rend="italic">Wakefielde</hi> was bayled for an horrible murther <lb/>
+            for by the wrtye hee was broughte hither, hee shall not bee subiected &amp; receaved for the <lb/>
+            Stat: of West: 1: 15. <hi rend="italic">extende only to this com<ex>m</ex>on write</hi>, and so is the p<ex>re</ex>amble of the Statute <lb/>
+            after that the Statute declares what it was and whoe is to be replevisable then it adiudgeth <lb/>
+            a penaltie: and soe that Statute extendeth to noe others then the <hi rend="italic">co<ex>mon</ex> Keepers</hi> and ex=<lb break="no"/>
+            tendethe not to <hi rend="italic">the Iudges</hi>, for then it woulde haue added a penaltie upon the <lb/>
+            Iudges, and the Statute makes menc<ex>i</ex>on of inferiours viz the Sherife keepers &amp;c. &amp; <lb/>
+            intendes not superiors the Iudges: soe hee prayed that S<ex>i</ex>r walter Erle <lb/>
+            mighte bee Bayled./
+         </p>
+         <pb n="5v" facs="/bl/add_ms_35331/add_ms_35331_f005v/add_ms_35331_f005v.jpg"/>
+         <p>
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>ini</ex> 1627</hi>
+                </add>
+            <hi rend="italic">Seldon</hi> for S<ex>i</ex>r Eduarde Hambden.
+         </p>
+         <p>
+            Seinge that hee was in the same case, hee hopethe that they woulde not expecte much from him <lb/>
+            after such lerned men: but hee will saye somethinge to the Forme, and somethinge to y<hi rend="superscript">e</hi> matter./ <lb/>
+            For the forme, hee retournes only the cause of the detayninge, but expressethe not any cause: <lb/>
+            ether the daye of caption or otherwise: soe as you maye not iudge upon the tyme of <lb/>
+            his imp<ex>ri</ex>sionm<ex>en</ex>t/ Here is a greate incertenty, it appearethe not when this com<ex>m</ex>aunde <lb/>
+            was, nor when this certifyinge was, and soe appearethe not when this warrante <lb/>
+            was./
+         </p>
+         <p>
+            The retourne is contradictory, <foreign xml:lang="la">deteutus est per speciale mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>, and <lb/>
+            then com<ex>m</ex>ethe in and saithe, that the Councell com<ex>m</ex>aundes him to detayne the p<ex>ri</ex>soner, <lb/>
+            and that hee was com<ex>m</ex>itted <foreign xml:lang="la">per speciale mandatu<ex>m</ex> Dominj Regis</foreign>.
+            For the matter of the retourne, hee is not iustly imprisoned vnlesse the cause bee <lb/>
+            expressed viz: for what cause hee was impr<ex>i</ex>soned. Magna Carta cap:29. that Statute <lb/>
+            clerely expressethe that noe man, shalbee imprisoned w<ex>i</ex>thout due proces, for y<hi rend="superscript">e</hi> wordes <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">per legem terræ</hi>
+                </foreign>, is to bee vnderstoode due proces of lawe, and needes not an explan=<lb break="no"/>
+            nation of the Statute made <foreign xml:lang="la">tempore Ed: 3</foreign>./ yf the Statute had not soe intended, then <lb/>
+            that had bynn a voyde Statute; for a man maye not impr<ex>i</ex>son the villaine of another <lb/>
+            man, but hee maye bringe a trespas, for that it is not <foreign xml:lang="la">
+                    <hi rend="italic">per legem terræ</hi>
+                </foreign>, yet <lb/>
+            it is not of the Statute for hee is noe free man./ 42: Ed:3. The kinge answeres <lb/>
+            the bill, wee will that this lawe take effecte, for it is the lawe of the greate Charter, <lb/>
+            w<ex>hi</ex>ch proves that the great Charter is intended by the wordes <foreign xml:lang="la">per legem terræ</foreign>: <lb/>
+            and hee rites the p<ex>re</ex>sidentes before, and prayethe that S<ex>i</ex>r Iohn Hembden mighte <lb/>
+            bee bayled./.
+         </p>
+         <p>
+            <hi rend="italic">Caltrope</hi> for S<ex>i</ex>r Iohn Corbett./
+         </p>
+         <p>
+            The retourne is insufficiente in manner and matter. For the manner it is retourned <lb/>
+            that hee is detayned <foreign xml:lang="la">per mandatu<ex>m</ex> sub sigillo D<ex>omi</ex>ni regis</foreign>: that is not a directe affirmance <lb/>
+            w<ex>hi</ex>ch is <foreign xml:lang="la">p<ex>er</ex> mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>. Plod: 121: 122./ 21: Ed: 4: 43. to saye in all actions of <lb/>
+            debte upon an obligac<ex>i</ex>on that the def stoode bounde to the plaintife in 20:l the w<ex>hi</ex>ch hee <lb/>
+            hath not paide to the pl<ex>ain</ex>t<ex>iff</ex> that declarac<ex>i</ex>on is not good, for every declarac<ex>i</ex>on oughte to <lb/>
+            bee certayne, and a retourne oughte to bee more certayne then pleadinge. Fitz: <lb/>
+            Nat. Br: 63. A./ <unclear>??ister</unclear> 63. in a wryte of excomunicac<ex>ion</ex> <unclear>capiend</unclear>: and there <lb/>
+            is not any directe affirmac<ex>i</ex>on, that hee is &amp;c 33: Ed: 3. excom<ex>m</ex>engm<ex>en</ex>t 29. there <lb/>
+            it appearethe by the tenante of the B<ex>ishop</ex> of L: that the B<ex>ishop</ex> Waterforde had <lb/>
+            excomunicated him, and it was evill, for hee oughte to certifie of his Conusance. <lb/>
+            Cob: lib :8: 68./ Nat. Br: 65./
+         </p>
+         <p>
+            <add place="LM">
+               <figure>
+                        <figDesc>Doodle of a flower</figDesc>
+                    </figure>
+            </add>
+            Another reason, the warrante is that whereas hee was formerly com<ex>m</ex>itted, that was <lb/>
+            <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>. The tyme of his com<ex>m</ex>ittm<ex>en</ex>t is materiall, for <hi rend="underline">the suiecte oughte <lb/>
+            not to bee imprisoned to longe, Ass: 38: pt: 22./ Brook Impr<ex>i</ex>sonm<ex>en</ex>t 100. The kinge <lb/>
+            <add place="LM">
+               Ses Stat: 18: Eliz: cap: 6. <lb/>
+               in what case a man may <lb/>
+               bee kepte in p<ex>ri</ex>son after <lb/>
+               Iudgm<ex>en</ex>t./
+            </add>
+            maye not him iustly detayne in prison, after the fyne bee tendred</hi>: For there is a <lb/>
+            tyme appointed for the impr<ex>i</ex>soned, that in tyme the p<ex>ar</ex>tie maye bee broughte to <lb/>
+            answere./ The lawe is tender to imprison a subiecte to longe: For Register. 273. <lb/>
+            the p<ex>ar</ex>tie is to bee deliuered out of prison, not by longe detayninge of his body, or <lb/>
+            by a detrymente to yt, but by due course of lawe. 3: H: 6: numero 46. <hi rend="underline">one made <lb/>
+            a petition to the p<ex>ar</ex>liam<ex>en</ex>t for releife, for that many were com<ex>m</ex>itted to prison, and layde <lb/>
+            there longe, and the kinge answered, bee the lawe and Statutes in this case observed, <lb/>
+            and kepte./ The lawe is tender in the imp<ex>ri</ex>sonm<ex>en</ex>t of a man. 8: Ed: 4: 13./</hi> Dyer <lb/>
+            <add place="LM">
+               <figure>
+                  <p>
+                     <hi rend="underline">Note.</hi>
+                  </p>
+                  <figDesc>Three concentric hatched circles surrounding the text</figDesc>
+               </figure>
+            </add>
+            175. <hi rend="underline">betweene the retourne of the Capias you have not a Terme for that the p<ex>ar</ex>tie <lb/>
+            shall then bee restrayned to longe of his libertie. 39:</hi> Ed:3: 6:7. howe bee yt the <lb/>
+            Sherife retournes not his wryte, yet the p<ex>ar</ex>tie maye appeare Gratis upon a <lb/>
+            Capias for savinge his imp<ex>ri</ex>sonm<ex>en</ex>t/ For theise causes the defaulte of the tyme <lb/>
+            in the retourne doth vitiate the retourne./
+         </p>
+         <pb n="6r" facs="/bl/add_ms_35331/add_ms_35331_f006r/add_ms_35331_f006r.jpg"/>
+         <p>
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>ini</ex> 1627</hi>
+                </add>
+            Upon the matter of the retourne. The Com<ex>m</ex>aunde of the kinge beinge verball is not <lb/>
+            sufficiente to imprison. 16: H: 6. means de faits. 182 v./ 10: H: 7: 17. Frowicke. Howe be it the Iudges <lb/>
+            maye com<ex>m</ex>aunde by parroll, yet <hi rend="underline">the p<ex>ar</ex>tie maye not iustifie vnlesse the com<ex>m</ex>aunde bee upon recorde</hi>. 39: h: 6: <lb/>
+            17. seisure of goodes of one are <sic>utlawed</sic> by the verball com<ex>m</ex>aundm<ex>en</ex>t of the kinge is not good vnlesse the p<ex>ar</ex>tie w<ex>hi</ex>ch <lb/>
+            is seised bee Baylife, or other officer to the kinge./ <space quantity="4" unit="chars"/> There is another com<ex>m</ex>aunde and that is under the <lb/>
+            privy Seale or signett./ The Stat: An<ex>n</ex>o 1: R: 2: cap: 12. of an escape, instructes punishm<ex>en</ex>t on the <lb/>
+            warden of the fleete vnlesse it bee by wryte, or other com<ex>m</ex>aunde of the kinge. dyer. 162. Thurland <lb/>
+            there deliuers a doubte of the com<ex>m</ex>aunde of the kinge: and there the p<ex>ro</ex>texion was not allowed, and <lb/>
+            the lawe is that the <hi rend="underline">arreste is not a good com<ex>m</ex>aundem<ex>en</ex>t by wryte of the kinge</hi>. Cok: lib.7:20. Calvyus case, that it appearethe <lb/>
+            there are 2. sortes of the kinges wrytes viz: Brevia mandatoria, &amp; breia Remedialia Register <lb/>
+            70. there the com<ex>m</ex>aundem<ex>en</ex>t of the kinge is by wryte. Further the com<ex>m</ex>aunde of the kinge is breve <lb/>
+            mandatoriu<ex>m</ex>, non remediale, as Com<ex>m</ex>ission of the kinge. Ass: 42: xl:5: adiudged, <hi rend="underline">that com<ex>m</ex>ission is <lb/>
+            againste the lawe to take a man and his goodes w<ex>i</ex>thout inditem<ex>en</ex>t or suite of the p<ex>ar</ex>tie, or other <lb/>
+            due proces.</hi> Here the warrante is <foreign xml:lang="la">per speciale mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign> &amp;c. is by write. Bracton <lb/>
+            113. cap:12. <foreign xml:lang="la">p<ex>re</ex>cipimus tibi quod non implacites sine speciali praetepto n<ex>ost</ex>ro</foreign>: then yf a wryte <lb/>
+            bee directed it is a good com<ex>m</ex>aundem<ex>en</ex>t/ and there your firste com<ex>m</ex>aunde is by wryte. Register. 171. <lb/>
+            B: H. <foreign xml:lang="la">a prisona deliberari non possunt sine mandato n<ex>ost</ex>ro speciales, nos</foreign> &amp;c. These cases prove <lb/>
+            that they maye bee imp<ex>ri</ex>soned by the speciall com<ex>m</ex>aunde of the kinge, by that com<ex>m</ex>aunde by parroll <lb/>
+            by wryte, or Com<ex>m</ex>ission in all cases the prisoner is bayled. 3. H: 6: numero 46. there was one <lb/>
+            com<ex>m</ex>itted <foreign xml:lang="la">per speciale mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>, and was bayled. And soe hee prayed that S<ex>i</ex>r <lb/>
+            Iohn Corbett mighte be bayled./
+         </p>
+         <p>
+            <hi rend="italic">Attorney le Roy. Sir Ro: Hethe.</hi>
+         </p>
+         <p>
+            Divers have bynn the exceptions w<ex>hi</ex>ch haue bynn taken to, for the Forme of the Retournes. Firste <lb/>
+            that the retourne is not absolute: I confesse that yf it bee the relation of another, and not his <lb/>
+            owne wordes the Retourne is insufficiente: but I saye that the retourne is absolute, and y<hi rend="superscript">e</hi> wordes <lb/>
+            of the Officer, and <hi rend="underline">that w<ex>hi</ex>ch is added is <foreign xml:lang="la">Ex abundantia</foreign>
+                </hi>. And to shewe that hee detaynethe him <lb/>
+            not of his owne <unclear reason="obscured"/>, hee is detayned <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign> and soe hee answered that obiec=<lb break="no"/>
+            tion./
+         </p>
+         <p>
+            Secondly for that the officer retournes not the cause of his imp<ex>ri</ex>sonm<ex>en</ex>t hee answered, that the <lb/>
+            wryte demaundes nothinge more then the cause of his detayninge, and soe hee hath retourned: <lb/>
+            and yf the write had bynn speciall to haue the cause of his imprisonm<ex>en</ex>t then hee agreed that <lb/>
+            it oughte to bee retourned./ The body of the Councell is repr<ex>e</ex>sentatively the body of the kinge, <lb/>
+            and here the wante is not the wordes of the Lordes of the Councell, but the declaration of <lb/>
+            the pleasure of the kinge: another daye a habeas corpus hath bynn directed to diuerse <lb/>
+            keepers of prisons to bringe the prisoners w<ex>i</ex>th there cause, that they maye have the com<ex>m</ex>on <lb/>
+            course of Iustice. Many obiections have bynn made: one to the forme, another to the matter. <lb/>
+            As to the firste, they have obiected 4: thinges 1:<hi rend="superscript">o</hi> that it is not positiue, but referred to <lb/>
+            the signification of another. 2:<hi rend="superscript">o</hi> that hee retournes not the cause. 3:<hi rend="superscript">o</hi> that it is imp<ex>er</ex>fecte <lb/>
+            for that it is not retourned howe longe they have bynn detayned, nor the cause of there imp<ex>ri</ex>=<lb break="no"/>
+            sonm<ex>en</ex>t 4<hi rend="superscript">o</hi> that in yt there is a contradiction./
+         </p>
+         <p>   
+            <add place="LM">1.</add>
+            Firste I agree that the grounde is truly layde. Ass: 27:xl:55. A sherife retournes that <lb/>
+            hee hath made a warrante to his Baylife, whoe hath retourned to him, that it is not <lb/>
+            good vnlesse hee bee a Baylife of a libertie, for then it is a good retourne <foreign xml:lang="la">null<ex>m</ex> dedit <lb/>
+            responsu<ex>m</ex>
+                </foreign>, for hee is the officer of the Bayliweeke 33: H:6:20./ 2: H:4:4. that such <lb/>
+            a Baylife shoulde haue a retourne of the wryte, otherwise it is nut good./ And also hee <lb/>
+            agreed the p<ex>re</ex>sidente of <unclear>21</unclear> Ed:3./ 21: Ed:3. before cited to bee good lawe./ It is saide <lb/>
+            that an insufficiente retourne is as noe retourne, but then the worste is, it shalbee <lb/>
+            amended. But our case differs from all the cases: for the firste wordes are positive <lb/>
+            viz: <foreign xml:lang="la">per speciale mandatu<ex>m</ex> D<ex>om</ex>ini regis</foreign>, and the wordes <foreign xml:lang="la">nulis significatu<ex>m</ex>
+                </foreign> is but a surplu=<lb break="no"/>
+            sage and noe parte of the retourne.
+         </p>
+         <p>
+            <add place="LM">
+               2. <lb/>
+               3.
+            </add>
+            The secunde dependes upon the firste, and for that hee saide it is <foreign xml:lang="la">causa causeta, et cause causaus</foreign> <lb/>
+            and the laste is our case. 3:<hi rend="superscript">o</hi> The retourne oughte to bee sufficiente to answere the com<ex>m</ex>aunde of <lb/>
+            the write, and that the officer hath done, for the com<ex>m</ex>aunde of the wryte is to have the p<ex>ar</ex>tie
+            <hi rend="align-right">and the cause of his detayninge. 9:H:6: 44. there it is resolved</hi>
+            <fw type="catch" place="bot-right">what</fw>
+            <pb n="6v" facs="/bl/add_ms_35331/add_ms_35331_f006v/add_ms_35331_f006v.jpg"/>
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>ini</ex> 1627</hi>
+                </add>
+            what cause soever, that the warden of the Fleete retournes, that oughte to bee accepted. Therfore the <lb/>
+            officer hath done safely to shewe howe hee receaves his warrante.
+         </p>
+         <p>
+            <add place="LM">4.</add>
+            Fourthly as to the contradiction. Firste of the warrante that it is to require you &amp;c. and the <lb/>
+            wordes of the Lordes of the Councell are the wordes of the kinge himselfe, for they rep<ex>re</ex>sente the body <lb/>
+            of the kinge. <space extent="4" unit="chars"/> As to the matter of lawe, yf  theise gentlemen are replevisable./ There <lb/>
+            com<ex>m</ex>ittm<ex>en</ex>t is noe ordinary com<ex>m</ex>ittm<ex>en</ex>t but <foreign xml:lang="la">per speciale mandatu<ex>m</ex> D<ex>omi</ex>ni Regis</foreign>, and is a proper <lb/>
+            and ymediate warrante, upon w<ex>hi</ex>ch hee desired to have them remaunded. There Cou<ex>n</ex>cell <lb/>
+            <add place="LM">1.</add>
+            have obiected 5. thinges for w<ex>hi</ex>ch they oughte to bee bayled. 1:<hi rend="superscript">o</hi> For the inconveniences <lb/>
+            <add place="LM">2.</add>
+            that maye happen to the subiecte by restraynte of libertie. 2:<hi rend="superscript">o</hi> diuerse authorities <lb/>
+            <add place="LM">3:4.</add>
+            of bookes. 3:<hi rend="superscript">o</hi> diuerse petitions to p<ex>ar</ex>liam<ex>en</ex>tes and there answeres. 4:<hi rend="superscript">o</hi> diuerse Statutes in <lb/>
+            <add place="LM">5.</add>
+            printe. 5:<hi rend="superscript">o</hi> diuerse p<ex>re</ex>sidentes of imprisonm<ex>en</ex>t by the Lo<ex>rds</ex> of the Councell, and some by the <lb/>
+            kinge himselfe. and yet the prisoner hath bynn bayled: I will endeavor to followe <lb/>
+            there waye and Answere.
+         </p>
+         <p>
+            <add place="LM">1.</add>
+            Firste, libertie is a thinge most pretious, and that I graunte, soe that it bee <foreign xml:lang="la">secundu<ex>m</ex> <lb/>
+            <add place="LM">2.</add>
+            legem terræ</foreign>. Dyer. 175./ Ass 30:xl:22./ Bro: imp<ex>ri</ex>so<ex>n</ex>m<ex>en</ex>t 100./ means de faits. 128. <lb/>
+            1: H:7:7., theise were bookes rited to this purpose, and soe hee saide that is intended <lb/>
+            in an ordinary cause of Iudicature. For in Dyer there is a Capias for a contempte, <lb/>
+            and it is fitter for westminster Hall then the Councell table. In the later case <lb/>
+            hee conceaved that it is not fytte for the kinge to com<ex>m</ex>itte in such cases. But <lb/>
+            <hi rend="underline">here the question is <hi rend="italic">yf the Kinge maye com<ex>m</ex>itte by his prærogatiue.</hi>
+                </hi> 4:Ed:3: 16. <lb/>
+            was cited and Herle in .1. Ed:3:6 the kinge com<ex>m</ex>aundes to retourne a plea, <lb/>
+            untill the p<ex>ar</ex>tie retourne out of Scotlande, there the Iudges saye his retourne <lb/>
+            is uncertayne and to contynewe that is matter of lawe of w<ex>hi</ex>ch the kinge hath <lb/>
+            noe experience, and that com<ex>m</ex>aundem<ex>en</ex>t is contrary to lawe, therfore they refuse <lb/>
+            to allowe of yt./ That the kinge maye not compounde, there <hi rend="underline">is a difference <lb/>
+            betweene the absolute power of the kinge w<ex>hi</ex>ch concernes matters of State, and <lb/>
+            the petty ordinary causes of ordinary Iustice.</hi> The kinge as hee is the heade <lb/>
+            of the com<ex>m</ex>on wealthe, soe hee is the fountayne of Iustice, and Iustice it selfe, and <lb/>
+            that w<ex>hi</ex>ch hee hath done hee did in iustice: <hi rend="underline">and yet hee is subiecte to the lawe</hi>: but hee <lb/>
+            is not subiecte to giue accompte to subiectes of his actions. yf the kinge make <lb/>
+            a warrant to com<ex>m</ex>itte one and saye <foreign xml:lang="la">pro <unclear>rectis</unclear> causis</foreign>, or <foreign xml:lang="la">pro causis ignotis</foreign> it is a <lb/>
+            good warrante by the kinge. And yf a subiecte beinge an officer make such a warrante <lb/>
+            it is not good: For its matter of State: <hi rend="italic">&amp; when noe matter is expressed</hi> that oughte <lb/>
+            to bee conceived matter of State, and that oughte not to bee examined by y<hi rend="superscript">e</hi> subiecte <lb/>
+            Magna Carta :29. <foreign xml:lang="la">nullus liber homo</foreign> &amp;c. that Statute hath had many confirmac<ex>i</ex>ons <lb/>
+            <add place="LM">4</add>
+            and is positiue, <hi rend="underline">will you haue none impr<ex>i</ex>soned but hee w<ex>hi</ex>ch is indited? &amp; convicted <lb/>
+            upon due proces of lawe</hi>? <foreign xml:lang="la">Secundu<ex>m</ex> legem terræ</foreign> makes the difficulte, then <lb/>
+            yf the kinge com<ex>m</ex>itte one that is <foreign xml:lang="la">lex terræ</foreign>, and is not to bee examined but by <lb/>
+            yo<ex>u</ex>r highe Iudge God himselfe. It was obiected that the wordes in the recited <lb/>
+            book of magna Carta cap: 29. was <foreign xml:lang="la">nec in Carcerem mittemus nisi per legale <lb/>
+            iudicu<ex>m</ex> pariu<ex>m</ex> suor<ex>um</ex> vel per legem terræ</foreign>. And in Math: Parrus there the <lb/>
+            manuscripte of Magna Carta is att large, for hee liued in tyme of H.3. hee <lb/>
+            answered that it is not in the olde manuscripte and hee shewed an olde manu=<lb break="no"/>
+            scripte: And as for mathewe Parris hee liued in the tyme of Kinge Iohn; and <lb/>
+            then this Statute was intended but was not p<ex>er</ex>fected untill H:3. But ad=<lb break="no"/>
+            mitte the wordes to bee in the booke hee sees not what difference doth make./ <lb/>
+            the Statute of 25: Ed:3: cap:4. was saide to examine the Statute of Magna <lb/>
+            Carta. w<ex>hi</ex>ch was reade, the wordes are that none shalbee condemned <lb/>
+            w<ex>i</ex>thout tryall &amp;c. And that <hi rend="underline">was to p<ex>re</ex>vente p<ex>ri</ex>vate proceedinges &amp; extendes <lb/>
+            not to imp<ex>ri</ex>soninge them w<ex>i</ex>thout tryall, for that was the practise then, w<ex>hi</ex>ch <lb/>
+            yet contynewes, that is to saye, to imp<ex>ri</ex>son before tryall</hi>./ 28: Ed:3: 3.
+            <pb n="4v" facs="/bl/add_ms_35331/add_ms_35331_f007r/add_ms_35331_f007r.jpg"/>
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>in</ex>i 1627</hi>
+                </add>
+            28: Ed: 3: cap:3. that Statute is to bee intended of a due p<ex>ro</ex>ceedinge of lawe <lb/>
+            before finall imprisonm<ex>en</ex>t and hath no reference to the matter in question 37: <lb/>
+            Ed: 3: cap: 18. that Statute is againste petition and suggestion to the kinge and to the <lb/>
+            Councell not in a legall manner./ 42: Ed: 3: cap: 9. that Statute is of the same <lb/>
+            manner./ 1: Ri: 2: cap: 12. that Statute is againste the warden of the fleete vnlesse <lb/>
+            hee lett him goe att large by the speciall com<ex>m</ex>aunde of the kinge or otherwise: that was <lb/>
+            for his purpose, and the Statute inflictes 2. penalties .1.<hi rend="superscript">o</hi> to forfeite his office. 2<hi rend="superscript">o</hi>. to <lb/>
+            giue remedy to the p<ex>ar</ex>tie. Dyer 132 Vernons case, there the com<ex>m</ex>aunde of the kinge <lb/>
+            saves the forfeiture of his office, for upon an habeas corpus hee oughte to have the prisoner <lb/>
+            <add place="LM">3.</add>
+            here. They cited diu<ex>er</ex>se petitions in p<ex>ar</ex>liam<ex>en</ex>t and they answered to them as pr<ex>i</ex>vate re=<lb break="no"/>
+            cordes. 36: Ed: 3. numero .9. et 20: 38. numero. 28. the answere is that it shalbee done <lb/>
+            but that is not to the pointe in question. The petition is to have righte, and to observe the <lb/>
+            lawe, and not to imprison upon false suggestion, and the kinge answered that hee will that <lb/>
+            all the lawes and statutes bee observed, but noe worde of the poynte in question. 3: H: 6. numero <lb/>
+            46. hee coulde not finde therfore howe hee mighte safely conclude upon that recorde./
+         </p>
+         <p>
+            <add place="LM">5.</add>
+            The thirde pointe is yf the kinge, or Councell of the kinge may com<ex>m</ex>itte, and yf imp<ex>ri</ex>sonm<ex>en</ex>t <lb/>
+            without shewinge cause of it, that such a p<ex>ar</ex>tie bee bayleable? West: 1: cap: 15. of maynprise <lb/>
+            that is a full exposition of magna Carta, and Courtes of Iustice are excluded out of that Stat of Westm. <lb/>
+            there was not anymore, but expresseth the lawe in 4. cases Magna Carta was made in the <lb/>
+            tyme of H: 3. and the statute of west. was made in his sonnes tyme, and yf they had understoode <lb/>
+            magna Carta otherwise, woulde they not have bynn carefull aswell of the greater as of the <lb/>
+            lesser? there is not any opinion to the contrary, but that the kinge maye by his speciall <lb/>
+            com<ex>m</ex>aunde imp<ex>ri</ex>son one, and hee shall not bee bayleable./ But hee founde opinion that they <lb/>
+            were not <hi rend="italic">repleviseable.</hi> 32: H:6:52. Newton, those that are com<ex>m</ex>itted <foreign xml:lang="la">per mandatu<ex>m</ex> <lb/>
+            D<ex>omi</ex>ni regis</foreign> are not repleviseable. There is an opinion and it is not denyed. 32:H:6:28. <lb/>
+            the warden of the fleete retourned that hee was imp<ex>ri</ex>soned for diu<ex>er</ex>se causes <foreign xml:lang="la">per man=<lb break="no"/>
+            datu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>, and noe exception to the retourne: but the pointe was upon another <lb/>
+            thinge 21: Ed:3: rotulo:42./ The Sherife of Lecester and Warwicke (for heretofore <lb/>
+            there was but one Sherife of both Counties) receaved a warrante from the kinge by write <lb/>
+            not to bayle those that were com<ex>m</ex>itted by the Erle of warwicke in his custody, the wordes <lb/>
+            are that the kinge sente to him to giue him noe grace, that is noe bayle, yet the <lb/>
+            Sherife lett him goe att large upon bayle, and that beinge debated in p<ex>ar</ex>liam<ex>en</ex>t the <lb/>
+            Sherife was condemned upon the Statute of West:1./ The use of this case is, ther was noe <lb/>
+            recitall of the cause of his imp<ex>ri</ex>sonm<ex>en</ex>t/ 2:<hi rend="superscript">o</hi> to explane the Stat: of West:1. for yt was determined <lb/>
+            in p<ex>ar</ex>liam<ex>en</ex>t/ upon the wryte <foreign xml:lang="la">de ho<ex>m</ex>i<ex>n</ex>e replegiando</foreign> there is an exception of <foreign xml:lang="la">ius captus sit ad <lb/>
+            speciale mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>, w<ex>hi</ex>ch by the Custome of Englande are not replevisable. Fitz: Mat: <lb/>
+            Br: in his wryte he <foreign xml:lang="la">de ho<ex>m</ex>i<ex>n</ex>e replegiendo</foreign> saithe that there are also causes when a man <lb/>
+            shall not have libertie, when hee it taken by the com<ex>m</ex>aunde of the kinge, or cheife Iustice. <lb/>
+            Stamforde: fol:72. then a reverente Iudge in his pleas of the crowne upon the <lb/>
+            Stat: of West:1. saith that in 4 cases a man is not replevisable, and that is, when <lb/>
+            hee is com<ex>m</ex>itted <foreign xml:lang="la">per mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign> w<ex>hi</ex>ch is understoode by the com<ex>m</ex>aunde of his <lb/>
+            mouthe, or his Councell, those are his beste com<ex>m</ex>entaries upon the saide lawe of West:1. <lb/>
+            beinge two reverente Iudges. Hee hath seene the Lo<ex>rd</ex> Andersons reportes, and amonge <lb/>
+            them is recited a cause resolved 34: Eliz: by all the Iudges of Englande and they <lb/>
+            all subscribed under there handes in what causes p<ex>ri</ex>soners were bayleable and in <lb/>
+            what not, and amonge them one is yf hee bee com<ex>m</ex>itted by the com<ex>m</ex>aundem<ex>en</ex>t of <lb/>
+            the Queene, or by the body of the privy Councell, or when two or more of the <lb/>
+            Councell com<ex>m</ex>ittes one for Treason: soe here is a Iudgm<ex>en</ex>t by all the Iudges <lb/>
+            of Englande. It was obiected that the subiecte hath a greate interest
+            <fw type="catch" place="bot-right">intereste in <space unit="chars" extent="25"/> that hee agreed</fw>
+            <pb n="7v" facs="/bl/add_ms_35331/add_ms_35331_f007v/add_ms_35331_f007v.jpg"/> 
+            <add place="header">
+                    <hi rend="underline">An<ex>n</ex>o Dom<ex>ini</ex> 1627</hi>
+                </add>
+            hee agreed to yt. and saide that the kinge hath a greater intereste, for hee shalbee p<ex>re</ex>ferred <lb/>
+            before any subiecte. The question is not howe longe hee shalbee imp<ex>ri</ex>soned: for the Lawe <lb/>
+            intendes that the kinge maye not doe wronge. Dyer 48. The kinge maye not usurpe, <lb/>
+            for hee maye not doe wronge. Ymagine a Treason were com<ex>m</ex>itted by two, &amp; both <lb/>
+            goe there waye, and one is taken and imp<ex>ri</ex>soned in the tower, yf hee bringe an <lb/>
+            habeas corpus yt needes not to shewe the cause of his imp<ex>ri</ex>sonm<ex>en</ex>t for yf yt shalbee <lb/>
+            revealed yt maye p<ex>re</ex>iudice the kinge: for by the revealinge of yt the other maye <lb/>
+            have notice for what cause hee is imp<ex>ri</ex>soned, and by that meanes secure himselfe, <lb/>
+            and the p<ex>ar</ex>tie is not to bee broughte to tryall before due p<ex>re</ex>paration./ <lb/>
+            Diverse children were com<ex>m</ex>itted to the Towre, when they had not Conusance of good <lb/>
+            or evill, yet they coulde not be bayled for they were com<ex>m</ex>itted for matter <lb/>
+            of State. It was obiected by this meanes w<ex>i</ex>thout cause shewed, y<hi rend="superscript">e</hi> subiecte <lb/>
+            shall have noe remedy: admitte the kinge converte all his coyne into brasse, <lb/>
+            that wilbee inconvenyente for the subiecte: yet it cannot bee remedied. But <lb/>
+            wee maye not p<ex>re</ex>sume the kinge will doe yt. And when it is for matters of <lb/>
+            State wee oughte to bee to wise to searche into matters of princes: The <lb/>
+            p<ex>re</ex>rogatiue of the kinge is greate, for the lawe puts confidence in the kinge <lb/>
+            for his Iustice and mercy. The kinge maye p<ex>ar</ex>don all Treasons, and it <lb/>
+            wilbee inconvenyente, but the kinge will not doe yt. The kinge maye exp=<lb break="no"/>
+            cepte all a County but two from beinge knightes of the Shire for the p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            that wilbee inconvenyente, that two shall beare the charges: so the kinge maye <lb/>
+            exempte such a County from beinge on Iuries, that wilbee inconvenyente to <lb/>
+            destroye the cheife tryall w<ex>hi</ex>ch the subiecte hath, and it wilbee a greate pre=<lb break="no"/>
+            iudice to the subiecte, yet that the kinge maye doe: but hee will not <lb/>
+            for the lawe trustethe him w<ex>i</ex>th mercy and Iustice. In o<ex>u</ex>r case wee maye <lb/>
+            not p<ex>re</ex>sume that this imprisonm<ex>en</ex>t wilbee p<ex>er</ex>petuall for the lawe impliethe <lb/>
+            not wronge in the kinge. Presidents keepe the lawe: they have shewed <lb/>
+            diverse p<ex>re</ex>sidentes, but all are mistaken, and are <foreign xml:lang="la">nihil ad rem</foreign>. 1:H:8. <lb/>
+            rotulo.9. <hi rend="italic">Harrison</hi> was com<ex>m</ex>itted for suspition of Felony and there the <lb/>
+            com<ex>m</ex>aunde of the kinge was saide to bee certifyed by one of Cliffordes Inne, <lb/>
+            that hee shalbee bayled. 40. Eliz: <hi rend="italic">Wendons case</hi>, hee was com<ex>m</ex>itted out <lb/>
+            of the Starre chamber upon legall p<ex>ro</ex>ceedinge 8: <hi rend="italic">Jacobi. Cæsars</hi> case <lb/>
+            hee was com<ex>m</ex>itted and bayled. <hi rend="italic">Vernons</hi> case, hee was com<ex>m</ex>itted for suspition <lb/>
+            of <unclear>Werburies</unclear> deathe, and was charged by the Councell. 8: H:7. Roger <lb/>
+            <hi rend="italic">Cheney</hi> hee was arraigned and acquited, therfore greate reason hee <lb/>
+            shoulde bee bayled. But hee cited some p<ex>re</ex>sidentes of the Towre. In the 4:th <lb/>
+            of Ed:3. <hi rend="italic">Iames Fox</hi> was taken and imp<ex>ri</ex>soned for diuerse offences made in <lb/>
+            the Forreste, and hee was bayled by speciall warrante of the kinge. <hi rend="underline">yf</hi> <lb/>
+            <add place="LM">
+               this is farr fetchde for there <lb/>
+               are iudiciall p<ex>ro</ex>ceedinges paste <lb/>
+               and iudgm<ex>en</ex>t given, as a punishm<ex>en</ex>t <lb/>
+               by lawe. in this case hee never <lb/>
+               is charged, nor is broughte to <lb/>
+               answere. <foreign xml:lang="la">et ubi nullu<ex>m</ex> factu<ex>m</ex> <lb/>
+               nulla fortia</foreign>.&amp;c./
+            </add>
+            <hi rend="underline">men are Com<ex>m</ex>itted out of the Chauncery, highe Com<ex>m</ex>ission, Courte of Ex=<lb break="no"/>
+            chequer, Starre Chamber: upon an habeas corpus maye wee examine <lb/>
+            the decree and sentences? noe</hi>./ 10. Iacob. there was a private con=<lb break="no"/>
+            stitution in London betweene the white and browne breade Bakers <lb/>
+            <add place="LM">
+               A corporation cannot make <lb/>
+               an ordinance to imp<ex>ri</ex>son <lb/>
+               a man: but only to fyne <lb/>
+               him. <hi rend="underline">Coke lib :9: fol:64</hi> <lb/>
+               Clarkes case./ because it <lb/>
+               is against Mag<ex>na</ex> Carta./ <lb/>
+               <foreign xml:lang="la">nullus liber homo</foreign> &amp;c.
+            </add>
+            and Iohn Littlebagge was com<ex>m</ex>itted for a breache of the saide con=<lb break="no"/>
+            stitution and upon an habeas corpus here, hee Remaunded to London. <lb/>
+            And maye an inferior Iurisdiction haue the p<ex>ri</ex>viledge and maye not
+            <fw type="catch" place="bot-right">the kinge himselfe?</fw>
+            <pb n="8r" facs="/bl/add_ms_35331/add_ms_35331_f008r/add_ms_35331_f008r.jpg"/>
+            <add place="header">
+               <hi rend="underline">An<ex>n</ex>o Dom<ex>ini</ex> 1627</hi>
+            </add>
+            the kinge himselfe have that Iustice? P: 7: H:7. rotulo 2. <hi rend="italic">Brage</hi> was com<ex>m</ex>itted <lb/>
+            <foreign xml:lang="la">per speciale mandatu<ex>m</ex> D<ex>omi</ex>ni regis</foreign>, and <foreign xml:lang="la">Termino Trinitatis</foreign> nexte ensuynge <foreign xml:lang="la">dominus <lb/>
+            rex relaxavit mandatu<ex>m</ex> suu<ex>m</ex>
+                </foreign>./ And then <hi rend="italic">Villia Battleman</hi>. P:7:H:7: rotulo. 13. and <lb/>
+            others were com<ex>m</ex>itted to the marshall of the kinges howse, and one of them had a release <lb/>
+            of the com<ex>m</ex>aunde of the kinge, and others detayned in prison. Bracton lib: 1: cap: 8./
+         </p>
+         <p rend="indent">
+            The remedy is by petition and not by an habeas corpus, and therfore hee <lb/>
+            prayed that they mighte bee remaunded./
+         </p>
+         <p>
+            <hi rend="underline">Iudicium</hi>
+         </p>
+         <p rend="indent">
+            Which was pronounced by the cheife Iustice <hi rend="italic">Hide</hi> in the names <lb/>
+            of all the Iudges. viz: Dodderidge, Whitelocke, and Iones, <lb/>
+            that the prisoners were to remayne in prison, as this case <lb/>
+            was, vntill of grace the kinge enlarged them, and that they <lb/>
+            were not to bee bayled upon an habeas corpus./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f004r/add_ms_35331_f004r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f004v/add_ms_35331_f004v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_35331/add_ms_35331_f005r/add_ms_35331_f005r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_35331/add_ms_35331_f005v/add_ms_35331_f005v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_35331/add_ms_35331_f006r/add_ms_35331_f006r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_35331/add_ms_35331_f006v/add_ms_35331_f006v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_35331/add_ms_35331_f007r/add_ms_35331_f007r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_35331/add_ms_35331_f007v/add_ms_35331_f007v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_35331/add_ms_35331_f008r/add_ms_35331_f008r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript Pamphleteering in Early Stuart England (MPESE)</title>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <address>
+                    <addrLine/>
+                    <addrLine/>
+                </address>
+                <availability>
+                    <licence target="http://creativecommons.org">
+                        <p/>
+
+                    </licence>
+                </availability>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Manuscript Description is provided in the body.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <date when="2018-06-22">22 June, 2018</date>
+                </head>
+                <list>
+                    <item>Improved searching</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-05-21">21 May, 2018</date>
+                </head>
+                <list>
+                    <item>PDF generation of text transcript and metadata</item>
+                    <item>Link to PDF and XML downloads on the 'Text Details' tab</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-04-16">16 April, 2018</date>
+                </head>
+                <list>
+                    <item>Removed whitespace from words that are truncated in the XML, but need to appear whole in the transcript.</item>
+                    <item>Fixed issue with the languages of the text not appearing.</item>
+                    <item>Removed empty bullet point for texts where the author tag just holds a comment but no author details</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-04-11">11 April, 2018</date>
+                </head>
+                <list>
+                    <item>Improved rendering of the text, such as displaying lists.</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-04-09">9 April, 2018</date>
+                </head>
+                <list>
+                    <item>Initial implementation of an advanced search.</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-03-09">9 March, 2018</date>
+                </head>
+                <list>
+                    <item>Created a job to generate witness lists fron the MS data, so that we can link to witnesses with 
+                        transcripts and show folio numbers.</item>
+                    <item>Added a photo icon on search ressults to indicate if we have images for a text</item>
+                    <item>Fixed the date ordering</item>
+                    <item>Fixed issue where pagination lost request parameters</item>
+                    <item>Temporarily removed 'map' tab from text interface</item>
+                    <item>Removed the filtering experiment</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-02-20">20 February, 2018</date>
+                </head>
+                <list>
+                    <item>Replaced images with better quality (larger) JPEG files</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-02-13">13 February, 2018</date>
+                </head>
+                <list>
+                    <item>Initial work on filtering out witnesses in the search results</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-02-12">12 February, 2018</date>
+                </head>
+                <list>
+                    <item>Fixed issue with SVG logos not rendering correctly</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-02-02">2 February, 2018</date>
+                </head>
+                <list>
+                    <item>Added a change log</item>
+                    <item>Add feedback</item>
+                </list>
+            </div>
+            <div>
+                <head>
+                    <date when="2018-02-01">1 February, 2018</date>
+                </head>
+                <list>
+                    <item>Added image viewer to manuscript pages</item>
+                    <item>Updated text and manuscipts to use the TEI facsimile element</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

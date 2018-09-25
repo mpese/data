@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech in Ireland</title>
+            <author>
+               <persName corresp="../people/people.xml#P0">James Ussher</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72414.xml">British Library, Additional MS 72414, ff. 90r–95v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6842.xml">British Library, Harley MS 6842, ff. 126r–130v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_1.xml">Bodleian Library,  MS Carte 1, ff. 81r–84r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_692.xml">Bodleian Library,  MS Rawlinson D 692, ff. 13r–14v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_314.xml">Bodleian Library,  MS Tanner 314, ff. 57r–60r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg129.xml">Cambridge University Library,  MS Gg.1.29, reversing the voume, 61r–64v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm59.xml">Cambridge University Library,  MS Mm.5.9, ff14</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 65r–67v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1627-04-30">30 April 1627</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

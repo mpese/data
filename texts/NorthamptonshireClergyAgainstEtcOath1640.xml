@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grounds of Exceptions against the Etcaetera Oath</title>
+            <author>
+               Northamptonshire Clergy
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 149r–154r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg129.xml">Cambridge University Library,  MS Gg.1.29, reversing the volume, 132v–134r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_XIIB12.xml">Hertfordshire Archives and Local Studies,  XII.B.12</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /86 [ff.174r–179r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /87 [ff.180r–181r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_O_1_35.xml">Trinity College,  MS O.1.35, Part II, 2r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName corresp="../places/places.xml#PL0016">Northamptonshie</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+               <term>arguments</term>
+               <term>commentary</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>Thirty-Nine Articles</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+               <term>Book of Common Prayer</term>
+               <term>presbyterianism</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-11-22"/>
+              <change status="proofread" who="#NM" when="2018-07-04"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="56r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f056r/harley_ms_4931_f056r.jpg"/>
+         <head rend="align-centre">
+            Grounds of Exceptions ag<ex>ains</ex>t the Oath required in <ex>th</ex>e <lb/>
+            <add place="LM">
+               <hi rend="underline">Northamptonshire</hi>
+            </add>
+            <lb/>
+            6t Canon established in the Synod 1640.
+         </head>
+         <p>
+            <add place="LM">
+               1.
+            </add>
+            The taking of this Oath seemes to establish the Legality of it, &amp; to prepare way <lb/>
+            for the imposing of other new Oathes, wheras it is questionable whether any oath <lb/>
+            may be imposed not established, &amp; appointed by Act of Parliam<ex>en</ex>t.
+         </p>
+         <p>
+            <add place="LM">
+               2.
+            </add>
+            Taking of it may seeme to approue the exacting of it of all the p<ex>er</ex>sons of w<ex>ho</ex>m it is requi-<lb break="no"/>
+            red, many of w<ex>ho</ex>m cannot take it (probably in iudgm<ex>en</ex>t) as not being acquainted w<ex>i</ex>th the <lb/>
+            Doctrine, &amp; Discipline of the church, nor the controversies concerning the same.
+         </p>
+         <p>
+            <add place="LM">
+               3.
+            </add>
+            It is required we shold sweare All things necessary to salvation to be contained in the <lb/>
+            Doctrine, &amp; Discipline of the Church of England, whereas
+            <list rend="numbered curly-bracket-L">
+               <item n="1">
+                  It is not <del rend="strikethrough">to</del> declared w<ex>ha</ex>t is to be accounted the Doctrine of the Church, the <lb/>
+                  booke of Homilies haue beene disclaimed, the Articles claimed by the Armi<lb break="no"/>
+                  nians, &amp; others, &amp; some of <ex>the</ex>m corrupted.
+               </item>
+               <item n="2">
+                  It hath not beene conceived by the Church, that any <add place="above">p<ex>ar</ex>ticular</add> kind of Discipline was <lb/>
+                  necessary to salvation, for
+                  <list rend="numbered curly-bracket-L">
+                     <item n="1">
+                        The Presbyterians haue beene derided, &amp; written against for making <ex>thei</ex>r <lb/>
+                        Discipline a p<ex>ar</ex>t of the Kingdome of xt.
+                     </item>
+                     <item n="2">
+                        It is acknowledged, that the Reformed Churches <ex>tha</ex>t differre from us in <lb/>
+                        Discipline, want nothing necessary to salvation, but <ex>tha</ex>t a man in those <lb/>
+                        churches might be saved.
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </p>
+         <p>
+            <add place="LM">
+               4.
+            </add>
+            It is required <del rend="strikethrough">not</del> to sweare not to consent to the alteration of the Governm<ex>en</ex>t by Arch<lb break="no"/>
+            b<ex>isho</ex>ps, B<ex>isho</ex>ps &amp;c, as it now stands established, &amp; as by Right it ought to stand; w<ex>hi</ex>ch clause we <lb/>
+            dare not sweare to, &amp; <ex>tha</ex>t for these causes.
+            <list rend="numbered curly-bracket-L">
+               <item n="1">
+                  Because we iudge it unlawfull to sweare the p<ex>er</ex>petuation of any meere Ec<lb break="no"/>
+                  clesiasticall Ordinance, w<ex>hi</ex>ch is subiect to such corruptions as may necessitate an al-<lb break="no"/>
+                  teration, &amp; such we iudge this Governm<ex>en</ex>t to be (at least in part) for Archb<ex>isho</ex>ps <lb/>
+                  Archdeacons, &amp; Deanes, are but Ecclesiasticall, what ever may be sayd for B<ex>isho</ex>ps.
+               </item>
+               <item n="2">
+                  Bec. we haue taken the Oath of Supremacy, wher by we acknowledge the Kings <lb/>
+                  Ma<ex>jes</ex>ty, &amp; his Successours, the Supreme Head of the Church, &amp; Governour in Causes, <lb/>
+                  &amp; over p<ex>er</ex>sons as well Eccl<ex>esiastic</ex>all, as Civill, w<ex>hi</ex>ch this oath seemes to contradict, <lb/>
+                  in that
+                  <list rend="numbered curly-bracket-L">
+                     <item n="1">
+                        It binds from consenting to the alteration of the Governm<ex>en</ex>t, so <ex>tha</ex>t if <lb/>
+                        the king, or his Successours shold alter it, we cannot but dissent, &amp; <lb/>
+                        preach against <ex>the</ex>m, as in the 8th Canon.
+                     </item>
+                     <item n="2">
+                        It binds to acknowledge a furder right <ex>tha</ex>t B<ex>isho</ex>ps &amp;c haue in the <lb/>
+                        Governm<ex>en</ex>t of the Church then that w<ex>hi</ex>ch is given <ex>the</ex>m by Law, mea- <lb/>
+                        a divine right, as we are induced to beleiue <lb/>
+                        because
+                        <list rend="numbered">
+                           <item n="1">
+                              Many B<ex>isho</ex>ps haue so declared <ex>the</ex>mselues.
+                           </item>
+                           <item n="2">
+                              In the 1st Canon they haue not given the King <lb/>
+                              any power in Eccl<ex>esiastic</ex>all Causes saue only to call, &amp; dis<lb break="no"/>
+                              solue Councells. 2. nor over Eccl<ex>esiastic</ex>all Governm<ex>en</ex>t, disclai<lb break="no"/>
+                              ming only Papall, &amp; Popular coactiue, &amp; independant <lb/>
+                              power, but not Episcopall, wheras the Controversies of this <lb/>
+                              time did require a more precise, &amp; open declaration of the <lb/>
+                              point.
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item n="3">
+                  It seemes to make more account of the Discipline, then of the Doctrine of the <lb/>
+                  Church, for in <ex>tha</ex>t we abiure consent to any alteration, in this we abiure only <lb/>
+                  endeavour to induce Popish errours only.
+               </item>
+               <item n="4">
+                  This Clause is administred w<ex>i</ex>th an (&amp;c) w<ex>hi</ex>ch we conceiue was never tendered <lb/>
+                  in any Oath till now.
+               </item>
+               <item n="5">
+                  <del rend="strikethrough">We</del> There are some things in the Discipline of the Church, w<ex>hi</ex>ch we haue iust <lb/>
+                  ground to desire, &amp; endeavour the alteration of, &amp; <ex>the</ex>r<ex>e</ex>fore dare not abiure <del rend="strikethrough">an</del> <add place="above">the</add> ac-<lb break="no"/>
+                  cepting of an alteration, shold it be offerred, as that of <ex>th</ex>e B<ex>isho</ex>p delegates his power <lb/>
+                  to be officiated by his Chauncallour, wherby it comes to passe <ex>tha</ex>t the sentence of Excom <lb/>
+                  w<ex>hi</ex>ch is incompatible w<ex>i</ex>th a meere lay-man (as o<ex>u</ex>r Church teacheth ag<ex>ains</ex>t <ex>th</ex>e Presbyterians) <lb/>
+                  is devolved upon a meere lay-man, &amp; the plaister provided by the 13th Canon <lb/>
+                  is too narrow for the sore, For the graue minister, to whom the pronouncing of
+                  <pb n="57r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f057r/harley_ms_4931_f057r.jpg"/>
+                  <space unit="page" extent="1"/>
+                  the sentence belongs, is but the Chauncellors voice to speake what he <lb/>
+                  decrees, and so the power of Excommunication is still <lb/>
+                  in him.
+               </item>
+            </list>
+         </p>
+         <p>
+            <add place="LM">
+               5.
+            </add>
+            The whole Oath is filled with so many ambiguities, as that we dare not <lb/>
+            take it.
+         </p>
+         <p>
+            <add place="LM">
+               6.
+            </add>
+            The taking of it makes us approue of the synod, by w<ex>hi</ex>ch <del rend="strikethrough">we</del> <add place="above">there</add> are induced, &amp; tolerated <lb/>
+            divers Ceremonies contrary to the booke of Com<ex>m</ex>on prayer, w<ex>hi</ex>ch we haue subscribed unto, <lb/>
+            &amp; must in this Oath (if we take it) abiure.
+         </p>
+         <p>
+            <add place="LM">
+               7.
+            </add>
+            It is required That we take it Heartily, &amp; Willingly, &amp; yet they that refuse it are <lb/>
+            threatned w<ex>i</ex>th severe punishm<ex>en</ex>t, by w<ex>hi</ex>ch meanes it is to be feared many <ex>tha</ex>t are weake, <lb/>
+            may forsweare <ex>the</ex>mselves. 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f056r/harley_ms_4931_f056r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f057r/harley_ms_4931_f057r.jpg"/>
+   </facsimile>
+</TEI>

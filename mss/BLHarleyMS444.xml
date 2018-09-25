@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>British Library Harley MS 444</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Harley_MS_444">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 444</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>34v-38r</locus>
+                  <title>Opinion of the Ancient Doctors of the Law, Whether it be Lawful for a Prince, whose Subject is wronged by a Foreign Prince, to Licence his Subject to Detain the Body and Goods of that Prince's Subject, which Wrongeth</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OpinionAncientDoctorsLaw.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>38v-40r</locus>
+                  <title>Resignation Letter (A)</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0114">Thomas Egerton, Lord Ellesmere</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EgertonResignationLetterA.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>40v-41r</locus>
+                  <title>Resignation Letter (B)</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0114">Thomas Egerton, Lord Ellesmere</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EgertonResignationLetterB.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>48r-52v</locus>
+                  <title>A Letter Written by the Lords of the Council to King James Touching Means to Advance the King’s Revenue by Unusual Means</title>
+                        <author>
+               Privy Council
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PrivyCouncilTouchingMeansAdvanceKingsRevenueByUnusualMeans1608.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>52v-53r</locus>
+                  <title>Ordinary Annual Receipts in the Exchequer</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OrdinaryAnnualRecieptsExchequer.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>53v-54r</locus>
+                  <title>Ordinary Annual Issues in the Exchequer</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OrdinaryAnnualIssuesExchequer.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>57r-68v</locus>
+                  <title>The Manner of the Sickness and Death of Prince Henry</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/MannerSicknessDeathPrinceHenry.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>69r-72r</locus>
+                  <title>Letters</title>
+                        <author>
+               <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+            </author>
+                        <author>
+               <persName corresp="..people/people.xml#P0007">Charles Stuart, Prince of Wales</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/GregoryXVPrinceCharlesLetters1623v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>73r-78v</locus>
+                  <title>Information Against Buckingham</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0173">Juan de Mendoza y Velazquez, Marquis de la Hinojosa</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HinojosaInformationAgainstBuckingham1624.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>79r-83v</locus>
+                  <title>A Relation of the Proceedings against Ambassadors who have Miscarried Themselves</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CottonProceedingsAgainstAmbassadors1624.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="11">
+                  <locus>84r-86r</locus>
+                  <title>Letter to the Vice-Chancellor and Heads of Cambridge Recommending the Earl of Holland, with Reply</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0231">Henry Rich, 1st Earl of Holland</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesLettersCambridge1628.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="12">
+                  <locus>92r-108r</locus>
+                  <title>Discourse Touching the Present Consultation Concerning the Peace With Spain and the Retaining of the Netherlands in Society and Protection</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh?</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighDiscoursePeaceSpainNetherlands1603.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="13">
+                  <locus>144r-161r</locus>
+                  <title>That the Kings of England have been pleased usually to consult with their peers in the great Council, and the Commons in Parliament of Marriage, Peace and War</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CottonKingsParliamentMarriagePeaceWar1624.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="14">
+                  <locus>162r-179v</locus>
+                  <title>A Letter to His Friends in the Lower House of Parliament</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/LetterFriendsLowerHouse1628.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="15">
+                  <locus>180r-184v</locus>
+                  <title>Petition for His Brother's Freedom</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0202">Francis Phellips</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PhellipsPetitionHisBrother1622.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="16">
+                  <locus>185r-202r</locus>
+                  <title>A Treatise of Bail and Mainprise</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0146">Sir Edward Coke</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CokeTreatiseBailMainprise.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>‘written att the Request of Sr Willm Haydon, knight’</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="17">
+                  <locus>241r-245v</locus>
+                  <title>Letter from Leith</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0216">[Anthony Weldon]</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WeldonLetterLeith1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="18">
+                  <locus>245v-246v</locus>
+                  <title>Letter to James I</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0195">Lord Francis Norris</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/NorrisLetterJames1615.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

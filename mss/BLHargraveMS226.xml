@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Hargrave MS 226</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Hargrave_MS_226">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 226</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+                <msItem n="1">
+                    <locus>2r-17v</locus>
+                    <title when="1616">Speech at the Arraignment of Somerset</title>
+                    <author>
+                        <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+                    </author>
+                    <respStmt>
+                        <resp>Scribe</resp>
+                        <name>
+                                <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                            </name>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/BaconSpeechArraignmentSomerset1616.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="2">
+                    <locus>93r-115r</locus>
+                    <title when="1611-01-23">Considerations Upon His Majesty's Estate</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0143">Robert Cecil, 1st Earl of Salisbury</persName>
+                    </author>
+                    <respStmt>
+                        <resp>Scribe</resp>
+                        <name>Last sentence by <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                            </name>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/CecilConsiderationsUponMajestysEstate1611.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="3">
+                    <locus>116r-155r</locus>
+                    <title>Observations of Normandy</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0172">Peter Heylyn</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/HeylynObservationsNormandy.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="4">
+                    <locus>156r-161v</locus>
+                    <title when="1624-07-29">Memorial given to the King of Spain</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0013">Sir Walter Aston</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/AstonMemorial1624.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin when="1624-08-25">Copy made 25 August 1624, 'Translated verbatu[m] out of the Spanish Coppie'</origin>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="5">
+                    <locus>162r-169v</locus>
+                    <title when="1624">Information Against Buckingham</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0173">Juan de Mendoza y Velazquez, Marquis de la Hinojosa</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/HinojosaInformationAgainstBuckingham1624.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="6">
+                    <locus>193r-207v</locus>
+                    <title when="1603">A Confession of the Faith</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/BaconConfessionFaith.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="7">
+                    <locus>216r-228r</locus>
+                    <title when="1627">An Unhappy View of the Whole Behaviour of My Lord Duke of Buckingham at the French Island Secretly Discovered</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0168">William Fleetwood</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/FleetwoodUnhappyViewWholeBehaviourBuckinghamFrenchIsland1627.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="8">
+                    <locus>231r-233v</locus>
+                    <title when="1616">The True Relation of the Manner of the Proceeding in King's Bench Upon the Pardon of Sir Thomas Mounson</title>
+                    <author/>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/MounsonTrueRelationMannerProceeding1616.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="9">
+                    <locus>233v-235r</locus>
+                    <title when="1637-11">Letter to King Charles I</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0113">Mohammed esh-Sheikh es-Seghir, Sultan of Morocco</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/MoroccoLetterCharles1637.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="10">
+                    <locus>236r-243r</locus>
+                    <title>The Character of the Incomparable Lady, the Countess of Carlisle, and the Most Excellent Lord, the Earl of Northumberland</title>
+                    <author/>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/CharacterLadyCarlisleEarlNorthumberland.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="11">
+                    <locus>244r-249v</locus>
+                    <title when="1613">Challenges</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0110">Lord Edward Bruce</persName>
+                    </author>
+                    <author>
+                        <persName corresp="../people/people.xml#P0111">Sir Edward Sackville</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/BruceSackvilleChallenges1613v1.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v2.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v3.xml" type="t_witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v4.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v5.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v6.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v7.xml" type="witness"/>
+                    <link target="../texts/BruceSackvilleChallenges1613v8.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="12">
+                    <locus>261r-263v</locus>
+                    <title when="1603">Letter to His Wife</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/RaleighLetterHisWife1603.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="13">
+                    <locus>263v-269*v</locus>
+                    <title when="1617">Letter to Secretary Sir Ralph Winwood</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                    </author>
+                    <respStmt>
+                        <resp>Scribe</resp>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/RaleighLetterWinwoodA1617.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="14">
+                    <locus>283r-290r</locus>
+                    <title when="1622">Petition for His Brother's Freedom</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0202">Francis Phellips</persName>
+                    </author>
+                    <respStmt>
+                        <name/>
+                        <resp/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/PhellipsPetitionHisBrother1622.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+                <msItem n="15">
+                    <locus>310v-313*v</locus>
+                    <title when="1631-04-25">Arraignment of Mervin, Lord Audley, Earl of Castlehaven</title>
+                    <author/>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/ArraignmentCastlehaven1631.xml" type="witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote n="1">
+                     <p/>
+                  </handNote>
+                  
+               </handDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

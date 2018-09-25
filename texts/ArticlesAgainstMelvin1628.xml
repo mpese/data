@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles Against Melvin</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHarleyMS390.xml">
+               <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 390</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_8827">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 8827</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_826">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 826</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6799">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6799</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2305">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2305</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2217</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_48059.xml">British Library, Additional MS 48059, ff. 416r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_8827.xml">British Library, Additional MS 8827, ff. 380r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, f. 53r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2305.xml">British Library, Harley MS 2305, ff. 314r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb165.xml">Beinecke Library, Osborn fb165, ff. 421–422</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_C_187.xml">Bodleian Library,  MS Add. C 187, ff. 294v–295r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_4124.xml">Harvard Law School,  MS 4124, ff. 353–354</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDDH_Accession_G757_Box_1.xml">Somerset Archives,  DD\DH, Accession G/757, Box 1 [Civil War Papers]</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page">627</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1628-06-26">26 June 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+               <term>newsletter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>arraignment</term>
+               <term>habeas corpus</term>
+               <term>high treason</term>
+               <term>Scotland</term>
+               <term>conspiracy</term>
+               <term>Jesuits</term>
+               <term>anti-catholicism</term>
+               <term>Arminianism</term>
+               <term>religious conflict</term>
+               <term>Overbury scandal</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-24" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="417r"/>
+         <p>
+            <add place="header">5 Iuly 1628</add>
+            Sir/
+         </p>
+         <p>
+            You had the flower of my last Saturdays intelligence in the end <lb/>
+            of the l<ex>ett</ex>re, which I then sent. I omitted onely to send you the <lb/>
+            copies of the Kings speach, of Manwarings submission &amp; of the speaches <lb/>
+            whereof Mr <del rend="strikethrough">M</del> Melvin the Scottishman was to be arraigned. Which <lb/>
+            now I send you all <gap reason="elision" extent="multiple lines"/>
+         </p>
+         <p>
+            This Mr Meluin whose strange speaches I now send you, had <lb/>
+            bin .2. monthes Prisoner &amp; then suing according to the priuiledge of the <lb/>
+            law for an Habeas corpus the Kings Atturney told him he could not <lb/>
+            haue it being imprisoned for high treason. whereupon he desyred <lb/>
+            he might instantly have his tryall either by the law of nations <lb/>
+            or by a Iurie mixt of Scotts &amp; English &amp; was told, if he were <lb/>
+            so eager, he should, &amp; accordingly was expected to haue bin arraigned <lb/>
+            at the Kings Bench barre, but when the time appointed came, was not.
+         </p>
+         <gap reason="elision" extent="3" unit="lines"/>
+         <pb n="417v"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="418r"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="418v"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="419r"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="419v"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="420r" facs="/bl/harley_ms_390_part/harley_ms_390_f420r/harley_ms_390_f420r.jpg"/>
+         <p rend="indent">
+            Certain speaches wherof one Mr <lb/>
+            Meluin a Scottishman is accused being <lb/>
+            nowe a prisoner in the Gatehouse &amp; <lb/>
+            appointed as <hi rend="superscript">*</hi>yesterday <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">* <lb/>Thursday <lb/>june 26. 1628</tei:add> to haue bene <lb/>
+            arraigned for high treason at the k<ex>ing</ex>s bench-barr, <lb/>
+            but was not.
+         </p>
+         <p>
+            Mr Meluyn said,
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">1. </tei:add>That the Dukes plott was that the parlam<ex>en</ex>t should be dissolued, <lb/>
+            and that the Duke	&amp; the king w<ex>i</ex>th a great army of horse &amp; foot <lb/>
+            would warr against the Com<ex>m</ex>unalty, and that Scotland should <lb/>
+            assist him; so that whilest war was amongst ourselues, the <lb/>
+            enemy should come, for the kingdome is already sold to the enemy <lb/>
+            by the Duke.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">2. </tei:add>That the Duke hath a stronger Counsell then the king, of w<ex>hi</ex>ch <lb/>
+            were Iesuits &amp; Scottishmen, and that they sitt euery night <lb/>
+            from one a clock till three.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">3. </tei:add>That when the king had a purpose to doe anything of what <lb/>
+            consequence soeuer, the Duke could alter it.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">4. </tei:add>That there were but 4. honest bishops in the lande, and the <lb/>
+            rest were all Arminians	&amp; other sectes.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">5. </tei:add>That when the Ordinance was shipped at St Martins, the <lb/>
+            duke caused the soldiers to go on, that they might be destroyed.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">6. </tei:add>That the Duke said, he had an army of 16000 foot and 1200. <lb/>
+            horse.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">7. </tei:add>That King Iames his bloud, and Marques Hamiltons <foreign xml:lang="la">cu<ex>m</ex> alijs</foreign> <lb/>
+            cryed out for vengeance to heaven; that he could not but <lb/>
+            expect ruine upon this kingdom
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">8. </tei:add>That Prince Henry was poysoned by Sir Tho<ex>mas</ex> Ouerbury, who <lb/>
+            for the same was serued w<ex>i</ex>th the same sauce, and that the <lb/>
+            Earle of Somersett could say much to this
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">9. </tei:add>That hee himselfe hath a Cardinall to his vncle or neare <lb/>
+            kinsman, wherby he had great intelligence.
+         </p>
+         <pb n="420v"/>
+         <p>
+            Mr Meluins speaches ag<ex>ains</ex>t <lb/>the Duke of Buckingam
+         </p>
+         <pb n="421r"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="421v"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="422r"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="422v"/>
+         <p>
+            <add place="header">12 Iuly 1628</add>
+         </p>
+         <gap reason="elision" unit="lines" extent="5"/>
+         <p>
+            That on Tuesday that week Mr Meluin was discharged <lb/>
+            from being proceeded against <sic>it</sic> the Kings bench barre in case of <lb/>
+            high treason, in regard the grand Iury found an Ignoramus in <lb/>
+            the inditement; &amp; so he was released vpon bayle: The Chancellor <lb/>
+            of Scotland most nobly (saith mine author) &amp; i his Chancellors
+            gowne, accompanying the same Mr Meluin to the barre &amp; back <lb/>
+            againe to the prison, that he might what in him law counte=<lb break="no"/>
+            nance his freind against the implacable malice of &amp;c
+         </p>
+         <gap reason="elision" extent="multiple lines"/>
+         <pb n="423r"/>
+         <pb n="423v"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="424r"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="424v"/>
+         <gap reason="elision" extent="side"/>
+         <pb n="425r"/>
+         <p>
+            <add place="header">19. Iuly 1628</add>
+         </p>
+         <gap reason="elision" extent="multiple lines"/>
+         <p>
+            Mr Meluin, for all he was freed by the Iury, remaineth yet <lb/>
+            Prisoner in the Gatehouse, notwithstanding he proferreth very good <lb/>
+            Scottish bayle; but they will accept none but English.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_390_part/harley_ms_390_f420r/harley_ms_390_f420r.jpg"/>
+   </facsimile>
+</TEI>

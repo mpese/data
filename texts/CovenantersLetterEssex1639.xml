@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to the Earl of Essex</title>
+            <author corresp="../people/people.xml#P0090">
+               <persName>John Kennedy, 6th Earl of Cassilis</persName>
+            </author>
+            <author corresp="../people/people.xml#P0091">
+               <persName>John Wemyss, 1st Earl of Wemyss</persName>
+            </author>
+            <author corresp="../people/people.xml#P0092">
+               <persName>Archibald Campbell, 1st Marquess of Argyll</persName>
+            </author>
+            <author corresp="../people/people.xml#P0093">
+               <persName>John Lindsay, 1st Earl of Lindsay</persName>
+            </author>
+            <author corresp="../people/people.xml#P0094">
+               <persName>John Sinclair, 9th Lord Sinclair</persName>
+            </author>
+            <author corresp="../people/people.xml#P0096">
+               <persName>William Ramsay, 1st Earl of Dalhousie</persName>
+            </author>
+            <author corresp="../people/people.xml#P0097">
+               <persName>Aynsey</persName>
+            </author>
+            <author corresp="../people/people.xml#P0098">
+               <persName>David Wemyss, Lord Elcho (2nd Earl of Wemyss)</persName>
+            </author>
+            <author corresp="../people/people.xml#P0101">
+               <persName>William Crichton?, 1st Earl of Dumfries and Viscount Ayr</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0056">John Leslie, 6th Earl of Rothes</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0056">James Graham, 5th Earl of Montrose</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0091">John Elphinstone, 2nd Lord Balmerino</persName>             
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0059">Lord George Forester</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0100">William Kerr, 3rd Earl of Lothian</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0099">Barghley</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11045.xml">
+               <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11045</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6801">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6801</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/All_Souls_College_MS_181.xml">All Souls College,  MS 181, ff. 148r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6801.xml">British Library, Harley MS 6801, ff. 11r–12v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_650.xml">British Library, Sloane MS 650, ff. 93r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_800.xml">Bodleian Library,  MS Ashmole 800, ff. 52r–55v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_130.xml">Bodleian Library,  MS Carte 130, ff. 52r–53</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_MSP_9.xml">Durham University Library, MSP 9, reversing the volume, 124–125</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7735.xml">Huntington Library,  EL 7735</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7736.xml">Huntington Library,  EL 7736</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Correspondence_Box_15.xml">Huntington Library, Hastings Correspondence Box 15, HA 1193</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U2691Oo127.xml">Kent Archives,  U269/1/Oo127</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/WSHC_93445.xml">Wiltshire and Swindon History Centre,  9/34/45</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1639-04-19">19 April 1639</date>
+            <placeName corresp="..places/places.xml#PL0009">Edinburgh</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Covenanters</term>
+               <term>Scotland</term>
+               <term>Scottish Church</term>
+               <term>prayer book</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-31" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="18r" facs="/bl/add_ms_11045_part/add_ms_11045_f018r/add_ms_11045_f018r.jpg"/>
+         <head>Lett<ex>er</ex> from E R</head>
+         <p>
+            In my last, I mentioned a letter, which the Covenanters sent to my <lb/>
+            lord of Essex to Barwicke, which beares date the 19.th of Aprill <lb/>
+            1639. some saye, there were twoe letters sent, one seald, and the <lb/>
+            other vnseald, which unseald,<add place="above">Letter</add> the messinger told my lord of Essex <lb/>
+            was the true coppy of the seald letter, which the Covenanters pre=<lb break="no"/>
+            sumd his lo<ex>rdshi</ex>pe would send to his Ma<ex>jes</ex>tie before hee broake it open: <lb/>
+            others saye, after the kinge had reade this letter, hee forth with <lb/>
+            sent it backe to lord of Essex, both these reports are true, It <lb/>
+            is a well pend letter, and a cuning one, I shall saye noe more <lb/>
+            of it, but sett it downe as followeth:
+         </p>
+         <p>
+            Our most noble Lord:
+         </p>
+         <p>
+            As in all these greate affaires (which haue bine soe much noysed <lb/>
+            a broade of the liberties of our Church, and state, our cheifest <lb/>
+            care hath bine to walke warrantably according to the lawes, <lb/>
+            that were still in force for that effect: soe wee are certainely <lb/>
+            perswaded, that a mongst our selves there are none that can <lb/>
+            iustly complaine of what hath passed, And for those our Countrie <lb/>
+            men, whoe are nowe in England, if they bee of that nomber, as <lb/>
+            they are evill subiects to our gratious soveraigne, and worse <lb/>
+            compatriotts to vs, soe of all, they are the worse guests a mongst <lb/>
+            you, while they indeavour to make the remedy of their evills, and <lb/>
+            the escape of their deserved punishments, the begining of an in=<lb break="no"/>
+            curable disease betwixt the twoe nations to whome this quar=<lb break="no"/>
+            rell should in noe waye extend. If the informations, and <lb/>
+            protestations made by vs for this end, and the bond of our Cove=<lb break="no"/>
+            nant swoarne to God, and man, haue not cleered all scrup=<lb break="no"/>
+            les in the minde of our gratious kinge hitherto, and of all good <lb/>
+            subiects with you, that there are too to many a mongst you, <lb/>
+            alsoe, in greatest place, and creditt, whose private bias runs quite <lb/>
+            wyde, and contrary to the publique good; and whoe are those <lb/>
+            wicked ones, riseing earely to poyson the publique fountaine <lb/>
+            and to sowe the tares of vnhappy Iealosies, and discords be=<lb break="no"/>
+            tweene you, and vs, before the good seede of our love, and res=<lb break="no"/>
+            pect to our neighbour nation can take place in your hart; A <lb/>
+            mongst all the evills of this kind, which dayly over take us, next <lb/>
+            to the present undeserved displeasure of our Prince a mongst <lb/>
+            vs, (which God in his mercy to both) will take off vs) in his <lb/>
+            owne tyme, there could nothing befallen soe strainge, and vnex=<lb break="no"/>
+            pected to vs, as the draweing of your forces together vpon your <lb/>
+            border, which whether to defend your selves, or to annoy vs, and <lb/>
+            soe to prepare; and gather those cloudes which threatten a sore <lb/>
+            tempest to both, wee for our part wish they maye first perish <lb/>
+            in the shipp wracke, whoe begin first to dash the one nation <lb/>
+            against the other: As for you, my lord, although your place, <lb/>
+            person, and quallity, the honour, and reputation of your former <lb/>
+            life will give vs <add place="above">some</add> assurances that your lo<ex>rdshi</ex>pe will bee <unclear reason="handwriting" cert="medium">warie</unclear> to begin <lb/>
+            <milestone unit="section" type="LM"/>
+            <seg style="transform:rotateZ(-45deg)">
+               the quarrell, whereat, onely enimies to both the nations will reioyce, and catch the advantage: yet, give vs leave to admire these groundles <lb/>
+               feares that makes you thus strengthen the boorders, and rather suspect these pregnant presumptions of a further proiect intended <lb/>
+               against this nation by your power, which needes must make vs bestirr our selves betimes at all hands for our safety: God is our <lb/>
+               wittnesse, wee desire noe nationall quarrell to rise betwixt vs, or tast of that bitter fruite which maye sett both ours, and your <lb/>
+               childrens teeth vpon edge, but rather hold our selves obliged in conscience of our duety to God, our Prince, and all your nation, <lb/>
+               our bretheren, to trie all iust, and lawfull meanes for the removall of all <del rend="strikethrough">
+                        <gap reason="illegible" quantity="7" unit="chars"/>
+                    </del> causes of differences betwixt twoe nations, whoe are
+            </seg> 
+            <pb n="18v" facs="/bl/add_ms_11045_part/add_ms_11045_f018v/add_ms_11045_f018v.jpg"/>
+            yet linked together, and should bee still in all the strongest bonds <lb/>
+            of affection, and common Interest, and to bee alwayes ready to <lb/>
+            offer the occasion of greater satisfaction in this kind of cleareing <lb/>
+            our loyall intentions towards our Prince, to all whome it maye <lb/>
+            concerne, and namely to your lo<ex>rdshi</ex>pe, in regard of your place, <lb/>
+            and commaund at this tyme by any meanes whatsoeover should <lb/>
+            bee thought good to represent vnto your lo<ex>rdshi</ex>pe being occasionally <lb/>
+            together soe fewe of vs, as are in this place, for our selves, and <lb/>
+            in name of the rest of our nomber, whoe together with vs <lb/>
+            will expect your lo<ex>rdshi</ex>ps answeare and rest:
+         </p>
+         <p rend="indent">
+            Your lo<ex>rdshi</ex>ps affectionate freinds <lb/>
+            to serve you.
+         </p>
+         <p>
+            Cassells, Weymyst, Argyle, <lb/>
+            Linsey, Sinclare, Duthouse <lb/>
+            Aynsey, Elcho, Eyeir, <lb/>
+            Rothesse, Montrosse <lb/>
+            Balmerino, Forrester, <lb/>
+            Lothian, Barghley, <lb/>
+            Edenburge 19th of Aprill 1639
+         </p>
+         <p>
+            I heare my lord Generall, takes it not well (as hee hath good cause) <lb/>
+            why this letter was not rather directed to him, then my lord of Essex, <lb/>
+            whoe is but Leivetenant generall of the armye, but, the anns-<lb break="no"/>
+            weare, is, that my lord of Essex was all this while at Barwicke, <lb/>
+            where my lord Generall was not: some men doe believe, <lb/>
+            this letter tends to a desire in the Covenanters to an accommoda=<lb break="no"/>
+            tion, which peradventure maye fall out, if soe bee those lords <lb/>
+            of the Session (whoe are comeing from out of Scotland to his <lb/>
+            Ma<ex>jes</ex>tie) can soe farr prevaile with the Covenanters as to send <lb/>
+            to his Ma<ex>jes</ex>tie by them (whoe are moderate men and haue not sub=<lb break="no"/>
+            scribd the Covenant) some such humble petition, as his Ma<ex>jes</ex>tie <lb/>
+            maye in honour condiscend unto:
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11045_part/add_ms_11045_f018r/add_ms_11045_f018r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11045_part/add_ms_11045_f018v/add_ms_11045_f018v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11045_part/add_ms_11045_f019r/add_ms_11045_f019r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11045_part/add_ms_11045_f019v/add_ms_11045_f019v.jpg"/>
+   </facsimile>
+</TEI>

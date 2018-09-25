@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to Sir William Jones upon his being called to be Lord Chief Justice of Ireland</title>
+            <author>
+               <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="JW">
+               <name>Jill Wright</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/NorfRO_RYE_20.xml">
+               <msIdentifier xml:id="NorfRO_RYE_20">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>RYE 20</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">Norfolk Record Office,  RYE 20</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_3522">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Sloane</collection>
+                  <idno>MS 3522</idno>
+                  <msName/>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_206">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.206</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="BaconSpeechJones.xml">Transcript</ref> of <ref type="ms" target="../mss/BLSloaneMS3522.xml">British Library, Sloane MS 3522, ff. 28v–31r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1617">1617</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Court of King's Bench, Ireland</term>
+               <term>officeholding</term>
+               <term>law</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-13" who="#RB" status="draft"/>
+            <change when="2017-08-20" who="#JW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb ed="Item 3" n="1r"/>
+         <head rend="indent">
+            S<ex>i</ex>r Francis Bacon Lord Keeper of the great <lb/>
+            Seale of England, his speech to S<ex>i</ex>r William <lb/>
+            Jones Cheife Justice of the Kinges Bench in <lb/>
+            Ireland./
+         </head>
+         <p>
+            S<ex>i</ex>r William Iones The Kinge most excellent Maiesty	 <lb/>
+            being tryle informed of yo<ex>u</ex>r sufficiencie every way, <lb/>
+            hath called you by his writt now returned to the <lb/>
+            state and degree of a Sergeant at lawe, but not to <lb/>
+            stay there, but being so qualified, to serve him as his <lb/>
+            cheife Iustice of his kinge Bench in Ireland, And <lb/>
+            therefore, that which I shall say to you must be <lb/>
+            applyed, not to yo<ex>u</ex>r sergeants place, which you take, <lb/>
+            but in passage, but to that great place, where you are <lb/>
+            to settle, And because I will not spend tyme to the <lb/>
+            delay of the busines of causes and hearings, I will lead <lb/>
+            you the short iourney by examples, and not the long <lb/>
+            by precept./
+         </p>
+         <p>
+            The place, that you shall serve in hath byn fortunate <lb/>
+            to be well served in fewer successions before you doe <lb/>
+            but take vnto you the constancy and integrity of S<ex>i</ex>r <lb/>
+            Robert Gardiner, the gravity, temper and discrec<ex>i</ex>on <lb/>
+            of S<ex>i</ex>r James Lee, the quicknes industry and dispatch <lb/>
+            of S<ex>i</ex>r Humfty Winch, the care and affection to the <lb/>
+            co<ex>m</ex>mon wealth, and the prudent and politique <lb/>
+            administration of S<ex>i</ex>r John Denham, and you shall need <lb/>
+            no other lessons. They were all Lincolns Inne men, <lb/>
+            as you are: you may have knowne then as well in their <lb/>
+            beginninge, as in their advancemente. But because <lb/>
+            you are not to be their onely Cheife Justice but a <lb/>
+            Connsellor of Estate, I will putt you in mynde of the <lb/>
+            great worke now in hand, that you may doe accordingly <lb/>
+            vnto it./
+         </p>
+         <pb ed="Item 3" n="1v"/>
+         <p>
+            Ireland is the last ex filiis Europe, nothing hath <lb/>
+            come in, and hath byn reclaymed from desolation, and a <lb/>
+            desert in many places to population and plantation, <lb/>
+            and from salvage and barbarous customes to humanity <lb/>
+            and civility. This is the kings worke in theise: It is <lb/>
+            his garland of heroicall vertue and felicity denyed to <lb/>
+            his progenitors, and reserved to his tymes. The worke <lb/>
+            is not yet conducted to p<ex>er</ex>fection, but it is in fayre <lb/>
+            advance, and this I will say confidently, That if <lb/>
+            God blesse that kingdome with peace and Iustice <lb/>
+            no vsurer is so since in seven yeares space to double <lb/>
+            his principall with interest and interest, as that <lb/>
+            kingdome is within the same tyme to double the rest <lb/>
+            and principall thereof, yea and p<ex>er</ex>happs to treble it, <lb/>
+            So as that kingdome which once within theis twenty <lb/>
+            yeares wise men were wont to doubt, whether they <lb/>
+            should wish it to be in a Poole, is like now almost to <lb/>
+            become a garden and a younger sister to great Brittaine, <lb/>
+            And therefore you must sett downe with yo<ex>u</ex>rself <lb/>
+            not onely to be a iust governor, and a good cheife <lb/>
+            Iustice, as if it were in England, but vnder the <lb/>
+            King and the deputy, you are to be a maister <lb/>
+            builder and maister planter and Redimer of <lb/>
+            Ireland: To which end I will trouble you at this <lb/>
+            tyme but with three directions./
+         </p>
+         <p>
+            1: The first is, that you have an especiall care of <lb/>
+            the three plantac<ex>i</ex>ons, That of the North, which is <lb/>
+            in part acted, that of wixford, which is now in <lb/>
+            distraction, and that of long Efford and Kellam, <lb/>
+            which is now in Survey. And take this from mee <lb/>
+            That the bane of a plantation is, when the vndertakers <lb/>
+            <fw type="catch" place="bot-right">or planters</fw>
+            <pb ed="Item 3" n="2r"/>
+            or planters make such hast to a little Mechanicall <lb/>
+            present profitt, as disturbeth the whole frame and <lb/>
+            noblenes of the worke for the tyme to come, Therefore <lb/>
+            hold them to their covennte and the true ordinances of <lb/>
+            a plantation./
+         </p>
+         <p>
+            2: The second is, That you be carefull of the kinge <lb/>
+            Revenue due, and by little and little constitute him a <lb/>
+            good <unclear>-</unclear>, which hither to is little or none, and <lb/>
+            the kinge case <unclear>--</unclear> wilbe hardest, when <lb/>
+            every mans land shalbe improved in value with <lb/>
+            increase manifold, the king shalbe tyed, to his <lb/>
+            drye rent./
+         </p>
+         <p>
+            3: My last direction, though first in weight is, that <lb/>
+            you doe all good indeavors to proceed resolutely and <lb/>
+            constantly and yet with due temperance and <lb/>
+            equally in matters of Religion, least Ireland <lb/>
+            civill be worse to vs then Ireland savage./
+         </p>
+         <p>
+            After S<ex>i</ex>r William Jones his speech <lb/>
+            My Lord said./
+         </p>
+         <p>
+            I had forgot one thing, which was this, you may <lb/>
+            take exceeding great comfort, that you shall serve <lb/>
+            with such a deputy, one that I think is a man <lb/>
+            ordeyned of God, to doe great good to that kingdome, <lb/>
+            And this I think good to speake vnto you, That the <lb/>
+            true temper of a cheife Iustice towards a deputy <lb/>
+            is neither servilely to second him, nor factiously <lb/>
+            to oppose him./
+         </p>
+      </body>
+   </text>
+</TEI>

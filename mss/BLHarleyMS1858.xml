@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 1858</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_1858">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 1858</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="2">
+                   <locus>58r-69r</locus>
+                   <title when="1624-04-27">A Relation of the Proceedings against Ambassadors who have Miscarried Themselves</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonProceedingsAgainstAmbassadors1624.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>70r-95r</locus>
+                   <title when="1612">A Declaration How the Kings of England have from Time to Time Supported and Repaired their Estates, Collected out of the Records of the Tower</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonDeclarationKingsEstates1612.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>96r-108v</locus>
+                   <title>That the Sovereign's Person Is Required in the Great Councils or Assemblies of the State, as well the Consultations as at the Conclusionss</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonSovereignsPersonState.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>109r-149x</locus>
+                   <title when="1613-08-11">On the Suppression of Jesuits</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonSuppressionJesuits.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>150r-155r</locus>
+                   <title when="1621">A Relation to Sir Edward Montagu to Prove that the House of Commons Has Equal Power With the Peers in Point of Judicature</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonRelationCommonsPeersJudicature1621.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>156r-161v</locus>
+                   <title when="1624-04-27">A Relation of the Proceedings against Ambassadors who have Miscarried Themselves</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonProceedingsAgainstAmbassadors1624.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

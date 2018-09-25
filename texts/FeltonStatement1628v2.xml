@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statement on the assassination of the Duke of Buckingham</title>
+            <author>
+               <persName corresp="../people/people.xml#P0002">John Felton</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_537">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 537</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1199">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Sloane</collection>
+               <idno>MS 1199</idno>
+               <msName>Dr Benfield's notebook</msName>
+            </msIdentifier>
+               </bibl>
+            
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="FeltonStatement1628v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, f. 25v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="FeltonStatement1628v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS537.xml">British Library, Harley MS 537, f. 104r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS826.xml">British Library, Sloane MS 826, ff. 133r–v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628-08-23">23 August 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+               <term>statement</term>
+               <term>note</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>John Felton</term>
+               <term>assassination</term>
+               <term>Duke of Buckingham</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-31" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="24r" facs="/bl/add_ms_35331/add_ms_35331_f024r/add_ms_35331_f024r.jpg"/>
+         <p>
+            <add place="header">23:th <hi rend="underline">Auguste 1628.</hi>
+                </add>
+            <add place="LM">Duke slayne</add>
+            It is reported that the duke of Buckingham beinge att Portismouth was stabd by a leiftenante: the <lb/>
+            occasion is saide to bee thus. This leiftenants captayne beinge deade <add place="above">
+                    <unclear>slayd sayd <gap reason="illegible" quantity="4" unit="chars"/> in the Ile of Rez
+                    </unclear>
+                </add>, hee was a suter vnto the duke to have his <lb/>
+            place, as hee conceived of righte yt belonged to him: the duke not respectinge him, bestowed the place vpon <lb/>
+            some other, wherat the leiftenante beinge discontente p<ex>re</ex>tendinge to offer the duke a letter or petition, hee <lb/>
+            <add place="LM">
+               see the ende of <lb/>
+               the table./
+            </add>
+            stabbed him./ yt is reported to bee done the 23:th of August 1628. beinge <hi rend="strikethrough">ffrydaye.</hi> saterdaye.
+         </p>
+         <p>
+            Others reporte that one <hi rend="strikethrough">Penington</hi> <add place="above">(<del rend="strikethrough">
+                        some saye
+                    </del> Felton)</add> a leiftenante beinge cashired of his company made suite to the duke <lb/>
+            to bee restored, to w<ex>hi</ex>ch because the duke woulde not assente, hee w<ex>i</ex>th his <del rend="strikethrough">ky</del> knyfe stabdt him in the belly./
+         </p>
+         <p rend="indent">
+            Gods Iudgm<ex>en</ex>t shewen in this, that hee bei<supplied reason="torn">n</supplied>ge a meanes to contynewe souldiers to the hurte <lb/>
+            and impoverishm<ex>en</ex>t of the Country was slayne by a souldier himself/ <del rend="strikethrough"> as
+                </del> Adombezeckes iudgm<ex>en</ex>t./
+         </p>
+         <p rend="indent">
+            The saide Felton beinge p<ex>re</ex>sently app<ex>re</ex>hended there was founde aboute <lb/>
+            him a note written in paper the tenor wherof ensuethe./
+         </p>
+         <p>
+            That man in my opinion is cowardly, base, and deserveth not the name of a gentleman <lb/>
+            souldier, that is not willinge to sacrifice his life for the honor of his God, and the good of his <lb/>
+            kinge and Country./
+         </p>
+         <p>
+            Let noe man com<ex>m</ex>ende me for <unclear>duinge</unclear> of yt, but rather discom<ex>m</ex>ende themselves as the cause <lb/>
+            of yt for yf God had not taken awaye our heartes for our sinnes, hee coulde not have <lb/>
+            gone soe longe vnpunished/
+         </p>
+         <p rend="indent">
+                <hi rend="italic">
+            John Felton/</hi>
+         </p>
+         <p>
+            Some saye he had p<ex>re</ex>pared an instrument w<ex>i</ex>th 4 edges some thinge like unto a dagger, &amp; <lb/>
+            as hee himselfe saide hee prayed God, that yf it were his will hee shoulde destroye the <lb/>
+            duke that hee woulde directe his hande, yf not that hee woulde soe misguide yt that <lb/>
+            yt mighte <unclear>lighte</unclear> upon soame <unclear>bend</unclear>./ The former paper hee wrote <unclear>doubtinge</unclear> lest hee <lb/>
+            himselfe shoulde have bynn p<ex>re</ex>sently slayne upo<ex>n</ex> the com<ex>m</ex>ittinge of the facte./ The wounde <lb/>
+            w<ex>hi</ex>ch hee gave the duke was soe deadly, that hee stroke him home to the hearte: and <lb/>
+            the wounde was soe mortall that the duke fell downe p<ex>re</ex>sently and never spake./ 
+         </p>
+         <p>
+            others say that the duke himselfe plucked out the knife w<ex>i</ex>th his owne hands, and swore <lb/>
+            a greate oathe, and as hee was drawinge his sworde, hee fell back and dyed./
+         </p>
+         <p>
+            It is given out that this Felton is a greate puritan, for beinge a longe tyme a souldier <lb/>
+            in the lowe Countryes as ever since, hee was observed never to converse w<ex>i</ex>th any debaysed <lb/>
+            people, woulde never sweare, curse, drincke, but woulde alwayes shun and avoyde such <lb/>
+            company as much as he coulde./         
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f024r/add_ms_35331_f024r.jpg"/>
+   </facsimile>
+</TEI>

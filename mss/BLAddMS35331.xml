@@ -1,0 +1,1483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Add MS 35331</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>4r-8r</locus>
+                   <title when="1627-11-22">The Arguments Made in the Greate Case of Habeas Corpus</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0026">Sir John Bramston the Elder</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0027">William Noy</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0028">Sir Henry Calthorpe</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0029">Sir Robert Heath</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/HabeasCorpus1627.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1627" notBefore="1627-11-22" notAfter="1628-03-25">Record of arguments in Five Knight's Case dated 22 November 1627 taken by someone present at Court of King's Bench; copy dated 1627.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>8v</locus>
+                   <title when="1628-03-17">King's Speech to the House of Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-03-17" notAfter="1628-03-25">Record of speech in Parliament dated 17 March 1627/28, transcribed in "1627" (i.e. 1628), so presumably some time between 17 and 25 March 1628</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>9r</locus>
+                   <title when="1628-03-21">The Petition for a Faste</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0031">House of Commons</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-03-22"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>9v-10r</locus>
+                   <title when="1628" notBefore="1628-04-12">Answer to the petition of both Houses of Parliament concerning matters of religion</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12">/</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>10r-10v</locus>
+                   <title when="1628-04-04">Speech to His Majesty at the Council Table</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0009">George Villiers, 1st Duke of Buckingham</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/VilliersProceedingsCouncilTable1628v2.xml" type="t_witness"/>
+                   <link target="../texts/VilliersProceedingsCouncilTable1628v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12">Speech of 4 April 1628, transcribed after parliamentary news from 12 April 1628.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>10v-11r</locus>
+                   <title when="1628-03-22">Speech in Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0032">Sir Francis Seymour</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12">Transcribed after parliamentary news from 12 April 1628.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>11r</locus>
+                   <title when="1628">The resolution of the House of Commons touching the liberty of the subject</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0031">House of Commons</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12">Transcribed after parliamentary news from 12 April 1628.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>11v</locus>
+                   <title when="1628-03-17">Speech in Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0033">Sir Thomas Wentworth</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12">Transcribed after parliamentary news from 12 April 1628.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>12r-12v</locus>
+                   <title when="1628">Speech in Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0034">Sir Robert Phelips</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12">Transcribed after parliamentary news from 12 April 1628.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="10">
+                   <locus>12v-13r</locus>
+                   <title when="1628-04-12">Message to Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-12"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="11">
+                   <locus>13r-v</locus>
+                   <title when="1628-04-14">To the King's Most Excellent Majesty</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0031">House of Commons</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-14"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="12">
+                   <locus>14r-v</locus>
+                   <title when="1628-03-19">Summary of a letter from a Jesuit to the Father Rector in Brussels</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0035">John Maynard</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <link target="../texts/MaynardLetterJesuit1628v1.xml" type="t_witness"/>
+                   <link target="../texts/MaynardLetterJesuit1628v2.xml" type="witness"/>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-14">Summary of letter, transcribed after item from 14 April 1628.</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="13">
+                   <locus>14v</locus>
+                   <title when="1628-04-14">Answer to a petition from the House of Commons</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note>Preceeded by the heads of petition</note>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-14"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="14">
+                   <locus>15r</locus>
+                   <title when="1628-04-23">The Archbishop of Cantebury's Speech to the Commons</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0036">Archbishop George Abbot</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-23"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="15">
+                   <locus>15v</locus>
+                   <title when="1628-04-23">Parliament's Propositions to the Archbishop of Cantebury</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0037">Parliament</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-23"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="16">
+                   <locus>16r-16v</locus>
+                   <title when="1628-04-28">Speech to Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-04-28"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="17">
+                   <locus>16v</locus>
+                   <title when="1628-05-03">Message to Parliament on Behalf of the King</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0038">Sir John Coke</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-05-03"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="18">
+                   <locus>17r-17v</locus>
+                   <title when="1628-05-05">Answer to the King on Behalf of the House of Commons</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0039">Sir John Finch, Speaker of the House of Commons</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-05-05"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="19">
+                   <locus>17v</locus>
+                   <title when="1628-05-05">Answer to Parliament, delivered by the Lord Keeper</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-05-05"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="20">
+                   <locus>18r-18v</locus>
+                   <title when="1628-05-14">Proclamation to the Sailors</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0009">George Villiers, 1st Duke of Buckingham</persName>
+                   </author>
+                   <link target="../texts/VilliersProclamationSailors1628.xml" type="t_witness"/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-05-14"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="21">
+                   <locus>18v-19v</locus>
+                   <title when="1628-05-13">The Petition of Right</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0031">The House of Commons</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-05-14"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="22">
+                   <locus>22r</locus>
+                   <title when="1628-06-18">Answer to Parliament's Remonstrance</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-06-18"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="23">
+                   <locus>22r</locus>
+                   <title when="1628-06-21">Submission</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0040">Dr Roger Maynwaring</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-06-21"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="24">
+                   <locus>22v</locus>
+                   <title when="1628-06-26">Speech at the end of the first session of Parliament</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-06-26"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="25">
+                   <locus>23r</locus>
+                   <title when="1628-07-04">Examination of Frances Rodriguez of Villa Deconde in Portugal, brought in by Captain Richard Teate</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0041">Frances Rodriguez</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-07-04"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="26">
+                   <locus>24r</locus>
+                   <title when="1628-08-23">Statement on the assassination of the Duke of Buckingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0002">John Felton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/FeltonStatement1628v2.xml" type="t_witness"/>
+                   <link target="../texts/FeltonStatement1628v1.xml" type="witness"/>
+                   <link target="../texts/FeltonStatement1628v3.xml" type="witness"/>
+                   <msDesc>
+                    <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-08-23">Diary entry dated 23 August 1628 (although likely recorded after this), recording words of a statement by John Felton and circumstances of his assassination of the Duke of Buckingham</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="27">
+                   <locus>28r</locus>
+                   <title when="1629-03" notAfter="1628-03-17">An Episcopal Libel Against the House of Commons, supposedly by the Bishop of Oxford</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0042">Richard Corbet, Bishop of Oxford</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-03-17"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="28">
+                   <locus>28r-29v</locus>
+                   <title when="1628" from="1628-03" to="1628-04">The Case of Sir John Eliot</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0044">Sir John Eliot</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0045">Sir Miles Hobart</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0046">Sir Peter Heyman</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0047">Denzil Holles</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/EliotCase1629.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1631-03-17" from="1628-03" to="1628-04"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="29">
+                   <locus>30v</locus>
+                   <title when="1629-03" notAfter="1628-05-12">An Answer to the Verses (fo.28r)</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-05-12"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="30">
+                   <locus>33r-35r</locus>
+                   <title when="1629-11-22">Habeas Corpus Returns</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1629" notBefore="1629-11-22"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="31">
+                   <locus>40v-41r</locus>
+                   <title when="1631-01">Extracts from the Book of Orders</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1631" notBefore="1631-01-05"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="32">
+                   <locus>48r-50r</locus>
+                   <title when="1632-08">Observations of the King of Sweden</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0043">Gustavus Adolphus</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1632" notBefore="1632-08"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="33">
+                   <locus>50r-50v</locus>
+                   <title when="1632-08-18">Patent for raising funds for repair of "Paul's Church"</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1632" notBefore="1632-08-18"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="34">
+                   <locus>53v</locus>
+                   <title when="1633">Laudian Articles</title>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LaudianArticles1633v2.xml" type="t_witness"/>
+                   <link target="../texts/LaudianArticles1633v3.xml" type="witness"/>
+                   <link target="../texts/LaudianArticles1633v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1633" notBefore="1635-07"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="35">
+                   <locus>54v-55v</locus>
+                   <title when="1627">Letter to the Vicar of Grantham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0021">John Williams</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/WilliamsLetterVicarGrantham1627.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1633" notBefore="1633-07"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="36">
+                   <locus>60r</locus>
+                   <title when="1634">Articles proposed for debate in the Sorbonne</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1634" notBefore="1634-07"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="37">
+                   <locus>62v</locus>
+                   <title when="1633">Laudian Articles</title>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LaudianArticles1633v3.xml" type="t_witness"/>
+                   <link target="../texts/LaudianArticles1633v2.xml" type="witness"/>
+                   <link target="../texts/LaudianArticles1633v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1635" notBefore="1635-05"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="38">
+                   <locus>65v</locus>
+                   <title when="1636-04-26">The examination of Richard and Margaret Farnham and John Bull</title>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1636" notBefore="1636-04-26"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="39">
+                   <locus>66r</locus>
+                   <title when="1636-08">Verses presented to the King in Oxford</title>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1636" notBefore="1636-08"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="40">
+                   <locus>67v-68r</locus>
+                   <title when="1637-10-26">The Humble Supplication or Remonstrance of the Noblemen, Barons, Burgesses, Ministers and Commons of Scotland to the Lords of His Majesty’s Privy Council There</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RemonstranceScotland1637.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1637" notBefore="1637-10"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="41">
+                   <locus>69r-69v</locus>
+                   <title when="1638">Another Letter to the Lords of the Council from the Lords etc. of Scotland [PROBABLY NEEDS TRANSCRIBING - in unidentified.doc]</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1638" notBefore="1638-05-26"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="42">
+                   <locus>70r-70v</locus>
+                   <title when="1637">The Scots’ Reasons Against the Service Book </title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ScotsAgainstServiceBook1637.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1638" notBefore="1638-06-19"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="43">
+                   <locus>70v-71r</locus>
+                   <title when="1637-08-25">The Copy of a Letter from the Lords of the Council of Scotland to the King</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0048">Privy Council of Scotland</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/PrivyCouncilScotlandLetterKing1637.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1638" notBefore="1638-06-19"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="44">
+                   <locus>72v-73r</locus>
+                   <title when="1639">The Military Oath Offered at York and Refused</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0050">Robert Greville, Lord Brooke</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Saye &amp; Sele</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/MilitaryOath1639v1.xml" type="t_witness"/>
+                   <link target="../texts/MilitaryOath1639v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1639" from="1639-04" to="1639-05"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="45">
+                   <locus>75v</locus>
+                   <title when="1640-03-31">Declaration Concerning Ireland</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0052">House of Lords</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1640" notBefore="1640-03-31"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="46">
+                   <locus>76r</locus>
+                   <title when="1640-04-21">Copy of a letter intercepted between Scotland and France, translated from French</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0053">Muir?</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0058">Alexander Montgomerie, 6th Earl of Eglinton</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0059">Lord George Forester?</persName>
+                   </author>
+                   
+                   <author>
+                      <persName corresp="../people/people.xml#P0054">John Campbell, 1st Earl of Loudon</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0055">John Leslie, 6th Earl of Rothes</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0056">James Graham, 5th Earl of Montrose</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0057">Alexander Leslie</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1640" notBefore="1640-04-21"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="47">
+                   <locus>78r</locus>
+                   <title when="1640">Lords' Petition</title>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0061">Francis Russell, 4th Earl of Bedford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0062">William Seymour, 2nd Earl of Hartford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0063">Robert Devereux, 3rd Earl of Essex</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0064">Edmund Sheffield, 1st Earl of Mulgrave</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0065">Robert Rich, 2nd Earl of Warwick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0066">Oliver St John, 1st Earl of Bolingbroke</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Say and Sele</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0067">Henry Montagu, Viscount Mandeville</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0050">Robert Greville, Second Baron Brooke of Beauchamps Court</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0068">Edward Howard, First Baron North of Escrick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0069">George Manners, 7th Earl of Rutland</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0070">Theophilus Clinton, 4th Earl of Lincoln</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0071">David Cecil, 3rd Earl of Exeter</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0072">Dudley North, Third Baron North</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0073">Francis Willoughby, Fifth Baron Willoughby of Parham</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0074">Thomas Savile, Second Baron Savile of Pontefract</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0075">Philip Wharton, Fourth Baron Wharton</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0076">John Lovelace, 2nd Baron Lovelace</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LordsPetition1640v1.xml" type="t_witness"/>
+                   <link target="../texts/LordsPetition1640v2.xml" type="witness"/>
+                   <link target="../texts/LordsPetition1640v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1640" notBefore="1640-07"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="48">
+                   <locus>79r</locus>
+                   <title when="1641-05-03">The Protestation Oath</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1641" notBefore="1641-05-05"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="49">
+                   <locus>80r-80v</locus>
+                   <title when="1640-05-05">A copy of a paper found in the closet of Sir Henry Vane the Elder</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0077">Sir Henry Vane the Elder</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1641" notBefore="1641-09-08"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="50">
+                   <locus>81v</locus>
+                   <title when="1642">Articles of High Treason against Lord Kimbolton, Denzil Holles, Sir Arthur Hasilrige, John Pym, John Hampden and William Strode</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1642"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="51">
+                   <locus>83r</locus>
+                   <title when="1625">Articles concerning the marriage of Prince Charles and Henrietta Maria</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation>Original pagination has been crossed out and replaced with more modern foliation. Modern foliation has been followed. Where the text uses original pagination to cross-reference other pages included in this corpus, references have been provided to the corresponding folio number.</foliation>
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1" xml:id="WY">
+                      <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                   </handNote>
+                   <handNote n="2" xml:id="WYAdd">
+                      <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>, later additions
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin from="1627" to="1642-04">Diary of <persName corresp="../people/people.xml#P0030">Walter Yonge</persName> of Colyton, Devon and MP for Honiton during the Long Parliament.</origin>
+                <provenance>British Library catalogue: "The volume was apparently seized by the Royalists; see a note on f. 3: "This manuscript was founde by me one the 22th day of April, 1644, in the studie of Walter Younge, Esq., in his house of Studcombe [Stedeombe in Axminster] in Devon, witnes my haunde the day &amp; yeare first aboue-written. E. Fortescue" [probably Sir Edmund Fortescue, the Royalist defender of Salcombe]. Phillipps MS. 20,757 (sale-cat. 1899, lot 340)".</provenance>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_control1/add_ms_35331_control1.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_control2/add_ms_35331_control2.jpg"/>
+      <graphic n="3" url="/bl/add_ms_35331/add_ms_35331_f001r/add_ms_35331_f001r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_35331/add_ms_35331_f001v/add_ms_35331_f001v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_35331/add_ms_35331_f002r/add_ms_35331_f002r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_35331/add_ms_35331_f002v/add_ms_35331_f002v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_35331/add_ms_35331_f003r/add_ms_35331_f003r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_35331/add_ms_35331_f003v/add_ms_35331_f003v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_35331/add_ms_35331_f004r/add_ms_35331_f004r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_35331/add_ms_35331_f004v/add_ms_35331_f004v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_35331/add_ms_35331_f005r/add_ms_35331_f005r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_35331/add_ms_35331_f005v/add_ms_35331_f005v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_35331/add_ms_35331_f006r/add_ms_35331_f006r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_35331/add_ms_35331_f006v/add_ms_35331_f006v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_35331/add_ms_35331_f007r/add_ms_35331_f007r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_35331/add_ms_35331_f007v/add_ms_35331_f007v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_35331/add_ms_35331_f008r/add_ms_35331_f008r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_35331/add_ms_35331_f008v/add_ms_35331_f008v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_35331/add_ms_35331_f009r/add_ms_35331_f009r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_35331/add_ms_35331_f009v/add_ms_35331_f009v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_35331/add_ms_35331_f010r/add_ms_35331_f010r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_35331/add_ms_35331_f010v/add_ms_35331_f010v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_35331/add_ms_35331_f011r/add_ms_35331_f011r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_35331/add_ms_35331_f011v/add_ms_35331_f011v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_35331/add_ms_35331_f012r/add_ms_35331_f012r.jpg"/>
+      <graphic n="26" url="/bl/add_ms_35331/add_ms_35331_f012v/add_ms_35331_f012v.jpg"/>
+      <graphic n="27" url="/bl/add_ms_35331/add_ms_35331_f013r/add_ms_35331_f013r.jpg"/>
+      <graphic n="28" url="/bl/add_ms_35331/add_ms_35331_f013v/add_ms_35331_f013v.jpg"/>
+      <graphic n="29" url="/bl/add_ms_35331/add_ms_35331_f014r/add_ms_35331_f014r.jpg"/>
+      <graphic n="30" url="/bl/add_ms_35331/add_ms_35331_f014v/add_ms_35331_f014v.jpg"/>
+      <graphic n="31" url="/bl/add_ms_35331/add_ms_35331_f015r/add_ms_35331_f015r.jpg"/>
+      <graphic n="32" url="/bl/add_ms_35331/add_ms_35331_f015v/add_ms_35331_f015v.jpg"/>
+      <graphic n="33" url="/bl/add_ms_35331/add_ms_35331_f016r/add_ms_35331_f016r.jpg"/>
+      <graphic n="34" url="/bl/add_ms_35331/add_ms_35331_f016v/add_ms_35331_f016v.jpg"/>
+      <graphic n="35" url="/bl/add_ms_35331/add_ms_35331_f017r/add_ms_35331_f017r.jpg"/>
+      <graphic n="36" url="/bl/add_ms_35331/add_ms_35331_f017v/add_ms_35331_f017v.jpg"/>
+      <graphic n="37" url="/bl/add_ms_35331/add_ms_35331_f018r/add_ms_35331_f018r.jpg"/>
+      <graphic n="38" url="/bl/add_ms_35331/add_ms_35331_f018v/add_ms_35331_f018v.jpg"/>
+      <graphic n="39" url="/bl/add_ms_35331/add_ms_35331_f019r/add_ms_35331_f019r.jpg"/>
+      <graphic n="40" url="/bl/add_ms_35331/add_ms_35331_f019v/add_ms_35331_f019v.jpg"/>
+      <graphic n="41" url="/bl/add_ms_35331/add_ms_35331_f020r/add_ms_35331_f020r.jpg"/>
+      <graphic n="42" url="/bl/add_ms_35331/add_ms_35331_f020v/add_ms_35331_f020v.jpg"/>
+      <graphic n="43" url="/bl/add_ms_35331/add_ms_35331_f021r/add_ms_35331_f021r.jpg"/>
+      <graphic n="44" url="/bl/add_ms_35331/add_ms_35331_f021v/add_ms_35331_f021v.jpg"/>
+      <graphic n="45" url="/bl/add_ms_35331/add_ms_35331_f022r/add_ms_35331_f022r.jpg"/>
+      <graphic n="46" url="/bl/add_ms_35331/add_ms_35331_f022v/add_ms_35331_f022v.jpg"/>
+      <graphic n="47" url="/bl/add_ms_35331/add_ms_35331_f023r/add_ms_35331_f023r.jpg"/>
+      <graphic n="48" url="/bl/add_ms_35331/add_ms_35331_f023v/add_ms_35331_f023v.jpg"/>
+      <graphic n="49" url="/bl/add_ms_35331/add_ms_35331_f024r/add_ms_35331_f024r.jpg"/>
+      <graphic n="50" url="/bl/add_ms_35331/add_ms_35331_f024v/add_ms_35331_f024v.jpg"/>
+      <graphic n="51" url="/bl/add_ms_35331/add_ms_35331_f025r/add_ms_35331_f025r.jpg"/>
+      <graphic n="52" url="/bl/add_ms_35331/add_ms_35331_f025v/add_ms_35331_f025v.jpg"/>
+      <graphic n="53" url="/bl/add_ms_35331/add_ms_35331_f026r/add_ms_35331_f026r.jpg"/>
+      <graphic n="54" url="/bl/add_ms_35331/add_ms_35331_f026v/add_ms_35331_f026v.jpg"/>
+      <graphic n="55" url="/bl/add_ms_35331/add_ms_35331_f027r/add_ms_35331_f027r.jpg"/>
+      <graphic n="56" url="/bl/add_ms_35331/add_ms_35331_f027v/add_ms_35331_f027v.jpg"/>
+      <graphic n="57" url="/bl/add_ms_35331/add_ms_35331_f028r/add_ms_35331_f028r.jpg"/>
+      <graphic n="58" url="/bl/add_ms_35331/add_ms_35331_f028v/add_ms_35331_f028v.jpg"/>
+      <graphic n="59" url="/bl/add_ms_35331/add_ms_35331_f029r/add_ms_35331_f029r.jpg"/>
+      <graphic n="60" url="/bl/add_ms_35331/add_ms_35331_f029v/add_ms_35331_f029v.jpg"/>
+      <graphic n="61" url="/bl/add_ms_35331/add_ms_35331_f030r/add_ms_35331_f030r.jpg"/>
+      <graphic n="62" url="/bl/add_ms_35331/add_ms_35331_f030v/add_ms_35331_f030v.jpg"/>
+      <graphic n="63" url="/bl/add_ms_35331/add_ms_35331_f031r/add_ms_35331_f031r.jpg"/>
+      <graphic n="64" url="/bl/add_ms_35331/add_ms_35331_f031v/add_ms_35331_f031v.jpg"/>
+      <graphic n="65" url="/bl/add_ms_35331/add_ms_35331_f032r/add_ms_35331_f032r.jpg"/>
+      <graphic n="66" url="/bl/add_ms_35331/add_ms_35331_f032v/add_ms_35331_f032v.jpg"/>
+      <graphic n="67" url="/bl/add_ms_35331/add_ms_35331_f033r/add_ms_35331_f033r.jpg"/>
+      <graphic n="68" url="/bl/add_ms_35331/add_ms_35331_f033v/add_ms_35331_f033v.jpg"/>
+      <graphic n="69" url="/bl/add_ms_35331/add_ms_35331_f034r/add_ms_35331_f034r.jpg"/>
+      <graphic n="70" url="/bl/add_ms_35331/add_ms_35331_f034v/add_ms_35331_f034v.jpg"/>
+      <graphic n="71" url="/bl/add_ms_35331/add_ms_35331_f035r/add_ms_35331_f035r.jpg"/>
+      <graphic n="72" url="/bl/add_ms_35331/add_ms_35331_f035v/add_ms_35331_f035v.jpg"/>
+      <graphic n="73" url="/bl/add_ms_35331/add_ms_35331_f036r/add_ms_35331_f036r.jpg"/>
+      <graphic n="74" url="/bl/add_ms_35331/add_ms_35331_f036v/add_ms_35331_f036v.jpg"/>
+      <graphic n="75" url="/bl/add_ms_35331/add_ms_35331_f037r/add_ms_35331_f037r.jpg"/>
+      <graphic n="76" url="/bl/add_ms_35331/add_ms_35331_f037v/add_ms_35331_f037v.jpg"/>
+      <graphic n="77" url="/bl/add_ms_35331/add_ms_35331_f038r/add_ms_35331_f038r.jpg"/>
+      <graphic n="78" url="/bl/add_ms_35331/add_ms_35331_f038v/add_ms_35331_f038v.jpg"/>
+      <graphic n="79" url="/bl/add_ms_35331/add_ms_35331_f039r/add_ms_35331_f039r.jpg"/>
+      <graphic n="80" url="/bl/add_ms_35331/add_ms_35331_f039v/add_ms_35331_f039v.jpg"/>
+      <graphic n="81" url="/bl/add_ms_35331/add_ms_35331_f040r/add_ms_35331_f040r.jpg"/>
+      <graphic n="82" url="/bl/add_ms_35331/add_ms_35331_f040v/add_ms_35331_f040v.jpg"/>
+      <graphic n="83" url="/bl/add_ms_35331/add_ms_35331_f041r/add_ms_35331_f041r.jpg"/>
+      <graphic n="84" url="/bl/add_ms_35331/add_ms_35331_f041v/add_ms_35331_f041v.jpg"/>
+      <graphic n="85" url="/bl/add_ms_35331/add_ms_35331_f042r/add_ms_35331_f042r.jpg"/>
+      <graphic n="86" url="/bl/add_ms_35331/add_ms_35331_f042v/add_ms_35331_f042v.jpg"/>
+      <graphic n="87" url="/bl/add_ms_35331/add_ms_35331_f043r/add_ms_35331_f043r.jpg"/>
+      <graphic n="88" url="/bl/add_ms_35331/add_ms_35331_f043v/add_ms_35331_f043v.jpg"/>
+      <graphic n="89" url="/bl/add_ms_35331/add_ms_35331_f044r/add_ms_35331_f044r.jpg"/>
+      <graphic n="90" url="/bl/add_ms_35331/add_ms_35331_f044v/add_ms_35331_f044v.jpg"/>
+      <graphic n="91" url="/bl/add_ms_35331/add_ms_35331_f045r/add_ms_35331_f045r.jpg"/>
+      <graphic n="92" url="/bl/add_ms_35331/add_ms_35331_f045v/add_ms_35331_f045v.jpg"/>
+      <graphic n="93" url="/bl/add_ms_35331/add_ms_35331_f046r/add_ms_35331_f046r.jpg"/>
+      <graphic n="94" url="/bl/add_ms_35331/add_ms_35331_f046v/add_ms_35331_f046v.jpg"/>
+      <graphic n="95" url="/bl/add_ms_35331/add_ms_35331_f047r/add_ms_35331_f047r.jpg"/>
+      <graphic n="96" url="/bl/add_ms_35331/add_ms_35331_f047v/add_ms_35331_f047v.jpg"/>
+      <graphic n="97" url="/bl/add_ms_35331/add_ms_35331_f048r/add_ms_35331_f048r.jpg"/>
+      <graphic n="98" url="/bl/add_ms_35331/add_ms_35331_f048v/add_ms_35331_f048v.jpg"/>
+      <graphic n="99" url="/bl/add_ms_35331/add_ms_35331_f049r/add_ms_35331_f049r.jpg"/>
+      <graphic n="100" url="/bl/add_ms_35331/add_ms_35331_f049v/add_ms_35331_f049v.jpg"/>
+      <graphic n="101" url="/bl/add_ms_35331/add_ms_35331_f050r/add_ms_35331_f050r.jpg"/>
+      <graphic n="102" url="/bl/add_ms_35331/add_ms_35331_f050v/add_ms_35331_f050v.jpg"/>
+      <graphic n="103" url="/bl/add_ms_35331/add_ms_35331_f051r/add_ms_35331_f051r.jpg"/>
+      <graphic n="104" url="/bl/add_ms_35331/add_ms_35331_f051v/add_ms_35331_f051v.jpg"/>
+      <graphic n="105" url="/bl/add_ms_35331/add_ms_35331_f052r/add_ms_35331_f052r.jpg"/>
+      <graphic n="106" url="/bl/add_ms_35331/add_ms_35331_f052v/add_ms_35331_f052v.jpg"/>
+      <graphic n="107" url="/bl/add_ms_35331/add_ms_35331_f053r/add_ms_35331_f053r.jpg"/>
+      <graphic n="108" url="/bl/add_ms_35331/add_ms_35331_f053v/add_ms_35331_f053v.jpg"/>
+      <graphic n="109" url="/bl/add_ms_35331/add_ms_35331_f054r/add_ms_35331_f054r.jpg"/>
+      <graphic n="110" url="/bl/add_ms_35331/add_ms_35331_f054v/add_ms_35331_f054v.jpg"/>
+      <graphic n="111" url="/bl/add_ms_35331/add_ms_35331_f055r/add_ms_35331_f055r.jpg"/>
+      <graphic n="112" url="/bl/add_ms_35331/add_ms_35331_f055v/add_ms_35331_f055v.jpg"/>
+      <graphic n="113" url="/bl/add_ms_35331/add_ms_35331_f056r/add_ms_35331_f056r.jpg"/>
+      <graphic n="114" url="/bl/add_ms_35331/add_ms_35331_f056v/add_ms_35331_f056v.jpg"/>
+      <graphic n="115" url="/bl/add_ms_35331/add_ms_35331_f057r/add_ms_35331_f057r.jpg"/>
+      <graphic n="116" url="/bl/add_ms_35331/add_ms_35331_f057v/add_ms_35331_f057v.jpg"/>
+      <graphic n="117" url="/bl/add_ms_35331/add_ms_35331_f058r/add_ms_35331_f058r.jpg"/>
+      <graphic n="118" url="/bl/add_ms_35331/add_ms_35331_f058v/add_ms_35331_f058v.jpg"/>
+      <graphic n="119" url="/bl/add_ms_35331/add_ms_35331_f059r/add_ms_35331_f059r.jpg"/>
+      <graphic n="120" url="/bl/add_ms_35331/add_ms_35331_f059v/add_ms_35331_f059v.jpg"/>
+      <graphic n="121" url="/bl/add_ms_35331/add_ms_35331_f060r/add_ms_35331_f060r.jpg"/>
+      <graphic n="122" url="/bl/add_ms_35331/add_ms_35331_f060v/add_ms_35331_f060v.jpg"/>
+      <graphic n="123" url="/bl/add_ms_35331/add_ms_35331_f061r/add_ms_35331_f061r.jpg"/>
+      <graphic n="124" url="/bl/add_ms_35331/add_ms_35331_f061v/add_ms_35331_f061v.jpg"/>
+      <graphic n="125" url="/bl/add_ms_35331/add_ms_35331_f062r/add_ms_35331_f062r.jpg"/>
+      <graphic n="126" url="/bl/add_ms_35331/add_ms_35331_f062v/add_ms_35331_f062v.jpg"/>
+      <graphic n="127" url="/bl/add_ms_35331/add_ms_35331_f063r/add_ms_35331_f063r.jpg"/>
+      <graphic n="128" url="/bl/add_ms_35331/add_ms_35331_f063v/add_ms_35331_f063v.jpg"/>
+      <graphic n="129" url="/bl/add_ms_35331/add_ms_35331_f064r/add_ms_35331_f064r.jpg"/>
+      <graphic n="130" url="/bl/add_ms_35331/add_ms_35331_f064v/add_ms_35331_f064v.jpg"/>
+      <graphic n="131" url="/bl/add_ms_35331/add_ms_35331_f065r/add_ms_35331_f065r.jpg"/>
+      <graphic n="132" url="/bl/add_ms_35331/add_ms_35331_f065v/add_ms_35331_f065v.jpg"/>
+      <graphic n="133" url="/bl/add_ms_35331/add_ms_35331_f066r/add_ms_35331_f066r.jpg"/>
+      <graphic n="134" url="/bl/add_ms_35331/add_ms_35331_f066v/add_ms_35331_f066v.jpg"/>
+      <graphic n="135" url="/bl/add_ms_35331/add_ms_35331_f067r/add_ms_35331_f067r.jpg"/>
+      <graphic n="136" url="/bl/add_ms_35331/add_ms_35331_f067v/add_ms_35331_f067v.jpg"/>
+      <graphic n="137" url="/bl/add_ms_35331/add_ms_35331_f068r/add_ms_35331_f068r.jpg"/>
+      <graphic n="138" url="/bl/add_ms_35331/add_ms_35331_f068v/add_ms_35331_f068v.jpg"/>
+      <graphic n="139" url="/bl/add_ms_35331/add_ms_35331_f069r/add_ms_35331_f069r.jpg"/>
+      <graphic n="140" url="/bl/add_ms_35331/add_ms_35331_f069v/add_ms_35331_f069v.jpg"/>
+      <graphic n="141" url="/bl/add_ms_35331/add_ms_35331_f070r/add_ms_35331_f070r.jpg"/>
+      <graphic n="142" url="/bl/add_ms_35331/add_ms_35331_f070v/add_ms_35331_f070v.jpg"/>
+      <graphic n="143" url="/bl/add_ms_35331/add_ms_35331_f071r/add_ms_35331_f071r.jpg"/>
+      <graphic n="144" url="/bl/add_ms_35331/add_ms_35331_f071v/add_ms_35331_f071v.jpg"/>
+      <graphic n="145" url="/bl/add_ms_35331/add_ms_35331_f072r/add_ms_35331_f072r.jpg"/>
+      <graphic n="146" url="/bl/add_ms_35331/add_ms_35331_f072v/add_ms_35331_f072v.jpg"/>
+      <graphic n="147" url="/bl/add_ms_35331/add_ms_35331_f073r/add_ms_35331_f073r.jpg"/>
+      <graphic n="148" url="/bl/add_ms_35331/add_ms_35331_f073v/add_ms_35331_f073v.jpg"/>
+      <graphic n="149" url="/bl/add_ms_35331/add_ms_35331_f074r/add_ms_35331_f074r.jpg"/>
+      <graphic n="150" url="/bl/add_ms_35331/add_ms_35331_f074v/add_ms_35331_f074v.jpg"/>
+      <graphic n="151" url="/bl/add_ms_35331/add_ms_35331_f075r/add_ms_35331_f075r.jpg"/>
+      <graphic n="152" url="/bl/add_ms_35331/add_ms_35331_f075v/add_ms_35331_f075v.jpg"/>
+      <graphic n="153" url="/bl/add_ms_35331/add_ms_35331_f076r/add_ms_35331_f076r.jpg"/>
+      <graphic n="154" url="/bl/add_ms_35331/add_ms_35331_f076v/add_ms_35331_f076v.jpg"/>
+      <graphic n="155" url="/bl/add_ms_35331/add_ms_35331_f077r/add_ms_35331_f077r.jpg"/>
+      <graphic n="156" url="/bl/add_ms_35331/add_ms_35331_f077v/add_ms_35331_f077v.jpg"/>
+      <graphic n="157" url="/bl/add_ms_35331/add_ms_35331_f078r/add_ms_35331_f078r.jpg"/>
+      <graphic n="158" url="/bl/add_ms_35331/add_ms_35331_f078v/add_ms_35331_f078v.jpg"/>
+      <graphic n="159" url="/bl/add_ms_35331/add_ms_35331_f079r/add_ms_35331_f079r.jpg"/>
+      <graphic n="160" url="/bl/add_ms_35331/add_ms_35331_f079v/add_ms_35331_f079v.jpg"/>
+      <graphic n="161" url="/bl/add_ms_35331/add_ms_35331_f080r/add_ms_35331_f080r.jpg"/>
+      <graphic n="162" url="/bl/add_ms_35331/add_ms_35331_f080v/add_ms_35331_f080v.jpg"/>
+      <graphic n="163" url="/bl/add_ms_35331/add_ms_35331_f081r/add_ms_35331_f081r.jpg"/>
+      <graphic n="164" url="/bl/add_ms_35331/add_ms_35331_f081v/add_ms_35331_f081v.jpg"/>
+      <graphic n="165" url="/bl/add_ms_35331/add_ms_35331_f082r/add_ms_35331_f082r.jpg"/>
+      <graphic n="166" url="/bl/add_ms_35331/add_ms_35331_f082v/add_ms_35331_f082v.jpg"/>
+      <graphic n="167" url="/bl/add_ms_35331/add_ms_35331_f083r/add_ms_35331_f083r.jpg"/>
+      <graphic n="168" url="/bl/add_ms_35331/add_ms_35331_f083v/add_ms_35331_f083v.jpg"/>
+      <graphic n="169" url="/bl/add_ms_35331/add_ms_35331_f084r/add_ms_35331_f084r.jpg"/>
+      <graphic n="170" url="/bl/add_ms_35331/add_ms_35331_f084v/add_ms_35331_f084v.jpg"/>
+      <graphic n="171" url="/bl/add_ms_35331/add_ms_35331_f085r/add_ms_35331_f085r.jpg"/>
+      <graphic n="172" url="/bl/add_ms_35331/add_ms_35331_f085v/add_ms_35331_f085v.jpg"/>
+      <graphic n="173" url="/bl/add_ms_35331/add_ms_35331_f086r/add_ms_35331_f086r.jpg"/>
+      <graphic n="174" url="/bl/add_ms_35331/add_ms_35331_f086v/add_ms_35331_f086v.jpg"/>
+      <graphic n="175" url="/bl/add_ms_35331/add_ms_35331_f087r/add_ms_35331_f087r.jpg"/>
+      <graphic n="176" url="/bl/add_ms_35331/add_ms_35331_f087v/add_ms_35331_f087v.jpg"/>
+      <graphic n="177" url="/bl/add_ms_35331/add_ms_35331_f088r/add_ms_35331_f088r.jpg"/>
+      <graphic n="178" url="/bl/add_ms_35331/add_ms_35331_f088v/add_ms_35331_f088v.jpg"/>
+      <graphic n="179" url="/bl/add_ms_35331/add_ms_35331_f089r/add_ms_35331_f089r.jpg"/>
+      <graphic n="180" url="/bl/add_ms_35331/add_ms_35331_f089v/add_ms_35331_f089v.jpg"/>
+      <graphic n="181" url="/bl/add_ms_35331/add_ms_35331_f090r/add_ms_35331_f090r.jpg"/>
+      <graphic n="182" url="/bl/add_ms_35331/add_ms_35331_f090v/add_ms_35331_f090v.jpg"/>
+      <graphic n="183" url="/bl/add_ms_35331/add_ms_35331_fbfore/add_ms_35331_fbfore.jpg"/>
+      <graphic n="184" url="/bl/add_ms_35331/add_ms_35331_fblefr/add_ms_35331_fblefr.jpg"/>
+      <graphic n="185" url="/bl/add_ms_35331/add_ms_35331_fblefv/add_ms_35331_fblefv.jpg"/>
+      <graphic n="186" url="/bl/add_ms_35331/add_ms_35331_fbrigr/add_ms_35331_fbrigr.jpg"/>
+      <graphic n="187" url="/bl/add_ms_35331/add_ms_35331_fbrigv/add_ms_35331_fbrigv.jpg"/>
+      <graphic n="188" url="/bl/add_ms_35331/add_ms_35331_fbspi/add_ms_35331_fbspi.jpg"/>
+      <graphic n="189" url="/bl/add_ms_35331/add_ms_35331_fs001r/add_ms_35331_fs001r.jpg"/>
+      <graphic n="190" url="/bl/add_ms_35331/add_ms_35331_fs001v/add_ms_35331_fs001v.jpg"/>
+      <graphic n="191" url="/bl/add_ms_35331/add_ms_35331_fs002r/add_ms_35331_fs002r.jpg"/>
+      <graphic n="192" url="/bl/add_ms_35331/add_ms_35331_fs002v/add_ms_35331_fs002v.jpg"/>
+      <graphic n="193" url="/bl/add_ms_35331/add_ms_35331_fse001r/add_ms_35331_fse001r.jpg"/>
+      <graphic n="194" url="/bl/add_ms_35331/add_ms_35331_fse001v/add_ms_35331_fse001v.jpg"/>
+      <graphic n="195" url="/bl/add_ms_35331/add_ms_35331_fse002r/add_ms_35331_fse002r.jpg"/>
+      <graphic n="196" url="/bl/add_ms_35331/add_ms_35331_fse002v/add_ms_35331_fse002v.jpg"/>
+      <graphic n="197" url="/bl/add_ms_35331/add_ms_35331_fse003r/add_ms_35331_fse003r.jpg"/>
+      <graphic n="198" url="/bl/add_ms_35331/add_ms_35331_fse003v/add_ms_35331_fse003v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Hargrave MS 311</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>62r-77r</locus>
+                   <title when="1612">A Declaration How the Kings of England have from Time to Time Supported and Repaired their Estates, Collected out of the Records of the Tower</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonDeclarationKingsEstates1612.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>175r-178r</locus>
+                   <title when="1618">Considerations upon the Treaty of Marriage between England and Spain</title>
+                   <author/>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv1.xml" type="witness"/>
+                   <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv2.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>179r-180r</locus>
+                   <title when="1630">Instructions which you are to follow in the execution of his Majesty’s commission concerning the Order of Knighthood to be taken at the King's coronation</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesInstructionsKnighthoodCoronation1630.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>186r-v</locus>
+                   <title when="1622">Directions for Preachers</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JamesDirectionsPreachers1622.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>191r</locus>
+                   <title when="1623">An Oath Presented to the Protestants of the Palatinate</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/OathToProtestantsPalatinate.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>192r</locus>
+                   <title when="1629">Prognostication of the Emperor’s Principal Astrologers</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/Prognostication1629v2.xml" type="t_witness"/>
+                   <link target="../texts/Prognostication1629v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>205r-v</locus>
+                   <title when="1623">A Speech to the King Concerning Toleration of Popery, Attributed to Archbishop Abbot</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0204">Pseudo-Abbot</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/PseudoAbbot1623v2.xml" type="t_witness"/>
+                   <link target="../texts/PseudoAbbot1623v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>206r-207v</locus>
+                   <title when="1622">Separate Catalogue</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/SeparateCataloguev1.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>208r</locus>
+                   <title when="1630-02">Petition to Charles I for his Son</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0010">Henry Cary, Viscount Falkland</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CaryPetitionSon1630v2.xml" type="t_witness"/>
+                   <link target="../texts/CaryPetitionSon1630v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="10">
+                   <locus>209r-209v</locus>
+                   <title when="1629">Instructions Concerning Lecturers and Ministers</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesInstructionsLecturers1629v2.xml" type="t_witness"/>
+                   <link target="../texts/CharlesInstructionsLecturers1629v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="11">
+                   <locus>210r-215v</locus>
+                   <title when="1629-11-16">Information Against Cotton et al.</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0029">Sir Robert Heath</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/HeathInformationAgainstCotton1629.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f062r/hargrave_ms_311_f062r.jpg"/>
+      <graphic n="2" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f062v/hargrave_ms_311_f062v.jpg"/>
+      <graphic n="3" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f063r/hargrave_ms_311_f063r.jpg"/>
+      <graphic n="4" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f063v/hargrave_ms_311_f063v.jpg"/>
+      <graphic n="5" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f064r/hargrave_ms_311_f064r.jpg"/>
+      <graphic n="6" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f064v/hargrave_ms_311_f064v.jpg"/>
+      <graphic n="7" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f065r/hargrave_ms_311_f065r.jpg"/>
+      <graphic n="8" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f065v/hargrave_ms_311_f065v.jpg"/>
+      <graphic n="9" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f066r/hargrave_ms_311_f066r.jpg"/>
+      <graphic n="10" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f066v/hargrave_ms_311_f066v.jpg"/>
+      <graphic n="11" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f067r/hargrave_ms_311_f067r.jpg"/>
+      <graphic n="12" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f067v/hargrave_ms_311_f067v.jpg"/>
+      <graphic n="13" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f068r/hargrave_ms_311_f068r.jpg"/>
+      <graphic n="14" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f068v/hargrave_ms_311_f068v.jpg"/>
+      <graphic n="15" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f069r/hargrave_ms_311_f069r.jpg"/>
+      <graphic n="16" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f069v/hargrave_ms_311_f069v.jpg"/>
+      <graphic n="17" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f070r/hargrave_ms_311_f070r.jpg"/>
+      <graphic n="18" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f070v/hargrave_ms_311_f070v.jpg"/>
+      <graphic n="19" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f071r/hargrave_ms_311_f071r.jpg"/>
+      <graphic n="20" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f071v/hargrave_ms_311_f071v.jpg"/>
+      <graphic n="21" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f072r/hargrave_ms_311_f072r.jpg"/>
+      <graphic n="22" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f072v/hargrave_ms_311_f072v.jpg"/>
+      <graphic n="23" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f073r/hargrave_ms_311_f073r.jpg"/>
+      <graphic n="24" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f073v/hargrave_ms_311_f073v.jpg"/>
+      <graphic n="25" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f074r/hargrave_ms_311_f074r.jpg"/>
+      <graphic n="26" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f074v/hargrave_ms_311_f074v.jpg"/>
+      <graphic n="27" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f075r/hargrave_ms_311_f075r.jpg"/>
+      <graphic n="28" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f075v/hargrave_ms_311_f075v.jpg"/>
+      <graphic n="29" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f076r/hargrave_ms_311_f076r.jpg"/>
+      <graphic n="30" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f076v/hargrave_ms_311_f076v.jpg"/>
+      <graphic n="31" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f077r/hargrave_ms_311_f077r.jpg"/>
+      <graphic n="32" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f175r/hargrave_ms_311_f175r.jpg"/>
+      <graphic n="33" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f175v/hargrave_ms_311_f175v.jpg"/>
+      <graphic n="34" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f176r/hargrave_ms_311_f176r.jpg"/>
+      <graphic n="35" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f176v/hargrave_ms_311_f176v.jpg"/>
+      <graphic n="36" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f177r/hargrave_ms_311_f177r.jpg"/>
+      <graphic n="37" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f177v/hargrave_ms_311_f177v.jpg"/>
+      <graphic n="38" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f178r/hargrave_ms_311_f178r.jpg"/>
+      <graphic n="39" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f178v/hargrave_ms_311_f178v.jpg"/>
+      <graphic n="40" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f179r/hargrave_ms_311_f179r.jpg"/>
+      <graphic n="41" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f179v/hargrave_ms_311_f179v.jpg"/>
+      <graphic n="42" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f180r/hargrave_ms_311_f180r.jpg"/>
+      <graphic n="43" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f180v/hargrave_ms_311_f180v.jpg"/>
+      <graphic n="44" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f192r/hargrave_ms_311_f192r.jpg"/>
+      <graphic n="45" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f205r/hargrave_ms_311_f205r.jpg"/>
+      <graphic n="46" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f205v/hargrave_ms_311_f205v.jpg"/>
+      <graphic n="47" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f206r/hargrave_ms_311_f206r.jpg"/>
+      <graphic n="48" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f206v/hargrave_ms_311_f206v.jpg"/>
+      <graphic n="49" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f207r/hargrave_ms_311_f207r.jpg"/>
+      <graphic n="50" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f207v/hargrave_ms_311_f207v.jpg"/>
+      <graphic n="51" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f208r/hargrave_ms_311_f208r.jpg"/>
+      <graphic n="52" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f209r/hargrave_ms_311_f209r.jpg"/>
+      <graphic n="53" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f209v/hargrave_ms_311_f209v.jpg"/>
+      <graphic n="54" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f210r/hargrave_ms_311_f210r.jpg"/>
+      <graphic n="55" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f210v/hargrave_ms_311_f210v.jpg"/>
+      <graphic n="56" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f211r/hargrave_ms_311_f211r.jpg"/>
+      <graphic n="57" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f211v/hargrave_ms_311_f211v.jpg"/>
+      <graphic n="58" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f212r/hargrave_ms_311_f212r.jpg"/>
+      <graphic n="59" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f212v/hargrave_ms_311_f212v.jpg"/>
+      <graphic n="60" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f213r/hargrave_ms_311_f213r.jpg"/>
+      <graphic n="61" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f213v/hargrave_ms_311_f213v.jpg"/>
+      <graphic n="62" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f214r/hargrave_ms_311_f214r.jpg"/>
+      <graphic n="63" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f214v/hargrave_ms_311_f214v.jpg"/>
+   </facsimile>
+</TEI>

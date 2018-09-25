@@ -1,0 +1,663 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 4931</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>7r-9r</locus>
+                   <title>Various political verses, epigraphs and othe miscellania</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>10r</locus>
+                   <title>A Censure Upon a Fart, Let in the House of Commons</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>12r</locus>
+                   <title when="1623">Letters</title>
+                   <author>
+                      <persName corresp="..people/people.xml#P0007">Charles Stuart, Prince of Wales</persName>
+                   </author>
+                   <author>
+                      <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v1.xml" type="t_witness"/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v2.xml" type="witness"/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1623"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>31r-33r</locus>
+                   <title when="1639-04-17">Advices and Motives for Soliciting Catholics</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/AdvicesMotives1639.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1639"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>35r-36v</locus>
+                   <title when="1638">Speech to the King, attributed to the Duke of Lennox</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0080">
+                         Pseudo-Lennox
+                      </persName>
+                   </author>
+                   <author role="attributed">
+                      <persName corresp="../people/people.xml#P0081">
+                         James Stewart, Duke of Lennox
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/PseudoLennox1638.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1638"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>37r</locus>
+                   <title notBefore="1638-11">Oath to the Covenanters</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0083">
+                         George Gordon, 2nd Marquess of Huntly
+                      </persName>
+                   </author>
+                   <author role="attributed">
+                      <persName corresp="../people/people.xml#P0081">
+                         James Stewart, Duke of Lennox
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/HuntlyOathCovenanters.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1638-11"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>38r</locus>
+                   <title when="1639-08">The Military Oath Offered at York and Refused</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0050" type="respondent">Robert Greville, Lord Brooke</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0051" type="respondent">William Fiennes, Viscount Saye &amp; Sele</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/MilitaryOath1639v2.xml" type="t_witness"/>
+                   <link target="../texts/MilitaryOath1639v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1639-08"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>39r-40r</locus>
+                   <title when="1640-04">A Godly New Song, on the Occassion of the Short Parliament</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-04"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>52r-53v</locus>
+                   <title when="1640">Queries Concerning the Etcaetera Oath</title>
+                   <author>
+                      Clergy of the Disocese of London
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/QueriesClergyLondonOath1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="10">
+                   <locus>54r-55r</locus>
+                   <title when="1640">Considerations on The Etcaetera Oath</title>
+                   <author>
+                      <persName corresp="../people/people.xml#0084">Ralph Brownrigg</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BrownriggConsiderations1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="11">
+                   <locus>55r-57r</locus>
+                   <title when="1640">Grounds of Exceptions against the Etcaetera Oath</title>
+                   <author>
+                      Northamptonshire Clergy
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/NorthamptonshireClergyAgainstEtcOath1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="12">
+                   <locus>58r</locus>
+                   <title when="1640">Queries about the Etcaetera Oath</title>
+                   <author>
+                      Kentish Ministers
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/KentClergyQueriesEtcOath1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="13">
+                   <locus>59r</locus>
+                   <title when="1640">Exceptions Against the Etcaetera Oath</title>
+                   <author>
+                      Devonshire Clergy
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DevonshireClergyEtcOath1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="14">
+                   <locus>60r-60v</locus>
+                   <title when="1640">Queries concerning the Etcaetera Oath</title>
+                   <author>
+                      Norfolk Ministers
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/NorfolkMinistersEtcOath1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="15">
+                   <locus>61r-62r</locus>
+                   <title when="1640">A Collection of Some Things Established in Our Church Government </title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0085">
+                         S.M.
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/SMChurchGovernment1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="16">
+                   <locus>64r</locus>
+                   <title when="1640-07-28">Petition to the King Presented at the Assizes of York</title>
+                   <author>Gentry of Yorkshire</author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/YorkshirePetition1640v1.xml" type="witness"/>
+                   <link target="../texts/YorkshirePetition1640v2.xml" type="t_witness"/>
+                   <link target="../texts/YorkshirePetition1640v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-07-28"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="17">
+                   <locus>65r-66v</locus>
+                   <title when="1640-06-07">Last Words</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0086">John Haskins</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/HaskinsLetter1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-06-07"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="18">
+                   <locus>66r-66v</locus>
+                   <title when="1640-07-11">Petition to the King</title>
+                   <author>Grand Jury of Berkshire</author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BerkshirePetition1640v1.xml" type="witness"/>
+                   <link target="../texts/BerkshirePetition1640v2.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-07-11"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="19">
+                   <locus>66r-66v</locus>
+                   <title when="1640-09-03">Lords' Petition</title>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0061">Francis Russell, 4th Earl of Bedford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0063">Robert Devereux, 3rd Earl of Essex</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0065">Robert Rich, 2nd Earl of Warwick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Say and Sele</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0050">Robert Greville, Second Baron Brooke of Beauchamps Court</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0068">Edward Howard, First Baron North of Escrick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0067">Henry Montagu, Viscount Mandeville</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="..people/people.xml#P0087">William Paget, 5th Baron Paget</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LordsPetition1640v1.xml" type="witness"/>
+                   <link target="../texts/LordsPetition1640v2.xml" type="witness"/>
+                   <link target="../texts/LordsPetition1640v3.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-09-03"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="20">
+                   <locus>68r</locus>
+                   <title when="1640-09-24">Speech to the Lords at York</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesSpeechYork1640v1.xml" type="witness"/>
+                   <link target="../texts/CharlesSpeechYork1640v2.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-09-24"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="21">
+                   <locus>69r-69v</locus>
+                   <title when="1640-10-13">Remembrances for the Lords Commissioners Concerning the Demands of the Scots</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RemebrancesCommissionersTreatyScots1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-10-13"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="22">
+                   <locus>70r-71v</locus>
+                   <title>The Form of Government in the Kirk of Scotland</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/FormKirkScotland.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="23">
+                   <locus>126r</locus>
+                   <title when="1640">A Catalogue of the Earl of Strafford's Friends, Who Voted Against the Bill of Attainder</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CatalogueStraffordFriends1641.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1641-05-03"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="24">
+                   <locus>143r-144v</locus>
+                   <title when="1628-03-19">A copy of a letter from a Jesuit to the Father Rector in Brussels</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0035">John Maynard</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <link target="../texts/MaynardLetterJesuit1628v2.xml" type="t_witness"/>
+                   <link target="../texts/MaynardLetterJesuit1628v1.xml" type="witness"/>
+                   <note/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628" notBefore="1628-03"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation>Volume contains both contemporary numbering, more recent item numbering in red ink and pencil foliation. Pencil foliation has been followed.</foliation>
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f007r/harley_ms_4931_f007r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f007v/harley_ms_4931_f007v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_4931_part/harley_ms_4931_f008r/harley_ms_4931_f008r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_4931_part/harley_ms_4931_f008v/harley_ms_4931_f008v.jpg"/>
+      <graphic n="5" url="/bl/harley_ms_4931_part/harley_ms_4931_f009r/harley_ms_4931_f009r.jpg"/>
+      <graphic n="6" url="/bl/harley_ms_4931_part/harley_ms_4931_f009v/harley_ms_4931_f009v.jpg"/>
+      <graphic n="7" url="/bl/harley_ms_4931_part/harley_ms_4931_f010r/harley_ms_4931_f010r.jpg"/>
+      <graphic n="8" url="/bl/harley_ms_4931_part/harley_ms_4931_f012r/harley_ms_4931_f012r.jpg"/>
+      <graphic n="9" url="/bl/harley_ms_4931_part/harley_ms_4931_f031r/harley_ms_4931_f031r.jpg"/>
+      <graphic n="10" url="/bl/harley_ms_4931_part/harley_ms_4931_f031v/harley_ms_4931_f031v.jpg"/>
+      <graphic n="11" url="/bl/harley_ms_4931_part/harley_ms_4931_f032r/harley_ms_4931_f032r.jpg"/>
+      <graphic n="12" url="/bl/harley_ms_4931_part/harley_ms_4931_f032v/harley_ms_4931_f032v.jpg"/>
+      <graphic n="13" url="/bl/harley_ms_4931_part/harley_ms_4931_f033r/harley_ms_4931_f033r.jpg"/>
+      <graphic n="14" url="/bl/harley_ms_4931_part/harley_ms_4931_f035r/harley_ms_4931_f035r.jpg"/>
+      <graphic n="15" url="/bl/harley_ms_4931_part/harley_ms_4931_f035v/harley_ms_4931_f035v.jpg"/>
+      <graphic n="16" url="/bl/harley_ms_4931_part/harley_ms_4931_f036r/harley_ms_4931_f036r.jpg"/>
+      <graphic n="17" url="/bl/harley_ms_4931_part/harley_ms_4931_f036v/harley_ms_4931_f036v.jpg"/>
+      <graphic n="18" url="/bl/harley_ms_4931_part/harley_ms_4931_f037r/harley_ms_4931_f037r.jpg"/>
+      <graphic n="19" url="/bl/harley_ms_4931_part/harley_ms_4931_f038r/harley_ms_4931_f038r.jpg"/>
+      <graphic n="20" url="/bl/harley_ms_4931_part/harley_ms_4931_f039r/harley_ms_4931_f039r.jpg"/>
+      <graphic n="21" url="/bl/harley_ms_4931_part/harley_ms_4931_f039v/harley_ms_4931_f039v.jpg"/>
+      <graphic n="22" url="/bl/harley_ms_4931_part/harley_ms_4931_f040r/harley_ms_4931_f040r.jpg"/>
+      <graphic n="23" url="/bl/harley_ms_4931_part/harley_ms_4931_f052r/harley_ms_4931_f052r.jpg"/>
+      <graphic n="24" url="/bl/harley_ms_4931_part/harley_ms_4931_f052v/harley_ms_4931_f052v.jpg"/>
+      <graphic n="25" url="/bl/harley_ms_4931_part/harley_ms_4931_f053r/harley_ms_4931_f053r.jpg"/>
+      <graphic n="26" url="/bl/harley_ms_4931_part/harley_ms_4931_f053v/harley_ms_4931_f053v.jpg"/>
+      <graphic n="27" url="/bl/harley_ms_4931_part/harley_ms_4931_f054r/harley_ms_4931_f054r.jpg"/>
+      <graphic n="28" url="/bl/harley_ms_4931_part/harley_ms_4931_f054v/harley_ms_4931_f054v.jpg"/>
+      <graphic n="29" url="/bl/harley_ms_4931_part/harley_ms_4931_f055r/harley_ms_4931_f055r.jpg"/>
+      <graphic n="30" url="/bl/harley_ms_4931_part/harley_ms_4931_f056r/harley_ms_4931_f056r.jpg"/>
+      <graphic n="31" url="/bl/harley_ms_4931_part/harley_ms_4931_f057r/harley_ms_4931_f057r.jpg"/>
+      <graphic n="32" url="/bl/harley_ms_4931_part/harley_ms_4931_f058r/harley_ms_4931_f058r.jpg"/>
+      <graphic n="33" url="/bl/harley_ms_4931_part/harley_ms_4931_f059r/harley_ms_4931_f059r.jpg"/>
+      <graphic n="34" url="/bl/harley_ms_4931_part/harley_ms_4931_f060r/harley_ms_4931_f060r.jpg"/>
+      <graphic n="35" url="/bl/harley_ms_4931_part/harley_ms_4931_f060v/harley_ms_4931_f060v.jpg"/>
+      <graphic n="36" url="/bl/harley_ms_4931_part/harley_ms_4931_f061r/harley_ms_4931_f061r.jpg"/>
+      <graphic n="37" url="/bl/harley_ms_4931_part/harley_ms_4931_f061v/harley_ms_4931_f061v.jpg"/>
+      <graphic n="38" url="/bl/harley_ms_4931_part/harley_ms_4931_f062r/harley_ms_4931_f062r.jpg"/>
+      <graphic n="39" url="/bl/harley_ms_4931_part/harley_ms_4931_f064r/harley_ms_4931_f064r.jpg"/>
+      <graphic n="40" url="/bl/harley_ms_4931_part/harley_ms_4931_f065r/harley_ms_4931_f065r.jpg"/>
+      <graphic n="41" url="/bl/harley_ms_4931_part/harley_ms_4931_f065v/harley_ms_4931_f065v.jpg"/>
+      <graphic n="42" url="/bl/harley_ms_4931_part/harley_ms_4931_f066r/harley_ms_4931_f066r.jpg"/>
+      <graphic n="43" url="/bl/harley_ms_4931_part/harley_ms_4931_f066v/harley_ms_4931_f066v.jpg"/>
+      <graphic n="44" url="/bl/harley_ms_4931_part/harley_ms_4931_f067r/harley_ms_4931_f067r.jpg"/>
+      <graphic n="45" url="/bl/harley_ms_4931_part/harley_ms_4931_f067v/harley_ms_4931_f067v.jpg"/>
+      <graphic n="46" url="/bl/harley_ms_4931_part/harley_ms_4931_f068r/harley_ms_4931_f068r.jpg"/>
+      <graphic n="47" url="/bl/harley_ms_4931_part/harley_ms_4931_f069r/harley_ms_4931_f069r.jpg"/>
+      <graphic n="48" url="/bl/harley_ms_4931_part/harley_ms_4931_f070r/harley_ms_4931_f070r.jpg"/>
+      <graphic n="49" url="/bl/harley_ms_4931_part/harley_ms_4931_f070v/harley_ms_4931_f070v.jpg"/>
+      <graphic n="50" url="/bl/harley_ms_4931_part/harley_ms_4931_f071r/harley_ms_4931_f071r.jpg"/>
+      <graphic n="51" url="/bl/harley_ms_4931_part/harley_ms_4931_f071v/harley_ms_4931_f071v.jpg"/>
+      <graphic n="52" url="/bl/harley_ms_4931_part/harley_ms_4931_f143r/harley_ms_4931_f143r.jpg"/>
+      <graphic n="53" url="/bl/harley_ms_4931_part/harley_ms_4931_f143v/harley_ms_4931_f143v.jpg"/>
+      <graphic n="54" url="/bl/harley_ms_4931_part/harley_ms_4931_f144r/harley_ms_4931_f144r.jpg"/>
+      <graphic n="55" url="/bl/harley_ms_4931_part/harley_ms_4931_f144v/harley_ms_4931_f144v.jpg"/>
+   </facsimile>
+</TEI>

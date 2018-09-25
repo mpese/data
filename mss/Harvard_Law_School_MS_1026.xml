@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Harvard Law School MS 1026</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Harvard_Law_School_MS_1026">
+               <country>USA</country>
+               <settlement>Cambridge, MA</settlement>
+               <repository>Harvard Law School</repository>
+               <collection/>
+               <idno>MS 1026</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>92r-95v</locus>
+                  <title>Letter to King James regarding Sir Edward Coke</title>
+                        <author>
+               Privy Council
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PrivyCouncilLetterRegardingCoke1616.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>96r-97v</locus>
+                  <title>Submission</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0146">Sir Edward Coke</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CokeSubmission1616.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>140v-146v</locus>
+                  <title>Discourse Touching the Ancient Mention, Conjunction Or Division of Two Great Offices of State, the Chancellorship and Keeper of the Great Seal of England</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0208">John Selden</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/SeldenDiscourseTwoGreatOfficesState1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>147r-155v</locus>
+                  <title>Speech at First Taking His Seat in Chancery</title>
+                        <author>
+                    <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+                </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechChancery1617v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>187r-v</locus>
+                  <title>Resignation Letter (A)</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0114">Thomas Egerton, Lord Ellesmere</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EgertonResignationLetterA.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

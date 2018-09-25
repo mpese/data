@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Military Oath Offered at York and Refused</title>
+            <author>
+                <persName corresp="../people/people.xml#P0050" type="respondent">Robert Greville, Lord Brooke</persName>
+            </author>
+            <author>
+                <persName corresp="../people/people.xml#P0051" type="respondent">William Fiennes, Viscount Saye &amp; Sele</persName>
+            </author>
+             <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+             <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+             <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+             <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+          <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+             
+             <msDesc corresp="../mss/BLAddMS35331.xml">
+                 <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+             </msDesc>
+             
+             <listBibl xml:id="mss_witness">
+                 <bibl>
+                     <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+                 </bibl>
+                 <bibl>
+                     <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                 </bibl>
+                 <bibl>
+                     <msIdentifier xml:id="BL_Add_MS_12191">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 12191</idno>
+               <msName/>
+            </msIdentifier>
+                 </bibl>
+             </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_14.xml">Alnwick Castle,  MS 14, f. 259r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="MilitaryOath1639v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, f. 38r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_12191.xml">British Library, Additional MS 12191, f. 137r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72432.xml">British Library, Additional MS 72432, f. 151r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_800.xml">Bodleian Library,  MS Ashmole 800, f. 56r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, f. 223r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Nalson_19.xml">Bodleian Library,  MS Nalson 19, f. 10r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_395.xml">Bodleian Library,  MS Tanner 395, f. 42r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/College_of_Arms_MS_WAmp.xml">College of Arms,  MS W&amp;amp;, f. 436r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_MSP_9.xml">Durham University Library, MSP 9, reversing the volume, 131</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U269O297.xml">Kent Archives,  U269/O297</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_JO_10_1_38.xml">Parliamentary Archives,  HL/PO/JO/10/1/38</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_135.xml">Queen's College,  MS 135, f. 100r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+              <p/>
+          </abstract>
+          <creation>
+              <date when="1639">1639</date>
+              <placeName corresp="..places/places.xml#PL0015">York</placeName>
+          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>oath</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Bishops' Wars</term>
+               <term>Military</term>
+               <term>oaths</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+       <revisionDesc>
+           <listChange>
+               <change when="2017-11-28" who="#SV" status="proofread"/>
+               <change when="2017-11" who="#RB" status="draft"/>
+           </listChange>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="72v" facs="/bl/add_ms_35331/add_ms_35331_f072v/add_ms_35331_f072v.jpg"/>
+         <p rend="align-centre">
+             Aprill 1639.
+         </p>
+         <gap reason="elision" extent="2 paragraphs"/>
+         <p>
+             <add place="LM">
+                 Lorde Say &amp; L<ex>ord</ex> Brook.
+             </add>
+             It is saide that the Lorde Say and the Lorde Brooke are com<ex>m</ex>itted att york <lb/>
+             for refusinge the oathe followinge. viz:/
+         </p>
+         <p>
+            <add place="LM">
+                <hi rend="underline">
+                    y<hi rend="superscript">e</hi> oathe.
+                </hi>
+            </add>
+            I doe sweare by almightie <del rend="underline">God</del> and Everlastinge God, that I shall beare all <lb/>
+            faithfull allegeance to my true and undoubted Sou<ex>er</ex>aigne Lorde kinge Charles <lb/>
+            whoe is lawfull kinge of this Islande and all other his kingdomes both by sea &amp; <lb/>
+            Lande, <del rend="underline">and</del> by the Lawes of God and man, and by lawfull succession. And <lb/>
+            <add place="LM">
+                this oathe was afterwarde <lb/>
+                altered/ at pag: 139./
+            </add>
+            that I will <hi rend="underline">most constantly and cherefully To the utmost</hi> <add place="above">power and</add> <hi rend="underline"> <del rend="strikethrough">Hassarde</del> <lb/>
+            of my <add place="above">power</add> <del rend="strikethrough">life &amp; fortunes</del>, oppose all seditions rebellions conspiracies</hi> <lb/>
+            coniurations, <hi rend="italic">Covenants</hi>, and Treasons <hi rend="underline">whatsoever ag<ex>ains</ex>t his royall <lb/>
+            dignity Crowne &amp; person, raised</hi> or sett upp, <hi rend="underline">under any p<ex>re</ex>tences</hi> <lb/>
+            or colour <hi rend="underline">whatsoever</hi> &amp; yf yt shall come vayled under pre=<lb break="no"/>
+            tences of religion I holde yt most abominable both before god <lb/>
+            and men, And <hi rend="underline">this oathe I take voluntarily</hi> in the true faithe <lb/>
+            of a good Christian and Loyall subiecte w<ex>i</ex>thout any equivocation <lb/>
+            or mentall reservation, from w<ex>hi</ex>ch I holde noe power on earthe <lb/>
+            <add place="LM">
+                <hi rend="underline">Scotts./</hi>
+            </add>
+            cann absolve me in any <del rend="strikethrough">poynte</del> parte./
+         </p>
+         <gap reason="elision" extent="1 paragraph"/>
+         <p>
+            <add place="LM">
+                <hi rend="underline">Quere</hi> <lb/>
+                <lb/>
+                <lb/>
+                <figure>
+                    <figDesc>Doodle of a thistle</figDesc>
+                </figure>
+            </add>
+            Why any shoulde take the before named oath seinge they have taken the oaths <lb/>
+            of supremacy &amp; allegeance already. 2 by this p<ex>ro</ex>misory oathe they <lb/>
+            engage there lands and goods to bee at the k<ex>ing's</ex> disposing: as yf they <lb/>
+            had noe p<ex>ro</ex>priety in there goods. 3. It is a meanes to cutt of the <lb/> 
+            ancyente legall way of raising money by p<ex>ar</ex>liam<ex>en</ex>t: 4 It doth <lb/>
+            crosse the petition of right to take an oath or sustayne charge <lb/>
+            illegally. Stat<ex>ute</ex>: 3: Caroli / yf a man bee once sworne for his <lb/>
+            allegeance he shalbe sworne no more as longe as hee lives. P:12 H.17 fol: 18
+        </p>
+          <pb n="73r" facs="/bl/add_ms_35331/add_ms_35331_f073r/add_ms_35331_f073r.jpg"/>
+         <p rend="align-centre">May 1639</p>
+         <gap reason="elision" extent="2 paragraphs"/>
+         <p>
+            <add place="LM">
+                The Oathe/.
+            </add>
+            I. A: B: doe sweare before almightie <del rend="strikethrough">God</del> and everlivinge God that <hi rend="underline">I will beare <lb/>
+            all faithfull Allegeance to my true and undoubted Soveraigne Lorde, kinge Charles</hi> <lb/>
+            whoe is lawfull kinge of this Ilande and all other his Kingdomes and dominions <lb/>
+            both by lande and sea, by the lawes of god and man, and by lawfull succession: And <lb/>
+            <hi rend="underline">that I will most constantly and cherefully, even to the utmoste of my power, and <lb/>
+            hassarde of my life, constantly oppose all Seditions, Rebellions, Conspiracies</hi>, Cove=<lb break="no"/>
+            nantes, Coniurations, and Treasons <hi rend="underline">whatsoever, raised or sett upp againste his royall <lb/>
+            dignitie, Crowne or person, under what pretence or colour whatsoever.</hi> And yf <lb/>
+            it shall come veiled under pretence of religion I holde yt more abominable <lb/>
+            before God and man. And this oathe I take <hi rend="underline">volunta<supplied>ri</supplied>ly</hi> In the true faith of a good <lb/>
+            Christian and loyall subiecte, w<ex>i</ex>thout any equivocation or mentall reservation <lb/>
+            whatsoever: from w<ex>hi</ex>ch I holde noe power upon earthe cann absolve me in any <lb/>
+            p<ex>ar</ex>te
+         </p>
+         <p>
+            This oathe is to bee taken by all the officers and Souldiers in <lb/>
+            the Army, by his ma<ex>jes</ex>ties expresse co<ex>m</ex>maundem<ex>en</ex>t as a touchstone <lb/>
+            of every mans fideliuty and loyaltie./
+         </p>
+      </body>
+   </text>
+    <facsimile>
+        <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f072v/add_ms_35331_f072v.jpg"/>
+        <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f073r/add_ms_35331_f073r.jpg"/>
+    </facsimile>
+</TEI>

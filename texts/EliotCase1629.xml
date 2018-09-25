@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of Sir John Eliot</title>
+            <author>
+               <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#0044">Sir John Eliot</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#0045">Sir Miles Hobart</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#0046">Sir Peter Heyman</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#0047">Denzil Holles</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_12511">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 12511</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_93">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 93</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_491">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 491</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6846">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6846</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2305">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2305</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_27878">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 27878</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48054">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48054</idno>
+                <msName/>
+             </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70639">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 70639</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4619">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4619</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2234">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2234</idno>
+               <msName/>
+            </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_30926">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 30926</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2217</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_116">
+                    <country>USA</country>
+                    <settlement>Washington D.C.</settlement>
+                    <repository>Folger Shakespeare Library</repository>
+                    <collection/>
+                    <idno>MS V.a.116</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_543.xml">Alnwick Castle,  MS 543, ff. 1r–82v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48054.xml">British Library, Additional MS 48054, ff. 85r–87v, 92r–189r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS70639.xml">British Library, Additional MS 70639, ff. 56v–64v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 375r–382r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4619.xml">British Library, Harley MS 4619, ff. 180r–204v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6846.xml">British Library, Harley MS 6846, ff. 233r, 431r, 432r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS491.xml">British Library, Lansdowne MS 491, f. 183v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS93.xml">British Library, Lansdowne MS 93, ff. 138r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_12511.xml">British Library, Additional MS 12511, ff. 76r–108r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_70639.xml">British Library, Additional MS 70639, ff. 56v–64v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, ff. 88v–101v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2234.xml">British Library, Harley MS 2234, ff. 245r–277v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb220.xml">Beinecke Library, Osborn fb220, Vol II, item 3</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb57.xml">Beinecke Library, Osborn fb57, ff. 309–314</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Perrott_4.xml">Bodleian Library,  MS Perrott 4, ff. 134r–191v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_395.xml">Bodleian Library,  MS Tanner 395, ff. 3r–12v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_72.xml">Bodleian Library,  MS Tanner 72, ff. 331r–332v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm51.xml">Cambridge University Library,  MS Mm.5.1, ff. 74r–93v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm657.xml">Cambridge University Library,  MS Mm.6.57, ff. 120r–124r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa116.xml">Folger Shakespeare Library,  MS V.a.116, ff. 70r–71r, 82r, 83r–118v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_121.xml">Folger Shakespeare Library,  MS V.a.121, ff. 82r–118v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1082.xml">Houghton Library,  fMS Eng 1082, ff. 60r–75r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_981.xml">Houghton Library,  fMS Eng 981, ff. 86v–97r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_1252.xml">Lambeth Palace Library,  MS 1252, ff. 62r–132v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_4267.xml">Lambeth Palace Library,  MS 4267, ff. 49r–50r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LSA_MS_78.xml">London Society of Antiquaries,  MS 78, ff. 37r–68r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Lincolns_Inn_Maynard_MS_59.xml">Lincoln's Inn, Maynard MS 59, ff. 225r–253r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Longleat_House_MS_112.xml">Longleat House,  MS 112, ff. 19–54</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH82.xml">Northamptonshire Record Office,  FH82</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 322–342</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SRO_B100135.xml">Suffolk Record Office,  B/100/1/35</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_23.xml">Woburn Abbey,  MS 23, pp38–43</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628" from="1628-03" to="1628-04">March and April 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>diary entry</term>
+               <term>examination</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>tonnage and poundage</term>
+               <term>parliamentary privilege</term>
+               <term>imprisonment</term>
+               <term>royal prerogative</term>
+               <term>trade</term>
+               <term>state finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-16"/>
+            <change status="proofread" who="#NM" when="2018-07-04"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="28r" facs="/bl/add_ms_35331/add_ms_35331_f028r/add_ms_35331_f028r.jpg"/>
+         <p>
+            The p<ex>ar</ex>liam<ex>en</ex>t p<ex>ri</ex>soners have bynn div<ex>er</ex>se tymes examined but litle or nothinge cann <lb/>
+            bee wrested from them./ <choice>
+                    <sic>Fryday</sic>
+                    <corr>Tuesday</corr>
+                </choice> the xvijth of m<ex>ar</ex>che the Lordes wente w<ex>i</ex>th a Com<ex>m</ex>ission <lb/>
+            to examine them <foreign xml:lang="la">de novo</foreign>. Mr Valentyne p<ex>ro</ex>tests hee will answere nothinge. that <lb/>
+            soe hee bee not ensnared w<ex>i</ex>th his words.
+         </p>
+         <p>
+            Mr. Seldon will giue answere to nothinge but by wrytinge.
+         </p>
+         <p>
+            S<ex>i</ex>r Io<ex>hn</ex> Elyott replies, what hee did or spake yf yt were in p<ex>ar</ex>liam<ex>en</ex>t hee ought <lb/>
+            not to bee questioned for yt. yf after hee desires witnesses &amp; a legall tryall.
+         </p>
+         <pb n="28v" facs="/bl/add_ms_35331/add_ms_35331_f028v/add_ms_35331_f028v.jpg"/>
+         <gap reason="elision" extent="7 paragraphs"/>
+         <p>
+            It is saide also that the kinge will seise upon all land morgaged or solde to any <lb/>
+            w<ex>hi</ex>ch were crowne landes. <space unit="chars" extent="7"/>  <foreign xml:lang="la">dictu<ex>m</ex>
+                </foreign> Egidij Carpenter de Lyme PR.
+         </p>
+         <gap reason="elision" extent="1 paragraph"/>
+         <pb n="29r" facs="/bl/add_ms_35331/add_ms_35331_f029r/add_ms_35331_f029r.jpg"/>
+         <p>
+            There came forth a decleration from the kinge, specifyinge the causes w<ex>hi</ex>ch <lb/>
+            moved the kinge to dissolve the p<ex>ar</ex>liam<ex>en</ex>t./
+         </p>
+         <p rend="align-centre">
+            Saterday xxviij.th of m<ex>ar</ex>che 1629.
+         </p>
+         <p>
+            <add place="LM">
+               p<ex>ro</ex>clamac<ex>i</ex>ons
+            </add>
+            There came out 3. p<ex>ro</ex>clamac<ex>i</ex>ons one for app<ex>re</ex>hendinge of Mr Longe of Wilshire late sherife, &amp; <lb/>
+            M:r Strode, both p<ex>ar</ex>liam<ex>en</ex>t men. <unclear reason="Should we remove this, not relevant to Eliot case?">A seconde p<ex>ro</ex>clamac<ex>i</ex>on was for app<ex>re</ex>hendinge of one <lb/>
+            Smithe a Iesuite: for whome hath bynn a former p<ex>ro</ex>clamac<ex>i</ex>on halfe a yere since, yt is <lb/>
+            saide hee was in Courte when the kinge signed the p<ex>ro</ex>clamac<ex>i</ex>on for him att firste.</unclear> A thirde <lb/>
+            p<ex>ro</ex>clamac<ex>i</ex>on p<ex>ro</ex>hibitinge mutterings concerninge the p<ex>ar</ex>liam<ex>en</ex>t to the disharteninge of m<ex>er</ex>chants <lb/>
+            to goe on in tradinge.
+         </p>
+         <p>
+            The same daye the m<ex>er</ex>chantes were before the Lords aboute there Tonnage &amp; Poundage, there <lb/>
+            answere was they woulde paye none, because the declarac<ex>i</ex>on reported the last daye in p<ex>ar</ex>liam<ex>en</ex>t, <lb/>
+            had declared such to bee enemyes to the State that shall paye the same, beinge the remonstrance <lb/>
+            w<ex>hi</ex>ch S<ex>i</ex>r Iohn Eliott threw out att the dissolution.
+         </p>
+         <p>
+            The gentlemen of the laste p<ex>ar</ex>liam<ex>en</ex>t are closely imp<ex>ri</ex>soned.
+         </p>
+         <gap reason="elision" extent="8 paragraphs"/>
+         <p rend="align-centre">
+            <hi rend="underline">Aprill 1629.</hi>
+         </p>
+         <p>
+            The Lorde Treasurer S<ex>i</ex>r Ric<ex>hard</ex> Weston increaseth in favor w<ex>i</ex>th the kinge <lb/>
+            his is a greate opposite of the Lorde keepers &amp; its sayde that the Keeper was <lb/>
+            out of his office some 6. or 8. howers, for refusinge to assente to somethinge <lb/>
+            w<ex>hi</ex>ch was required of him to doe./
+         </p>
+         <gap reason="elision" extent="1 paragraph"/>
+         <p>
+            The Dutche refuse to lende the somes required of them by o<ex>u</ex>r kinge.
+         </p>
+         <gap reason="elision" extent="1 paragraph"/>
+         <p>
+            Others reporte of a peace concluded betweene us and France, but <lb/>
+            yt may bee coniectured it is given out to encorage o<ex>u</ex>r m<ex>er</ex>chaunts to <lb/>
+            trade, all trades beinge nowe very deade by meanes of the kinges demaunde <lb/>
+            of Tonnage &amp; Poundage
+         </p>
+         <pb n="29v" facs="/bl/add_ms_35331/add_ms_35331_f029v/add_ms_35331_f029v.jpg"/>
+         <p rend="align-right">
+            Thexaminac<ex>i</ex>ons and answeres of some of the p<ex>ar</ex>liam<ex>en</ex>ts prisoners
+         </p>
+         <p rend="outdent">
+            S<ex>i</ex>r Peter Hayman./ beinge demaunded wherfor hee reproved the Speaker in the lower house of p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            saith hee was there Speaker &amp; so the servante of the house, and one that ought to have applied <lb/>
+            <add place="LM">
+               his <hi rend="underline">offence./</hi>
+            </add>
+            himselfe to the howses com<ex>m</ex>aunds
+         </p>
+         <p rend="outdent">
+            Mr hollys demaunnded wherfore hee the same morninge that the tumulte was in the house placed himselfe <lb/>
+            <add place="LM">
+               <hi rend="underline">his offence./</hi>
+            </add>
+            above div<ex>er</ex>se of the privy councell by the chayre: saith hee did so also att other tymes: and saith <lb/>
+            hee took yt to bee his due in all places excepte att the councell boade
+         </p>
+         <p rend="outdent">
+            S<ex>i</ex>r myles hubbart, questioned about the shuttinge of the dore of the p<ex>ar</ex>liam<ex>en</ex>t howse: saith hee desired to knowe <lb/>
+            <add place="LM">
+               <hi rend="underline">his offence./</hi>
+            </add>
+            by what authority hee was examined of actions done in p<ex>ar</ex>liam<ex>en</ex>t w<ex>hi</ex>ch hee thought was w<ex>i</ex>thout <lb/>
+            p<ex>re</ex>sidente, &amp; noe courte or Com<ex>m</ex>ission coulde tak notice therof. But for answere saith hee did <lb/>
+            yt by the com<ex>m</ex>aunde of the howse./ <handShift medium="new ink"/> hee beinge (In Iune 1632) traveylinge in his coyche betweene Highgate <lb/>
+            and London, his horses beinge affrighted toke a run<ex>n</ex>inge, hee to p<ex>re</ex>vente danger leapte out of his coyche ag<ex>ains</ex>t a stake &amp; was killed by <lb/>
+            the run<ex>n</ex>inge over of his coyche:/
+         </p>
+         <p rend="outdent">
+            <handShift medium="original ink"/>
+            S<ex>i</ex>r Jo<ex>hn</ex> Eliott questioned whether hee had not spoken such wordes in p<ex>ar</ex>liam<ex>en</ex>t and shewed forthe such <lb/>
+            a paper. saith: what hee did <add place="above">&amp;</add> there hee did as a publik man &amp; a member of the <lb/>
+            howse, where yf hee were questioned hee woulde mak answere &amp; in the meane <lb/>
+            tyme would not trouble his thoughts about yt./ 
+            
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f028r/add_ms_35331_f028r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f028v/add_ms_35331_f028v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_35331/add_ms_35331_f029r/add_ms_35331_f029r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_35331/add_ms_35331_f029v/add_ms_35331_f029v.jpg"/>
+   </facsimile>
+</TEI>

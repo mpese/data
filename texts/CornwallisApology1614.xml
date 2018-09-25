@@ -1,0 +1,623 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apology to James I</title>
+            <author>
+               <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS4149.xml">
+               <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 4149</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_39853">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 39853</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_677">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 677</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1221">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1221</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Cotton_MS_Titus_C_VII">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Cotton</collection>
+               <idno>MS Titus C VII</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS39853.xml">British Library, Additional MS 39853, ff. 19r–20v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 73v–80r [check]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLCottonMSTitusCVII.xml">British Library, Cotton MS Titus C VII, ff. 115r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS677.xml">British Library, Harley MS 677, ff. 62r–67v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1221.xml">British Library, Harley MS 1221, ff. 96v–99r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_3723.xml">Beinecke Library, Osborn File 3723</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, ff. 108–111</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_B_151.xml">Bodleian Library,  MS Rawlinson B 151, ff. 6r–7v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_929.xml">Bodleian Library,  MS Rawlinson C 929, ff. 19r–21v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, pp412–416</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_143193.xml">Gonville &amp; Caius College,  MS 143/193, ff. 169–176</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_1554.xml">Huntington Library,  HM 1554, pp5–6</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_18.xml">Inner Temple Library, Petyt MS 538/18, ff. 244v–250r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_20.xml">Nottingham University Library, Cl LP 20</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Pw_V_2.xml">Nottingham University Library, Pw V 2, pp60–66</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title>Collectanea Curiosa</title>
+                  <editor>John Gutch</editor>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Clarendon Press</publisher>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="161" to="169">161-169</biblScope>
+                  <date when="1781">1781</date>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1614-06">June 1614</date>
+            <placeName corresp="../places/places.xml#PL0033">Tower of London</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>parliament</term>
+               <term>parliamentary selection</term>
+               <term>election</term>
+               <term>constitution</term>
+               <term>Anti-Catholicism</term>
+               <term>Gunpowder Plot</term>
+               <term>Spanish Match</term>
+               <term>Scotland</term>
+               <term>Scottish Court</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-25" who="#RB" status="proofread"/>
+            <change when="2018-04-20" who="#RB" status="draft"/>
+            <change when="2010" who="#NM" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="204r" facs="/bl/add_ms_4149_part/add_ms_4149_f204r/add_ms_4149_f204r.jpg"/>
+         <head rend="align-right">
+            <hi rend="italic">
+              The Coppies of two letters w<ex>hi</ex>ch S<ex>i</ex>r Charles Corne=<lb break="no"/>
+              wallis writt to the Kinge being Comitted to <lb/>
+              the Tower for Certaine wordes which hee <lb/>
+              intended to haue Spoken in the Parleament <lb/>
+              an<ex>n</ex>o <hi rend="underline">1614</hi>. which was soddenly dissolued w<ex>i</ex>t<ex>h</ex> <lb/>
+              out any thing inacted or at all Concluded./.
+            </hi>
+         </head>
+         <p rend="align-centre">
+            <add place="LM">
+                    <hi rend="italic">Parleament.</hi>
+                </add>
+            <hi rend="italic">To the Kings most Exelent ma<ex>jes</ex>tie/</hi>
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="italic">
+                  June.22. <lb/>
+                  .1614.
+               </hi>
+            </add>
+            Accept I humblie beseech you (most gratious Souer=<lb break="no"/>
+            aigne) the true and plaine discouerie of a soule affl=<lb break="no"/>
+            icted, and greeved in all extremitie, for yo<ex>u</ex>r ma<ex>jes</ex>ties disp=<lb break="no"/>
+            leasure sure occasioned, by some Conferrences conce=<lb break="no"/>
+            rninge yo<ex>u</ex>r Late Parleament./.
+         </p>
+         <p>
+            I haue no purpose to stand vpon the Iusteficac<ex>i</ex>on of the <lb/>
+            forme of my proceedinges but doe most humblie sub=<lb break="no"/>
+            mitt them, and prostrate my selfe before yo<ex>u</ex>r ma<ex>jes</ex>ties <lb/>
+            royall feete, beseechinge yo<ex>u</ex>r gratious pardon, if th=<lb break="no"/>
+            erin I haue in any sort offended you. But for the ma=<lb break="no"/>
+            tter conceaued and prouected by me to be said and mo=<lb break="no"/>
+            ved in the Parleament: Soe cleere are my though=<lb break="no"/>
+            tes and soe zealous, and ardent my will, that yo<ex>u</ex>r <lb/>
+            ma<ex/>ties desires might haue bene offected, and my <lb/>
+            deare country cared for, and contented, as I first <lb/>
+            desired for my better servinge you, to haue bene of <lb/>
+            the howse my selfe, and went for that purpose as <lb/>
+            fare as Ipswich in my way toward Aye in Suff<ex>olk</ex>.
+            <fw type="catch" place="bot-right">where I hoped</fw>
+            <pb n="204v" facs="/bl/add_ms_4149_part/add_ms_4149_f204v/add_ms_4149_f204v.jpg"/> 
+            where I hoped to haue ben elected a Burgesse, but <lb/>
+            failinge of my hope, by reason the ellection had <lb/>
+            passed one daye before my goinge out of London./.
+         </p>
+         <p/>
+         <p>
+            In confidence to haue ben prouided in that corporac<ex>i</ex>on <lb/>
+            I haue formorlie bestowed vpon two gentl=<lb break="no"/>
+            lemen recomended vnto me, by doctor Sharpes <lb/>
+            l<ex>ett</ex>res recomendatory from the Earle of <sic>northampton</sic> <lb/>
+            for two burgishippes. The <del rend="strikethrough">one</del> gentlemen were both <lb/>
+            vnknowne to myselfe, who Confided onlie to him <ex>tha</ex>t <lb/>
+            they were men of abillitie and fitnes for the servi=<lb break="no"/>
+            ce./.
+         </p>
+         <p>
+            In my way toward Ipeswich, I conceived and pro=<lb break="no"/>
+            iected in that Corporac<ex>i</ex>on what I would said in Par=<lb break="no"/>
+            leament, I heard Continvallie in London, and <lb/>
+            out of the Country what dissonante voices, and dist=<lb break="no"/>
+            racted Conceiptes there were of greevances intended <lb/>
+            to be prefferred, aswell concerning imposicons as the <lb/>
+            greate nomber of Scottes that are said to recide within <lb/>
+            this kingdome. To reduce these in to some certaine <lb/>
+            pointes, for yo<ex>u</ex>r ma<ex>jes</ex>ties better service, I bestowed my <lb/>
+            Studies, Conferringe and discoueringe the same after <lb/>
+            my returne to london to doctor Sharpe (who as I <lb/>
+            remember) named mr <del rend="strikethrough">Hichco</del> Hitchcocke, one of the <lb/>
+            gentlemen for whome I had obtained, (by my lord <lb/>
+            of Southamptons meanes a burgeshippe) to bee a <lb/>
+            Fitt man for deliuery of it, to the Howse by waye 
+            <fw type="catch" place="bot-right">of motion</fw>
+            <pb n="205r" facs="/bl/add_ms_4149_part/add_ms_4149_f205r/add_ms_4149_f205r.jpg"/>
+            of motion. The effecte of the same to my remembr=<lb break="no"/>
+            ance was in breefe as followeth viz:/.
+         </p>
+         <p>
+            That the eyes and acc<ex>i</ex>ones of all wise men are ever <lb/>
+            to be directed and Levelled at theire endes, that we <lb/>
+            should doe well to addrese all our thoughtes and spee=<lb break="no"/>
+            ches to the purpose for w<ex>hi</ex>ch his ma<ex>jes</ex>tie hath called vs to <lb/>
+            this parleament, that we should not spend tyme in <lb/>
+            wordes and disputes as in the tyme of the last Se=<lb break="no"/>
+            ssion of Parleament precedent, but enter present=<lb break="no"/>
+            lie into Considerac<ex>i</ex>on, howe his ma<ex>jes</ex>ties necesseties <lb/>
+            might be reliued for the present and the like pre=<lb break="no"/>
+            vented in tyme to come: That I held it not fitte <lb/>
+            wee should marchant w<ex>i</ex>th our Soueraigne, or that <lb/>
+            we should vse the termes of the formor parleame=<lb break="no"/>
+            nt viz: of Contribuc<ex>i</ex>on and retribuc<ex>i</ex>on./.
+         </p>
+         <p>
+            That we should not seeke to deprive him of any of <lb/>
+            the gemes or flowers of his Crowne, nor make <lb/>
+            him soe deare<del rend="strikethrough">r</del> an earner of our moneys as by de=<lb break="no"/>
+            privinge him of the rightes or privelidges of his <lb/>
+            diadem left vnto him by his Roiall progenetoures <lb/>
+            and predecessores, that to soe wise and vnderstanding <lb/>
+            an assemblie it should be vnnecessary to remember <ex>th</ex>e <lb/>
+            obligation of dutie and Loue that we owe to oure <lb/>
+            Soueraigne, or what care or considerac<ex>i</ex>on we are <lb/>
+            bounde to haue of our deare Country, for w<ex>hi</ex>ch wee <lb/>
+            haue the honore to bee in that howse soe absolut Fid=<lb break="no"/>
+            uciaries as to haue comitted vnto vs theire Landes
+            <fw type="catch" place="bot-right">and theire</fw>
+            <pb n="205v" facs="/bl/add_ms_4149_part/add_ms_4149_f205v/add_ms_4149_f205v.jpg"/> 
+            and theire lives and all other their fortunes. That <lb/>
+            there is betweene kinges and theire Subiectes soe <lb/>
+            naturall a relac<ex>i</ex>on as the one cannot subsist w<ex>i</ex>thout <lb/>
+            the other, and therefore prouiding for the one, the <lb/>
+            other is to be cared for in a due proporc<ex>i</ex>on, that the <lb/>
+            greatest vnhappines, and miserie wherevnto the for=<lb break="no"/>
+            tunes of kinges and others of Supreame Authori=<lb break="no"/>
+            tie are subiecte, is, that in the Crowde of flattery <lb/>
+            that invirones theire Thrones, they cannot discer=<lb break="no"/>
+            ne the faces of true freindes from those of false and <lb/>
+            feigned, and that they see and heare by the eyes <lb/>
+            and eares of others, who more often speake vnto <lb/>
+            them <hi rend="italic">
+                    <foreign xml:lang="la">Placentia</foreign>
+                </hi> then <hi rend="italic">
+                    <foreign xml:lang="la">Vtilia</foreign>
+                </hi>, that for this cause is <lb/>
+            monarchies: <del rend="italic">where</del> Parleamentes were instituted <lb/>
+            wherein that generall assemblie and greate Cou=<lb break="no"/>
+            ncell of the kingedome men might freelie deliuer <lb/>
+            theire thoughtes and advices in whatsoeuer they <del rend="italic">shall</del> <lb/>
+            should finde Errore of gouernement in the comon <lb/>
+            welth, as those that are not to be thought to speake <lb/>
+            theire owne wordes, but those of theire Country <lb/>
+            neither to be possessed w<ex>i</ex>th any passion or private <lb/>
+            interest, but w<ex>i</ex>th what concernes the Countrie <lb/>
+            and kingdom, and the particuler Countries and Cor=<lb break="no"/>
+            poracons that they are put in trust for, That it is <lb/>
+            trulie said, That all men neuer deceived one, nor <lb/>
+            one man all, and therefore that generall voice both <lb/>
+            of more credite and more force then those of any
+            <fw type="catch" place="bot-right">particuler who</fw>
+            <pb n="206r" facs="/bl/add_ms_4149_part/add_ms_4149_f206r/add_ms_4149_f206r.jpg"/>
+            perticuler, who doe comonlie either want hardines to <lb/>
+            speake or operative powere to worke w<ex>i</ex>th their Souer=<lb break="no"/>
+            aigne what theire selues and the Com<ex>m</ex>on welth de=<lb break="no"/>
+            sireth, my humble moc<ex>i</ex>on there fore <del rend="strikethrough">is</del> should be <ex>tha</ex>t <lb/>
+            wee might all vnitelie w<ex>i</ex>th one harte and voice cast <lb/>
+            our selues at his ma<ex>jes</ex>ties feete offering vnto him what <lb/>
+            soeuer this kingdom cane possiblie yeild for the reli=<lb break="no"/>
+            eve of his necesseties and reparac<ex>i</ex>on of his Estate, &amp; <lb/>
+            w<ex>i</ex>th all our humble desires that he would be pleased <lb/>
+            to take into Considerac<ex>i</ex>on some thinges of greate Consequ=<lb break="no"/>
+            ence vnto him selfe, and of most Contentement to his <lb/>
+            Svbiectes,./.
+         </p>
+         <p>
+            To begine first w<ex>i</ex>th the cause of god, w<ex>hi</ex>ch of all other de=<lb break="no"/>
+            serves the primacie and princepall respecte; we are <lb/>
+            to expose <add place="above">vn</add>to his ma<ex>jes</ex>tie the greate greefe generallie con=<lb break="no"/>
+            ceaved for the inexpected increase of Papistes and <lb/>
+            recusantes since the tyme of the Gonpouder Treason, <lb/>
+            in detestac<ex>i</ex>on whereof all men were moued to thinke <lb/>
+            that they would rather vtterlie extinguished: The oc=<lb break="no"/>
+            casions are supposed to be the silencinge of soemany <lb/>
+            watchefull and dilligent ministers, the ordinarie co=<lb break="no"/>
+            vrse of Composic<ex>i</ex>ons for theire disobediences, and the <lb/>
+            diverse treaties, that his ma<ex>jes</ex>tie hath beene said to have <lb/>
+            entertayned for the marriage of the late Prince <lb/>
+            deceased and of this that Liveth, (whome god almightie <lb/>
+            blesse) w<ex>i</ex>th daughters of Princes of Romish Religeon <lb/>
+            w<ex>hi</ex>ch is thought to be a much incouragment to those
+            <fw type="catch" place="bot-right">of that affection.</fw>
+            <pb n="206v" facs="/bl/add_ms_4149_part/add_ms_4149_f206v/add_ms_4149_f206v.jpg"/>
+            of that affection, and as great dishartening to those of <lb/>
+            true religeon ./.
+         </p>
+         <p>
+            Concerninge this perticuler w<ex>hi</ex>ch is now said to be in <lb/>
+            treatie w<ex>i</ex>th Fraunce, it is true, there is no place left <lb/>
+            in Evrope (that and Spaine excepted) where his ma<ex>jes</ex>tie <lb/>
+            Cane make allyance, suitable w<ex>i</ex>th his Royall dignetie, <lb/>
+            howbeit I am of opinion, that although for some dissig=<lb break="no"/>
+            nes of Estate, w<ex>hi</ex>ch it becometh not vs his humble sub=<lb break="no"/>
+            iectes to dive into, his ma<ex>jes</ex>tie hath bene pleased to en=<lb break="no"/>
+            tertayne those ouertures of Princes of the Romish rel=<lb break="no"/>
+            igeon, yet such is his owne pious and Christian <lb/>
+            hearte as he leaveth not vnconsidered, that to marr=<lb break="no"/>
+            ie w<ex>i</ex>th a Child of god, and for god his greater honor and <lb/>
+            gives hope of a greater blessinge, then to marrie w<ex>i</ex>th a <lb/>
+            Childe of man, be the dignetie, place <del rend="strikethrough">and</del> or Proc<ex>i</ex>on <lb/>
+            neuer so greate in the eies of men. Hereof to his owne <lb/>
+            imortall honour and the perpetuall obligac<ex>i</ex>on of his sub=<lb break="no"/>
+            iectes, his ma<ex>jes</ex>tie hath bene pleased, to make a good <lb/>
+            demonstrac<ex>i</ex>on in the marryage of his onlie daughter <lb/>
+            where he founde a soundnes and conformetie in Relig=<lb break="no"/>
+            eon, whome had he measured by the yeard wand of the <lb/>
+            world, he might haue perhappes bestowed her vpon <lb/>
+            one of the greatest monarches in <del rend="strikethrough">the w</del> Christendome/.
+         </p>
+         <p>
+            Besides such is the<del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> nearenes of Fraunce vnto vs, <lb/>
+            as he should a daughter of that kingdome be brought hi=<lb break="no"/>
+            ther, such and so many would be the visittes and wee 
+            <fw type="catch" place="bot-right">should euery</fw>
+            <pb n="207r" facs="/bl/add_ms_4149_part/add_ms_4149_f207r/add_ms_4149_f207r.jpg"/> 
+            should euery moneth, be enforced to entertayne a new <lb/>
+            mounseiur, w<ex>hi</ex>ch to a prince of soe magnificent and <lb/>
+            liberall disposition, as is his ma<ex>jes</ex>tie would breed noe <lb/>
+            litle trouble, and a greate deale of Expence and <lb/>
+            Charge./.
+         </p>
+         <p>
+            In the seconde place, we are to become most humble <lb/>
+            Petic<ex>i</ex>oners that he would be pleased to his Cham=<lb break="no"/>
+            ber, and other places of retreate, to graunte vnto <lb/>
+            vs (as it were) <hi rend="italic">
+                    <foreign xml:lang="la">mediatem lingua</foreign>
+                </hi> viz. that those of <lb/>
+            our nac<ex>i</ex>on might haue a motive in them, as this <lb/>
+            Comiserative kingdome hath alwaies given to Alie=<lb break="no"/>
+            ns in Case of triall in Causes Crimenall, by the <lb/>
+            Iudgment of our Savioure himselfe, The breade <lb/>
+            properlie belongeth vnto the Children of the kingdome <lb/>
+            And therefore wee are to beseech his ma<ex>jes</ex>tie to be grati=<lb break="no"/>
+            ouslie pleased to stoppe the Currant of future Com=<lb break="no"/>
+            mers of the Scottish nac<ex>i</ex>on to reside w<ex>i</ex>thin this <lb/>
+            kingdome other then such as shalbe necessarie for his <lb/>
+            ma<ex>jes</ex>ties especiall service, for theire his ma<ex>jes</ex>tie him selfe <lb/>
+            shalbe lesse troubled, charged, and importuned, his <lb/>
+            estate more enabled to reward those of that Country <lb/>
+            that are here alreadie in his service and those that <lb/>
+            shall soe offer or desire to come to theire owne good <lb/>
+            forewarned, that through vncertaine hopes of getting, <lb/>
+            here they spend not what they are alreadie possessed <lb/>
+            of in certainty in theire owne Country as is reported <lb/>
+            that many haue alreadie done to the great detrement
+            <fw type="catch" place="bot-right">of theire owne</fw>
+            <pb n="207v" facs="/bl/add_ms_4149_part/add_ms_4149_f207v/add_ms_4149_f207v.jpg"/> 
+            of their owne estates, and infeeblinge the Auntient No=<lb break="no"/>
+            billitie and gentry of that kingdome./.
+         </p>
+         <p>
+            This was deare Soueraigne, to my remembrance <lb/>
+            the effecte, and substance of what I had conceaved <lb/>
+            to Speake in Parleament, wherein if any thinge <lb/>
+            shall appeare vnto <del rend="strikethrough">you</del> yo<ex>u</ex>r ma<ex>jes</ex>tie distastefull, pardon <lb/>
+            it. I most Humblie vpon my knees beseech you, and <lb/>
+            consider that to worke vpon a bodie that had formor=<lb break="no"/>
+            lie shewed soe litle disposic<ex>i</ex>on were necessary drug=<lb break="no"/>
+            ges both of strength and different temperature, esp=<lb break="no"/>
+            eciallie my purpose beinge to drawe from it matter <lb/>
+            of soe great consequence as the payment of your <lb/>
+            debttes, the prouidinge of you a Treasure in <hi rend="italic">
+                    <foreign xml:lang="la">omnes <lb/>
+               euentus</foreign>
+                </hi>, and the estableshinge the estate of yo<ex>u</ex>r Reven=<lb break="no"/>
+            ewe, fitt to supporte you, in that royall luster that <lb/>
+            hitherto you haue lived in./.
+         </p>
+         <p>
+            This beinge Com<ex>m</ex>vnicated to doctor Sharpe (and mr Hit=<lb break="no"/>
+            checocke failinge to performe the moc<ex>i</ex>on) it seemes that <lb/>
+            he gate by some meanes Corespondency w<ex>i</ex>th mr Hoskins <lb/>
+            who made (as I haue heard) a speech in Parleam=<lb break="no"/>
+            ent concerninge the Scottes, but such as neither a=<lb break="no"/>
+            greed w<ex>i</ex>th myne in forme or matter. Yet is the doc=<lb break="no"/>
+            tore content (one of his owne apprehentions) soe farre <lb/>
+            to forgett him selfe as to affirme that I should promise <lb/>
+            in regarde of mr Hoskines Losse of his practise in <ex>th</ex>e <lb/>
+            Terme to give him .20.li w<ex>hi</ex>ch I proteste vnto yo<ex>u</ex>r ma<ex>jes</ex>tie <lb/>
+            before almightie God I neuer did nor intended: He
+            <fw type="catch" place="bot-right">moued me</fw>
+            <pb n="208r" facs="/bl/add_ms_4149_part/add_ms_4149_f208r/add_ms_4149_f208r.jpg"/> 
+            moued me (I confesse) and perswaded w<ex>i</ex>th example of <lb/>
+            others, that he said would give, but did neither name <lb/>
+            nor in any such sort pointe at any, as either in honest=<lb break="no"/>
+            ie or Christianitie I cane Iustlie name nay one w<ex>i</ex>th=<lb break="no"/>
+            out perrill to charge an Innocent, w<ex>hi</ex>ch I knowe your <lb/>
+            owne royall and pious hearte would Condemne <lb/>
+            then allowe in mee./.
+         </p>
+         <p>
+            For Manifestac<ex>i</ex>on of the truth of all other thinges w<ex>hi</ex>ch <lb/>
+            it pleased yo<ex>u</ex>r ma<ex>jes</ex>tie I should be examyned of, I haue <lb/>
+            plainelie Answered before mr Secretary and mr Solice=<lb break="no"/>
+            tore, and doe eftsoons cast my selfe at yo<ex>u</ex>r ma<ex>jes</ex>ties feete, <lb/>
+            Protestinge even as I shall answere at the dreadfull <lb/>
+            daye of Godes Iudgment, that in noe conference held <lb/>
+            by me concerninge yo<ex>u</ex>r parleament, there was any <lb/>
+            other thinge propounded or intended, but what my <lb/>
+            hearte and sowle thought to haue bene for yo<ex>u</ex>r ma<ex>jes</ex>ties <lb/>
+            speciall vtillitie and service, for the securetie of yo<ex>u</ex>r <lb/>
+            estate, and the setlinge and Contentment of these yo<ex>u</ex>r <lb/>
+            kingdomes and gouernement, w<ex>hi</ex>ch God lett me noe <lb/>
+            longer live, then I shall desire as much as any man <lb/>
+            that Lyves vpon the Earth, as hee that soe longe w<ex>i</ex>th <lb/>
+            all the affectes of his soule hath served you, and not in <lb/>
+            paper onlie, but in hearte and will, desires not ten <lb/>
+            dayes to be added to his Lyfe, If yo<ex>u</ex>r ma<ex>jes</ex>tie: shall not <lb/>
+            be gratiouslie pleased to restore him to yo<ex>u</ex>r favour <lb/>
+            and to recken and receive him in the nvmber of./.
+         </p>
+         <p rend="align-right">
+            Yo<ex>u</ex>r most humble faithfull <lb/>
+            affectionat Servant./.
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">Ch: Cornewallis</hi>./
+         </p>
+         <pb n="208v" facs="/bl/add_ms_4149_part/add_ms_4149_f208v/add_ms_4149_f208v.jpg"/>
+         <p rend="align-centre">&gt;
+            <hi rend="italic">To the Kinges most Exelent Ma<ex>jes</ex>tie./.</hi>
+         </p>
+         <p>
+            <add place="LM">
+               .<hi rend="underline">1614</hi>.
+            </add>
+            Give me leave (most gratious Soueraigne) I humbly <lb/>
+            beseech you once againe, to cast my selfe at yo<ex>u</ex>r feete, <lb/>
+            and pray yo<ex>u</ex>r pardon for myne vnfortunat transgressy=<lb break="no"/>
+            on. It was my greate folly and faulte, I Confesse <lb/>
+            beinge yo<ex>u</ex>r servant to enter into a matter so much con=<lb break="no"/>
+            cerninge yo<ex>u</ex>r ma<ex>jes</ex>tie w<ex>i</ex>th out first acquintinge you: But <lb/>
+            since the same proceeded<del rend="strikethrough">y</del> out of errore in Iudgment, <lb/>
+            not out of want in dutie and humble affection to <lb/>
+            yo<ex>u</ex>r Royall person or out of mallice or malevolence <lb/>
+            to any other, I cannot but soemuch hoppe of yo<ex>u</ex>r ma<ex>jes</ex>t<ex>ie</ex>s <lb/>
+            accustomed clemencie, w<ex>hi</ex>ch hath bred you soe much <lb/>
+            fame abroad, and hartie loue w<ex>i</ex>th in yo<ex>u</ex>r owne sub=<lb break="no"/>
+            iectes at home, as vpon my vnfained repentance <lb/>
+            and humble suite, you will be pleased to passe yo<ex>u</ex>r <lb/>
+            Royall eye and give beleefe to this paper inclosed <lb/>
+            Contayninge the plaine truth of myne intenc<ex>i</ex>ons <lb/>
+            in that matter of the Parleament, wherein to my=<lb break="no"/>
+            ne vnspeakeable greefe I haue offended yo<ex>u</ex>r ma<ex>jes</ex>tie/.
+         </p>
+         <p>
+            In yo<ex>u</ex>r Regall power, yo<ex>u</ex>r ma<ex>jes</ex>tie hath the honour to be <lb/>
+            vpon earth a <sic>fivure</sic> of the almightie God; &amp; more <lb/>
+            fame and true Loue you can by nothing worldly <lb/>
+            winne, then by representinge him in yo<ex>u</ex>r mercie: <lb/>
+            If god should Chastice euery offence, w<ex>i</ex>th the Rigo=<lb break="no"/>
+            ure of his Iustice, well knoweth yo<ex>u</ex>r <del rend="strikethrough">ma<ex>jes</ex>tie</del> most
+            <fw type="catch" place="bot-right">Christian and</fw>
+            <pb n="209r" facs="/bl/add_ms_4149_part/add_ms_4149_f209r/add_ms_4149_f209r.jpg"/> 
+            Christian and vnderstandinge harte, how missera=<lb break="no"/>
+            ble were mans Condicon: yo<ex>u</ex>r ma<ex>jes</ex>tie cannot haue a <lb/>
+            Subiecte and servant that is more hartely sorow <lb/>
+            for his falte, I appeall to Nothinge earthelie, but <lb/>
+            yo<ex>u</ex>r grace and faovure, deme it not (draid sou=<lb break="no"/>
+            eraigne) to one that soe long and faithfully hathe <lb/>
+            served you, neither permitte that in yo<ex>u</ex>r Royall tho=<lb break="no"/>
+            ughtes or the ballance of yo<ex>u</ex>r kinglie <del rend="strikethrough">Iudgment</del> <lb/>
+            Iustice, one offence should cansell or ouer weigh all <lb/>
+            the Considerac<ex>i</ex>ons of soe many preceadent serv=<lb break="no"/>
+            ices ./.
+         </p>
+         <p>
+            <hi rend="italic">Dauid</hi> transgressed more then once, and that in an hi=<lb break="no"/>
+            gh nature, yet was god pleased, by his owne divine <lb/>
+            mouth to pronounce him a man accordinge to his <lb/>
+            owne hearte. I neuer offended yo<ex>u</ex>r ma<ex>jes</ex>tie (to my kno=<lb break="no"/>
+            wlidge) but in this one perticuler, I haue served <lb/>
+            you in many./.
+         </p>
+         <p>
+            I will not trouble yo<ex>u</ex>r ma<ex>jes</ex>tie w<ex>i</ex>th more of my wordes, <lb/>
+            but will Conclude w<ex>i</ex>th that w<ex>hi</ex>ch was davides praier <lb/>
+            vnto god almightie, Chastice me (deare Soueraigne) <lb/>
+            but not in yo<ex>u</ex>r heavie displeasure. In this pla=<lb break="no"/>
+            ce of Restrainte and darkenes, I can doe you noe <lb/>
+            service. yo<ex>u</ex>r ma<ex>jes</ex>tie beinge graciouslie pleased to gr=<lb break="no"/>
+            aunte him libertie, w<ex>i</ex>th in this fewe weekes, you <lb/>
+            shall I hope fynde by proofe that I both can and will <lb/>
+            serve you in what shall tende to yo<ex>u</ex>r honore and pro=<lb break="no"/>
+            fyt, and that last in no litle measure. I most humbly
+            <fw type="catch" place="bot-right">prostrate my</fw>
+            <pb n="209v" facs="/bl/add_ms_4149_part/add_ms_4149_f209v/add_ms_4149_f209v.jpg"/> 
+            prostrate my selfe at yo<ex>u</ex>r Royall feete, either w<ex>i</ex>th ioye <lb/>
+            to receave the Comfort of yo<ex>u</ex>r gratious remission or <lb/>
+            w<ex>i</ex>th patience to attend yo<ex>u</ex>r pleasvre in this wofull pl=<lb break="no"/>
+            ace, where god knoweth I night and day doe hea=<lb break="no"/>
+            rtellie praye for you, as he that desires nothinge <lb/>
+            earthlie somuch, as to be receaued in to yo<ex>u</ex>r gratio=<lb break="no"/>
+            vs favoure, and to be rekoned in the nvmber of./.
+         </p>
+         <p rend="align-right">
+            Yo<ex>u</ex>r most humble dutifull <lb/>
+            and faithefull servantes./.
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">
+               Cha: Cornewallis./.
+            </hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f204r/add_ms_4149_f204r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f204v/add_ms_4149_f204v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f205r/add_ms_4149_f205r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f205v/add_ms_4149_f205v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_4149_part/add_ms_4149_f206r/add_ms_4149_f206r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_4149_part/add_ms_4149_f206v/add_ms_4149_f206v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_4149_part/add_ms_4149_f207r/add_ms_4149_f207r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_4149_part/add_ms_4149_f207v/add_ms_4149_f207v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_4149_part/add_ms_4149_f208r/add_ms_4149_f208r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_4149_part/add_ms_4149_f208v/add_ms_4149_f208v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_4149_part/add_ms_4149_f209r/add_ms_4149_f209r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_4149_part/add_ms_4149_f209v/add_ms_4149_f209v.jpg"/>
+   </facsimile>
+</TEI>

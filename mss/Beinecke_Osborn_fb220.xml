@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beinecke Library Osborn fb220</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Beinecke_Osborn_fb220">
+               <country>USA</country>
+               <settlement>New Haven, CT</settlement>
+               <repository>Beinecke Library</repository>
+               <collection>Osborn</collection>
+               <idno>fb220</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>Vol I, item 1</locus>
+                  <title>Description of the High Courts of Justice</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/DescriptionHighCourtsJustice.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>Vol I, item 9</locus>
+                  <title>Before the Lords, For Refusing to Pay the Forced Loan</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0147">William Coryton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CorytonBeforeLords1627.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>Vol I, item 11</locus>
+                  <title>Letter to His Wife</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterHisWife1603.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>Vol II, item 1</locus>
+                  <title>A Parallel of Robert Devereux, Earl of Essex, and George Villiers, Duke of Buckingham</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0178">Sir Henry Wotton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WottonParallelEssexBuckingham.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>Vol II, item 3</locus>
+                  <title>The Case of Sir John Eliot</title>
+                        <author>
+               <persName corresp="../people/people.xml#0007">Charles I</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0047">Denzil Holles</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0046">Sir Peter Heyman</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0045">Sir Miles Hobart</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0044">Sir John Eliot</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EliotCase1629.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

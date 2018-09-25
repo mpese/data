@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech at the Arraignment of Robert Crichton, Lord Sanquhar</title>
+            <author>
+               <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLSloaneMS3522.xml">
+               <msIdentifier xml:id="BL_Sloane_MS_3522">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Sloane</collection>
+                  <idno>MS 3522</idno>
+                  <msName/>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Sloane MS 3522</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_612">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 612</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_526.xml">Alnwick Castle,  MS 526, ff. 13r–16v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 258r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 287x–288v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS612.xml">British Library, Lansdowne MS 612, ff. 36r–40r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 68r–70v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb59.xml">Beinecke Library, Osborn fb59</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 151r–153v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH83.xml">Northamptonshire Record Office,  FH83, ff. 1r–3v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_300.xml">Senate House, University of London,  MS 300, ff. 65x–79x</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1612-06-27">27 June 1612</date>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>murder</term>
+               <term>revenge</term>
+               <term>justice</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-29" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="34v"/>
+         <head>
+            The Coppie of the speech <lb/>
+            deliuered by S<ex>i</ex>r Frances Bacon <lb/>
+            att the Arraignem<ex>en</ex>t of the Lord <lb/>
+            Sanquer in the kings Bench att <lb/>
+            W<ex>est</ex>m<ex>inste</ex>r for procuringe the Murther <lb/>
+            <del rend="strikethrough">for</del> of Iohn Turner a M<ex>aster</ex>r of <lb/>
+            defence, the xxvijth of Iune 1612./.
+         </head>
+         <pb n="35r"/>
+         <p>
+            In this Cause if life, and death, the <lb/>
+            Iuryes parte is in effect discharged: For <lb/>
+            after a Francke, and Formall Confession, <lb/>
+            their labor is att an End, soe that what hath bin <lb/>
+            sayed by M<hi rend="superscript">r</hi> Attornye generall, or shalbe sayd <lb/>
+            by my self, is Rather Conuenyent, then <del rend="strikethrough">necesssitie</del> <add place="above">necessary</add>./ 
+         </p>
+         <p>
+            My Lord Sanquer yo<ex>u</ex>r faulte is <lb/>
+            great it cannot be Extenuated, and it neede <lb/>
+            not be aggrauated, and If needed you haue <del rend="strikethrough">had</del> <lb/>
+            made soe full an Anatomy of it out of yo<ex>u</ex>r <lb/>
+            owne feelinge, as it cannot be matched by <lb/>
+            my self, or anie man Ells out of my conceipt./.
+         </p>
+         <p>
+            This Christian, and Penitent Course <lb/>
+            of yo<ex>u</ex>rs drawes me thus farre, that I agree, that <lb/>
+            as euen in Extreame Euills, there are de<lb break="no"/>
+            grees, soe this instance of yo<ex>u</ex>r offence is <lb/>
+            not of the highest straine, For If you <lb/>
+            had sought to take away a mans life, For <lb/>
+            his vyneyard as Ahab did or for Enuye <lb/>
+            as Cayne did or to possesse his bedd, as <lb/>
+            Dauid did suerly the offence had bin more <lb/>
+            odious/.
+         </p>
+         <p>
+            Your temptac<ex>i</ex>on was Reuenge, w<ex>hi</ex>ch the <lb/>
+           more naturall it is to Man, the more haue lawes <lb/>
+           both diuine and humane sought to represse <lb/>
+           <fw type="catch" place="bottom-right">it (mihi</fw>
+           <pb n="35v"/>
+           <foreign xml:lang="la">mihi vindicta</foreign> but in one thinge you and I <lb/>
+           shall neuer agree, that generous spiritts (you <lb/>
+           say) are hard to forgiue, noe Contrariwise <lb/>
+           generous, and in magnanimous mindes are <lb/>
+           readiest to forgiue, and it is a weakenes and <lb/>
+           Impotencie of minde to be vnable to forgiue./
+         </p>
+         <p>
+            But to the purpose howsoeuer Murther <lb/>
+            may arise from seuerall motiues lesse, or more <lb/>
+            odious, yet the lawe both of god, and man; Inuolues <lb/>
+            them in one degree and therefore you may reade <lb/>
+            that in Ioabs Case w<ex>hi</ex>ch was a Murther <lb/>
+            upon reuenge, and matched with your Case <lb/>
+            hee for a deare Brother, and you For a <lb/>
+            deare parte of yo<ex>u</ex>r owne Bloud, yet there was <lb/>
+            a seuere charge giuen, it shall not passe vnpu<lb break="no"/>
+            nished./.
+         </p>
+         <p>
+            And Certainely the Circumstance of tyme <lb/>
+            is heauie vnto you it is now Fiue yeares since, <lb/>
+            this vnfortunate Man Turner be it upon <lb/>
+            Accident, or upon despight, gaue the Prouo<lb break="no"/>
+            cation<del rend="strikethrough">s</del>, w<ex>hi</ex>ch was the seede of yo<ex>u</ex>r Malice, All <lb/>
+            Passions are Asswaged with tyme, loue, hatred, <lb/>
+            greife; All fyre burnes out with tyme <lb/>
+            If noe new fewell be putt to it; for yow
+            <pb n="36r"/>
+            to haue bin the gall of bitternes soe longe, and <lb/>
+            to haue bin in a Restles Case of his blood; is a straunge <lb/>
+            Example, And I must tell you plainelie that I <lb/>
+            conceaue you haue suckt those Affecc<ex>i</ex>ons of <lb/>
+            dwellinge in malice rather out of Italye, and <lb/>
+            Outlandish manners where you haue Conu<ex>er</ex>sed, <lb/>
+            then out of anie parte of this Island; <lb/>
+            England, or Scotland./.
+         </p>
+         <p>
+            But now further my Lord, I would <lb/>
+            haue you looke a little upon this offence, in <lb/>
+            the glasse of godes Iudgement, that god maye <lb/>
+            haue the glorye you haue Frendes, and En<lb break="no"/>
+            tertaynementt in Forragine parts it had <lb/>
+            bin an Easie thinge for you to haue sett <lb/>
+            Carlile, or some other Bloodhound, on worke <lb/>
+            when yo<ex>u</ex>r person had bin beyond the Seas <lb/>
+            and soe this newes might haue Come to <lb/>
+            you in a Parquett; And you might haue <lb/>
+            looked on; how the storme would passe But <lb/>
+            god bereaued you of this Prouidence, and <lb/>
+            Bound you heere, vnder the hand of a kinge <lb/>
+            that though Abundant in Clemencye, yet is <lb/>
+            noe lesse zealous of Iustice./.
+         </p>
+         <p>
+            Againe when you came in att
+            <pb n="36v"/>
+            Lambeth, you might haue persisted in the <lb/>
+            denyall of the Procurement of the Facte, <lb/>
+            Carlyle, a Resolute Man, might haue cleared <lb/>
+            you, for they that are resolute in Mischeife <lb/>
+            are Co<ex>m</ex>monly obstinate in Concealinge their <lb/>
+            procurors; And soe noethinge should haue <lb/>
+            bin against you but Presumpc<ex>i</ex>on; But then <lb/>
+            God to take awaie all obstruction of Iustice, <lb/>
+            gaue you the grace (w<ex>hi</ex>ch ought indeed to be <lb/>
+            more true comfort vnto you then any Euasion, <lb/>
+            or deuise whreby you mought haue escaped to <lb/>
+            make a cleare Confession./.
+         </p>
+         <p>
+            Other Impediments there were not a <lb/>
+            few which mought haue bin an Interrupc<ex>i</ex>on <lb/>
+            to this dayes Iustice had not god in his Pro<lb break="no"/>
+            uidence remoued them./.
+         </p>
+         <p>
+            But now that I haue giuen God <lb/>
+            the honnor lett me giue it where it is next due <lb/>
+            that is to the kinge o<ex>u</ex>r soueraigne./.
+         </p>
+         <p>
+            This Murther was noe sooner Com<lb break="no"/>
+            mitted, and brought to his Ma<ex>jes</ex>t<ex>ie</ex>s Eares, but his <lb/>
+            Iust Indignation wherewith att the first he was <lb/>
+            moued Cast it self presentlie into a great deale <lb/>
+            of Care, and prouidence to haue Iustice done <lb/>
+            First came forth his proclamac<ex>i</ex>on somewhat of
+            <pb n="37r"/>
+            a rare Forme, and deuise, and in Effect di<lb break="no"/>
+            rected by his Ma<ex>jes</ex>tie himself, and <del rend="strikethrough">by</del> that he did <lb/>
+            prosecute the offendors as it were with breath <lb/>
+            and blastes of his Mouth; Then did his Ma<ex>jes</ex>tie <lb/>
+            stretch forth his longe Armes (for kinges you <lb/>
+            knowe haue longe Armes) one of them to the <lb/>
+            Sea where he tooke hold of Gray shipped for <lb/>
+            Sweden; who gaue the first light of Testi<lb break="no"/>
+            monie, The other Arme to Scotland and there <lb/>
+            tooke hold of Carlisle ere he was warme in <lb/>
+            his house, and brought him the length of this <lb/>
+            kingdome vnder such safe watchm and Custody <lb/>
+            as he could haue noe meanes to escape; or to <lb/>
+            mischeefe himself nor learne noe lessons to stand <lb/>
+            mute; In w<ex>hi</ex>ch Cases perhaps theis dayes <lb/>
+            Iustice might haue receaued a stopp, soe that <lb/>
+            I may conclude his Ma<ex>jes</ex>tie hath shewed <lb/>
+            himselfe gods true liefte<ex>na</ex>nt and that he is <lb/>
+            noe respecter of persons; But Englishe, <lb/>
+            Scottish, Nobleman, fencer (w<ex>hi</ex>ch is but <lb/>
+            an Ignoble Trade) are to him alike in res<lb break="no"/>
+            pect of Iustice./.
+         </p>
+         <p>
+            <add place="RM">
+               Nay I must say <lb/>
+               further that his Ma<ex>jes</ex>tie hath had in <lb/>
+               this a kind of <lb/>
+               propheticall sper<supplied reason="cropped">it</supplied> <lb/>
+               for that tyme Carli<supplied reason="cropped">sle</supplied>
+               and Gray &amp; you my <lb/>
+               lord yo<ex>u</ex>r self were se<supplied reason="cropped">tled</supplied> <lb/>
+               noe man knew wheth<supplied reason="cropped">er</supplied> <lb/>
+               to the fower wynds <lb/>
+               The kinge euer spa<supplied reason="cropped">ke</supplied> <lb/>
+               in a Confident and <lb/>
+               vndertakinge mann<supplied reason="cropped">er</supplied> <lb/>
+               that where soeuer th<supplied reason="cropped">e</supplied> <lb/>
+               offenders were in Eu<lb break="no"/>
+               rope, he would <supplied reason="cropped">produce</supplied> <lb/>
+               them forth to Iustice
+            </add>
+            </p>
+         <p>
+            Lastlie to retourne to you my lord, though <lb/>
+            your offence hath bin greate, yo<ex>u</ex>r Confession hath
+            <pb n="37v"/>
+            bin free, And yo<ex>u</ex>r behauior and speech full <lb/>
+            of discretion, And this sheweth that Al<lb break="no"/>
+            though you could not resist the temptation yet <lb/>
+            you beare a generous, and a Christian minde <lb/>
+            Answerable to the noble Family of w<ex>hi</ex>ch you are <lb/>
+            descended, This I Commend in you, and take <lb/>
+            it to be an assured Testimonye to be of gods <lb/>
+            mercye and Fauor in respect whereof all <lb/>
+            worldly thinges are but trashe; and soe it is <lb/>
+            fitt for you as yo<ex>u</ex>r state now is to Accompt them./.
+         </p>
+         <trailer>Finis</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speeches and Letters Concerning the Spanish Match</title>
+            <author>
+               <persName corresp="..people/people.xml#P0007">Charles Stuart, Prince of Wales</persName>
+            </author>
+            <author>
+               <persName corresp="..people/people.xml#P0219">Phillip IV, King of Spain</persName>
+            </author>
+            <author>
+               <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS4149.xml">
+               <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 4149</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_18201">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 18201</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72365">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72365</idno>
+                <msName>Trumbull Miscellany</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_444">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 444</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_354">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 354</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_295">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 295</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34217</idno>
+               <msName>Sir Francis Fane's book</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_36446">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 36446</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48044">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48044</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48063">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 48063</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_64879">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 64879</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72276">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72276</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS18201.xml">British Library, Additional MS 18201, ff. 16v–19r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="GregoryXVPrinceCharlesLetters1623v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS28640.xml">British Library, Additional MS 28640, ff. 149v–150v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS36446.xml">British Library, Additional MS 36446, ff. 82x–83x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 128v–131v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48044.xml">British Library, Additional MS 48044, ff. 294r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS64879.xml">British Library, Additional MS 64879, ff. 35r–36r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72276.xml">British Library, Additional MS 72276, f. 51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72365.xml">British Library, Additional MS 72365, ff. 91r–93v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS295.xml">British Library, Harley MS 295, f. 259r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS354.xml">British Library, Harley MS 354, ff. 98r–99v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="GregoryXVPrinceCharlesLetters1623v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, f. 12r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1623">1623</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="LA">Latin</language>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholicism</term>
+               <term>Reformation</term>
+               <term>diplomacy</term>
+               <term>Papacy</term>
+               <term>irenicism</term>
+               <term>Spanish Match</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-10" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="282r" facs="/bl/add_ms_4149_part/add_ms_4149_f0282r/add_ms_4149_f0282r.jpg"/>
+         <head rend="align-centre">
+            The Effect of the Kinge of Spaines speeches <lb/>
+            When hee tooke his Leaue of the Prince. <lb/>
+            <hi rend="bold">a<ex>nn</ex>o D<ex>o</ex>m<ex>ini</ex> 1623.</hi>
+         </head>
+         <p>
+            The since the haste of the Princes Iourney offered him not <lb/>
+            Com<ex>m</ex>oditie to accompanie him to the Sea side, as hee much <lb/>
+            desired to haue done, hee might intreate his highnes to excuse <lb/>
+            that, hee was Com<ex>m</ex>onlye to Conforme himselfe vnto that <lb/>
+            which hee sawe by his highnes desired: Intreatinge his <lb/>
+            highnes to beleeue, that hee would acknowledge <ex>th</ex>e obligac<ex>i</ex>on <lb/>
+            hee had put vpon him by this Iourney <del rend="strikethrough">&amp;</del> <add place="above">all</add> the dayes of his <lb/>
+            life: And that hee would not fayle in <ex>th</ex>e punctuall p<ex>er</ex>formance <lb/>
+            of all that had beene treated and Capitulated, betweene them; <lb/>
+            And would take vpon him to ou<ex>er</ex>come all difficulties, that <lb/>
+            might arise in the busines, And that if anie of his servantes <lb/>
+            or ministers that should goe aboute to crosse or Interupte <ex>th</ex>e <lb/>
+            alliance &amp; freindshipp betweene them, hee would discord <lb/>
+            &amp; Ruyne them. And in assurance whereof, hee then gaue <lb/>
+            him his hand and that hee would that mighte write as <lb/>
+            much to him with his owne hand./
+         </p>
+         <p rend="align-centre">
+            The Princes Answeare.
+         </p>
+         <p>
+            The Prince gaue the Kinge thankes for his fauour &amp; tould <lb/>
+            him that allthough that which his Ma<ex>jes</ex>tie had sai<del rend="strikethrough">e</del>d was as <lb/>
+            much as hee could desire, yet by the maine fauours his <lb/>
+            Ma<ex>jes</ex>tie had beene pleased to doe him hee was soe confident <lb/>
+            of his affection that hee expected noe lesse from him then <lb/>
+            that which hee had said. That his Ma<ex>jes</ex>tie might likewise <lb/>
+            bee assured, that hee would neuer faile him in aniethinge <lb/>
+            that hee had promised or that had beene agreed betweene <lb/>
+            them: Neither should anie person or accident haue power <lb/>
+            to breede in him anie alterac<ex>i</ex>on: But whoesoeuer <lb/>
+            should goe aboute to hinder or distroye this aliance <lb/>
+            or freindshippe betweene them, hee will Labour to <lb/>
+            distroye them, And therevpon likewise gaue the <lb/>
+            Kinge his hand./
+         </p>
+         <fw type="catch" place="bot-right">Afterwardes</fw>
+         <pb n="282v" facs="/bl/add_ms_4149_part/add_ms_4149_f0282v/add_ms_4149_f0282v.jpg"/>
+         <p>
+            Afterwardes the Prince said hee had one fauour to <lb/>
+            request of his Ma<ex>jes</ex>tie which was that hee would assure <ex>th</ex>e <lb/>
+            <hi rend="italic">Infanta</hi> of his true Loue and affection: That noe man <lb/>
+            in the world loued or esteemed anie bodye more then hee <lb/>
+            did her. And that shee should bee Confident, that in <lb/>
+            this his absence, that nothinge should alter or Deminishe <lb/>
+            this his affection: And therefore hee intreated his <lb/>
+            Ma<ex>jes</ex>tie likewise to doe all good offices in disposing and <lb/>
+            setlinge his sisters affection towardes him./
+         </p>
+         <p>
+            The Kinge seemed to bee much pleased with this profession <lb/>
+            of his highnes, And tould him that hee would deliuer <lb/>
+            his Messuage with a verye good will. And that in this <lb/>
+            his absence hee will serue him verye hartelie by <lb/>
+            <del rend="strikethrough">dein</del> doeinge all good offices betweene his highnes and <lb/>
+            Sister, and the Kinge spoke soe effectuallie that the <lb/>
+            <hi rend="italic">Conde of Oliuares</hi> saide merrelie to the Prince <foreign xml:lang="sp">
+                    <hi rend="italic">Parece <lb/>
+               que tendra, Alteza ausencia muy bien Alcahuyde <lb/>
+               per diez</hi>
+                </foreign>. The Kinge Answeared suddenlie <foreign xml:lang="sp">
+                    <hi rend="italic">si tendra <lb/>
+                  per diez</hi>
+                </foreign>. and soe the Kinge and the Prince with <lb/>
+            greate expression of Ioye and affection tooke theire <lb/>
+            horses./
+         </p>
+         <p rend="align-right">
+            The Princes Answeare to the Popes holinesse <lb/>
+            his Letter giuen at St Peters the xxth of <lb/>
+            April 1623. which L<ex>ett</ex>re is Imprinted.
+         </p>
+         <p>
+            I haue receiued your holinesse Letter with such thankfulnesse <lb/>
+            and respecte as is due to the loue and pietie with which <lb/>
+            your holinesse writt it And especiallie it gaue me much <lb/>
+            delight to read the neuer enough praysed example of my <lb/>
+            Ancestors which yo<ex>u</ex>r holinesse set before my Eyes to Imi-<lb break="no"/>
+            tate whoe although it bee true that they often adventred <lb/>
+            and put theire estate and liues in danger for no other <lb/>
+            reason then for the propagation of the Christian
+            <fw type="catch" place="bot-right">fayth</fw>
+            <pb n="283r" facs="/bl/add_ms_4149_part/add_ms_4149_f0283r/add_ms_4149_f0283r.jpg"/>
+            fayth yet theire carriage hath not beene greater in settinge <lb/>
+            vppo<ex>n</ex> the enemie of Christ with open warr then shall bee <lb/>
+            my care that peace and vnitie which <add place="above">hath</add> beene so longe exiled <lb/>
+            from the Christian Com<ex>m</ex>on wealth maye bee reduced to a <lb/>
+            true concorde For as the Enemye of peace and Father <lb/>
+            of discord hath laboured in sowinge hatred and discention <lb/>
+            amongst Christian Princes, Soe that I deeme it a <lb/>
+            Labour of much Glorie to Christ to procure their union. <lb/>
+            Neither doe I esteeme a greater honour to discend from such <lb/>
+            Renowned Princes, then to bee an Emulator in Emulating <lb/>
+            the holie and Religious manners where in they flourished. <lb/>
+            And the knowledge I haue of the Kinge my Lord &amp; Fatheres <lb/>
+            pleasure and his earnest desire with all his forces to <lb/>
+            further his Intention doth much assist me for it greueth <lb/>
+            him to consider the greate misfortune &amp; cruell slaughter <lb/>
+            which haue followed the discord of Christian Princes <lb/>
+            The feelinge which your holinesse hath and the Iudgment <lb/>
+            you gaue of desire intreatie of Alliance with the Catho-<lb break="no"/>
+            like Kinge by meanes of marriage with his sister is <lb/>
+            most conformable to your holinesse charitie &amp; greate <lb/>
+            wisdome, For it is most certaine I would neuer soe <lb/>
+            earnestlie procure to tye my selfe in the straight band <lb/>
+            of marriage to a person whose Religion I Cannot <lb/>
+            endure Wherfore lett your Holinesse bee perswaded <lb/>
+            that my minde nowe is &amp; allwayes shall bee farr from <lb/>
+            plottinge anie thinge contrarie to the Roman Catho-<lb break="no"/>
+            like Religion Nay rather will I seeke all occasions <lb/>
+            vniuersallye to blotte out of the mindes of all men the <lb/>
+            suspitions that might bee held of me That euen as <lb/>
+            wee all acknowledge one God in Trinity &amp; vnitye &amp; <lb/>
+            one Christ crucified in the same sorte wee may <lb/>
+            all professe one and the same fayth And to obtayne <lb/>
+            this I will refuse noe Labour although therein I hazard <lb/>
+            both my Life and Kingdome It resteth onelie that I <lb/>
+            acknowledge for a most singuler benefeit the Letter w<ex>hi</ex>ch
+            <fw type="catch" place="bot-right">your</fw>
+            <pb n="283v" facs="/bl/add_ms_4149_part/add_ms_4149_f0283v/add_ms_4149_f0283v.jpg"/>
+            your Holinesse vouchsafed to send me and that I beseech God <lb/>
+            to protecte your Holinesse &amp; to giue you in this life happie <lb/>
+            successe and in the next the felicitie that I desire./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f282r/add_ms_4149_f282r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f282v/add_ms_4149_f282v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f283r/add_ms_4149_f283r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f283v/add_ms_4149_f283v.jpg"/>      
+   </facsimile>
+</TEI>

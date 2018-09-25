@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter by a Gent to a Noble Man to be Entertained into his Service</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="PH">
+               <name>Peter Hammond</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date/>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>patronage</term>
+               <term>social order</term>
+               <term>service</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-01-31" who="#RB" status="proofread"/>
+            <change when="2018-01-30" who="#RB" status="draft"/>
+            <change when="2018-01-30" who="#PH" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="30v" facs="/bl/add_ms_22591/add_ms_22591_f030v/add_ms_22591_f030v.jpg"/>
+            <head rend="align-centre">
+               <hi rend="bold">
+                  A letter <lb/>
+                  by A Gent to A Noble man to be e<ex>n</ex>tertayned into <lb/>
+                  his Service
+               </hi>
+            </head>
+            <p>
+               <hi rend="bold">Sir</hi>, I haue ever bine soe inclyned and addicted to followe yo<add place="above">u</add>, <lb/>
+               that in my owne opynion I am an old retayner of yo<ex>u</ex>rs, and soe I am <lb/>
+               w<ex>i</ex>thin A deggre of houshold Servant, that is all the p<ex>ro</ex>motion I strive <lb/>
+               to come to/ and the whole effecte of this Letter, but I see soe manye <lb/>
+               Stepps, directed this waye, that I maye p<ex>er</ex>haps come to late, yet <lb/>
+               I hope yo<ex>u</ex>r nu<ex>m</ex>ber is not full, thoughe it be greate, &amp; I suppose  <lb/>
+               all are not invited, that goe, but some intrude/ w<ex>hi</ex>ch since I haue <lb/>
+               adventured to doe/ I will take it for extreame bountie too bee <lb/>
+               admitted, w<ex>it</ex>hin yo<ex>u</ex>r Gates, what I doe is prest by noe nececsitie, <lb/>
+               but to saue my longing, and satisfye my desires, w<ex>hi</ex>ch have A farre <lb/>
+               of ever serued you/ Once I thought to haue moved this Suite by <lb/>
+               Freindes, but that waye I was affraide it might miscarey, and I was <lb/>
+               not verye willing it should succeed, being both to intangle my selfe  <lb/>
+               in obligac<ex>i</ex>ons, to other men, when I was to giue you securitie, and <lb/>
+               passe my selfe <sic>my selfe</sic> whollye over vnto you, soe I thought best <lb/>
+               to write, for to speake had bene to bold, and to miediate a waye, <lb/>
+               for one that strives to <add place="above">please</add> him selfe/ for my Religio<ex>n</ex> you need not doubt <lb/>
+               it/ thoughe I haue travelled, Since you see/ I refuse to praye by <lb/>
+               <unclear>Saintes</unclear>/ and for my sufficiencye thoughe it be nothinge nowe, it can<ex>n</ex>ot <lb/>
+               chuse but be somethinge after I haue had the honor a while to attend <lb/>
+               on you Soe in hope at least of A Pardon I rest as far as in me lyeth
+            </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f030v/add_ms_22591_f030v.jpg"/>
+   </facsimile>
+</TEI>

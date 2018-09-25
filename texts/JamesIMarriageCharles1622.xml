@@ -1,0 +1,526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for the marriage of Prince Charles, with the Pope's Replies</title>
+            <author>
+               <persName corresp="../people/people.xml#P0016">James I</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0119">Pope Gregory XV</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="HB">
+               <name>Howard Barlow</name>
+               <resp>BRIHC PhD Scholar</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS280.xml">
+               <msIdentifier xml:id="BL_Harley_MS_280">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 280</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 280</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_363">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 363</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29492">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 29492</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48044">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48044</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_78186">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 78186</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29492.xml">British Library, Additional MS 29492, ff. 19r–22r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48044.xml">British Library, Additional MS 48044, ff. 287r–289v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS78186.xml">British Library, Additional MS 78186, ff. 40r–41v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS363.xml">British Library, Sloane MS 363, ff. 9r–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_poetry_26.xml">Bodleian Library,  MS Rawlinson poetry 26, ff. 106r–107v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg129.xml">Cambridge University Library,  MS Gg.1.29, reversing the volume,107v–109v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1622">1622</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-13" who="#RB" status="draft"/>
+            <change when="2018-03-26" who="#HB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="142r"/>
+         <head rend="align-right">
+            The p<ex>ro</ex>posic<ex>i</ex>ons of the K: of Great Brittany touchinge <lb/>
+            the Marriage of the Prince of England w<ex>i</ex>th the Infanta <lb/>
+            of Spaine together w<ex>i</ex>th the Popes replies &amp; commands <lb/>
+         </head>
+         <p>
+            <add place="RM">The Replies of the Pope</add>
+            The capitulac<ex>i</ex>on of the K:	
+         </p>
+         <list rend="numbered">
+            <item n="1">
+               That the mariage is to be made w<ex>i</ex>th the Popes <lb/>
+               dispensac<ex>i</ex>on  &amp; t<ex>hat</ex> the dispensac<ex>i</ex>on is to be p<ex>ro</ex>cured <lb/>
+               by the K: of Sp: who is to give his <unclear>replies words</unclear> to  <lb/>
+               the K: of grt Britt: to doe all possible he cann to <lb/>
+               obteyne the dispensac<ex>i</ex>on of the Pope.	
+            </item>
+            <item n="2">
+               <add place="RM">
+                  i the mariage ought to be <lb/>
+                  celebrated but once and  <lb/>
+                  that in Spanie but if anie <lb/>
+                  Solempnyty be done in <lb/>
+                  Engl: the formes of the <lb/>
+                  said Solempnyty is to be <lb/>
+                  declared.
+               </add>
+               That the mariage is to be celebrated in  <lb/>
+               Spaine &amp; in England in Sp: accordinges to <lb/>
+               the forms of the Church of Rome and in Engl. <lb/>
+               w<ex>i</ex>th the cerimonies which shall seeme fittinge <lb/>
+               to the C: of Engl: provided that none of the  <lb/>
+               said cerimonies be contrarie to the Religion <lb/>
+               of the most excellent Infanta but hereof &amp;  <lb/>
+               <unclear>forme is</unclear> to be drawne in w<ex>ha</ex>t manner forme <lb/>
+               they ought to be done here and there.
+            </item>
+            <item n="3">
+               That the most excellent Infanta shall <lb/>
+               alwayes have free use and publiqe excercise <lb/>
+               of the Catholicke Relligion in the manner <lb/>
+               &amp; formes as is hereafter capitulated
+            </item>
+            <item n="4">
+               That the most excellent Infanta shall <lb/>
+               haue <unclear>her</unclear> serv<ex>an</ex>ts and all her famyly chosen &amp; <lb/>
+               named by the Ki: of Sp: provided that the <lb/>
+               said K: of Sp: name not vassalls of the K: <lb/>
+               of grt Britt: w<ex>i</ex>thout his expresse will <lb/>
+               and consent.
+            </item>
+            <item n="5">
+               <add place="RM">
+                  5 That there be <unclear>Bi<ex>sho</ex>pps</unclear> &amp; - / () <lb/>
+                  publiqe church at Lond. <lb/>
+                  &amp; els where, where the (most) <lb/>
+                  excellent Infanta is to <lb/>
+                  reside &amp; live &amp; <ex>th</ex>a<ex>t</ex>
+                        <hi rend="bold"> </hi>in both (place<supplied reason="damage">s</supplied> <lb/>
+                  all divine duties be done <lb/>
+                  the word pre<add place="above">a</add>ched and the <lb/>
+                  Sacram<ex>en</ex>ts administered.
+               </add>
+               That the most excellent Infanta shall <lb/>
+               haue most convenient places of prayer <lb/>
+               in o<ex>u</ex>r Pallace where masse may be said <lb/>
+               att her pleasure and that the said place <lb/>
+               of prayer may be adorned w<ex>i</ex>th the decency <lb/>
+               w<ex>hi</ex>ch shall seeme fittinge to the said excellent <lb/>
+               Infanta.
+            </item>
+            <item n="6">
+               That in the said place of prayer or chappell <lb/>
+               it shalbe p<ex>er</ex>mitted to her <unclear>preists</unclear> to exercise <lb/>
+               the free use of theire function in the manner <lb/>
+               that the most excellent Infanta shall - - <lb/>
+               ordayne.
+            </item>
+         </list>
+         <pb n="142v"/>
+         <list rend="numbered">
+            <item n="7">
+               <add place="RM">
+                  That the serv<ex>an</ex>ts both men and <lb/>
+                  women of the most excellent <lb/>
+                  Infanta &amp; the serv<ex>an</ex>ts of her serv<ex>an</ex>ts <lb/>
+                  and theire Chillderen and <unclear>(race) </unclear> <lb/>
+                  &amp; all her Familiars ought  <lb/>
+                  to be freely Catholiqes
+               </add>
+               That the serv<ex>an</ex>ts both men &amp; women of the <lb/>
+               most excellent Infanta &amp; the serv<ex>an</ex>ts of  <lb/>
+               her serv<ex>an</ex>ts &amp; the p<ex>er</ex>sones w<ex>hi</ex>ch belonge to <lb/>
+               the famyly may be Catholiqes freely <lb/>
+               w<ex>hi</ex>ch notw<ex>i</ex>thstandinge ought to be - - <lb/>
+               understood soe t<ex>ha</ex>t whosoeu<ex>e</ex>r wilbe a serv<ex>an</ex>t <lb/>
+               obleige himselfe as a Catholiqe –  <lb/>
+               &amp; serv<ex>an</ex>t
+            </item>
+            <item n="8">
+               That the aforesaid serv<ex>an</ex>ts yf they be <lb/>
+               Catholiks may be soe in manner full <lb/>
+               <unclear>owingd</unclear>
+            </item>
+            <item n="9">
+               That the most excellent Infanta shall <lb/>
+               haue in the Court or adioyinnge to the <lb/>
+               Court a Chappell soe capacious as all <lb/>
+               the said Catholiqe serv<ex>an</ex>ts may enter &amp; bee <lb/>
+               conteyned therein, w<ex>hi</ex>ch Chappell is to <lb/>
+               haue one publiqe and ordinarie <unclear>dore</unclear> <lb/>
+               through which the serv<ex>an</ex>ts may enter and <lb/>
+               another inward <unclear>dore</unclear> towarde the Court <lb/>
+               through w<ex>hi</ex>ch the said most excellent <lb/>
+               Infanta may enter and here masse <lb/>
+               and celebrate holy dayes
+            </item>
+            <item n="10">
+               <add place="RM">
+                  10 That the Chappell and <lb/>
+                  publique churches <unclear>&amp;c</unclear>
+               </add>
+               That the Chappell be beautyfied w<ex>i</ex>th the <lb/>
+               decent ornam<ex>en</ex>t of the Allter &amp; other <lb/>
+               things w<ex>hi</ex>ch are necessarie for devine - - <lb/>
+               wor<ex>shi</ex>pp: which is to be celebrated according <lb/>
+               to the use of the holy Church of Rome. <lb/>
+               And yf it be lawfull for the said serv<ex>an</ex>ts <lb/>
+               &amp; others as hath <unclear>bine</unclear> aboue said to goe <lb/>
+               to the said Chappell att all <unclear>howers</unclear> that <lb/>
+               they will
+            </item>
+            <item n="11">
+               <add place="RM">
+                  11 The Pope as before <lb/>
+                  adds publiqe church
+               </add>
+               That <ex>th</ex>e care and Custodie of the said <lb/>
+               Chappell shalbe com<ex>m</ex>itted to those whom <lb/>
+               the most excellent Infanta shall appointe <lb/>
+               to whom it shalbe longe (sic) not to suffer any <lb/>
+               to enter to doe any vndecent thinge <lb/>
+               in the said Chappell -	
+            </item>
+         </list>
+         <pb n="143r"/>
+         <list rend="numbered">
+            <item n="12">
+               That for the administrac<ex>i</ex>on of the Sacram<ex>en</ex>ts        <lb/>
+               in the said Chappell there shalbe a number of <lb/>
+               ministers as shalbe seene convenient <lb/>
+               to the said Infanta and they are to be nomi= <lb break="no"/>
+               nated by the said most excellent Infanta <lb/>
+               Provided that they be none of the K: of <lb/>
+               grt Britt: or if they be it must be w<ex>i</ex>th his <lb/>
+               consent &amp; likenige,
+            </item>
+            <item n="13">
+               <add place="RM">
+                  13 That therbe a minister <lb/>
+                  w<ex>hi</ex>ch shalbe indued w<ex>i</ex>th the <lb/>
+                  quality of a Bish<ex>o</ex>pp:
+               </add>
+               That there be a superior minister <lb/>
+               w<ex>i</ex>th sufficient authorities for all causes <lb/>
+               w<ex>hi</ex>ch shall happen to touchinge the Catholiqe <lb/>
+               Religion
+            </item>
+            <item n="14">
+               <add place="RM">
+                  14 The Pope adds the <lb/>
+                  name of Bishopp:
+               </add>
+               That this sup<ex>er</ex>ior minister may correct <lb/>
+               punishe chastice the Catholiques w<ex>hi</ex>ch shall <lb/>
+               offend &amp; excersise uppon them all eccle- <lb/>
+               siasticall iurisdicc<ex>i</ex>on nd moreou<ex>e</ex>r that <lb/>
+               the most excellent Infanta may dis= <lb break="no"/>
+               charge them of her services
+            </item>
+            <item n="15">
+               That the most excellent Infanta <lb/>
+               and her serv<ex>an</ex>ts may <sic>lawfullly</sic> <unclear>as</unclear> afore= <lb break="no"/>
+               said get from Rome dispensac<ex>i</ex>ons in= <lb break="no"/>
+               dulgences Iubiles and all other things <lb/>
+               w<ex>hi</ex>ch serve convenient for theire – <lb/>
+               consciences.
+            </item>
+            <item n="16">
+               That the serv<ex>an</ex>ts of the most excellent <lb/>
+               Infanta take the oath of fidelitie to the <lb/>
+               Ki: of Grt Britt: provided there be noe <unclear>cluases</unclear>
+                    <hi rend="bold"> <lb/>
+               </hi>or word in the said oath w<ex>hi</ex>ch may contradict <lb/>
+               the Relligion &amp; conscience of the Catholiqes <lb/>
+               &amp; to this purpose the forme of the oath is  <lb/>
+               to be approved by the Appostolicke sea
+            </item>
+            <item n="17">
+               <add place="RM">
+                  17 That the lawes which doe and <lb/>
+                  hereafter shall not meddle w<ex>i</ex>th <lb/>
+                  or haue to doe w<ex>i</ex>th the serv<ex>an</ex>ts <lb/>
+                  &amp; other laymen aforesaid <lb/>
+                  the w<ex>hi</ex>ch shalbe exempted <lb/>
+                  from the paine and penaltie <lb/>
+                  made against such<del rend="strikethrough">()</del> <lb/>
+                  trangressors, but the church <lb/>
+                  men shalbe subiect to none but <lb/>
+                  the said <unclear>Eccle<ex>sia</ex>sticall</unclear> lawes.
+               </add>
+               That the lawe of Kings: touching Relligion <lb/>
+               shall haue nothinge w<ex>i</ex>th the said Catholicke <lb/>
+               serv<ex>an</ex>ts of the most excellent Infanta <lb/>
+               w<ex>hi</ex>ch shalbe all exempted from the said lawes <lb/>
+               &amp; penallties made against such tra<add place="above">n</add>sgressors: <lb/>
+               and it will be needfull to declare how and in <lb/>
+               what manner this busines is to be managed	
+            </item>
+            <pb n="143v"/>
+            <item n="18">
+               18	That the chill<add place="above">d</add>eren that shalbe borne <lb/>
+               of them during this matrimonie  <lb/>
+               shall not be forced or compelled <lb/>
+               in matters if Relligion and conscience <lb/>
+               and t<ex>ha</ex>t the lawes against Catholickes <lb/>
+               shall not extend to them in case <lb/>
+               that anie of them be Catholickes <lb/>
+               nor for this respect shall they <lb/>
+               loose the right to succeed in the <lb/>
+               kingdome &amp; dominion of grt Britt:
+            </item>
+            <item n="19">
+               <add place="RM">
+                  19 That the Nurses Which said give  <lb/>
+                  sucke to the childeren of the <lb/>
+                  most excellent Infanta be <lb/>
+                  Catholickes &amp; that the Infanta <lb/>
+                  choose them and that they be <lb/>
+                  accompted of her family.
+               </add>
+               19	<del rend="strikethrough">That the</del> the Nurses w<ex>hi</ex>ch shall give <lb/>
+               sucke to the chillderen of the most  <lb/>
+               excellent Infanta shalbe chosen <lb/>
+               and admitted w<ex>i</ex>th the likeinge of <lb/>
+               the most excellent Prince and be  <lb/>
+               accompted of his family
+            </item>
+         </list>
+         <p rend="align-centre">
+            <add place="RM">
+               The Answeres of the K: <lb/>
+               of great Britt:
+            </add>
+            The requests of the <lb/>
+            K: of Spaine 
+         </p>
+         <list rend="numbered">
+            <item n="i">
+               <add place="RM">
+                  i For security that the marriage <lb/>
+                  may not be undon there can be <lb/>
+                  noe <unclear>strong<ex>e</ex>r</unclear> obligac<ex>i</ex>on in fealty <lb/>
+                  of truth then the Relligions <lb/>
+                  and lawe of the kingdom <lb/>
+                  both which doe much contradict <lb/>
+                  a divorce nor can therebe <lb/>
+                  added any other then honor and <lb/>
+                  reputac<ex>i</ex>on. Notw<ex>i</ex>thstandinge <lb/>
+                  lett euery thinge be done <lb/>
+                  that can be done w<ex>i</ex>th decency <lb/>
+                  and conveniency.
+               </add>
+               Though for great security it hath <lb/>
+               beene offered that we well the Infanta <lb/>
+               as the prtion of her contract of <lb/>
+               matrymonie be keepte in Spaine <lb/>
+               untill the condic<ex>i</ex>on be p<ex>er</ex>formed. <lb/>
+               Notw<ex>i</ex>thstandinge to avoid divorcem<ex>en</ex>t <lb/>
+               greater assurances are requisite and <lb/>
+               that is desired w<ex>hi</ex>ch may give great <lb/>
+               security. And t<ex>ha</ex>t the most excellent <lb/>
+               K. of great Britt: declare (w<ex>ha</ex>t) security <lb/>
+               shalbe given that in noe case the <lb/>
+               marriage once contracted shalbe <lb/>
+               dissolved
+            </item>
+            <item n="2">
+               <add place="RM">
+                  <add place="above">2</add> That the Childeren are to remaine <lb/>
+                  under the goverm<ex>en</ex>t &amp; care of the <lb/>
+                  woman untill the age <unclear>
+                            <ex>tha</ex>t is used</unclear> <lb/>
+                  in such cases, &amp; this to be confor- <lb/>
+                  mable to the complecc<ex>i</ex>on &amp; health <lb/>
+                  of the said children w<ex>hi</ex>ch accordingly <lb/>
+                  shall remaine a longer or shorter  <lb/>
+                  tyme, untill the said goverm<ex>en</ex>t.
+               </add>
+               That it be declared untill what age <lb/>
+               the most excellent Infanta shall  <lb/>
+               haue the educac<ex>i</ex>on of the childeren <lb/>
+               that shalbe borne of them during <lb/>
+               this matrimonie
+            </item>
+            <item n="3">
+               That it be declared &amp; <unclear>et</unclear>	
+               <pb n="144r"/>
+               <add place="RM">
+                  3 The serv<ex>an</ex>ts w<ex>hi</ex>ch shall come from <lb/>
+                  Spaine shalbe nominated <lb/>
+                  by the Catholiqe K: when= <lb/>
+                  soeu<ex>e</ex>r theire place shalbe <lb/>
+                  vacant. /
+               </add>
+               That it be declared that whensoeu<ex>e</ex>r <lb/>
+               the place of the serv<ex>an</ex>ts men &amp; women <lb/>
+               that the said excellent Infanta shall <lb/>
+               carry w<ex>i</ex>th her shalbe vacant that then <lb/>
+               others be named w<ex>i</ex>th the Catho: K: <lb/>
+               her brother in theire places eu<ex>e</ex>ry tyme <lb/>
+               shalbe vacant either by the death or <lb/>
+               dissmission or callinge home the said <lb/>
+               officers by his will. /	
+            </item>
+            <item n="4">
+               <add place="RM">
+                  4 For securyty that all t<ex>ha</ex>t be capitulated <lb/>
+                  may be accomplished <ex>th</ex>e K: of grt: <lb/>
+                  Britt: &amp; the Prince of Wales will <lb/>
+                  obleige themselves by oath and – <lb/>
+                  seale it w<ex>i</ex>th the grt. seale of Engl: <lb/>
+                  and the said K: &amp; Prince of Wales <lb/>
+                  will likewise give theire faith &amp; words <lb/>
+                  that they will doe all that shalbe possible <lb/>
+                  that eu<ex>e</ex>ry that shalbe capitulated may <lb/>
+                  be established by p<ex>ar</ex>liam<ex>en</ex>t and because <lb/>
+                  noe <unclear>causion</unclear> may be refused, yf the <lb/>
+                  K: of Sp: shall add or expound any <lb/>
+                  other thinge w<ex>hi</ex>ch may be done w<ex>i</ex>thout <lb/>
+                  destroyinge the fittinge <unclear>decorum</unclear> <lb/>
+                  the K: of grt Britt: will doe it w<ex>i</ex>th a <lb/>
+                  good will. /
+               </add>
+               That most excellent K: of – <lb/>
+               grt Britt: declare the securyty <lb/>
+               which he can give that all that <lb/>
+               shall be capitulated shall (be) <lb/>
+               keept inviolablely. /
+            </item>
+         </list>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/> 
+         <p rend="align-centre">
+            The Colledg of Cardinalls
+         </p>
+         <p>
+            Because the Condic<ex>i</ex>ons which haue beine offered from the kinge of <lb/>
+            great Brittaine as it appears avayles only for the securyty of the <lb/>
+            Relligion and conscience of the most excellent Infanta &amp; her famyly <lb/>
+            &amp; synce for grauntinge of a dispensac<ex>i</ex>on other things are required <lb/>
+            for the p<ex>ro</ex>ffitt increase and of the Catholicke and Romishe Relligion <lb/>
+            the said things are to be p<ex>ro</ex>pounded <unclear>one</unclear> the parte of the kinge <lb/>
+            of great Brittayne: to the end that o<ex>u</ex>r holie Father may dele= <lb break="no"/>
+            berate whether by the p<ex>er</ex>swac<ex>i</ex>ons of such offers a dispensac<ex>i</ex>on <lb/>
+            may be graunted. /
+         </p>
+      </body>
+   </text>
+</TEI>

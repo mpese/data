@@ -1,0 +1,707 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letters on the Essex Nullity</title>
+                <author>
+                    <persName corresp="../people/people.xml#P0015">George Abbot</persName>
+                </author>
+                <author>
+                    <persName corresp="../people/people.xml#P0015">James VI/I</persName>
+                </author>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc corresp="../mss/BLStoweMS422.xml">
+                    <msIdentifier xml:id="BL_Stowe_MS_422">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 422</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Stowe MS 422</p>
+                </msDesc>
+                <listBibl xml:id="mss_witness">
+                    <bibl>
+                        <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Sloane_MS_363">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 363</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Sloane_MS_1819">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1819</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Sloane_MS_1856">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1856</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Harley_MS_813">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 813</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Add_MS_29587">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 29587</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/AllSoulsOxfordMS117.xml">All Souls College,  MS 117, f. 149r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="ProceedingsDivorceHowardEssex.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS11600.xml">British Library, Additional MS 11600, ff. 11v–15r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29587.xml">British Library, Additional MS 29587, ff. 6r–9v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS813.xml">British Library, Harley MS 813, ff. 132r–135v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="ProceedingsDivorceHowardEssex.xml">Transcript</ref> of <ref type="ms" target="../mss/BLSloaneMS1819.xml">British Library, Sloane MS 1819, ???</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1856.xml">British Library, Sloane MS 1856, ff. 47x–50x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS363.xml">British Library, Sloane MS 363, ???</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_401.xml">British Library, Stowe MS 401, ff. 4r–9v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_402.xml">British Library, Stowe MS 402, ff. 2r–4v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_422.xml">British Library, Stowe MS 422, ff. 45r–52v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_63.xml">Bodleian Library,  MS Rawlinson C 63, ff. 4v–15v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_64.xml">Bodleian Library,  MS Rawlinson C 64, ff. 3v–11v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_1345.xml">Bodleian Library,  MS Rawlinson D 1345, ff. 147r–151r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_304.xml">Bodleian Library,  MS Tanner 304, ff. 60r–64r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_74.xml">Bodleian Library,  MS Tanner 74, ff. 22r–27v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Willis_58.xml">Bodleian Library,  MS Willis 58, ff. 199r–204r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Wood_F34.xml">Bodleian Library,  MS Wood F.34, ff. 9r–10r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg413.xml">Cambridge University Library,  MS Gg.4.13, pp253–257</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_303.xml">Folger Shakespeare Library,  MS V.b.303, pp173–181</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_7340.xml">Gonville &amp; Caius College,  MS 73/40, ff. 219v–222v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_1227.xml">Harvard Law School,  MS 1227</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_67.xml">Harvard Law School,  MS 67, ff. 3r–22x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Legal_Papers_Box_1.xml">Huntington Library, Hastings Legal Papers Box 1, Item 16</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Jesus_College_Oxford_MS_83.xml">Jesus College,  MS 83 [on deposit in Bodleian], ff. 54r–56r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_663.xml">Lambeth Palace Library,  MS 663, ff. 182r–183v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_19.xml">Nottingham University Library, Cl LP 19, ff4</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="modern_print_witness">
+                    <bibl>
+                        <title>State Trials</title>
+                        <citedRange unit="volume">2</citedRange>
+                        <citedRange unit="page" from="794" to="802">794-802</citedRange>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date when="1613">1613</date>
+            </creation>
+            <langUsage>
+                <language ident="EN">English</language>
+                <language ident="LA">Latin</language>
+            </langUsage>
+            <textClass>
+                <keywords n="text-type">
+                    <term>letter</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords n="topic-keyword">
+                    <term>divorce</term>
+                    <term>law</term>
+                    <term>ecclesiastical conflict</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change status="draft" who="#RB" when="2017-10-04"/>
+                <change status="proofread" who="#NM" when="2017-06-22"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+                <pb n="45r"/>
+            <head rend="align-centre">
+                The opinion of the Lorde <lb/> 
+                Arch Bishopp of Canterburie <lb/> 
+                Concerninge the Nullity of <lb/> 
+                Marri<add place="above">a</add>age betweene the Earle of<lb/>  
+                Essex and the Ladie Frauncis <lb/> 
+                Howard his wife deliuered to <lb/> 
+                the Kings Maiestie/ <lb/> </head>
+           
+            <p>
+                In as much as you doe firmely beleeue that <lb/> 
+                the scripture directlye or by Consequence <lb/> 
+                doth Conteyne in it sufficient matter <lb/> 
+                to decide all Controversies especiallye <lb/> 
+                in things apperteyninge to the Church, And <lb/> 
+                that marriage amongst Christians Can <lb/> 
+                bee noe <del rend="strikethrough">lett</del> lesse accompted then a sacred <lb/> 
+                thinge, and beinge instituted by god in Pa=<lb break="no"/>
+                =radice, honored by the presence of our saviour <lb/> 
+                himself, and declared by St Paul to <lb/> 
+                be a figure of the spirituall Coniunction <del rend="strikethrough">of</del> <lb/> 
+                betweene Christ and his Church; I would <lb/>
+                bee gladd to knowe, by what text of scripture <lb/>
+                either of the old or newe testament, a man <lb/>
+                maye have a warrant to make a nullitie <lb/>
+                of marriage solemlie Celebrated. <foreign xml:lang="la">In <lb/>
+                facie Eccl<ex>es</ex>iæ propter Maleficum versus hanc</foreign> <lb/>
+                <fw type="catch" place="bot-right">which</fw>
+                <pb n="45v"/>
+                which I doe the rather aske, because I find <lb/>
+                warrant expresslie in Scripture to make <lb/>
+                a Nullitie of Marriage propter frigidita=<lb break="no"/>
+                =tem by the words of our Saviour Matth. 19. <lb/>
+                <add place="LM">Matth. 19. 12.</add>12. For there are some Chast or Eunuches <lb/>
+                wh<ex>i</ex>ch were soe borne of theire mothers belly <lb/>
+                and there bee some Chast which bee made <lb/>
+                Chast by men, and there bee some Chast <lb/>
+                which haue made themselues Chast For <lb/>
+                the Kingdome of heaven; I would also knowe <lb/>
+                gladlye what Auntient father, either amongst <lb/>
+                the <hi rend="italic">Greekes</hi> or Lattines, by occasion of <lb/>
+                interpretac<ex>i</ex>on of scripture, or anie disputac<ex>i</ex>on <lb/>
+                hath menc<ex>i</ex>oned <foreign xml:lang="la">
+                    <hi rend="italic">maleficum versus hanc</hi>
+                </foreign> or <lb/>
+                declared it to bee a Cause of Nullitye <lb/>
+                in Marriage. The like I demaund touching <lb/>
+                the Auntient Councells, either generall or <lb/>
+                provinciall, and Concerninge the stories <lb/>
+                Ecclesiasticall, whether anie such matters <lb/>
+                bee to bee found in them If for ought <lb/>
+                that appeareth, neuer menc<ex>i</ex>on was made <lb/>
+                of this, till the tyme of <hi rend="italic">Hinemerus Episco:</hi>
+                <lb break="no"/>
+                <hi rend="italic">=pus Remensis</hi>, (whoe lived Nyne hundred <lb/>
+                yeares after Christ) It maye well <lb/>
+                be Conceaved that this was a Concomitant <lb/> 
+                <fw type="catch" place="bot-right">of</fw>
+                <pb n="46r"/>of darkenes, and popish superstition, w<ex>hi</ex>ch <lb/>
+                about that tyme grewe to soe greate height <lb/> 
+                (God permittinge then that punishment <lb/> 
+                to fall vpon the Children of unbeleife) But <lb/> 
+                since the light of the Gospell is nowe in <lb/> 
+                soe great measure broken out agayne <lb/> 
+                whye should I <add place="above">not</add> hope those that have embraced <lb/> 
+                the Gospell, should bee free from this <lb/> 
+                <hi rend="superscript">Malef<ex>i</ex>cium</hi>, especiallye since amongst a <lb/> 
+                Million of men in our Age there is not <lb/> 
+                one found in all our Countrie whoe is <lb/> 
+                Cleirlye and evidentlie knowne to bee <lb/> 
+                troubled with the same. And if there should <lb/> 
+                bee anie, which might seeme to bee thus <lb/> 
+                molested, wee are taught to use <lb/> 
+                remedies against it, The one spirittuall <lb/> 
+                Phisicke, the other externall. For the first <lb/> 
+                our Saviour saieth <foreign xml:lang="la">
+                    <hi rend="italic">Hoc genus Dæmonio<ex>rum</ex>
+                    </hi> <lb/> 
+                    <hi rend="italic">non eijcitur nisi per orationem et Jeiunium;</hi>
+                </foreign>
+                <lb/> 
+                And St Peter speakinge of the devill <lb/> 
+                saieth <hi rend="italic">
+                    <foreign xml:lang="la">Cui resistite, firme in fide.</foreign>
+                </hi> And the <lb/> 
+                Canonists themselves prescribe Almes <lb/> 
+                fastinge and prayer to bee vsed in that <lb/> 
+                Case, butt that theye ioyne superstitiouslie <lb/> 
+                theire Exorcismes therevnto. And for Corpo=<lb break="no"/>
+                rall Phisicke to bee imployed as against a <lb/> 
+                <fw type="catch" place="bot-right">disease</fw>
+                <pb n="46v"/>disease soe is the Iudgment of our late <lb/> 
+                divines whether <choice>
+                    <sic>the</sic>
+                    <corr>they</corr>
+                </choice> speake <foreign xml:lang="la">
+                    <hi rend="italic">venef<ex>i</ex>cium</hi>
+                </foreign> or nott <lb/>
+                Nowe admitt the Earle of Essex might bee <lb/> 
+                ymagined to bee troubled w<ex>i</ex>th <foreign xml:lang="la">
+                    <hi rend="italc">Maleficium <lb/> 
+                    versus hanc</hi>
+                </foreign> I demaund what Almes hath <lb/> 
+                been given what fastinge hath been vsed <lb/> 
+                what prayers hath been powred out to appease <lb/> 
+                the Indignation of God towards him or his <lb/> 
+                wife Or what Phisicke hath been taken or <lb/> 
+                medicine applyed for theise three yeares <lb/> 
+                together Noe one of theise things butt the first <lb/> 
+                hearinge must bee to pronounce a Nullity <lb/> 
+                in the Marriage Of which declarac<ex>i</ex>on wee <lb/> 
+                knowe the begininge butt noe Mortall <lb/> 
+                mans witt Can foresee the <space extent="6" unit="chars"/> and <lb/> 
+                either in his person or example
+            </p>
+            <p>
+                <foreign xml:lang="la">Iudicium Melancthonis de Diuortiis <lb/> 
+                ex Impotentia in loco de Coniugio quod <lb/> 
+                Christopherus Perilus suis in Melancthonis <lb/> 
+                examen explicationibus <del rend="strikethrough">exeruit</del> in seruit <lb/> 
+                secunda parte Iudicium Hemingii Libello <lb/> 
+                de Coniugio repudio et divortio Iudicium <lb/> 
+                    Pollani professoris Theologiæ in Acadæmia <lb/> 
+                Basill Lib. 10 sitage Cap. 18</foreign> 
+            </p>
+            <p>
+                <foreign xml:lang="la">
+                    <sic>Jiudicium</sic> Iraelarii profesessoris Theologiæ in <lb/> 
+                Acadæmia Marlb. in arca fæderis</foreign>
+            </p>
+            <fw type="catch" place="bot-right">
+                <foreign xml:lang="la">Judicium</foreign>
+            </fw>
+            <p>
+                <pb n="47r"/>
+                <foreign xml:lang="la">Iudicium Beza Lib. 4. de Diuortiis pag. <lb/> 
+                9. Gen. Impress 1591 pag. 94:</foreign>
+            </p>
+            <p>
+                <foreign xml:lang="la">Iudicium <sic>anchii</sic> Lib. 4. de operibus Cap. <lb/> 
+                3 non tamen impotentia et veneficio atti<lb break="no"/>
+                =git./</foreign>
+            </p>
+            
+            <p>
+                The Kings Ma<ex>jes</ex>ties answere to <lb/> 
+                the Lord Archbishopp of Canter=<lb break="no"/>
+                =burie his opinion/
+            </p>
+            <p>
+                To the first Argum<ex>en</ex>t that the scripture <lb/> 
+                doth directlie or by Conseqeunce Conteyne <lb/> 
+                sufficient matter to decide all Controuersies <lb/> 
+                especiallye in this apperteyninge to the <lb/> 
+                Church this is in myne opinion <foreign xml:lang="la">Propositio <lb/> 
+                    erronea</foreign> and one of the Puritants ground <lb/> 
+                w<ex>i</ex>thout a better distingtion or explanac<ex>i</ex>on <lb/> 
+                For the <hi rend="italic">Orthodaxe proposition</hi> is that the <lb/> 
+                Scripture doth directlye or by Consequence <lb/> 
+                Conteyne in it sufficient matter to decide <lb/> 
+                all Controuersies in points of of faith and <lb/> 
+                salvac<ex>i</ex>on Of which sorte a Nullitye in <lb/> 
+                Marraige Cannott bee accompted for one <lb/> 
+                And therefore your Consequence vpon the <lb/> 
+                former proposition must faile For <lb/> 
+                <fw type="catch" place="bot-right">further</fw>
+                <pb n="47v"/>further satisfacc<ex>i</ex>on to your followinge <lb/> 
+                question I saie your owne second question <lb/> 
+                doth answere it for pronouncinge a Nullity <lb/> 
+                <foreign xml:lang="la">propter frigiditatem</foreign> then all the meanes w<ex>hi</ex>ch <lb/> 
+                maye make him <foreign xml:lang="la">frigidus versus hanc</foreign> must <lb/> 
+                bee Comprehended therein For whye doth <lb/> 
+                our Church Condemne as incestuous the <lb/> 
+                Marriage of a man w<ex>i</ex>th his sisters daughter <lb/> 
+                or the marriage of two sisters but <foreign xml:lang="la">A paritate <lb/> 
+                    rationis</foreign> for none of them is <foreign xml:lang="la">in terminis</foreign> <lb/> 
+                prohibited by the scripture onlye the Conclusion <lb/> 
+                is gathered <foreign xml:lang="la">a paritate rationi</foreign> for if it bee <lb/> 
+                nott lawfull to marrye your fathers wife <lb/> 
+                because thereby you discouer your fathers <lb/> 
+                shame nor his sister because shee is is his <lb/> 
+                kinswoman nor your owne sister for thereby <lb/> 
+                you discouer your father and mothers shame <lb/> 
+                It Can noe more bee lawfull for you to <lb/> 
+                marrye your sisters daughter for thereby also <lb/> 
+                you discouer your owne shame as alsoe the <lb/> 
+                same reason serues for ascendinge or descending <lb/> 
+                in points of Consanguinitye <foreign xml:lang="la">quia parest ratio</foreign>
+                <lb/> 
+                The like is in this Case for although Christ <lb/> 
+                speakes onlye of three sortes of Euenuches yet <lb/> 
+                <foreign xml:lang="la">Ratio est quia non potest esse Copula inter <lb/>
+                <fw type="catch" place="bot-right">Euenuchum</fw>
+                    <pb n="48r"/>Euenuchum et Mulierem </foreign> and therefore St <lb/> 
+                Paul in the seventh Chapter of his first <lb/> 
+                epistle to the Corinthians telleth vs Cleerely <lb/> 
+                that it is nott <foreign xml:lang="la">Coniugium sine Copula.</foreign> I <lb/> 
+                Conclude therefore <foreign xml:lang="la">A paritate rationis</foreign> that <lb/> 
+                Christ did Comprehend vnder those three <lb/> 
+                sorts of Euenuches all inhabilitie which <lb/> 
+                doth Continuallye hinder <foreign xml:lang="la">Copulam versus <lb/> 
+                    hanc</foreign> whether it were naturall or acciden=<lb break="no"/>
+                =tall For what difference is there betweene <lb/> 
+                Cuttinge of the hand and beinge made impo=<lb break="no"/>
+                =tent thereof <foreign xml:lang="la">Amputatio et Multilatio <lb/> 
+                    membri</foreign> is all one in the Civill lawe And <lb/> 
+                it is a like defraudinge of the woman when <lb/> 
+                either hee <del rend="strikethrough">or</del> whoe is to be her husband is gelded <lb/> 
+                <del rend="strikethrough">owh</del> or when the use of his member towards <lb/> 
+                her is by anie vnlawfull meanes taken from <lb/> 
+                him Neither is it anie waye needfull to <lb/> 
+                Crave the particular warrant of Nullitye <lb/> 
+                <foreign xml:lang="la">propter Maleficium</foreign> out of the scripture noe <lb/> 
+                more then there is warrant in that place for <lb/> 
+                anie Nullitye at all for Christ doth nott <lb/> 
+                directlye saie that a Mariage soe made <lb/> 
+                shallbe nullified neither doth hee teach vs <lb/> 
+                what forme of processe shall be vsed in it <lb/> 
+                nether makes hee menc<ex>i</ex>on of a Trianuall <lb/> 
+                <fw type="catch" place="bot-right">
+                    probac<ex>i</ex>on
+                </fw>
+                <pb n="48v"/>
+                probac<ex>i</ex>on noe more then hee forbiddeth <lb/> 
+                marriage w<ex>i</ex>thin the fourth degree with leave <lb/> 
+                obteyned o the Bishopp of the diocesse. It is <lb/> 
+                then sufficient for all moderate Christians <lb/> 
+                to bee taught out of the word that marriage <lb/> 
+                is <foreign xml:lang="la">Nulla sine Copula</foreign> and that the wordes <foreign xml:lang="la">quod <lb/> 
+                    deus Coniunxit</foreign> is neuer found in the scripture <lb/> 
+                where <foreign xml:lang="la">
+                    <sic>exeunt eis Caro vna</sic>
+                </foreign> doth not proceede <lb/> 
+                vizt theye shall be one fleshe Butt whether the <lb/> 
+                impediment bee vniversall or <foreign xml:lang="la">versus hanc</foreign> only <lb/> 
+                and whether the fault thereof hath bin borne w<ex>i</ex>th <lb/> 
+                him or done vnto him by violence or fallen by <lb/> 
+                disease or by disproportion or inaptitude be=<lb break="no"/>
+                =twixte the parties or by vnlawfull or vnnaturall <lb/> 
+                practises it is neuer <foreign xml:lang="la">Pax Ratio</foreign> hee is <lb/> 
+                <foreign xml:lang="la">
+                    <sic>Eurnuchus</sic> versus hanc</foreign> Neither doth it matter <lb/> 
+                whether hee bee <foreign xml:lang="la">Euenuchus versus omnes alias</foreign> <lb/> 
+                seeinge to her only was hee married then <lb/> 
+                <foreign xml:lang="la">Paritate rationis</foreign> such Nullities are grounded <lb/> 
+                vpon the foresaid warrant of scripture Neither <lb/> 
+                hadd our saviour Christ anie occasion to speake <lb/> 
+                then to the Iewes Concerninge <hi rend="italic">Maleficium</hi> <lb/> 
+                For although it bee apparent that God made <lb/> 
+                Kinge Abimelech and his family vnable to abuse <lb/> 
+                Sara Abrahams wife and soe hee was <lb/> 
+                <fw type="catch" place="bot-right">made</fw>
+                <pb n="49r"/>made by God himselfe <foreign xml:lang="la">Eunuchus versus hanc</foreign> <lb/> 
+                and that it bee nott vnprofitable that the <lb/> 
+                devill beinge Gods Ape should imitate gods <lb/> 
+                worke by his filthye witchcrafte by makeinge <lb/> 
+                such <sic>a</sic> god will permitt him vnable <foreign xml:lang="la">versus hanc</foreign> <lb/> 
+                howbeit it bee profitable that it was longe <lb/> 
+                after that tyme before the devill putt that <lb/> 
+                tricke in vpon the earth As for the third and <lb/> 
+                fourth questions what menc<ex>i</ex>on the fathers and <lb/> 
+                Councell make of <foreign xml:lang="la">Maleficium versus hanc</foreign> <lb/> 
+                I answere that it maye bee that if theye bee <lb/> 
+                well searched that either somethinge to this <lb/> 
+                purpose in them or at least <foreign xml:lang="la">aliquid Anologon</foreign> <lb/> 
+                which <foreign xml:lang="la">a partitate Rationis</foreign> or by Consequence <lb/> 
+                maye serue to decide this question Butt <lb/> 
+                leaveinge this to search my mayne Answere <lb/> 
+                is that wee must distinguish of tymes For in <lb/> 
+                all the first Ages as longe as persecuc<ex>i</ex>on laye <lb/> 
+                heavie vpon the Church and before that the <lb/> 
+                Empire became Christian the Church did nott <lb/> 
+                meddle w<ex>i</ex>th questions of Marriage For the <lb/> 
+                Civill Iudges determined them whoe would nott <lb/> 
+                suffer the Church to meddle w<ex>i</ex>th anie thinge w<ex>hi</ex>ch <lb/> 
+                drewe a Consequence after it of possessions <lb/> 
+                and Inheritance as Marriage doth Naye even <lb/> 
+                diuerse hundred yeares after the Conversion of <lb/> 
+                <fw type="catch" place="bot-right">the</fw>
+                <pb n="49v"/>the Emperors the Iudgment and decision of all <lb/> 
+                such questions did still remaine <foreign xml:lang="la">in foro civile</foreign> <lb/> 
+                till the Popedome began to waxe greate and <lb/> 
+                assume or rather vsurpe to her selfe an Inde=<lb break="no"/>
+                =pendant &amp; <del rend="strikethrough">or</del> supreame Iudicatorye in all Eccle=<lb break="no"/>
+                =siasticall Causes And therefore the fathers and <lb/> 
+                Councelles hadd noe occasion to make menc<ex>i</ex>on <lb/> 
+                of that which was not <foreign xml:lang="la">forum fori</foreign> at that <lb/> 
+                tyme And besides that it is an evill Argum<ex>en</ex>t <lb/> 
+                to saie such a thinge is vnlawfull because the <lb/> 
+                fathers and Councells make noe menc<ex>i</ex>on of it <lb/> 
+                For you knowe much better the I that diuerse <lb/> 
+                and manye pointes betwixt the papists and vs <lb/> 
+                are neuer menc<ex>i</ex>oned by the fathers because <lb/> 
+                theye Could neuer have dreamed that such <lb/> 
+                questions would arrise and therefore are the <lb/> 
+                fathers only exact in such questions as are most <lb/> 
+                agitated and vsed vpon the stage in theire <lb/> 
+                tyme as <hi rend="italic">
+                    <foreign xml:lang="la">De Trinitate de duabus Christi <lb/> 
+                naturis</foreign>
+                </hi> and such like it is therefore sufficient <lb/> 
+                that there Can be nothinge found in them w<ex>hi</ex>ch <lb/> 
+                maye iustlye <add place="above">be</add> vnderstood to Contradicte this <lb/> 
+                opinion and it is very probable as is I said before <lb/> 
+                that this tricke of Maleficium hadd not then <lb/> 
+                bin putt in practise in the world and therefore <lb/> 
+                <fw type="catch" place="bot-right">nott</fw>
+                <pb n="50r"/>nott knowne nor <expan>menc<ex>i</ex>oned</expan> by them For whye <lb/> 
+                maye nott the Devill aswell finde out newe <lb/> 
+                tricks of witchcrafte when God will permitt him <lb/> 
+                as hee doth dailye devise newe sortes of Here=<lb break="no"/>
+                =sies For his malice can neuer end till the <lb/> 
+                end of tymes To the Fifte Argument my <lb/> 
+                former Answere doth alsoe serue for till the <lb/> 
+                900 yeares of Christ it maye be that that <lb/> 
+                devilish tricke Came neuer to be discouered <lb/> 
+                And you knowe the old Proverbe <foreign xml:lang="la">Ex malis <lb/> 
+                moribus bonae leges</foreign> and it is nott vnlikelye <lb/> 
+                that that tyme of darkenes gave the devill <lb/> 
+                occasion of devisinge such newe tricks Looke my <lb/> 
+                <hi rend="italic">Demonologie</hi> and yett was that lawe for wh<ex>i</ex>ch <lb/> 
+                you scite <space unit="chars" extent="10"/> made by Charles the great <lb/> 
+                whoe in soe many greate pointes as you well <lb/> 
+                knowe hadd soe greate light as I dare scarsely <lb/> 
+                terme his tyme a tyme of darknes was in <lb/> 
+                pointes of superstition I will still maynteine <lb/> 
+                (as I have euer done) <del rend="strikethrough">f</del> that <add place="above">for</add> <del rend="strikethrough">the</del> matter of order <lb/> 
+                and pollicye all the world shall neuer bee able <lb/> 
+                to find out anie other soe good and <add place="above">so</add> old order of <lb/> 
+                government to be putt in the place of it in <lb/> 
+                signe whereof there is noe well governed Com<ex>m</ex>on <lb/> 
+                wealth in all the Christian world where the <lb/> 
+                <fw type="catch" place="bot-right">Comon</fw>
+                <pb n="50v"/>
+                Com<ex>m</ex>on lawe is nott receaved to Iudge in <lb/> 
+                questions of that nature and it is Certaine <lb/> 
+                that this question nowe in hand is <add place="above">only</add> a question <lb/> 
+                of order and policie for the ground of this <lb/> 
+                question that the Essentiall pointe of Ma=<lb break="no"/>
+                =trimonye Cannot bee <del rend="strikethrough">granted</del> accompted <lb/> 
+                <foreign xml:lang="la">sine Copula</foreign> is warranted by expresse scripture <lb/> 
+                and Confessed by your self To the sixte <lb/> 
+                Argument or rather hope I feare that hope <lb/> 
+                shall proue Contrarie to faith for sure as <lb/> 
+                God is there bee devills and Devills / must <lb/> 
+                haue some power and theire power is nott in <lb/> 
+                this world For Sathan is the Prince of <lb/> 
+                Darkenes neither are the elect exempted <lb/> 
+                from his power Job was nott St Paul <lb/> 
+                Christ saieth to his disciples <unclear>Cribravit</unclear> vos <lb/> 
+                Sattanus and if the devill haue anie power <lb/> 
+                ouer the Elect it <choice>
+                    <sic/>
+                    <corr>is</corr>
+                </choice> ouer their flesh and if ouer <lb/> 
+                the flesh rather ouer the fleshliest and most <lb/> 
+                sinfull part thereof wherevnto originall sinne <lb/> 
+                is soe tyed as God before and vnder the lawe <lb/> 
+                to shewe the difficultye of purgeinge mans <lb/> 
+                originall sinne ordeined the Amputac<ex>i</ex>on of the <lb/> 
+                foreskinne of that member and to exempt those <lb/> 
+                of our profession from the power <choice>
+                    <sic/>
+                    <corr>of</corr>
+                </choice> witchcrafte <lb/> 
+                <fw type="catch" place="bot-right">is a</fw>
+                <pb n="51r"/>is a Paradoxe neuer yett mainteyned by anye <lb/> 
+                learned or wise man That the Devills power <lb/> 
+                is nott soe vniversall amongst vs that I freely <lb/> 
+                Confesse butt nott that it is vtterly restrained <lb/> 
+                Quoad nos Howe was then a Minister of <lb/> 
+                Geneua bewitched to death and howe are the <lb/> 
+                witches dailye punished by our lawes? Surelye <lb/> 
+                if they Can Charmene none butt Papists wee <lb/> 
+                are too Charitable to labour soe for avenginge <lb/> 
+                of them onlye Satan is permitted to punish <lb/> 
+                man for his breach of the second as the first <lb/> 
+                Table and therefore are wee noe lesse guiltye <lb/> 
+                then the Papistes are And if the power of witch<lb break="no"/>
+                =crafte maye reach to our life much more to a <lb/> 
+                member speciallye to a member so governed <lb/> 
+                by the fancie wherein the devill hath his prin=<lb break="no"/>
+                cipall operac<ex>i</ex>on and hee maye soe estrange the <lb/> 
+                husbandes affecc<ex>i</ex>ons from the wife that hee <lb/>
+                Cannott bee able to performe that dutie vnto <lb/> 
+                her For it is a Comon thinge in many mens <lb/> 
+                natures that theye Cannott doe that Act butt <lb/> 
+                where they love nor fight butt when theye are <lb/> 
+                angrye God keepe us therefore from puttinge the <lb/> 
+                tryall of our profession vpon Miracles Lett <lb/> 
+                the Miracle mongers live by theire owne trade <lb/> 
+                To your seventh Argument touchinge the remedies <lb/> 
+                what doe you knowe whether both parties or either <lb/> 
+                <fw type="catch" place="bot-right">of them</fw>
+                <pb n="51v"/>of them have vsed both those remedies or nott And <lb/> 
+                that that speciall remedye should be uvsed publiquely <lb/> 
+                for them I Cannott see noe necessitie for <foreign xml:lang="la">non <lb/> 
+                    inter<ex>e</ex>st Reipublica ne Eccl<ex>es</ex>ia</foreign> and private <lb/> 
+                persons are Comaunded to vse theire fastinge <lb/> 
+                and Almes secretlye and in private besides <lb/> 
+                that noe such Care is likelye to succeede well <lb/> 
+                vnlesse the parties owne heart and Affections <lb/> 
+                bee sett vpon it And as for your Conclusion <lb/> 
+                vpon the Incom<ex>m</ex>odum either vpon his person <lb/> 
+                or the example I can see none in either For
+                <del rend="strikethrough">his person on the Example</del> as to this Couple <lb/> 
+                betweene whome Marriage was neuer truly <lb/> 
+                accomplished theye will peradventure both of <lb/> 
+                them by the declaratiry of this Nullitie be made <lb/> 
+                Capable to accomplish marriage w<ex>i</ex>th others w<ex>hi</ex>ch <lb/> 
+                theye Could nott doe betwixt themselues wherein <lb/> 
+                they maye live to the satisfacc<ex>i</ex>on of their heartes <lb/> 
+                and enioye the blessinge of procreac<ex>i</ex>on of Children <lb/> 
+                And as to the example the lawe shall be fulfilled <lb/>
+                w<ex>i</ex>th Admin<ex>i</ex>strac<ex>i</ex>on of Iustice w<ex>hi</ex>ch Cannott serue <lb/> 
+                for an example or president of Counterfeited <lb/> 
+                Nullities hereafter <foreign xml:lang="la">Notorietas facti</foreign> or rather <lb/> 
+                <foreign xml:lang="la">non facti</foreign> is <foreign xml:lang="la">lucedarior</foreign> in this Case besides the <lb/> 
+                Mayne legall probac<ex>i</ex>ons and Confessions of the <lb/> 
+                parties which haue been taken in this processe <lb/> 
+                <fw type="catch" place="bot-right">whereas</fw>
+                <pb n="52r"/>whereas by the <del rend="strikethrough">processe</del> Contrarye if theye shall<lb break="no"/>
+                =be forciblely kepte together theire name and <lb/> 
+                shaddowes maye be kepte together butt neuer <lb/> 
+                their persons or affecc<ex>i</ex>ons and theye shall be <lb/> 
+                forced to liue together either in perpetuall misery <lb/> 
+                or scandall or both and what such a forced Con=<lb break="no"/>
+                =tinencie Can availe the Monkes the Monkes Con=<lb break="no"/>
+                tinencie Can teach vs And for a president in <lb/> 
+                tyme to Come it Can reach noe further then to <lb/> 
+                open a waye of lawfull releife for anie <lb/> 
+                parties that shall Chaunce to bee distressed <lb/> 
+                in that sorte And as for your extract of our <lb/> 
+                late divines opinions vpon this question I <lb/> 
+                Confesse I Cannott gesse what your intent <lb/> 
+                was in sendeinge them vnto mee for theye <lb/> 
+                all agree in termes with myne opinion <lb/> 
+                but there is such a thinge as Maleficium and <lb/> 
+                <foreign xml:lang="la">Maleficiale versus hanc</foreign> and your very inter=<lb break="no"/>
+                =lyned passages proue it Cleerest and for theire <lb/> 
+                Advise Concerninge the Remedies that is butt <lb/> 
+                <foreign xml:lang="la">Consilium non ius nec decretum</foreign> not impoisinge <lb/> 
+                a necessitye butt is to bee vsed by discrec<ex>i</ex>on as <lb/> 
+                occasion shall serve or require As for the <lb/> 
+                Legall Doubtes of formallitye theye Concerne none <lb/> 
+                of your Callinge if your Conscience be resolued <lb/> 
+                in pointe of Divinity it is your parte to give yo<ex>u</ex>r <lb/> 
+                <fw type="catch" place="bot-right">Consent</fw>
+                <pb n="52v"/>Consent to the Nullitye and lett the Lawyers <lb/> 
+                take the burthen of makeinge it formall And <lb/> 
+                as for the Trienniall probac<ex>i</ex>on I hope noe <lb/> 
+                man Can bee soe blinde as to make a doubt <lb/> 
+                whether it be taken before or after the suite <lb/> 
+                began &amp; in Conclusion our divines soluc<ex>i</ex>on of this <lb/> 
+                question proue Clearely that this resoluc<ex>i</ex>on <lb/> 
+                vpon this Doubt how ever it was in blindnes <lb/> 
+                as you thinke yet it is nowe approved in <lb/> 
+                tyme of greatest light and paritye of the <lb/> 
+                profession of the Gospell To Conclude then <lb/> 
+                if this maye satisfie your doubtes I will <lb/> 
+                end with our Saviours wordes to Sainte <lb/> 
+                Peter <foreign xml:lang="la">Et Cum Conversus fueris Confirma <lb/> 
+                    fratres tuos</foreign> For on my Conscience all <lb/> 
+                the doubtes I haue yett seene made in this <lb/> 
+                busines are nothinge but <foreign xml:lang="la">nodus in Scripo querere</foreign>/
+            </p>
+        </body>
+    </text>
+</TEI>

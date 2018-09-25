@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petition to the King Presented at the Assizes of York</title>
+            <author>Gentry of Yorkshire</author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_489">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 489</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_7162">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 7162</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="SHC_1248_1">
+               <country>United Kingdom</country>
+               <settlement>Woking</settlement>
+               <repository>Surrey History Centre</repository>
+               <collection/>
+               <idno>1248/1</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="YorkshirePetition1640v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 63r–64r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS7162.xml">British Library, Harley MS 7162, ff. 45x–50x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="YorkshirePetition1640v3.xml">Transcript</ref> of <ref type="ms" target="../mss/SHC_1248_1.xml">Surrey History Centre,  1248/1, item 6</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="page" from="128" to="129">128-129</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1640-07-28">28 July 1640</date>
+            <placeName corresp="../places/places.xml#PL0015">York</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>subsidies</term>
+               <term>Petition of Right</term>
+               <term>state finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-30" who="#SV" status="proofread"/>
+            <change when="2018-01-25" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="64r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f064r/harley_ms_4931_f064r.jpg"/>
+         <head rend="align-centre">
+            To the Kings most Excellent Ma<ex>jes</ex>ty <lb/>
+            The Humble Petition of <ex>th</ex>e Gentry in yo<ex>u</ex>r Ma<ex>jes</ex>tyes County of Yorke <lb/>
+            now assembled at <ex>th</ex>e Assizes of Yorke Jul. 28. 1640.
+         </head>
+         <p rend="outdent">  
+            May it please yo<ex>u</ex>r Ma<ex>jes</ex>ty.
+         </p>
+         <p rend="indent">
+            Yo<ex>u</ex>r most humble subj<ex>ec</ex>ts show to yo<ex>u</ex>r most sacred Ma<ex>jes</ex>ty, <ex>tha</ex>t in all humility <lb/>
+            this County hath endeavoured to fullfill yo<ex>u</ex>r Ma<ex>jes</ex>tyes Com<ex>m</ex>ands w<ex>i</ex>th the forwardest of yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tyes Subiects, &amp; <ex>th</ex>e last yeare in the execution of yo<ex>u</ex>r Ma<ex>jes</ex>tyes royall com<ex>m</ex>and about <ex>th</ex>e <lb/>
+            military affaires did expend 100000 l to o<ex>u</ex>r impoverishm<ex>en</ex>t &amp; farre aboue the propor-<lb break="no"/>
+            tion of other Counties, w<ex>hi</ex>ch, although at <ex>tha</ex>t time we w<ex>e</ex>r<ex>e</ex> willing out of o<ex>u</ex>r desires to serue yo<ex>u</ex>r <lb/>
+            ma<ex>jes</ex>ty to doe, yet for the future the burden is so heavy <ex>tha</ex>t we neither can, or are <lb/>
+            able to beare it; now upon this o<ex>u</ex>r cheerfullnes to serue yo<ex>u</ex>r Ma<ex>jes</ex>ty we hoped to <lb/>
+            haue had equall favour w<ex>i</ex>th other Counties.
+         </p>
+         <p rend="outdent">
+            But so it is (most Gracious Soveraigne) to o<ex>u</ex>r greate griefe, &amp; as we conceiue to the <lb/>
+            greate disservice of yo<ex>u</ex>r Ma<ex>jes</ex>ty, we finde o<ex>u</ex>r selues oppressed with the billetting of unruly <lb/>
+            souldiers, whose speeches, &amp; actions tend to the burning of o<ex>u</ex>r villages, &amp; houses, &amp; to whose vio-<lb break="no"/>
+            lence, &amp; insolencies we are daily subiect, as we cannot say we possesse o<ex>u</ex>r wiues, children, <lb/>
+            and estates in safety.
+         </p>
+         <p rend="indent">
+            Wherefore we are emboldned to pr<ex>e</ex>sent these o<ex>u</ex>r complaints, besee-<lb break="no"/>
+            ching yo<ex>u</ex>r Ma<ex>jes</ex>ty <ex>tha</ex>t as the billetting of soldiers in any of yo<ex>u</ex>r Subj<ex>ec</ex>ts houses a-<lb break="no"/>
+            gainst <ex>thei</ex>r will, is contrary to the ancient lawes of the kingdome confirmed by <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ty in the petition of right; We most humbly desire yo<ex>u</ex>r <del rend="strikethrough">most</del> sacred <lb/>
+            Ma<ex>jes</ex>ty, <ex>tha</ex>t this insupportable burden may be taken off from us, least by <lb/>
+            their insolencies some such sad accident may happen, as will be much <lb/>
+            displeasing to yo<ex>u</ex>r sacred Ma<ex>jes</ex>ty, &amp; yo<ex>u</ex>r loyall, &amp; obedient Subiects.
+         </p>
+         <p rend="align-right">
+            Who will humbly pray &amp;c.
+         </p>
+         <p>
+            <cb/>
+            Phill. Wharton. <lb/>
+            Fer. Ferfaix. <lb/>
+            Henry Belloses. <lb/>
+            Wm Savill. <lb/>
+            Fran. Wrothley. <lb/>
+            Thom. Gower. <lb/>
+            Io. Hotham. <lb/>
+            Ed. Stanhop. <lb/>
+            Hen. Griffith. <lb/>
+            Wm Sheffield. <lb/>
+            Rich. Dartey. <lb/>
+            Io. Ramsden.
+            <cb/>
+            Hen. Cholnely. <lb/>
+            Hen. Bechell. <lb/>
+            Wm Strickland. <lb/>
+            Phil. Stapleton. <lb/>
+            Geo. Wentworth. <lb/>
+            Thom. Rennington. <lb/>
+            Thom. Mecham. <lb/>
+            Io. Hotham iu. <lb/>
+            Th. Power iu. <lb/>
+            Rob. Strickland. <lb/>
+            Io. Legann. <lb/>
+            Geo. Butler.
+            <cb/>
+            Fra. Mounton. <lb/>
+            Hen. Cholmley. <lb/>
+            Geo. Trotter. <lb/>
+            Hen. Darly. <lb/>
+            Rich. Rennington. <lb/>
+            Wm Frankland. <lb/>
+            Tho. Hubblewaite. <lb/>
+            Chris. Peachphay. <lb/>
+            Io. Peeresey. <lb/>
+            Br. Stapleton. <lb/>
+            Ing. Hopton. <lb/>
+            Hen. Anderson.
+            <cb/>
+            Geo. Crutbey. <lb/>
+            Geo. Marwood. <lb/>
+            Thom. Hesech. <lb/>
+            Io. Auloby. <lb/>
+            Chris. Ledgend. <lb/>
+            Wm Mallery. <lb/>
+            Io. Inglebey <lb/>
+            Ed. Gower. <lb/>
+            Mar. Necchefe. <lb/>
+            with others.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f064r/harley_ms_4931_f064r.jpg"/>
+   </facsimile>
+</TEI>

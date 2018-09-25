@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laudian Articles</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_21935">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 21935</idno>
+                <msName>Nehemiah Wallington book</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <ref target="#BL_Add_MS_35331"/>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="LaudianArticles1633v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS21935.xml">British Library, Additional MS 21935, ff. 10r–11r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="LaudianArticles1633v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, f. 62v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1633-06-11">11 June 1633</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>ecclesiastical conflict</term>
+               <term>liturgy</term>
+               <term>sacrament</term>
+               <term>baptism</term>
+               <term>election</term>
+               <term>Catholic Church</term>
+               <term>ministry</term>
+               <term>church ceremony</term>
+               <term>episcopacy</term>
+               <term>church courts</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-27" who="#SV" status="proofread"/>
+            <change when="2018-01-26" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="52v" facs="/bl/add_ms_35331/add_ms_35331_f052v/add_ms_35331_f052v.jpg"/>
+         <p>
+            <add place="LM">
+               <hi rend="underline">Subscription.</hi>
+            </add>
+            vrged, or propounded to one upo<ex>n</ex> theise articles.
+         </p>
+         <p>
+            1. That B<ex>ishop</ex>s are Iure divino.
+         </p>
+         <p>
+            2. That they haue power to appointe ceremonies in the Churche.
+            <add place="LM">
+               (☼) <lb/>
+               <hi rend="underline">
+                  <ref type="hyperlink" target="../texts/LaudianArticles1633v3.xml">see fol: 188.</ref>
+               </hi>
+            </add>
+         </p>
+         <p>
+            3. That every Christian is bounde to submitte to the determination <lb/>
+            of the churche (that is at it was explaned to the goverm<ex>en</ex>t of the <lb/>
+            churche) in all poyntes, though contrary to a mans owne p<ex>ri</ex>vate <lb/>
+            opinion: other 2. there were of the same stampe. Others haue <lb/>
+            bynn <unclear reason="damage" cert="medium">examined</unclear> whether they constantly bowe att the name of <lb/>
+            <add place="LM">
+               Iesus Syracke
+               Iosua called
+               Iesus hebr<ex>ew</ex>
+            </add>
+            Iesus: and what they thinck of keepinge of lente &amp; fishdaies <lb/>
+            and whether they doe observe those dayes or not: others whether <lb/>
+            they beleive all infantes baptised to bee in the state of salva:<lb break="no"/>
+            tion./
+         </p>
+         <gap reason="elision" extent="1 paragraph"/>
+         <p rend="indent">
+            August 4th 1633: An<ex>n</ex>o 9 <del rend="strikethrough">Jac</del> Caroli RR
+         </p>
+         <p>
+            <add place="LM">
+               B<ex>ishop</ex> of Canterbury
+            </add>
+            Doctor Abbottes archb<ex>ishop</ex> of Canterbury died the 4th day of August 1633 <lb/>
+            and the same day Doctor Lawde B<ex>ishop</ex> of london obtayned a <lb/>
+            <unclear>couge de lidr</unclear> to bee chosen in his roome./
+         </p>
+         <p rend="indent">
+            <hi rend="underline">Religion labored to bee suppressed.</hi>
+         </p>
+         <p>
+            1: by subscription to the book of com<ex>m</ex>on p<ex>ray</ex>er, Articles of <del rend="strikethrough">1562</del> 1562. &amp; homelies./
+            <add place="LM">
+               8. by settinge vpp <lb/>
+               of churchales./
+            </add>
+         </p>
+         <p>
+            2: by citing to b<ex>ishop</ex>s courtes such as resorted to sermons out of the owne p<ex>ar</ex>ishes
+         </p>
+         <p>
+            3: by givinge libertie to vse recreations vpon the lords dayes./
+         </p>
+         <p>
+            4: by silencinge of ministers, vpo<ex>n</ex> p<ex>re</ex>tended causes. &amp; speakinge ag<ex>ains</ex>t Iuges./
+         </p>
+         <p>
+            <add place="LM">
+               (☼)
+            </add>
+            5. by casting of the nick name of Puritan upo<ex>n</ex> p<ex>ro</ex>fessors that are <unclear>caytionable</unclear>
+         </p>
+         <p>
+            6. by censuringe in starr chamber &amp; high com<ex>m</ex>ission such as pull downe painted <lb/>
+            glasse wyndowes in Churches as Mr shervill of Salisbury./
+         </p>
+         <p>
+            7. by exemptinge the clergie from secular Iuristidiction.
+         </p>
+         <p>
+            8/ by subscription to the Archb<ex>ishop</ex> Lawde his 10: articles.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f052v/add_ms_35331_f052v.jpg"/>
+   </facsimile>
+</TEI>

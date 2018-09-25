@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to Buckingham</title>
+            <author>
+               <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS37.xml">British Library, Harley MS 37, ff. 2r–35v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72396.xml">British Library, Additional MS 72396</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2232.xml">British Library, Harley MS 2232, ff. 38r–68v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_OSB_MSS_28.xml">Beinecke Library, OSB MSS 28, Box 2, Folder 17, item 21, 339–340</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b34.xml">Beinecke Library, Osborn b34, pp57–80</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm424.xml">Cambridge University Library,  MS Mm.4.24, ff. 1r–29v, 35v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_981.xml">Houghton Library,  fMS Eng 981, ff. 58–86r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_21.xml">Woburn Abbey,  MS 21, p75</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_23.xml">Woburn Abbey,  MS 23, pp1–9</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+                  </author>
+                  <title>Considerations touching a warre with Spaine</title>
+                  <date when="1629">1629</date>
+                  <idno type="STC">1126</idno>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+                  </author>
+                  <editor>William Rawley</editor>
+                  <title>Certaine Miscellany Works</title>
+                  <date when="1629">1629</date>
+                  <idno type="STC">1124</idno>
+                  <biblScope unit="page" from="1" to="76">1-76</biblScope>
+                  <biblScope unit="sigs" from="B1r" to="L3v">B1r-L3v</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+                  </author>
+                  <title>Certain Miscellany Works</title>
+                  <date when="1670">1670</date>
+                  <idno type="Wing">B275</idno>
+                  <biblScope unit="page" from="1" to="24">1-24</biblScope>
+                  <biblScope unit="sigs" from="A3r" to="D2v">A3r-D2v</biblScope>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">The Harleian Miscellany</title>
+                  <edition>1st ed.</edition> 
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="page" from="76" to="92">76-92</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1624">c.1624</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>foreign policy</term>
+               <term>Spain</term>
+               <term>war</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

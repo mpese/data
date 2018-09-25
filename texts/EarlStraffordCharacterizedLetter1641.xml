@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Strafford Characterized in a Letter</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_3383.xml">British Library, Egerton MS 3383, ff. 16r–57v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_1009.xml">British Library, Sloane MS 1009, ff. 127r–</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_924.xml">Bodleian Library,  MS Rawlinson D 924, ff. 136r–141v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_G_b_2.xml">Folger Shakespeare Library,  MS G.b.2, ff. 71r–82x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NLA_VA_Forster_48_G_2.xml">National Library of Art, V&amp;A, Forster 48.G.2, Item 5/3–9</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>The Earle of Strafford characterized, in a letter sent to a friend in the countrey</title>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">E82</idno>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">The Harleian Miscellany</title>
+                  <edition>1st ed.</edition> 
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="page" from="43" to="45">43-45</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1641">1641</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

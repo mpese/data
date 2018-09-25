@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 787</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_787">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 787</idno>
+                <msName>Papers found in William Dell's study, Laud's secretary</msName>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>1r-v</locus>
+                   <title when="1638-05-26">Argument Concerning Ship Money</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0156">Sir John Denham</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DenhamArgumentConcerningShipMoney1638.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>9v</locus>
+                   <title when="1607">Declaration of the Diggers of Warwickshire</title>
+                   <author/>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DeclarationDiggersWarwickshire1607.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>59r</locus>
+                   <title when="1618">Letter to Sir Robert Carr</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterCarr.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>60r-v</locus>
+                   <title when="1603">Letter to His Wife</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterHisWife1603.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>86r-87v</locus>
+                   <title when="1584">Advice to His Son</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0145">William Cecil, Lord Burghley</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CecilAdviceSon.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>90v-93r</locus>
+                   <title when="1604">Letters</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0143">Robert Cecil, 1st Earl of Salisbury</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0144">Matthew Hutton, Archbishop of York</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CecilHuttonLetters1604.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>98r-v</locus>
+                   <title when="1640">Lords' Petition</title>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0061">Francis Russell, 4th Earl of Bedford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0062">William Seymour, 2nd Earl of Hartford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0063">Robert Devereux, 3rd Earl of Essex</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0064">Edmund Sheffield, 1st Earl of Mulgrave</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0065">Robert Rich, 2nd Earl of Warwick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0066">Oliver St John, 1st Earl of Bolingbroke</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Say and Sele</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0067">Henry Montagu, Viscount Mandeville</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0050">Robert Greville, Second Baron Brooke of Beauchamps Court</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0068">Edward Howard, First Baron North of Escrick</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LordsPetition1640v1.xml" type="witness"/>
+                   <link target="../texts/LordsPetition1640v2.xml" type="witness"/>
+                   <link target="../texts/LordsPetition1640v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

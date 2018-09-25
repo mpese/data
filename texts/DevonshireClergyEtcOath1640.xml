@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceptions Against the Etcaetera Oath</title>
+            <author>
+               Devonshire Clergy
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_57929">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 57929</idno>
+               <msName>Register of Business for the Scots Commissioners at Ripon</msName>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_57929.xml">British Library, Additional MS 57929, ff. 55v–56v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 155r–164v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb157.xml">Beinecke Library, Osborn fb157, item 9</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_749.xml">Bodleian Library,  MS Ashmole 749, item 7</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_A_346.xml">Bodleian Library,  MS Rawlinson A 346, ff. 237r–238r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_BRY_2.xml">Parliamentary Archives,  BRY/2, ff. 119r–20x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /87 [f.183v]</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName corresp="../places/places.xml#PL0018">Devonshire</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>commentary</term>
+               <term>articles</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+               <term>Oath of Supremacy</term>
+               <term>Oath of Allegiance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-30" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="59r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f059r/harley_ms_4931_f059r.jpg"/>
+         <head>
+            Exceptions against The new Oath <lb/>
+            in ye Canons from Devonshire
+         </head>
+         <p>
+            <add place="LM">
+               1.
+            </add>
+            That they are bound to take it willingly, w<ex>hi</ex>ch they cannot doe <lb/>
+            w<ex>i</ex>th a safe conscience, &amp; so shall be periured ipso facto.
+         </p>
+         <p>
+            <add place="LM">
+               2.
+            </add>
+            That they must sweare sincerely, w<ex>i</ex>thout any mentall reservation, <lb/>
+            yet the (&amp;c) in the oath reserveth, or implieth somewhat more <lb/>
+            then is expressed, w<ex>hi</ex>ch they must conceiue, or understand.
+         </p>
+         <p>
+            <add place="LM">
+               3.
+            </add>
+            That they must acknowledge both Doctrine, &amp; Discipline of o<ex>u</ex>r <lb/>
+            Church to containe all things necessary to salvation, w<ex>hi</ex>ch is <lb/>
+            not true of the Discipline.
+         </p>
+         <p>
+            <add place="LM">
+               4.
+            </add>
+            That they are tied never to giue <del rend="strikethrough">any</del> consent to any altera-<lb break="no"/>
+            tion of the sayd discipline, though the King, &amp; state shoud en-<lb break="no"/>
+            ioyne <ex>the</ex>m <ex>the</ex>r<ex>e</ex>unto.
+         </p>
+         <p>
+            <add place="LM">
+               5.
+            </add>
+            That the oath crosseth, or contradicteth the Oath of Allegiance, <lb/>
+            &amp; Supremacy, w<ex>hi</ex>ch they haue allready taken, because if the King <lb/>
+            by Parliam<ex>en</ex>t shold disanull any part of Ecclesiasticall Discipline, <lb/>
+            or by a Synod shall alter it, they ar by taking this oath ne-<lb break="no"/>
+            ver to consent.
+         </p>
+         <p>
+            <add place="LM">
+               6.
+            </add>
+            That it is a flatt band against the power of Parliam<ex>en</ex>ts, because <lb/>
+            the Clergy can constitute noe canons, much lesse make, or im-<lb break="no"/>
+            pose new Oaths, unles the Parliam<ex>e</ex>t confirme <ex>the</ex>m, &amp; <ex>the</ex>r<ex>e</ex>fore they <lb/>
+            thinke it a proiect to <sic>tr</sic> trippe up the heeles of all parliaments <lb/>
+            for ever.
+         </p>
+         <p>
+            <add place="LM">7</add>
+            That it clipps the wings of royall pr<ex>e</ex>rogative, &amp; spirituall su-<lb break="no"/>
+            premacy, barring his Ma<ex>jes</ex>ty, &amp; his Successours from altering any <lb/>
+            thing in Church Governm<ex>en</ex>t, either by Synod, or Convocation, or <lb/>
+            Parliam<ex>en</ex>t.
+         </p>
+         <p>
+            <add place="LM">8.</add>
+            The maine foundation, w<ex>hi</ex>ch the Clergy builds on, is the <lb/>
+            generall resolution of the Lawyers, That noe Oath can be <lb/>
+            ordained, nor any authorized to giue it, unles it be first <lb/>
+            established by Parliament./.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f059r/harley_ms_4931_f059r.jpg"/>
+   </facsimile>
+</TEI>

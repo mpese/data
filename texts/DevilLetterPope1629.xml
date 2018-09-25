@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Copy of a Letter from the Devil to the Pope</title>
+            <author>
+               <persName corresp="../people/people.xml#P0003">The Devil</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_5108">
+                    <country>United Kingdom</country>
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Harley</collection>
+                    <idno>MS 5108</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22587">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22587</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22587.xml">British Library, Additional MS 22587, ff. 20v–21r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, ff. 69r–70r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS5108.xml">British Library, Harley MS 5108, ff. 137r–144v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_poetry_160.xml">Bodleian Library,  MS Rawlinson poetry 160*, ff. 159v–161v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_poetry_26.xml">Bodleian Library,  MS Rawlinson poetry 26, ff. 9v–10r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg413.xml">Cambridge University Library,  MS Gg.4.13, pp78–0</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_275.xml">Folger Shakespeare Library,  MS V.a.275</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7974.xml">Huntington Library,  EL 7974</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7975.xml">Huntington Library,  EL 7975</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Wellcome_Library_MS_805.xml">Wellcome Library,  MS 805, ff. 92v–93v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0060">
+                        <forename>J[ohn]</forename>
+                        <surname>M[ilton]</surname>
+                     </persName>
+                  </author>
+                  <title>Newes from Hell, Rome and the Inns of Court</title>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">M42A</idno>
+                  <biblScope unit="page" from="1" to="7">1-7</biblScope>
+                  <biblScope unit="sigs" from="A2r" to="B1r">A2r-B1r</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0060">
+                        <forename>J[ohn]</forename>
+                        <surname>M[ilton]</surname>
+                     </persName>
+                  </author>
+                  <title>News from Hell, Rome, and the Innes of Court</title>
+                  <date when="1641">1642</date>
+                  <idno type="Wing">M2131</idno>
+                  <biblScope unit="page" from="8" to="10">1-7</biblScope>
+                  <biblScope unit="sigs" from="A2r" to="B1r">A2r-B1r</biblScope> 
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">The Harleian Miscellany</title>
+                  <edition>1st ed.</edition> 
+                  <biblScope unit="volume">7</biblScope>
+                  <biblScope unit="page" from="202" to="205">202-205</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date notAfter="1629" when="1629">1629 or earlier</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>confessional conflict</term>
+               <term>diplomacy</term>
+               <term>Bohemia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-30" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="33v" facs="/bl/add_ms_22959/add_ms_22959_f033v/add_ms_22959_f033v.jpg"/>
+         <gap reason="elision" extent="multiple lines"/>
+         <head>
+            <seg rend="align-centre curly-bracket-R">
+               A Copie of a letter sent from <lb/>
+               the devill to the Pope.
+            </seg> 
+         </head>
+         <opener rend="align-centre">
+            <hi rend="italic">To the most pious uertuous &amp; religious Primate <lb/>
+            of all Christendome Vrban 8 now Pope of <lb/>
+            Rome and Vicegerent here upon earth Lucifer <lb/>
+            god of the Gehenna, King of Tartarus, Prince <lb/>
+            of Abyssus, Commander of the infernall furies <lb/>
+               sendeth greeting.</hi>
+         </opener>
+         <p>
+            Most reverend &amp; deere sonne whose holines I reverence,<lb/>
+            whose p<ex>er</ex>son I adore, whose policie I wonder at, I can=<lb break="no"/>
+            not but applaud extoll &amp; commende thee my deere <lb/>
+            sonne for <del rend="strikethrough">the</del> thy extraordinary greate meanes, costes <lb/>
+            &amp; charges in the preparation of so great forces against <lb/>
+            the Rebellious heretikes fro<ex>m</ex> the Rom<ex>an</ex> Catholike religion, <lb/>
+            I meane the British <del rend="strikethrough">Danish</del> Irish Danish &amp; Flemish <lb/>
+            heretikes, the particulers of which Course I haue in <lb/>
+            writing, &amp; I heare say likewise that they are published <lb/>
+            to the whole world Therefore followe it <add place="above">nowe</add> with all cele=<lb break="no"/>
+            ritie &amp; expedition. Now be the dayes to conquer, nowe <lb/>
+            is the time to strike/ God hath forsaken them, theire land <lb/>
+            is impoverished, theire ships tattered, theire state is <lb/>
+            weakened, theire Parliament is ended &amp; nothing amended,
+            <pb n="34r" facs="/bl/add_ms_22959/add_ms_22959_f034r/add_ms_22959_f034r.jpg"/>
+            the Nobles disquieted, theire Gentry discouraged, the Com=<lb break="no"/>
+            mons discontented &amp; the whole kingdome divided And the <lb/>
+            Rom<ex>an</ex> Chatholikes in England gasping &amp; gaping for <del rend="strikethrough">the arrivall</del> <lb/>
+            yo<ex>u</ex>r arrivall Therefore strike nowe or else for ever here=<lb break="no"/>
+            after hold thine hand. By this meanes thou mai'ste roote <lb/>
+            out &amp; extirpate all malitious turbulent &amp; evill affected <lb/>
+            spirits against the sea of Rome. There are but 5 Nations <lb/>
+            thou needest to feare in the world. The k<ex>ing</ex> of greate Brit=<lb break="no"/>
+            taine, the king of Denmarke <hi rend="underline">/the king of Sweden/</hi> the Palsgraue <lb/>
+            <add place="LM">
+               <hi rend="underline">else there is <lb/>not five.</hi>
+            </add>
+            falsly vsurping the title of king of Bohemia, &amp; the Rebellious <lb/>
+            Hollanders. But what are those against thee, but so many <lb/>
+            molehilles to mountaines<del rend="strikethrough">?</del> &amp; no more in our handes then a <lb/>
+            lambe in the pawes of a lyon? Yet it were not amisse to <lb/>
+            practise some deadly stratagem by poulder or poyson, by <lb/>
+            my servants the seminaries &amp; Iesuites, especially vpon the <lb/>
+            k<ex>ing</ex> of greate Brittaine &amp; the Palsgraves children (king <lb/>
+            Henry 5s faces &amp; Queene Elisabeths hearty apes) for if <lb/>
+            these be not cut of in the blossomes but continue to be ripe <lb/>
+            fruite, it is to be feared, they will doe much harme. And <lb/>
+            I heare say that my servant <hi rend="italic">Spinola</hi> hath receiued my Sa=<lb break="no"/>
+            craments &amp; sworne to St Iames by his <foreign xml:lang="la">Agnus dei</foreign> that he <lb/>
+            would spend his best bloud in England against the Revolters <lb/>
+            from the Romish church, which I, Cruell Fortune, &amp; Fate con=<lb break="no"/>
+            spire so to effecte. It is my desire that his hearte may <lb/>
+            be baked in a pastie &amp; sent to the Nunnes at St Lucas, <lb/>
+            his bones may be buried in the Cathedrall <del rend="strikethrough">chu</del> Church of <lb/>
+            Civill &amp; his stones to be conveyed to my handmaide the <lb/>
+            Archdutches for a token of his loue. And so my deere sonne <lb/>
+            I bidde the farewell. 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f033v/add_ms_22959_f033v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f034r/add_ms_22959_f034r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,2577 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration How the Kings of England have from Time to Time Supported and Repaired their Estates, Collected out of the Records of the Tower</title>
+            <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+               <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48063.xml">British Library, Additional MS 48063, ff. 28r–57v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1858.xml">British Library, Harley MS 1858, ff. 70r–95r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72414.xml">British Library, Additional MS 72414, ff. 35r–54v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Cotton_MS_Cleopatra_F_VI.xml">British Library, Cotton MS Cleopatra F VI, ff. 40v–51r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Cotton_MS_Cleopatra_F_VI.xml">British Library, Cotton MS Cleopatra F VI, ff. 53r–65v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Cotton_MS_Cleopatra_F_VI.xml">British Library, Cotton MS Cleopatra F VI, ff. 66r–70v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_158.xml">British Library, Harley MS 158, ff. 188r–196r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_160.xml">British Library, Harley MS 160, ff. 125r–148v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_151.xml">British Library, Stowe MS 151, ff. 186r–211x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb178.xml">Beinecke Library, Osborn fb178, ff. 246v–270v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_119.xml">Bodleian Library,  MS Carte 119, ff. 109r–124v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_c_240.xml">Bodleian Library,  MS Eng. hist. c. 240, ff. 2r–27v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_A_141.xml">Bodleian Library,  MS Rawlinson A 141, ff. 24r–50x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ii59.xml">Cambridge University Library,  MS Ii.5.9, ff. 1r–24v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7976.xml">Huntington Library,  EL 7976, item 9</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_55603.xml">Huntington Library,  HM 55603, ff. 11r–12v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_308.xml">Senate House, University of London,  MS 308, ff. 1x–29x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 61r–64v</ref>
+                    </bibl>
+                </listBibl>
+            <bibl>
+               <author>
+                  <persName corresp="../people/people.xml#P0001">
+                     <forename>Robert</forename>
+                     <surname>Cotton</surname>
+                  </persName>
+               </author>
+               <title>Cottoni Posthuma</title>
+               <pubPlace>London</pubPlace>
+               <date when="1651">1651</date>
+               <idno type="Wing">C6500</idno>
+               <biblScope unit="page" from="161" to="200">161-200</biblScope>
+               <biblScope unit="sigs" from="M1r" to="O5v">M1r-O5v</biblScope> 
+            </bibl>
+            <bibl>
+               <author>
+                  <persName corresp="../people/people.xml#P0001">
+                     <forename>Robert</forename>
+                     <surname>Cotton</surname>
+                  </persName>
+               </author>
+               <title>Cottoni Posthuma</title>
+               <pubPlace>London</pubPlace>
+               <date when="1672">1672</date>
+               <idno type="Wing">C6486</idno>
+               <biblScope unit="page" from="161" to="202">161-202</biblScope>
+               <biblScope unit="sigs" from="M1r" to="O5v">M1r-O5v</biblScope> 
+            </bibl>
+            <bibl>
+               <author>
+                  <persName corresp="../people/people.xml#P0001">
+                     <forename>Robert</forename>
+                     <surname>Cotton</surname>
+                  </persName>
+               </author>
+               <title>Cottoni Posthuma</title>
+               <pubPlace>London</pubPlace>
+               <date when="1679">1679</date>
+               <idno type="Wing">C6487aA</idno>
+               <biblScope unit="page" from="151" to="202">151-202</biblScope>
+               <biblScope unit="sigs" from="M1r" to="O4v">M1r-O4v</biblScope> 
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1612">1612</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+            <language ident="FR">French</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>declaration</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>royal household</term>
+               <term>royal estates</term>
+               <term>state finance</term>
+               <term>offices</term>
+               <term>officeholding</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-01-29" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="62r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f062r/hargrave_ms_311_f062r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">A Declaration</hi> how <lb/>
+            Kings of England haue from tyme to <lb/>
+            tyme supported and repaired their estates <lb/>
+            Collected out of the Records of the Tower <lb/>
+            by S<ex>i</ex>r Rob<ex>er</ex>t Cotten Knight and Barronett <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Anno nono Jacobi Regis</hi>
+                </foreign>
+         </head>
+         <p rend="align-centre">
+            The King<ex>es</ex> of England have supported <lb/>
+            and repaired their Estates either
+         </p>
+         <p>
+            <list rend="numbered">
+               <item n="1">
+                  <seg rend="curly-bracket-R">
+                     By an annuall p<ex>ro</ex>porc<ex>i</ex>oninge their <lb/>
+                     issues and expenses with their certein <lb/>
+                     and casuall Revenewes And that <lb/>
+                     either by
+                  </seg>
+                  <add place="RM">
+                     1 Advise of their <lb/>
+                     priuie Councell <lb/>
+                     or <lb/>
+                     2 Parlia<ex>en</ex>t
+                  </add>
+               </item>
+               <item n="2">
+                  <seg rend="curly-bracket-R">
+                     By abateing and reformeing the <lb/>
+                     Excesse of
+                  </seg>
+                  <add place="RM">
+                     1 houshold <lb/>
+                     2 Retynue &amp; Favorit<ex>es</ex> <lb/>
+                     3 Guifts &amp; Rewards
+                  </add>
+               </item>
+               <item n="3">
+                  <seg rend="curly-bracket-R">
+                     By raiseing of money &amp; improueing the <lb/>
+                     Revenewes of the Crowne And that <lb/>
+                     either by the
+                  </seg>
+                  <add place="RM">
+                     1 Grant of the <lb/>
+                     Subject <lb/>
+                     or <lb/>
+                     2 Power absolute <lb/>
+                     in the sou<ex>er</ex>aigne
+                  </add>
+               </item>
+            </list>
+         </p>
+         <p rend="indent">
+            First For proporc<ex>i</ex>oninge the issues <lb/>
+            and expences with their certeine and <lb/>
+            <unclear>sasuall</unclear> Reuenewe
+         </p>
+         <p>
+            H:4: a<ex>nn</ex>o: 12 when the reuenewe &amp; p<ex>ro</ex>ffitts of the <lb/>
+            Kingdome, together w<ex>i</ex>th the subsidie of w<add place="above">o</add>oll and <lb/>
+            tenth of the Clergie amounted to noe more then <lb/>
+            48000l of w<ex>hi</ex>ch 24000<sic>l</sic> markes were allotted for <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  exrot origini <lb/>
+                  inter acta Cone <lb/>
+                  H 4 marked <lb/>
+                  <unclear>p<ex>er</ex>
+                       </unclear>
+               </foreign>
+            </add>
+            expence of house, most of the rest to the gaurd <lb/>
+            of the Sea, and defence of this Kingdome, the <lb/>
+            Realme of Ireland and Dominions of France. <lb/>
+            In this estimate <ex>th</ex>e p<ex>ro</ex>ffitts by Wards &amp; mariage was <lb/>
+            but 1000l &amp; then an ordinance was made by the King <lb/>
+            Prince and all His Councell there named in the Roll
+         </p>
+         <pb n="62v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f062v/hargrave_ms_311_f062v.jpg"/>
+         <p>
+            The like was a<ex>nn</ex>o 11 when for the Charge of house <lb/>
+            was appointed 16000l and 7000l to the Citty of London <lb/>
+            in discharge of the Kings Debt to them.
+         </p>
+         <p>
+            H: 5: a<ex>nn</ex>o: 2: did the like as his father, entringe upon <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex rot in actio <lb/>
+                  Cone: a<ex>nn</ex>o: 2 H 5 <lb/>
+                  in fin: ♀
+               </foreign>
+            </add>
+            the Roll as an ordinance in future, that <ex>th</ex>e Tre<ex>asure</ex>r <lb/>
+            of England or of the Exchequer shall annualy <lb/>
+            make declarac<ex>i</ex>on of the state of their office, &amp; the <lb/>
+            revenewe of the Realme, together w<ex>i</ex>th the change of <lb/>
+            the Kings house, chamb<ex>e</ex>r, wardrobe, garrisons, Navy <lb/>
+            and Debts.
+         </p>
+         <p>
+            A<ex>nn</ex>o: 3: H: 5: the like assignm<ex>en</ex>ts were made p<ex>ro</ex>por<lb break="no"/>
+            c<ex>i</ex>onable to the revenue, w<ex>i</ex>thin the greate Custome <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex rot origini <lb/>
+                  a<ex>nn</ex>o: 3: H:5: m<ex>ar</ex>ked <lb/>
+                  ☘ ☘
+               </foreign>
+            </add>
+            of wooles the pettie Custome, tunage &amp; poundage, <lb/>
+            revenew of Wales, and the Dutchy of Cornwall, <ex>th</ex>e <lb/>
+            Hamper, the accompts of Sheriffs &amp; Escheators, <lb/>
+            the exchange of Bullion, and the benefitt of wards <lb/>
+            and marige (then rated at but 1000 markes apeece) <lb/>
+            rose not to aboue 56966l, and being at <sic>shch</sic> time as <lb/>
+            he undertooke the Conquest of France
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex ordinatione <lb/>
+                  a<ex>nn</ex>o: 9: H: 5: m<ex>ar</ex>ked <lb/>
+                  ◦+ 7
+               </foreign>
+            </add>
+            A<ex>nn</ex>o: 9: H:5: the revenew of the Kingdome amount=<lb break="no"/>
+            =ing to 55743:l 10:s 10:d was so by the King w<ex>i</ex>th advise <lb/>
+            of his Councell ordered as before.
+         </p>
+         <p>
+            And by this Record it appeareth that the Clarke of <lb/>
+            the Navy and not the treasuror was the officer <lb/>
+            only for that place
+         </p>
+         <p>
+            H: 6: a<ex>nn</ex>o: 12: In p<ex>ar</ex>lem<ex>en</ex>t Cromwell then Treasuror <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex rot. Parl<ex>iament</ex> a<ex>nn</ex>o: <lb/>
+                  12 H:6: no: 24:
+               </foreign>
+            </add>
+            deliu<ex>er</ex>ing up an account of the <foreign xml:lang="la">Exitus &amp; introitus</foreign> <lb/>
+            of the Excheq<ex>ue</ex>r setled the estate of his expence, <lb/>
+            of w<ex>hi</ex>ch there was allowed for his house 10978l <lb/>
+            and to his Chamber and wardrobe 2000l The <lb/>
+            rest to defray the Debts and necessary occasions <lb/>
+            of the state
+         </p>
+         <pb n="63r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f063r/hargrave_ms_311_f063r.jpg"/>
+         <p>
+            Queen Eliz: A<ex>nn</ex>o 12: at w<ex>hi</ex>ch time, besides the ward<ex>es</ex> <lb/>
+            and Dutchy of Lancaster the proffitt of the Kingdome <lb/>
+            was 188197l: 4s: the paym<ex>en</ex>ts and assignm<ex>en</ex>ts 110612l: 13s <lb/>
+            of wh<ex>ic</ex>h the houshould was 40000l priuie purse 2000l <lb/>
+            Admiralitie 30000l w<ex>hi</ex>ch by an estimate 1 Maij a<ex>nn</ex>o <lb/>
+            1604 was 40000l and is now swolne to neere 50000l <lb/>
+            yearly by the error and abuse of Officers
+         </p>
+         <p>
+            <list rend="numbered">
+               <item n="2">
+                  <seg rend="curly-bracket-R">
+                     Secondly for abateing and <lb/>
+                     reformeing the excesse <lb/>
+                     of
+                  </seg>
+                  <add place="RM">
+                     1 houshold <lb/>
+                     2 Retynue &amp; Favorit<ex>es</ex> <lb/>
+                     3 Gifts &amp; Rewards.
+                  </add>
+               </item>
+               <item n="1">
+                  <seg rend="curly-bracket-R">
+                     First for abateing and <lb/>
+                     reformeing the excesse of <lb/>
+                     houshold either by
+                  </seg>
+                  <add place="RM">
+                     1 Parliam<ex>en</ex>t <lb/>
+                     or <lb/>
+                     2 Councell Table
+                  </add>
+               </item>
+            </list>
+            </p>
+         <p rend="align-centre">
+            1 By Parliam<ex>en</ex>t
+         </p>
+         <p>
+            A<ex>nn</ex>o 2: E:2 an ordinance was made <foreign xml:lang="la">prohospitito <lb/>
+               Regis</foreign> in ease of the people opprssed w<ex>i</ex>th purveyance, <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex vngl manu<lb break="no"/>
+                  crip: fo: 29
+               </foreign>
+            </add>
+            by reason of the gratnes therof And the motiue of <lb/>
+            that ordinance was <foreign xml:lang="fr">al honneur de dieu et a'l hon=<lb break="no"/>
+            neur, et <del rend="strikethrough">au</del> profitt de <del rend="strikethrough">son</del> sainct Esglise, et a'l hon=<lb break="no"/>
+            neur et au profit de son peuple selono droit et <lb/>
+            reson del serement q<ex>ue</ex> le dit n<ex>ot</ex>re Signeur le Roy <lb/>
+            fist a son Coronm<ex>en</ex>t</foreign> And about this time was the <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex libre dicto <lb/>
+                  Alila Regio
+               </foreign>
+            </add>
+            Kings house newe formed, and every officer limitted <lb/>
+            his charge and Salary.
+         </p>
+         <p>
+            A<ex>nn</ex>o 36: E:3 the houshold was reformed at the <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot parl: an<ex>nn</ex>o <lb/>
+                  36: E: 3
+               </foreign>
+            </add>
+            petic<ex>i</ex>on of the people
+         </p>
+         <p>
+            A<ex>nn</ex>o 1°: R: 2: the houshold was brought to such mo<lb break="no"/>
+            derac<ex>i</ex>on of expence as may bee answerable to the <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot parl: a<ex>nn</ex>o <lb/>
+                  1: R: 2:
+               </foreign>
+            </add>
+            revenews of the Crowne and a Com<ex>m</ex>ission granted at <lb/>
+            the petic<ex>i</ex>on of the Com<ex>m</ex>ons to survey and abate the <lb/>
+            <sic>the</sic> houshold, w<ex>hi</ex>ch not takeing the desired effect A<ex>nn</ex>o 5: the Com<ex>m</ex>ons petic<ex>i</ex>on, that the excessiie number of <ex>th</ex>e <lb/>
+            meniall servants maybee remid<add place="above">i</add>ed or otherwise the <lb/>
+            <pb n="63v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f063v/hargrave_ms_311_f063v.jpg"/>
+            Realme will be utterly undone, and that his hous<lb break="no"/>
+            hold might not exceed the ordinary Reuenews of the <lb/>
+            Realm &amp;c
+         </p>
+         <p>
+            A<ex>nn</ex>o 4:H:4 the people craue a reformac<ex>i</ex>on of the King<ex>es</ex> <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot parl: a<ex>nn</ex>is <lb/>
+                  4:1:et:11:H: <lb/>
+                  4
+               </foreign>
+            </add>
+            house And a<ex>nn</ex>o 7° that he would dismise some of the <lb/>
+            retynue, since it was now more chargable, but lese <lb/>
+            hon<ex>oura</ex>ble then his p<ex>ro</ex>genitors and that the antient ordinan<lb break="no"/>
+            =ces of the houshold in ease of the people might be <lb/>
+            kept, and the officers of the houshold sworne to put <lb/>
+            the ordinances and statuts in due execuc<ex>i</ex>on, and so <lb/>
+            consider the iust greifes of his subiects by uniust <lb/>
+            puruiance contrary to the statute, that heereaft<ex>e</ex>r <lb/>
+            vous poiez viure le vostre biens propres in ease de <lb/>
+            v<ex>ot</ex>re peuple w<ex>hi</ex>ch the king willinglie doth, as appeareth <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex ordinat in <lb/>
+                  rot act. conc: a<ex>nn</ex>o <lb/>
+               </foreign>
+                  11 :H:4: marked <lb/>
+                  RR
+            </add>
+            by an ordinance in Councell, whereby the charge <lb/>
+            of the houshold is limitted to 16000 markes
+         </p>
+         <p>
+            A<ex>nn</ex>o 12: et: 18: H: 6: the charge of the kings house <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot parl: a<ex>nn</ex>o 12 <lb/>
+                  et 18: H:6:
+               </foreign>
+            </add>
+            is reduced to a certaintie, and lessened by petic<ex>i</ex>on &amp; <lb/>
+            order in p<ex>ar</ex>lem<ex>en</ex>t
+         </p>
+         <p>
+            A<ex>nn</ex>o 12: E:4 the king promiseth to abate his houshold, <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex rot parl: a<ex>nn</ex>o <lb/>
+                  12: E: 4
+               </foreign>
+            </add>
+            and hereafter to liue upon his owne, So setling a new <lb/>
+            forme of his Court w<ex>hi</ex>ch is extant in many hand<ex>es</ex> <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex lib. ordin <lb/>
+                  hospit tempo: <lb/>
+                  E: 4
+               </foreign>
+            </add>
+            intitled ordinations for the Kings house.
+         </p>
+         <p>
+            And to ease the charge of the Kings house, the <lb/>
+            queens haue allowed a portion of their Iointure <lb/>
+            suiteing to their owne expence to the Treasuror <lb/>
+            of the houshold, As did Phillip the wife of <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par: a<ex>nn</ex>o 27 <lb/>
+                  E: 3: et 7: H:4
+               </foreign>
+            </add>
+            Edward the 3d And so likewise Henrie the 4th <lb/>
+            his wife a<ex>nn</ex>o 7° And Henry the 6th his wife <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Mich: Recept 27: <lb/>
+                  H: 6: no: 9
+               </foreign>
+            </add>
+            allowed 2000l a yeare out of her estate.
+         </p>
+         <pb n="64r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f064r/hargrave_ms_311_f064r.jpg"/>
+         <p rend="align-centre">
+            2 Excesse of houshold abated and <lb/>
+            reformed by Councell table.
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex Aula Regis <lb/>
+                  fact tempore <lb/>
+                  Ed: 3
+               </foreign>
+            </add>
+            Edw: the 3d caused his houshold to bee certeine in <lb/>
+            allowances, makeing thereof a Booke by way of <lb/>
+            Ordinance, w<ex>hi</ex>ch is called Aula Regis
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">Act Conc: 8:</foreign> <lb/>
+               H:4 marked <lb/>
+               PP
+            </add>
+            H:4: councelled his sonne th prince, and the rest of <lb/>
+            his Councell to ordaine such moderate governance of <lb/>
+            his house, that may conteyne <foreign xml:lang="fr">au pleisir du dieu et <lb/>
+            du peuple</foreign>
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Mich Recept <lb/>
+                  27:H:6:
+               </foreign>
+            </add>
+            H:6: a<ex>nn</ex>o 27: reduced his charge of house to 12000l <lb/>
+            whereof 2000l was out of the queenes Iointure.
+         </p>
+         <p>
+            <add place="RM">
+               Ex lib: ordinat <lb/>
+               hospit temp: <lb/>
+               E:4
+            </add>
+            E:4:a<ex>nn</ex>o 12 reformeth it againe and publisheth a <lb/>
+            booke of ord<ex>e</ex>rs for their better direcc<ex>i</ex>on w<ex>hi</ex>ch afterward <lb/>
+            Cardinall Woolsey for the more hon<ex>ou</ex>r and proffitt <lb/>
+            of the king amendeth, and still remaineth the ground <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ord: Cardin <lb/>
+                  Woolsey temp: <lb/>
+                  H:8:
+               </foreign>
+            </add>
+            worke of the p<ex>rese</ex>nte gouernm<ex>en</ex>t, w<ex>hi</ex>ch being now somuch <lb/>
+            corrupted, it may seeme fitt, either to put downe <lb/>
+            the tables, and leaue all attend<ex>an</ex>ts to allowance of <lb/>
+            money, as France and Spaine doth, or else by set=<lb break="no"/>
+            ting vp the hall againe, reduce the houshold, to the <lb/>
+            best, First, and most magnificent order, so all <lb/>
+            things being spent in publiq<ex>ue</ex> wilbee to the kings <lb/>
+            hon<ex>ou</ex>r and secret wast by chamber Dyett and pur=<lb break="no"/>
+            loyning, pr<ex>e</ex>vented to the kings benefit, For, there <lb/>
+            is nev<ex>er</ex> a backdore in the Court w<ex>hi</ex>ch cost not the K<ex>ing</ex> <lb/>
+            so little as 2000l yearelie, And few mean houses <lb/>
+            in Westm<ex>inste</ex>r that are not mainteyned w<ex>i</ex>th food and <lb/>
+            firing by the stealth of the Court Instrum<ex>en</ex>ts.
+         </p>
+         <p rend="align-centre">
+            2 By abateing and reformeing the <lb/>
+            excess of retynue and Fovorites.
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex Geruasio <lb/>
+                  Dorobernencis
+               </foreign>
+            </add>
+            Thus H <ex>th</ex>e 2d did w<ex>i</ex>th Will<ex>ia</ex>m de Ipre Earle of Kent, <lb/>
+            a Netherland<ex>e</ex>r, and all his Countrymen &amp; follow<ex>e</ex>rs <lb/>
+            when they grew heavie and a burthen to this <lb/>
+            State, vnable to foster more then her owne Children./
+         </p>
+         <pb n="64v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f064v/hargrave_ms_311_f064v.jpg"/>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex Ric Canonico <lb/>
+                  in vita:R:1:
+               </foreign>
+            </add>
+            Thus R: 7th did w<ex>i</ex>th Otho Earle of York and all <lb/>
+            the Bavarians, although hee was the son of his <lb/>
+            sister, takeing from him that Earldome, for <ex>tha</ex>t <lb/>
+            the people op<ex>p</ex>osed it, and giueing him in <lb/>
+            exchange the title of Poictow.
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex lib. semeti <lb/>
+                  Albani et Willi <lb/>
+                  Rishanger et <lb/>
+                  liter Baron: <lb/>
+                  PP
+               </foreign>
+            </add>
+            Thus H the 3d did w<ex>i</ex>th his halfe Breth'ren the <lb/>
+            Earle of Pembrooke and B<ex>isho</ex>pp of Winchest<ex>e</ex>r <lb/>
+            and all the Poictons their follow<ex>e</ex>rs.
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex ordinat 3: <lb/>
+                  E:2: in lib: legu<ex>m</ex> <lb/>
+                  MS: fo: 285
+               </foreign>
+            </add>
+            Thus E: <ex>th</ex>e 2d did by his ordinance <foreign xml:lang="fr">Que tout <lb/>
+               le lignage sire pieres de Gaueston soit entierem<ex>en</ex>t <lb/>
+               ouste destre entoins le Roy et de son seruis Item <lb/>
+               Burgois de Til soit ouste et non fiaz q<ex>ue</ex> est <lb/>
+               Mareschall del Eschequer Item q<ex>ue</ex> Bertram <lb/>
+               Assabi et son frere et seux de Gascoigne et <lb/>
+               Aymerick de Friscomband soint oustre, et <lb/>
+               terres prises en le main le Roy.</foreign>
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex rot par: <lb/>
+                  a<ex>nn</ex>o 10:R:2:
+               </foreign>
+            </add>
+            Thus R:2: did w<ex>i</ex>th the Bohemians a<ex>nn</ex>o 10: by an <lb/>
+            Act of p<ex>ar</ex>lem<ex>en</ex>t at the pet<ex>it</ex>ion of the people surcharged
+         </p>
+         <p>
+            Thus H:4: did w<ex>i</ex>th the Gascoignes &amp; welsh, in like <lb/>
+            sort ov<ex>er</ex>burdening and impouerishing the king &amp; <lb/>
+            Realme w<ex>i</ex>th p<ex>er</ex>petuall suites, so that in Court (as <ex>th</ex>e <lb/>
+            Record saith there were <foreign xml:lang="fe">ne ad nul substance des <lb/>
+               personnes vaylantes et suffesants si besoigne <lb/>
+               seroit mes de Rascaile pur la grendre part</foreign>
+         </p>
+         <p rend="align-centre">
+            3 By abateing and reforming the <lb/>
+            excess of guifts and Rewardes
+         </p>
+         <p>
+            Hence was it that the wisdome of former times <lb/>
+            foreseeing the mis<add place="above">c</add>heife that the open hand of <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par a<ex>nn</ex>o 11 R: <lb/>
+                  2: A<ex>nn</ex>o 2:4: et 5:H <lb/>
+                  4 no: 9:
+               </foreign>
+            </add>
+            the soueraigne may bring the state into, made <lb/>
+            a Law: 11: R:2: that whatsoeu<ex>er</ex> cometh, to the k<ex>ing</ex> <lb/>
+            by Iudgm<ex>en</ex>t, escheate, forfeiture, wardship, or <lb/>
+            any other wayes, shall not bee giuen away, And <lb/>
+            that the procurer of any <del rend="strikethrough">st</del> such guift shall be punished.
+         </p>
+         <pb n="65r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f065r/hargrave_ms_311_f065r.jpg"/>
+         <p>
+            <add place="RM">
+               Rot par: a<ex>nn</ex>o <lb/>
+               7:H:4
+            </add>
+            Thus the p<ex>ar</ex>lem<ex>en</ex>t conteynued 7:H:4 vntill the king <lb/>
+            were out of Debt, making frustrate the grant and <lb/>
+            ordeined a penaltie of double value to euery mover or <lb/>
+            procurer of any such.
+         </p>
+         <p>
+            <add place="RM">
+               Rot par: a<ex>nn</ex>o <lb/>
+               11:H:4:no:23
+            </add>
+            The like a<ex>nn</ex>o 11: H: 4: And that noe petic<ex>i</ex>on for anie <lb/>
+            thing should bee deliu<ex>er</ex>ed the king but in pr<ex>e</ex>sence of <ex>th</ex>e <lb/>
+            Councell, who might examine it, least the kings <lb/>
+            wants should light vpon the Com<ex>m</ex>ons
+         </p>
+         <p>
+            And to keep the hand of H: 6: from wastfull giueing, <lb/>
+            <add place="RM">
+               Par: pl: 2: a<ex>nn</ex>o <lb/>
+               25 H: 6:m: 24
+            </add>
+            the Councell induced him to coney to the Arch<ex>bisho</ex>pp of <lb/>
+            Canterbury and others all proffitts of wards mariages <lb/>
+            releife, Escheates and forfeitures to defray the <lb/>
+            charge of his house
+         </p>
+         <p>
+            <add place="RM">
+               Ex rot par: <lb/>
+               a<ex>nn</ex>o 28: H: 6:
+            </add>
+            It is one of the greatest accusac<ex>i</ex>ons ag<ex>ains</ex>t <ex>th</ex>e Duke of <lb/>
+            Som<ex>m</ex>ersett for suffringe the king to giue away the <lb/>
+            poss<ex>essi</ex>ons and proffitts of the Crowne in mann<ex>e</ex>r of <lb/>
+            spoyle, so are the words of the Record.
+         </p>
+         <p>
+            <add place="RM">
+               Ex rot par: a<ex>nn</ex>o <lb/>
+               1 H: 4:
+            </add>
+            And it was made the first and cheifest Article to <lb/>
+            depose R:2: for wasting and bestowing the lands &amp; <lb/>
+            reuenew of the Crowne, vpon vnworthy persons, &amp; <lb/>
+            thereby ou<ex>er</ex>charging the Com<ex>m</ex>ons by exaction.
+         </p>
+         <p rend="align-centre">
+            3 By rousing of money and improu=<lb break="no"/>
+            ing the revenuew of the Crowne eith<ex>e</ex>r
+         </p>
+         <p>
+            <add place="LM">
+               By <ex>th</ex>e
+            </add>
+            <add place="RM">
+               <lg>
+                  <l>1 gen<ex>er</ex>all as in p<ex>ar</ex>lem<ex>en</ex>t</l>
+                  <l>or</l>
+                  <l>2 p<ex>ar</ex>ticular as by</l>
+               </lg>
+               <seg rend="align-right curly-bracket-L">
+                  <lg>
+                     <l>loanes</l>
+                     <l>or</l>
+                     <l>benevolence</l>
+                  </lg>
+               </seg>
+            </add>
+            <seg rend="curly-bracet-LR">
+               <lg>
+                  <l>grant of the sub<ex>jec</ex>t w<ex>hi</ex>ch is</l>
+                  <l>or</l>
+                  <l>pow<ex>e</ex>r absolute in the sou<ex>er</ex>aigne</l>
+               </lg>
+            </seg>
+         </p>
+         <p>
+            <add place="LM">
+               1
+            </add>
+            Gen<ex>erall</ex> as in p<ex>ar</ex>liam<ex>en</ex>t, where in they giue the king p<ex>ar</ex>t <lb/>
+            of their owne by way of retribuc<ex>i</ex>on only, as for
+         </p>
+         <p>
+            <add place="LM">1</add>
+            <add place="RM">
+               Ex lib: rubo in <lb/>
+               Sec<ex>t</ex>o Ex Iohe<ex>m</ex> Eversden <lb/>
+               Ex hist Roffensi
+            </add>
+            Defence of the State. Hence grew the scutage gr<ex>an</ex>t=<lb break="no"/>
+            ed to H:2: R:1: Iohn: and H:3: To: E:1 diuerse <lb/>
+            fifteenes and tenths for his warrs ag<ex>ains</ex>t the Scotts &amp; <lb/>
+            <add place="RM">
+               Ex rot par temp <lb/>
+               e:3:
+            </add>
+            welshmen The subsidie of wooles &amp; other contribuc<ex>i</ex>ons <lb/>
+            to E:3: for his warres, And the like granted to R:2:
+            <pb n="65v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f065v/hargrave_ms_311_f065v.jpg"/>
+            <add place="LM">
+               Ex rot par: a<ex>nn</ex>o <lb/>
+               2:3:7:R:2:
+            </add>
+            a<ex>nn</ex>o 2: 3: 7: so they may bee imployed, in the warre <lb/>
+            and p<ex>ar</ex>ticular Treasurors to accompt in Parliam<ex>en</ex>t
+         </p>
+         <p>
+            <add place="LM">
+               Rot par a<ex>nn</ex>o 8:et <lb/>
+               9:H:4:
+            </add>
+            Soe in the 7th and 9th of H:4: on the like Condic<ex>i</ex>on'd
+         </p>
+         <p>
+            Tonnage and Poundage began :45: E:3. had thence <lb/>
+            <add place="LM">
+               Ex rot par: a<ex>nn</ex>o 13: <lb/>
+               H:4: et 1o:H:5:
+            </add>
+            its originall; and therefore 13 H:4 &amp; 1 H:5 they are <lb/>
+            granted so in expresse words, and that they pro=<lb break="no"/>
+            ceed of good will, and not of Dutie.
+         </p>
+         <p>
+            Presidents of this nature are plentifull in all <ex>th</ex>e <lb/>
+            Rolls of parliam<ex>en</ex>t.
+         </p>
+         <p>
+            <add place="LM">
+               2
+            </add>
+            For mainten<ex>a</ex>nce of Religion and the Church <lb/>
+            <add place="LM">
+               Ex Benedicto <lb/>
+               Monacho in vita <lb/>
+               H:2 <lb/>
+               Ex Adamo <lb/>
+               Merioneth <lb/>
+               Ex rot par a<ex>nn</ex>o 4: <lb/>
+               R:2:
+            </add>
+            as in the yeare 1166 to: H: 2 was giuen 12d in <lb/>
+            the pound, And in the 18 of E: the 1st: a fifteenth <lb/>
+            was granted to expell the Iew's, And a<ex>nn</ex>o 4 R: 2: <lb/>
+            a tenth of the Clergie, and a fifteenth of the <lb/>
+            Com<ex>m</ex>ons for his helpe to suppresse the wicklivian <lb/>
+            heresie.
+         </p>
+         <p>
+            <add place="LM">3</add>
+            For support of the lawes and liberties of the <lb/>
+            <add place="LM">
+               Ex Rado Cogshall <lb/>
+               Ex hist Rostens:
+            </add>
+            Com<ex>m</ex>on wealth, soe did the State to H: 3: a<ex>nn</ex>o 27: <lb/>
+            for Confirmac<ex>i</ex>on of the greate Charter, For <lb/>
+            <add place="LM">
+               Rot par a<ex>nn</ex>o 23: E: <lb/>
+               1: &amp; 13: E: 3: et: 7: <lb/>
+               H: 4:
+            </add>
+            the like a Fifteenth was granted: 29: (or 23) E: 1: <lb/>
+            adn 13:E: 3 and 7: H: 4: that the lawes may bee <lb/>
+            executed ag<ex>ains</ex>t Purveyors:
+         </p>
+         <p>
+            <add place="LM">4</add>
+            For redresse of the aggreiuances as in the 15th of E <lb/>
+            <add place="LM">
+               Rot: par: a<ex>nn</ex>o 15: <lb/>
+               E: 3: no: 16:
+            </add>
+            3: so that the king would p<ex>er</ex>forme their petitions, or <lb/>
+            else they held themselus not bound to pay the grant <lb/>
+            <add place="LM">
+               Ex rot par a<ex>nn</ex>o 7: <lb/>
+               8:9:10:11:R:2
+            </add>
+            they had giuen: The like was the 7: 8: 9: 10: &amp; 11: of <lb/>
+            R;2: The 10th and 15th granted the 4 and 7 of H <ex>th</ex>e <lb/>
+            5 is vpon Condic<ex>i</ex>on, that the king lay noe imposi=<lb break="no"/>
+            <add place="LM">
+               Ex rot par a<ex>nn</ex>o 4: et <lb/>
+               7 H: 5
+            </add>
+            tions vpon the state And 7 E:4 the state releiueth <lb/>
+            the king, so hee will promise to liue hereafter <lb/>
+            <add place="LM">
+               Rot par: a<ex>nn</ex>o 7 <lb/>
+               E: 4:
+            </add>
+            vpon his owne, and not burthen the state, the w<ex>hi</ex>ch <lb/>
+            hee there protesteth to p<ex>er</ex>forme.
+         </p>
+         <pb n="66r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f066r/hargrave_ms_311_f066r.jpg"/>
+         <p>
+            <add place="RM">
+               Ex orig: a<ex>nn</ex>o: 3 <lb/>
+               R:2
+            </add>
+            And it is to bee observed; that to improve the grants <lb/>
+            of subsidies to the extreamest value, there were new <lb/>
+            Comission<ex>e</ex>rs appointed to survey and advance mens <lb/>
+            Fortunes aboue the estimate of the former taxes.
+         </p>
+         <p>
+            <add place="RM">
+               Claus a<ex>nn</ex>o 6H: <lb/>
+               3:
+            </add>
+            And Comiss<ex>io</ex>ns haue been granted out as 3 R:2: <lb/>
+            to inable him out of his owne by an act of resumpc<ex>i</ex>on <lb/>
+            of Landes, offices Annuities &amp;c
+         </p>
+         <p>
+            <add place="RM">
+               Claus: a<ex>nn</ex>o 6 H: <lb/>
+               3:
+            </add>
+            Thus did H: 3: a<ex>nn</ex>o 6
+         </p>
+         <p>
+            <add place="RM">
+               Ret ordinat a<ex>nn</ex>o 5: et <lb/>
+               Claus a<ex>nn</ex>o 9: et: 10: <lb/>
+               E: 2
+            </add>
+            And E:2 a<ex>nno</ex> 5to: 9: et: 10: by an ordinac<ex>i</ex>on of the pr<ex>e</ex>
+                <lb break="no"/>
+            lates, Earles, and Barons.
+         </p>
+         <p>
+            <add place="RM">
+               Rot par: a<ex>nn</ex>o 1: R: <lb/>
+               2
+            </add>
+            All grants made by E: 3: to vnworthy persons R: <lb/>
+            2: resumed: a<ex>nn</ex>o 1o:
+         </p>
+         <p>
+            <add place="RM">
+               Rot par: a<ex>nn</ex>o 1o 2: et <lb/>
+               6: H: 4
+            </add>
+            And by H 4 a<ex>nn</ex>o 6 all Pat<ex>en</ex>ts for life or yeares since <lb/>
+            the 40th of E:3 were resumed,
+         </p>
+         <p>
+            <add place="RM">
+               Ex rot par a<ex>nn</ex>o 1:o <lb/>
+               et: 2 H: 5
+            </add>
+            At the petic<ex>i</ex>on of the people: H: the 5 revoaks all <lb/>
+            grants out of the principalitie made to vnworthy <lb/>
+            persons, and all annuities out of the customes of <lb/>
+            wooles, deducting 10000l out of all other annuall <lb/>
+            pensions rateably, leaving the remaine, if any <lb/>
+            to the Patentees
+         </p>
+         <p>
+            <add place="RM">
+               Rot par: a<ex>nn</ex>o 28 <lb/>
+               29: et 33:H:6:
+            </add>
+            H the 6: a<ex>nn</ex>o 28:29: et 33: resumeth in England <lb/>
+            all Landes, offices, liberties, and grants from An<ex>n</ex>o <lb/>
+            <add place="RM">
+               Rot par a<ex>nn</ex>o 4: 7: et <lb/>
+               12: E: 4: <lb/>
+               Ex act Conc a<ex>nn</ex>o 21 <lb/>
+               H: 6: Rot par: a<ex>nn</ex>o 2 <lb/>
+               H: 7:
+            </add>
+            primo And the like a<ex>nn</ex>o 21: in Ireland. Soe did <lb/>
+            Edward the 4th a<ex>nn</ex>o 4: 7: et 12: And Hen: 7th a<ex>nn</ex>o <lb/>
+            2: resumed all grauntes made by E:4: or R:3:
+         </p>
+         <p rend="align-centre">
+            <add place="RM">
+               <seg rend="curly-bracket-L">
+                  <lg>
+                     <l>1 Voluntarie</l>
+                     <l>or</l>
+                     <l>2 compelsiue</l>
+                  </lg>
+               </seg>
+            </add>
+            <seg rend="curly-bracket-L">
+               <lg>
+                  <l>loanes</l>
+                  <l>
+                     <add place="LM">
+                        2 Perticular
+                     </add>
+                     or
+                  </l>
+                  <l>Benevolence</l>
+               </lg>
+            </seg>
+         </p>
+         <p>
+            1/ Loanes voluntarie, as vpon assurance of bloud <lb/>
+            of the Nobilitie So was William de le Poole
+            <pb n="66v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f066v/hargrave_ms_311_f066v.jpg"/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot: par: a<ex>nn</ex>o 13: <lb/>
+                  E:3:
+               </foreign>
+            </add>
+            bound for E: 3: a<ex>nn</ex>o 13: in greate sum<ex>m</ex>es And <lb/>
+            the Duke of Gloucester a<ex>nn</ex>o 20: H: 6: And the <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Act Conc 20: et <lb/>
+                  22: H: 6:
+               </foreign>
+            </add>
+            Cardinall pawned his silver vessells for H: 6: <lb/>
+            his Debt
+         </p>
+         <p rend="align-centre">
+            Pawne vpon Iewells
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Claus: a<ex>nn</ex>o 26: <lb/>
+                  H:3:
+               </foreign>
+            </add>
+            Thus did H: 3: a<ex>nn</ex>o 26 to the Archb<ex>isho</ex>pp of York <lb/>
+            And when his own were at gage, hee tooke <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Aurum et iocalia Feretri Sancti Edwardi <lb/>
+               Confessoris</hi>
+                </foreign> and pawned them
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Claus a<ex>nn</ex>o 29 <lb/>
+                  E: 1st:
+               </foreign>
+            </add>
+            Edward 1st imployed one Andaver <foreign xml:lang="la">ad ioca=<lb break="no"/>
+               lia sua impignoranda</foreign>
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot Franc: a<ex>nn</ex>o <lb/>
+                  9: E:2
+               </foreign>
+            </add>
+            Edward the second pawned his Iewells to <ex>th</ex>e <lb/>
+            Lord Beaumont
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Comun: inscript <lb/>
+                  30: E: 3
+               </foreign>
+            </add>
+            Edw: 3 pawned <foreign xml:lang="la">magnam Coronam Angliæ</foreign>
+            to S<ex>i</ex>r Io: Wesenham for 8 yeares
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Par a<ex>nn</ex>o 7 R: 2
+               </foreign>
+            </add>
+            R: 2: pawned <foreign xml:lang="la">vasa aurca et diuersa iocalia</foreign> to <lb/>
+            S<ex>i</ex>r Robert Knolles
+         </p>
+         <p>
+            Hen: 4 <foreign xml:lang="la"> inuadiauit tabellas et tresellas suas <lb/>
+               argentas de Hispania</foreign>
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Par: a<ex>nn</ex>o 5: H: 5
+               </foreign>
+            </add>
+            H: 5 pawned his great Crowne of gold to the <lb/>
+            rich B<ex>isho</ex>pp of Winchester.
+         </p>
+         <p>
+            And H: 6 to the same man then Cardinall <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Par a<ex>nn</ex>o 10: 12 et <lb/>
+                  29: H: 6
+               </foreign>
+            </add>
+            pawned many p<ex>ar</ex>cells of his Iewells in the 10: 12: <lb/>
+            and 29th of his raigne, And the like to many others
+         </p>
+         <p>
+            And the late Queene to ease her people did <ex>th</ex>e <lb/>
+            like w<ex>i</ex>th her Iewells in the Tower, besides the <lb/>
+            often morgage of her Land.
+         </p>
+         <p rend="align-centre">
+            Vpon assignement of Customes <lb/>
+            and Subsidees
+         </p>
+         <p>
+            Soe did the Cardinall Beauford lend 10000l to
+            <pb n="67r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f067r/hargrave_ms_311_f067r.jpg"/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Act Conc a<ex>nn</ex>o 22 <lb/>
+                  H: 6
+               </foreign>
+            </add>
+            H: 6th: a<ex>nn</ex>o 22: vpon securitie of the Customes of <lb/>
+            London and South<ex>amp</ex>ton the King intending to turne <lb/>
+            the course of most trade thither. And H: 6: a<ex>nn</ex>o 15th <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex Billa signata <lb/>
+                  a<ex>nn</ex>o 15 H:6: et 12 <lb/>
+                  E: 4
+               </foreign>
+            </add>
+            and E:4: a<ex>nn</ex>o 12: did secure their Debtes by assignm<ex>en</ex>t <lb/>
+            ouer of the next subsidie or ayde that should bee <lb/>
+            granted from the Church or Laytie, to <del rend="strikethrough">whom</del> <add place="above">them</add>, being <lb/>
+            a demise / in truth to draw on a supplie the sooner <lb/>
+            from the state.
+         </p>
+         <p rend="align-centre">
+            Vpon the great seale or the <lb/>
+            priuate seale.
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot orig 33: H: <lb/>
+                  4 m<ex>ar</ex>ked BB:
+               </foreign>
+            </add>
+            The great Seale, vnder w<ex>hi</ex>ch they should haue (w<ex>i</ex>thout <lb/>
+            paying Fee) a Patent sealed for paym<ex>en</ex>t of their <lb/>
+            dues by a day certeine.
+         </p>
+         <p>
+            The priuie Seale, w<ex>hi</ex>ch is of late the most in vse <lb/>
+            And it is <del rend="strikethrough">of late</del> worthie of observac<ex>i</ex>on to see the <lb/>
+            willingnes of former times in respect of those.
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot act Conc <lb/>
+                  a<ex>nn</ex>o 13: H: 4
+               </foreign>
+            </add>
+            In the 13 H: 4:th there is a Roll intitled <lb/>
+            <foreign xml:lang="fr">Les nommes de ceux que ont da prester an Roy <lb/>
+               Les sommes esocits</foreign>. The ArchB<ex>isho</ex>p of Cant lent <lb/>
+            1000 markes, the B<ex>isho</ex>p of Lincolne as much The <lb/>
+            B<ex>isho</ex>p of London 500 marks, The B<ex>isho</ex>pp of Norwich <lb/>
+            600l The B<ex>isho</ex>pp of Bath 400 marks, The Lord <lb/>
+            priuy seale 200l. The Clarks of the Chancery <lb/>
+            1000 markes.
+         </p>
+         <p rend="align-centre">
+            Perticuler graunts of the <lb/>
+            sub<ex>jec</ex>t by loane compulsiue.
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex ordine Conc <lb/>
+                  a<ex>nn</ex>o 3: H: 5 m<ex>ar</ex>ked <lb/>
+                  <hi rend="bold">NN:</hi>
+               </foreign>
+            </add>
+            Soe where the marchants of Florence, Venice and <lb/>
+            Luke compelled by an order in Councell: 3: H: 5 because <lb/>
+            they had by <foreign xml:lang="la">
+                    <hi rend="italic">grace et sufferance du Roy grantes priui=<lb break="no"/>
+               leges &amp;c reportants grand lucre pour lexercise <lb/>
+               de leur merchandreen le Angleterre</hi>
+                </foreign> And the <lb/>
+            p<ex>er</ex>sons that refused to lend were comitted to the Fleet
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Act Conc: 30: <lb/>
+                  H: 6
+               </foreign>
+            </add>
+            Neither were the English more free a<ex>nn</ex>o 30: H: 6 diuerse <lb/>
+            being enioyned to attend the Councell table, or else to pay the <lb/>
+            demanded loane.
+         </p>
+         <pb n="67v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f067v/hargrave_ms_311_f067v.jpg"/>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la"> Ex Instruct Com<ex>m</ex>iss <lb/>
+                  14 H: 8
+               </foreign>
+            </add>
+            In the time of Hen: 8 a<ex>nn</ex>o 14 of his raigne hee <lb/>
+            exacteth by way of loane 10l in the hundred <lb/>
+            of all goods Iewells, vtensells, and land, accord=<lb break="no"/>
+            ing to the extreamest rate revealed by oath of <lb/>
+            the possessors
+         </p>
+         <p>
+            Notwithstanding there is a law :2: R:2: that none <lb/>
+            shall bee denied (in demand of any loane) his <lb/>
+            reasonable excuse.
+         </p>
+         <p rend="align-centre">
+            Perticuler graunts of the Sub<ex>jec</ex>t <lb/>
+            by contribuc<ex>i</ex>on or beneuolent <lb/>
+            guifts:
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex charta Epi <lb/>
+                  Cant <lb/>
+                  Rot claus :29:E:1: <lb/>
+                  Claus 35:E:3
+               </foreign>
+            </add>
+            Theis were of old vsuall and free, and there=<lb break="no"/>
+            fore called <foreign xml:lang="la">
+                    <hi rend="italic">liberalitas popule</hi>
+                </foreign> by R:1: and <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Curialitas</hi>
+                </foreign> by E:1: E:3 H:4 And H:5: confessed <lb/>
+            them to proceed <foreign xml:lang="la">
+                    <hi rend="italic">ex spontanea voluntate nec de iure vindicare potest</hi>
+                </foreign>. yet did H: 6: a<ex>nn</ex>o <lb/>
+            20: in an Instrucc<ex>i</ex>on to Comission<ex>e</ex>rs imployed in <lb/>
+            <add place="LM">
+               Ex instruct orig <lb/>
+               a<ex>nn</ex>o 20: H: 6:
+            </add>
+            procuring a beneuolence, say That for as much <lb/>
+            as by the Law hee might compell all his Sub<ex>jec</ex>ts, <lb/>
+            and at their owne charg to attend his warres, <lb/>
+            hee was contented to spare such, as would but <lb/>
+            contribute as much after his degree and <lb/>
+            reputac<ex>i</ex>on as two Dayes in his p<ex>er</ex>sonall service <lb/>
+            would stand him in, thereby implying a ne=<lb break="no"/>
+            cessitie in them to giue, to escape a further expence. <lb/>
+            <add place="LM">
+               Ex act par a<ex>nn</ex>o 3: <lb/>
+               Maria
+            </add>
+            This Law vpon w<ex>hi</ex>ch H: 6: grounded himselfe <lb/>
+            was by a stat in queene Maryes tyme, repealed. <lb/>
+            and that since repealed this last yeare, hath <lb/>
+            made a reveveing of the former, whereby the <lb/>
+            king is remitted into his former advantage, <lb/>
+            and the Sub<ex>jec</ex>t in the former mischeife, <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ex Instruct orig: <lb/>
+                  a<ex>nn</ex>o 17: H:8:
+               </foreign>
+            </add>
+            H: 8: a<ex>nn</ex>o 17 although hee moueth for a beneuo=<lb break="no"/>
+            lence, hee sought it w<ex>i</ex>th noe other style then an <lb/>
+            amicable graunt, yet he threatned the re=<lb break="no"/>
+            fusers w<ex>i</ex>th Convention before his Councell, impri=<lb break="no"/>
+            sonm<ex>en</ex>t &amp; confiscac<ex>i</ex>on of Goodes
+         </p>
+         <pb n="68r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f068r/hargrave_ms_311_f068r.jpg"/>
+         <p rend="align-centre">
+            The Kings rayse money and im<lb break="no"/>
+            proue the Reuenewes of <ex>th</ex>e Crowne
+         </p>
+         <p rend="align-centre">
+            <add place="RM">
+               <lg>
+                  <l>1 Landes</l>
+                  <l>2 Marchandize</l>
+                  <l>3 Regalities</l>
+               </lg>
+            </add>
+            <seg rend="curly-bracket-R">
+               By power absolute in <lb/>
+               the soveraigne in dis=<lb break="no"/>
+               poseinge
+            </seg>
+         </p>
+         <p>
+            <add place="LM">
+               1
+            </add>
+            Landes, as by selling, w<ex>hi</ex>ch hath been often &amp; old, <lb/>
+            if they were not of the antient demesne Landes, <lb/>
+            w<ex>hi</ex>ch our Fathers held impious to aleenate from <lb/>
+            the Crowne. And those are such landes as goe vnd<ex>e</ex>r <lb/>
+            the title of <foreign xml:lang="la">
+                    <hi rend="italic">Terra Regis</hi>
+                </foreign>, in the Booke of <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">Lib: Doomsday</foreign>
+            </add>
+            Doomesday, and were the landes of Edw: the <lb/>
+            confessor. Of other Landes I neu<ex>er</ex> obserued ques=<lb break="no"/>
+            tion, Neither do euer finde that Acts of re=<lb break="no"/>
+            sumption euer reached to Landes that were sold <lb/>
+            for valuable consideration.
+         </p>
+         <p>
+            By passinge in Fee farme, except places of <lb/>
+            the kings residence, Parks, Spatious wasts, or <lb/>
+            Forrests, all the Landes of the Crowne w<ex>hi</ex>ch <lb/>
+            remaine either in the annexation, Costodie <lb/>
+            Landes, or the queenes Ioynture and exceed not <lb/>
+            yearly 3200l, Theis although largelie estated <lb/>
+            out in seu<ex>er</ex>all natures, some for liues some for <lb/>
+            years, will <del rend="strikethrough">not</del> <add place="above">one</add> with the other, bee advanced to <lb/>
+            a treble Rent, w<ex>hi</ex>ch amounting to 64000l And <lb/>
+            if the offer bee not made restrictive for the <lb/>
+            new ten<add>an</add>t, there is no doubt but his Ma<ex>jes</ex>tie shall <lb/>
+            finde readie and hartie vndertakers amongst <ex>th</ex>e <lb/>
+            gentree and Nobilitie too, who haue any place <lb/>
+            of residence neere any of his Ma<ex>jes</ex>ties mannors, &amp; <lb/>
+            the kings securitie the better, since their abilities <lb/>
+            will settle the Fee Farme Rent vpon more <lb/>
+            land then the purchase
+         </p>
+         <p>
+            If any shall obiect ag<ex>ains</ex>t this, a losse by Fines <lb/>
+            and proffittes of Courts, a preiudice in not serveing <lb/>
+            necessarilie (as of late) by sales or diminution <lb/>
+            of Regalities in seizure of so many Royalties
+         </p>
+         <pb n="68v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f068v/hargrave_ms_311_f068v.jpg"/>
+         <p>
+            It may bee answered to the First, That the <lb/>
+            casuall p<ex>ro</ex>ffitts of Co<ex>u</ex>rts neu<ex>er</ex> defrayed to the p<ex>rese</ex>nte <lb/>
+            offic<ex>e</ex>rs their Fee and expences. And this appeareth <lb/>
+            by a Collecc<ex>i</ex>on made the 44th yeare of the <lb/>
+            late queene, where the totall issue of such <lb/>
+            certeine charge exceeded the receipt of such <lb/>
+            changes aboue 8000l
+         </p>
+         <p>
+            To the second if looking vpon the seu<ex>er</ex>all rates <lb/>
+            of the kings Landes exposed to the Fee Farme <lb/>
+            sales, wee fynd some at 50 others at 21 yeares, <lb/>
+            as to the late Contractors, and make out of <lb/>
+            theis extreames a medium of the largest 40 <lb/>
+            yeares, and set on the other side the Com<ex>m</ex>on <lb/>
+            and current estimate for dead rents 15 yeares <lb/>
+            p<ex>ur</ex>chase, wee must find, that 50l land sold <lb/>
+            vnimproued respectiulie to the like trebled <lb/>
+            by a Fee Farme, wilbee 250l losse to his Ma<ex>jes</ex>tie <lb/>
+            in the sale.
+         </p>
+         <p>
+            As for Regallityes, though it may add <lb/>
+            somewhat to a Sub<ex>jec</ex>t in increasinge such his <lb/>
+            pettee Com<ex>m</ex>aund it can nothing to a Soveraigne, <lb/>
+            whose transcendent power drowneth <add place="above">in</add> it all such <lb/>
+            subordinate dependances and <add place="above">reguards.</add> <del rend="strikethrough">
+                    <unclear reason="deletion">wegards</unclear>
+                </del>
+         </p>
+         <p>
+            But if wee consider besides the former imp<ex>ro</ex>um<ex>en</ex>t <lb/>
+            the increase of casuall aduantage and diminu<lb break="no"/>
+            =tion of certeine charge, wee shall haue iust <lb/>
+            cause not to continue this course.
+         </p>
+         <p>
+            For if the Com<ex>m</ex>ission<ex>e</ex>rs in this busines may <lb/>
+            bee ordered by instruction to reserue vpon euery <lb/>
+            mannor of aboue 30l p<ex>er</ex>anu<ex>m</ex> a tenure <add place="above">in</add> <del rend="strikethrough">of</del> <lb/>
+            <del rend="strikethrough">of</del> Knights service by halfe a Fee, and aboue <lb/>
+            50l in Capite by an intire Fee, and of the <lb/>
+            purchase to pay his rent into the <add place="above">
+                    <del rend="strikethrough">his</del>
+                </add> Receipt of
+            <pb n="69r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f069r/hargrave_ms_311_f069r.jpg"/>
+            himselfe halfe yearly, and strick there his <lb/>
+            tally, the former will aduance the revenue acce=<lb break="no"/>
+            dentall of the Crowne in wardshipps, primer <lb/>
+            seisin, alienations, and aydes, at the latter cut <lb/>
+            off at once so many their vnnecessarie Receiuors, <lb/>
+            Auditors, Stewards, Bayliffs and Clarks, as stand <lb/>
+            the king in yearly aboue 12000l
+         </p>
+         <p>
+            As for other dues or casuall Reuenews, w<ex>hi</ex>ch <lb/>
+            now fall vnder the Charge of theis officers, the <lb/>
+            Collection and payment maybee, as it hath beene <lb/>
+            with the rest, from the time of Hen: 2 vntill <lb/>
+            late Dayes, layd on the Sheriffs of the Shires <lb/>
+            and all the accounts left to the two Auditors <lb/>
+            of Presse to draw vpp, and the Clarke of <ex>th</ex>e <lb/>
+            Pype to enter in <foreign xml:lang="la">magno Rotulo</foreign> as in former <lb/>
+            time; For it must seeme strang to all men <lb/>
+            of Iudgment, that it should bee with those <lb/>
+            officers (who had their begining but since the 25 <lb/>
+            yeare of H:8: by addic<ex>i</ex>on of his new revenews <lb/>
+            of 15000l from the suppressd Manasteries) other<lb break="no"/>
+            wise then w<ex>i</ex>th all things in nature and reason <lb/>
+            <foreign xml:lang="la">cessante causacessat et effectus</foreign>, not to bee dis=<lb break="no"/>
+            continued, when as all Crowne annexed Lands, <lb/>
+            that gaue them their Iust imploym<ex>en</ex>t, are, for the <lb/>
+            most parte, passed from the soveraigne into <lb/>
+            the subiects possession.
+         </p>
+         <p>
+            Besides this of a gen<ex>er</ex>all disposeing in Fee farme, <lb/>
+            there hath beene a proiect in p<ex>ar</ex>ticular to enfranch=<lb break="no"/>
+            ize the Copyholders in the seu<ex>er</ex>all Mannors, w<ex>hi</ex>ch I <lb/>
+            should hold to bee of more pr<ex>e</ex>iudice to his Ma<ex>jes</ex>tie <lb/>
+            then the former bringing w<ex>i</ex>th it all the former <lb/>
+            inconveniences, losse of Fines, Regalities, and <lb/>
+            advantages of sale, and being without many of <ex>th</ex>e <lb/>
+            advantages, as Ward<ex>shi</ex>ps, primer seisin, alienac<ex>i</ex>on, &amp; <lb/>
+            aydes, for noe man will buy Quilletts but in soccage <lb/>
+            and discontinuance of officers who must still remaine <lb/>
+            though they can bring the King but little proffitt
+         </p>
+         <pb n="69v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f069v/hargrave_ms_311_f069v.jpg"/>
+         <p>
+            <add place="LM">2</add>
+            By Farminge out for yeares lands Casual=<lb break="no"/>
+            ties or wastes, As in the 7 of Hen: 4 the state <lb/>
+            held it more iust to helpe the King out of his <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par a<ex>nn</ex>o 7 <lb/>
+                  H: 4:
+               </foreign>
+            </add>
+            owne, then to burthen the Com<ex>m</ex>on wealth, and <lb/>
+            therefore gaue way by p<ex>ar</ex>lem<ex>en</ex>t to the king to im<lb break="no"/>
+            proue vpp his Lands thoug in Lease Prouided <lb/>
+            that the Lessee should haue refusall of the <lb/>
+            bargaine if hee would.
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot Fin: a<ex>nn</ex>o 2:E:1
+               </foreign>
+            </add>
+            E: the 1st a<ex>nn</ex>o 2 granted a Comis<ex>sio</ex>n to farme out <lb/>
+            all such wast <foreign xml:lang="la">
+                    <hi rend="italic">quod absq<ex>ue</ex> iniuria alterius <lb/>
+               fieri potest</hi>
+                </foreign> and in anno 15 asserted a great <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par a<ex>nn</ex>o 15:E: <lb/>
+                  1:
+               </foreign>
+            </add>
+            parte of his woodes for Rent, and disafforested <lb/>
+            in most Counties of England for a sum<ex>m</ex>e of <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot claus: a<ex>nn</ex>o 17: <lb/>
+                  E:1:
+               </foreign>
+            </add>
+            money they gaue him.
+         </p>
+         <p>
+            And it was not the least of Charitable <lb/>
+            thrift in the King to reduce much of his wast <lb/>
+            to habitac<ex>i</ex>on of Christians, especially the re=<lb break="no"/>
+            mote Forrests, w<ex>hi</ex>ch would increase many <lb/>
+            thousand Families for his service and bring <lb/>
+            many thousand pounds to his Coffers.
+         </p>
+         <p>
+            But in the carriage of this busines, there must <lb/>
+            bee much caution to pr<ex>e</ex>vent comoc<ex>i</ex>on, For in <lb/>
+            them there are manie that haue right of <lb/>
+            Com<ex>m</ex>on <foreign xml:lang="fr">
+                    <hi rend="italic">sans membre</hi>
+                </foreign> and the resoluc<ex>i</ex>on in <lb/>
+            agreem<ex>en</ex>t w<ex>i</ex>th them must bee suddaine and confi=<lb break="no"/>
+            dent, For multituds are iealous and inconstant, <lb/>
+            and the instrum<ex>en</ex>ts to effect this must bee such <lb/>
+            as bee neighbors interessed and popular, not <lb/>
+            strangers; and the First demise to the inhabi=<lb break="no"/>
+            tants, and at vnder and easie values
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">3 By manuringe of Lands</hi>
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot Claus a<ex>nn</ex>o <lb/>
+                  13: H:3: m: 10:
+               </foreign>
+            </add>
+            Thus did H: 3: a<ex>nn</ex>o 13: in remoueing out of
+            <pb n="70r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f070r/hargrave_ms_311_f070r.jpg"/>
+            of most of his parks (as Gillingham Briggstock <lb/>
+            Cliffe, Woodstock, Haverell, &amp;c) all mens Cattle <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">pro bobus pro lardaria Regis in Parcis prædictis <lb/>
+               impinguendis</hi>
+                </foreign>
+         </p>
+         <p>
+            And E: 1: com<ex>m</ex>anded all the Escheators in <lb/>
+            England <foreign xml:lang="la">
+                    <hi rend="italic">excolere seminare et appropriare ad <lb/>
+               maximum Regis proficuum omnes terras quæ Regi <lb/>
+               et cononæ suæ deuenerint per mortem aliquorum <lb/>
+               vocatione Episcoptuum &amp;c</hi>
+                </foreign>
+         </p>
+         <p rend="align-centre">
+            <list rend="numbered">
+               <item n="2">
+                  2 The Kings raise money and im=<lb break="no"/>
+                  proue the Reuenews of the Crowne
+               </item>
+            </list>
+         </p>
+         <p rend="align-centre">
+            <seg rend="curly-bracket-L">
+               <lg>
+                  <l>1 tradinge themselues</l>
+                  <l>
+                     2 lycensinge others to trade
+                     <add place="RM">
+                        <seg rend="curly-bracket-L">
+                           <lg>
+                              <l>1 lawfull</l>
+                              <l>2 vnlawfull</l>
+                           </lg>
+                        </seg>
+                     </add>
+                  </l>
+                  <l>
+                     <add place="LM">
+                        By marchandize
+                     </add>
+                     Comodities
+                  </l>
+                  <l>3 Improueing Customes.</l>
+               </lg>
+            </seg>
+         </p>
+         <p>
+            <add place="LM">
+               1
+            </add>
+            Trading themselues. Thus did E: a<ex>nn</ex>o 22: who <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot <del rend="strikethroguh">par</del> <add place="above">vas con</add> 22 <lb/>
+                  E:1:
+               </foreign>
+            </add>
+            seised into his hands all the wools in the King=<lb break="no"/>
+            dome as the marchants were ladeing them in the <lb/>
+            Ports, giueing them securitie of paym<ex>en</ex>t at a long <lb/>
+            day, and a short prize, And then transported them <lb/>
+            to his own best and readiest vse.
+         </p>
+         <p>
+            Thus did E: 3: a<ex>nn</ex>o 12: w<ex>i</ex>th all the tyme, And H <lb/>
+            6 a<ex>nn</ex>o 20 by advice of his Councell tooke vp by way <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex Billa signata <lb/>
+                  a<ex>nn</ex>o 31: 32: H: 6
+               </foreign>
+            </add>
+            of purveyance, a greate quantitie of graine, and <lb/>
+            transported it into Gascoigne, where by reason of <lb/>
+            a dearth the price was extreame. And in a<ex>nn</ex>o 31 <lb/>
+            hee arrested all in the tynne in Sout<ex>hamp</ex>ton and sold it <lb/>
+            to his owne present vse: And in the year following <lb/>
+            vsing the advantage of the Stat w<ex>hi</ex>ch bound all men to <lb/>
+            trade the Staple Com<ex>m</ex>odities to no other place but Cal<ex>a</ex>ice <lb/>
+            vented himselfe many sacks of wooll to other ports <lb/>
+            of better advantage
+         </p>
+         <pb n="70v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f070v/hargrave_ms_311_f070v.jpg"/>
+         <p>
+            And the late queen a<ex>nn</ex>o 1567 caused by warrant <lb/>
+            of priuie Seale a greate p<ex>ro</ex>porc<ex>i</ex>on of beere to bee <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                 warr: sub priuato <lb/>
+                 sigillo a<ex>nn</ex>o 9 Eliz: <lb/>
+                 Reg:
+               </foreign>
+            </add>
+            purveyed, transported and sold to her vse beyond <lb/>
+            the seas.
+         </p>
+         <p rend="align-centre">
+            <add place="RM">
+               <lg>
+                  <l>1 lawfull</l>
+                  <l>or</l>
+                  <l>vnlawfull</l>
+               </lg>
+            </add>
+            <seg rend="curly-bracket-R">
+               2 By lycensing others <lb/>
+               to trade Comodities
+            </seg>
+         </p>
+         <p>
+            <add place="LM">1</add>
+            Lawfull, but soly
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par: a<ex>nn</ex>o 29 <lb/>
+                  H:6: n:15
+               </foreign>
+            </add>
+            Thus did H: 6: by approbac<ex>i</ex>on of parliam<ex>en</ex>t w<ex>i</ex>thall <lb/>
+            the trade of allom for two yeares, granted the <lb/>
+            marchants of Sout<ex>hamp</ex>ton for 8000l, and againe for <lb/>
+            the like sum<ex>m</ex>e to those of Genoway
+         </p>
+         <p>
+            <add place="LM">2</add>
+            Vnlawfull or prohibited
+         </p>
+         <p>
+            Thus did many of the kings after <del rend="strikethrough">there</del> such <lb/>
+            time as the heavy burden of imposition began in <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot: Claus: a<ex>nn</ex>o <lb/>
+                  91: H: 3
+               </foreign>
+            </add>
+            the miserable necessitie of H: 3: called then by no <lb/>
+            better name then maltolt and continued vntill <ex>th</ex>e <lb/>
+            15 yeare of R:2 by diuerse intermissions (for then <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par: a<ex>nn</ex>o <lb/>
+                  15: R: 2:
+               </foreign>
+            </add>
+            I finde the last petic<ex>i</ex>on of many in p<ex>ar</ex>liam<ex>en</ex>t ag<ex>ains</ex>t it) was <lb/>
+            altogether taken away, For when R:2: and his <lb/>
+            successors found the Revenew lessened by the im=<lb break="no"/>
+            portunate cry of their people, whereby imposi=<lb break="no"/>
+            =tions were layd aside, they began to devise another <lb/>
+            sup<ex>p</ex>ly out of the vnbounden power of supposed <lb/>
+            prerogative; And finding a greedie desire of one <lb/>
+            marchant to pr<ex>e</ex>vent another of his markett (re=<lb break="no"/>
+            strained by that Stat w<ex>hi</ex>ch tyed them to one time &amp; <lb/>
+            one Port, Callice for all Staple Comodities) <lb/>
+            they vsed to sell Lycenses w<ex>i</ex>th clause of <foreign xml:lang="la">non obstante</foreign> <lb/>
+            any S<add place="above">t</add>atute, whereby they dispenced w<ex>i</ex>th multitudes, <lb/>
+            to trade what comodities, and to what places <lb/>
+            they would, To the marchants of Newcastle :R: <lb/>
+            2 gaue leave to carry wooll fells &amp;c to any other <lb/>
+            Port besides Callice, vpon Condic<ex>i</ex>on that they should
+            <pb n="71r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f071r/hargrave_ms_311_f071r.jpg"/>
+            pay for them Custome and Subsidie according <lb/>
+            to <foreign xml:lang="fr">
+                    <hi rend="italic">le sage discretion de vous au de vostre Counseil</hi>
+                </foreign> <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex pet: a<ex>nn</ex>o 7 <lb/>
+                  H:4:
+               </foreign>
+            </add>
+            to diuerse Cittizens of London :H:4 in like sorte <lb/>
+            dispenseth for great quantities of Tynn for seuen <lb/>
+            yeares, paying 4000l yearly aboue the Custome
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex pet a<ex>nn</ex>o 5 <lb/>
+                  H: 6
+               </foreign>
+            </add>
+            H: 6: a<ex>nn</ex>o 5: 21: 30 reneweth to the towne of <lb/>
+            Newcastle the same lycense they had a<ex>nn</ex>o 20: R:2 <lb/>
+            and granteth 600 sacks of wooll to Benedict <lb/>
+            Benony marchant of Florence w<ex>i</ex>th <foreign xml:lang="la">non obstante</foreign> <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex act Conc:
+               </foreign>
+            </add>
+            any statute or restraint. In this yeare such lycen=<lb break="no"/>
+            ses were so frequent, that the towne of Callice <lb/>
+            complayned in p<ex>ar</ex>liam<ex>en</ex>t of their decay thereby, yet <lb/>
+            without releife, as it seemeth, For the same king <lb/>
+            a<ex>nn</ex>o 36: giueth leaue to Lawrence Barbarico to <lb/>
+            transport from London to Cicester 12000l sacks <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex Billa orig: <lb/>
+                  a<ex>nn</ex>o 10: E: 4
+               </foreign>
+            </add>
+            of wooll to what partes hee list. And E: 4. a<ex>nn</ex>o 10 <lb/>
+            borrowing 1000l of diuerse marchants p<ex>er</ex>mitteth <lb/>
+            them, <foreign xml:lang="la">non obstante</foreign> any Law to carry any staple <lb/>
+            Comodities to the streights of Morrocco, vntill they <lb/>
+            were satisfied there sum<ex>m</ex>e
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex Billa compot <lb/>
+                  inter H: 7:et: <lb/>
+                  Dudley
+               </foreign>
+            </add>
+            H: 7: raised much money by giueing leaue to <lb/>
+            many marchants to trade inward and outward <lb/>
+            Comodities prohibited As, to Alonso de Burgues, <lb/>
+            greate proporc<ex>i</ex>ons of woad a<ex>nn</ex>o 6 H:7 And to a <lb/>
+            multitude of others all kinds of graine and other <lb/>
+            forbidden things As in a<ex>nn</ex>o 20: 21: 22:
+         </p>
+         <p rend="align-centre">
+            <add place="RM">
+               <list rend="numbered">
+                  <item n="1">Farming out of shipps</item>
+                  <item n="2">Raising the booke of Rates</item>
+                  <item n="3">Farming the Customes</item>
+               </list>
+            </add>
+            <seg rend="curly-bracket-R">
+               3 Improueing of <lb/>
+               Customes by
+            </seg>
+         </p>
+         <p>
+            <add place="LM">1</add>
+            Farming out of Shipps the marchants and takeing <lb/>
+            securitie of them, either to bring in or carry out <lb/>
+            yearlie as much Comodities as shall yeild the King <lb/>
+            in Customes the sume agreed on, or else to make <lb/>
+            it vp out of their owne money. Thus did H: 7: many <lb/>
+            yeares not only w<ex>i</ex>th his Shipps but w<ex>i</ex>th diuerse <lb/>
+            stocks of money
+         </p>
+         <p>
+            <add place="LM">2</add>
+            Raising the Booke of Rates This was in some
+            <pb n="71v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f071v/hargrave_ms_311_f071v.jpg"/>
+            some sorte done <foreign xml:lang="la">
+                    <hi rend="italic">consensu merceator</hi>
+                </foreign> by <lb/>
+            E: 1 and E: 3: and againe in H: 8 tyme, of w<ex>hi</ex>ch <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot claus: 29. E:1 <lb/>
+                  Rot Almaign <lb/>
+                  3:E:3 <lb/>
+                  Extract Bruxells
+               </foreign>
+            </add>
+            the house of Burgundee complayned as ag<ex>ains</ex>t <lb/>
+            the treate of inter course, and of late so stretch<lb break="no"/>
+            ed, as it is feared, it will proue the ouerthrow <lb/>
+            of trade Neither doe I finde this course at <lb/>
+            any other time.
+         </p>
+         <p>
+            As a branch of this may aptlie fall out <lb/>
+            the benefitt Princes made by a Prerogatiue <lb/>
+            power of imposeing inward and outward <lb/>
+            upon Comodities ouer and aboue the an=<lb break="no"/>
+            tient custome or subsidie
+         </p>
+         <p>
+            The first that vsed this course after the <lb/>
+            state was setled from a king of a voluntary <lb/>
+            gou<ex>er</ex>nm<ex>en</ex>t after the Conquest (when as kings <lb/>
+            ruled more by the edge of the sword then by <lb/>
+            rule of Law) was H: 3 about the entrance <lb/>
+            of his Raigne But finding it to bee an appa=<lb break="no"/>
+            rent ou<ex>er</ex>throw of Com<ex>m</ex>erce and trade and ag<ex>ains</ex>t <lb/>
+            <add place="LM">
+               Magna carta ca <lb/>
+               30:
+            </add>
+            the greate Charter made proclamac<ex>i</ex>on a<ex>nn</ex>o 16 <lb/>
+            H: 3: in all portes of England, that all mar=<lb break="no"/>
+            chants might come <foreign xml:lang="la">
+                    <hi rend="italic">faciendo rectas et debitas <lb/>
+               <add place="LM">
+                  <foreign xml:lang="la">
+                     Dors claus a<ex>nn</ex>o 16 <lb/>
+                     H: 3: no:20
+                  </foreign>
+               </add>
+               consuetudines, nec sibi timeant de malis <lb/>
+               toltis</hi>
+                </foreign> For it had noe better name then <lb/>
+            maltolts
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Stat a<ex>nn</ex>o 25: E:1
+               </foreign>
+            </add>
+            Some impositions being laid by E: 1: hee <lb/>
+            in anno 25 taketh them away w<ex>i</ex>th promise <lb/>
+            that neither hee nor his successors should doe <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Rot par 31: E: <lb/>
+                  1 m: 42
+               </foreign>
+            </add>
+            any such thing w<ex>i</ex>thout assent of p<ex>ar</ex>liam<ex>en</ex>t, grant=<lb break="no"/>
+            ing in a<ex>nn</ex>o 31: to the marchants many im<ex>m</ex>uni<lb break="no"/>
+            ties, as release of prisage, for w<ex>hi</ex>ch they re=<lb break="no"/>
+            quite him w<ex>i</ex>th some increase of Customes, <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Stat 34: E: 1: <lb/>
+                  ca: 1: et: 2
+               </foreign>
+            </add>
+            but not as imposed by his owne power, For <lb/>
+            hee in a<ex>nn</ex>o 34 declareth that noe tallage or
+            <pb n="72r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f072r/hargrave_ms_311_f072r.jpg"/>
+            or ayde should bee levied without the assent <lb/>
+            of p<ex>ar</ex>liam<ex>en</ex>t, nor any thing to bee taken of wools <lb/>
+            by collor of maltolt
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ordinat a<ex>nn</ex>o 5: <lb/>
+                  E: 2 cap: 14:
+               </foreign>
+            </add>
+            In E: 2: it appeareth the levying of new cust=<lb break="no"/>
+            =omes and raysing of old, was the destrucc<ex>i</ex>on of <lb/>
+            traffique, and therefore repealed all Maltolts <lb/>
+            Onlie in a<ex>nn</ex>o 11 et 12 hee taketh by way of <lb/>
+            loane, and <del rend="strikethrough">hwe</del> with leave of the marchants <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot Claus a<ex>nn</ex>o 11: <lb/>
+                  E:2
+               </foreign>
+            </add>
+            some former increase vpon woolls, ascribinge <lb/>
+            nothing to any supreame power to impose
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot Fin: 1:E:3 <lb/>
+                  stat: 2: E: 3: ca <lb/>
+                  9:
+               </foreign>
+            </add>
+            The like did E: 3: a<ex>nn</ex>o 1o: confirming in a<ex>nn</ex>o <lb/>
+            2o: the great Charter of Free traffique. <lb/>
+            But haueing about a<ex>nn</ex>o 5 grant|ed certeine Com=<lb break="no"/>
+            =mis<ex>sio</ex>ns for a new kinde of raising tallage, the <lb/>
+            people complayned the yeare following, <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">Rot par: 6: E: 3</foreign>
+            </add>
+            wherevpon hee repealeth the said Commiss<ex>io</ex>ns, &amp; <lb/>
+            promiseth neu<ex>er</ex> to assesse anie but as in time <lb/>
+            of his Ancestors After in a<ex>nn</ex>o 11: by reason <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Stat 11: E: 3: <lb/>
+                  cap: 1
+               </foreign>
+            </add>
+            of a Stat then made restrayning all men vpon <lb/>
+            paine of death for transporting any wooles <lb/>
+            w<ex>i</ex>thout lycense from the king
+         </p>
+         <p>
+            E: 3 made great advantage by selling of dis=<lb break="no"/>
+            pensation of that Law, and grounded vpon it <lb/>
+            many impositions, but it fell so heauy vpon <lb/>
+            the people, that their discontents so farr in=<lb break="no"/>
+            creased, that the king was inforced to cause <ex>th</ex>e <lb/>
+            ArchB<ex>ishop</ex> of Cant to p<ex>er</ex>swade them to patience by <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Stat 13: E: 3: <lb/>
+                  Rot par a<ex>nn</ex>o 13 <lb/>
+                  E: 3:
+               </foreign>
+            </add>
+            his godly exhortac<ex>i</ex>ons, yet notwithstanding hee <lb/>
+            continued by gentle intermissions the aduant=<lb break="no"/>
+            =age hee had by that Law, takeing an improuem<ex>en</ex>t <lb/>
+            of custome for openinge the passage, that there <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Stat 14: E: 3:
+               </foreign>
+            </add>
+            by was shutt in a<ex>nn</ex>o 13 vntill the same yeare the <lb/>
+            same State made purchase of their former <lb/>
+            freedome and discharge of the Maltolt by <lb/>
+            granting the 10th sheafe and Fleece &amp;c
+         </p>
+         <pb n="72v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f072v/hargrave_ms_311_f072v.jpg"/>
+         <p>
+            And thus it continued all his Raigne, being a <lb/>
+            time of greate necessitie and expence by reason <lb/>
+            of the warrs, hee sometimes taking the advantage <lb/>
+            either to raise an imposition, or else to gaine <lb/>
+            an ayde from the people, in discharge there=<lb break="no"/>
+            of, they continuallie vrging the iniurie in <lb/>
+            barring them their birth right, And the king <lb/>
+            on the other side the greatnesse of his owne <lb/>
+            occasions
+         </p>
+         <p>
+            And it may bee gathered by Record that thus <lb/>
+            it held on vntill the 15 R: 2: In w<ex>hi</ex>ch yeare<del rend="strikethrough">s</del> <add place="above">is</add> the <lb/>
+            last petic<ex>i</ex>on ag<ex>ains</ex>t impositions, gen<ex>er</ex>ally grounded <lb/>
+            (in likely hood) from the kings power in re=<lb break="no"/>
+            strayninge or p<ex>er</ex>mitting trade, All the tyme <lb/>
+            <add place="LM">
+               Licence granted by <lb/>
+               H:4: H:5: H:6: <lb/>
+               to many m<ex>er</ex>chants w<ex>i</ex>th <lb/>
+               <foreign xml:lang="la">non obstante</foreign> any <lb/>
+               statute:
+            </add>
+            after although lycense<unclear>s</unclear>s w<ex>i</ex>th <foreign xml:lang="la">non abstante</foreign> were <lb/>
+            ordinary, yet were they to priuate p<ex>er</ex>sons, and <lb/>
+            for p<ex>ar</ex>ticular proporc<ex>i</ex>ons of com<ex>m</ex>odities, whereby <lb/>
+            the kings succeedinge raised noe lesse benefitt <lb/>
+            then by sale of any gen<ex>er</ex>all p<ex>er</ex>mission.
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Ordinat Conc <lb/>
+                  a<ex>nn</ex>o 12: H:6
+               </foreign>
+            </add>
+            To this of impositions I may add the rule I find <lb/>
+            a<ex>nn</ex>o 12 H: 6 made in Councell That the value of <lb/>
+            all goods for paym<ex>en</ex>t of subsidie shall bee rated <lb/>
+            of Comodities domesttique, as they may bee <lb/>
+            sold beetweene marchant and m<ex>ar</ex>chant, And if <lb/>
+            Forreine, then so as it shall appeare vpon oath <lb/>
+            of the marchant or his Factor they stood them <lb/>
+            in at first. And the gen<ex>er</ex>al maxime w<ex>hi</ex>ch limitts <lb/>
+            all regall advantage vpon trade of marchantes is <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">ut causa honesta sit et necessaria, Ratio facilis, <lb/>
+               tempus idoneum</hi>
+                </foreign>
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Claus a<ex>nn</ex>o 5: E: <lb/>
+                  3:
+               </foreign>
+            </add>
+            3: Farming out of Customes. So did E:3: w<ex>i</ex>th the old <lb/>
+            and new Customes at London for 1000 m<ex>ar</ex>kes <lb/>
+            monthly, to bee paid into the wardrobe, The <lb/>
+            like hee did a<ex>nn</ex>o 17:
+         </p>
+         <p>
+            R:2: a<ex>nn</ex>o 20: letteth out for terme of life the subsidie <lb/>
+            of Cloath in diuerse Counties, And E:4: a<ex>nn</ex>o 7o: the <lb/>
+            subsidie of vluage of Cloth.
+         </p>
+         <pb n="73r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f073r/hargrave_ms_311_f073r.jpg"/>
+         <p>
+            Thus did H: 8: w<ex>i</ex>th his Customes, And since <lb/>
+            his time the late queene, and our now Sover<lb break="no"/>
+            aigne Master, And it was so then in vse in <lb/>
+            the best gouerned State (Rome) w<ex>hi</ex>ch let out their <lb/>
+            porc<ex>i</ex>ons and decimes to the Publicans
+         </p>
+         <p rend="align-centre">
+            3 Kings raise money and improue <lb/>
+            the Revenews of the Crowne.
+         </p>
+         <p rend="align-centre">
+            <seg rend="curly-bracket-LR">
+               <lg>
+                  <l>Temporall</l>
+                  <l>
+                     <add place="LM">
+                        By Regalityes
+                     </add>
+                     or
+                     <add place="RM">
+                        as for
+                        <seg rend="curly-bracket-L">
+                           <list rend="numbered">
+                              <item n="1">
+                                 Liberties &amp;c
+                              </item>
+                              <item n="2">
+                                 Penalties of <lb/>
+                                 Lawes
+                              </item>
+                              <item n="3">
+                                 L<ex>ett</ex>res of fauour
+                              </item>
+                           </list>
+                        </seg>
+                     </add>
+                  </l>
+                  <l>Mixt</l>
+               </lg>
+            </seg>
+         </p>
+         <p>
+            <add place="LM">1</add>
+            Liberties, in granting, restrayning, or renewing <lb/>
+            them.
+         </p>
+         <p>
+            It is a course vsuall, that kings have raised <lb/>
+            by calling in question, the Charters and liberties <lb/>
+            of Corporac<ex>i</ex>ons, Leetes, Free Warrens, and <lb/>
+            other Royalties
+         </p>
+         <p>
+            Thus did R: 1st: proclayming <foreign xml:lang="la">
+                    <hi rend="italic">q<ex>uo</ex>d omnes Charta <lb/>
+               <add place="RM">
+                  <foreign xml:lang="la">
+                     Ex Rodo Cogshall
+                  </foreign>
+               </add>
+               et confirmationes quæ prioris sigilli impressione <lb/>
+               roborauerint, irritæ forent nisi posteriori <lb/>
+               sigillo roborentur</hi>
+                </foreign>
+         </p>
+         <p>
+            And H: 3: a<ex>nn</ex>o 10: enioyed all <hi rend="italic">
+                    <foreign xml:lang="la">qui suis volebant <lb/>
+               libertatibus gaudere, vt innouarent Chartas <lb/>
+               suas de nouo Regis sigillo</foreign>
+                </hi>, getting money ther=<lb break="no"/>
+            by
+         </p>
+         <p>
+            E: 1st: by diuerse Com<ex>m</ex>issions w<ex>i</ex>th articles called <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot Ragman <lb/>
+                  a<ex>nn</ex>o 7: E:1:
+               </foreign>
+            </add>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Articuli de Ragman</hi>
+                </foreign> annexed to them, called <lb/>
+            in question about a<ex>nn</ex>o 7: all the liberties and free=<lb break="no"/>
+            domes of England Gilbert de Thornton his <lb/>
+            Atturney, putting in Informac<ex>i</ex>on by quo war=<lb break="no"/>
+            ranto against all p<ex>er</ex>sons, aswell bodies politique <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Rot quo warr: <lb/>
+                  a<ex>nn</ex>o 8: E:1:
+               </foreign>
+            </add>
+            as others, whereby they were enforced a new to <lb/>
+            renewe their Charters, and fine for their lib<ex>er</ex>ties.
+         </p>
+         <pb n="73v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f073v/hargrave_ms_311_f073v.jpg"/>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la"> 
+                  Rot quo warr <lb/>
+                  13: E: 3 <lb/>
+                  Com term: Hill <lb/>
+                  a<ex>nn</ex>o 9. E:3: Rot:8
+               </foreign>
+            </add>
+            The like was in a<ex>nn</ex>o 13: E:3: in whose time <lb/>
+            a<ex>nn</ex>o 9: all Clauses of allowances by Charter of <lb/>
+            amerciam<ex>en</ex>ts Fines &amp;c imposed by the Kinges Minis=<lb break="no"/>
+            ters vpon of the ten<ex>n</ex>ants of other men, were ad=<lb break="no"/>
+            iudged voyd, and the penalties made payable <lb/>
+            to the kings officers, vnlesse they made a new <lb/>
+            purchase of their lib<ex>er</ex>ties, and this was one of <lb/>
+            the vsuallest and easiest meanes to raise money <lb/>
+            <del rend="strikethrough">form</del> <add place="above">from</add> the people, because it lighteth vpon, <add place="above">only</add> <del rend="strikethrough">
+                    <gap reason="illegible" quantity="4" unit="chars"/>
+                </del> <lb/>
+            the best abilities. And if there were now but <lb/>
+            XXl taken of euery Corporac<ex>i</ex>on, of euery p<ex>er</ex>son <lb/>
+            that holdeth by Charter his liberties 5l for <lb/>
+            renewing them, and of euery one that <lb/>
+            Claymeth by pr<ex>e</ex>scripc<ex>i</ex>on 10l for purchase of <lb/>
+            a Charter, all w<ex>hi</ex>ch would bee easie and accep=<lb break="no"/>
+            table, it would amount to aboue 100000l
+         </p>
+         <p>
+            <add place="LM">2</add>
+            For penall Lawes, they haue beene some <lb/>
+            times, but w<ex>i</ex>th ill successe wrought vpon.
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Instruct orig: <lb/>
+                  22: R: 2
+               </foreign>
+            </add>
+            When R:2: a<ex>nn</ex>o 22: began this course appointing <lb/>
+            in all his Comiss<ex>io</ex>ns and Instructions, Bushey <lb/>
+            only to bee of the quorum for compounding <lb/>
+            w<ex>i</ex>th the Delinquents, It wrought in the affecc<ex>i</ex>ons of <lb/>
+            his people, such distrust that it grewe the death <lb/>
+            of the one, and deposition of the other
+         </p>
+         <p>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Proc contra <lb/>
+                  Dudley: 1o: H: 8
+               </foreign>
+            </add>
+            Noe lesse fatall was the like to Empson: &amp; dudly, <lb/>
+            and there is no string will sooner iarr in the <lb/>
+            Com<ex>m</ex>on wealth then this, if it be gen<ex>er</ex>ally touched.
+         </p>
+         <p>
+            <add place="LM">3</add>
+            For letters of fauour, either for mitigac<ex>i</ex>on <lb/>
+            or dispatch of Iustice.
+         </p>
+         <p>
+            Of the first sorte there bee many found in <lb/>
+            H:6: and E:4: his time, somtimes of p<ex>ro</ex>tecc<ex>i</ex>on, <lb/>
+            although by course of Com<ex>m</ex>on Law none ar <lb/>
+            warrantable but to such as are goeing in
+            <pb n="74r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f074r/hargrave_ms_311_f074r.jpg"/>
+            in <foreign xml:lang="la">
+                    <hi rend="italic">obsequium Regis</hi>
+                </foreign>, or <foreign xml:lang="la">
+                    <hi rend="italic">ibidem moraturi</hi>
+                </foreign>, <lb/>
+            sometimes freeing men from arrests, by calling <lb/>
+            them vp to appeare before the Kings Councell <lb/>
+            sometimes in cases highly criminall releiueing <ex>th</ex>e <lb/>
+            prison<ex>e</ex>r, in com<ex>m</ex>anding to Iudges to make stay <lb/>
+            of all proceedings vpon supposall of indirect <lb/>
+            practises vntill the King was better informed
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Lib acquitt <lb/>
+                  inter: H:7: et <lb/>
+                  Dudly
+               </foreign>
+            </add>
+            Of the second sorte there are many in H:7 his <lb/>
+            time, where the K<ex>ing</ex> hath taken money, for <lb/>
+            writeing to the Iudges of Assize his letters <lb/>
+            of Favour.
+         </p>
+         <p>
+            <add place="LM">4</add>
+            For officers, thus did king Iohn w<ex>i</ex>th the <lb/>
+            Chancellorsh<ex>i</ex>pp selling it for terme of life <lb/>
+            to Gray for 5000 markes.
+         </p>
+         <p>
+            Diuerse offices now in the guift of the M<ex>aste</ex>r <lb/>
+            of the Rolls were ingaged to the Chancellour <lb/>
+            of treasuror of England, as are to bee seene <lb/>
+            in Records of H:4: H:5: and H:6: to bee <lb/>
+            passed by warrant of the kings hand, and <lb/>
+            vpon some considerac<ex>i</ex>on. And H:7 renewed <lb/>
+            this course, vsing Dudly as his instrum<ex>en</ex>t to com=<lb break="no"/>
+            pound w<ex>i</ex>th suitors for those and any other places.
+            And by that Record wee finde that Chauncellor <lb/>
+            the cheife Iustice, the keepers of most of the <lb/>
+            Records, the Clerks of the Assize and peace, <lb/>
+            the Masters of the game and parks, and <lb/>
+            whatsouever else carrying either proffitt or <lb/>
+            reputac<ex>i</ex>on, paid to the king some proporc<ex>i</ex>on of <lb/>
+            money, for their places. Neither is this differ<ex>en</ex>t <lb/>
+            from the course of other States, For in France <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Æmilius in <lb/>
+                  victi Lewis: 12
+               </foreign>
+            </add>
+            Lewis the 12 (called the Father of his Country) <lb/>
+            did so w<ex>i</ex>th all offices, not being of Iudicature, w<ex>hi</ex>ch <lb/>
+            his Successors did not forbeare.
+         </p>
+         <p>
+            <add place="RM">
+               Vasques cap: 43/40
+            </add>
+            In Spaine it is vsuall And Vasques the <lb/>
+            Spanish Aduocate defendeth the lawfulnes of <lb/>
+            it. And Charles the 5th pr<ex>e</ex>scribeth it to his sonn <lb/>
+            <add place="RM">
+               Instruct Car:5: <lb/>
+               to Phillip:2:
+            </add>
+            as a rule in his last instrucc<ex>i</ex>on, drawing his
+            <pb n="74v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f074v/hargrave_ms_311_f074v.jpg"/>
+            his ground of reason and conveniencie from <ex>th</ex>e <lb/>
+            example and practise of the See of Rome.
+         </p>
+         <p>
+            The like might bee of all inferior promoc<ex>i</ex>ons <lb/>
+            that are or may bee, in the kings guift, whether <lb/>
+            Ecclesiasticall, or temporall, if they were after <lb/>
+            the true value, in proffitt and reputac<ex>i</ex>on, listed <lb/>
+            into rankes accordinge to the seu<ex>er</ex>all natures <lb/>
+            of their imploym<ex>en</ex>ts respectiuelie
+         </p>
+         <p>
+            <add place="LM">5</add>
+            For hon<ex>ou</ex>rs, and that either by pow<ex>e</ex>r legall or election.
+         </p>
+         <p>
+            Of the first, It is onlie in respect of land, <lb/>
+            whereby euery man is to fyne when the King <lb/>
+            shall require, that hath abilitie to bee made <lb/>
+            a Kn<ex>igh</ex>t, and is not, of this sort their bee plen=<lb break="no"/>
+            tie of examples.
+         </p>
+         <p>
+            The other out of choise and grace, as <hi rend="italic">Hugo <lb/>
+               de Putiaco</hi> B<ex>isho</ex>pp of Durham was by king R:2: <lb/>
+            created Earle of Northumberland for a great <lb/>
+            sum<ex>m</ex>e of money And I doubt not but many <lb/>
+            of theis times would set their Ambition at as <lb/>
+            high a price, And for his Ma<ex>jes</ex>tie now to make <lb/>
+            a degree of hon<ex>ou</ex>r hereditaree, as Baronetts <lb/>
+            next vnder Barons, and grant them in taile, <lb/>
+            takeing of euery one 1000l in fyne, it would <lb/>
+            raise w<ex>i</ex>th ease 100000l, and by a iudicious <lb/>
+            elecc<ex>i</ex>on bee a meanes to content those worthy <lb/>
+            p<ex>er</ex>sons in the Com<ex>m</ex>on wealth, that by the confus=<lb break="no"/>
+            ed admission of many knights of the Bath, held <lb/>
+            themselues all this time disgraced.
+         </p>
+         <p>
+            <add place="LM">6</add>
+            For Coyne and Bullion, by w<ex>hi</ex>ch, although <lb/>
+            some kings out of a last shift haue seemed <lb/>
+            to releiue themselues, yet was it (in truth) <lb/>
+            full of danger and distrust to the Com<ex>m</ex>on 
+            <pb n="75r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f075r/hargrave_ms_311_f075r.jpg"/>
+            wealth, being an assured token of a bankrupt State, <lb/>
+            and to the Prince in conclusion of most disadvant=<lb break="no"/>
+            =age, For the revenews of the Crowne being <lb/>
+            com<ex>m</ex>only incerteine Rents, they must, in true <lb/>
+            value, howsoeu<ex>er</ex> in verball sound, bee abated to <lb/>
+            the proporc<ex>i</ex>on that the money shalbee abased. <lb/>
+            And euery man will rate his com<ex>m</ex>oditie in <lb/>
+            sale, not according to the account of pence or <lb/>
+            pounds, but to the weight of the pure silver <lb/>
+            conteyned in the current money, As for <lb/>
+            example, that w<ex>hi</ex>ch was before the decrying of the <lb/>
+            coyne worth 5s: in the pound weight, will (if <lb/>
+            the allay bee to the halfe) bee held at 10s: And <lb/>
+            so in euery proporc<ex>i</ex>on respectiuly; For money <lb/>
+            is not meerly to bee esteemed in respect of the <lb/>
+            sculpture or Figure, but it must value in <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">pecunia quantum in massa</hi>
+                </foreign>, And silver is a <lb/>
+            Comoditie as other wares, and therefore hold=<lb break="no"/>
+            eth its estimac<ex>i</ex>on as they doe, according to the <lb/>
+            goodnes, And the Lo<ex>rd</ex> Treasur<ex>er</ex> Burleigh in a<ex>nn</ex>o <lb/>
+            1561 when the current of state Councell af=<lb break="no"/>
+            fected an abas'm<ex>en</ex>t of Coyne, after a grave <lb/>
+            deliberac<ex>i</ex>on, advised the queene from it, and <lb/>
+            never would giue way to any such resoluc<ex>i</ex>on <lb/>
+            in his time.
+         </p>
+         <p>
+            But that benefitt w<ex>hi</ex>ch truly the king may make <lb/>
+            more of bullion then now hee doth, is to erect <lb/>
+            againe <foreign xml:lang="la">
+                    <hi rend="italic">Cambium Regis</hi>
+                </foreign>, his owne Excheq<ex>ue</ex>r, an <lb/>
+            office as antient as before: H: 3: and so conti=<lb break="no"/>
+            nued vntill the midle of H: 8: the proffitt of it <lb/>
+            being now ingrossed amongst a few Goldsmiths <lb/>
+            and would yeald aboue 10000l a yeare, if it <lb/>
+            were heedfully regarded, and then should the <lb/>
+            king himselfe keep his mint in continuall <lb/>
+            worke, and not stand at the deuoc<ex>i</ex>on of others <lb/>
+            to supply Bullion, and should neu<ex>er</ex> want the <lb/>
+            materealls if two things were observed. The <lb/>
+            one to p<ex>er</ex>mitt all men bringing in Bullion to <lb/>
+            trade outward the value thereof in domestique
+            <pb n="75v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f075v/hargrave_ms_311_f075v.jpg"/>
+            Comodities at an abated Custome, the other to <lb/>
+            abate the mightie indraught of Foreine <lb/>
+            Manufactures and vnnecessarie wares, that the <lb/>
+            outward trade might ouer ballance the inward, <lb/>
+            w<ex>hi</ex>ch otherwise will (as it hath done) drow on <lb/>
+            <add place="LM">
+               Ex Sccio inter <lb/>
+               Remembr Regis <lb/>
+               27o: E:3
+            </add>
+            this desperate Consumpc<ex>i</ex>on of the Com<ex>m</ex>on <lb/>
+            wealth, w<ex>hi</ex>ch in a<ex>nn</ex>o 27: E: 3: was otherwise, <lb/>
+            for then the <foreign xml:lang="la">
+                    <hi rend="italic">Exitus</hi>
+                </foreign> exceed the <foreign xml:lang="la">
+                    <hi rend="italic">introitus</hi>
+                </foreign> <lb/>
+            <space extent="5" unit="chars"/> pounds. And in the last times of the <lb/>
+            late queene as in a<ex>nn</ex>o <space extent="10"/> For at this <lb/>
+            time the vnmeasurable vse of Luxurious <lb/>
+            Comodities was brought in, as wynes, spices, <lb/>
+            silke and finne lynnens &amp;c For of the later <lb/>
+            sort of aboue ten groates the ell there is <lb/>
+            aboue 360000l yearly spent, w<ex>hi</ex>ch is halfe <ex>th</ex>e <lb/>
+            value of our Clothes transported, maketh <lb/>
+            the State to buy more then they do sell, <lb/>
+            whereas a good Father of a Familie ought to <lb/>
+            be <foreign xml:lang="la">
+                    <hi rend="italic">vendacem</hi>
+                </foreign> and not <foreign xml:lang="la">
+                    <hi rend="italic">emacem</hi>
+                </foreign>. Besides the <lb/>
+            Condic<ex>i</ex>on of our people is now such that the <lb/>
+            greater parte neither gett nor saue, w<ex>hi</ex>ch in a <lb/>
+            priuate house is an apparent argum<hi>en</hi>t of <lb/>
+            ruyninge, and must bee no lesse in a Com<ex>m</ex>on <lb/>
+            wealth, And it is observed gen<ex>er</ex>allie, that <lb/>
+            hence the want of Bullion now is such, that <lb/>
+            there is not money sufficient to pay the lend<ex>e</ex>rs <lb/>
+            their principall, so that vsurie is paid for <lb/>
+            mony vpon supposition, &amp; not really.
+         </p>
+         <p>
+            If then his Ma<ex>jes</ex>tie shall bee pleased by advise <lb/>
+            of his Councell to advantage himselfe any other <lb/>
+            wise by Coynage, it will bee safer to doe it vpon <lb/>
+            a simple mettall, then by any implyant or bett<ex>e</ex>r <lb/>
+            suite, w<ex>hi</ex>ch well gouerned States both moderne &amp; <lb/>
+            antient vsed. For Rome in her increase &amp; <lb/>
+            greatest pitch of glory had there money <foreign xml:lang="la">
+                    <hi rend="italic">ære <lb/>
+               argento auro puro puto</hi>
+                </foreign> And so haue all the
+            <pb n="76r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f076r/hargrave_ms_311_f076r.jpg"/>
+            Monarchies absolute at this Day in Christen<lb break="no"/>
+            dome, And I beleeve it my bee wrought to his <lb/>
+            Ma<ex>jes</ex>tie of good value, and to the State of much <lb/>
+            ease, if it may bee put in practise w<ex>i</ex>th discreete <lb/>
+            caution, &amp; constant resoluc<ex>i</ex>on, For the danger may <lb/>
+            bee onlie in the ventinge of the quantitie, w<ex>hi</ex>ch may <lb/>
+            clogg the State w<ex>i</ex>th vsles money, or execution of <lb/>
+            example, w<ex>hi</ex>ch may worke in by degrees an abasem<ex>en</ex>t <lb/>
+            of Bullion
+         </p>
+         <p>
+            The proportion that I would hold beneficiall <lb/>
+            and safe should bee in the masse at first 120000l, <lb/>
+            by w<ex>hi</ex>ch his Ma<ex>jes</ex>tie should gaine 10000l cleerlie, <lb/>
+            in w<ex>hi</ex>ch his Ma<ex>jes</ex>tie should gaine 1000l And the li=<lb break="no"/>
+            mitation, that none bee inforced to take any <lb/>
+            but in sum<ex>m</ex>es vnder XXs and then but the twen=<lb break="no"/>
+            tieth part proporc<ex>i</ex>onable
+         </p>
+         <p>
+            Against this some may obiect, that it will either <lb/>
+            not advantage the king so much as is p<ex>ro</ex>iected, <lb/>
+            either from the difficulty in venting, or facilitie <lb/>
+            in Counterfeitinge, or else pr<ex>e</ex>iudice the State <lb/>
+            w<ex>i</ex>th a vselesse money.
+         </p>
+         <p>
+            The benefitt of the king will easilie fall out, if <lb/>
+            hee restrayne Retaylors of victuall and small <lb/>
+            wares <sic>forom</sic> vseing their owne tokens, For <lb/>
+            in and about London there are aboue 3000 that <lb/>
+            one w<ex>i</ex>th an other cast yearlie 5l a peece of lead=<lb break="no"/>
+            en tokens, whereof the 10th remaineth not to <lb/>
+            them at the yeares end, when they renewe <lb/>
+            their store, w<ex>hi</ex>ch amounteth to aboue 15000l <lb/>
+            And all the rest of this Realme cannot bee in<lb break="no"/>
+            feriour to the Cittie in proporc<ex>i</ex>on And the forme <lb/>
+            and figure may w<ex>i</ex>th an engine so <del rend="strikethrough">subtel</del> subtlelie <lb/>
+            bee milled, that the charge will pr<ex>e</ex>vent all prac=<lb break="no"/>
+            tise of false play For the pr<ex>e</ex>iudice Since London <lb/>
+            (w<ex>hi</ex>ch is not the 24 part in people of the Kingdome) <lb/>
+            had in it found 800000 by a late inquirie by <lb/>
+            order of the late queene, and so falleth out
+            <pb n="76v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f076v/hargrave_ms_311_f076v.jpg"/>
+            to bee 2d a person in the intire state, it may <lb/>
+            bee nothing either of losse by the first vtteringe, <lb/>
+            being so easie, nor burthen any w<ex>i</ex>th too great <lb/>
+            a masse at a time, since continuall vse will <lb/>
+            disperse so small a quantitie into so many <lb/>
+            hands. But on the other side, it will bee to <lb/>
+            the meaner sort (except the retaylors that <lb/>
+            made as much advantage formerly of their <lb/>
+            owne tokens, as the king shall now of necessary <lb/>
+            vse and benefitt, For the buy<ex>e</ex>rs hereafter shall <lb/>
+            not bee tyed to one sellor and his badd Comodi<lb break="no"/>
+            =ties, as they are still, when his tokens, here <lb/>
+            after made currant by authoritie shall leaue <lb/>
+            him to the choise of any other Chapman, <lb/>
+            and to the poore in this time of small <lb/>
+            charitie it will bee of much releife, since many <lb/>
+            are like to giue a farthing alms that will not <lb/>
+            parte w<ex>i</ex>th a greater sum<ex>m</ex>e
+         </p>
+         <p>
+            Besides it cannot but pr<ex>e</ex>vent much wast of silver <lb/>
+            that by the myntinge pence, and halfe pence <lb/>
+            is occasioned, there will bee noe cause hereaft<ex>e</ex>r <lb/>
+            to cutt any Bullion into proporc<ex>i</ex>on so apt for <lb/>
+            losse. what that hath beene may bee coniectured <lb/>
+            if wee marke but of the greate quantities from <lb/>
+            the penney downwards since H:8: tyme stamped, <lb/>
+            how few remaine; whereas of all the Coynes <lb/>
+            from three pence vpwards w<ex>hi</ex>ch are manuable <lb/>
+            (or manuall) plentie passe still in dayly <lb/>
+            payments
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Regalities mixt</hi>
+         </p>
+         <p>
+            As for Restituc<ex>i</ex>on of the temporallities of <lb/>
+            Abbotts and B<ex>isho</ex>pps for w<ex>hi</ex>ch H: 7 receiued <lb/>
+            great sumes.
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Corodaries in Cathedrall Churches</hi>
+         </p>
+         <p>
+            And haueing in euery Cathedrall and Collegiat
+            <pb n="77r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f077r/hargrave_ms_311_f077r.jpg"/>
+            Churches as incident to his Crowne <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> <add place="above">a</add> Corodarie, <lb/>
+            and made money of it at the highest rate hee could.
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Vacancie of Byshoppricke</hi>
+         </p>
+         <p>
+            The benefitt of the vacancie of any B<ex>isho</ex>ps <del rend="strikethrough">
+                    <gap reason="illegible" quantity="7" unit="chars"/>
+                </del> <lb/>
+            some kings haue vsed their best advantage <lb/>
+            makeing a circular remoue of as many as in <lb/>
+            reputac<ex>i</ex>on and proffitt were inferiour to the <lb/>
+            place voyd.
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               Concurrent Iurisdicc<ex>i</ex>on as the Pope <lb/>
+               had in former tymes
+            </hi>
+         </p>
+         <p>
+            Besides theis there are two of noe meane <lb/>
+            Com<ex>m</ex>oditie
+         </p>
+         <p>
+            The one is grounded vpon a Concurrent Iuris=<lb break="no"/>
+            dicc<ex>i</ex>on w<ex>i</ex>th the ordinary in the Diocesse, w<ex>hi</ex>ch the <lb/>
+            king, by haueing the power Papall in that point <lb/>
+            invested in him by act of p<ex>ar</ex>liam<ex>en</ex>t may exercise <lb/>
+            by his Com<ex>m</ex>ission or otherwise remitt to the ordi=<lb break="no"/>
+            narie for some valuable respect. Thus did <lb/>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  Ex composit orig: <lb/>
+                  inter Woolsy et ArchB<ex>ishop</ex> <lb/>
+                  Cant dat: 14: H: 8
+               </foreign>
+            </add>
+            Cardinall Wolsey w<ex>i</ex>th Wareham the Archb<ex>isho</ex>pp <lb/>
+            &amp; all other the B<ex>isho</ex>pps of the kindome, after he <lb/>
+            <del rend="strikethrough">had</del> gott his Legatiue power, And this if it <lb/>
+            were put in practise would drawe to the King <lb/>
+            20000l into his Coffers.
+         </p>
+         <p>
+            <add place="RM">
+               Tenthes of the <lb/>
+               Church landes <lb/>
+               now in <ex>th</ex>e Laytie
+            </add>
+         </p>
+         <p>
+            The other is the short accompt yeilded the king of <lb/>
+            such Eccl<ex>esiast</ex>i<ex>c</ex>all tenths and duties as were often &amp; annually <lb/>
+            paid vnto the Pope in former times, &amp; now by statute <lb/>
+            invested in the Crowne, For in former times the <hi rend="italic">See <lb/>
+               of Rome</hi> received them not, as only out of the meere <lb/>
+            spiritualities, but also from out of all the temporal=<lb break="no"/>
+            =ities of spirituall p<ex>er</ex>sons, w<ex>hi</ex>ch Landes being now devided <lb/>
+            from the Church into the hands of the Laytie, yet ought <lb/>
+            they to pay this duties, since they were setled in the <lb/>
+            Crowne by a former Law, and noe subsequent ever <lb/>
+            hath discharged them
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f062r/hargrave_ms_311_f062r.jpg"/>
+      <graphic n="2" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f062v/hargrave_ms_311_f062v.jpg"/>
+      <graphic n="3" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f063r/hargrave_ms_311_f063r.jpg"/>
+      <graphic n="4" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f063v/hargrave_ms_311_f063v.jpg"/>
+      <graphic n="5" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f064r/hargrave_ms_311_f064r.jpg"/>
+      <graphic n="6" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f064v/hargrave_ms_311_f064v.jpg"/>
+      <graphic n="7" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f065r/hargrave_ms_311_f065r.jpg"/>
+      <graphic n="8" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f065v/hargrave_ms_311_f065v.jpg"/>
+      <graphic n="9" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f066r/hargrave_ms_311_f066r.jpg"/>
+      <graphic n="10" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f066v/hargrave_ms_311_f066v.jpg"/>
+      <graphic n="11" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f067r/hargrave_ms_311_f067r.jpg"/>
+      <graphic n="12" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f067v/hargrave_ms_311_f067v.jpg"/>
+      <graphic n="13" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f068r/hargrave_ms_311_f068r.jpg"/>
+      <graphic n="14" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f068v/hargrave_ms_311_f068v.jpg"/>
+      <graphic n="15" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f069r/hargrave_ms_311_f069r.jpg"/>
+      <graphic n="16" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f069v/hargrave_ms_311_f069v.jpg"/>
+      <graphic n="17" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f070r/hargrave_ms_311_f070r.jpg"/>
+      <graphic n="18" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f070v/hargrave_ms_311_f070v.jpg"/>
+      <graphic n="19" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f071r/hargrave_ms_311_f071r.jpg"/>
+      <graphic n="20" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f071v/hargrave_ms_311_f071v.jpg"/>
+      <graphic n="21" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f072r/hargrave_ms_311_f072r.jpg"/>
+      <graphic n="22" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f072v/hargrave_ms_311_f072v.jpg"/>
+      <graphic n="23" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f073r/hargrave_ms_311_f073r.jpg"/>
+      <graphic n="24" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f073v/hargrave_ms_311_f073v.jpg"/>
+      <graphic n="25" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f074r/hargrave_ms_311_f074r.jpg"/>
+      <graphic n="26" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f074v/hargrave_ms_311_f074v.jpg"/>
+      <graphic n="27" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f075r/hargrave_ms_311_f075r.jpg"/>
+      <graphic n="28" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f075v/hargrave_ms_311_f075v.jpg"/>
+      <graphic n="29" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f076r/hargrave_ms_311_f076r.jpg"/>
+      <graphic n="30" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f076v/hargrave_ms_311_f076v.jpg"/>
+      <graphic n="31" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f077r/hargrave_ms_311_f077r.jpg"/>
+   </facsimile>
+</TEI>

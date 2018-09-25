@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cambridge University Library MS Mm.6.57</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="CUL_MS_Mm657">
+               <country>United Kingdom</country>
+               <settlement>Cambridge</settlement>
+               <repository>Cambridge University Library</repository>
+               <collection/>
+               <idno>MS Mm.6.57</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>101r-108v</locus>
+                  <title>Tell Truth and Shame the Spaniard</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0202">Francis Phellips</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PhellipsTellTruthShameSpaniard1623.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>120r-124r</locus>
+                  <title>The Case of Sir John Eliot</title>
+                        <author>
+               <persName corresp="../people/people.xml#0007">Charles I</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0047">Denzil Holles</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0046">Sir Peter Heyman</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0045">Sir Miles Hobart</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0044">Sir John Eliot</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EliotCase1629.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

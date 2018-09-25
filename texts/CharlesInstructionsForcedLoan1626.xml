@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions to Commissioners for the Loan</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6255.xml">British Library, Harley MS 6255, pp.168–182</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_39238.xml">British Library, Additional MS 39238, ff. 71r–74r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Cotton_MS_Titus_B_IV.xml">British Library, Cotton MS Titus B IV, ff. 388r–394v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_2651.xml">British Library, Egerton MS 2651, ff. 82r–84v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_365.xml">British Library, Harley MS 365, ff. 1r–4r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_4264.xml">British Library, Harley MS 4264, ff. 68v–75r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6800.xml">British Library, Harley MS 6800, ff. 394x–397x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_325.xml">British Library, Stowe MS 325, ff. 136r–140r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_d_89.xml">Bodleian Library,  MS Eng. hist. d. 89, ff. 461–474</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_924.xml">Bodleian Library,  MS Rawlinson D 924, ff. 124r–126r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_72.xml">Bodleian Library,  MS Tanner 72, ff. 9r–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CRO_EL_MS_6559.xml">Cornwall Record Office,  EL MS 655/9, ff. 124r–126r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ii59.xml">Cambridge University Library,  MS Ii.5.9, ff. 54r–56r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb7.xml">Folger Shakespeare Library,  MS G.b.7, ff. 132r–133r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_213.xml">Huntington Library,  HM 213, pp112–113</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_R54.xml">Trinity College,  MS R.5.4, item 10</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_R54.xml">Trinity College,  MS R.5.4, item 11</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <editor>Samuel R. Gardiner</editor>
+                  <title>The Constitutional Documents of the Puritan Revolution, 1625-1660</title>
+                  <edition>3rd ed.</edition>
+                  <date when="1906">1906</date>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Clarendon Press</publisher>
+                  <citedRange unit="page" from="51" to="57">51-57</citedRange>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1626">1626-7</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term>commission</term>
+               <term>instructions</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>forced loan</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

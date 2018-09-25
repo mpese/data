@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alnwick Castle MS 14</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Alnwick_Castle_MS_14">
+               <country>United Kingdom</country>
+               <settlement>Alnwick</settlement>
+               <repository>Alnwick Castle</repository>
+               <collection/>
+               <idno>MS 14</idno>
+               <msName>Percy Letters and Papers, 1636–1639</msName>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>80r-81v</locus>
+                  <title>Letter to the Judges Regarding Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesLetterJudges1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>80r-81v</locus>
+                  <title>Opinion of All the Judges of England Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0199">Richard Weston</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0149">Francis Crawley</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0134">Robert Berkeley</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0198">George Vernon</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0197">Thomas Trevor</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0004">George Crooke</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0184">William Jones</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0141">Richard Hutton</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0156">John Denham</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0154">Humphrey Davenport</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0167">John Finch</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0137">John Brampston</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OpinionJudgesShipMoney1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>166r-167v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0004">George Croke</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CrokeShipMoney1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>204r-205v</locus>
+                  <title>The Humble Desires of His Majesty's Subjects of Scotland</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HumbleDesiresHisMajestysSubjectsScotland1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>259r</locus>
+                  <title>The Military Oath Offered at York and Refused</title>
+                        <author>
+                <persName corresp="../people/people.xml#P0051" type="respondent">William Fiennes, Viscount Saye &amp; Sele</persName>
+            </author>
+                        <author>
+                <persName corresp="../people/people.xml#P0050" type="respondent">Robert Greville, Lord Brooke</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/MilitaryOath1639v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

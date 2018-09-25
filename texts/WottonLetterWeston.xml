@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to Richard Weston, Earl of Portland</title>
+            <author>
+               <persName corresp="../people/people.xml#P0178">Sir Henry Wotton</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="EB">
+               <name>Elaine Brown</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Willis_58.xml">Bodleian Library,  MS Willis 58, ff. 456r–460v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_9276.xml">Cambridge University Library, Additional MS 9276, item 7, ff4</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_X_d_244.xml">Folger Shakespeare Library,  MS X.d.244, ff. 1r–4r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_7340.xml">Gonville &amp; Caius College,  MS 73/40, ff. 302r–303v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1633">1633?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-19" who="#RB" status="draft"/>
+            <change when="2018-08-20" who="#EB" status="transcript"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="80r" facs="/bl/add_ms_22591/add_ms_22591_f080r/add_ms_22591_f080r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               Sir <lb/>
+               henrye wotton’s letter to <ex>th</ex>e Lo<ex>rd</ex> Treasuror <lb/>
+               weston
+            </hi>
+         </head>
+         <p>
+            <hi rend="bold">My most honored Lord</hi> I most humblye p<ex>re</ex>sent (thoughe by some <lb/>
+            Infirmityes A little to late) A Strange new yeares guifte / vnto y<ex>ou</ex>r <lb/>
+            Lo<ex>rdshi</ex>pp /w<ex>hi</ex>ch I wil p<ex>re</ex>sume to tearme the cheapest of all that you haue rec<ex>eu</ex>e / <lb/>
+            and yett of the richest materialls / In shorte it is onlye an Image of yo<ex>u</ex>r <lb/>
+            selfe drawne by memorye fro<ex>m</ex> such discourse as I haue take vpp heere <lb/>
+            and there of yo<ex>u</ex>r Lo<ex>rdshi</ex>pp amonge the most intelligent and vnmaligna<ex>n</ex>t men / <lb/>
+            w<ex>hi</ex>ch to purtract before you I thought noe servile office / but Ingenious <lb/>
+            and reale and I could wish that it had come at the daye / soe <ex>tha</ex>t yo<ex>u</ex>r Lo<ex>r</ex>d<ex>shi</ex>pp <lb/>
+            might haue begun the newe yeare somew<ex>ha</ex>t like Plato’s difinition of <lb/>
+            feelicitie w<ex>i</ex>th the Contemplac<ex>i</ex>on of yo<ex>u</ex>r owne Idea
+         </p>
+         <p>
+            <hi rend="bold">They</hi> saye that in yo<ex>u</ex>r forraigne Employme<ex>n</ex>t vnder K: James yo<ex>u</ex>r Lo<ex>rdshi</ex>pp won <lb/>
+            the opyinon of A verye able and searchinge Iudgment havinge bene <lb/>
+            the first discoveror<unclear>-</unclear> of the Intentions against the Palatinate w<ex>hi</ex>ch were
+            then in brewing &amp; masked w<ex>i</ex>th much Art. And y<ex>e</ex>t S<ex>i</ex>r Edward Conwaye gott <lb/>
+            the start of you both in Titles and employment at home because
+            the late duke of Buck: wa<ex>n</ex>ted then for his owne Ends A Martiall Secretary 
+         </p>
+         <p>
+            <hi rend="bold">They</hi> saye that vnd<ex>e</ex>r o<ex>u</ex>r p<ex>re</ex>sent Sou<ex>r</ex>aigne / you were chose<ex>n</ex> to <ex>th</ex>e highest charge at <lb/>
+            the lowest of the State / when some Instrument was requisite of indubita= <lb break="no"/>
+            ble Integritie / and p<ex>ro</ex>vident Moderat<ex>i</ex>on / w<ex>h</ex>ich Attributes I haue heard <lb/>
+            none deny you
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="80v" facs="/bl/add_ms_22591/add_ms_22591_f080v/add_ms_22591_f080v.jpg"/>
+         <p>
+            <hi rend="bold">The</hi> discourse thus of yo<ex>u</ex>r Acc<ex>i</ex>ons since.  That thoughe greate ex <lb/>
+            haustions cannot be cured w<ex>i</ex>th suddaine remedyes / noe more in a Kinge= <lb break="no"/>
+            dome then in an naturall Bodye / yet yo<ex>u</ex>r Lo<ex>rdship</ex>p hath well allayed those <lb/>
+            blustring Clamors wherew<ex>i</ex>th at the beginning yo<ex>u</ex>r house was in a manner <lb/>
+            daylye beseiged/
+         </p>
+         <p>
+            <hi rend="bold">They</hi> note <ex>tha</ex>t there haue bene manye Changes / but <ex>tha</ex>t none hath brought <add place="above">to</add> <lb/>
+            the Peace A Iudgm<ex>en</ex>t soe Couetinated and illuminated w<ex>i</ex>th various Eru= <lb break="no"/>
+            dition as yo<ex>u</ex>r Lo<ex>rdship</ex>p since the Lord Burghly vnder Queene Elizabeth who<ex>m</ex> <lb/>
+            they make yo<ex>u</ex>r Parable in the ornament of knowledge They observed in <lb/>
+            yo<ex>u</ex>r Lo<ex>rdship</ex>p divers remarkable Combinac<ex>i</ex>ons of Vertues &amp; abilityes rarely <unclear>socialle</unclear> <lb/>
+          
+            <hi rend="bold">In</hi> the Character of yo<ex>u</ex>r aspecte A mixture of authoritie &amp; modestie <lb/>
+            In the fa<unclear>-</unclear>culties of yo<ex>u</ex>r mynde / quicke appr<ex>e</ex>hension and soliditie together
+            In the Stile of yo<ex>u</ex>r Porte and Trayne as much dignitie and as great de= <lb break="no"/>
+            pendency as was ever in any of yo<ex>u</ex>r place / &amp; w<ex>i</ex>th litle noyse or outward <unclear>fume</unclear> /
+         </p>
+         <p>
+            <hi rend="bold">That</hi> yo<ex>u</ex>r Table is verye abundant / Free and noble / w<ex>i</ex>thout Luxurie <lb/>
+            That you are by nature noe flatterer / &amp; yett of greatest power in Court <lb/>
+            That you haue Magnificence / and Frugalitye both together <lb/>
+            That you entertayne yo<ex>u</ex>r Guests and visitors w<ex>i</ex>th Noble curtesie / but <lb/>
+            voyde of Complem<ex>en</ex>t .  Lastlye that you mayntayne A due regard of <lb/>
+            yo<ex>u</ex>r Person and place / &amp; yett are an Enemye to Froathie formalitye /
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> in the discharge of yo<ex>u</ex>r function / They speake of twoe things / <lb/>
+            that haue done you much honor namely That you haue had allwayes a speciall care <lb/>
+            to the suppye of the Navye / And likewise A more worthye and tendre <lb/>
+            respect towards the Kings onelye Sister / for her continuall support <lb/>
+            from hence then shee hath founde before
+         </p>
+         <p>
+            <hi rend="bold">They</hi> observe yo<ex>u</ex>r greatnes as firmelye established as eu<ex>er</ex> was any in <lb/>
+            the Loue (and w<ex>hi</ex>ch is more) in the Estimac<ex>i</ex>on of A Kinge / whoe hath soe <lb/>
+            signalizd his owne Constancye / Besydes yo<ex>u</ex>r Addic<ex>i</ex>on of Strength / or <lb/>
+            at least of lustre) by the Noblest Alliances of the Land /
+         </p>
+         <p>
+            <hi rend="bold">Amongst</hi> these Notes it is no wonder if some obserue <ex>tha</ex>t betweene <lb/>
+            A good willingness in yo<ex>u</ex>r Affections to satisfye all / And an impossibility <lb/>
+            in the matter / and yet an ymportaincye in the p<ex>er</ex>sons / there doth now and <lb/>
+            then I knowe not howe / arise A little Impatience / w<ex>hi</ex>ch must needs fall <lb/>
+            vpon yo<ex>u</ex>r Lordshipp vnlesse you had bene cutt out of A Packe of diamo<ex>n</ex>ds <lb/>
+            especiallye hauing bene before soo Conu<ex>er</ex>sant w<ex>i</ex>th liberall Studies / &amp; <lb/>
+            w<ex>i</ex>th the freedome of yo<ex>u</ex>r owne Mynde
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> after this shorte collection touching yo<ex>u</ex>r most honoured p<ex>er</ex>son <lb/>
+            I beseech you give mee leave to add likewise a litle what men saye <lb/>
+            of the Writter. They saye I want not yo<ex>u</ex>r gratious good will towardes <lb/>
+            mee according to the degree of my poore talent and Travells / but they <lb/>
+            saye I am wanting to my selfe / And in good faithe (my Lord) in saying <lb/>
+            soe they saye trulye. For I am condemned I knowe not how by nature <lb/>
+            to A kinde of vnfortunate Bashfullnes in my owne busines / and it is <lb/>
+            nowe to late to put mee into A newe Furnice Therefore it must <lb/>
+            be yo<ex>u</ex>r Lo<ex>ordshi</ex>ps prop<ex>er</ex> worke / and not onlye yo<ex>u</ex>r Noble but even yo<ex>u</ex>r Cha= <lb break="no"/>
+            ritable goodnes that must in some blessed houre remember mee /
+         </p>
+         <p>
+            <hi rend="bold">God</hi> giue your Lo<ex>rdshi</ex>pp manye healthfull Ioyfull yeares and the <lb/>
+            blessinge of that <hi rend="italic">Text Beatus qui attendit ad attenuatu<ex>m</ex>
+                </hi>  And <lb/>
+            Soo I remayne w<ex>i</ex>th An humble and willinge hearte 
+         </p>
+         <p rend="align-right">
+            At all your Lo<ex>rdshi</ex>pps Comaunds <lb/>
+            Henrye Wotton
+         </p>
+      </body>
+   </text>
+   
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f080r/add_ms_22591_f080r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f080v/add_ms_22591_f080v.jpg"/>
+   </facsimile>
+</TEI>

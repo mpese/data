@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for Preachers</title>
+            <author>
+               <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0036">George Abbot, Archbishop of Cantebury</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29492.xml">British Library, Additional MS 29492, ff. 17r–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29975.xml">British Library, Additional MS 29975, ff. 53r–54v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 197v–200r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHargraveMS311.xml">British Library, Hargrave MS 311, ff. 186r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1877.xml">British Library, Harley MS 1877, ff. 63r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS354.xml">British Library, Harley MS 354, ff. 65r–67r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3791.xml">British Library, Harley MS 3791, ff. 68r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4289.xml">British Library, Harley MS 4289, ff. 238r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1710.xml">British Library, Sloane MS 1710, ff. 306x–307x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_12496.xml">British Library, Additional MS 12496, ff. 420r–421v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_29303.xml">British Library, Additional MS 29303, f. 3r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_34217.xml">British Library, Additional MS 34217, f. 39r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_35832.xml">British Library, Additional MS 35832, ff. 79r–80v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_6394.xml">British Library, Additional MS 6394, ff. 23r–24x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72364.xml">British Library, Additional MS 72364, ff. 1r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 251r–254v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_d_144.xml">Bodleian Library,  MS Eng. hist. d. 144, ff. 69b–71v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Jones_56.xml">Bodleian Library,  MS Jones 56, ff. 129r–130r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_264.xml">Bodleian Library,  MS Tanner 264, ff. 30r–31r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_265.xml">Bodleian Library,  MS Tanner 265, ff. 12r–13v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_73.xml">Bodleian Library,  MS Tanner 73, ff. 169r–173r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 259r–261r, 264–267v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Wood_F23.xml">Bodleian Library,  MS Wood F.23, ff. 176r–177v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CRO_EL_MS_6559.xml">Cornwall Record Office,  EL MS 655/9, ff. 1r–6v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_27.xml">Cambridge University Library, Additional MS 27, ff. 89r–90r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 172v–176r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_669.xml">Lambeth Palace Library,  MS 669, pp.199–200</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_943.xml">Lambeth Palace Library,  MS 943, ff. 81–93</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_Reg_Abbot_2.xml">Lambeth Palace Library, Reg. Abbot 2, ff. 199r–200r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 31–33</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_K56.xml">St John's College,  MS K.56, item 9</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_132.xml">The National Archives,  SP 14/132, /85 [ff.214r–215r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_132.xml">The National Archives,  SP 14/132, /86 [ff.216r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_132.xml">The National Archives,  SP 14/132, /93 [ff.229r–230v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_132.xml">The National Archives,  SP 14/132, /94 [ff.231r–232r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_15_42.xml">The National Archives,  SP 15/42, /88 [ff.137r–139v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_36.xml">The National Archives,  SP 16/36, /88 [ff.137r–139v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UTAustinMSBLM751PhillipsMS12341.xml">UT Austin MS, BL Microfilm 751 Phillips MS 12341, p–304?</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Wellcome_Library_MS_805.xml">Wellcome Library,  MS 805, ff. 52r–59v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1622">1622</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>directions</term>
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>church government</term>
+               <term>preaching</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-02" who="#RB" status="proofread"/>
+            <change when="2018-08-01" who="#RB" status="draft"/>
+            <change when="2018-04-30" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="114r" facs="/bl/add_ms_28640/add_ms_28640_f114r/add_ms_28640_f114r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="italic">
+               The Archbishops letter to the Bishop of Norwich about Articles fro<ex>m</ex> the k<ex>ing</ex>
+            </hi>
+         </head>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            Right Reverend father in god my very good Lo<ex>r</ex>d &amp; brother <lb/>
+            I have receiued from the kings most excellent Maj<ex>es</ex>tie a letter <lb/>
+            the tenor whereof here ensueth.
+         </p>
+         <p>
+            Most reverend Father in god, right trusty &amp; right entirely <lb/>
+            beloued Councellor we greete you well Forasmuch as the <lb/>
+            abuses &amp; extrarangies of Preachers in the Pulpit haue <lb/>
+            beene in all times repressed in this Realme by some acte cou<ex>n</ex>=<lb break="no"/>
+            cell or statute with the advise &amp; resolution of grave &amp; learned <lb/>
+            Prelates; in so much as the very licensing of Preachers had <lb/>
+            beginning by an order of Starrechamber the 8th day of <lb/>
+            Iuly in the 19th yeere of k<ex>ing</ex> Henr<ex>y</ex> the eight our noble Pre=<lb break="no"/>
+            decessor: &amp; whereas at this present diverse young students <lb/>
+            by reading of late writers &amp; vngrounded Divines doe broche <lb/>
+            many times vnprofitable vnsound seditious &amp; dangerous doc=<lb break="no"/>
+            trines to the Scandall of this Church &amp; disquieting of the State <lb/>
+            &amp; present goverment We vpon humble representation vnto <lb/>
+            vs of these inconveniences by your selfe &amp; sundry other grave <lb/>
+            &amp; reverend Prelates of this Church as also of our Princely <lb/>
+            care &amp; zeale for the extirpation of schisme &amp; dissention grow=<lb break="no"/>
+            ing from these seedes &amp; for the setling of a Religious &amp; peace=<lb break="no"/>
+            able government both of Church &amp; State doe by these our spe=<lb break="no"/>
+            ciall letters straitelie charge &amp; command you to vse all possi=<lb break="no"/>
+            ble care &amp; diligence that these limitations &amp; Cautions here=<lb break="no"/>
+            with sent vnto you Concerning Preachers be duelie &amp; stricte=<lb break="no"/>
+            ly from henceforth by the severall Bishops in theire severall <lb/>
+            Diocesses within your jurisdiction observed &amp; kept / &amp; to that <lb/>
+            ende our <del rend="strikethrough">Princely</del> pleasure is that you send them forthwith se=<lb break="no"/>
+            verall copies of these Directions to be by them speedily sente <lb/>
+            &amp; Communicated to every Parson Vicar Curate Lecturer <lb/>
+            &amp; Minister in every Cathedrall or Parish Church with<add place="above">in</add> theire <lb/>
+            severall Dioceses / &amp; that you ernestlie require them to employ <lb/>
+            theire vttermost endeavors in the performance of this so impor=<lb break="no"/>
+            tant a busines, letting them knowe that we haue a speciall eye
+            <pb n="114v" facs="/bl/add_ms_28640/add_ms_28640_f114v/add_ms_28640_f114v.jpg"/>
+            to theire proceedings, &amp; expecte a stricte accompte hereof both <lb/>
+            from you &amp; every of them  And these our letters shall be your <lb/>
+            sufficient warrant &amp; discharge in this behalfe. Given vnder our <lb/>
+            Signet at our Castle of Windsor the 4th of August in the 20th <lb/>
+            yeere of our reigne of England &amp;c &amp; of Scotland the 56.
+         </p>
+         <p>
+            By this you see his Majesties Princely care that men sholde <lb/>
+            preache Christ crucified, obedience to the higher powers &amp; ho=<lb break="no"/>
+            nest &amp; <ex>Christ</ex>ian conversation of life, (but in a reguler forme) &amp; not <lb/>
+            that every younge man should take vnto himselfe an exorbitant <lb/>
+            libertie to teach what he listeth to the offence of his Maj<ex>es</ex>tie &amp; to <lb/>
+            the disturbance &amp; disquiet of the Church &amp; Commonwealth. I <lb/>
+            can giue vnto yo<ex>u</ex>r Lordships no better directions for the p<ex>er</ex>for-<lb break="no"/>
+            mance hereof then are prescribed to you in his Majesties letters <lb/>
+            &amp; the schedule herewith sent vnto you Whereof I pray you to <lb/>
+            be very carefull, since it is the Princelie pleasure of his High=<lb break="no"/>
+            nes to require an accompt both of you &amp; me for the same. And <lb/>
+            so not doubting but by your Register or otherwise you will cause <lb/>
+            these instructions to be communicated to your Clergie I leave <lb/>
+            you to the Almightie &amp; remaine yo<ex>u</ex>r Lo<ex>rdshi</ex>ps loving brother
+         </p>
+         <p rend="indent">
+            Croydon Aug. 12. 1622.
+         </p>
+         <p rend="align-right">
+            Geo. Cant<ex>uar</ex>
+         </p>
+         <p rend="align-centre">
+            Directions concerning Preachers.
+         </p>
+         <p>
+            1 <space extent="4" unit="chars"/> That no Preacher (vnder the degree &amp; calling of a Bishop <lb/>
+            or Deane of a Cathedrall or Collegiate Church| &amp; <del rend="strikethrough">that</del> <add place="above">they</add> vpon the <lb/>
+            kings dayes <del rend="strikethrough">&amp; Festiv</del> &amp; set Festivall dayes) doe take occasion by the <lb/>
+            expounding of any Text of scripture whatsoever to fall into any <lb/>
+            discourse or Common place (otherwise then by opening the coherence <lb/>
+            &amp; division of his Text) which shall not be comprehended &amp; warra<ex>n</ex>=<lb break="no"/>
+            ted in essence substance effecte or naturall inference within some of <lb/>
+            the Articles of Religion set forth 1562 or in some of the Homelies <lb/>
+            set forth by Authoritie in the Church of England, not only for a helpe <lb/>
+            of non-preaching Ministers, but withall for a patterne &amp; a Bounda<lb break="no"/>
+            rie (as it were) for the Preaching Ministers / &amp; for theire further <del rend="strikethrough">in</del>
+            <pb n="115v" facs="/bl/add_ms_28640/add_ms_28640_f115r/add_ms_28640_f115r.jpg"/>
+            instructions for the p<ex>er</ex>formance thereof that they forthwith reade over &amp; <lb/>
+            pervse diligentlie the said booke of Articles &amp; two bookes of Homelies.
+         </p>
+         <p>
+            2 <space extent="8" unit="chars"/> That no Parson Vicar or Lecturer shall preach any <del rend="strikethrough">ser</del> <lb/>
+            Sermon or Collation hereafter vpon Sundaies or Holidaies in the <lb/>
+            After-noone in any Cathedrall or Parish Church throughout the kingdome <lb/>
+            but vpon some parte of the Catechisme or some texte taken out of the <lb/>
+            Creede Tenne Commandements or Lords prayer (Funerall Sermons <lb/>
+            only excepted) &amp; that those Preachers be most encouraged &amp; approved <lb/>
+            of, who spende the Afternoones exercises in examining of Children in <lb/>
+            theire Cathechisme &amp; in expounding of the severall points &amp; heades of <lb/>
+            the Cathechisme which is the most ancient &amp; laudable custome of tea=<lb break="no"/>
+            ching in the Church of England.
+         </p>
+         <p>
+            3 <space extent="8" unit="chars"/> That no Preacher of what Title soever vnder the degree <lb/>
+            of a Bishop or Deane at the least doe from henceforth presume to <lb/>
+            preache in any populer auditorie the deepe points of Predestinatio<ex>n</ex> <lb/>
+            Electio<ex>n</ex> Reprobation or of the Vniu<ex>er</ex>salitie Efficacie Resistibility or <lb/>
+            Irresistibilitie of Gods Grace, but leave those Theames to be handled <lb/>
+            by lerned men &amp; that moderately &amp; modestlie by way of vse &amp; ap=<lb break="no"/>
+            plication rather then by the way of Positiue doctrine as being fit=<lb break="no"/>
+            ter for the Schooles &amp; Vniu<ex>er</ex>sities then for simple Auditories.
+         </p>
+         <p>
+            4 <space extent="8" unit="chars"/> That no Preacher of what title or Denomination soever <lb/>
+            shall presume from henceforth in any Auditory within the kingdome <lb/>
+            to declare limitte or bound out by way of positiue doctrine in any lec=<lb break="no"/>
+            ture or sermon the power, prerogatiue jurisdiction authority or dutie <lb/>
+            of Soveraigne Princes, or otherwise meddle with those matters of <lb/>
+            State &amp; the reference betweene Princes &amp; the people then as they <lb/>
+            are instructed &amp; presidented in the Homelie of obedience &amp; in the <lb/>
+            rest of the Homelies &amp; Articles of Religion sette forth (as before is <lb/>
+            mentioned) by <del rend="strikethrough">Authority</del> publike authority, but rather confine themselues <lb/>
+            wholly to these two heads of Faith &amp; holy life, which are the subjecte <lb/>
+            of the auncient Sermons &amp; Homelies.
+         </p>
+         <p>
+            5 <space extent="8" unit="chars"/> That no Preacher of what title or denomination soever <lb/>
+            shall causeleslie &amp; without invitation from the Text fall into bitter in=<lb break="no"/>
+            vectiues &amp; vndecent rayling speech against the persons of either Papists
+            <pb n="115v" facs="/bl/add_ms_28640/add_ms_28640_f115v/add_ms_28640_f115v.jpg"/>
+            or Puritans; but modestlie &amp; grauelie when they are occasioned <lb/>
+            therevnto by the texts of Scripture free both the Doctrine &amp; Dis=<lb break="no"/>
+            cipline of the Church of England from the aspersions of either <lb/>
+            Adversarie, especially where the Auditory is suspected to be tain=<lb break="no"/>
+            ted with the one or the other infection.
+         </p>
+         <p>
+            6 <space extent="8" unit="chars"/> Lastlie that the Archbishops &amp; Bishops of this kingdome <lb/>
+            (whom his Ma<ex>jes</ex>tie hath good cause to blame for this former remisse-<lb break="no"/>
+            nes) be more wary &amp; choice in Licensing Preachers &amp; revoke <lb/>
+            all Grau<ex>n</ex>ts made to any Chancellor Officiall or Commissary to <lb/>
+            passe Licenses in this kind / &amp; that all the Lecturers throughout <lb/>
+            the kingdome (a newe bodie severed from the aunciente Clergie <lb/>
+            of England, as being neither Parsons Vicars nor Curates) be <lb/>
+            licensed hence-forward in the Courte of Faculties, only vpon <lb/>
+            recommendation of the partie from the Bishop of the Diocesse <lb/>
+            vnder his hand &amp; seale with a <hi rend="italic">Fiat</hi> from the Lo<ex>rd</ex> Archb<ex>ishop</ex> of <lb/>
+            Canterbury &amp; a confirmation vnder the greate seale of Engl<ex>and</ex> / <lb/>
+            &amp; that such as transgresse any one of these directions be sus=<lb break="no"/>
+            pended by the Lo<ex>rd</ex> Bishop of the Dioces, or in his defaulte
+            by the Lo<ex>rd</ex> Archb<ex>ishop</ex> of the Province <hi rend="italic">
+                    <foreign xml:lang="la">ab officio et beneficio</foreign>
+                </hi> for <lb/>
+            a yeere &amp; a day, vntill his Maj<ex>es</ex>tie by the advise of the nexte <lb/>
+            Convocation shall prescribe some further punishment.
+         </p>
+         <p/>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p rend="align-centre">
+            <hi rend="italic">
+               The same Lo<ex>r</ex>d Archbishop to our Bishop of Norw<ex>ich</ex> about the same.
+            </hi>
+         </p>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            <hi rend="italic">
+               <foreign xml:lang="la">Salutem in Christo.</foreign>
+            </hi>
+            <space extent="8" unit="chars"/> I doubte not but before this time <lb/>
+            you haue receiued from me the Directions of his most excellent <lb/>
+            Maj<ex>es</ex>tie concerning Preaching &amp; Preachers which are so graciously <lb/>
+            set downe that no godlie or discreete man can otherwise then ac-<lb break="no"/>
+            knowledge that they doe much tende to Edification, if he doe <lb/>
+            not take them vp vpon reporte, but doe punctuallie consider <lb/>
+            the Tenor of the words as they lie, &amp; doe not giue an evill <lb/>
+            construction to that which may receiue a fayre interpretation/ <lb/>
+            Notwithstanding because some fewe Church men &amp; many of the <lb/>
+            people haue sinisterly conceiued (as we here finde) that those <lb/>
+            <pb n="116r" facs="/bl/add_ms_28640/add_ms_28640_f116r/add_ms_28640_f116r.jpg"/>
+            Institutions doe tende to the restrainte of the exercise of Preaching &amp; <lb/>
+            doe in some sorte abate the nu<ex>m</ex>ber of Sermons, &amp; so consequentlie by degrees <lb/>
+            doe make a breache to ignorance &amp; superstition; his Maj<ex>es</ex>tie in his princely <lb/>
+            wisedome hath thought fitte that I should adu<ex>er</ex>tise you, of the graue &amp; <lb/>
+            weightie reasons which induced his highnes to prescribe that which is done.
+         </p>
+         <p>
+            You are therefore to knowe that his Maj<ex>es</ex>tie being much troubled <lb/>
+            &amp; grieved at the hearte to heare every day of so many defections fro<ex>m</ex> <lb/>
+            our Religion to Popery &amp; Anabaptisme, or other pointes of Separa=<lb break="no"/>
+            tion in some parts of this kingdome, &amp; considering with much admira=<lb break="no"/>
+            tio<ex>n</ex> what might be the cause thereof (especially in the reigne of such a <lb/>
+            king who doth so constantly professe himselfe an open adversarie to the <lb/>
+            Superstition of the one &amp; madnes of the other) his Princelie wisedome <lb/>
+            could <hi rend="underline">fall vpon no one greater probabilitie, then the lightnes, affected<lb break="no"/>
+               nes &amp; vnprofitablines of that <del rend="strikethrough">n</del> kinde of Preaching which hath beene of <lb/>
+               late yeeres too much taken vp in Courte Uniu<ex>er</ex>sitie City &amp; Country.</hi> <lb/>
+            The vsuall scope of very many Preachers is noted to be a soaring vp <lb/>
+            in points of Divinity too deepe for the Capacity of the people, or a <lb/>
+            mustering vp of much reading, or a displaying of theire owne wittes, or <lb/>
+            an ignorant medling with Civill matters, as well in the private of se=<lb break="no"/>
+            verall Parishes &amp; Corporations as in the publike of the kingdome, or <lb/>
+            a venting of theire owne distastes, or a smoothing vp of those idle fan=<lb break="no"/>
+            cies which in this blessed time of so long a peace doe boile in the braines <lb/>
+            of vnadvised people; or lastlie a rude or vndecent rayling, not against <lb/>
+            the Doctrines (which when the text doth occasion the same is not only ap=<lb break="no"/>
+            proved but much Commended by his Royall Maj<ex>es</ex>tie) but against the per=<lb break="no"/>
+            sons of Papists &amp; Puritans. <space extent="3" unit="chars"/> Nowe the people bredde vp with this <lb/>
+            kind of teaching &amp; never instructed in the Cathechisme &amp; fundamentall <lb/>
+            grounds of Religion are for all this aierie nourishment no better then <lb/>
+            <hi rend="italic">
+                    <foreign xml:lang="la">abras<ex>a</ex>e tabul<ex>a</ex>e</foreign>
+                </hi> newe table bookes readie to be filled vp either with the <lb/>
+            manuels &amp; Catechismes of the Popish priests or the <del rend="strikethrough">
+                    <gap extent="1" unit="chars"/>
+                </del> papers &amp; pa<ex>m</ex>=<lb break="no"/>
+            phlets of Anabaptists Brownists &amp; Puritans. <space extent="7" unit="chars"/> His Maj<ex>esty</ex> therefore <lb/>
+            calling to minde the saying of Tertullian <hi rend="italic">
+                    <foreign xml:lang="la">Id uerum quod primum</foreign>
+                </hi> &amp; remem=<lb break="no"/>
+            bring with what Doctrine the Church of England in her first &amp; most hap=<lb break="no"/>
+            pie reformation did drive out the one &amp; keepe out the other from poyso=<lb break="no"/>
+            ning &amp; infecting the people of this kingdome, doth finde that the whole scope <lb/>
+            of this Doctrine is conteined in the Articles of Religion, the two bookes <lb/>
+            of Homelies, the lesser &amp; greater Cat<del rend="strikethrough">h</del>echisme, which his Maj<ex>esty</ex> doth
+            <pb n="116v" facs="/bl/add_ms_28640/add_ms_28640_f116v/add_ms_28640_f116v.jpg"/>
+            therefore recommende againe in these directions, as the Theames &amp; <lb/>
+            proper subjects of all sounde &amp; edifying preaching. And so farre <lb/>
+            are the said Directions from abating, that his Maj<ex>esty</ex> doth expecte <lb/>
+            at our hands that it should increase the number of Sermons by re=<lb break="no"/>
+            newing <del rend="strikethrough">in</del> vpon every Sunday in the afternoone in all parish <lb/>
+            Churches throughout the Realme, that primitiue &amp; most profitable <lb/>
+            exposition of the Cat<del rend="strikethrough">h</del>echisme, wherewith the people yea the very <lb/>
+            children may be timely seasoned &amp; instructed in all the heades of <lb/>
+            Christian Religion; the which kinde of teaching (to our amendment <lb/>
+            be it spoken) is more diligentlie observed in all the Reformed Chur=<lb break="no"/>
+            ches of Europe, then of late it hath beene here in England. I <lb/>
+            finde his Maj<ex>esty</ex> much moved with this neglecte, &amp; resolued, <del rend="strikethrough">the</del> if <lb/>
+            we that are his BB doe not see a reformation hereof (which I <lb/>
+            trust we shall) to <del rend="strikethrough">co</del> recommend it to the care of the Civill ma=<lb break="no"/>
+            gistrate: so farre is his Maj<ex>esty</ex> from giuing the least discouragment <lb/>
+            to solide preaching, or discreete or religious preachers. <space extent="4" unit="chars"/> To <lb/>
+            all these I am to adde that it is his Maj<ex>esty</ex>s princelie pleasure <ex>tha</ex>t <lb/>
+            the former Directions &amp; these reasons of the same be fairely <lb/>
+            written in every Registers office, to the ende that every preacher <lb/>
+            of what Denomination <del rend="strikethrough">soeu<ex>er</ex>
+                </del> soever may (if he be so pleased) take <lb/>
+            out copies of eche of them, with his owne hand gratis, paying <lb/>
+            nothing in the name of Fee or expedition; but if he doth vse the <lb/>
+            paines of the Register or his Clerkes then to pay some moderate <lb/>
+            fee to be pronounced in open courte by every of you in your <lb/>
+            severall jurisdictions which you houlde vnder me. <space extent="7" unit="chars"/> Lastlie <lb/>
+            that from hence forward a course may be taken that every parso<ex>n</ex> <lb/>
+            Vicar Curate or Lecturer doe make exhibite of these his Maj<ex>esty</ex>s <lb/>
+            directions &amp; the reasons for the same, at your severall insuing vi=<lb break="no"/>
+            sitations, paying to the Register by way of Fee but ijd. only at the <lb/>
+            time of the exhibite. <space extent="4" unit="chars"/> And so wishing, (but withall in his Maj<ex>esti</ex>es name <lb/>
+            requiring) every of you to haue an especiall &amp; extraordinary care of <lb/>
+            the premisses I leave you to the Almightie <space extent="3" unit="chars"/> <hi rend="italic">Sept. 4. 1622</hi>
+         </p>
+         <p rend="align-centre">
+            yo<ex>u</ex>r very loving frend <space extent="2" unit="chars"/> <hi rend="italic">Geo. Cant<ex>uar</ex>
+                </hi>  
+         </p> 
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f114r/add_ms_28640_f114r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f114v/add_ms_28640_f114v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_28640/add_ms_28640_f115r/add_ms_28640_f115r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_28640/add_ms_28640_f115v/add_ms_28640_f115v.jpg"/>
+   </facsimile>
+</TEI>

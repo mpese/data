@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alnwick Castle MS 556</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Alnwick_Castle_MS_556">
+               <country>United Kingdom</country>
+               <settlement>Alnwick</settlement>
+               <repository>Alnwick Castle</repository>
+               <collection/>
+               <idno>MS 556</idno>
+               <msName>Liber John Fitz James 1640–41</msName>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>pp1-2</locus>
+                  <title>Curse of Sherborne</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CurseSherborne.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>annotated by John Fitz-James 1640-41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>pp3-18</locus>
+                  <title>That the Kings of England have been pleased usually to consult with their peers in the great Council, and the Commons in Parliament of Marriage, Peace and War</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CottonKingsParliamentMarriagePeaceWar1624.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>annotated by John Fitz-James 1640-41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>pp67-71</locus>
+                  <title>Advertisements of a Loyal Subject to his Gracious Soveraign Drawn from Observations of the People's Speeches</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/AdvertisementsLoyalSubject1603v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>pp72-73</locus>
+                  <title>Letter to James after his Condemnation</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">
+                  Sir Walter Raleigh
+               </persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterCondemnation1604.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>pp111-114</locus>
+                  <title>Speech to the Commissioners at the Guild Hall</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0021">John Williams, Bishop of Lincoln</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WilliamsSpeechCommissionersGuildhall1621.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>pp122-123</locus>
+                  <title>Large Apology on his Return from Guiana</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLargeApology1618.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>pp124-126</locus>
+                  <title>Essay of a King</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0012">Sir Francis Bacon?</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconEssayKing.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>pp127-132</locus>
+                  <title>Letter to the Marquess of Buckingham</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0014">Thomas Alured</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/AluredLetterBuckingham1620v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>pp139-145</locus>
+                  <title>Relation of Our Prince's Entertainment in Madrid</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0157">S[imon?] D[igby?]</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/DigbyRelationOurPrincesEntertainmentMadrid1623.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>copied 1640–41</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin>John Fitz-James, begun 1640</origin>
+               <provenance>Percy family</provenance>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

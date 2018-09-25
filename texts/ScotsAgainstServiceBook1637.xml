@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots’ Reasons Against the Service Book </title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70002">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70002</idno>
+               <msName>Harley Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_737">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 737</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_3876">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 3876</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_231">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 231</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3876.xml">British Library, Egerton MS 3876, f. 147r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS737.xml">British Library, Harley MS 737, ff. 79r–83r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS231.xml">British Library, Lansdowne MS 231, ff. 5r–9r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_70002.xml">British Library, Additional MS 70002, ff. 156r–157r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_650.xml">British Library, Sloane MS 650, ff. 11r–12r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_829.xml">Bodleian Library,  MS Ashmole 829, ff. 227v–230r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm424.xml">Cambridge University Library,  MS Mm.4.24, ff. 119r–120v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1637">1637</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>arguments</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Scottish Church</term>
+               <term>Reformation</term>
+               <term>Presbyterianism</term>
+               <term>ecclesiastical conflict</term>
+               <term>liturgy</term>
+               <term>Book of Common Prayer</term>
+               <term>episcopacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2017-11-29" who="#SV" status="proofread"/>
+            <change when="2017-11" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="70r" facs="/bl/add_ms_35331/add_ms_35331_f070r/add_ms_35331_f070r.jpg"/>
+         <head>
+            The Scottes reasons ag<ex>ains</ex>t the Service book nowe <lb/>
+            imposed upon them./ annexed to the letter <ref type="hyperlink" target="../texts/RemonstranceScotland1637.xml">pag. 128 :129.</ref>
+         </head>
+         <p>
+            <add place="LM">
+               refere this to <lb/>
+               <ref type="hyperlink" target="../texts/RemonstranceScotland1637.xml">pag: 128</ref>./
+            </add>
+            <add place="LM">
+               1.
+            </add>
+            Howe cann wee receave other formes of wor<ex>ship</ex> vntill the formes bee established and in <lb/>
+            contynewall practise? and the reformation bee orderly aboleshed by a generall <lb/>
+            Assembly as faultie and erroneous? w<ex>hi</ex>ch was never yet done, but rather wee are bounde <lb/>
+            to the mayntenance of the same, as beinge the most pure &amp; simple formes.
+         </p>
+         <p>
+            <add place="LM">
+               2:
+            </add>
+            Nexte the book wantes the approbation of the gen<ex>er</ex>all Assembly the only Representative <lb/>
+            churche w<ex>i</ex>thin the Realme, w<ex>hi</ex>ch hath power to directe Synodes, Presbiters, p<ex>ar</ex>ticular <lb/>
+            churches and p<ex>er</ex>sons in matters of religion: As if wee should receave a thinge <lb/>
+            as indifferente, and all other reiecte yt as popishe, what will followe therby <lb/>
+            but horrible confusion and schisme: And are not they schismatick whoe bringe <lb/>
+            in and practise novelties in a churche w<ex>i</ex>thout the warrante and approbacio<ex>n</ex> <lb/>
+            of the churche?
+         </p>
+         <p>
+            Yf yt bee alleaged that there bee no appearances of any true and righte constitute <lb/>
+            Assemblies. It is answered that the same may bee had yf it please the vrgers <lb/>
+            of the book to procure and graunte yt: Let the blame therfore lighte upon them. <lb/>
+            Then suppose that both he generalll assemblies and p<ex>ar</ex>liam<ex>en</ex>t had approved the book <lb/>
+            and enioyned the practise of the formes in yt (w<ex>hi</ex>ch wee trust they shall never doe) <lb/>
+            yet wee shoulde not receave yt. First because there is much popishe matter <lb/>
+            in the wordes and there is conteyned in the book Mattins and Evensonges, and <lb/>
+            Canonicall service ordayned to bee p<ex>er</ex>formed by the minister and Deacon as the <lb/>
+            rep<ex>re</ex>sentatiue prayers of the churche, to stande in steede of prayers even when wee <lb/>
+            are absente and p<ex>er</ex>haps sleepinge. Wee haue also here the <unclear>undereyte</unclear> formes <lb/>
+            of churchinge of women, the rynge of marriage layde upon the book w<ex>i</ex>th other <lb/>
+            ridiculous toyes and speeches. Matriomony is used as a Sacram<ex>en</ex>t wee must <lb/>
+            haue a Fonte at the entry of the Churche, and the water consecrated in the Fonte <lb/>
+            and twise in the moneth chaunged. The baptised infante must bee signed <lb/>
+            w<ex>i</ex>th the signe of the crosse, and interrogatories must bee demaunded in the Infantes <lb/>
+            name w<ex>hi</ex>ch is also most ridiculous. Baptisme profaned in private. younge <lb/>
+            children assoone as they cann reherse any p<ex>ar</ex>ticular Catechisme must bee Bishopped. <lb/>
+            The Com<ex>m</ex>union must bee receaved in private yf the partie disseased require the <lb/>
+            same: It shalbee administred to three or four in the Churche accordinge to the desire <lb/>
+            of such as woulde haue yt. Wee haue here the Idolatrous gesture of the com<ex>m</ex>unicante <lb/>
+            in the acte of receavinge ratified. Wee haue also a masse p<ex>ro</ex>cedinge the com<ex/>u=<lb break="no"/>
+            nion, although wee haue yt not w<ex>i</ex>th all the businesse and Ceremonies yet wee <lb/>
+            haue the essence and substance of the sacrifice; For in the prayer of consecration the <lb/>
+            minister must pray that God will so blesse and sanctifie the elementes of the <lb/>
+            breade and wyne w<ex>i</ex>th his holy Spirit <hi rend="underline">that they may bee unto us the very body <lb/>
+            and bloode of Chr<ex>ist</ex> in w<ex>hi</ex>ch</hi> wordes there is strangely couched Transubstantiation./
+         </p>
+         <p>
+            The wordes of Institution att the consecration must bee uttered unto God as the Prieste <lb/>
+            doth in the sacrifice of the Masse and not unto the Com<ex>m</ex>unicantes. The Ministers must <lb/>
+            first receave because hee must as Prieste first consume the sacrifice before the <unclear>feaste</unclear> <lb/> 
+            the Com<hi>m</hi>unicantes. Wee haue here also integrall pointes of the oblation before the <lb/>
+            consecration, and a memoriall or prayer after the oblation ymediatly. Wee <lb/>
+            haue also some accidentall rites and ceremonies of the Masse, althoughe not <lb/>
+            w<ex>i</ex>th all the businesse. <hi rend="underline">The standinge of the Laver in the Quyre</hi>. The minister <lb/>
+            some tymes kneelinge, sometymes standinge, some tyme turninge to the people <lb/>
+            and sometymes to the Table. <hi rend="underline">Wee haue here also aulter clothes as the Corporall</hi> <lb/>
+            and such other furnitures as shalbe appointed: And as many Masse clothes for <lb/>
+            him that celebrateth as yt shall please authority to enioyne
+            <fw type="catch" place="bot-right">Wherfore</fw>
+            <pb n="70v" facs="/bl/add_ms_35331/add_ms_35331_f070v/add_ms_35331_f070v.jpg"/> 
+            Wherfore, whatsoever hirelinge shall embrace this book hee shalbee turned into a masse- <lb/>
+            prieste, and whosoever doth countenance such com<ex>m</ex>union doth countenance a masse.
+         </p>
+         <p>
+            Wee haue also a greate nomber of Festivals dayes and sett feastes. And it woulde <lb/>
+            bee to prolixe to pointe out all the <unclear>trashe</unclear> and trumpery of the book.
+         </p>
+         <p>
+            Againe suppose there were noe faulte in the matter yet there is error in the <lb/>
+            formes and orders: For some formes are here p<ex>re</ex>scribed that are used in the <lb/>
+            popishe Churche and in the same termes: And wee oughte not to conforme in <lb/>
+            termes of publique worshippe w<ex>i</ex>th Antichristian synagoges, nor to bee tyed to <lb/>
+            there termes and phrases, yf our Churche bee not a member of ther churche <lb/>
+            seinge wee may use and haue used better formes./
+         </p>
+         <p>
+            Here wee haue Gospells and Epistles appropriated to sett tymes and dayes or=<lb break="no"/>
+            derly as they haue in the Masse book. Wee haue also formes of prayinge rather <lb/>
+            lik playinge <del rend="strikethrough">then</del> prayinge from deliuerances from Tempestes thunders <lb/>
+            and such lik when there is noe appearance of danger And there are also <lb/>
+            answeres and sett repetitions, chapters and Creede: much Can<ex>n</ex>onicall <lb/>
+            scripture to edification om<ex>m</ex>itted by readinge of mattens and Evensonges and <lb/>
+            some Apocripha taken in./
+         </p>
+         <p>
+            Nowe suppose there were noe faulte in matter or forme yet wee cannot re=<lb break="no"/>
+            ceave the book. For admitte yt were framed all of scripture phrases and <lb/>
+            sentences, yet yt bringethe a readinge minister and there w<ex>i</ex>th ignorance and <lb/>
+            blyndenesse upon the people. For yf an ignorante Asse cann but reade this <lb/>
+            book and gett orders, hee may solemnize marriage, minister the supper of <lb/>
+            the Lorde and sufficiently discharge the function of ministration. On the other <lb/>
+            side the ableste preacher may use noe other wordes in the tyme of com<ex>m</ex>on <lb/>
+            prayer and ministration of the sacram<ex>en</ex>tes then are p<ex>re</ex>scribed in the book. Soe <lb/>
+            wee shall make an Asse a minister, and the ableste minister an Asse. The <lb/>
+            mattens shall haue place before preachinge and oftentymes shall stande <lb/>
+            in steede of yt.
+         </p>
+         <p>
+            The Englishe service booke was tempered in the begin<ex>n</ex>inge soe farre <hi rend="underline">to the</hi> <lb/>
+            humor of the Papistes that <hi rend="underline">the Pope offred to ratifie yt upon a Condycon</hi>: <lb/>
+            But it hath ever bynn the occasion of much greife and trouble amongst the <lb/>
+            godly and never <hi rend="underline">had quiett possession amongst them synce the abolishinge <lb/>
+               of popery</hi> but hath bynn generally detested of the people of better note, as <lb/>
+            hath appeared in sondry p<ex>ar</ex>liam<ex>en</ex>tes whoe haue refused to ratifie yt. This book <lb/>
+            is the same but more subtelly polished w<ex>i</ex>th some alterations &amp; additions./
+            </p>
+         <p>
+            Yf wee embrace yt wee shall bee made a wounder to the worlde for our <lb/>
+            defection./
+         </p>
+         <p>
+            Followe not hyrelings and deceiptfull guiders to yo<ex>u</ex>r owne p<ex>er</ex>dition, and <lb/>
+            overthrowe of religion. Remember what the Prophet Esay saide, The <lb/>
+            leaders of the people cause them to erre, and they whoe are ledde by them <lb/>
+            are deceaved./ 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f070r/add_ms_35331_f070r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f070v/add_ms_35331_f070v.jpg"/>
+   </facsimile>
+</TEI>

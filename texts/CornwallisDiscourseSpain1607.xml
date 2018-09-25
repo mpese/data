@@ -1,0 +1,1844 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Discourse of the State of Spain</title>
+            <author>
+               <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS4149.xml">
+               <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 4149</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_295">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 295</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_39853">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 39853</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48062">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 48062</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Cotton_MS_Vespasian_C_X">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Cotton</collection>
+               <idno>MS Vespasian C X</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_36444">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 36444</idno>
+               <msName>Aston Letter Book, 1619-1620</msName>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS36444.xml">British Library, Additional MS 36444, ff. 14r–61x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS39853.xml">British Library, Additional MS 39853, ff. 150r–161v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48062.xml">British Library, Additional MS 48062, ff. 326r–367v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLCottonMSVespasianCX.xml">British Library, Cotton MS Vespasian C X, ff. 1x–35x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS295.xml">British Library, Harley MS 295, ff. 240r–248v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb178.xml">Beinecke Library, Osborn fb178, ff. 37v–41r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_929.xml">Bodleian Library,  MS Rawlinson C 929, ff. 1r–18v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CRO_EL_MS_6556.xml">Cornwall Record Office,  EL MS 655/6, ff. 128r–155v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_VIIIB139.xml">Hertfordshire Archives and Local Studies,  VIII.B.139</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_305.xml">Senate House, University of London,  MS 305, ff21</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_21.xml">Woburn Abbey,  MS 21, pp188–189</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">3</biblScope>
+                  <biblScope unit="page" from="304" to="315">304-315</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1607">1607</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>discourses</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Spain</term>
+               <term>diplomacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-18" who="#RB" status="draft"/>
+            <change when="2018-04-17" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="132r" facs="/bl/add_ms_4149_part/add_ms_4149_f132r/add_ms_4149_f132r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="italic">
+               A Discourse of the State of Spayne writ=<lb break="no"/>
+               ten by S<ex>i</ex>r Charles Cornwallis the Lidger <lb/>
+               Ambassador ther, about the begining<del rend="strikethrough">inge</del> of <lb/>
+               this yeare. <hi rend="underline">1607</hi>. / .
+            </hi>
+         </head>
+         <p>
+            The kinge possesseth at this present Spaine entirely, wherin <lb/>
+            are contayned Fourteene kingdomes and principallities, <hi rend="italic">Port=<lb break="no"/>
+            ugall, Algaruie, Granada, Andalusia, Murcia, Valencia, Cata=<lb break="no"/>
+            lun<ex>n</ex>a, Arragon, Nauarre, Biskay, Galicia, Leon, Castile,</hi> <lb/>
+            the newe, and <hi rend="italic">Castile </hi>the olde, / .
+         </p>
+         <p>
+            In Italye he hath the kingdome of <hi rend="italic">Naples</hi>, that of <hi rend="italic">Cicilia</hi> &amp;  <lb/>
+            the dukedome of <hi rend="italic">Millan</hi>, w<ex>hi</ex>ch in riches, in Nomber of Sub=<lb break="no"/>
+            iectes and in Revenewe exceedeth divers kingdoms. / .
+         </p>
+         <p>
+            In the Lowe Countryes, he possesseth a tytle in reuersion <lb/>
+            to the dukedoms of Brabant, Lymburche, and Lucenburch, <lb/>
+            and entitleth him selfe in like Manner to sixe Earledoms. v<ex>i</ex>z<add place="above">t</add>. <lb/>
+            Flaunders, Holland, Zelande, Artoys, Namure, and Zut=<lb break="no"/>
+            phen, To fower Sign<ex>n</ex>ories, Namly, Frizeland, Gronningh=<lb break="no"/>
+            am, Heynoult, and Malines. / .
+         </p>
+         <p>
+            In the west Indies, beyonde the Islandes of Capo verde, and <lb/>
+            that of St Thomas, (from whence comes the Suger) hauing <lb/>
+            passed the Cape de buena Speranza, he houldeth Mozem=<lb break="no"/>
+            bique, a place of greate import for the Trafique of the East, <lb/>
+            He hath the kingdome Ozmvs, and many other forteresses in <lb/>
+            the Rivers of all that Ocean Sea, to the gulphe of Benala <lb/>
+            and from thence to <hi rend="italic">Scyan</hi> Canton and the Confynes of Ch=<lb break="no"/>
+            ina: He howldeth Moreouer the Islandes of <hi rend="italic">Molucca</hi>, and <lb/>
+            those of the Phillipines, by meanes whereof he is Maister <lb/>
+            of all that Ocean Sea, in such sorte, as departinge from <lb/>
+            Spaine towardes the west, and passinge the streightes of <lb/>
+            <fw type="catch" place="bot-right">Magellan, toward<ex>es</ex>
+                </fw>
+            <pb n="132v" facs="/bl/add_ms_4149_part/add_ms_4149_f132v/add_ms_4149_f132v.jpg"/>
+            Magellane, towardes the Phillippines, and the Mollucas and <lb/>
+            takinge theire waye by Sea to the Gulphe of Bengala, after <lb/>
+            to Ozmvs, and <del rend="strikethrough">aft</del> Lastly to the Cape of Buena, Speranza, <lb/>
+            tourninge themselues towardes the Islande<del rend="strikethrough">s</del> of St Thomas <lb/>
+            and the streightes of Gibraltar, in this sorte, they goe about <lb/>
+            the circle the whole world. / .
+         </p>
+         <p>
+            Besides all these estates, he is possessed of many other pla=<lb break="no"/>
+            ces of much importance, w<ex>hi</ex>ch are as accessaries, and ad=<lb break="no"/>
+            iunctes, to his other dominions, as the Islandes of the <unclear>Ta=<lb break="no"/>
+            rceras</unclear> to his kingdom of portugall, the Canaries, to Castile,    <lb/>
+            Maiorca, Minorca, and Sardenia to Arragon, diuers pla=<lb break="no"/>
+            ces in Tuscan and Piombin to the kingdome of Naples the <lb/>
+            Marquesake of Fynall, and Corregio to the state of Millan, <lb/>
+            Oram and de Peynor in Affrica to Castile; Tangor, Arz=<lb break="no"/>
+            ola, Mesagan, and Septanell, to the Crowne of Portugall, <lb/>
+            and the Earledome of Borgoyne, w<ex>hi</ex>ch should most aptly ha=<lb break="no"/>
+            ve bene rekoned w<ex>i</ex>th his signorys in the Low Countrys. / .
+         </p>
+         <p>
+            The Iles of Maiorca, Minorca, and Sardenia are not of <lb/>
+            such strength, but they may easelie be possessed by an <lb/>
+            enemy, that were able w<ex>i</ex>th a potent Army to assaulte <lb/>
+            them. / .
+         </p>
+         <p>
+            The West Indies they possesse not soe strongly, but theye <lb/>
+            maye haue Cause to feare, For although of the Naturall <lb/>
+            Indians, they haue not much occasion to make doubte, be=<lb break="no"/>
+            inge in theire owne disposicon, cowardlie, and w<ex>i</ex>thout all <lb/>
+            experience, and leaders to directe them: yet hath there such <lb/>
+            a multitude of people transferred them selues, thither out <lb/>
+            of Spaine to the much dispeoplinge of theire owne Coun=<lb break="no"/>
+            trye, and  multeplyed soe habeundantlye there, as whatt <lb/>
+            w<ex>i</ex>th discontentes given them from their owne Countrye, w<ex>i</ex>th <lb/>
+            Confidence of theire, and the great distance from Spaine, <lb/>
+            were there added vnto it any hope of assistance, of some <lb/>
+            other powerfull Prince by Sea, they may w<ex>i</ex>thout any great <lb/>
+            difficultie become moued to make such a revolt as wilbee <lb/>
+            <fw type="catch" place="bot-right">harde for the</fw>
+            <pb n="133r" facs="/bl/add_ms_4149_part/add_ms_4149_f133r/add_ms_4149_f133r.jpg"/>
+         hard for the kinge of Spayne to suppresse: Herevnto the <lb/>
+            Spanyard gives, what remedye he can, hauinge forbidden <lb/>
+            the buildinge of any forteresses, or stronge places in those <lb/>
+            Countrys, wherevnto his rebells or Enemyes might have <lb/>
+            retreit, prohibitinge the plantinge of vines, wherewith <lb/>
+            to make wyne, and olive trees for oyle, the makinge of <lb/>
+            Linnen, and silkes, and such other necessaries, and not <lb/>
+            permittinge any other Nac<ex>i</ex>on, to haue Comerce w<ex>i</ex>th them, <lb/>
+            whereby to hould them in a Continvall necessetie of his <lb/>
+            yearlie assistance and helpe from Spaine. / .
+         </p>
+         <p>
+            In the East Indies although they possesse litle but the very <lb/>
+            extremities, and out sides of the lande, notw<ex>i</ex>thstandinge <lb/>
+            by meanes of the forteresses that they haue builded, <lb/>
+            they hould their owne, and the Rather by reason of the <lb/>
+            navigation, and comerce that they haue, in those Seas, <lb/>
+            w<ex>hi</ex>ch before the Hollanders in those late yeares gaue them <lb/>
+            disturbance, were wholly in theire Power, for by means <lb/>
+            of that navigac<ex>i</ex>on, they maye w<ex>i</ex>th the more facillitie, re=<lb break="no"/>
+            leive, strengthen, victuall, and put in garisons, in ev=<lb break="no"/>
+            erie one of the said places that they are possessed of, hav=<lb break="no"/>
+            inge soe digged awaye the Earth, neere vnto those For=<lb break="no"/>
+            terresses, that they haue accesse vnto them by water, and <lb/>
+            herew<ex>i</ex>th haue soe environed them, as they haue putt them <lb/>
+            almost all, into the forme of Islandes. Those places are <lb/>
+            in greatest perill to receaue hurte from the Turke, who <lb/>
+            beinge disposed to sende a great navie by the Thesean <lb/>
+            sea, or by the Petrian gulph, may disturbe theire navi=<lb break="no"/>
+            gation, and besiege theire Forterresses of most importa=<lb break="no"/>
+            nce, ouerthrowinge theire Traffique of pepper and oth=<lb break="no"/>
+            er spices, w<ex>hi</ex>ch from those partes are transported to Spaine, <lb/>
+            and this by experience of these fewe years, we fynd not <lb/>
+            to be of any great difficultie to a potent Army consider=<lb break="no"/>
+            inge that the Hollanders w<ex>i</ex>th those fewe Shipps they haue <lb/>
+            adventured thether, haue alreadie in a manner destroyed <lb/>
+            <fw type="catch" place="bot-right">all the Portugall</fw>
+                <pb n="133v" facs="/bl/add_ms_4149_part/add_ms_4149_f133v/add_ms_4149_f133v.jpg"/>
+            all the Portugall traffique for spices, w<ex>hi</ex>ch is the Cheefe com=<lb break="no"/>
+            <ex>m</ex>oditie of that navigac<ex>i</ex>on. / .
+         </p>
+         <p>
+            Touchinge the Lowe Countries of some parte whereof, for <lb/>
+            the present, the Archdukes are the proprietorie Lords and <lb/>
+            possessors, who are nowe w<ex>i</ex>th consent of the kinge of Spayne, <lb/>
+            in treatie for a peace w<ex>i</ex>th the other States vnited, and have <lb/>
+            assented to relinquish theire title and interest to those partes, <lb/>
+            that by them are w<ex>i</ex>thheld from theire obedience, I will say <lb/>
+            nothinge but leaue them to such successe as so soddaine and <lb/>
+            soe inexpected a Moc<ex>i</ex>on, may w<ex>i</ex>th tyme produce, the same <lb/>
+            hauing in the vnderstandinge and iudgment of man soe <lb/>
+            many and soe various dependances, as to decipher them <lb/>
+            all, would rather require a whole voll<unclear>uim</unclear>ie then a short <lb/>
+            discourse: Onlie this by way of divinac<ex>i</ex>on, If a peace <lb/>
+            it proue, to Spaine it is not very likely to be for the pre=<lb break="no"/>
+            sent, either Honorable or Advantageous, and to the estates <lb/>
+            for the tyme to come, neither safe nor dureable, yf a warre <lb/>
+            Continued, it maye in tyme become the Ruine of the one, <lb/>
+            or the impouerishinge and envassalinge of the other. / . <lb/>
+            The Townes in Affrica, in feare of such fortune as they <lb/>
+            suffered at Thunis and Goletta, places soe important and <lb/>
+            neere to the kingdome of Spayne, w<ex>hi</ex>ch were taken from <lb/>
+            them by the enemy, they keepe w<ex>i</ex>th great care and provi=<lb break="no"/>
+            dence, as those whom the losse of these Townes haue made <lb/>
+            more circomspecte and regardfull of the rest that be in their <lb/>
+            possessyon. / .
+         </p>
+         <p>
+            The Revenewe of the Crowne of Spayne, some .9. or 10. <lb/>
+            yeares passed, amounted vnto .14. millions &amp; .56600. du=<lb break="no"/>
+            cattes, whereof Spayne yeelded .7. millions (viz) Castill <lb/>
+            .5. millions, Portugall one million and .60000. ducates, <lb/>
+            Arragon and Castalunia .200000. ducates, Granada, <lb/>
+            Murcia and Valencia .200000., out of <hi rend="italic">Cicylya</hi> .700000. out <lb/>
+            of the State of Millan .900000, Out of the kingdom of Na=<lb break="no"/>
+            ples one million, and 200000 ducketes, out of the Towns <lb/>
+            <fw type="catch" place="bot-right">he hath in Tuscan</fw>
+            <pb n="134r" facs="/bl/add_ms_4149_part/add_ms_4149_f134r/add_ms_4149_f134r.jpg"/>
+            he hath in Tuscan .10000. ducates, out of the Low Countrys <lb/>
+            he hath had .710000. ducates, out of the East Indies, one <lb/>
+            millione and .600000, ducates, and out of West Indies .2. <lb/>
+            millions and .200000. ducates, ww<ex>hi</ex>ch in the whole amo=<lb break="no"/>
+            unteth to the aforesaid Some of Fourteene Millions &amp; <lb/>
+            566000. ducketes,: But in the yeare .<hi rend="underline">1598</hi>. vpon an acc=<lb break="no"/>
+            ompte then made, of the particularities where of I am <lb/>
+            possessed, <add place="above">the revenewe of portugall, Navarre, Arragon, Catalunia,</add> and his other states in <lb/>
+            Italllie (viz) Naples Syci=<lb break="no"/>
+            lia, and Millan, and his Townes in Affrica, and other partes <lb/>
+            not accompted, in regarde that from none of them, there comes     <lb/>
+            any thinge to the kinges purse, the same beinge spent ww<ex>i</ex>thin <lb/>
+            those seuerall estates in maintenance of his viceroyes, gou=<lb break="no"/>
+            ernors, and garisons, and in the multetude of pencons he <lb/>
+            giveth there, and in other partes of Italie, It appeareth <ex>tha</ex>t <lb/>
+            the kinges yearlie revenewe by all manner of wayes and <lb/>
+            meanes amounted not to aboue .97643624.  ducattes, <lb/>
+            his assignations, outrentes, and Charges, ordinary and ex=<lb break="no"/>
+            traordinary in that yeare to the some of .11352834. <lb/>
+            ducates, soe as his yearlie charge exceeded his receiptes  <lb/>
+            the some of .1609210. ducattes: But this was then help=<lb break="no"/>
+            ed by an ayde of .6. millions yearlie duringe the space  <lb/>
+            of Eight years, graunted vnto his ma<ex>jes</ex>tie in his Courtes <lb/>
+            w<ex>hi</ex>ch are assembled in the naturre of of our parleamentes in <lb/>
+            England: These beinge nowe exired and the kingdome <lb/>
+            of Spayne soe exceedinglie impoverished and unhable, <lb/>
+            for soe greate a burden, they haue by a late parleame=<lb break="no"/>
+            nt abated and nuely graunted two millions and a halfe <lb/>
+            yearlie to be payed for the space of Eight yeares, a some <lb/>
+            also (w<ex>hi</ex>ch the Estate of thinges continuinge as it doth) it is <lb/>
+            verelie thought they will not in any sort be able to per=<lb break="no"/>
+            forme;  Moreover it is to be considered, that sithence <ex>th</ex>e  <lb/>
+            former accomptes made, the debtes of the kinge are grea=<lb break="no"/>
+            tely encreased, w<ex>hi</ex>ch are thought at this daye to amount      <lb/>
+            to .160. Millions at the least, for w<ex>hi</ex>ch he payes Interest <lb/>
+            <fw type="catch" place="bot-right">for some after</fw>
+            <pb n="134v" facs="/bl/add_ms_4149_part/add_ms_4149_f134v/add_ms_4149_f134v.jpg"/>
+            for some, after the Rate of one for .14. others  one for twentie, &amp; <lb/>
+            some at one for thirtie, besides other greate Somes due to <lb/>
+            his penc<ex>i</ex>oners, his Garyson souldiers, and to those of wh=<lb break="no"/>
+            ome he hath taken victuall, munition, and other necessar=<lb break="no"/>
+            ies for his Navis and his forteresses in Barbary and other <lb/>
+            places; Neither is it of small Consequence to the kinge, that <lb/>
+            these his revenewes and Treasure are Mannaged for the <lb/>
+            most parte, by people marked w<ex>i</ex>th the spottes of vntruthe <lb/>
+            and vnfaithfullnes as those that more respect theire par=<lb break="no"/>
+            ticuler interest, then the publique good: And would the king <lb/>
+            purpose a generall correction of them all, such is this estate <lb/>
+            and people, as hardlie he should fynde any to serve him in <lb/>
+            those places: And for particulars, if any such fall out as <lb/>
+            latlie that of the Earle of Villa Longa, and Ramires de  <lb/>
+            Prada, it extendeth not to the takinge awaye of theire  <lb/>
+            Lives, but only to banishement, imprisonment and c=<lb break="no"/>
+            nfiscation of theire goodes soe as the same beinge not <lb/>
+            publique nor exemplarie, gives vnto the Rest the more <lb/>
+            incouragement to continewe theire falsetie, to the pr=<lb break="no"/>
+            iudice of the Crowne: Lastlie the Rentes and reven=<lb break="no"/>
+            wes Royall haue annexed vnto them two notable incom=<lb break="no"/>
+            odities w<ex>hi</ex>ch denies them certaintie. The first in rega=<lb break="no"/>
+            rde that the most of them are founded vpon <unclear>imposiliores</unclear> &amp; <lb/>
+            and those soe exorbitant, that they haue alreadie and <lb/>
+            goe on daylie wastinge and Consumynge their people <lb/>
+            and especiallie those of Spayne, where it is not possi=<lb break="no"/>
+            ble, that they should longe be hable, to beare the burth=<lb break="no"/>
+            en of soe greate somes of money, as for the passed and <lb/>
+            present, are layd vpon them.. The other w<ex>hi</ex>ch is of more <lb/>
+            importance, is that the most of his Ma<ex>jes</ex>ties Revenewes in <lb/>
+            Castile, Portugale and the Indies resteth vpon the navi=<lb break="no"/>
+            gation of his yearlie fleetes,<del rend="strikethrough">
+                    <unclear/>
+                </del> w<ex>hi</ex>ch beinge both subiect <lb/>
+            to stormes, and to disturbance by enemyes, can never pr=<lb break="no"/>
+            omise any assurednes, neither are those two perills to be <lb/>
+            <fw type="catch" place="bot-right">avoided, either</fw>
+            <pb n="135r" facs="/bl/add_ms_4149_part/add_ms_4149_f135r/add_ms_4149_f135r.jpg"/>
+            avoided, either w<ex>i</ex>th vndertakinge of those navigacons in ty=<lb break="no"/>
+            mes more seassonable: For then their certain<del rend="strikethrough">tie</del> tymes <lb/>
+            of returne beinge knowne, they should be in greater da=<lb break="no"/>
+            nger to fall in to the handes of theire enemis, or by encr=<lb break="no"/>
+            easinge of theire nomber of Shippes of warre, such be=<lb break="no"/>
+            inge theire generall want of maisters, and mariners, <lb/>
+            as they hardlie fynde nvmber suffitient to saile those they <lb/>
+            yearlie sett forth for the present. Soe as were there <lb/>
+            convenient nvmber of Shipps of warre, Continuallie <lb/>
+            attendant vpon the Costes of Spaine, for the space of 2. <lb/>
+            years onlie to keepe in the kinges navie (w<ex>hi</ex>ch is gathered <lb/>
+            and Compounded of divers distant places) from issuinge <lb/>
+            out and assemblinge them selues and by that meanes <lb/>
+            also stoppe the passage into the Indies, and prohibit all <lb/>
+            Strau<ex>n</ex>gers that should endevore to bringe in Corne, <lb/>
+            Munition, Cordage, and other necessaries in to Spayne, <lb/>
+            This kingdome beinge in soe great want in it selfe, and <lb/>
+            not ayded by the purse of Genoa, and that of the Fo=<lb break="no"/>
+            ulkers, w<ex>hi</ex>ch in a case of such despayre to be repaired  <lb/>
+            (by all probabillitie) would be denyed, must of necesse=<lb break="no"/>
+            tie come to vtter ruine or be enforced to receave any <lb/>
+            Condic<ex>i</ex>ons that would be required to be imposed vpon <lb/>
+            them, for the strength of this great monarchie consi=<lb break="no"/>
+            stes onlie in the Riches drawne out of the Indies, in the <lb/>
+            Souldiers of Spaine and the Captaines of Italie, the  <lb/>
+            first failinge, the seconde would want Armes, and <ex>th</ex>e <lb/>
+            third Legges. / .
+         </p>
+         <p>
+            The Spanyard although he be exceedinge patient of <lb/>
+            heate, Could, hunger, and thirst, yet where there is <lb/>
+            none or little hope of reward, his disposition is not to <lb/>
+            be forewarde to adventure, the Itallian lesse, who hav=<lb break="no"/>
+            inge no loue at all to the Spanyardes person, will ne=<lb break="no"/>
+            uer put him selfe in perill, but in hope of his purse. <lb/>
+            And in theire Indias, theire people receavinge, not for <lb/>
+            <fw type="catch" place="bot-right">soe longe a tyme</fw>
+            <pb n="135v" facs="/bl/add_ms_4149_part/add_ms_4149_f135v/add_ms_4149_f135v.jpg"/>
+            soe longe a tyme the necessaries w<ex>hi</ex>ch yearely they are <lb/>
+            enforced to expecte from Spaine, wilbe Compelled to cast <lb/>
+            themselues into other Armes, and receaue such lawes as <lb/>
+            those princes that shalbe Maisters of the Navigac<ex>i</ex>on and of <lb/>
+            the Seas, shall impose vpon them. / .
+         </p>
+         <p>
+            The Cavallerie of Spaine Consisteth of five thousand <lb/>
+            in ordinary paye, Armed lightly w<ex>i</ex>th Lawnce &amp; Target, <lb/>
+            who aswell in regarde of theire litle experience &amp; pra=<lb break="no"/>
+            ctize, as the qualletie of their horses (w<ex>hi</ex>ch are weake <lb/>
+            and of litle worth) are of no great accompte, besides th=<lb break="no"/>
+            es there are some in continuall paye, that are bound <lb/>
+            vppon occasions to attende the kinges person for his guard, <lb/>
+            also there are .<hi rend="underline">1600</hi>. armed w<ex>i</ex>th Launce<del rend="strikethrough">s</del> and Target, &amp; <lb/>
+            accustomed to attende the coastes alonge the Mediter=<lb break="no"/>
+            an Seas to w<ex>i</ex>thstande vpon occasions the incursions of <lb/>
+            Pirates, and Mores, Wherew<ex>i</ex>th they are often infested. / .
+         </p>
+         <p>
+            The Forces of the kinge by Sea consist of .80. galli=<lb break="no"/>
+            es ordinarelie held in Readines at his Charges, whe=<lb break="no"/>
+            reof .8. in portugall, twentie in Spaine, 24. in Na=<lb break="no"/>
+            ples, .12. in Scycillia, and .16. in genoa: But these <lb/>
+            (by reason of the averice and attentivnes to theire <lb/>
+            owne gaine in the kinges ministers) soe evill in or=<lb break="no"/>
+            dere, as were they putt to a soddaine service, there <lb/>
+            would be found of serviceable vessells a muche smaller <lb/>
+            nomber, neither can he give any present remedie to <lb/>
+            it, w<ex>i</ex>thout puttinge much disorder in his other occasyons, <lb/>
+            that more import him. Vpon these other Seas neerer  <lb/>
+            home, and about Portugall, for defence against pir=<lb break="no"/>
+            attes and other enemyes, the greatest nomber that this <lb/>
+            yeare of .1607. his ma<ex>jes</ex>tie Coulde putt to Sea consisted <lb/>
+            of .80. sayle, where of .30. were Gallions, and for <lb/>
+            <fw type="catch" place="bot-right">the furneshing</fw>
+            <pb n="136r" facs="/bl/add_ms_4149_part/add_ms_4149_f136r/add_ms_4149_f136r.jpg"/>
+            the furnishinge thereof, as the kinge was enforced to p<ex>ro</ex> <lb/>
+            claime not only much paye beforehande, but an hid=<lb break="no"/>
+            algement, and other exemptions, to who soeuer would <lb/>
+            serve him in that navy: And all that notw<ex>i</ex>thstandinge <lb/>
+            had they not bene furnished by the opertunitie of the re=<lb break="no"/>
+            turne of the Spanishe souldiers at that instant out of <lb/>
+            Itallie, and the takinge out of others out of divers ga=<lb break="no"/>
+            risons (soe as in the Castle of Lixbone it selfe, they le=<lb break="no"/>
+            ft not aboue .40. souldiers) they had not had suffitient to <lb/>
+            saile and man that nvmber. / .
+         </p>
+         <p>
+            Of the Gallies before menc<ex>i</ex>oned, are for the instant, <lb/>
+            Comaunders, of those <del rend="strikethrough">of</del> in Naples, the Marques of <lb/>
+            St Cruz, of those in Sycillia Don Pedrp de Leyva, of <lb/>
+            those in Portugall Conde de Elda, and of those in Sp=<lb break="no"/>
+            ayne Don Pedro de Toledo, Marques of Villa Fran=<lb break="no"/>
+            ca: of the other navye of Shipps and Gallionnes  <lb/>
+            Don Luys Faiardo. . / .
+         </p>
+         <p>
+            These forces and all other of the kingee both by Sea &amp; <lb/>
+            Lande, suffer two mortall oposic<ex>i</ex>ons w<ex>hi</ex>ch makes them <lb/>
+            of lesse esteeme w<ex>i</ex>th theire enemys and of litle or none <lb/>
+            effect to theire freindes, or them selues: w<ex>hi</ex>ch are softnes, <lb/>
+            and slownes growinge out of a naturall tarditie in <ex>th</ex>e <lb/>
+            nac<ex>i</ex>on, out of the irresoluc<ex>i</ex>on of the kinge, and his Co=<lb break="no"/>
+            unsell, out of a difficultie to prouid money, and the <lb/>
+            distaunce of the kingdomes, and ;partes from w<ex>hi</ex>ch they <lb/>
+            are to be assembled, w<ex>hi</ex>ch breedes a greate delaye in <lb/>
+            theire Coniunction, and by Consequence, much abatem<ex>en</ex>t <lb/>
+            to their power, and impediment to the successe of their <lb/>
+            enterprises. / .
+         </p>
+         <p>
+            Havinge thus in a kinde of generalletie rvnne over <lb/>
+            the estate of this kinge, held thoroughout the world <lb/>
+            soe potent, in regard, that the Countrys of Spaine, <lb/>
+            and Italie are the synnowes and foundac<ex>i</ex>ons of his <lb/>
+            strength and forces, I hould it best to enter into a dist=<lb break="no"/>
+            <fw type="catch" place="bot-right">distinct conside=</fw>
+            <pb n="136v" facs="/bl/add_ms_4149_part/add_ms_4149_f136v/add_ms_4149_f136v.jpg"/>
+            distincte considerac<ex>i</ex>on, both of the one and the other Coun=trie, . / .
+         </p>
+         <p>
+            In Spayne, there are three sortes of people, the Chur=<lb break="no"/>
+            chemen, the Layetie, and the Moores, The Church=<lb break="no"/>
+            men are there either exceedinge Riche or extreamly <lb/>
+            poore, these last are oft tymes to sustaine theire lives <lb/>
+            enforced to labours and industery, vnproper for men of <lb/>
+            theire vocation, the other are devided in to Archebishopps, <lb/>
+            Bishopps, Chanons, and other digneties. In Spayne th=<lb break="no"/>
+            ere are .8. Archebishopprickes, 40. Bisgoprickes, In  <lb/>
+            Portugall .3. Archebishoprickes, and 9. Bishoprickes, <lb/>
+            besides infinit monasteries, religeous howses of gre=<lb break="no"/>
+            ate revenewe, and verie Riche in plate, and furnit=<lb break="no"/>
+            ure and other Chaunteryes and benefices also of mv=<lb break="no"/>
+            ch yearlie vallewe. To all the Benefices in Spa=<lb break="no"/>
+            yne the kinge hath the nominac<ex>i</ex>on and presentac<ex>i</ex>on, <lb/>
+            #and libertie to impose vpon them, what penc<ex>i</ex>ons hee <lb/>
+            thinkes Convenient to be by him distributed to other <lb/>
+            Churchemen, at his pleasure: He hath also power <lb/>
+            to translate, and transfere from one Bishopricke to <lb/>
+            an other, and by that meanes houldeth the prelates <lb/>
+            of his Realme in much obedience, aswell in regard <lb/>
+            of the favour and benefite they receive from him, <lb/>
+            as in hope of others in the future, yf any need they <lb/>
+            have, of ayde or helpe, they resorte not for it to Rome, but to <ex>th</ex>e <lb/>
+            kinge, as also in any greevance they receaue from Rome, they <lb/>
+            reapire to him only for assistance, and he patronises and de=<lb break="no"/>
+            fendes them from the iniury of such as would opresse them, &amp; <lb/>
+            in regarde thereof findes it not difficult to drawe from them <lb/>
+            vpon euerie his occasions greate somes of money, w<ex>hi</ex>ch in out=<lb break="no"/>
+            ward shewe, they willinglie depart from, in hope by his ma<ex>jes</ex>tie <lb/>
+            to be raised to higher migneties, or better Bishoprickes, or at <lb/>
+            least to be protected, and kept safe, and w<ex>i</ex>thout molestac<ex>i</ex>on <lb/>
+            in those that alreadie they are pocessed of: / .
+         </p>
+         <p>
+            <fw type="catch" place="bot-right">The Layetie of</fw>
+            <pb n="137r" facs="/bl/add_ms_4149_part/add_ms_4149_f137r/add_ms_4149_f137r.jpg"/>
+            The Layetye of Spaine are devided into Nobillitie and Comvn=<lb break="no"/>
+            altie. Of the Nobillitie those that are Licensed to couer theire he=<lb break="no"/>
+            ades before the Kinge, are called Grandes, and of those there <lb/>
+            are for the present about the nvmber of .40. whereof some <lb/>
+            .24. are Dukes, the rest Marquesses or Earles; These in the <lb/>
+            tyme of the Kynge deceased, were much held vnder, as those <lb/>
+            vpon whome, he seldome bestowed any Chaarge or office in <lb/>
+            Spaine of any greate importance, and if any they oute of <lb/>
+            Spaine, they were for shorte tyme, and often changed, soe as <lb/>
+            they could not haue leasure, to acquire any greate powere <lb/>
+            or Authoritie, he was occasioned to sowe distastes, and disce=<lb break="no"/>
+            ntions amongest them, And albeit they vsed all manner   <lb/>
+            of exactions vpon their Tenauntes, yet were they then, and  <lb/>
+            are nowe, in the tyme of the kinge that raigneth, (notw<ex>i</ex>thsta=<lb break="no"/>
+            ndinge the huge number of Ducates, that they putt into <lb/>
+            the Reconinge of theire revenewes) in a manner all exceed=<lb break="no"/>
+            inglie indepted, and their Landes and estates engaged. / . <lb/>
+            The third sortes w<ex>hi</ex>ch are the Moores are infinite and bein=<lb break="no"/>
+            ge dispersed, thoroughout all the partes of the kingedome  <lb/>
+            doe daylie multeplie, and the Spaniardes continuallie <lb/>
+            deminishe, and decrease, in their nomber, as those who are <lb/>
+            Contnvallie sent into the Indies, into Flanders, Itallye <lb/>
+            and other partes, where the kinge employeth Souldiers, <lb/>
+            These Moors neuer stirrringe out of Spayne, whereby <lb/>
+            theire Labours, theire industrie, and theire frugall man=<lb break="no"/>
+            ner of Livinge, (aswell in victualles as apparrell) they gro=<lb break="no"/>
+            we exceedinge riche, and increase daylie. aswell in reputa=<lb break="no"/>
+            cone and Courage, as in number, to the great perrill of <ex>th</ex>e <lb/>
+            Spanyard: were that people assisted by the force of any for=<lb break="no"/>
+            raine prince of Power; Neither fynde they any remedye <lb/>
+            to this evell, in regarde that soe longe they have suffered <lb/>
+            it to growe vpon them; For albeit they haue in theire Coun=<lb break="no"/>
+            sailles of Estates, divers tymes, consulted about the driving <lb/>
+            of that whole generac<ex>i</ex>on out of Spayne, yet vpon mature <lb/>
+            <fw type="catch" place="bot-right">deliberac<ex>i</ex>on, it</fw>
+            <pb n="137v" facs="/bl/add_ms_4149_part/add_ms_4149_f137v/add_ms_4149_f137v.jpg"/>
+            deliberac<ex>i</ex>on, it hath bene founde to be impossible to be effected, w<ex>i</ex>th <lb/>
+            out a Plonginge of the whole kingdome into manifeest dang=<lb break="no"/>
+            er, w<ex>hi</ex>ch shoulde serve to litle other ende, then to hasten ann <lb/>
+            evell that w<ex>i</ex>th temporisinge althoughe perhapps can never be  <lb/>
+            whollie avoyded, yet at least may be a longe tyme deferred: <lb/>
+            This people although sithence theire Last Rebellion, disper=<lb break="no"/>
+            sed into all partes of Spaine, and for avoidinge the like in <lb/>
+            tyme to Come, mixed in all places w<ex>i</ex>th the Spanishe na=<lb break="no"/>
+            c<ex>i</ex>on, and enforced to leave theire habitac<ex>i</ex>ons, and scituac<ex>i</ex>ons    <lb/>
+            of Strength, wherein, in formor tymes theey lived togethere, <lb/>
+            and to dwell in places playne and open, and seperat from <lb/>
+            their Companyes, yet is there greatest number abidinge at <lb/>
+            this daye in the kingdomes, of Vallentia, and granada, and <lb/>
+            other partes neerest vnto Affrica, and for this reason onlye <lb/>
+            the Biskaynes reckon them selues the noblest and least corru=<lb break="no"/>
+            pted people of all Spaine, in regarde they haue neither had <lb/>
+            nor have any mixture w<ex>i</ex>th that base and infidelious genera=<lb break="no"/>
+            c<ex>i</ex>on. / .   
+         </p>
+         <p>
+            The Spanishe nac<ex>i</ex>on in generalletie is not vallerous of <lb/>
+            theire owne Nature, nor much adventvrous further forth <lb/>
+            then vaine glorie, and desire of gettinge puttes them for=<lb break="no"/>
+            warde, for it is vniversallie noated in them, that in the <lb/>
+            services of the night or such other, where the same are <lb/>
+            not in veiwe of theire generall, and where their feare <lb/>
+            of Perill, is greater then their hope of bootie, they for <lb/>
+            the most parte, neclecte the office of theire handes, and putt <lb/>
+            theire greatest Confidence in that of theire feete: neithere <lb/>
+            are they at home disciplined or exercised in any such sorte <lb/>
+            as whereby to gett either experience or dexteritie, in the vse <lb/>
+            of marsheall weapons, yet falles it often, that the Beso=<lb break="no"/>
+            gnes os Spayne take from the Ploughe, and other labours <lb/>
+            proue better Souldiers, and of more vse, then those that are <lb/>
+            drawne out of theire garrisons in Itally, and other places, for <lb/>
+            these last applie all theire Studies, rather how to Robbe and  <lb/>
+            <fw type="catch" place="bot-right">Spoyle and to serve</fw>
+            <pb n="138r" facs="/bl/add_ms_4149_part/add_ms_4149_f138r/add_ms_4149_f138r.jpg"/>
+            Spoyle and to serve them selues of the comodities of the people, <lb/>
+            amongst whome they are placed, then to any other induste=<lb break="no"/>
+            rie, or millitary exercyse, and beinge difused, an vnacc=<lb break="no"/>
+            ustomed to travaile and laboure, and groune Riche and able <lb/>
+            to live doe rather couett to enioye w<ex>i</ex>th ease what they haue <lb/>
+            formorlie gotten, then w<ex>i</ex>th payne and perill, to adventure <lb/>
+            that, and theire Lives, in doubtfull chaunce of warre: The <lb/>
+            other accustomed to laboure, and <del rend="strikethrough">meerlie</del> <add place="above">newlie</add> drawne from <lb/>
+            it, not much given to ease or pleasure, hauinge Nothinge <lb/>
+            of their owne where vnto to trust, w<ex>i</ex>th desire to gett, and ne=<lb break="no"/>
+            essitie to haue, prooue of more vse and comoditie, for that <lb/>
+            kinde of service. / .
+         </p>
+         <p>
+            The Spaniardes vniversally are much inclined to Religeo<ex>n</ex> <lb/>
+            and Devotion, but that w<ex>i</ex>th suche immesurable superstition, <lb/>
+            and aptnes to beleeve false miracles, and fained Fables of <lb/>
+            the sanctetie of any person whatsoeuer, as what w<ex>i</ex>th that <lb/>
+            inclinac<ex>i</ex>on, and the extreeme licenciousnes of theire Lives <lb/>
+            they haue a greate facillytie of disposic<ex>i</ex>on to fall into any he=<lb break="no"/>
+            resie or oppinion whatsoeuer, were they not restrayned by <lb/>
+            that dreadfull office of the Inquisic<ex>i</ex>on, w<ex>hi</ex>ch w<ex>i</ex>th greate reason <lb/>
+            is helde on foote, and maintayned in supreame <del rend="strikethrough">auth</del> aucthor=<lb break="no"/>
+            itie by the kinge and estates, who are not ignorant of the <lb/>
+            disposic<ex>i</ex>on of the<ex>i</ex>r people. / .
+         </p>
+         <p>
+            The whole people but especiallie <hi rend="italic">Castile</hi>is exceedinglie ov=<lb break="no"/>
+            erburthened, w<ex>i</ex>th charges and imposic<ex>i</ex>ons, whereof the people <lb/>
+            incesantlye complayne, but w<ex>i</ex>thout releefe, for the kinge th=<lb break="no"/>
+            ough he cannot but bothe heare it and feele it, yet hathe  <lb/>
+            no powere nor meanes to redresse it, for albeit the Talla=<lb break="no"/>
+            ges and charges layed vpon them be excessive, yet are they <lb/>
+            not by many degrees equivallent to what the Crowne hath neede of. / . <lb/>
+         </p>
+         <pb n="138v" facs="/bl/add_ms_4149_part/add_ms_4149_f138v/add_ms_4149_f138v.jpg"/>
+         <p>
+            Remaines safe in regarde of the streigtnes of the Countrye, <lb/>
+            of the great sterillitie of those partes, and of the strengthe <lb/>
+            of the fortresses builte vpon the Confynes. / .
+         </p>
+         <p>
+            <hi rend="italic">Perpignan </hi>and <hi rend="italic">Salsas</hi> Townes towardes towardes the <lb/>
+            Mediterran Sea: and <hi rend="italic">St Sebastian</hi>, and <hi rend="italic">Fountereba</hi> tow=<lb break="no"/>
+            ardes the <hi rend="italic">Ocean</hi>, ouer and besides these more w<ex>i</ex>thin the <lb/>
+            Countrie there is <hi rend="italic">Pampalona</hi> the principallest and An=<lb break="no"/>
+            tientest Cittie of Navarre, of greate strength and in a ma=<lb break="no"/>
+            nner inexpugnable: Neither are the French towardes  <lb/>
+            those partes, as yet soe recouered of the weaknes they we=<lb break="no"/>
+            re fallen into, in theire late longe warres; that they <lb/>
+            can<del rend="strikethrough">not</del> give any greate Cause of feeare of their invasions: <lb/>
+            And should they attempt any such matter, then are the <lb/>
+            Grandes, who otherwise are neither compellable to the wa=<lb break="no"/>
+            rres or the least Charge thereof, either in purse or per=<lb break="no"/>
+            son, necessited to arme them selues and theire vassalles, <lb/>
+            and w<ex>i</ex>thall theire forces, to concurre in defence of the <lb/>
+            Crowne and their Country. On the partes towardes <lb/>
+            the Sea; they are apte enough to receave notable <unclear>domag</unclear>;    <lb/>
+            if at one instant they were assaulted w<ex>i</ex>th two Armyes, <ex>th</ex>e <lb/>
+            one, <del rend="strikethrough">one</del> on the Cost Mediterran, the other on those of the <lb/>
+            Ocean, And albeit that towardes the Southe, the scitua=<lb break="no"/>
+            c<ex>i</ex>on makes them stronge hauinge in all that Coast, but <lb/>
+            one Haven, w<ex>hi</ex>ch is that of <hi rend="italic">Curtegana</hi>, and that reasonab=<lb break="no"/>
+            lye well fortefyed notw<ex>i</ex>thstandinge in regarde that Affriq=<lb break="no"/>
+            ue is soe neere to them, they should not only be enforced to <lb/>
+            to defendethem selues, against theire outwarde and forra=<lb break="no"/>
+            ine ennemyes, but against the Moores theire neighbours, <lb/>
+            whom they knowe to be continuallie attendant, both to take <lb/>
+            and vse theire advantage. And more perilowes would such <lb/>
+            an invasion be vnto them, if it were executed, w<ex>i</ex>th speede <lb/>
+            and celleritie: For Spaine it selfe yeildinge noe souldy=<lb break="no"/>
+            ers eithere acustomed or exercised in Armes, theire ayde must <lb/>
+            be drawne from other kingdoms and estates subiecte to that Cro=<lb break="no"/>
+            <fw type="catch" place="bot-right">Crowne, which</fw>
+            <pb n="139r" facs="/bl/add_ms_4149_part/add_ms_4149_f139r/add_ms_4149_f139r.jpg"/>
+            Crowne, w<ex>hi</ex>ch aswell in regarde of the slowe prouisions made  <lb/>
+            in Spayne, as of the greate distance of the places, would  <lb/>
+            both give tyme to theire enemyes to hurte them, w<ex>i</ex>thin the <lb/>
+            Countrye it selfe, and also to cutt of such assistance and socc=<lb break="no"/>
+            ours as should come vnto them: towardes the North; Spayne  <lb/>
+            hath two Portes of speciall importance <hi rend="italic">St Andrea</hi>, and the <lb/>
+            <hi rend="italic">Groyne</hi>, The last wright haue bene entered and possessed by <lb/>
+            our Countrymen in the yeare .<hi rend="underline">1588</hi>. yf theire disseigne had <lb/>
+            not bene for an other place, and would haue beene of exce=<lb break="no"/>
+            edinge Consequence to our Nac<ex>i</ex>on, as from whence wee <lb/>
+            might haue Continuallie inquieted Spaine, and disturbed <lb/>
+            their Navigations into their Indies and other places vnder <lb/>
+            the kinges obedience. These two portes the Spaniard hath <lb/>
+            nowe well fortefyed, and better garrisoned, the like whereof <lb/>
+            he hath done in fowere of his Havens towardes the weste <lb/>
+            For findinge by experience that they were not able to shewe <lb/>
+            theire face to the English, who in tyme of the warre accusto=<lb break="no"/>
+            med contnvuallie to scowere those Coastes; in the latter tyme <lb/>
+            assoone as they discouered the Englishe fleetes, theire co=<lb break="no"/>
+            stome was to drawe theire shipps in to the Havens to diff=<lb break="no"/>
+            urnishe them of all theire necessaries, and some tyme to <lb/>
+            drowne them, least they should come into theire enemys <lb/>
+            handes, or be consumed by them w<ex>i</ex>th Fyre. / . <lb/>
+            To these doubtes and difficulties, this kingdome hath not <lb/>
+            any remedie to applie except they were able to sett forthe <lb/>
+            yearlie two seuerall navies, the one of a sufficient no=<lb break="no"/>
+            mber of Gallies in the Sea Mediterrane, the other of sh=<lb break="no"/>
+            ippes and galleons in the Ocian: But this Caryeth an <lb/>
+            Impossibillitie to be accomplished, such beinge theire want <lb/>
+            both of all the necessaries for shippinge, such of Souldie=<lb break="no"/>
+            rs fitt for sea service; wherevnto the Spaniard in his <lb/>
+            owne nature, hath no aptnes, and especiallie that of Mar=<lb break="no"/>
+            rryners, and experte Maisters and Pilots, as w<ex>i</ex>th great <lb/>
+            difficultie (as formorlie I haue sayed) they finde wherew<ex>i</ex>th <lb/>
+            <fw type="catch" place="bot-right">to serve and</fw>
+            <pb n="139v" facs="/bl/add_ms_4149_part/add_ms_4149_f139v/add_ms_4149_f139v.jpg"/>
+            to serve and sayle those they haue at <ex>th</ex>e present. / . <lb/>
+            Spayne is at this daye devided into three seuerall gou=<lb break="no"/>
+            ernementes (viz) that of Arragon, Castill and portugall, <lb/>
+            Not unconformeable to thee ould devision of that kingdom <lb/>
+            into three prouinces of Tarragones, Betique and Lvci=<lb break="no"/>
+            tanya, the kingdome of Arragon in tymes passed enioy=<lb break="no"/>
+            ed a kinde of immoderat and vnbridled libertie (hauinge  <lb/>
+            theire parleamentes, w<ex>hi</ex>ch Absolutlie gouerned all) They <lb/>
+            possessed them selues of all the Revenewes, and gave vn=<lb break="no"/>
+            to the kinge onlie by waye of donative or benevolence <lb/>
+            200000 Crownes, Neither were they in any sorte tyed to <lb/>
+            disburse that Some, but onlie at such tyme, as the kinge <lb/>
+            Came into the Countrye to hould his Parleament: They <lb/>
+            Constituted Magistrates that had supreame Authoritie, <lb/>
+            w<ex>hi</ex>cj Comaunded the procuradors of the kinge himselfe: <lb/>
+            And oft tymes condemned the kinge in a pecuniarie re=<lb break="no"/>
+            compence, or to silence in Causes of great importance. / . <lb/>
+            Such was the powere and Aucthoritie of the Lordes of <lb/>
+            that state, as they made what soeuer they had a will vn=<lb break="no"/>
+            to a lawe, w<ex>hi</ex>ch gaue them libertie and meanes to comitt <lb/>
+            infinit disorders, drawinge women by violence out of <lb/>
+            theire owne Howses, Deprivinge the Mothers of theire <lb/>
+            Children, and pullinge them from theire verie breasts, <lb/>
+            w<ex>i</ex>th Many other Monsterouse and exorbitant actions, <lb/>
+            And if at any tyme the kinge attempted to temper any <lb/>
+            of those Lawes, Imediatlie all the Grandys and peo=<lb break="no"/>
+            pell would put them selues in Armes, vnder the fayn=<lb break="no"/>
+            ed pretence of defendinge theire Libertys. / . In this <lb/>
+            estate stoode this kingdome at such tyme, as Antonio de <lb/>
+            <hi rend="italic">Peres</hi> Secretarie to the kinge deceased and his procu=<lb break="no"/>
+            rador in Arragon, beinge by the furie of the <hi rend="italic">People</hi> de=<lb break="no"/>
+            liuered out of the prison of the Inquisicon (whether <ex>th</ex>e <lb/>
+            kinge fallen into some suspition of him had Comitted <lb/>
+            him) so practized both w<ex>i</ex>th the Nobillitie and Comvnaltie <lb/>
+            <fw type="catch" place="bot-right">of that estate</fw>
+            <pb n="140r" facs="/bl/add_ms_4149_part/add_ms_4149_f140r/add_ms_4149_f140r.jpg"/>
+            of that estate as he drewe them to an open and great re=<lb break="no"/>
+            bellion, and by that meanes wrought the Ruine of this <lb/>
+            Country: The kinge at first would haue contented him=<lb break="no"/>
+            selfe, if the Arragoneses would haue deliuered, in to <lb/>
+            his handes the said Antonio de Perez and some of the <lb/>
+            princepall heades and mouers of the Rebellion: But <ex>tha</ex>t <lb/>
+            beinge denyed vnto him, necessitie for the conservac<ex>i</ex>on <lb/>
+            of his Royall aucthoritie and dignetie, he resolued vp=<lb break="no"/>
+            on force, and gatheringe an Army wherof it wwas exp=<lb break="no"/>
+            ected that he would haue made <hi rend="italic">Don Hernando de Tol=<lb break="no"/>
+            edo, Duque de Alua</hi> his generall, he preferred therin <lb/>
+            <hi rend="italic">Don alonzo de vargas</hi> doubting that the other (beinge a Gr=<lb break="no"/>
+            andee of Spaine and neere allyed to many of the Nobillitie <lb/>
+            of that kingdome) would not soe absolutlie execute his Co=<lb break="no"/>
+            m<ex>m</ex>andementes as <hi rend="italic">Alonzo de vargas</hi> beinge neither of gre=<lb break="no"/>
+            ate linage, nor hauinge any allyance w<ex>i</ex>thin that estat. / .   
+         </p>
+         <p>
+            The Arragoneses shewed as litle Couerage in defending <lb/>
+            as they had demonstrated temeritie and in=Considerac<ex>i</ex>on <lb/>
+            in Rebellinge: for although they were prouided of an hoa=<lb break="no"/>
+            ste of Number and power suffitient to haue resisted, and <lb/>
+            (as verie probable it is) consideringe that the Castilian <lb/>
+            army was Compounded of Newe and inexperienced peo=<lb break="no"/>
+            ple) might haue prevayled against their enemyes, or at <lb/>
+            least by temperisinge, drawne the kinge to some good <lb/>
+            Condic<ex>i</ex>ons, yet came they Noe sooner in the sighte of the <lb/>
+            kinges forces but they Comitted them selues to such safetie, <lb/>
+            as theire heeles might procure them: habandoninge <lb/>
+            theire Hoast, and presentlie after the Cittie of <hi rend="italic">Sara=<lb break="no"/>
+            gosa</hi> and leauinge the same in praye to the Castillians: <lb/>
+            By this meanes tooke the kinge occasion to diminishe, <lb/>
+            or rather whollie to ouerthrowe the liberties of that  <lb/>
+            kingdome, seuerallie punishinge the heades of the Reb=<lb break="no"/>
+            ellion, some w<ex>i</ex>th deprivinge them of theire lives, some <lb/>
+            <fw type="catch" place="bot-right">w<ex>i</ex>th Banishment</fw>
+            <pb n="140v" facs="/bl/add_ms_4149_part/add_ms_4149_f140v/add_ms_4149_f140v.jpg"/>
+            w<ex>i</ex>th Banishement, and others w<ex>i</ex>th Confiscation  of theire <lb/>
+            goodes, and perpetuall imprisonment: Theire Iustice &amp; <lb/>
+            maiestrates he deprived of their Aucthoritie, and enforced <lb/>
+            them to accept of a Castillian Visoreye, where as in form=<lb break="no"/>
+            er tymes, they ellected and appointed such as pleased <lb/>
+            them selues: The Administrac<ex>i</ex>on of the revenewes of <lb/>
+            the Crowne he likewise tooke from them: And appointed <lb/>
+            them to the Buildinge  and Maintayninge a Citadell <lb/>
+            in <hi rend="italic">Saragosa</hi>, w<ex>hi</ex>ch is Cituated in a place soe eminent as <lb/>
+            it Comaundeth the wholl Cittie. The kinge keepes there <lb/>
+            also a <del rend="strikethrough">Garrison</del> Continuall Garrison, who livinge Lycen=<lb break="no"/>
+            tiouslie, haue spoyled the same of theire greatest wealth <lb/>
+            and ornamentes, and w<ex>hi</ex>ch is of most noate of all others, <lb/>
+            such was the kinges prudence and polecie, as he drew <lb/>
+            those that were to be the Cheefe observers and defenderes <lb/>
+            of theire formore Lawes and liberties to become in op=<lb break="no"/>
+            en parleament the Confirmers and establishers in perp=<lb break="no"/>
+            etuitie of all such lawes and orders as he had made to <lb/>
+            ouerthrowe them: All this notw<ex>i</ex>thstandinge, such is <ex>th</ex>e <lb/>
+            memorye of theire auntient liberties and privelidges <lb/>
+            fixed in the heartes of that people, and soe many are <lb/>
+            the <del rend="strikethrough">descentions</del> descendantes of those that suffered dea=<lb break="no"/>
+            the, banishement and Confiscation for theire formor de=<lb break="no"/>
+            licte as if euer there come apt occasion by any publique <lb/>
+            com<ex>m</ex>oc<ex>i</ex>on, w<ex>i</ex>thin these kingdomes it is to be doubted <ex>tha</ex>t <lb/>
+            they will once againe, to the daunder of the kinges est=<lb break="no"/>
+            ate make proofe of theire fortunes. / . <lb/>
+            Hauinge thus breeflie run<ex>n</ex>e ouer the <del rend="strikethrough">kinges</del> estate and <lb/>
+            partes of Spaine I ame now to saye somewhat of the <lb/>
+            kinges dominions in Itallie, Namlie of Naples, Cycy=<lb break="no"/>
+            llia and Millan, w<ex>hi</ex>ch may welbe <del rend="strikethrough">Compared</del> Accompted <lb/>
+            the best and greatest parte of Itallie albeit in regarde <lb/>
+            of the Contnuall charges the kinge is enforced vnto, to <lb/>
+            Continewe that people (soe desirous to shake of <ex>th</ex>e yoake <lb/>
+            <fw type="catch" place="bot-right">of theire subie</fw>
+            <pb n="141r" facs="/bl/add_ms_4149_part/add_ms_4149_f141r/add_ms_4149_f141r.jpg"/>
+            of theire subiection) in theire due obedience it yeeldethe <lb/>
+            no benefit to his purse, yet gives it both strength and <lb/>
+            great reputac<ex>i</ex>on vnto him, from thence he drawes Cap=<lb break="no"/>
+            taines and souldiers, in great aboundance, and by mea=<lb break="no"/>
+            nes of the estate of Millan Confininge vpon Germany, ser=<lb break="no"/>
+            ves him selfe of Apt conveayance of them into the Lowe <lb/>
+            Countrys: Cicyllia is a fruitfull Country, well peopled, <lb/>
+            Riche, and soe haboundant of Corne as oft tymes vpon oc=<lb break="no"/>
+            casion of dearth, it not onlie releeveth Spaine, but div=<lb break="no"/>
+            ers parte of Itallie; On the East parte it is fortefyed  <lb/>
+            w<ex>i</ex>th many stronge places and forteresses, on the North <lb/>
+            w<ex>i</ex>th a Continued Circuite of Mountaines that rvnne a=<lb break="no"/>
+            longe those Coastes: On the side towardes Affrica w<ex>i</ex>th <ex>th</ex>e <lb/>
+            wante of Portes, or places for shippinge there, and were <lb/>
+            the Island assaulted w<ex>i</ex>th any greate foarces, standes Apt=<lb break="no"/>
+            lie to be Ayded and soccored by the kingedome of Naples, <lb/>
+            from whence beinge soe Neere, may be drawne manye <lb/>
+            Galleyes by Sea; and as muche force both on horsbacke, <lb/>
+            and on foote by lande, as shalbe needfull. / . <lb/>
+            The kingdome of <hi rend="italic">Naples</hi>, is much more Apt to receive hurt <lb/>
+            by foces by Sea, then by Armyes by Lande, as that w<ex>hi</ex>ch <lb/>
+            is almost whollie environed w<ex>i</ex>th the Sea, and Cituate vp=<lb break="no"/>
+            on the Coastes of the Adriatique sea and the dominions <lb/>
+            of the Turke; But the Nvmber of the Havens there be=<lb break="no"/>
+            inge verie smale, and those that are either stronglie <lb/>
+            fortefied landed vppe, or well blocked and defended, the <lb/>
+            perrill on that side is not greate. Besides they maye <lb/>
+            vppon euery occasion gather people out of the Estates <lb/>
+            Confyninge suffitient to defende them selues, against <lb/>
+            any soddaine invasion. On the lande side, that kingdo=<lb break="no"/>
+            me bordereth from the one side sea to the other: vpon <ex>th</ex>e <lb/>
+            estate of the Church, and is on that parte, made sure <lb/>
+            w<ex>i</ex>th stronge and well prouided fortresses for that kingdom <lb/>
+            beinge of the fee of the Churche, the Spaniard is not <lb/>
+            <fw type="catch" place="bot-right">w<ex>i</ex>thoute feare</fw>
+            <pb n="141v" facs="/bl/add_ms_4149_part/add_ms_4149_f141v/add_ms_4149_f141v.jpg"/>
+            w<ex>i</ex>thout feare, that some Pope Not well affecc<ex>i</ex>oned to the <lb/>
+            Crowne of Spaine, Might make some attempte to repo=<lb break="no"/>
+            ssesse the Church of that kingdome: For prevenc<ex>i</ex>on where <lb/>
+            of they seeke by all meanes possible to affecc<ex>i</ex>onat the <lb/>
+            Popes vnto them, to haue alwayes a stronge partie <lb/>
+            in Rome, aswell of Cardinalles as principall Roma=<lb break="no"/>
+            nes to hould stronge and well prouided, theire fore=<lb break="no"/>
+            tresses vpon the Confines, to allienate the mindes of <lb/>
+            the Popes from affectinge that kingdome, and when <lb/>
+            soeuer any such hvmore shall possesse them, to remoue <lb/>
+            it, w<ex>i</ex>th puttinge them in doubte of danger in theire <lb/>
+            owne Estates. / .
+         </p>
+         <p>
+            The Estate of Millan heretofore much travailed and <lb/>
+            troubled by the French (as well in regard of theire  <lb/>
+            Neerenesse there vnto as of the titles and pretenses <lb/>
+            they made vnto it) is nowe more sure then hereto=<lb break="no"/>
+            fore aswell in regarde of the Confederac<ex>i</ex>on the king <lb/>
+            of Spaine hath w<ex>i</ex>th the Catholique Cantons of the <lb/>
+            <hi rend="italic">Switzers </hi>obliged to the deffence of his Estate in Ita=<lb break="no"/>
+            lye of his neere alliaunce w<ex>i</ex>th the Duke of Savoy, and <lb/>
+            of the fortresse latelie <del rend="strikethrough">build</del> built and other prouisio=<lb break="no"/>
+            ns made by the <hi rend="italic">Conde de Fuentes</hi>, to stoppe the pass=<lb break="no"/>
+            age by the waye of the Grisons, (all w<ex>hi</ex>ch they denie vnto <lb/>
+            the French, the easie enterance in to that estate) w<ex>hi</ex>ch in tymes <lb/>
+            past they were wont to finde: Moreouer the kinge may vpon any <lb/>
+            such Attempt, w<ex>i</ex>th greate facillitie drawne souldiers out of Germ=<lb break="no"/>
+            anye, and by the waye of Genoa (that Cittie beinge somuch att <lb/>
+            his devoc<ex>i</ex>on recaue vpon any occasion supplies aswell oute of <lb/>
+            Spaine, as from his kingdomes of Naples and Cicillia. / . <lb/>
+            The kinge to keepe his estates in Itallie quiet and in peace, be=<lb break="no"/>
+            ndeth not onlie hus Cares to defend them from attemptes of St=<lb break="no"/>
+            rangers, but to preserve them also, from receauinge any offence <lb/>
+            or motion by the Princes of Italye, for this cause findinge <lb/>
+            those Estates, for the present soe well balanced as one of them <lb/>
+            <fw type="catch" place="bot-right">hath not much</fw>
+            <pb n="142r" facs="/bl/add_ms_4149_part/add_ms_4149_f142r/add_ms_4149_f142r.jpg"/>
+            hath not much advantage of the other, by meanes whereof <lb/>
+            his forces there, are become as it were the beame that Rules <lb/>
+            the weight, (and thereby gaineth both the reputac<ex>i</ex>on, andaucth=<lb break="no"/>
+            oritie (yf any question doth arise amongst them) to become <ex>th</ex>e <lb/>
+            Arbiter, and to rule the right, and shall best agree w<ex>i</ex>th his <lb/>
+            owne vtillitie or assurance: He endevors to hould them all <lb/>
+            weake and disvnite to cutt from them all hope of foraine <lb/>
+            ayde, w<ex>i</ex>thout w<ex>hi</ex>ch, he knoweth <add place="above">that</add> of themselues, they are not of <lb/>
+            power, to doe any thinge of moment, and for that cause, hath <lb/>
+            made manye attemptes, but of late more strongly then ev=<lb break="no"/>
+            er: To Conclude a league w<ex>i</ex>th the Grisons, w<ex>i</ex>th purpose <lb/>
+            to cutt of all possibillitie of the entrie of Strangers into Ita=<lb break="no"/>
+            lie: He suffers not those princes of Italie to encrease the=<lb break="no"/>
+            ire strength, w<ex>i</ex>th addinge any other estate vnto that w<ex>hi</ex>ch all=<lb break="no"/>
+            redie they possesse, much against his will became the Pope <lb/>
+            possessed of Ferrara, and w<ex>i</ex>th great vigilencie he attendeth, <lb/>
+            that he doe not the like of <hi rend="italic">Vrbin</hi>, He obligeth many of the  <lb/>
+            lesse Princes, w<ex>i</ex>th yearlie penc<ex>i</ex>ons, givinge to the Dukes of <lb/>
+            <hi rend="italic">Urban</hi> and of <hi rend="italic">Parma</hi>, to the duke of <hi rend="italic">Modena</hi> and <hi rend="italic">Reggio</hi>, <lb/>
+            and to diuers others, He likewise drawes vnto him out of  <lb/>
+            euery estate, some principall parsonages in whom is disce=<lb break="no"/>
+            rned most sperit and activitie deprivinge theire owne prin=<lb break="no"/>
+            ces of them, and by theire meanes gatheringe vnto him ma=<lb break="no"/>
+            nye of the best Souldiers of euery principalletie, and appro=<lb break="no"/>
+            priatinge them to his owne service in his warres: In the <lb/>
+            Lowe Countryes, By that meanes he spoiles Italie of all <lb/>
+            millitarie men; and makes it the more easie to endure <lb/>
+            his yoake, and of lesse force to attempt any thinge against <lb/>
+            his Estates: To hould them disvnite, he hinders by all po=<lb break="no"/>
+            sible meanes their Coniunctions of allyance, as not many <lb/>
+            yeares since, he did that of the Duke of Parma, w<ex>i</ex>th the Ne=<lb break="no"/>
+            ece of the duke of Florence: And of late that of the prince <lb/>
+            of Mantua, w<ex>i</ex>th a daughter of the duke of Savoy: he inde=<lb break="no"/>
+            vores to devide theire frendshippe and entercourse for bearing	 <lb/>
+            <fw type="catch" place="bot-right">not to serve disco=</fw>
+            <pb n="142v" facs="/bl/add_ms_4149_part/add_ms_4149_f142v/add_ms_4149_f142v.jpg"/>
+            not to sowe discordes and discensions, gives encrease to all occ=<lb break="no"/>
+            asions of distastes, and remoues all meanes of Trust and co=<lb break="no"/>
+            nfidence amongst them, well knowinge that in theire devi=<lb break="no"/>
+            sion and seperac<ex>i</ex>on consistes the securetie of his estates: To <lb/>
+            particularrise the oppinion held of these princes and estates, <lb/>
+            and the Courses taken w<ex>i</ex>th them, may make me seeme longe <lb/>
+            and tediouse: yet hould I it not vnecessarie to touch them <lb/>
+            breestyle. /
+         </p>
+         <p>
+            Of the Duke of Florence, the Kynge of Spayne is verie <lb/>
+            Iealous, in regarde of his preferringe in his marriage the <lb/>
+            daughtere of the Duke of Lorrayne, before the daughter of <lb/>
+            the Archduke Charles, maried since to the Kinge of Polonya <lb/>
+            and of some encounters betwen Spaine and him, about the <lb/>
+            ellection of the Popes, wherein for the most parte, the dukes <lb/>
+            faction became opposite to that of the kinge of Spaine, but <lb/>
+            most especiall for the Couert ayde he was thought in tyme <lb/>
+            of the warres to give vnto <hi rend="italic">Mounsieur de Esdiguiers</hi>, and <lb/>
+            impedimentinge by that meanes the duke of Savoys proce=<lb break="no"/>
+            edinges in provence, for the dessignes he hath often made  <lb/>
+            shewe to haue about Piombin, and his late allyance  w<ex>i</ex>th <lb/>
+            France, w<ex>hi</ex>ch make him now to be held whollie French:  <lb/>
+            Howbeit the kinge knowinge the greatnes of that prince, <lb/>
+            in Italie, the Comoditie and amplitud of his estate, w<ex>hi</ex>ch go=<lb break="no"/>
+            eth almost ouerthwarte the whole of it: of what importance <lb/>
+            his Porte of Ligorne is for all occasions of the kingdome <lb/>
+            of Naples, and for other respectes of greate Moment, co=<lb break="no"/>
+            vereth in all that he may, his Conceiptes, and suspitions, <lb/>
+            and houldes good termes w<ex>i</ex>th him, On the other side the   <lb/>
+            duke consideringe howe farre his forces are inferior to <lb/>
+            those of the kinge, who hath diuers Townes of much im=<lb break="no"/>
+            portance in Tuscane it selfe, that he is <del rend="strikethrough">fev</del> fevdaturie <lb/>
+            vnto him for the state of Syenna, that his estates borderinge <lb/>
+            vppon that of the kinge, might receaue much trouble and <lb/>
+            preiudice, if he should enter into termes of enmitie w<ex>i</ex>th him, <lb/>
+            <fw type="catch" place="bot-right">endevoreth by</fw>
+            <pb n="143r" facs="/bl/add_ms_4149_part/add_ms_4149_f143r/add_ms_4149_f143r.jpg"/>
+            endeuoreth by all meanes possible soe farre as may agree <lb/>
+            w<ex>i</ex>th his reputac<ex>i</ex>on, to give him satisfaction and howld him <lb/>
+            Contented. / .
+         </p>
+         <p>
+            The Duke of Mantua, all thoughe in tymes past very inwa=<lb break="no"/>
+            rde w<ex>i</ex>th the Kinge of Spaine desceased, yet before his death <lb/>
+            stood not altogether in soe good termes, neither doth w<ex>i</ex>th the <lb/>
+            Kinge that nowe is, aswell in regarde of his alliance w<ex>i</ex>th <lb/>
+            the duke of Florence w<ex>hi</ex>ch moues the Spaniard to imagine <lb/>
+            that he hath made a change of his former dependencie, as <lb/>
+            also for hauinge builded the fort of Cassale, (w<ex>hi</ex>ch w<ex>i</ex>thout <lb/>
+            privetie of the kinge or any of his  Ministers) he errected in <lb/>
+            the state of Mountferat, and neither haue these sinister concei=<lb break="no"/>
+            ptes wanted theire oncrease by some rumors spread and <lb/>
+            suspic<ex>i</ex>ons conceived, that he gaue scecrett aide and releefe w<ex>i</ex>th <lb/>
+            monye vnto Esdiguieres. The duke also who in former tyms <lb/>
+            (aswell in regard of his Allyance w<ex>i</ex>th the Howse of Austr=<lb break="no"/>
+            ia, as his owne perticuler interest depended wholie vpon <lb/>
+            the Crowne of Spaine) hath by degrees w<ex>i</ex>thdrawne him <lb/>
+            selfe from it, and fearinge least the duke of Savoy persw=<lb break="no"/>
+            aded by the kinge and assisted by his forces would attempt <lb/>
+            to disposses him of his faire and riche state of Mountfe=<lb break="no"/>
+            rat, hath in doubte thereof ioyned himselfe w<ex>i</ex>th the duke <lb/>
+            of Florence, and attendes the forteficac<ex>i</ex>on of those places, <lb/>
+            wherein (as the Spanyards saye) he hath receaued from the <lb/>
+            duke much helpe both in aduise and money. / .
+         </p>
+         <p>
+            The duke of Savoye although soe neerly ioyned in all=<lb break="no"/>
+            yance w<ex>i</ex>th this Crowne, yet in his late warres w<ex>i</ex>th Fr=<lb break="no"/>
+            aunce, hauinge received soe leane assistance as gaue  <lb/>
+            him occasion rather to thinke that the kinge sought to <lb/>
+            hould him in warrs to weaken him, then in any soarte <lb/>
+            to advaunce his dissignes, or to add vnto him any furth=<lb break="no"/>
+            er greatnesse, ioyned w<ex>i</ex>th the litle succese he had, at his <lb/>
+            personall beinge in Spaine, in any thinge he either en=<lb break="no"/>
+            tended, or required, and the now ample Issue the kinge <lb/>
+            <fw type="catch" place="bot-right">hath (w<ex>hi</ex>ch hath</fw>
+            <pb n="143v" facs="/bl/add_ms_4149_part/add_ms_4149_f143v/add_ms_4149_f143v.jpg"/>
+            hath (w<ex>hi</ex>ch hath cutt of all hope from the Dukes discendante<del rend="strikethrough">
+                    <unclear/>
+                </del>s  <lb/>
+            is in his inwarde thoughtes not the least discontented, all=<lb break="no"/>
+            though for some other respectes, and not to loose the reput=<lb break="no"/>
+            ac<ex>i</ex>on of soe great and potent an allye he couereth his tho=<lb break="no"/>
+            ughtes and dissembleth what he thinketh. / .
+         </p>
+         <p>
+            Some other Princes there are, that (as formorlie vpon <lb/>
+            occasion haath bene said) are obliged to the Kinge by earlie <lb/>
+            penc<ex>i</ex>ons and other respectes, as the Duke of vrbyn hee <lb/>
+            giveth Not w<ex>i</ex>th any purpose to vse the service of his p<ex>er</ex>sone, <lb/>
+            <del rend="strikethrough">The Duke of vrbaine he giveth not w<ex>i</ex>th any purpose</del> hauing <lb/>
+            never employed him in any his occasions, but partlie to <lb/>
+            the ende that other Princes should not increase theire str=<lb break="no"/>
+            enthes by entertayning him in theires, and partlie to ser=<lb break="no"/>
+            ve him selfe, of the Comodities of his estate, w<ex>hi</ex>ch yeildes <lb/>
+            victualles in great haboundance, and is not voide of sou=<lb break="no"/>
+            ldiers, and other thinges of much importance. / .
+         </p>
+         <p>
+            The Duke of Parma restes obliged by the investiture of <lb/>
+            Parma and Placentia, Neither is there any likelihood <lb/>
+            of his disvnion, for those two Citties beinge members <lb/>
+            of the Dutchie of Millain, might w<ex>i</ex>th noe great difficul=<lb break="no"/>
+            tie be drawne from him, by the kinge: if he shoulde car=<lb break="no"/>
+            rye him selfein other soart then he doth, or should the <lb/>
+            kinge w<ex>i</ex>thdrawe his fauour, it wwould minister fitt occa=<lb break="no"/>
+            sion to the Churche to rcale the investidure that they gave <lb/>
+            vnto that howse, Moreouer theire longe and continued  <lb/>
+            service houldes them in greate <del rend="strikethrough">Obedience</del> observance and <lb/>
+            vnion w<ex>i</ex>th this Crowne. / .
+         </p>
+         <p>
+            The duke of Modena and Reggeo is held in termesof obser=<lb break="no"/>
+            vance, by the same means, and for the same Reasons that <lb/>
+            the Duke of vrbyn. / .
+         </p>
+         <p>
+            The estate of Genoa although in generalletie, much affect=<lb break="no"/>
+            ed to the French, and abhorringe the Spanyarde (especci=<lb break="no"/>
+            allie those of the meaner soarte) hath ben drawne, tho=<lb break="no"/>
+            <fw type="catch" place="bot-right">though not to an</fw>
+            <pb n="144r" facs="/bl/add_ms_4149_part/add_ms_4149_f144r/add_ms_4149_f144r.jpg"/>
+            though not to absolut subiection, yet to an obseruance of <lb/>
+            the strictest nature: The kinge of Spaine hauinge for <lb/>
+            many yeares endeuored to impouerish the publique, and <lb/>
+            enrich the particulers of that Com<ex>m</ex>on Welth, whome ha=<lb break="no"/>
+            vinge theire Monyes vpon great and excessiue interest, <lb/>
+            he hath possessed of principallities and Baronys in the <lb/>
+            kingdome of Naples and of his rent corne, and liberall <lb/>
+            penc<ex>i</ex>ons in Sycilia and Millan, and of many landes <lb/>
+            and Rentes in Spaine it selfe. The most of theire Trea=<lb break="no"/>
+            sure and substance restinge in the handes and power of <ex>th</ex>e <lb/>
+            Spanyarde, and many of them in his service, they are be=<lb break="no"/>
+            comen wholie obedient to his will, and whensoeuer the  <lb/>
+            popular multetude shewe a Contrarie inclinac<ex>i</ex>on, he hath <lb/>
+            a bridle readie to restraine them, hauing alwayes in th=<lb break="no"/>
+            eire Haven a good nvmber of Galleys armed and pro=<lb break="no"/>
+            vided for all eventes. / .
+         </p>
+         <p>
+            The Com<ex>m</ex>on wealth of Luca although the Estate they <lb/>
+            possesse be of small importance, yet the same desyring <lb/>
+            to liue vnder the shadowe of this Kinges protection, he <lb/>
+            receaues and favours them, as a people recomendinge <lb/>
+            them selues vnto him; aswell for his owne vtillitie of <lb/>
+            hauinge at his devoc<ex>i</ex>on that Cittie (w<ex>hi</ex>ch in Regarde of <ex>th</ex>e <lb/>
+            Cituac<ex>i</ex>on is of much importance) and to prevent that <lb/>
+            it fall not into the handes of any other prince, as alsoe <lb/>
+            by seruinge him selfe thereof, the better to restraine <lb/>
+            the Duke of Florence to whom that Cittie is soe neere <lb/>
+            a Neighboure. / .
+         </p>
+         <p>
+            To The Signorie of <hi rend="italic">Venice</hi> albeit the kinge hath neither mu=<lb break="no"/>
+            ch affectyon, Nor much Confidence, the one in regarde <lb/>
+            of theire hauinge possessed them selues of some places be=<lb break="no"/>
+            longinge aswell to the estates of Millan, as to the Emp=<lb break="no"/>
+            eror, and Arche Dukes of Austrya, the other of their co=<lb break="no"/>
+            nfederac<ex>i</ex>ons w<ex>i</ex>th the Kinges of Great Britaine and Fr=<lb break="no"/>
+            ance and w<ex>i</ex>th the Com<ex>m</ex>on Wealthes of the Switzers &amp; <lb/>
+            <fw type="catch" place="bot-right">Grisons and the</fw>
+            <pb n="144v" facs="/bl/add_ms_4149_part/add_ms_4149_f144v/add_ms_4149_f144v.jpg"/>
+            Grysones, and the same not a litle encreased, by theire <lb/>
+            Late opposic<ex>i</ex>on against the Pope, and especially by theire <lb/>
+            ioyninge w<ex>i</ex>th France to vnknitt the league and Confed=<lb break="no"/>
+            eracie made latlie w<ex>i</ex>th the Grisons, by the <hi rend="italic">Cond de <lb/>
+            Fecentes</hi>: yet knowinge theire forces, both by Sea and <lb/>
+            Lande to be greate theire Treasure much and theire <lb/>
+            strength and inteligence <add place="above">in Italy</add> such as w<ex>i</ex>thout an vnion and <lb/>
+            Comiunction w<ex>i</ex>th them there can be no attempte of any <lb/>
+            importance atcheived in Italie: Addinge herevnto that <lb/>
+            w<ex>i</ex>thout theire assistance, his owne Sea forces, would <lb/>
+            not be of power to defende his estates against the Turke, <lb/>
+            is Contented to hould good termes and Amytie w<ex>i</ex>th them, <lb/>
+            They in like manner, although they knowe, that whenso=<lb break="no"/>
+            euer they shall haue occasion to vse the Ayde of Spayne,  <lb/>
+            it wilbe ministred vnto them, soe late and soe slowlie, <lb/>
+            and in soe thinne a measure, as it shall rather serve <lb/>
+            the dessignes of the Kinge, w<ex>hi</ex>ch allwaies hath bene, <lb/>
+            to wearie the enemy, and to weaken them, and to dra=<lb break="no"/>
+            we the Comone forces in to the Coastes of Affrica for <ex>th</ex>e  <lb/>
+            takinge in of some Townes in Barbarye, that are <lb/>
+            most offencive to Spayne, then to goe into the Levant, <lb/>
+            to make any expedic<ex>i</ex>on against the Turkeprofitable <lb/>
+            vnto them, To hould the warres in Lengthe where=<lb break="no"/>
+            by that Comon Welthe might be deprived of theire <lb/>
+            traffique into the Levant, w<ex>hi</ex>ch addes the greatest we=<lb break="no"/>
+            alth vnto that estate: and to consume them selues w<ex>i</ex>th <lb/>
+            charge of the great Garrysons, they are enforced to <lb/>
+            maintaine, in tyme of warre, yet in regarde of <ex>th</ex>e <lb/>
+            great estates and dependantes the kinge houldeth in <lb/>
+            Itallie, and of the reputac<ex>i</ex>on and suretie that an vn=<lb break="no"/>
+            ion and Confederac<ex>i</ex>on w<ex>i</ex>th Spaine breedeth vnto <lb/>
+            them w<ex>i</ex>th the Turke, who in regard of the Sea suc=<lb break="no"/>
+            cesses passed, standes much in Awe of theire Coniu=<lb break="no"/>
+            nction they are desirous to Continewe the good Terms <lb/>
+            <fw type="catch" place="bot-right">they stande in</fw>
+            <pb n="145r" facs="/bl/add_ms_4149_part/add_ms_4149_f145r/add_ms_4149_f145r.jpg"/>
+            they stand in w<ex>i</ex>th the kinge, and in this theire late questi=<lb break="no"/>
+            on w<ex>i</ex>th the Pope made much shewe of it, in the extra=<lb break="no"/>
+            ordinarie entertainement they gaue to <hi rend="italic">Don francisco <lb/>
+            de Castro</hi>, sent vnto them from the kinge to perswade an <lb/>
+            ende of those controuercies. / .
+         </p>
+         <p>
+            Lastlie the Kinges of Spaine, alwayes endevore to keepe <lb/>
+            <del rend="strikethrough">of</del> the Popes benevolent towardes them, aswell in resp=<lb break="no"/>
+            ecte of the assistance that any of the other Princes of <lb/>
+            Italie might receaue from them, both w<ex>i</ex>th Armes Sp=<lb break="no"/>
+            erituall and Temperall, if w<ex>i</ex>th theire Consent they <lb/>
+            should there attempte any thinge against them, the Po=<lb break="no"/>
+            pes estate, lyinge soe neere and apte, to anoye the kinge=<lb break="no"/>
+            dome of Naples, wherin also w<ex>i</ex>th much facilitie, they <lb/>
+            maye at any tyme procure great alteration, only by disc=<lb break="no"/>
+            harginge those people of their oathes, that kingdome be=<lb break="no"/>
+            inge of the fee of the Churche, the Subiectes thereof <lb/>
+            naturallie hatinge the Spanishe Nac<ex>i</ex>on, and muche <lb/>
+            enclined to change and mutabillitie, as also in conside=<lb break="no"/>
+            rac<ex>i</ex>on of, the many fauours and benefites they recea=<lb break="no"/>
+            ve from them, by grantinge of Crusadoes, of Tenth=<lb break="no"/>
+            es, and indulgences, and infinit other concessions <lb/>
+            of like nature, out of w<ex>hi</ex>ch they drawe yearlie in Sp=<lb break="no"/>
+            aine and in theire Indies greate somes of money: Mo=<lb break="no"/>
+            reouer consideringe that all or most parte of theire vsu=<lb break="no"/>
+            rpac<ex>i</ex>ons and deseignes are Coullored w<ex>i</ex>th the pretence <lb/>
+            of Catholisissme and desire to continewe that Churche <lb/>
+            in the height of her dignetie verie incongruent it <lb/>
+            were, if in any thinge they should shewe themselues <lb/>
+            either aduerse or inobservant vnto hir Popes, In like <lb/>
+            soarte the Popes in whose ellection the Kinges of Spa=<lb break="no"/>
+            yne, by reasone of the many Cardinalles that are att <lb/>
+            his devoc<ex>i</ex>on, hath a greate hande, findinge them selu=<lb break="no"/>
+            ves beseiged (as it were) w<ex>i</ex>th his dependantes, and <lb/>
+            ouerflowen w<ex>i</ex>th his forces, and w<ex>i</ex>th all that there is <lb/>
+            <fw type="catch" place="bot-right">no other prince</fw>
+            <pb n="146r" facs="/bl/add_ms_4149_part/add_ms_4149_f146r/add_ms_4149_f146r.jpg"/>
+            no other Prince eithere soe apte or powerfull, or vpon <lb/>
+            whom they maye w<ex>i</ex>th so much Certentie repose theire <lb/>
+            affiance for the maintenance and vphoulding of their <lb/>
+            seuperlatiue aucthoritie, The Emperore by wantinge <lb/>
+            meanes, the kinge of <del rend="strikethrough">Spaine</del> Great Brittaine, Not su=<lb break="no"/>
+            biectinge him selfe to his Auctoritye, and the frenche <lb/>
+            kinge besides the naturall suspition that his educac<ex>i</ex>on <lb/>
+            and his relapses haue given of him, sufferinge in his <lb/>
+            kingdom such a Mixture of those of the Religeon refor=<lb break="no"/>
+            med, as he houldeth it in his power to giue the hand <lb/>
+            to w<ex>hi</ex>ch the proffessions shall best suite w<ex>i</ex>th the utillitie <lb/>
+            of his estate, as w<ex>i</ex>th greate reason they desire to ho=<lb break="no"/>
+            uld perfecte frendshippe and Coniunction w<ex>i</ex>th this <lb/>
+            Crowne. / .
+         </p>
+         <p>
+            It resteth now that I giue an accompt in what est=<lb break="no"/>
+            at for the good or evell affection of the othe princes of the wo=<lb break="no"/>
+            rlde, this Crowne for the present standeth. / .
+         </p>
+         <p>
+            I will begine w<ex>i</ex>th the Turke, whose enmitie and envye both <lb/>
+            in generall and particuler to this estate is non of the leaste, for <lb/>
+            that in extenc<ex>i</ex>on of dominions and haboundance of Treasure,  <lb/>
+            there is non other that maye soe evenlie Compare w<ex>i</ex>th him. / .
+         </p>
+         <p>
+            The Turke enlargeth his Empire in the East, the kinge of Sp=<lb break="no"/>
+            aine, stretcheth forth his, in the west, who (as is before said) <lb/>
+            hauinge passed the newe world, and arrived at the Molluccas, <lb/>
+            beinge the furthest parte of the East Indeas, extendeth himselfe <lb/>
+            by all those maritime partes, even to the straightes of Gibraltar: <lb/>
+            The one hath obtayned his kingdoms by force, and aduantage <lb/>
+            taken of the discordes and disunyons of Christian Princes, the oth=<lb break="no"/>
+            er is Comen to his greatnes, by the opulent and rich inheritan=<lb break="no"/>
+            ces lefte him by his Auncestors, and some acquistes of his ow=<lb break="no"/>
+            ne, out of pretence of Tytle: The Turke might by meanes <lb/>
+            of his Portes neare Affrica (where he should not want the <lb/>
+            Assistance of the Moores, aswell in regarde of theire Conformetie <lb/>
+            <fw type="catch" place="bot-right">in Religeon as</fw>
+            <pb n="146r" facs="/bl/add_ms_4149_part/add_ms_4149_f146r/add_ms_4149_f146r.jpg"/>
+            in Religeon <del rend="strikethrough">hath not much</del> as of the Naturall hatred they Carrye <lb/>
+            to this Crowne and Nation) much troubled and infested Spaine, <lb/>
+            but dares not least by that means he might drawe all Christ=<lb break="no"/>
+            endome vpon him, as Carefull of theire Comon interest: The <lb/>
+            kinge on the other side wantes not good meanes to vndertake <lb/>
+            Argeirs as an enterprise wherein all his Subiectes of Spaine, <lb/>
+            w<ex>i</ex>th their fortunes and forces would helpe him, in regard of soe <lb/>
+            many and continuall Molestac<ex>i</ex>ons, that by meanes of that To=<lb break="no"/>
+            wne, they receaue from the Turkishe Corsories: But well hee <lb/>
+            knoweth that place to be nowe in strength and fortificac<ex>i</ex>on much <lb/>
+            different from that it was in the tyme of his grandefather Charls <lb/>
+            the fifte, and that to adventure vpon that, were to give an occ=<lb break="no"/>
+            asion to drawe in to those Seas, some stronge Navye of the Tu=<lb break="no"/>
+            rkes to his owne perill and damage: Moreouer the Spanyard <lb/>
+            fyndinge, that to weaken the Turke it would be necessarie for <lb/>
+            him to tourne him selfe towardes the East, w<ex>hi</ex>ch in regarde of <ex>th</ex>e <lb/>
+            farre distance, would be a matter of verie great diffirmitie, &amp; <lb/>
+            Consideringe that dyvers of his owne estates are neare, and <lb/>
+            mucb subiecte to incursions by the Turke if he should prouoke <lb/>
+            him: for these regardes abstayneth from giving him aany cause  <lb/>
+            of offense, or to assist in any soarte the percian against him, <lb/>
+            for w<ex>hi</ex>ch he wanteth not Comoditie by the waye of the Indies <lb/>
+            So as both these great Monarches hauinge theire particuler re=<lb break="no"/>
+            spectes, and theire handes more thenn full of other buisenes, stand <lb/>
+            for the tyme, only vpon theire owne guarde, expectinge into wh=<lb break="no"/>
+            at figures tyme future will Cast the Modell of theire occasions. / .
+         </p>
+         <p>
+            The Emperore although houlding a neere coniunction w<ex>ith</ex> this <lb/>
+            king aswell by disscent, as alliance, hyet hath not bene w<ex>i</ex>thout <lb/>
+            his particular distastes: The Infanta now marryed to the Archduk <lb/>
+            Albert, was denyed to him, w<ex>i</ex>th whome he expected by some Amp=<lb break="no"/>
+            le dower an engreatinge of his Estate, w<ex>hi</ex>ch was farre from the <lb/>
+            intenc<ex>i</ex>on of the kinge deceased: He hath not bene ayded according <lb/>
+            to his desires, and expectac<ex>i</ex>on by the kinge in his warres against <lb/>
+            <fw type="catch" place="bot-right">the Turke, &amp;</fw>
+            <pb n="146v" facs="/bl/add_ms_4149_part/add_ms_4149_f146v/add_ms_4149_f146v.jpg"/>
+            the Turke, and hath bene of late more pressed by this Estate, <lb/>
+            to consent to a present ellectyon of a Kinge of the Romanes, then <lb/>
+            hath agreed either w<ex>i</ex>th his dissignes or likinge. / .
+         </p>
+         <p>
+            The other princes of Germany haue noe effectuall <del rend="strikethrough">occasion </del>
+                <add place="above">Cause</add> <lb/>
+            whie they should beare towardes this Crowne anie evell affe=<lb break="no"/>
+            ction, except it be in regarde of difference, of Religeon, of the <lb/>
+            fauoure they beare to theire Neighbours the Estates vnited, or <lb/>
+            in regarde of the inlimited possession the kinge of Spaine <lb/>
+            houldes of Millan , w<ex>hi</ex>ch is of the fee of the Empire, and was <lb/>
+            possessed by Charles the fyfte vnder the Condicons, and whereof <lb/>
+            they howld it noe reason that the kinge shoulde enioye any oth=<lb break="no"/>
+            er title, then by investidure as a particuler duke. / .
+         </p>
+         <p>
+            W<ex>i</ex>th the French kinge, they haue for the present Peace, but of such <lb/>
+            nature, as well it maye be saide, to be w<ex>i</ex>thout loue or trust: <lb/>
+            Age and Necessitie begate it, in the kinge deceased, who seeing <lb/>
+            his Treasures vneven for soe great a Charge, as the defence <lb/>
+            of him selfe against the attemptes of Englande, the prosecu=<lb break="no"/>
+            tion of his owne Warres in the Lowe Countryes, the howld=<lb break="no"/>
+            inge of such Townes, as he had possessed him selfeof during <lb/>
+            his assistance given to those of the league in Fraunce, the  <lb/>
+            great age and irreparable infirmeties of him selfe, and the <lb/>
+            youthe and litle aptnes for gouernement in his sonne, toge=<lb break="no"/>
+            ther w<ex>i</ex>th th Milletary habillities of the French Kinge nowe Re=<lb break="no"/>
+            igninge, thought fitt Rather accordinge to what had former=<lb break="no"/>
+            lie ben done, by Charles the fifthe in like case (whoe restor=<lb break="no"/>
+            ed by agreement, in makinge peace what he had wonne <lb/>
+            in the tyme of warre) to deliuer vppe those Townes &amp; places, <lb/>
+            whereof he had become possessed, then to leaue his sonne intri=<lb break="no"/>
+            cated in so many questions, w<ex>i</ex>th so daungerous and mightie <lb/>
+            Enemyes: But this wound though Closed, yet cannot but in=<lb break="no"/>
+            wardely bleed: The Considerac<ex>i</ex>on of soe vneauen an disad=<lb break="no"/>
+            vantageous accordes, Neuer Comonly departinge from the <lb/>
+            heartes of Princes. / .
+         </p>
+         <p>
+            The Frenche kinge on the other side, who to resist <del rend="strikethrough">the</del> soe <lb/>
+            <fw type="catch" place="bot-right">Potent and</fw>
+            <pb n="147r" facs="/bl/add_ms_4149_part/add_ms_4149_f147r/add_ms_4149_f147r.jpg"/>
+            Potent and malitous an Enemy, and disvnite the Confedera=<lb break="no"/>
+            cons of his owne subiectes, had bene enforced to suffer intol=<lb break="no"/>
+            erabilyties in his body and in some sorte to offer violence to <lb/>
+            his soule, although to ende a <del rend="strikethrough">w<unclear>.</unclear>re</del> <add place="above">warre</add> for w<ex>hi</ex>ch he wanted sy=<lb break="no"/>
+            nneowes, and to recouer his lost Townes, he was necessi=<lb break="no"/>
+            ted to agree to the Peace, yet cannot but hould in memo=<lb break="no"/>
+            rye the Spanishe purposes, plotted not only for the distruc=<lb break="no"/>
+            tion of him selfe, but the totall Ruine of his Country, thr <lb/>
+            malitiouse exceptions taken against himselfe, after his Redu=<lb break="no"/>
+            ction to the Roman Religeon, affirminge that to a man soe <lb/>
+            often relapsed, there was to be given noe eare, muche <lb/>
+            less any beleefe, the Cuninge manner of the ayde, they <lb/>
+            gaue to the Leaguers, to whom they never miniustred any <lb/>
+            such helpe as might promise them victorye, but onlie <lb/>
+            such as might howld life and Continuance in the wa=<lb break="no"/>
+            rre, theire poletique handlinge of the many proposic<ex>i</ex> <lb/>
+            nes, that duringe those tymes, they Made for ellection <lb/>
+            of an other kinge, never setlinge vpon any, but opposi=<lb break="no"/>
+            nge against <del rend="strikethrough">any</del> such as by the French were named, <lb/>
+            the devidinge of their forces, into divers partes of his <lb/>
+            kingdome: the Itallians into provence, into Narbona, <lb/>
+            the Germans into Brittanie; The Spaniardes in to <lb/>
+            Picardie, and the partes towardes parris, theire Arm=<lb break="no"/>
+            ie of Flaunders, w<ex>i</ex>th purpose to infest all partes of <ex>tha</ex>t <lb/>
+            Countrye, to the ende that the heades and princepall of <lb/>
+            French beinge accuustomed to disobedience, and the Citt=<lb break="no"/>
+            ies to libertie (thinges w<ex>hi</ex>ch in length and Contnuance of <lb/>
+            warre easelie growes in all mens myndes) might <lb/>
+            take an occasion to falle into some devision of that Rea=<lb break="no"/>
+            lme, into diuers principalleties amongst w<ex>hi</ex>ch might all=<lb break="no"/>
+            wayes haue ben vnder hand nourished such dissension <lb/>
+            and warres, as he might in tyme haue swallowed, if <lb/>
+            not the whole kingdome, yet at least the Country of Bri=<lb break="no"/>
+            ttanie (wheee vnto he made some pretenses of Tytle) and <lb/>
+            <fw type="catch" place="bot-right">those partes w<ex>hi</ex>ch</fw>
+            <pb n="147v" facs="/bl/add_ms_4149_part/add_ms_4149_f147v/add_ms_4149_f147v.jpg"/>
+            those partes w<ex>hi</ex>ch for the Convayance of his Armyes to and <lb/>
+            from those Countries had bene to this Crowne of exceeding <lb/>
+            vtillitie and importance, and a great endangeringe to the <lb/>
+            Libertie of Itallie, w<ex>hi</ex>ch vpon those acquistes, should w<ex>i</ex>th gr=<lb break="no"/>
+            eat difficultie haue avoyded the tallentes of this greate <lb/>
+            Eagle, w<ex>i</ex>th w<ex>hi</ex>ch her wide winges, sought to Compasse in <lb/>
+            the whole worle: moreouer the many practizes, that ha=<lb break="no"/>
+            ve bene discouered sithence the Peace, theire baytes giv=<lb break="no"/>
+            en to <hi rend="italic">Byron</hi> and theire dessignes for <del rend="strikethrough">Marshalls</del> Marcel=<lb break="no"/>
+            les, and other Townes on the one parte, and the Couert ass=<lb break="no"/>
+            istances and aydes given both w<ex>i</ex>th men and money to the states <lb/>
+            on the other parte, give life and Continuance to the former <lb/>
+            distates, and raises a setled foundac<ex>i</ex>on of a perpetuall suspition <lb/>
+            betweene these Princes, although for diuers important consi=<lb break="no"/>
+            derac<ex>i</ex>ons, and not the least for avoydinge occasion of advanta=<lb break="no"/>
+            ge to some other theire neighbors, to whom theire consumpt=<lb break="no"/>
+            ions would give encrease of Riches, and theire weakenes, <lb/>
+            strength, and Continewe an outward face of peace and Am=<lb break="no"/>
+            tyie./.
+         </p>
+         <p>
+            To the Kinge my Soueraigne, vpon his first approches to take <lb/>
+            possessyon of the Crowne of England, soe Lawfullie an iu=<lb break="no"/>
+            stlie devolued vnto him, howesoeuer formerlie (as appears <lb/>
+            both by the workinge and writinge of theire Ministers) they <lb/>
+            were Contrarelie affected, yet they offered and laboured by <lb/>
+            all meanes possible to enter into peace and Confederac<ex>i</ex>on. / . <lb/>
+            To them it was a soueraigne salue for theire wounded and <lb/>
+            sicke Estate, w<ex>hi</ex>ch had the sharpenes of the fittes, they dayly <lb/>
+            suffered from England, continued, all men may discerne <lb/>
+            by what hath since occurred them, w<ex>i</ex>th the estates allone, (to <lb/>
+            whome theire extreame necesseties haue of late enforced <lb/>
+            them to propound so indigne and disadvantageous proposic<ex>i</ex>ons) <lb/>
+            that w<ex>i</ex>thout all question the whole bodie of this monarchie <lb/>
+            had ben plounged into soe deepe danger, as it had bene <lb/>
+            almost desperate of all Cure or recouery: On the other side, <lb/>
+            <fw type="catch" place="bot-right">it was not vnne=</fw>
+            <pb n="148r" facs="/bl/add_ms_4149_part/add_ms_4149_f148r/add_ms_4149_f148r.jpg"/>
+            it was not vnnecesarye nor disvtill to the kinge of great <lb/>
+            Brittaine, who although receaued w<ex>i</ex>th soe rare and gene=<lb break="no"/>
+            rall an Applause of all that kingdome, yet beinge not <lb/>
+            without memorie, that in the Case of our Savioure <lb/>
+            him selfe the populare multetud that cried Hosanna <lb/>
+            vpon the sondaye vttered a Contrarie and farre differ=<lb break="no"/>
+            ent voyce vpon the fridaye followinge, and beinge not <lb/>
+            then settled in his Chayre, and to effecte a worke of soe <lb/>
+            difficult as to drawe two Nacons of soe different hu=<lb break="no"/>
+            mors, to ioyne in obedience vnto him, and loue and vnitie <lb/>
+            amonge them selues, and to induce the one, that had soe <lb/>
+            longe enioyed the sunshine of his presence, to content th=<lb break="no"/>
+            em selues w<ex>i</ex>th the shaddowe of his gouernement, and for <ex>th</ex>e <lb/>
+            effectinge thereof to giue them by his greate liberalletie, <lb/>
+            an haboundant taste of his Loue, to the much exhausting  <lb/>
+            of his Treasure, neither of w<ex>hi</ex>ch Could soe well gaue <lb/>
+            bene effected in middest of the Noyse of drumes and Tr=<lb break="no"/>
+            umpetetes, and the Clashinge of Armore, had herebye  <lb/>
+            the honoure in the first dayes of his Cominge to the <lb/>
+            Crowne (as it weare) to shutt vpp the doores of Janus <lb/>
+            Temple, by hauinge Amitie and peacr, w<ex>i</ex>th all the <lb/>
+            worle, as also by that meanes cleare all accomptes <lb/>
+            and Cancelled all arrerages and allegac<ex>i</ex>ons of iniurys <lb/>
+            and demaundes of reparation and restituc<ex>i</ex>on, for the tym=<lb break="no"/>
+            es of his predecessor, wherein this Crowne and Nati=<lb break="no"/>
+            on had somuch suffered. / .
+         </p>
+         <p>
+            This peace though soe latelie and newlie planted, <lb/>
+            (Cherished w<ex>i</ex>th often presentes on either parte, and watte=<lb break="no"/>
+            red w<ex>i</ex>th the best wordes that Spaine affordeth) yet be+ <lb/>
+            gines alredye to shewe some drienes in the roote, the <lb/>
+            Kinge of Spaine distasted w<ex>i</ex>th the Multitude of the <lb/>
+            kinge my Soueraignes Subiectes seruinge the estates <lb/>
+            vnited w<ex>i</ex>th his ma<ex>jes</ex>ties not endeauoring w<ex>i</ex>th such earn=<lb break="no"/>
+            estnese as they hoped, the reducinge of that people to <lb/>
+            <fw type="catch" place="bot-right">some Conformetie</fw>
+            <pb n="148v" facs="/bl/add_ms_4149_part/add_ms_4149_f148v/add_ms_4149_f148v.jpg"/>
+            some Conformetie, and the securinge of Traffique and <lb/>
+            and passage of the Arche Dukes subiectes in to his po=<lb break="no"/>
+            artes of England, and the late seveare Lawes (as they <lb/>
+            terme them) made against Romane Recusantes, w<ex>hi</ex>ch oure <lb/>
+            Iesuites and other fugetives of that profession (thoughe <lb/>
+            not ignorant that the same grewe out of theire owne occ- <lb/>
+            asion) amplefye w<ex>i</ex>th the vttermost of theire arte and ma=<lb break="no"/>
+            lice. / .
+         </p>
+         <p>
+            The Kinge of greate Brittaine on the other <del rend="strikethrough">side</del> parte <lb/>
+            findinge that in these kingdomes, his Traytors are ente=<lb break="no"/>
+            rtayned, his evell affected Subiectes harbored and re=<lb break="no"/>
+            leived, and his marchantes that live in obedience to his <lb/>
+            Crowne and Lawes continvally spoyled of theire goodes <lb/>
+            laden w<ex>i</ex>th Molestac<ex>i</ex>ons and prouoked w<ex>i</ex>th iniuries, and <lb/>
+            vpon notice given either by his owne l<ex>ett</ex>res to the kinge or <lb/>
+            by Complainte and solicitac<ex>i</ex>on of me that ame his mi=<lb break="no"/>
+            nister, either slenderlie regarded, or at least omitted, &amp; <lb/>
+            vnsufferabelie delayed, receaueth much Cause of disc=<lb break="no"/>
+            ontente: yet doth the Kinge of Spaine in regarde he <lb/>
+            knowes not which waye to hurte, and in feare to dr=<lb break="no"/>
+            awe vpon him an enemye soe potent (the memorie of <lb/>
+            the weight of English handes not yet had tyme to be <lb/>
+            forgotten in Spanish heartes) temporise and by all the <lb/>
+            meanes he cane seeke to soften and sweeten the herde=<lb break="no"/>
+            nes and sharpnes of such humors as these disrega=<lb break="no"/>
+            rdes to the Kinge of greate Brittaine him selfe, and so <lb/>
+            inceassante Complaintes of his subiectes, might bre=<lb break="no"/>
+            ed in the hearte of soe magnaminyous and considera=<lb break="no"/>
+            tiue a Prince of his Honoure and people: The <lb/>
+            Kinge of greate Brittaine, as yet hauing not finish=<lb break="no"/>
+            ed, what so wislye and gloriously, he hath vndertaken, <lb/>
+            houldinge it not fitt vpon vnkindnesses of no grea=<lb break="no"/>
+            ter moment, and iniuries offered to particulers <del rend="strikethrough">and <lb/>
+            willinge to winne tyme</del> soe soone to dissolue an Amyty <lb/>
+            <fw type="catch" place="bot-right">soe seriouslie</fw>
+            <pb n="149r" facs="/bl/add_ms_4149_part/add_ms_4149_f149r/add_ms_4149_f149r.jpg"/>
+            be seriously contracted and willinge to wine tyme for <lb/>
+            the better discerninge into what forme other Confyning <lb/>
+            Princes and estates will cast them selues, and by his <lb/>
+            Charge and adventure Not to give advantage to such as <lb/>
+            perhappes would make theire profite out of his perill <lb/>
+            continueth <del rend="strikethrough">ay</del> as yet the Amytie w<ex>i</ex>th this estate, but yet <lb/>
+            in such termes as are both agreeable w<ex>i</ex>th his honoure <lb/>
+            and office. / .
+         </p>
+         <p>
+            The wholl weight of the gouernement for all these <lb/>
+            estates in matters of most moment rest at this pre=<lb break="no"/>
+            sent, vpon the shoulders of the duke of Lerma, assisted <lb/>
+            w<ex>i</ex>th the aduises of the Earle of Miranda and Don Ivan <lb/>
+            de Heaques and the Travailes and dilligence of the <lb/>
+            Secretarye of estates Andreas de Prada, and that of <lb/>
+            Don Rodrigo Caldearon, a secretarie and fauorite to <ex>th</ex>e <lb/>
+            Duke thorough whose handes passe all the Negotiac<ex>i</ex>ons <lb/>
+            that come to the Consulta: The duke at the tyme of <ex>th</ex>e <lb/>
+            death of the last kinge, thoughe of noble howse possessed <lb/>
+            from his Auncestours of the tytle of a Marques and <lb/>
+            Grandee of Spaine: yet was of verie smalle reven=<lb break="no"/>
+            ewe, and that alsoe soe accombred and engaged for his <lb/>
+            debtes, as he had not any vse of the greatest parte  <lb/>
+            of it: Into the fauoure of this kinge that now raign=<lb break="no"/>
+            eth he had insinuated him selfe in the life tyme of <lb/>
+            his father, Made greate demonstrac<ex>i</ex>on of his lo=<lb break="no"/>
+            ve and service in all thinges, and Not the least <lb/>
+            in supplienge his wantes w<ex>i</ex>th moneye in those ty=<lb break="no"/>
+            mes, when he was held exceeding streight by the <lb/>
+            kinge his father: He is besides of Comlie personag, <lb/>
+            defectiue in Nothinge that appertayneth in a highe <lb/>
+            degree, in demonstrac<ex>i</ex>on of all loue and dilligence in <lb/>
+            the service of his maister, hath in these fewe yeares  <lb/>
+            of his happie fortunes soe strengthened him selfe w<ex>i</ex>th <lb/>
+            <fw type="catch" place="bot-right">Kingdome, soe</fw>
+            <pb n="149v" facs="/bl/add_ms_4149_part/add_ms_4149_f149v/add_ms_4149_f149v.jpg"/>
+            Kingdome, soe beseiged the kinge w<ex>i</ex>th the loue and Co=<lb break="no"/>
+            maundemente of all those that serve in Neerest pla=<lb break="no"/>
+            ces about him, and given so large winges to his pow=<lb break="no"/>
+            er by the disposinge of all princepall places of Aucth=<lb break="no"/>
+            oritie and strength, aswell in gouernement and Iusti=<lb break="no"/>
+            ce, as of defence and millitary services both by Sea <lb/>
+            and Land, in all the kingdomes and dominions of <lb/>
+            this Crowne accordinge to his owne tast and to serve <lb/>
+            his purposes, as he hath at this daye drawne him=<lb break="no"/>
+            selfe in to the extraordinary greatnes followinge, hard=<lb break="no"/>
+            lie nowe Controleable by a kinge of so mild a nature, <lb/>
+            and soe softe and peaceable a disposicon: vnder the Coul=<lb break="no"/>
+            loure of beinge Squire for the bodie, contrarie to the <lb/>
+            Coustome of all other officers, he not onlie lodgeth in the <lb/>
+            Pallaice, but hath almost a thirde parte of it <lb/>
+            to his owne use, he hath dyet there also for him selfe <lb/>
+            and some good nvmber of his nearest attendantes; <lb/>
+            At his vpp risinge, he is daylie attended by .8. of the <lb/>
+            kinges owne pages, euerie of them in the tyme of <lb/>
+            his apparrelinge himselfe, doinge him some especi=<lb break="no"/>
+            all service, They Come downe from the Kinges lodg=<lb break="no"/>
+            inges in an orderlie manner, by two in a Ranke, and <lb/>
+            in like soart hauinge performed theire said observa=<lb break="no"/>
+            nce returne againe: He giues Audience twice or <lb/>
+            thrice in the Weeke, those that desire it, make their <lb/>
+            Repayers to Don Roderigo Calderon, either by theire <lb/>
+            persons or theire billetes, non other Secretarie  or <lb/>
+            servant about the Duke, dare presente any such re=<lb break="no"/>
+            quest, or accepte of any paper from any Man: Don  <lb/>
+            Roderigo receauinge these requestes, putes them in a  <lb/>
+            list, and at opertuneties presentes them to the Duke <lb/>
+            who causeth him to sett a marke vpon such as he will <lb/>
+            graunte accesse vnto the daye followinge, w<ex>hi</ex>ch done, <lb/>
+            Don Roderigo makes an especiall noate of them, and <lb/>
+            <fw type="catch" place="bot-right">deliuers it to</fw>
+            <pb n="150r" facs="/bl/add_ms_4149_part/add_ms_4149_f150r/add_ms_4149_f150r.jpg"/>
+            deliuers it to the Porter that keepes the outwarde do=<lb break="no"/>
+            ore of the Dukes Lodginges, the Porter accordinglie <lb/>
+            when the suitors present them selues, onlie gives en=<lb break="no"/>
+            terie to those that are contained in the liste, and telles <lb/>
+            the rest, they must forbeare, as those <add place="above">whose</add> hower is not yet <lb/>
+            Come; By this meanes it oft falles out that ambass=<lb break="no"/>
+            adors obtaine not accesse in fowreteene dayes, after <lb/>
+            theire demaund of it: The greatest of the Grandees <lb/>
+            not w<ex>i</ex>thin a moneth, and other particulares of more <lb/>
+            inferiore soarte, not in a quarter of a yeare nay w<ex>hi</ex>ch <lb/>
+            is more, at tymes some Grandees that haue marri=<lb break="no"/>
+            ed his owne daughters (thoughe otherwise very deere vn=<lb break="no"/>
+            to him) are not suffered to come w<ex>i</ex>thin fower<del rend="strikethrough">
+                    <unclear/>
+                </del> Roomes <lb/>
+            of his inwarde Lodginges. / .
+         </p>
+         <p>
+            I maye be thought to dwell too longe in discourse of <lb/>
+            these minute matters, yet seemeth it to me not im=<lb break="no"/>
+            pertinet to sett forth, the extraordinary greatnes, <del rend="strikethrough">of</del> <lb/>
+            that a fauorit to a prince may attayne, hauinge by <lb/>
+            God and tyme, good and apte subiectes giuen him, whe=<lb break="no"/>
+            revpon to erecte his fortunes, In this man it appears <lb/>
+            to me more <del rend="strikethrough">move </del>strange then in others, for althoughe <lb/>
+            the matter he hath to worke vpon be facyle and was <lb/>
+            by him taken in a fitt seasone, yet wantes himselfe <ex>th</ex>e <lb/>
+            ordinarie instrumentes and tooles wherew<ex>i</ex>th are vsu=<lb break="no"/>
+            allie engrauen those charectures of fauour and affecti=<lb break="no"/>
+            on, that are deepe imprinted, to the follower of soe yon=<lb break="no"/>
+            ge a Prince, in matters of pleasure and recreac<ex>i</ex>on, <lb/>
+            had bene necessarie a more equalletie both in years <lb/>
+            and bodie: To one vppone eho Shoulders was to be  <lb/>
+            layed the weight of soe great a gouernement, a grea=<lb break="no"/>
+            ter proportion of experience and vnderstandinge in <lb/>
+            matters of Estate, and disposic<ex>i</ex>on of other nations, or <lb/>
+            att least a supplie by learninge and Readinges, in <lb/>
+            neither of w<ex>hi</ex>ch he hath anye. But by how muche <lb/>
+            <fw type="catch" place="bot-right">these wantes in</fw>
+            <pb n="150v" facs="/bl/add_ms_4149_part/add_ms_4149_f150v/add_ms_4149_f150v.jpg"/>
+            these wantes in him seeme greate, by somuch the mo=<lb break="no"/>
+            re are his dilligences and endeuours (whereby those <lb/>
+            gappes are stopped) to be comended: The inequallety <lb/>
+            of his age, and vnaptnes to followe his Maister in the <lb/>
+            same steppes, he supplies by his eldest sonne the duke  <lb/>
+            of <hi rend="italic">Sea</hi>, who in his absence treades out of the same pathes &amp; <lb/>
+            is as it weare the watche tower to all the kinges wayes, wordes <lb/>
+            and acc<ex>i</ex>ons for matter of gouernement, he helpes him selfe w<ex>i</ex>th <lb/>
+            the aduise of some fewe that are most experienced, and best <lb/>
+            deemed of both by the kinge and people, by meanes whereof, <lb/>
+            though infinite<del rend="strikethrough">s</del> errours are Comitted and the estate brought <lb/>
+            into termes of great extremitie, yet is not the whole burden <lb/>
+            layde vpon him, but equallie attributed to those he Consults  <lb/>
+            w<ex>i</ex>th, and the whole becomes the lesse, in regarde that those <lb/>
+            others, haue by theire former Courses gained much good oppini=<lb break="no"/>
+            on and little Envie. This last evill of envye, although him <lb/>
+            selfe in soe extraordinarie a greatnes hath no possiblle<del rend="strikethrough">tie</del> me=<lb break="no"/>
+            anes to avoyde, yet doth soe quenche the furie of it, as though <lb/>
+            it liue in the Cinders, yet it shewes not it selfe by any flame, <lb/>
+            In all the whole Course of his life he shewes much temperance <lb/>
+            and litle Pompe, excedinge Curtious and affable to all that haue  <lb/>
+            accesse to him, and seldome gives discontentinge or bitter answere <lb/>
+            to any suitor that repaires to him, and if any he doe, he soe su=<lb break="no"/>
+            gers it ouer w<ex>i</ex>th softe wordes, as though the deniall giue a wo=<lb break="no"/>
+            unde, yet the baulme of his good wordes soe supples it, as it ta=<lb break="no"/>
+            kes awaye the greatest sence of the paine, onlie in his attend=<lb break="no"/>
+            ance vpon the kinge to the Chappell, and his Subscription to Me <lb/>
+            morialles and Billetes, he gives some Cause to drawe the env=<lb break="no"/>
+            ious and emvlatinge eyes of his equalles vpon him, observi=<lb break="no"/>
+            nge Com<ex>m</ex>onlie in the first as much distau<ex>n</ex>ce in goinge before <lb/>
+            the kinge, betweene him and othar grandees, as there is bet=<lb break="no"/>
+            weene the kinge and him, In his other, his subscribinge <hi rend="italic">Yo, el, <lb/>
+            Duque</hi>, in a kingdome where there are soe manie others of <ex>tha</ex>t <lb/>
+            dignetie, seemes to many too much arogatinge to himselfe,  <lb/>
+            <fw type="catch" place="bot-right">and detractinge</fw>
+            <pb n="151r" facs="/bl/add_ms_4149_part/add_ms_4149_f151r/add_ms_4149_f151r.jpg"/>
+            and detractinge from others: But w<ex>i</ex>th those of that ranke and <lb/>
+            other men of power and title, he vseth soe good prevention, as <lb/>
+            if he avoid not the Evill of the Cause, yet he seemeth him=<lb break="no"/>
+            selfe from the perill of the effecte, some of the greatest, hee <lb/>
+            hath drawne to himselfe by allyance, others he hath drawne <lb/>
+            to him by benefytes, To those that are enclined to their ease, <lb/>
+            and interest, he obtaynes a permission that they may abide <lb/>
+            in theire owne Hives, where attendinge onlie to gather <lb/>
+            the honie of theire ease, or vnderstandinge to any matter of <lb/>
+            Gouernement, but w<ex>i</ex>th tyme and Coustome, growe to make <lb/>
+            ease and securetie theire <hi rend="italic">Sum<ex>m</ex>um bonum</hi> and become <hi rend="italic">inania <lb/>
+            peccora</hi>, retaininge nothinge of a man but the forme, their <lb/>
+            mindes beinge metamorphosed into that of Beastes: A last <lb/>
+            soarte, in whome he noates a qquicke motion of Sperite, <lb/>
+            men actiue and able to looke into the deepest of his mist=<lb break="no"/>
+            eries, of Courage and habilletie, to pursue theire dissigns, <lb/>
+            and somuch respectinge the publique, as they preferre it <lb/>
+            before theire privat, he remoues from the kinges presence, <lb/>
+            vnder a faire and pleasinge shaddowe of employinge them, <lb/>
+            in the Livetenancye and gouernementes of his ma<ex>jes</ex>ties king=<lb break="no"/>
+            domes and domions, in partes remot: Neither doth this <lb/>
+            duke onlie affecte Authoritie and greatnes, in his owne <lb/>
+            daies, but soe well and politiquelie layes his foundac<ex>i</ex>on, <lb/>
+            as he maye conceive good hopes to leaue a great mea- <lb/>
+            sure of the same, to his howse and posteritie: For his Eld=<lb break="no"/>
+            est sonne he hath alreadie the title of a duke, and the pla=<lb break="no"/>
+            ce of a Grandee: To his second sonne by his marriage <lb/>
+            w<ex>i</ex>th the daughter and heire to the duke of <hi rend="italic">Infansado</hi> hee <lb/>
+            leaues the Reversion of the like w<ex>i</ex>th one of the Amplest pat=<lb break="no"/>
+            rimonyes in Signoris and Comaundment of vassailes, <lb/>
+            that any subiecte in Spaine possesseth: Him selfe is <lb/>
+            saide to be at this daye possessed of Landes and Rentes <lb/>
+            that yeild him in yearlie Revenewe .300000. ducates <lb/>
+            and of plate and moueables an infinit vallue. / ,
+         </p>
+         <fw type="catch" place="bot-right">Lastlie to putt</fw>
+         <pb n="151v" facs="/bl/add_ms_4149_part/add_ms_4149_f151v/add_ms_4149_f151v.jpg"/>
+         <p>
+            Lastly to putt a kind of necessitie, vpon the kinge to vse the <lb/>
+            duke of Sea his eldest sonne, hereafter in place of like <lb/>
+            privacie and Aucthoritie, as also to enable him, in mean <lb/>
+            tyme, for the vse and exercise of the same, He hathe of <lb/>
+            late transferred muche of his businesses vnto him, and <lb/>
+            Caused the suitors to praye accesse to that duke, and  <lb/>
+            him to give them audience, and dispatche in suche forme <lb/>
+            as he prescribes vnto him. / .
+         </p>
+         <p>
+            To come nowe to his <del rend="strikethrough">too</del> two principall assistantes in <lb/>
+            Counsaill, the Earle of Miranda, and Don Ivan de <lb/>
+            Idyaques, the first hath been accompted a man of much <lb/>
+            wisdome and great experience, as he that was a longe <lb/>
+            tyme Ambassador in Roome, viceroy of Naples and  <lb/>
+            nowe lastlie President of Castill a man greatly Rep=<lb break="no"/>
+            uted and reverenced by this Nac<ex>i</ex>on, as sinceere in adm=<lb break="no"/>
+            inistrac<ex>i</ex>on of Iustice, and respectefull of the publique: <lb/>
+            But such are nowe his yeares, his Corpulency &amp; other <lb/>
+            infirmities, the first hauinge weakened his bodie, the seco=<lb break="no"/>
+            nde overgrowne his sperites, and the third made him vn=<lb break="no"/>
+            apte for buyssines, as (in myne owne iudgement) there <lb/>
+            remaines litle but the Caske, the Lees and the savor of <lb/>
+            the liccour, that formerlie hath bene in it. / .
+         </p>
+         <p>
+            The Second hauing been a man of somuch trust, and imp=<lb break="no"/>
+            loyment in the tyme of the kinge deceased, may iustlie <lb/>
+            be said to be, a graue wise man, and in affaires of Estat <lb/>
+            of greate vnderstandinge, but hauinge none other <del rend="strikethrough">vnder=<lb break="no"/>
+            standinge but</del> foundac<ex>i</ex>on than that of owne meritte, <lb/>
+            and ouerflowne by soe supereminent authoritie, as that of <lb/>
+            the duke, tyhmorous in his owne nature, and of soe Coulde <lb/>
+            a disposic<ex>i</ex>on, well may that verse of <hi rend="italic">Dauid</hi> be applied <lb/>
+            vnto him (viz) <hi rend="italic">A facie frigoris eius quis sustenebit</hi>, it <lb/>
+            is thought that in all his Counsayles he enclines too <lb/>
+            muche vnto what he sees the duke disposed to, for the <lb/>
+            Rest he is muche given to devotion, and is of <ex>th</ex>e people <lb/>
+            <fw type="catch" place="bot-right">held a man of</fw>
+            <pb n="152r" facs="/bl/add_ms_4149_part/add_ms_4149_f152r/add_ms_4149_f152r.jpg"/>
+            held a man of greate zeale and virtue w<ex>hi</ex>ch drawes <lb/>
+            much good opinion, and reverence vnto him. <del rend="strikethrough">C</del> /.
+         </p>
+         <p>
+            Concerninge the twe Secretaryes before Named, the one <lb/>
+            of the Counsell of Estate, the other of the Duke, the one <lb/>
+            Named Andreas de Prada is generallie esteemed more <lb/>
+            devout then polletique, he is of his owne disposicon pl=<lb break="no"/>
+            aine and vpright, but much enclined to give eare, &amp; <lb/>
+            beleiffe, to those of the turbulent societie of the Iesuites <lb/>
+            by whome he is oftimes abused, and drawne out of <lb/>
+            those good wayes that him selfe affecteth, exceedinge cur=<lb break="no"/>
+            tious he is and affable to all suitors, to whome hee <lb/>
+            seldome or neuer denies accesse vnto him, keepinge <lb/>
+            for that purpose the dores of the place where he sittes <lb/>
+            the more parte of the daye open, and w<ex>i</ex>thout a keeper: <lb/>
+            <add place="LM">
+                    <ex>mark</ex>
+                </add>
+            The Secretarie of the Duke, though not brought vpp <lb/>
+            in Learninge, is of a pregnant witt, and by prac=<lb break="no"/>
+            tise giuen to be (his younge years considered) of much <lb/>
+            vnderstandinge, Laborious he is, and of great dili=<lb break="no"/>
+            gence, and hath attained the rewarde of it, beinge <lb/>
+            deare to the duke, well respected of the kinge, and from <lb/>
+            Nothinge, in fewe yeares growne to be of verie great <lb/>
+            revenewe. / . 
+         </p>
+         <p>
+            It resteth that in this place, I speake of him, that ought <lb/>
+            to haue bene the First; and is the firmament, wherin <lb/>
+            all the Starres before mentioned are fixed: The kinge  <lb/>
+            himselfe, who for his person is of a lowe stature, and <lb/>
+            in Complextion more resemblinge a Germane then  <lb/>
+            a Spaniarde, he seemeth of a flegmatique and slowe <lb/>
+            disposic<ex>i</ex>on, yet is it said by some, that he is more in=<lb break="no"/>
+            clined to Choller, then was his <del rend="strikethrough">inclinac<ex>i</ex>on</del> father, Hardly  <lb/>
+            shall an Ambassador iudge either of his inclinac<ex>i</ex>on or <lb/>
+            habillities, to whom he euer gives short Audiences, <lb/>
+            him selfe leaninge against a Cupboarde, his answers  <lb/>
+            breefe, most comonlie not varyinge from an vsuall <lb/>
+            <fw type="catch" place="bot-right">forme and</fw> <lb/>
+            <pb n="152v" facs="/bl/add_ms_4149_part/add_ms_4149_f152v/add_ms_4149_f152v.jpg"/>
+            forme, and deliuered w<ex>i</ex>th soe Lowe a voyce, as withe <lb/>
+            difficultie they are either vnderstoode or hearde: His <lb/>
+            owne people iydge him not tto be verie Active, or ha=<lb break="no"/>
+            ble ffor gouernement; praise his sinceritie and good <lb/>
+            intenc<ex>i</ex>ons, and honoure him w<ex>i</ex>th the Name of a <hi rend="italic">San=<lb break="no"/>
+            tito</hi>, but much misliketh that he deliuereth him selfe <lb/>
+            soe absolutlie ouer, into the handes of the Duke, and on=<lb break="no"/>
+            lie Comforte themselues w<ex>i</ex>th an opinion, that accordinge  <lb/>
+            to what is observed in those of the house of Austria, <lb/>
+            more yeares will breed in him a more Ripenes of vn=<lb break="no"/>
+            derstandinge, and a greater Courage, then to suffer his Ro=<lb break="no"/>
+            yall <unclear>
+                    <del rend="strikethrough">cour</del>
+                </unclear> dignetie to growe into soe greate disesteeme, <lb/>
+            and his estate into such Necessetyes and Perills: The  <lb/>
+            truth is, his ma<ex>jes</ex>tie is much enclined to devoc<ex>i</ex>on and obser=<lb break="no"/>
+            ues his vsuall howers, w<ex>i</ex>th noe lesse strictnes, then if <lb/>
+            he were a votraaye or a man in Orders, he is verie cha=<lb break="no"/>
+            st, Clement and Lyberall, for his excercise and recrea=<lb break="no"/>
+            c<ex>i</ex>on, he is most affectionated to huntinge, and to playe, <lb/>
+            the first not ww<ex>i</ex>th houndes, or grehoundes, but w<ex>i</ex>th hand, <lb/>
+            by vsinge of his peece, and therein is said to be verie <lb/>
+            Laborious; <del rend="strikethrough">(</del> He is very fortunat, in his yssue, hauinge  <lb/>
+            alreadie in soe yonge yeares two sonnes, and asmany <lb/>
+            daughters: The eldest prince and princes are of muche <lb/>
+            hope: The Prince in this his infancye shewinge many <lb/>
+            argumentes of hauine a quicke conceipte: The Prin=<lb break="no"/>
+            cesse like to be very singuler in beautie of an exelent <lb/>
+            witt, and a greate Sperite. / .
+         </p>
+         <p rend="align-right">
+            . Finis .
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f132r/add_ms_4149_f132r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f132v/add_ms_4149_f132v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f133r/add_ms_4149_f133r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f133v/add_ms_4149_f133v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_4149_part/add_ms_4149_f134r/add_ms_4149_f134r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_4149_part/add_ms_4149_f134v/add_ms_4149_f134v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_4149_part/add_ms_4149_f135r/add_ms_4149_f135r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_4149_part/add_ms_4149_f135v/add_ms_4149_f135v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_4149_part/add_ms_4149_f136r/add_ms_4149_f136r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_4149_part/add_ms_4149_f136v/add_ms_4149_f136v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_4149_part/add_ms_4149_f137r/add_ms_4149_f137r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_4149_part/add_ms_4149_f137v/add_ms_4149_f137v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_4149_part/add_ms_4149_f138r/add_ms_4149_f138r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_4149_part/add_ms_4149_f138v/add_ms_4149_f138v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_4149_part/add_ms_4149_f139r/add_ms_4149_f139r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_4149_part/add_ms_4149_f139v/add_ms_4149_f139v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_4149_part/add_ms_4149_f140r/add_ms_4149_f140r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_4149_part/add_ms_4149_f140v/add_ms_4149_f140v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_4149_part/add_ms_4149_f141r/add_ms_4149_f141r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_4149_part/add_ms_4149_f141v/add_ms_4149_f141v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_4149_part/add_ms_4149_f142r/add_ms_4149_f142r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_4149_part/add_ms_4149_f142v/add_ms_4149_f142v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_4149_part/add_ms_4149_f143r/add_ms_4149_f143r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_4149_part/add_ms_4149_f143v/add_ms_4149_f143v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_4149_part/add_ms_4149_f144r/add_ms_4149_f144r.jpg"/>
+      <graphic n="26" url="/bl/add_ms_4149_part/add_ms_4149_f144v/add_ms_4149_f144v.jpg"/>
+      <graphic n="27" url="/bl/add_ms_4149_part/add_ms_4149_f145r/add_ms_4149_f145r.jpg"/>
+      <graphic n="28" url="/bl/add_ms_4149_part/add_ms_4149_f145v/add_ms_4149_f145v.jpg"/>
+      <graphic n="29" url="/bl/add_ms_4149_part/add_ms_4149_f146r/add_ms_4149_f146r.jpg"/>
+      <graphic n="30" url="/bl/add_ms_4149_part/add_ms_4149_f146v/add_ms_4149_f146v.jpg"/>
+      <graphic n="31" url="/bl/add_ms_4149_part/add_ms_4149_f147r/add_ms_4149_f147r.jpg"/>
+      <graphic n="32" url="/bl/add_ms_4149_part/add_ms_4149_f147v/add_ms_4149_f147v.jpg"/>
+      <graphic n="33" url="/bl/add_ms_4149_part/add_ms_4149_f148r/add_ms_4149_f148r.jpg"/>
+      <graphic n="34" url="/bl/add_ms_4149_part/add_ms_4149_f148v/add_ms_4149_f148v.jpg"/>
+      <graphic n="35" url="/bl/add_ms_4149_part/add_ms_4149_f149r/add_ms_4149_f149r.jpg"/>
+      <graphic n="36" url="/bl/add_ms_4149_part/add_ms_4149_f149v/add_ms_4149_f149v.jpg"/>
+      <graphic n="37" url="/bl/add_ms_4149_part/add_ms_4149_f150r/add_ms_4149_f150r.jpg"/>
+      <graphic n="38" url="/bl/add_ms_4149_part/add_ms_4149_f150v/add_ms_4149_f150v.jpg"/>
+      <graphic n="39" url="/bl/add_ms_4149_part/add_ms_4149_f151r/add_ms_4149_f151r.jpg"/>
+      <graphic n="40" url="/bl/add_ms_4149_part/add_ms_4149_f151v/add_ms_4149_f151v.jpg"/>
+      <graphic n="41" url="/bl/add_ms_4149_part/add_ms_4149_f152r/add_ms_4149_f152r.jpg"/>
+      <graphic n="42" url="/bl/add_ms_4149_part/add_ms_4149_f152v/add_ms_4149_f152v.jpg"/>
+   </facsimile>
+</TEI>

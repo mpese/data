@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter Written at Newcastle to the Peers of England and the Privy Council</title>
+            <author>
+               <persName corresp="../people/people.xml#0016">James I</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS4149.xml">
+               <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 4149</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_2877.xml">British Library, Egerton MS 2877, f. 80r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_20.xml">Senate House, University of London,  MS 20, ff. 32r–34r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1603-04-10">10 April 1603</date>
+            <placeName corresp="../places/places.xml#PL0032">Newcastle</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>succession</term>
+               <term>Privy Council</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-21" who="#RB" status="proofread"/>
+            <change when="2018-04-18" who="#RB" status="draft"/>
+            <change when="2018-04-17" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="109r" facs="/bl/add_ms_4149_part/add_ms_4149_f109r/add_ms_4149_f109r.jpg"/>
+         <head rend="indent">
+            <add place="header">
+               <hi rend="italic align-centre">
+                  An<ex>n</ex>o .j. Jacobij
+               </hi>
+            </add>
+            <hi rend="italic">
+               The Kinges Letter written at Newca=<lb break="no"/>
+               stle to the peeres of <ex>th</ex>e Realme of <del rend="strikethrough">
+                        <ex>th</ex>e</del>  Engl= <lb/>
+               ande and to the priuie Counsell of <ex>th</ex>e late <lb/>
+               Queene Elizabeth for an addicone of new <lb/>
+               Counselores and discharge of <ex>th</ex>e rest of <ex>th</ex>e <lb/>
+               Peeres in the action of stat, and a Com=<lb break="no"/>
+               aund of the Lord Thomas Howard of <lb/>
+               Walden to supplie the Rowme of Lorde <lb/>
+               Chamberle in respect of <ex>th</ex>e Lo<ex>rd</ex> Hunsdones <lb/>
+               indisposition of body <ex>th</ex>e .x. of Aprill. <hi rend="underline">1603</hi>.
+            </hi>
+         </head>
+         <p>
+            Right Trustye and Right welbeloued Cousenes &amp; <lb/>
+            Counselores. Since the Writinge of many of <lb/>
+            our <add place="above">formor</add> letters, we haue Considered of the Number and <lb/>
+            state of you, w<ex>hi</ex>ch by our Comission alredy sente we <lb/>
+            haue established to be of our privie Counsell in <lb/>
+            that our kingdome; And we find that when the <lb/>
+            Rest of our peers w<ex>i</ex>th whom you are ioyned, shall <lb/>
+            be seuered from you hereafter, those that remaine <lb/>
+            wilbe a verie small Nomber to attende to the go=<lb break="no"/>
+            vernement of our affaires, w<ex>hi</ex>ch doe require <lb/>
+            Now more to be added to that societie. In w<ex>hi</ex>ch <lb/>
+            respecte, we haue thought good first to begine <lb/>
+            W<ex>i</ex>th some of our Nobillitie, Namlye our right <lb/>
+            trustie and welbeloued Cousines the Earles of <lb/>
+            Northumberland, and Comberland, and o<ex>u</ex>r Right <lb/>
+            trustie and welbeloued the Lord Mountioye our <lb/>
+            deputie of Ireland, and the Lord Thomas <lb/>
+            Howard of Walden of whose Choise as we <lb/>
+            intende that you the Peeres of o<ex>u</ex>r Realme shall <lb/>
+            take Notice, So we doe herby require and <lb/>
+            Authorize you that be of our priuy Counsell <lb/>
+            <fw type="catch" place="bot-right">or as</fw>
+            <pb n="109v" facs="/bl/add_ms_4149_part/add_ms_4149_f109v/add_ms_4149_f109v.jpg"/>
+            or as many of them as be presente w<ex>i</ex>th you, vpo<ex>n</ex> <lb/>
+            the receipte herof, to admitt vnto our privie co=<lb break="no"/>
+            unsell, and to give them the oath accustomed to <lb/>
+            be given to Privie Counselores. And for the <lb/>
+            Lord Mounteioye his Name may be entered in=<lb break="no"/>
+            to the liste of our priuie Counsellors and the still <lb/>
+            So given him in all directiones that you shall <lb/>
+            shende to him, and his oathe hereafter minest=<lb break="no"/>
+            red when he shalbe present: In the meane <lb/>
+            time we haue signefyed somuch vnto him by <lb/>
+            our l<ex>ett</ex>res. And then our Nomber beinge thus <lb/>
+            encreased, you may holde yo<ex>u</ex>r sittings in Coun=<lb break="no"/>
+            sell aparte as you were wont to doe in o<ex>u</ex>r latte <lb/>
+            Sisters tyme from the Rest of our peeres, to <lb/>
+            whom ere it be longe, we shall give the ac=<lb break="no"/>
+            quitall of their vertues and dutifull endevors, <lb/>
+            w<ex>hi</ex>ch presentlye we cannot do, vntill by o<ex>u</ex>r Con=<lb break="no"/>
+            versacon w<ex>i</ex>th you, and personall knowledg of <lb/>
+            the Nobillitie and others, we may make cho=<lb break="no"/>
+            ise of those whom we shall find then meete <lb/>
+            to be Called, either to our privie Counsell or <lb/>
+            to any other honores, wherof they haue soe <lb/>
+            well deserved, As we are more in paine to <lb/>
+            haue remunerated them, then any of them <lb/>
+            can be in desire to receaue suche testemonyes, <lb/>
+            wishinge them (excepte some Charges they <lb/>
+            haue vnder vs, or some Necessarie occasi=<lb break="no"/>
+            ons to severe) that they will staye there at, or <lb/>
+            about o<ex>u</ex>r Cittie of London, as well to be redie <lb/>
+            to assist o<ex>u</ex>r privie Counsell vpon any soddaine <lb/>
+            occasions (whereof No man knowes what <lb/>
+            <fw type="catch" place="bot-right">occasione</fw>
+            <pb n="110r" facs="/bl/add_ms_4149_part/add_ms_4149_f110r/add_ms_4149_f110r.jpg"/>
+            occasion may happen) as also to attend the Fu=<lb break="no"/>
+            neralls, the honoringe wherof we shall more <lb/>
+            regarde for the presente then the repaire of <lb/>
+            any hether at this tyme, vntill we be mett <lb/>
+            as is fitt by them and you; wherof the More <lb/>
+            shall come to gether of you, the more it will <lb/>
+            agree w<ex>i</ex>th yo<ex>u</ex>r duties and our dignetie. And <lb/>
+            forasmuch as for many services Necessarilie to <lb/>
+            be attended, both about the late Queene our <lb/>
+            Sisters Funeralls; o<ex>u</ex>r reception into the Citties <lb/>
+            and Townes of this o<ex>u</ex>r Realme, and our Coro=<lb break="no"/>
+            naton, the vse of a lord Chamberlaine is ve=<lb break="no"/>
+            rie Needefull; and that the Lord Hunsdon who <lb/>
+            Now hath that place, is Not able by reason <lb/>
+            of his indisposition to execute the service belon=<lb break="no"/>
+            ginge to his Charge, as either his zeale ther=<lb break="no"/>
+            vnto will moue him, or may stand w<ex>i</ex>th our <lb/>
+            Honor, at such atyme when so great an ob=<lb break="no"/>
+            servacon wilbe made of all the Ceremonyes <lb/>
+            due to the dead as well as to the Livinge; we <lb/>
+            haue thought good to constitute and Authorize <lb/>
+            our right trustie and welbeloued the Lord <lb/>
+            Thomas Howard of Walden to exercis<supplied reason="blotting">e</supplied> that <lb/>
+            place for the said Lord Hunsdon, both Nowe <lb/>
+            and then, in respecte of many things fitt to be <lb/>
+            prepared and executed for our service; wherof <lb/>
+            we doe requir you our right trustie and well=<lb break="no"/>
+            beloued the Lord Hunsdon to take notice Not <lb/>
+            doubtinge but ye will thinke this to stand both <lb/>
+            w<ex>i</ex>th the Necessitie and Honor of o<ex>u</ex>r service. Gi=<lb break="no"/>
+            ven vnder o<ex>u</ex>r signett at our Towne of Newe=<lb break="no"/>
+            <fw type="catch" place="bot-right">Castle</fw>
+            <pb n="110v" facs="/bl/add_ms_4149_part/add_ms_4149_f110v/add_ms_4149_f110v.jpg"/>
+            Newecastle the x of Aprill, the firste yeare <lb/>
+            of our Raigne of England, Fraunce and Ir=<lb break="no"/>
+            elande and of Scotland the .xxxvjth.
+         </p>
+         <p rend="align-right">
+            :Ja: Rex:/
+         </p>
+         <p rend="indent">
+            <hi rend="italic">Directed thus</hi>
+         </p>
+         <p>
+            To our Right trustye and Righte welbeloued <lb/>
+            the Peeres of o<ex>u</ex>r Realmes of England and <lb/>
+            Ireland, and to o<ex>u</ex>r trustie and right welbe=<lb break="no"/>
+            loued our privy Counsell assembled at <lb/>
+            our pallace of Whitehall. / .
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f109r/add_ms_4149_f109r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f109v/add_ms_4149_f109v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f110r/add_ms_4149_f110r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f110v/add_ms_4149_f110v.jpg"/>
+   </facsimile>
+</TEI>

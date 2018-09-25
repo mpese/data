@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>British Library Harley MS 3791</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Harley_MS_3791">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3791</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>5r</locus>
+                  <title>Speech to the Lords at York</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesSpeechYork1640v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>11r-12r</locus>
+                  <title>The Humble Supplication or Remonstrance of the Noblemen, Barons, Burgesses, Ministers and Commons of Scotland to the Lords of His Majesty’s Privy Council There</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RemonstranceScotland1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>14r-33r</locus>
+                  <title>Interrogatories Offered to Bristol</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/InterrogatoriesOfferedBristol1624.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>65r-66v</locus>
+                  <title>Opinion of All the Judges of England Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0199">Richard Weston</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0149">Francis Crawley</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0134">Robert Berkeley</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0198">George Vernon</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0197">Thomas Trevor</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0004">George Crooke</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0184">William Jones</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0141">Richard Hutton</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0156">John Denham</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0154">Humphrey Davenport</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0167">John Finch</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0137">John Brampston</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OpinionJudgesShipMoney1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>68r-v</locus>
+                  <title>Directions for Preachers</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0036">George Abbot, Archbishop of Cantebury</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/JamesDirectionsPreachers1622.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>94r-v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0191">Sir Edward Littleton</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/LittletonArgumentConcerningShipMoney1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>95r-97v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0174">Robert Holborne</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HolborneArgumentConcerningShipMoney1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>100r-101v</locus>
+                  <title>Argument Concerning Ship Money</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0004">George Croke</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CrokeShipMoney1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>133x-114x</locus>
+                  <title>Petition from the Gatehouse</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0044">Sir John Eliot</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EliotPetitionGatehouse1627.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>119r-v</locus>
+                  <title>A Speech to the King Concerning Toleration of Popery, Attributed to Archbishop Abbot</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0204">Pseudo-Abbot</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PseudoAbbot1623v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="11">
+                  <locus>120x-121x</locus>
+                  <title>The English Catholics' Letter to James I</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CatholicsLetterJamesI1603v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="12">
+                  <locus>123r-125r</locus>
+                  <title>Information Against Cotton et al.</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0029">Sir Robert Heath</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/HeathInformationAgainstCotton1629.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="13">
+                  <locus>127r-v</locus>
+                  <title>Answer to the Information Against Him</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0061">Francis Russell, Earl of Bedford</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RussellAnswerInformation1629.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="14">
+                  <locus>139r-146v</locus>
+                  <title>Information Against Burton, Bastwick and Prynne</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0133">Sir John Bankes</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BankesInformationAgainstBurtonBastwickPrynne1637.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

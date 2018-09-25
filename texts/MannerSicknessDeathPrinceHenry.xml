@@ -1,0 +1,686 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Manner of the Sickness and Death of Prince Henry</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+            <respStmt xml:id="PA">
+               <name>Pam Abbott</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_73087">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73087</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1786">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Sloane</collection>
+               <idno>MS 1786</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_444">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 444</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Cotton_MS_Titus_C_VII">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Cotton</collection>
+               <idno>MS Titus C VII</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS73087.xml">British Library, Additional MS 73087, ff. 10r–22r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLCottonMSTitusCVII.xml">British Library, Cotton MS Titus C VII, ff. 62r–67v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS444.xml">British Library, Harley MS 444, ff. 57r–68v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1786.xml">British Library, Sloane MS 1786, [CHECK]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS3104.xml">British Library, Sloane MS 3104, ff. 1r–17v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 3r–14v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_2858.xml">Lambeth Palace Library,  MS 2858, ff. 205r–222v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1612">1612?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Prince Henry</term>
+               <term>death</term>
+               <term>illness</term>
+               <term>royal succession</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-19" who="#TW" status="proofread"/>
+            <change when="2018-04-12" who="#RB" status="draft"/>
+            <change when="2018-03-22" who="#PA" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25r" facs="/bl/add_ms_22591/add_ms_22591_f025r/add_ms_22591_f025r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               The <lb/>
+               Manner of the Sicknes and <lb/>
+               death <lb/>
+               of Prince Henrye Sonne to   <lb/>
+               King <lb/>
+               James  An<ex>n</ex>o Dom<ex>ini</ex> . 1612 
+            </hi>
+         </head>
+         <p>
+            One Sunday the First of November and 8th. daye of <lb/>
+            his Sicknes according to their former agream<ex>en</ex>t after much a doe <lb/>
+            Mr Butler refusing that he should be lett bloud, because as hee <lb/>
+            saide it was the 8th. daye p<ex>re</ex>ferring to haue left them, vntil hee <lb/>
+            was forced to staye and giue his consent, Docter Ham<ex>m</ex>on &amp; oth<ex>e</ex>rs <lb/>
+            p<ex>ro</ex>ving to him that it was not the eight daye, his highnes being ill <lb/>
+            of A long tyme before, however he stranglye w<ex>it</ex>h A wonderfull <lb/>
+            Courage and patience concealed the same, his highnes beinge <lb/>
+            still all after one in pr<ex>e</ex>sence of the foresaid Doctors, &amp; divers <lb/>
+            others of verye good worthe in the morning was drawne out of the <lb/>
+            Median of his right Arme 7: or 8: ounces of Bloude, duringe <lb/>
+            w<ex>hi</ex>ch tyme he fainted not, bleeding well and aboundantlye desiring <lb/>
+            and calling to them to take more, as they were about to stop the <lb/>
+            same, finding some ease as it were vpon the Instant, The bloud being <lb/>
+            Cold was seene of all to be thinne, Corrupt and putred, w<ex>i</ex>th A <lb/>
+            Colericke and bleuish water aboue, w<ex>i</ex>thout anye fibres or small <lb/>
+            strings therein scarce congealed. This daye after his bleedinge <lb/>
+            he found great Ease, in soe much as since the beginninge of his <lb/>
+            sickenes he had not found him selfe soe well, his pulse inclyninge <lb/>
+            to A more gentle motion, missing his former wonted cruell doub=<lb break="no"/>
+            lings, and his former Accidents being lesse and more mylde, This <lb/>
+            after noone he was visited by his Father Mother Brother Sister <lb/>
+            the Palsgrave, w<ex>i</ex>th divers others of the Courtes, All w<ex>hi</ex>ch Co<ex>n</ex>ceaving <lb/>
+            good hopes, departed fro<ex>m</ex> thence reasonable chearefull, yett the <lb/>
+            night (thoughe better then others passed vnquiettlye/
+         </p>
+         <p>
+            On Mundaye the Second of November and 9th of his sicknes, <lb/>
+            he became worse then ever, <ex>th</ex>e great redoubling Coming vpo<ex>n</ex> him <lb/>
+            accompanied w<ex>i</ex>th rednes of Face, Shortnes of Breathe, increase <lb/>
+            of drought, blacknes of his toung w<ex>i</ex>th excessiue heate some what <lb/>
+            lesse then it was the 7th. daye, and benum<ex>m</ex>ings w<ex>hi</ex>ch nowe with the <lb/>
+            increase of all the Former Accidents tormented him, Breiflye <lb/>
+            soe many evell signes appeared that some of the doctors then <lb/>
+            plainely affirmed that by violence of the desease the bloud and <lb/>
+            humors weare retyred in aboundance w<ex>i</ex>th greate violence towards <lb/>
+            the braine, filling the braynes aboundantlye, as afterwardes in the <lb/>
+            opening did appeare, by reason whereof the paine in the head was <lb/>
+            extreame greate, his Spirretts being as it were overcome/ This <lb/>
+            Morning Doctor Atkins A Phisition of London, famous for his <lb/>
+            <fw type="catch" place="bot-right">practise</fw>
+            <pb n="25v" facs="/bl/add_ms_22591/add_ms_22591_f025v/add_ms_22591_f025v.jpg"/>
+            practise, honestie and learning, was sent by his Ma<ex>jes</ex>tye to assist <lb/>
+            <ex>th</ex>e rest in Cure, whose opinion as they said was, that his highnes dis=<lb break="no"/>
+            sease was A Corrupte purred Feavour the heate whereof was vnd<ex>e</ex>r <lb/>
+            the liver in the first passages, the malignetie whereof he thought <lb/>
+            by reason of the putrifaction in allmost the highest degree, was  <lb/>
+            venemous, This daye and the next he was visited by the Kinge, <lb/>
+            his Father, and others of the Courte, whose exceeding sorrowe I <lb/>
+            cannot exprese: yett were they still fed w<ex>i</ex>th some small hopes <lb/>
+            of his Recou<ex>er</ex>ye, All this while, allthoughe he grewe everye daye <lb/>
+            worse and worse, yet none discouraged him w<ex>i</ex>th anye speeches <lb/>
+            of deathe, Soe loathe they were to thinke of his dep<ex>ar</ex>ture, himselfe <lb/>
+            being soe tormented w<ex>i</ex>th this and the next dayes sicknes that he <lb/>
+            could not thinke thereof, Or if  had yet the Phisicons Courage, <lb/>
+            and hope of liffe, w<ex>hi</ex>ch good opinion his vnspeakable patience not <lb/>
+            anye waye co<ex>m</ex>playning, Soe that he could not have bine knowne to be <lb/>
+            sicke but by his lookes, moved them to conceave, Therefore telling <lb/>
+            him there was noe daunger dashed the same, This night came vpo<ex>n</ex> <lb/>
+            him greate alienac<ex>i</ex>on of braine ravinge, and idle speeches out of <lb/>
+            purpose: Calling for his Clothes and Rapier, and saying he must <lb/>
+            be gone, he could not staye, and I knowe not what elce, To the great <lb/>
+            greiffe of all <ex>tha</ex>t heard him, whose hopes now began to vanish/
+         </p>
+         <p>
+            On Tewsdaye the Third of the Monthe, and tenthe of his sicknes <lb/>
+            he became worse then before, All his former Accidents increasing <lb/>
+            exceedinglye, his boundings being turned into Convultions, his <lb/>
+            ravinge and benu<ex>m</ex>ing greater, the Feavour more violent, wherevpo<ex>n</ex> <lb/>
+            bleeding was agayne p<ex>ro</ex>posed by doctor Mayorne &amp; <ex>th</ex>e Favourers <lb/>
+            thereof, whoe still affirmed that he did mislike the two Sparinge <lb/>
+            p<ex>ro</ex>ceeding w<ex>i</ex>th his highnes, alleadging that in this case of extremity, <lb/>
+            they must (if they mente to saue his liffe) p<ex>ro</ex>ceed in the Cure as if  <lb/>
+            it were to some meane p<ex>er</ex>son, forgetting him to be A Prince who<ex>m</ex> <lb/>
+            they had nowe in hande, otherwise he said for ought he sawe, because <lb/>
+             he was A Prince he must dye, but if he weare A meane p<ex>er</ex>son he might <lb/>
+            be saved, but this his opinion being disallowed of most they co<ex>n</ex>tynued <lb/>
+            and increased their Cordialls giving vnto him A Glister which <lb/>
+            brought awaye aboundance of Corrupte and putred matt<ex>e</ex>r togith<ex>e</ex>r <lb/>
+            w<ex>i</ex>th some reasons w<ex>hi</ex>ch (as was thought) he had eaten 12 dayes before <lb/>
+            This daye allsoe for the easing of the extreame paine of his head, <lb/>
+            the hayre was shaven awaye, and pigeons applyed to lessen and <lb/>
+            drawe awaye the humor of that Sup<ex>er</ex>fluous bloude fro<ex>m</ex> <ex>th</ex>e head w<ex>hi</ex>ch <lb/>
+            he endured w<ex>i</ex>th wonderfull and admirable patience, as though <lb/>
+            he had bine insensible of paine, yett all w<ex>i</ex>thout anye good, saue <lb/>
+            p<ex>er</ex>happs some small seeminge hope of Comforte for the present, <lb/>
+            Nowe began the Pilotts whoe guided this fraile barke of his high= <lb break="no"/>
+            nes bodye, allmost to dispayre to escape the dangers of ensuing <lb/>
+            tempests, Some of whose lookes did nowe more then eu<ex>er</ex> discou<ex>r</ex>age <lb/>
+            the rest, For this night he became verye weake, <ex>th</ex>e Feavor Aug= <lb break="no"/>
+            menting, the Ravenning becom<ex>m</ex>ing worse then ever, in which hee <lb/>
+             began to tosse and tumble, to Singe in his sleepe, p<ex>re</ex>ferring to <lb/>
+            haue leaped out of his bedd, gathering the Sheets togither, the
+         </p>
+         <fw type="catch" place="bot-right">Co<ex>n</ex>vulcions</fw>
+         <pb n="26r" facs="/bl/add_ms_22591/add_ms_22591_f026r/add_ms_22591_f026r.jpg"/>
+         <p>
+            Convulc<ex>i</ex>ons being more violent, in w<ex>hi</ex>ch extremitye his toung <lb/>
+            Mouthe, and Throte being more drye then ever, yett called hee <lb/>
+            not for anye kinde of moisture, Complayning of thirst w<ex>hi</ex>ch evidently <lb/>
+            shewed that the vehemencie of his disease had overcome <ex>th</ex>e Seate <lb/>
+            of Reason, otherwise he could not but haue Complayned as hee <lb/>
+            did before/
+         </p>
+         <p>
+            On Wensday the 4th of November and 11th of his Sicknes,  <lb/>
+            all hopes of Recou<ex>er</ex>ye were lesse then ever, the Phisitio<ex>n</ex>s Surgio<ex>n</ex>s <lb/>
+            and Apothicaries beginning to be dismayed, but that like Stoute <lb/>
+            Pilotts they did beare it out bravelye soe long as was possible, yet <lb/>
+            as men p<ex>er</ex>plexed in <add place="above">
+                    <del rend="strikethrough">an</del>
+                </add> such <add place="above">an</add> extreemitye, the most p<ex>ar</ex>te of opinion that <ex>th</ex>e <lb/>
+            Chrisis was to be seene before A finall dissoluc<ex>i</ex>on, of w<ex>h</ex>ch there <lb/>
+            was as yet small appearance, All the former Accidents meane while <lb/>
+            increased, the whole world begin<ex>n</ex>ing to be affrayde. This daye A <lb/>
+            Cocke was cloven by the backe and applyed to the Soles of his feet, <lb/>
+            but in vayne. The Cordialls allsoe were redoubled in nu<ex>m</ex>ber and <lb/>
+            quantitie but without anye p<ex>ro</ex>fitt. This afternoone his Ma<ex>jes</ex>ty hearing <lb/>
+            of his vndoubted dau<ex>n</ex>ger, allthough more sorrowfull then at other <lb/>
+            tymes) came to see him, But being advertised howe matters wente, <lb/>
+            and were likelye to goe, and what addition of greiffe it would be vnto <lb/>
+            him, to see his best beloved Sonne in that extreemitye, he was at last <lb/>
+            p<ex>er</ex>swaded to dep<ex>ar</ex>te w<ex>i</ex>thout anye visitac<ex>i</ex>on, yett giving order &amp; comau<ex>n</ex>d <lb/>
+            before his dep<ex>ar</ex>ture ,that  fro<ex>m</ex> thence forthe, Because his highnes was <lb/>
+            continuallye molested w<ex>i</ex>th A nu<ex>m</ex>ber, whoe out of their love came to <lb/>
+            visite, noe Creature should be admitted to see him, save those, whoe <lb/>
+            of necessitie must attend vpo<ex>n</ex> him, vntill the event, and issue of his <lb/>
+            disease were seene, w<ex>hi</ex>ch was accordinglye done, his highnes for his <lb/>
+            more ease, being removed into A more larg &amp; quitt Cha<ex>m</ex>ber/
+         </p>
+         <p>
+            But nowe all things appearing to be out of Frame, Confusedlye <lb/>
+            evill w<ex>i</ex>thout hope of Amendm<ex>en</ex>t, where of the Arch-Bishoppe of <lb/>
+            Canterburye hearinge, he made soe much the more hast vnto his high=<lb break="no"/>
+            nes, where after some discou<ex>r</ex>se fittinge that tyme, seeing soe much care <lb/>
+            to be taken for the Mortall Bodye; the more ym<ex>m</ex>ortall Soule beinge <lb/>
+            neglected, he asked his highnes, whether there had bine any Pray<ex>e</ex>rs <lb/>
+            said in his Chamber since his sicknes or noe/
+         </p>
+         <p>
+            To whom he answered that there had not, Alleadginge <ex>th</ex>e cause <lb/>
+            to have bine the Continuall Toyle of the Doctors Appothecaryes &amp; <lb/>
+            Chirurgeons about him, And further <ex>th</ex>at vntill nowe he was not <lb/>
+            put in mynde thereof, But that, for all that, he had not fayled to <lb/>
+            praye quiettlye by himselfe, w<ex>hi</ex>ch his answere pleasing them well
+         </p>
+         <p>
+            The Arch Bishopp agayne demau<ex>n</ex>ded of his highnes would now <lb/>
+            fro<ex>m</ex> thenceforthe be contented to haue prayers said in his Chamb<ex>e</ex>r, <lb/>
+            w<ex>hi</ex>ch he willinglye assented vnto, asking w<ex>hi</ex>ch of his Chaplaynes were <lb/>
+            there pr<ex>e</ex>sent amongst them, Finding that Doctor Milborne, Deane of Roch<ex>ester</ex> <lb/>
+            was there pr<ex>e</ex>sent, he willed <ex>th</ex>e said Deane to be called, as beinge one <lb/>
+            who<ex>m</ex> for his learning, good Courage, and p<ex>ro</ex>fitable preaching aboue <lb/>
+            all the rest, he ever affected and respected
+         </p>
+         <p>
+            The Arch Bishop meane while, not willing too much to disqui<add place="above"/>ett his <lb/>
+            highnes for that tyme, being dep<ex>ar</ex>ted, the aforesaid Deane of Roches<ex>ter</ex> <lb/>
+            was called for to saye Prayers <ex>tha</ex>t Evening at his highnes Bedsyde <lb/>
+            where speaking somewhat lowe, fearing to offend his distempered <lb/>
+            <fw type="catch" place="bot-right">Eares</fw>
+            <pb n="26v" facs="/bl/add_ms_22591/add_ms_22591_f026v/add_ms_22591_f026v.jpg"/>
+            Eares, his highnes willed him to speake alloude, there after <lb/>
+            repeating <del rend="strikethrough">his Faithe </del>the confession of his Faithe word, by worde, <lb/>
+            after him, Fro<ex>m</ex> henceforthe, the foresaid contynued to pray daylie <lb/>
+            w<ex>i</ex>th him at his Beddside, vntill his dep<ex>ar</ex>ture, This night was vnquiet <lb/>
+            as the rest
+         </p>
+         <p>
+            On Thirsdaye morning the vth of November and xijth of <lb/>
+            his Sicknes, newes was sent vnto his Ma<ex>jes</ex>ty of the vndoubted dau<ex>n</ex> <lb/>
+            ger, and that there nowe remayned noe hope or meanes of his <lb/>
+            highnes recoverye, but w<ex>i</ex>th desperate and dau<ex>n</ex>gerous attemptes <lb/>
+            w<ex>hi</ex>ch his Ma<ex>jes</ex>tye considering gave leave, and absolute power to Doc<ex>tor</ex> <lb/>
+            Mayerne, (as cheiffe Phisic<ex>i</ex>on) to doe what he would of himselfe, <lb/>
+            w<ex>i</ex>thout advice of the Rest, yf in such an extremitie it were possible <lb/>
+            to doe anye thinge for his highnes safetie/
+         </p>
+         <p>
+            But he weighinge the greatnes of the Cure &amp; eminencye of <lb/>
+            the daunger, would not for all that adventure to doe anye thing of <lb/>
+            himselfe, w<ex>i</ex>thout advice of the rest, w<ex>hi</ex>ch he allwayes tooke, saying <lb/>
+            that it should never be said in after Ages, <ex>tha</ex>t he had killed their <lb/>
+            kings eldest Sonne/
+         </p>
+         <p>
+            His Ma<ex>jes</ex>tye meane while (whose sorrowe noe toung can exprese) <lb/>
+            not willing, nor being able to staye soe neere the gates of soe ex= <lb break="no"/>
+            treame sorrowe, more like A dead, then A living man, full of most <lb/>
+            wonderfull heavynes, Removed to Theobaldes, (A house xij miles <lb/>
+            fro<ex>m</ex> London) there to expecte the dolefull event
+         </p>
+         <p>
+            Meane while amongst the Doctors Mayerne, Hamond, Butler, <lb/>
+            and Atkins, Bleeding was nowe the third tyme p<ex>ro</ex>posed, some of <lb/>
+            them (As I thinke Doct<ex>er</ex> Mayern, Affirming that the bloud w<ex>i</ex>th the <lb/>
+            vapors Being violentlye thrust vpwards, filling the brayne, did cause <lb/>
+            by Maligne Acrimonye, and quantitye thereof, Ravenning &amp; Co<ex>n</ex>vulc<ex>i</ex>o<ex>n</ex>s <lb/>
+            w<ex>i</ex>th Accidents, allthough w<ex>i</ex>thout seeming payne, Because <ex>th</ex>e Spiretts <lb/>
+            were oppresed, did put his highnes in Emynent dau<ex>n</ex>ger, more the<ex>n</ex> <lb/>
+            the Benum<ex>m</ex>ings, the cause whereof was w<ex>i</ex>thin the ventrycles, As <lb/>
+            allsoe the hott, and Cholericque blood in the Membrans All w<ex>hi</ex>ch <lb/>
+            Considered &amp; <ex>tha</ex>t his highnes was yett of sufficient strength of body, <lb/>
+            his pulse allsoe able to endure, they said the opening of A vayne <lb/>
+            was in their Iudgment the onlye meanes lefte/
+         </p>
+         <p>
+            But the rest of the Cou<ex>n</ex>cell mislikinge this advise, did co<ex>n</ex>clude <lb/>
+            to double and Tryple, the Cordyalls, making A Revulsion fro<ex>m</ex> the <lb/>
+            head w<ex>i</ex>th A Glister, whose working was to small effecte, save that <lb/>
+            his highnes became more sencible thereafter/
+         </p>
+         <p>
+            In w<ex>hi</ex>ch tyme the Archbishopp of Canterburye hearing of the <lb/>
+            daunger, came vnto his highness in greate hast, where finding him <lb/>
+            in extreame daunger, he thought it nowe, more then highe tyme to <lb/>
+            to goe about another kinde of Cure, And therefore like A wise <lb/>
+            and skillfull Phisition, First trying the humor of the Patient, be= <lb break="no"/>
+            fore he would p<ex>ro</ex>ceed in the Cure, he addressed himselfe gentlye, <lb/>
+            and myldlye, to aske howe his highnes found himselfe since his <lb/>
+            dep<ex>ar</ex>ture, At whose replye, seeing everye thinge Amisse, he bega<ex>n</ex> <lb/>
+            againe, Further to feale his mynde, First pr<ex>e</ex>paring him his An= <lb break="no"/>
+            tidote against the feare of deathe, That the pr<ex>e</ex>paratio<ex>n</ex> therevnto <lb/>
+            meditac<ex>i</ex>on, and thinking thereof could nor would bringe death <ex>th</ex>e <lb/>
+            sooner, But <ex>th</ex>e contrarye, rather Arminge him soe much the more, <lb/>
+            against it, w<ex>i</ex>thall putting him in mynde of the excellencie, &amp; immorta=<lb break="no"/>
+            litie of the Soule, w<ex>i</ex>th the vnspeakeable Ioyes p<ex>re</ex>pared for gods <lb/>
+            <fw type="catch" place="bot-right">Children</fw>
+            <pb n="27r" facs="/bl/add_ms_22591/add_ms_22591_f027r/add_ms_22591_f027r.jpg"/>
+            Children, and of the basenes and miserye of this Earthe, w<ex>i</ex>th all <lb/>
+            the vayne, inconstant, Momentarye, and frayle pleasures thereof, <lb/>
+            in respecte of heavenlye Ioyes, w<ex>i</ex>th manye more excellent medita= <lb break="no"/>
+            c<ex>i</ex>ons, against the feare of deathe, hauing thus pr<ex>e</ex>pared him to heare, <lb/>
+            he went further, putting him in mynde, of the exceeding great dau<ex>n</ex>ger <lb/>
+            he was in, and that allthoughe he might recover, as he hoped he should <lb/>
+            yett he might allsoe dye, and that sure it was an inevitable, and irre= <lb break="no"/>
+            vocable necessitie, that all must once dye, late, or Soone, (deathe being <lb/>
+            the Rewarde of Sinne, he asked, yf it should soe fall out, whether or noe, <lb/>
+            he was well pleased to submit himselfe to the will of God, to w<ex>hi</ex>ch  hee <lb/>
+            answered yea w<ex>i</ex>th all my harte/
+         </p>
+         <p>
+            Then <ex>th</ex>e Arch Bishopp went on, demaunding questions of his <lb/>
+            Faithe, First of the Riligion and Church wherein he lived, w<ex>hi</ex>ch his <lb/>
+            highnes acknowledged to be the onlye true Churche, wherein onelye, <lb/>
+            and w<ex>i</ex>thout w<ex>hi</ex>ch, there was noe salvation/ Then of his Faithe in Chr<ex>ist </ex>
+                <lb/>
+            onelye, by him, and in him, w<ex>i</ex>thout anye merritts of his owne, being assured <lb/>
+            of the remission of all his Sinnes, w<ex>hi</ex>ch he p<ex>ro</ex>fessed he did, hopinge and <lb/>
+            trusting onelye therein; Then of the Resurrection of the Bodye, life eu<ex>er</ex> <lb/>
+            lastinge, and the Ioyes of heaven: All w<ex>hi</ex>ch he confessed he beleived <lb/>
+            hoping w<ex>i</ex>th all Saincts, to enioye the same/
+         </p>
+         <p>
+            This Conference w<ex>i</ex>th A greate deale more the Arch-Bishoppe <lb/>
+            had w<ex>i</ex>th him, to this purpose, w<ex>hi</ex>ch gave vnto him, and others neere (and <lb/>
+            maye allsoe give vnto you) Absolute Satisfacc<ex>i</ex>on of his Soules health, <lb/>
+            if there vnto his liffe be considered/ After w<ex>hi</ex>ch fearing he should too <lb/>
+            much disquiett him, w<ex>i</ex>th manye greate exhortacons, he tooke leave for <lb/>
+            that tyme/ This daye being the vth of Novemb<ex>e</ex>r, A daye of eu<ex>er</ex>lasting <lb/>
+            reme<ex>m</ex>brance, and thanks giveing for our deliverance fro<ex>m</ex> the powder <lb/>
+            Treason, was order given everye where, vnto all Churches to praye <lb/>
+            for his highnes, vntill when the great dau<ex>n</ex>ger was vnknowne to the <lb/>
+            Comons, w<ex>hi</ex>ch was effectuallye, as eu<ex>er</ex> vntil his deathe p<ex>er</ex>formed/
+         </p>
+         <p>
+            This daye and at sundrye other Tymes, since his confusio<ex>n</ex> of speech, <lb/>
+             he would manye tymes call vpo<ex>n</ex> S<ex>i</ex>r Davyd Murrey K<ex>nigh</ex>t the only man, <lb/>
+            in whom he had allwayes put cheiffe trust, by his name David, Davyd, <lb/>
+            David, whoe when he came vnto his highnes, demau<ex>n</ex>ding his pleasure, <lb/>
+            extremitye of paine and stupiffaction of Sences, Confounding his <lb/>
+            speeche, sighinge, he did replye, I would saye some what, but I can<ex>n</ex>ot <lb/>
+            vtter it, w<ex>h</ex>ich forme he still vsed, soe longe as he had anye p<ex>er</ex>fect sence <lb/>
+            or memorye/ This done, allsoe, but to late to asist the rest, came Doct<ex>er</ex> <lb/>
+            Palmer, and Doctor Gifford, Famous Phisic<ex>i</ex>ons for their honestie &amp; <lb/>
+            learning, whoe w<ex>i</ex>th the Former fower went all to A Consultac<ex>i</ex>on, <lb/>
+            what nowe remayned finallie to be done, wherein by some (as they <lb/>
+            saye) was againe p<ex>ro</ex>pounded the necessitie of bleeding, <ex>th</ex>e oportunitye <lb/>
+            whereof, by the Evacuac<ex>i</ex>on of his bellye, was nowe over overpased/
+         </p>
+         <p>
+            In the end the Doctors being before this dispairing of his Recou<ex>er</ex>y, <lb/>
+            did at last agree vpo<ex>n</ex> Diascordiu<ex>m</ex> as the onlye meanes nowe vnder <lb/>
+            God remayning, w<ex>hi</ex>ch temp<ex>er</ex>ed w<ex>i</ex>th Cooler Cordyalls was given him in <lb/>
+            the pr<ex>e</ex>sence of manye hono<ex>ra</ex>ble gent<ex>lemen</ex> about tenn A Clocke at night/ The <lb/>
+            op<ex>er</ex>ac<ex>i</ex>on where of was small, or none, neither all this while did nature <lb/>
+            of it selfe, incline towards sweatinge, and to force the same, they thought <lb/>
+            it to noe purpose/
+         </p>
+         <p>
+            This night was vnquiett as the rest, his Accidents remayning <lb/>
+            in the same, Nowe, and then speaking, but soe confusedlye, that hee <lb/>
+            could not be vnderstood, Among the rest, this night about mydnight, <lb/>
+            Nesmithe his Ma<ex>jesty</ex>s Chirurgio<ex>n</ex> sittinge on his Beddside, his highness                                                       <lb/>
+            <fw type="catch" place="bot-right">pulled</fw>
+            <pb n="27v" facs="/bl/add_ms_22591/add_ms_22591_f027v/add_ms_22591_f027v.jpg"/>
+            pulled him vnto him by the hayre, speaking vnto him some what, <lb/>
+            but soe confusedlye, by reason of the Ratlinge of his Throate, that <lb/>
+            he could not bee vnderstood, w<ex>hi</ex>ch his highnes p<ex>er</ex>ceaving, giving A <lb/>
+            most grevous sighe, as it were in Anger, turned him from him <lb/>
+            Thereafter (vnlesse he were vrged) neu<ex>er</ex> speaking vnto him or anye/
+         </p>
+         <p>
+            In this extreemitie S<ex>i</ex>r Davyd Murrey (whoe in this one deathe suf= <lb break="no"/>
+            fered manye) came vnto him intreating him, and asking, that if hee <lb/>
+            had anye thinge to saye, w<ex>hi</ex>ch troubled him, that he would betymes <lb/>
+            make knowne his mynde, But his Spirritts being overcome &amp; nature <lb/>
+            weake, he was not able to saye anye thinge, save that of all other <lb/>
+            Busines, he gave order for the Burning of A number of Letters, <lb/>
+            in A certeyne Cabynett in his Closett, w<ex>hi</ex>ch pe<ex>e</ex>sentlye aft<ex>er</ex> his death was done/
+         </p>
+         <p>
+            Not long after, as I thinke on Frydaye Morning, about three A <lb/>
+            Clocke, his Backebone, Shoulder, Armes, and Tounge, by reason of <lb/>
+            the Terrible vyolence of the Convulsions, disioyntinglye devided <lb/>
+            themselves, The Effects shewing that his retentyve power was gone, <lb/>
+            the Spirritts subdued, The seate of Reason overcome, and nature spe<ex>n</ex>t <lb/>
+            in w<ex>hi</ex>ch extremitye, Fainting, and Sounding, hee seemed twise or thrice <lb/>
+            to be quite gone, At w<ex>hi</ex>ch tyme, there arose A wonderfull greate <lb/>
+            shouting, weeping, and cryinge in the Chamber, Courte &amp; adioyning <lb/>
+            Streets, w<ex>hi</ex>ch was soe greate, togither w<ex>i</ex>th that els w<ex>hi</ex>ch they vsed, <ex>tha</ex>t <lb/>
+            they brought him againe/
+         </p>
+         <p>
+            This Crye was soe greate, that all those in the streets thought <lb/>
+            he had bine dead, wherevpo<ex>n</ex> it went for the most parte currante <lb/>
+            in the Cittye, and Cou<ex>n</ex>trye, that he was gone, I am not able to me<ex>n</ex>tio<ex>n</ex>, <lb/>
+            the vnspeakable sorrowe, w<ex>hi</ex>ch everye where was for this woefull <lb/>
+            newes, cheifelye in that dolefull house, you maye ymagine no thought <lb/>
+            cann thinke the greatnes thereof, noe vunderstanding conceyve <ex>th</ex>e <lb/>
+            same, this little w<ex>hi</ex>ch I haue said, overlading my weaknes/
+         </p>
+         <p>
+            Thus given over of all, into the hands of God, did his highnes <lb/>
+            lye in extreeme payne, during w<ex>hi</ex>ch still nowe and then, (tyll two or <lb/>
+            three houres before his deathe) looking vpp, and speaking, or indea= <lb break="no"/>
+            voring to speake, w<ex>hi</ex>ch for confusio<ex>n</ex> and extremitye of payne (being <lb/>
+            soe neere gone) could not be vnderstood/ All the worlde in this <lb/>
+            dispayre were readye to bringe cordiall waters, diaphoreticke, <lb/>
+            and quintissensiall Spiritts, to be given to him, Amongst which <lb/>
+            one in the afternoone was administred, w<ex>hi</ex>ch sett that litle nature <lb/>
+            remayning on worke, Forcing A Small sweate, w<ex>hi</ex>ch to late was <lb/>
+            the First he had/ S<ex>i</ex>r Walter Raleigh allsoe did send anoth<ex>e</ex>r fro<ex>m</ex> <lb/>
+            the Tower, w<ex>hi</ex>ch whether or noe to give him they did deliberate a while <lb/>
+            After the operacion of the First his highnes rested quietlye A <lb/>
+            litle while, pr<ex>e</ex>sentlye after, Falling into his former extremityes, <lb/>
+            wherevpo<ex>n</ex>, (as the last desperate remedye) w<ex>i</ex>th the leave &amp; advise <lb/>
+            of the Lords of the Cou<ex>n</ex>cell there pr<ex>e</ex>sent, the Cordiall sent by Sir <lb/>
+            Walter Raleigh, after it had bine tasted, and p<ex>ro</ex>ved was given <lb/>
+            vnto him; But in vayne, save that forceinge that sparke of liffe <lb/>
+            <ex>tha</ex>t remayned, it brought him againe into A sweate, After w<ex>hi</ex>ch <lb/>
+            as before he had some rest for A litle while, But noe remedy, <lb/>
+            deathe would needs be conqueror: In vayne did the strive a= <lb break="no"/>
+            gainst the streame, for he shortlye after became wo<ex>n</ex>derfully <lb/>
+            ill againe, sight, and sence faylinge, As allsoe all the infallible  <lb/>
+            <fw type="catch" place="bot-right">Signes</fw>
+            <pb n="28r" facs="/bl/add_ms_22591/add_ms_22591_f028r/add_ms_22591_f028r.jpg"/>
+            Signes of death approaching
+         </p>
+         <p>
+            In w<ex>hi</ex>ch extreemitie the Arch-Bishoppe of Ca<ex>n</ex>terburye being there <lb/>
+            pr<ex>e</ex>sent, whoe seeing it was the tyme of tymes, before the last gaspe, to <lb/>
+            minister some comforte to his highnes, yf as yett there were anye sence <lb/>
+            remayning, came vnto him, First speaking alowde, putting him in mynde of <lb/>
+            all things he had delivered him the day before in his p<ex>er</ex>fect sence, calling <lb/>
+            allowde in his Eare to remember Christ Iesus; To beleive, hope, and trust <lb/>
+            onlye in him, w<ex>i</ex>th assured confidence of mercye, to lift vpp his harte <lb/>
+            and pr<ex>e</ex>pare to meet the Lord Iesus, w<ex>i</ex>th manye other devine exhortat<ex>i</ex>ons, <lb/>
+            Thereafter calling more lowde then ever thrice togither, in his Eare, S<ex>i</ex>r <lb/>
+            heare you mee, heare you mee, heare you mee, yf you heare mee in cer= <lb break="no"/>
+            tayne signe of yo<ex>ur</ex> Faithe, and hope of the blessed resurrectio<ex>n</ex>, give <lb/>
+            vs for our comforte A signe, by lifting vpp of yo<ex>ur</ex> handes, w<ex>hi</ex>ch hee <lb/>
+            did, lifting vpp both his handes togither; Agayne he desired him, yett <lb/>
+            to give another signe, by stirring of his Eyes, w<ex>hi</ex>ch haueing done they <lb/>
+            lett him alone, For the Arch-Bishoppe had w<ex>i</ex>th streames of Teares <lb/>
+            powred out at his beddesyde, a most exceeding powerfull passionate <lb/>
+            prayer in the howse: all this while allsoe, Fro<ex>m</ex> three A clocke in the <lb/>
+            morning vntill night, there was continuall prayer in <ex>th</ex>e house, and in <lb/>
+            everye place where the daunger was knowne, by w<ex>hi</ex>ch his tyme growing <lb/>
+            neerer and neerer, and he weaker and weaker, Thus did he lye pa= <lb break="no"/>
+            tientlye striving betwixt deathe and liffe, vnavoydeable necessitie, and <lb/>
+            gods will, forcinge patience, And againe his invinceible courage, and <lb/>
+            magnaminitie (loth to be overcome) shewing some indignation, &amp; co<ex>n</ex>tempt <lb/>
+            of deathe; yea death itselfe for all his Crueltie, stood a longe while <lb/>
+            hoveringe, in doubt what to doe, soe did his highnes yong yeares, his <lb/>
+            Triumphes at hand, the Teares, and exceeding sorrowe of Fath<ex>e</ex>r Moth<ex>e</ex>r <lb/>
+            Brother, Sister, The howleing Cryes of his Servantes, and of the whole <lb/>
+            Land, whoe said hir losse aboue all was most vnspeakeable) move his <lb/>
+            hard harte to pittie, But A greater Crye before this havinge out <lb/>
+            cryed these Cryes, even the Crye of our Sinnes; There was no remedy <lb/>
+            For death allthoughe vnwilling, not being able to resist the fore passed <lb/>
+            decree, must needes stryke the cruell stroke/ Manye tymes did he fro<ex>m</ex> <lb/>
+            that morning vntill night, offer to sho<add place="above">o</add>tte, and thurst in his darte, a little <lb/>
+            yett pr<ex>e</ex>sentlye pulling it backe againe, as it were of purpose delaying <lb/>
+            the Tyme, expecting some mercifull message fro<ex>m</ex> heaven, vntill at last, <lb/>
+            the Cloudie night bewraying the Irrevocable doome, by natures decay, <lb/>
+            the excesse of paine, having takeing awaye <ex>th</ex>e sence thereof, of meere pitty, <lb/>
+            that thereby he might opon vnto him, the doore of heaven for his passag <lb/>
+            vnto Glorye, being loathe that <ex>th</ex>e Angells, whoe had long attended to <lb/>
+            convaye his Soule vnto heaven, should make anye longer staye, hee <lb/>
+            thrust his darte quite throughe/
+         </p>
+         <p>
+            After w<ex>hi</ex>ch his highnes, quiettlye, gentlye, and Patientlye/ halfe <lb/>
+            A quarter, or thereabouts before eight A clocke at night, yeilded vp <lb/>
+            his Spirritt vnto his y<ex>m</ex>mortall maker, Savior, and restorer, beinge <lb/>
+            Attended vnto heaven, w<ex>i</ex>th as manye prayers, Teares, and strong <lb/>
+            Cryes, as ever Soule was, on Frydaye the vith of Novemb<ex>e</ex>r 1612
+         </p>
+         <p>
+            The Corpes shortlye after as the Custome is was layd alonge <lb/>
+            vpon the Table, on the Floore, being the fayrest, cleerest, and best <lb/>
+            p<ex>ro</ex>portioned, w<ex>i</ex>thout anye kinde of Spott, or Blemish as eu<ex>er</ex> was seene/
+         </p>
+         <p>
+            On the morrowe after came the Lords of the Councell by appoy<ex>n</ex>t<lb break="no"/>
+            m<ex>en</ex>t from his Ma<ex>jes</ex>tye, to give order for the opening of his Bodye, &amp;c <lb/>
+            w<ex>hi</ex>ch was the same night effected, about 5: of the clocke in <ex>th</ex>e evening <lb/>
+            <fw type="catch" place="bot-right">in</fw>
+            <pb n="28v" facs="/bl/add_ms_22591/add_ms_22591_f028v/add_ms_22591_f028v.jpg"/>
+            in pr<ex>e</ex>sence of the Phisit<ex>i</ex>ons and Chirugeons, whoe assisted the Cure <lb/>
+            Togither w<ex>i</ex>th the Phision of the Prince Pallatine, w<ex>i</ex>th many oth<ex>e</ex>r knightes <lb/>
+            and Gentlemen, in <ex>th</ex>e Chamber where he dyed, by the Chirugeons of <lb/>
+            his Ma<ex>jes</ex>tye, &amp; his late highnes/ The Relation whereof, As it was sent vnto <lb/>
+            his Ma<ex>jes</ex>tye vnder all their handes, is as Followeth
+         </p>
+         <p>
+            After <ex>th</ex>e opening of the most Illustrious Prince, wee observed these <lb/>
+            thinges in the veiwe
+         </p>
+         <p>
+            <add place="LM">(1)</add>
+            First that his liver was more Pale, then it should bee, &amp; in diu<ex>er</ex>s places, <lb/>
+            wanne, and like lead, &amp; <ex>th</ex>e Gall, was w<ex>i</ex>thout Gall, &amp; Choller, &amp; full of winde/
+         </p>
+         <p>
+            Secondlye his Spleene was in diu<ex>er</ex>s places vn<ex>n</ex>aturallye Blacke/
+         </p>
+         <p>
+            His Stomake was w<ex>i</ex>thout anye mann<ex>er</ex> of Fault or imp<ex>er</ex>fection
+         </p>
+         <p>
+            His Midriffe, was in manye places Blackish
+         </p>
+         <p>
+            Fiftlye his Lunges were blacke, and in manye places spotted, and <lb/>
+            full of Muche Corruption/
+         </p>
+         <p>
+            Sixtlye he had the vaynes of the hinder p<ex>ar</ex>te of his head too full of <lb/>
+            Blood, and the Passages, &amp; hollow places of his Braine full of muche <lb/>
+            cleere water
+         </p>
+         <p>
+            The truthe of this Relac<ex>i</ex>on, wee make good, by the Subscription of o<ex>u</ex>r <lb/>
+            Names, <hi rend="italic">November 8: Anno 1612</hi>
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">Mr Mayern, Henry Atkins Jo: Hamo<ex>n</ex>d <lb/>
+            Rich: Palmer, John Gifford, Ri: Butler</hi>
+         </p>
+         <p>
+            The tyme of the Funerall nowe approachinge, On thirsdaye the third <lb/>
+            of December, the Coffine was removed from the Chamber where it <lb/>
+            Stoode all this while, vnto the Privye Chamber, there being watched <lb/>
+            for that night, On the Morrowe it was removed fro<ex>m</ex> thence vnto the <lb/>
+            pr<ex>e</ex>sence Chamber, where it remayned all that nighte, vntill <ex>th</ex>e nexte <lb/>
+            daye being Saterdaye at three A Clocke in the Afternoone/
+         </p>
+         <p>
+            All w<ex>hi</ex>ch Tyme his Crowne, and Capp of State were sett vppo<ex>n</ex> A <lb/>
+            Hiushon at the End of the Coffine: After w<ex>hi</ex>ch the Herauldes marchinge <lb/>
+            before the same, the Coffyn, was removed by the Gentlemen of his pr<ex>i</ex>vye <lb/>
+            Chamber vnto the greate Chamber, where his Guarde attended, in w<ex>hi</ex>ch <lb/>
+            it was sett downe for the space of A quarter of an houre, there after <lb/>
+            being lifted againe, by the said gent<ex>lemen</ex>, it was brought down stayres, <lb/>
+            towards the Chappell, where againe for A prittie while, it was sett <lb/>
+            downe in the Courte, where being lifted againe, The Gentlemen of <lb/>
+            his ma<ex>jes</ex>t<ex>ies</ex> Chappell, singing mornefull dittyes before them, it was <del rend="strikethrough">br</del> <lb/>
+            brought into the Chappell, and there placed vnder A Canopye sett <lb/>
+            w<ex>i</ex>th greate Armes of the Unyon at full, Chayned with divers other <lb/>
+            Scutchions of severall Armes, there to remayne vntill <ex>th</ex>e funerall <lb/>
+            daye/
+         </p>
+         <p>
+            This Sundaye at Night before the Funerall; his Repr<ex>e</ex>sentac<ex>i</ex>on <lb/>
+            was brought (made in soe shorte warning as like him, as possible they <lb/>
+            could, and apparrelled w<ex>i</ex>th Clothes, having his Creatio<ex>n</ex> Roabes <lb/>
+            about the same, his Capp, and Crowne vpo<ex>n</ex> his heaid; his Garter &amp; <lb/>
+            Collor w<ex>i</ex>th a George about his Necke, his Goulden staffe in his <lb/>
+            right hand, lying crosse A little, Breifflye everye thinge as hee <lb/>
+            was apparrelled at his Creation, w<ex>hi</ex>ch being done it was layd <lb/>
+            on the Backe, on the Coffyn, and fast bound to the same, The head <lb/>
+            thereof being Supported by two Huishions, iust as it was drawe<ex>n</ex> <lb/>
+            alonge the Streets in the Funerall Charriott, drawne by eighte <lb/>
+            blacke horses, decked w<ex>i</ex>th his Severall Scutcheons, &amp; Plumes/
+         </p>
+         <p rend="align-right">
+            Finis
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f025r/add_ms_22591_f025r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f025v/add_ms_22591_f025v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f026r/add_ms_22591_f026r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f026v/add_ms_22591_f026v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f027r/add_ms_22591_f027r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f027v/add_ms_22591_f027v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f028r/add_ms_22591_f028r.jpg"/>
+   </facsimile>
+</TEI>

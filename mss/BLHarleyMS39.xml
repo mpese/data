@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>British Library Harley MS 39</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>47x-48x</locus>
+                  <title>Speech at his Death</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">
+                  Sir Walter Raleigh
+               </persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighSpeechDeath1618.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>248r-258r</locus>
+                  <title>Speech at First Taking His Seat in Chancery</title>
+                        <author>
+                    <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+                </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechChancery1617v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>275r-8v, 280r, 283r, 285v-286v, 295r-296v, 297v-298v, 306r-v, 318v-322v</locus>
+                  <title>Arraignment of Sir Walter Raleigh</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ArraignmentSirWalterRaleigh1603.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>Interspersed with Bacon speeches</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>279r-280r</locus>
+                  <title>Speech to Sir John Denham when he was called to be one of the Barons of the Exchequer</title>
+                        <author>
+               <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechDenham1617v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>280v-281v</locus>
+                  <title>Speech to Serjeant Hutton, when he was called to be one of the Judges of the Common Pleas</title>
+                        <author>
+               <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechHutton.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>282r-283r</locus>
+                  <title>Speech to Sir William Jones upon his being called to be Lord Chief Justice of Ireland</title>
+                        <author>
+               <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechJones.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>283v-285v</locus>
+                  <title>Speech in the Star Chamber, Last Day of the Trinity Term</title>
+                        <author>
+                    <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+                </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechTrinityTerm1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>287x-288v</locus>
+                  <title>Speech at the Arraignment of Robert Crichton, Lord Sanquhar</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSpeechSanquhar1612.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>291r-295r</locus>
+                  <title>Speech at the Creation of Sir Henry Mountagu, with Mountagu’s Answer</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0067">Sir Henry Mountagu</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0114">Thomas Egerton, Lord Chancellor Ellesmere</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EgertonMountaguSpeeches1616.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>297r-v</locus>
+                  <title>Resignation Letter (A)</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0114">Thomas Egerton, Lord Ellesmere</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EgertonResignationLetterA.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="11">
+                  <locus>299r-305v</locus>
+                  <title>Speech at First Taking His Seat in Chancery</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0021">John Williams, Bishop of Lincoln</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WilliamsSpeechSeatChancery1621.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="12">
+                  <locus>307r-318r</locus>
+                  <title>A Discourse of Knights, Knight of the Bath, their Oath and Duty</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/DiscourseKnights.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="13">
+                  <locus>331r-350r</locus>
+                  <title>A Breviary of the History of England from William I entitled the Conqueror</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0152">Samuel Daniel</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/DanielBreviaryHistoryEngland.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin>Here attributed to Raleigh</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="14">
+                  <locus>351r-v</locus>
+                  <title>Letter to Captain Alley</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0201">Captain Charles Parker</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ParkerLetterAlley1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="15">
+                  <locus>351v-352v</locus>
+                  <title>Letter to Secretary Sir Ralph Winwood</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterWinwoodA1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="16">
+                  <locus>353r-353v</locus>
+                  <title>Letter to James I Before his Trial</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">
+                  Sir Walter Raleigh
+               </persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterJames1603.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="17">
+                  <locus>353v-354v</locus>
+                  <title>Letter to James after his Condemnation</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">
+                  Sir Walter Raleigh
+               </persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterCondemnation1604.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="18">
+                  <locus>355r-358v</locus>
+                  <title>Second Letter to Secretary Sir Ralph Winwood</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterWinwoodB1618.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="19">
+                  <locus>359r-v</locus>
+                  <title>Letter to Queen Anne</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0">Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterQueenAnne.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="20">
+                  <locus>359v-360r</locus>
+                  <title>Letter to James I on His Return from Guiana</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterJamesReturnGuiana1618.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="21">
+                  <locus>360r-v</locus>
+                  <title>Hearing of Sir Walter Raleigh's Case in the King's Bench</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighHearingKingsBench1618.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="22">
+                  <locus>369r-370v</locus>
+                  <title>Letter to Nottingham, Suffolk, Devonshire and Cecil</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterNottinghamEtAl1603.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="23">
+                  <locus>371r-372r</locus>
+                  <title>Letter to His Wife from Guiana</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RaleighLetterHisWifeGuiana1617.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="24">
+                  <locus>375r-382r</locus>
+                  <title>The Case of Sir John Eliot</title>
+                        <author>
+               <persName corresp="../people/people.xml#0007">Charles I</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0047">Denzil Holles</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0046">Sir Peter Heyman</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0045">Sir Miles Hobart</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#0044">Sir John Eliot</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/EliotCase1629.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="25">
+                  <locus>410r-415r</locus>
+                  <title>Before the Lords, For Refusing to Pay the Forced Loan</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0147">William Coryton</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CorytonBeforeLords1627.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="26">
+                  <locus>416r-431v</locus>
+                  <title>A Discourse</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0162">Sir Daniel Dunn</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/DunnDiscourse1613.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

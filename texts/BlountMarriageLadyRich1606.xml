@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Defense of his Marriage with Lady Penelope Rich</title>
+            <author>
+               <persName corresp="../people/people.xml#P0118">Charles Blount, 1st Earl of Devonshire</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_73087">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73087</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS73087.xml">British Library, Additional MS 73087, ff. 82r–105r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_943.xml">Lambeth Palace Library,  MS 943, ff. 47–53</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LSA_MS_258.xml">London Society of Antiquaries,  MS 258, ff. 1r–21v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_20.xml">Senate House, University of London,  MS 20, ff. 84v–107r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1606">1606?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <handNotes>
+            <handNote xml:id="h1">Main hand.</handNote>
+            <handNote xml:id="h2">Provides emendations, most probably pre-1642. In places, it notes not just individual words but incorporates missing phrases which are presumably drawn from another version of the text.</handNote>
+            <handNote xml:id="h3">Later hand, pencil.</handNote>
+            <handNote xml:id="h4">Another contemporary hand, possibly neater version of #h2.</handNote>
+         </handNotes>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-10" who="#RB" status="draft"/>
+            <change when="2018-03-05" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="56v" facs="/bl/add_ms_11600/add_ms_11600_f056v/add_ms_11600_f056v.jpg"/>
+         <head rend="align-centre">
+            <hi rend="italic">A discourse written by the Earle of Devonsheire <lb/>
+            in defence of <del rend="strikethrough">
+                        <unclear/>
+                    </del>his marriage w<ex>i</ex>th the Ladie Riche </hi>
+         </head>
+         <p>
+            As God in him selfe and of him selfe is infinite in his beinge soe is hee in  <lb/>
+            his attribut<ex>es</ex> his wisdome power and his goodnes. out of w<ex>hi</ex>ch goodnes (the <lb/>
+            nature whereof <add place="above" hand="#h2">is</add> to communicate it selfe w<ex>i</ex>th others) as it pleased <lb/>
+            him by his wisdome and power to create the world for man &amp; <lb/>
+            both for his glorie soe was itt answerable to the forme, to  <lb/>
+            directe and make his owne works to the two ends for w<ex>hi</ex>ch it was <lb/>
+            created. wherefore havinge created man w<ex>i</ex>th a purpose in him <lb/>
+            &amp; in his posteritie to be served as in his wisdome he sawe that it <lb/>
+            was not good for that end that man should bee alone, soe did <lb/>
+            he create him an assistant or helper like vnto him selfe w<ex>hi</ex>ch <lb/>
+            was the woman, And to them boeth hee prescribed a Rule howe <lb/>
+            in that vocation to the w<ex>hi</ex>ch hee had called them <add place="above" hand="#h2">they</add>  should best <lb/>
+            serve him, The lawe of God though in it selfe it be eternall &amp; <lb/>
+            like vnto him selfe in puritie who is infinitely pure, yet what= <lb break="no"/>
+            soeu<ex>er</ex> doeth want doth in some sort worke accordinge to the  <lb/>
+            Capacity of that w<del rend="strikethrough">
+                    <ex>hi</ex>ch</del>herein it doth want and therefore where <lb/>
+            wee are to consider what is lawfull wee are n ot to search <lb/>
+            into the absolute will of God w<ex>hi</ex>ch is infinite and infinitely pure <lb/>
+            but to be directed by so much of his will as hee hath pleased to <lb/>
+            reveale vnto vs the w<ex>hi</ex>ch hee hath sufficiently in his Word: <lb/>
+            and in those impressions of nature w<ex>hi</ex>ch although by <lb/>
+            o<ex>u</ex>r fall they are blotted yett are they not vtterly defaced <lb/>
+            in vs w<ex>hi</ex>ch impression although they bee not sufficient<del rend="strikethrough">ly</del> <lb/>
+            to lead vs to one true god, yet in them is there nothinge <lb/>
+            contrary to the word of god, <del rend="strikethrough">w<ex>hi</ex>ch</del> <add place="above" hand="#h2">not</add> in the word of god is there <lb/>
+            no thinge contrary to them. Soe as to be resolued of the <lb/>
+            nature of the bond of marriage and of the mutuall  <lb/>
+            duties incident thereunto because it is bothe a sacred <lb/>
+            and civill contract, wee must haue recourse especially <lb/>
+            to the word of God or the lawe of nature and to so much of <lb/>
+             the lawe of the land wherein wee liue as is not <lb/>
+            contrary to the word of God or the lawe of nature. <lb/>
+            For human lawes in thinges that are otherwaies  <lb/>
+            indifferent, doe impose dutie in conscience to <del rend="strikethrough">obey</del> <add place="above" hand="#h1">observe</add> the <lb/>
+            lawe, but yf they bee contrary to the Word of God
+            <pb n="57r" facs="/bl/add_ms_11600/add_ms_11600_f057r/add_ms_11600_f057r.jpg"/>
+            or lawe of nature are bounde w<ex>i</ex>th patience to suffer the penaltye, but <lb/>
+            not in conscience to obey the lawe, But in case of marriage att the <lb/>
+            least concerninge the lawfullnes thereof it seemeth heere in England <lb/>
+            that <hi rend="italic">Ius Poli</hi> and <hi rend="italic">Ius fori</hi> are allone. For the by the statute in the  <lb/>
+            <add place="LM" hand="#h2">32: H. 8:</add> 32 yeare of H 8. w<ex>hi</ex>ch remaineth still in force all marriages are <lb/>
+            pronounced lawfull that are contracted betweene lawfull p<ex>er</ex>sons <lb/>
+            and by the same act all p<ex>er</ex>sons are pronounced lawfull that be not p<ex>ro</ex>hibited  <lb/>
+            by the word of God to marry notw<ex>i</ex>thstandinge any Statute or Acte <lb/>
+            to the contrary. In the question therefore whether it be lawfull  <lb/>
+            for two betweene whome a marriage was lawfully contracted and <lb/>
+            consum<ex>m</ex>ated after a sentence of divorce to marry w<ex>i</ex>th another bothe <lb/>
+            p<ex>ar</ex>ties betweene whome the first marriage  was beinge then aliue, It <lb/>
+            is onely necessarie to see whether by the word of God it bee prohibited  <lb/>
+            to marry as this case standeth, for otherwaies the marriage is <lb/>
+            lawfull. In w<ex>hi</ex>ch considerac<ex>i</ex>on there is nothinge to bee alledged but the <lb/>
+            word of God, although the lawes of nature Nations and the iudgement  <lb/>
+            of the learned men may bee considered towards the interpretac<ex>i</ex>on<del rend="strikethrough">n</del>  <lb/>
+            of soe much of the word of God as shalbe produced to the purpose; To <lb/>
+            determine this matter itt is first fitt to bee handled whether a marriage <lb/>
+            lawfully contracted &amp; consumated may be by any meanes vtterly <lb/>
+            dissolued and the bond vntied duringe the lyves of boeth the p<ex>ar</ex>ties w<ex>hi</ex>ch <lb/>
+            were first married, Nowe since heerein wee are to be resolued by the word  <lb/>
+            of God. <hi rend="italic">Christ</hi> whoe is the lyvinge word and the word of lyfe doethe  <lb/>
+            direct vs where wee must begin and that is at the begining And first <lb/>
+            instituc<ex>i</ex>on of marriage for in question of this matter hee doth call <lb/>
+            the <hi rend="italic">Pharises</hi> from the present practice and opinion to the considerac<ex>i</ex>on  <lb/>
+            of the first instituc<ex>i</ex>on of marriage where hee saith But from the  <lb/>
+            begininge itt was <add place="above" hand="#h2">not</add> soe. / . The first instituc<ex>i</ex>on was by God in parradize <lb/>
+            and betweene the first man and the first woman in the state of p<ex>er</ex>fecc<ex>i</ex>on <lb/>
+            The finall end was because it was not good for man to bee alone that <lb/>
+            hee might haue a helpe fitt for him, The efficient cause was the <lb/>
+            consent of bothe p<ex>ar</ex>ties wherein it is sayd when God had made <lb/>
+            the woman and brought her to the man, hee sayd this now is bone of my <lb/>
+            bones and <hi rend="italic">flesh</hi> of my <hi rend="italic">flesh</hi>. The matter and essence of marriage <lb/>
+            is the fast adheringe w<ex>hi</ex>ch is expressed in theise words, Therefore shall <lb/>
+            man leaue his father and his mother and shall cleaue vnto his wife <lb/>
+            and they shalbe one flesh / The rule of marriage out of this instituc<ex>i</ex>on <lb/>
+            is concluded by the wordes and wisdome of God to be this <hi rend="italic">let</hi> <lb/>
+            noe man therefore put asunder whome God that <hi rend="italic">coupled</hi> together / .
+         </p>
+         <pb n="57v" facs="/bl/add_ms_11600/add_ms_11600_f057v/add_ms_11600_f057v.jpg"/>
+         <p>
+            <add hand="#h2">iure</add> There is noe dowbt but the contract <hi rend="italic">De jure</hi> ought neu<ex>er</ex> to be broken <lb/>
+            and that there offence is haynous and not to bee excused that doe <lb/>
+            breake itt But the question is whether de facto it may bee <lb/>
+            broken because the rule is, let noe man putt a sunder whome <lb/>
+            god hath coupled together wee may as well conclude that noe  <lb/>
+            man may kill because the rule is thou shalt not kill In <del rend="strikethrough">
+                    <ex/>
+                </del> <lb/>
+            w<ex>hi</ex>ch <add place="above" hand="#h2">case</add> the magistrate may both kill an offender and iustly kill <lb/>
+            him, yet is it not to be said that hee but Iustice killeth him so <lb/>
+            the offender is guiltie of his owne death and not the magistrate  <lb/>
+            Soe if two that are married shall contrary to the ends and <lb/>
+            causes of marriage insteed of Comfortable helpes become <lb/>
+            continuall torments vnto each other insteed of mutuall consent <lb/>
+            doe lyue in continuall vnconscionable dissention and insteed  <lb/>
+            of beinge one flesh <add place="above" hand="#h2">by abandoning themselues unto others do become  <lb/>
+            one Flesh</add> w<ex>i</ex>th another I see nothinge left like vnto <lb/>
+            a marriage nor of the substance of marriage nor any danger, <lb/>
+            by any thinge that I can see in that first instituc<ex>i</ex>on for the <lb/>
+            Magistrate to pronounce that to bee broken w<ex>hi</ex>ch by the faulte <lb/>
+            of the offendor is indeed broken  /. And as God ruleth all <lb/>
+            sutable to his infinite purenes yett in those rules doth hee <lb/>
+            allowe some exceptions agreable to the weakenes of o<ex>u</ex>r nature <lb/>
+            for as the rule is <hi rend="italic">Let no man put asunder whom god hath <lb/>
+            coupled together</hi>. Soe wee muste needs confess that in som<ex>m</ex>e <lb/>
+            cases this rule doeth beare exceptions. For God by <hi rend="italic">Malachy</hi> <lb/>
+            doeth comaund <hi rend="italic">Yf thow hate thy wife put her away</hi> And by <lb/>
+            <hi rend="italic">Moyses</hi> where the Children of God are comaunded that yf when  <lb/>
+            they goe to warr they take a bewtifull woman whome they <lb/>
+            desire that then hee shall take her and marrie her And yf <lb/>
+            after hee haue noe favor unto her then hee might lett her <lb/>
+            goe whether shee would only hee might not sell her. And  <lb/>
+            in <hi rend="italic">Deu: 34</hi> when a man married a wife yf soe hee had <lb/>
+            found no favor in her  eies because hee had espied some  <lb/>
+            filthines in her hee was willed to write her a divorse and <lb/>
+            gyve itt unto her and soe send her owt of his howse w<ex>hi</ex>ch wordes <lb/>
+            <hi rend="italic">in the hebrewe</hi> expressinge divorse the learned in that tonge  <lb/>
+            doe interprett to imply a cuttinge a sunder and dissoluc<ex>i</ex>on <lb/>
+            And nothinge is more plainly by this place and diuers others <lb/>
+            in the Scriptures then that the diuorse then allowed and practized  <lb/>
+            <fw type="catch" place="bot-right">was</fw>
+            <pb n="58r" facs="/bl/add_ms_11600/add_ms_11600_f058r/add_ms_11600_f058r.jpg"/>
+            was an vtter dissoluc<ex>i</ex>on of the bonds of marriage in such sorte that both p<ex>ar</ex>ties <lb/>
+            did and might marry w<ex>i</ex>th any other And that the <hi rend="italic">Iewes</hi> did knowe and <lb/>
+            acknowledge  noe other kinde of divorse but this.  And this lawe was especially <lb/>
+            made in favor of the p<ex>ar</ex>tie wronged in the contract of marriage That yf <lb/>
+            either of them owt of the hardnes of theire harts did breake the obligac<ex>i</ex>on <lb/>
+            wherein they were bound (the w<ex>hi</ex>ch to doe was neu<ex>er</ex> lawfull) were tollerated <lb/>
+            that then it should bee <del rend="strikethrough">tollerated</del> lawfull for them to bee seperated that the p<ex>ar</ex>tie <lb/>
+            innocent  being defrauded of the true end wherefore they were contracted, <lb/>
+            the marriage should haue againe the proper due of theire owne bodies <lb/>
+            w<ex>hi</ex>ch they had conferred vpon another For theise considerac<ex>i</ex>ons. and <lb/>
+            that it should bee free for them to contract w<ex>i</ex>th any other by a better choise <lb/>
+            to make reparac<ex>i</ex>on of their first misfortune / And somuch was done <lb/>
+            in favor of the innocent party that yf out of the hardnes of his hart his <lb/>
+            minde were soe alienated though w<ex>i</ex>thout iust cause from his former <lb/>
+            choise that hee was allowed to lyue w<ex>i</ex>thout her least hee should bee <lb/>
+            tempted to seeke <del rend="strikethrough">dangerous and </del>more dangerous and wicked meanes to bee <lb/>
+            ridd of her, And it was p<ex>er</ex>mitted vnto him to become sui Iuris by restoringe <lb/>
+            vnto her the interest that shee had gyven him in her selfe and by marrying <lb/>
+            any other more agreable to his harte to haue better meanes to serue god <lb/>
+            in peace w<ex>hi</ex>ch before in warr and dissention hee could neuer in that vocac<ex>i</ex>on <lb/>
+            doe / Nowe for the Lawe of nature the best expositors of that lawe <lb/>
+            amongest them whoe had only the light of nature to direct them doe <lb/>
+            thus de<del rend="strikethrough">ce</del>
+                <add place="above">r</add>yue the begininge of marriage. That man beeing a reasonable  <lb/>
+            and sociable creature desiringe his owne mortall beinge and well  <lb/>
+            being coveteth to preserue his beinge in his posterity w<ex>hi</ex>ch hee could not <lb/>
+            doe in him selfe; And the well beinge in the society of others w<ex>hi</ex>ch hee <lb/>
+            could not <add place="above" hand="#h2">dooe</add>  alone so that as hee could not gyve beinge to his posterity <lb/>
+            w<ex>i</ex>thout a woman so could hee neither gyve well being unto them <lb/>
+            w<ex>i</ex>thout carefull and good education yf eu<ex>er</ex>y  man went promiscuously <lb/>
+            to eu<ex>er</ex>y woman no man should knowe his owne children &amp; consequently <lb/>
+            noe care of theire education wherein consisteth there well beinge <lb/>
+            Wherefore marriage was contracted betweene one man and one <lb/>
+            woman that they two beinge one should preserue each others being <lb/>
+            &amp; well beinge boeth in theire owne mutuall society and in theire <lb/>
+            posteritie /. Nowe yf there happen such a marriage where there <lb/>
+            is noe hope of posterity nor mutuall comfort or society , but <lb/>
+            the cleane contrary what is there in the Lawe of nature that <lb/>
+            p<ex>ro</ex>hibiteh to dissolue this marriage especially yf it bee done by <lb/>
+            <fw type="catch" place="bot-right">theire</fw>
+            <pb n="58v" facs="/bl/add_ms_11600/add_ms_11600_f058v/add_ms_11600_f058v.jpg"/>
+            theire consents by whose consents it was contracted. For the Civill lawe <lb/>
+            w<ex>hi</ex>ch in the generallity appereth neerest to the Lawe of nature  <lb/>
+            saith that <hi rend="italic">nihil est tam naturale quan co genere quod que  <lb/>
+            dissoluere quo collegatu<ex>m</ex> est</hi> and all lawes saith that<hi rend="italic"> consensus <lb/>
+            facit matrimoniu<ex>m</ex>. </hi>And if it be said that the consent of two p<ex>ar</ex>ties <lb/>
+            should not preiudice the interest of a third and that god hath an <lb/>
+            interest in this bond beinge a witnes thereunto it may bee <lb/>
+            aunswered that all honest promises made by men haue eu<ex>er</ex> <lb/>
+            God for their witnes and yet are there many that by consent <lb/>
+            may be dissolued w<ex>i</ex>thout offence to god And although this bee <lb/>
+            a promise w<ex>hi</ex>ch more then  most contracts doe binde vs carefully <lb/>
+            to obserue itt yett this is but a contract and <hi rend="italic">magis et minus <lb/>
+            non diuersificant speciem  </hi>I doe not conclude out of all <lb/>
+            this that out of naturall conveniency it was Comely that <lb/>
+            all p<ex>er</ex>sons contracted by this sacred and cyvill bond should <lb/>
+            vpon any cause or mutuall consent make sep<ex>er</ex>ac<ex>i</ex>on of themselues <lb/>
+            w<ex>i</ex>thout the cognizaunce of the magistrate because many things <lb/>
+            that in them selues are lawfull to be done are vnlawfull till <lb/>
+            they bee iudged fitt to bee done and yf it should be done only <lb/>
+            by the iudgem<ex>en</ex>t of the parties then should they bothe be iudges <lb/>
+            and parties in theire owne cause w<ex>hi</ex>ch were vniuste and vnnaturall <lb/>
+            But as I haue herd some of the Fathers of o<ex>u</ex>r lawe saye that yf <lb/>
+            the kinge doe graunte vnder his greate Seale (w<ex>hi</ex>ch is an high <lb/>
+            contract) any office w<ex>i</ex>th fee and comodity absolutly in <lb/>
+            wordes duringe lyfe w<ex>i</ex>thout any appearinge exception yet <lb/>
+            hath the contract this silent condic<ex>i</ex>on included in it, that the <lb/>
+            p<ex>ar</ex>tie<del rend="strikethrough">
+                    <unclear>s</unclear>
+                </del> shall p<ex>er</ex>forme all those duties that are incident to his office <lb/>
+            the breach whereof doth forfeit  his graunt but yet is not the <lb/>
+            kinge himselfe to take benefit of the forfeiture and libertie <lb/>
+            to dispose of it to any other vntill it bee iudged soe that as by a <lb/>
+            solemne record the contract was made soe by a solemne deede <lb/>
+            it shalbe pronounced to be dissolued, And though a marriage <lb/>
+            be contracted during life yet may it haue in it a hidden condic<ex>i</ex>on <lb/>
+            to obserue those duties w<ex>hi</ex>ch are the motiues of each others first <lb/>
+            consent And though the marriage may be broken vpon the  <lb/>
+            likeinge of them yet is it not fit for either partie to take <lb/>
+            advantage of it till it bee iudged soe and by the publike iudgem<ex>en</ex>t <lb/>
+            <fw type="catch" place="bot-right">of</fw>
+            <pb n="59r" facs="/bl/add_ms_11600/add_ms_11600_f059r/add_ms_11600_f059r.jpg"/>
+            of it so the cheife naturall end of marriage w<ex>hi</ex>ch was to avoyde promiscuity in <lb/>
+            generac<ex>i</ex>on and uncertainty in yssue is nowe more sufficiently prouided  <lb/>
+            for then yf they haad contynewed ioyned in that bond and disioynd in harts for <lb/>
+            such a bond betwene such so distracted in their harts is not only a inticement <lb/>
+            to adulterie but a cloud to conceale them and a warrant for a woman <lb/>
+            to intende  an adulterous issue into the inheritance of her husband  The  <lb/>
+            doinge of w<ex>hi</ex>ch and of many other inconveniencies is clearely avoided <lb/>
+            by a publique and vtter sep<ex>er</ex>ac<ex>i</ex>on  /  And to inferr that I doe not rashly <lb/>
+            or imp<ex>er</ex>tinently make some comp<ex>ar</ex>ison betwixt this grant of an office <lb/>
+            and the contract of marriage w<ex>hi</ex>ch seemeth to bee absolute yett doeth <lb/>
+            not binde for euer and in all causes euen in this case of marriage <lb/>
+            I haue the warrant of the comon lawe w<ex>hi</ex>ch doeth allowe a man for <lb/>
+            fornicac<ex>i</ex>on to put away his wyfe, although when hee were married <lb/>
+            besides That  maine <add place="LM" hand="#h2">maine</add>  contracts hee had sworne not to put her away <lb/>
+            and the reason is gyven by the same lawe to be because in the same <lb/>
+            contract and such like this unexpressed condic<ex>i</ex>on must be understood <lb/>
+            <hi rend="italic">si videlicet illam legem coniungij non peccerat</hi> . I haue as I thincke <lb/>
+            good reason <add place="above" hand="#h2">to beleeve</add> that there is nothinge in the first instituc<ex>i</ex>on of marriage by <lb/>
+            the same lawe of God  that doth make the bonde of marriage so fast, but <lb/>
+            that in some cause it may bee diseuered; And the practice of this  <lb/>
+            Church untill the cominge of Christ <del rend="strikethrough">whoe</del> <add place="above" hand="#h2">was</add>  dowbtles in many cases <lb/>
+            to dissolue it: And likewise that it is not contrary to the Lawe of <lb/>
+            nature for then it must needs haue been contrary to the worde of <lb/>
+            God. If I haue alleadged noe other reason yet I thinck this very <lb/>
+            sufficient that whatsoeu<ex>er</ex> <add place="above" hand="#h2">all nations did hold was counted <ex>th</ex>e lawe of Nature and all  <lb/>
+            nations </add> nations till the cominge of Christ <lb/>
+            did hold divorse to be lawfull. Therefore diuorse was esteemed <lb/>
+            lawfull by the lawe of nature till the Cominge of Christ till <lb/>
+            the begininge of the com<ex>m</ex>on lawe but that will fall more fitt <lb/>
+            to bee affirmed in this parte where (h avinge proued  divorse a <lb/>
+            vincul are   neither against the lawe of nature nor the <lb/>
+            nature it selfe) I must now make it appeare that it is not <lb/>
+            against the lawe of the gospell. to  w<ex>hi</ex>ch purpose I will alledge <lb/>
+            the words of Christ whoe was the lawe-gyver of this caution <lb/>
+            w<ex>hi</ex>ch hee gyveth himselfe that hee came not to take away the lawe <lb/>
+            but to fulfill it and as I take it in this case not vtterly to restraine <lb/>
+            the libertie gyven by the former lawe but to reforme the misvnd= <lb break="no"/>
+            erstandings and abuse of that libertie And though the wordes <lb/>
+            them selues doe seeme to interprett them selues yett I will declare <lb/>
+            how I doe vnderstand them &amp; what warrant I haue to understand <lb/>
+            <fw type="catch" place="bot-right">them</fw>
+            <pb n="59v" facs="/bl/add_ms_11600/add_ms_11600_f059v/add_ms_11600_f059v.jpg"/>
+            them, As God gaue the first lawe of marriage in <hi rend="italic">Parradize</hi> to man <lb/>
+            then beinge in the state of p<ex>er</ex>fection <del rend="strikethrough">
+                    <unclear/>
+                </del>so Christ when hee woulde <lb/>
+            regenerate vs vnto that p<ex>er</ex>fection ascendinge himselfe and seekinge <lb/>
+            to drawe vs w<ex>i</ex>th him did first speake of marriage in his sermon  <lb/>
+            w<ex>hi</ex>ch is called by the Fathers in <hi rend="italic">monte</hi> wherein all his rules <lb/>
+            are of  right and soe full of puritie that they seeme ordinary <lb/>
+            to such a lyfe as should be the right marke wee should ayme  <lb/>
+            to come vnto as neere as wee could and speakinge of marriage <lb/>
+            these be the wordes. It hath beene said alsoe whosoeu<ex>er</ex> shall put <lb/>
+            away his wyfe let him gyue hir a bill of diuorse, but I  <lb/>
+            say vnto you whosoeu<ex>er</ex> putte <del rend="strikethrough">h</del> away his wyfe except it be <lb/>
+            for fornicac<ex>i</ex>on causeth her to com<ex>m</ex>it adultrie <del rend="strikethrough">whosoeu<ex>er</ex> shall <lb/>
+            <del rend="strikethrough"/>
+                </del>
+                <del rend="strikethrough">marry that is diuorced comitte the adultrie</del>. These wordes <lb/>
+            I will not only interprett out of my owne spiritt but in <lb/>
+            the words of <hi rend="italic">Erasmus Paraphrase</hi> vpon this place and <lb/>
+            not only because it is <hi rend="italic">Erasmus </hi>interpretac<ex>i</ex>on concordinge <lb/>
+            w<ex>i</ex>th myne but because it agrees w<ex>i</ex>th the doctrine and practize <lb/>
+            of the Church for many hundred yeares after the cominge of <lb/>
+            Christ w<ex>i</ex>th the opinion of most of the antient fathers and w<ex>i</ex>th  <lb/>
+            the opinion of most of the Church of <hi rend="italic">Rome</hi> and lastly w<ex>i</ex>th all <lb/>
+            or allmost all of the learned and godly writers whome god <lb/>
+            did vse as blessed instruments for the better reformac<ex>i</ex>on of <lb/>
+            the Church and these are <hi rend="italic">Erasmus </hi>words the lawe of <lb/>
+            <hi rend="italic">Moises</hi> did p<ex>er</ex>mitt that the husband offended w<ex>i</ex>th any fault <lb/>
+            w<ex>i</ex>th his wyfe should put her away at his pleasure soe that <lb/>
+            hee gaue vnto her whome hee did put away a bill of diuorse <lb/>
+            by w<ex>hi</ex>ch shee might marry w<ex>i</ex>th another and by w<ex>hi</ex>ch the right in <lb/>
+            him to assume her againe might bee taken away, and soe <add place="above" hand="#h2">he</add> did <lb/>
+            satisfie the lawe whoe for any cause did repudiate his wyfe <lb/>
+            yf att her dep<ex>ar</ex>ture hee gaue her such a bill neither should shee <lb/>
+            bee iudged as an adultress neither should any note her as an <lb/>
+            adultress notw<ex>i</ex>thstandinge the lawe did w<ex>i</ex>th the freindshipp and <lb/>
+            concord betweene the married continewe to be p<ex>er</ex>petuall. <lb/>
+            But knowinge the hardnes of the <hi rend="italic">Iewes</hi> and least any thinge More <lb/>
+            wicked should be comitted as poisninge and other murder, hath p<ex>er</ex>mitted <lb/>
+            diuorse. but I wish that by the professors of the newe lawes marriage <lb/>
+            be more holy and inviolable and therefore whosoeuer shall  <lb/>
+            putt away his wife vnlesse shee be an adultresse (for then	 <lb/>
+            <fw type="catch" place="bot-right">shee</fw>
+            <pb n="60r" facs="/bl/add_ms_11600/add_ms_11600_f060r/add_ms_11600_f060r.jpg"/>
+            shee leaueth to bee a wife when shee hath mingled her selfe w<ex>i</ex>th another <lb/>
+            doeth constraine her<add place="above" hand="#h2">
+                    <del rend="strikethrough">selfe</del>
+                </add>  to comitt adultrie for yf she marry w<ex>i</ex>th another she <lb/>
+            doeth not marry a husband but an adulterer And hee that doeth marry <lb/>
+            <add place="above" hand="#h2">her</add> that is so repudiated doeth not marry a wife but an adultresse for  <lb/>
+            <hi rend="italic">Erasmus</hi>  enlarginge the words of Christ to explaine his meaninge and  <lb/>
+            <hi rend="italic">Cardinall Caieton</hi> in his Comentaries vpon this place concurringe w<ex>i</ex>th <lb/>
+            this interpretac<ex>i</ex>on upon the words <hi rend="italic">Et quid dimissam  duxerit adulteras <lb/>
+            </hi>doth ad vnto <hi rend="italic">dimissam procull  dlubio absq<ex>ue</ex> fornicacione nota</hi>: w<ex>hi</ex>ch <lb/>
+            is one w<ex>i</ex>th <hi rend="italic">Erasmus</hi> who vnto <hi rend="italic">dimissam</hi>  doth ad <hi rend="italic">sic dimissam</hi> and <lb/>
+            doth agree that the puttinge away w<ex>hi</ex>ch by this text is allowed in the <lb/>
+            case of fornication is such a puttinge away and the vtter dissalowinge   <lb/>
+            of the bond aswell is allowed in the law of moises. I doe not soe farr <lb/>
+            over vallewe the authorities of theise men although I knowe them <lb/>
+            to haue bine as learned as any that lyved in theire age as I would <lb/>
+            <hi rend="italic">Iurare in verba magistri</hi> but that they haue said the same w<ex>hi</ex>ch yf I <lb/>
+            had neuer read them I had so many of theire reasons to say and that in <lb/>
+            these words they doe make it plaine that in this text a divorse of <lb/>
+            marriage a vinculo in som<ex>m</ex>e case is not prohibited w<ex>hi</ex>ch is the question <lb/>
+            I nowe handle I doe inferr by theise words That whosoeu<ex>er</ex>  shall <lb/>
+            putt away his wyfe (except it be for fornicac<ex>i</ex>on doeth cause her <lb/>
+            to comitt adultrie) And whosoeu<ex>er</ex> doeth marry a wyfe soe put away <lb/>
+            (that is for some sleight cause and not for adultreie) doth committ <lb/>
+            adultrie, But whosoeu<ex>er</ex> doth marry a woman lawfully put away <lb/>
+            and it is lawfull to put her away for that greate cause doth com<ex>m</ex>itt   <lb/>
+            adultrie because shee is then noe  mans wife and consequently no <lb/>
+            man wronged yf shee marry to any other. And yf Christ did not in <lb/>
+            this take away the ould lawe but reforme it hee leaueth the lawe <lb/>
+            to bee the same that it was in the cases w<ex>hi</ex>ch hee doth in this reformac<ex>i</ex>on <lb/>
+            except And therefore in the cause of fornicac<ex>i</ex>on the lawe of divorse <lb/>
+            remaineth still whole as it was in the tyme of <hi rend="italic">Moises</hi> and the lawe of <lb/>
+            divorse was then an vtter seperac<ex>i</ex>on a vinculo. And surely yf theise <lb/>
+            words of Christ touchinge divorse in this place haue  expressed noe <lb/>
+            exception I see noe reason but in this wee might haue admitted an <lb/>
+            exception in causes cleane contrary to the nature of marriage as well <lb/>
+            as wee are forced in most of the absolute p<ex>re</ex>cept<ex>es</ex> in the chapter read  the  <lb/>
+            like in the next verse in  lyke manner hee saieth againe you haue <lb/>
+            heard that it was said to them in ould tyme thow shalt not forsweare <lb/>
+            thy selfe but shalt p<ex>er</ex>forme thy oath vnto the lord but I say vnto <lb/>
+            you Sweare not att all And yett wee finde out an exception in som<ex>m</ex>e <lb/>
+            cases to make it lawfull to Sweare And after yf any man will  <lb/>
+            Sue thee at the lawe <unclear>so</unclear> take away thy coate let him haue they cloake  <lb/>
+            <fw type="catch" place="bot-right">also</fw>
+            <pb n="60v" facs="/bl/add_ms_11600/add_ms_11600_f060v/add_ms_11600_f060v.jpg"/>
+            alsoe And yett wee finde out an exception to make it lawfull for vs <lb/>
+            boeth to defend o<ex>u</ex>r coates and o<ex>u</ex>r cloakes also from the advantage of <lb/>
+            the lawe and finally he concludeth you shalbe p<ex>er</ex>fect therefore <lb/>
+            as yo<ex>u</ex>r father w<ex>hi</ex>ch is in heauen is p<ex>er</ex>fect the w<ex>hi</ex>ch yf wee doe not other <lb/>
+            waies expound then the letter doth importe wee muste needes <lb/>
+            confesse to bee impossible for how can a finite and corruptible <lb/>
+            Creature by infinite degres came neere vnto the p<ex>er</ex>fection of <lb/>
+            an infinite or infinitly pure <del rend="strikethrough">creature</del> <hi rend="italic">Creator</hi> therefore yf <lb/>
+            the exception heere in the matter of diuorce and the same in <lb/>
+            the <hi rend="italic">19 of Mathew</hi> were not, yet might those places in <hi rend="italic">Mark</hi> <lb/>
+            and <hi rend="italic">Luke</hi> moue that where there is noe exception of fornicac<ex>i</ex>on  <lb/>
+            expressed but especially now it maketh it plaine for as noe <lb/>
+            one place of the doctrine of the holy ghost is contrary to <lb/>
+            another so is the gen<ex>er</ex>all rule of expoundinge the scriptures <lb/>
+            to expound that w<ex>hi</ex>ch is more skant or obscure by other places <lb/>
+            of the same subiect that are more large and plaine and <lb/>
+            not to restraine that w<ex>hi</ex>ch is written more large by any <lb/>
+            other places w<ex>hi</ex>ch doe not expresse so much so that vnto <hi rend="italic">Luke</hi> <lb/>
+            and <hi rend="italic">Marke</hi> wee must add the exception w<ex>hi</ex>ch is in the <hi rend="italic">19th <lb/>
+            of Mathew  </hi>and not to take it from those places because it is <lb/>
+            not in the other But because in the <hi rend="italic">19 of Mathew</hi> this <lb/>
+            matter of deepe diuorce doth seeme more largely to be handled <lb/>
+            it wilbe fitt to bringe these words to be considered the <hi rend="italic">Pharises</hi> <lb/>
+            hauinge herd as it is <unclear>lyke by</unclear> of the doctrine of Christ against <lb/>
+            the p<ex>re</ex>sent opinion and practise of those times came to him <lb/>
+            w<ex>i</ex>th a minde to tempt him in the matter and said to him <lb/>
+            as it lawfull for a man to putt away his wife upon eu<ex>er</ex>y    <lb/>
+            occasion? and hee answered and said vnto them, haue yee yet <lb/>
+            not read that hee that made them in the begininge made them <lb/>
+            male and female and said for this cause shall a man <lb/>
+            leaue father and mother and cleaue vnto his wife and <lb/>
+            they twoe shalbe one flesh lett noe man therefore putt <lb/>
+            a sunder those whome God hath coupled togeather. They <lb/>
+            sayd unto him why then did <hi rend="italic">Moises</hi> <add place="LM" hand="#h2"> com<ex>m</ex>and us to giue a bill of divorse &amp; put her   <lb/>
+            away the said unto them Moises for the</add> for the hardnes of yo<ex>u</ex>r harts <lb/>
+            suffered you to doe soe but from the begininge it was not so I <lb/>
+            say therefore vnto you whosoeu<ex>er</ex> shall putt away his wife <lb/>
+            except it be for fornicac<ex>i</ex>on and marry another comitteth <lb/>
+            adultreie <del rend="strikethrough">and whosoeu<ex>er</ex> marrieth her that is diuorced comitteth <lb/>
+            adultrie</del> The <hi rend="italic">Pharises</hi> as both theire cause and purpose in this <lb/>
+            <fw type="catch" place="bot-right">busines</fw>
+            <pb n="61r" facs="/bl/add_ms_11600/add_ms_11600_f061r/add_ms_11600_f061r.jpg"/>
+            busines was euill, so dowbtles was boeth theire opinion and practise att <lb/>
+            that tyme both against the first instituc<ex>i</ex>on of marriage and the true <lb/>
+            meaninge of <hi rend="italic">Moises</hi> in this cause of diuorce and therefore as they and <lb/>
+            theire begininge so informed of the matter did putt the question to Christ <lb/>
+            so Christ vnto them and to this matter as it was then held and practized <lb/>
+            doth make the answere and seekinge to reduce them and all men vnto that <lb/>
+            state of p<ex>er</ex>fecc<ex>i</ex>on in <add place="above" hand="#h2">which they</add>  were first conceaued doth call them back to the first  <lb/>
+            instutucc<ex>i</ex>on of marriage w<ex>hi</ex>ch was made when man was in paradize in <lb/>
+            the state of p<ex>er</ex>fecc<ex>i</ex>on and therefore doth answere theire question whether <lb/>
+            itt were lawfull for a man to putt a way  his wyfe vpon eu<ex>er</ex>y occasion  <lb/>
+            as they then held and as they verely beleeued to this effect haue you not <lb/>
+            read in the word of god  that god made man and woman at the first in the  <lb/>
+            state of p<ex>er</ex>fection and therefore able to p<ex>er</ex>forme those duties incident <lb/>
+            to theire creation and also to his p<ex>ar</ex>ticular vocation wherein they were <lb/>
+            ordained as to be comforters and assistants to each other as well by theire <lb/>
+            posteritie to increase his churche as by theire mutuall loue and <lb/>
+            affection to supply to ech other the defects of solitarines and that yf <lb/>
+            they should fall to be a meanes by theire lawfull ioyninge togeather <lb/>
+            to avoyd the same w<ex>hi</ex>ch w<ex>i</ex>th theire inordinate defects might leade them <lb/>
+            unto. And therefore shall this bond be so sleightly obserued by you <lb/>
+            that a man shall leaue Father and mother in respect of his <lb/>
+            wife and in continuall conu<ex>er</ex>sation and affecc<ex>i</ex>on be ioyned togeather <lb/>
+            so that they whoe before this mutuall consent were two by this <lb/>
+            contract be but one flesh <add place="LM" hand="#h2">let no man therefore breake his faith in not <lb/>
+            performing the Condic<ex>i</ex>on of this bond  nor by seeking any others to become one</add> <lb/>
+            w<ex>i</ex>th another by the w<ex>hi</ex>ch the bond is broken <lb/>
+            and they are sep<ex>er</ex>ated whom god did couple togeather This beinge <lb/>
+            contrary to that w<ex>hi</ex>ch they conceaued to be lawfull by <hi rend="italic">Moises</hi> lawe <lb/>
+            They asked him againe whi did <hi rend="italic">Moises</hi> then comand to gyue a bill <lb/>
+            of diuorce and put her away to the w<ex>hi</ex>ch hee aunswered that Moises <lb/>
+            because he knewe that you beinge degenerated from yo<ex>u</ex>r first p<ex>er</ex>fec <lb/>
+            tion though the hardnes of yo<ex>u</ex>r harts w<ex>hi</ex>ch could resist all grace did  <lb/>
+            not only breake of the true end<ex>es</ex> and condic<ex>i</ex>ons of marriage but <lb/>
+            out of the same hardnes of heart were apt to seeke wicked and <lb/>
+            bloody meanes to be seperated, ordained a course w<ex>hi</ex>ch by his prouisio<add place="above">n</add> <lb/>
+            was lawfull by a bill of diuorce to make it knowne how that was  <lb/>
+            seperated w<ex>hi</ex>ch you by the hardnes of yo<ex>u</ex>r harts had seperated but from <lb/>
+            the begininge it was not soe for the seed of discord and discention <lb/>
+            being then unsowen there was noe breakinge of the bond of <lb/>
+            marriage and therefore noe cause of diuorce neither should <lb/>
+            there be any now when you are borne againe <add place="above">to</add> <del rend="strikethrough">by</del> the like 
+            <pb n="61v" facs="/bl/add_ms_11600/add_ms_11600_f061v/add_ms_11600_f061v.jpg"/>
+            p<ex>er</ex>fecc<ex>i</ex>on and shall haue my grace contyuallyto strengthen you <lb/>
+            except the hardnes of yo<ex>u</ex>r harts doe refuse it I say therefore vnto <lb/>
+            you that whosoeu<ex>er</ex> <del rend="strikethrough">shall </del>putt<add place="above">eth</add> away his wife and marrie<add place="above">th</add> another <lb/>
+            except it be for whoredome (w<ex>hi</ex>ch eu<ex>er</ex> <del rend="strikethrough">I</del> from the begininge that it <lb/>
+            had bin comitted was so opposite to the nature of marriage, <lb/>
+            that it did vtterly breake and dissolue it) hee doth comitt <lb/>
+            adulterie because shee that hee doeth soe putt a way is still <lb/>
+            his wife because shee is not lawfully and fully putt away <lb/>
+            whosoeu<ex>er</ex> marrieth her that is so put away commiteth adultrey <lb/>
+            because hee doth marry one that beinge not lawfully put <lb/>
+            away remaineth still the wife of another. And surely <lb/>
+            but that I am fearefull to add any thinge to the text in the <lb/>
+            w<ex>hi</ex>ch I haue not apparant warrant I thincke I might expound <lb/>
+            theis words except it be for fornication <del rend="strikethrough">and some such other</del> <lb/>
+            to haue a more la<add place="above">r</add>ge intent then the bare letter doth <lb/>
+            imply and that the word fornicac<ex>i</ex>on doth imply not only <lb/>
+            carnall but spirituall fornication and some such other <lb/>
+            greate causes as are contrary to the nature of marriage <lb/>
+            for som<ex>m</ex>e causes there must be allowed besides this carnall <lb/>
+            <hi rend="underline">fa<add place="above">u</add>lte</hi> <add place="LM" hand="#h2">
+                    <hi rend="underline">faulte</hi>
+                </add>   for howe will <del rend="strikethrough">elce</del> elce the place of <hi rend="italic">Pawle</hi> stand <lb/>
+            w<ex>i</ex>th this wherein he doth pronounce the beleeuinge woman <lb/>
+            to be free to marry another beinge abandoned by her <lb/>
+            vnbeleeuinge husband, And some of the Fathers the <lb/>
+            M<ex>aste</ex>rs of the sentences and others of the Church of <hi rend="italic">Rome</hi> <lb/>
+            are forced to that large interpretac<ex>i</ex>on to make good <lb/>
+            theire titularie diuorce <hi rend="italic">a thoro et mensa</hi> w<ex>hi</ex>ch they <lb/>
+            allowed in diuerse other causes besides adultry) And <lb/>
+            many learned writers of o<ex>u</ex>r church and the ciuill  <lb/>
+            lawes made by most Christian <hi rend="italic">Emperors</hi> must either <lb/>
+            haue that construcc<ex>i</ex>on for their warrant for wee must <lb/>
+            thincke that those Emperours lyeing neerest to the <lb/>
+            purest tymes of the church (when the church did florish <lb/>
+            w<ex>i</ex>th more extraordinary learninge and pietie And <del rend="strikethrough"> <lb/>
+            </del>those Emperours not only obedient but also obnoxious  <lb/>
+            to the authoritie of those good men would not promul= <lb break="no"/>
+            gate and practize lawes that were contrary to the word <lb/>
+            of god I say they were obnoxious because Theodolphus  <lb/>
+            the younger who by his lawes did allow many other <del rend="strikethrough">vtter</del> <lb/>
+            causes of diuorse when a Churchman did iniuriously
+            <fw type="catch" place="bot-right">threaten</fw>
+            <pb n="62r" facs="/bl/add_ms_11600/add_ms_11600_f062r/add_ms_11600_f062r.jpg"/>
+            threaten to excomunicate him from denyinge him a suite he did rather chuse <lb/>
+            to satisfie him then repell his wronge w<ex>i</ex>th iust power. The iudgement of  <lb/>
+            the Fathers and stories of those tymes did wittnes much of his extraordinary  <lb/>
+            pietie in dutie and obedience to the Church And Socrates doeth write <lb/>
+            of him that he spent much of his time in fastinge and prayer that hee  <lb/>
+            did striue aboundantly to keepe the straite rules of the Christian life <lb/>
+            that his court was lyke a monastery for he spent the morninge w<ex>i</ex>th <lb/>
+            his Sisters in singinge psalmes: hee could repeate all the Scriptures <lb/>
+            so owt of his owne memory that of those hee would dispute w<ex>i</ex>th the  <lb/>
+            Bishopes as yf his function had bin to be one of them hee was a  <lb/>
+            more gatherer of such boekes as contained the whole word of god <lb/>
+            and of such lyke then euer <hi rend="italic">Ptolomeus Philidelphus</hi> was and that  <lb/>
+            he did obserue w<ex>i</ex>th all honor the preists of god and those most whome <lb/>
+            he did knowe to be best and in the end of that chapter w<ex>hi</ex>ch is 22 of his <lb/>
+            7 boeke of Ecclesiasticall histories he saith that the whole Cittie  <lb/>
+            for practice and consent was as it were but one church. shall wee <lb/>
+            then thincke <add place="above">that so</add>  <del rend="strikethrough">those </del> godly and soe learned an Emperour would haue <lb/>
+            made or suffered a publike lawe w<ex>hi</ex>ch he had thought to haue bine <lb/>
+            contrary to the word of god or yf the learned men euen of those <lb/>
+            times had thought it to be contrary to the word of god can it be <lb/>
+            imagined that they would not haue admonished him of it? it is not <lb/>
+            likely thaat he whoe bare so much respect vunto them would haue <lb/>
+            ruled his will to that w<ex>hi</ex>ch they should haue tould him had not <del rend="strikethrough">it</del> <lb/>
+            bene the word of god. for in those times, that was the lawe <hi rend="italic">Quod <lb/>
+            principi placuit</hi>. And there was no other difficultie but his <lb/>
+            will to haue altered it neither did hee make his lawe of diuorce <lb/>
+            <add place="above" hand="#h2">such as they <unclear>though</unclear>
+                </add> beinge many other Christians and excellent Emperors in his lawe <lb/>
+            <hi rend="italic">Concensus lib. 5. tit. 17</hi> he doth restraine the causes of diuorce to suche <lb/>
+            as he thought of greatest importance and yet out of all this I only <lb/>
+            conclud that it is lawfull for a man to put away his wife for <lb/>
+            forni<del rend="strikethrough">f</del>cac<ex>i</ex>on and to marry another. And that it as much as in  <lb/>
+            this question I desyre to proue, w<ex>hi</ex>ch is, that in som<ex>m</ex>e case the bonde <lb/>
+            of marriage may be dissolued neither  doth <hi rend="italic">Pawle</hi> in the 7to the <lb/>
+            <hi rend="italic">Ro<ex>mans</ex>
+                </hi> where he saith that the woman w<ex>hi</ex>ch is in subiection to the man <lb/>
+            is bound by the lawe to the man while he lyueth make any thinge <lb/>
+            against the doctrine of Christ and therefore theire exceptions (except <lb/>
+            it be for fornicac<ex>i</ex>on) must be added neither is it his purpose in his law <lb/>
+            to speake anythinge of diuorce but by the example of a gen<ex>er</ex>all rule <lb/>
+            wherin it was necessarie he should menc<ex>i</ex>on the excepc<ex>i</ex>on , his purpose <lb/>
+            was to proue another matter for ells hee would neu<ex>er</ex> haue said knowe <lb/>
+            <fw type="catch" place="bot-right">you</fw>
+            <pb n="62v" facs="/bl/add_ms_11600/add_ms_11600_f062v/add_ms_11600_f062v.jpg"/>
+            you not brethren for I speake to them that knowe the lawe for they <lb/>
+            that did knowe the lawe did knowe that gen<ex>er</ex>all rules haue an <lb/>
+            exception and to this effect saith Caitan  vpon this place <lb/>
+            <hi rend="italic">aduerte tamen c aute V ector quod hæc Pawli  verba intelli= <lb break="no"/>
+            guntur regularites,  seci us veron i casu s ciebat Paulus  <lb/>
+            sciebant et docti in lege Moises  quos alloquitu r quod  <lb/>
+            secumdu<ex>m</ex> legem verum est regulariter quod  mulier <lb/>
+            alligata est <del rend="strikethrough">quam totem</del> quanto tempore viuit vico suc:   <lb/>
+            et cum hoc sciunt, quòd in casu libelli repudij secundu<ex>m</ex> <lb/>
+            legem mulier soluta erat a  lege viri,  etiam viuente <lb/>
+            viro</hi>. And wherein the 7 of the first to the Corinth<ex>ians</ex> he saith <lb/>
+            And to the married I com<ex>m</ex>aund . yet not I . but the lord; let <lb/>
+            not the wyfe departe from the husband but yf shee departe <lb/>
+            let her remaine vnmarried or let her be reconsiled to her  <lb/>
+            husband and  let not the husband put away his wyfe: Theis  <lb/>
+            must be expounded of such sleight causes, for the w<ex>hi</ex>ch christ <lb/>
+            doeth prohibitt  but to put away an adultres  w<ex>hi</ex>ch  is allowed <lb/>
+            to be lawfull by the opinion of all men And therfore there is no <lb/>
+            dowbt but this  place also must be added (except it be for <lb/>
+            adultre ) for in the next verse he saith if any haue a wife <lb/>
+            that beleeueth not yf shee be contented to dwell with him <lb/>
+            let him not forsake her, by w<ex>hi</ex>ch he sheweth that marriage <lb/>
+            betweene such to be found lawfull and yet hee addeth <lb/>
+            but if the <hi rend="italic">vnbeleeuinge</hi> departe let him depart: A brother <lb/>
+            or a Sister is not in subiection to such thing<ex>es</ex>, w<ex>hi</ex>ch I feare  <lb/>
+            the Romish Church doth expound to be free to marry another <lb/>
+            And from thence doe many learned men of o<ex>u</ex>r church conclud <lb/>
+            that for the cause of discretion   it was lawfull for any to <lb/>
+            marry againe but his leauinge of her, for in the verse going <lb/>
+            before it appeareth that it was not lawfull for her to leaue  <lb/>
+            him except he did leaue also though hee were an infidell <lb/>
+            And surely since cohaabitac<ex>i</ex>on ioyned w<ex>i</ex>th the other mutuall duties <lb/>
+            of marraiage is yet  adheringe w<ex>i</ex>thin the first instituc<ex>i</ex>on was <lb/>
+            of the very essence of marriage.  I see no reason but <add place="above" hand="#h2">he</add> that dothe <lb/>
+            wickedly and vtterly abandon his wife should by that maker her as <lb/>
+            free as shee was before shee was married vnto him especially <ex>tha</ex>t <lb/>
+            it be done by order and so pronounced by the magistrate vnto the <lb/>
+            w<ex>hi</ex>ch I beleeue the magistrate is warranted by the word of God. I <lb/>
+            <fw type="catch" place="bot-right">could</fw>
+            <pb n="63r" facs="/bl/add_ms_11600/add_ms_11600_f063r/add_ms_11600_f063r.jpg"/>
+            could  neu<ex>er</ex> read nor heare of any other place in the scriptures that w<ex>i</ex>th any <lb/>
+            apparance is alledged against my conclusion, And therefore since the dissoluing <lb/>
+            of the bond of marriage in some cases doth appeare neither to be against  the <lb/>
+            first instituc<ex>i</ex>on of marr iage nor to be against the doctrine of Christ I may <lb/>
+            conclud  that it is not prohibited by the word of god that marriage lawfully <lb/>
+            contracted and consum ated may in some cases be dissolued from the bond <lb/>
+            during the lyfe of both p<ex>ar</ex>ties that were so married. And though<del rend="strikethrough">t</del> to <lb/>
+            inferr so much it is enough to haue alleaged the word of god yet I will <lb/>
+            as breefely as I can<ex>n</ex> touch the Censure and practise of the Church <lb/>
+            touchinge the matter from the tyme of Christ vntill nowe not mindinge <lb/>
+            to alledge all that hath bine controu<ex>er</ex>sed by some excellent men but <lb/>
+            rather to give some light how the state of this question hath bene <lb/>
+            held and haue led untill the begininge of the Com on lawe.  The Civill <lb/>
+            lawe w<ex>hi</ex>ch was the law of o<ex>u</ex>r Christian world did allowe in som<ex>m</ex>e causes <lb/>
+            divorce a vinculo and none of the Fathers. vntill the tyme of <hi rend="italic">St Ierome</hi> <lb/>
+            and St <hi rend="italic">Augustine</hi> did directly impinge  but many directly allowe <del rend="strikethrough">allow <lb/>
+            </del>It is true that in some of them there may be some what gathered of theire <lb/>
+            dislike of the abuse of divorce and of such as did rashly <hi rend="italic">conuolare ad <lb/>
+            secundas nuptias</hi>. But was it heard thaat till the com on lawe any marriag <lb/>
+            made after divorce was by the iudgem<ex>en</ex>t of any of them dissolued  <hi rend="italic">St Ierome</hi> <lb/>
+            and St <hi rend="italic">Augustine </hi>were the first that seeme dogmatically to dissalowe   <lb/>
+            the dissoluc<ex>i</ex>on of marriage a vinculo.  and from them is deryved the <lb/>
+            divorce (w<ex>hi</ex>ch is indeed noe divorce)  <hi rend="italic">A thore  atque mensa</hi> w<ex>hi</ex>ch nowe the <lb/>
+            Church of Rome doth allowe. These holy Fathers out of theire exceedinge <lb/>
+            loue of puritie (but especially <hi rend="italic">Ierome</hi>) did a litle to hardly censure <lb/>
+            even the holy state of marriage it selfe and so carefull were they in <lb/>
+            this and in many other things that <hi rend="italic">Ethnickes</hi> and <hi rend="italic">Heretiques</hi> should <lb/>
+            see nothinge foule that they somtimes rather admitt a hidden sore in the  <lb/>
+            bodie then a moate in the face of the Church but   how strongly soeuer <lb/>
+            <hi rend="italic">St Ierome</hi> handled this matter whose strongest arguments may aswell <lb/>
+            be vrged against second marriage after diuorce yet hee doeth even extoll <lb/>
+            Fabriola  for her pietie as a miracle and excuse her fact whoe duringe <lb/>
+            the life of her husband had married another and though after the death <lb/>
+            of her second husband shee did voluntarylie penance (It was often <lb/>
+            done for ordinary faults) yet was the marriage neu<ex>er</ex> dissolued and the <lb/>
+            pennance because that w<ex>i</ex>thout the authoritie of the Church shee did putt <lb/>
+            away her husband and not because shee did it And for that St Augustine  <lb/>
+            after to proue his purpose hee hath made such interpretac<ex>i</ex>ons of the <lb/>
+            scriptures as will hardly satisfie any man that is not more moved <lb/>
+            by his authoritie then by his reasons yet in the end hee is forced <lb/>
+            <fw type="catch" place="bot-right">that</fw>
+            <pb n="63v" facs="/bl/add_ms_11600/add_ms_11600_f063v/add_ms_11600_f063v.jpg"/>
+            that in his boeke <hi rend="italic">de <unclear>fule</unclear>  et operibus</hi> to  conclude this matter. <hi rend="italic">Quis  <lb/>
+            quis vxorem in adulterio deprehensam dimiseret et aliam <lb/>
+            duxerit non videtur æquandus eis exepta  causa adulterij <lb/>
+            dimittunt et ducunt. et in ipsis diuinis sententijs ita est <lb/>
+            obscuru<ex>m</ex> ut iste  equidem  siue dubio adulteram licet dimittere <lb/>
+            adulter tamen habentur si alteram duxerit  ut quantu<ex>m</ex> <lb/>
+            existimo Veni aliter quisquis  salli tur</hi>. And let that <lb/>
+            Reverend Father pardon me yf I bee not satisfied w<ex>i</ex>th his boeke  <lb/>
+            of this matter since it seemeth hee was skant satisfied, w<ex>i</ex>th <lb/>
+            them himselfe for thus he write   of them in his retractions  <lb/>
+            <hi rend="italic">scripsi duos libris de coniungijs adulterinis quantum   <lb/>
+            secundu<ex>m</ex> scripturas cupiens soluere difficillimam <lb/>
+            questionem   quod verum emendatissime  fecerim <lb/>
+            nescio   imo vero me non peruenisse ad huius rei <lb/>
+            perfectionem sentio.</hi> But howsoeu<ex>er</ex> by the boekes <lb/>
+            it appeareth that Polotimus  a godly Father was of the  <lb/>
+            contrary opinion, I conceaue it may be gathered by that <lb/>
+            treatise of Polotimus   written to him to knowe the reason <lb/>
+            of his opinion as beinge newe and diuerse from that w<ex>hi</ex>ch <lb/>
+            was held at that time  I will not alledge all the authorities  <lb/>
+            of the autient Fathers that to make for my conclusion <lb/>
+            but repeate <add place="above">even </add> out of Sixtus Serensis  <add place="above">an</add> aduersarie to this <lb/>
+            cause that <hi rend="italic">Ambrose Tertulian  Hillari a uthor operis <lb/>
+            in perfecti, Crisostom  Enthunius   Theophil actus <lb/>
+            Chromatius Pope L achary the first and the Fathers  <lb/>
+            of the Eube rtine Mogientine and Tibertine counsells</hi> <lb/>
+            doe seeme to be of that opinion besides suche of the Fathers <lb/>
+            as wee whome hee calleth <hi rend="italic">heritiques</hi> doe alledge in this <lb/>
+            cause but  it is noe wonder that the Com on Lawe should <lb/>
+            err in this matter w<ex>hi</ex>ch in many things but especially in <lb/>
+            this of marriage hath so many errors that haue noe <lb/>
+            appearance to warrant them that none but a iudgement  <lb/>
+            captiuated and obnoxious to the Church of Rome can<ex>n</ex> <lb/>
+            allowe them and the comon lawe is the fountaine <del rend="strikethrough">of</del> that <lb/>
+            hath corrupted the torrent of the doctors since that tyme <lb/>
+            w<ex>i</ex>th the w<ex>hi</ex>ch even they were carried that in theire owne iudgem<ex>en</ex>t <lb/>
+            did otherwaise beleeue since it was so dangerous for them to <lb/>
+            striue against the streame And yet I may say by the authority <lb/>
+            of <hi rend="italic">Cardinall Caiton</hi>  whome I had rather alleadge in this <lb/>
+            <fw type="catch" place="bot-right">matter</fw>
+            <pb n="64r" facs="/bl/add_ms_11600/add_ms_11600_f064r/add_ms_11600_f064r.jpg"/>
+            matter then o<ex>u</ex>r owne writers who doeth protest boeth against the Contrary <lb/>
+            <del rend="strikethrough">doeth p</del> doctrine and parties that professed it that this matter was  neu<ex>er</ex> <lb/>
+            dogmat tically defined by the church of Rome to be as a matter  <lb/>
+            of faith contrary to the word of god but iudicially to be determined <lb/>
+            as fitt to be as a matter obserued. in fact as theis are his wordes  <lb/>
+            upon the <hi rend="italic">19 of Mathew. Intelli<del rend="strikethrough">g</del>
+                    <add place="above" hand="#h4">go</add> <add place="above" hand="#h4">i</add>
+                    <del rend="strikethrough">e</del>gitur <add place="above" hand="#h4">
+                        <unclear>exhac D.</unclear> Jesu</add> <del rend="strikethrough">in </del>Christi lege <hi rend="underline">tutum</hi> <add place="above" hand="#h4">licitu<ex>m</ex>
+                    </add>  <lb/>
+            esse <lb/>
+            Christiano admittere vxorem ob fornicationem carnalem ipsius <add place="above" hand="#h2">vis, &amp; posse ducere alia<ex>m</ex>  <lb/>
+            em: Salva sedm<ex>er</ex> Eccl<ex>es</ex>iæ <unclear> </unclear>nitione, quæ</add> hac tenus <lb/>
+            non apparet: nam decretales Pontificiæ de hac <del rend="strikethrough">re</del> <add place="above" hand="#h4">materia</add> non sunt definitiuæ <lb/>
+            <del rend="strikethrough">quo </del>Fidei <add place="above" hand="#h4">sed</add> <del rend="strikethrough">ad</del>judiciales Facti. </hi>And <hi rend="italic">Catharinus Bis<del rend="strikethrough">s</del>hop of <unclear>Compfar</unclear>
+                </hi>  <lb/>
+            when in the first edic<ex>i</ex>on of his booke of annotac<ex>i</ex>ons upon Cajetans <lb/>
+            Com<ex>m</ex>entaries hee had w<ex>i</ex>th much bitternes taxed him for many things <lb/>
+            doth overpresse this opinion with silence: But in his second edition in <lb/>
+            his 5 booke he dooth confesse that hee did it because (as he saith) <lb/>
+            <hi rend="italic">nec potera<ex>m</ex>  prudenter reprehendere, quod nesciebam etiam <lb/>
+            <unclear>idonte</unclear> confutare</hi>. And hee that in all things did quarrell w<ex>i</ex>th Cajetan <lb/>
+            doeth concurr w<ex>i</ex>th him in this opinion and confirme it w<ex>i</ex>th many <lb/>
+            (and I doe thincke soe str<del rend="strikethrough">a</del>
+                <add place="above">o</add>ng<del rend="strikethrough">e</del>) reasons as can noe way be answered; <lb/>
+            and doeth much like to the other conclude in these words; <hi rend="italic">Scio, quod <lb/>
+            aliter docent nunc uniuersaliter scholæ, et ego cu<ex>m</ex> illis sentio, <lb/>
+            ex fide cogor, et captiua<ex>m</ex> reddo intellectum meum: hoc tamen  <lb/>
+            precor, neminis facile censura<ex>m</ex> adhibeant. satis est, quòd decretis <lb/>
+            Pontificu<ex>m</ex> hanc per soluo reuerentia<ex>m</ex>, ut iuxta illa doceam atq<ex>ue</ex> <lb/>
+            cosulum</hi> <add place="above">Here is a much <unclear>illegible</unclear>
+                </add>: Out of w<ex>hi</ex>ch <add place="above" hand="#h2">out which is in a prayer exposition with <lb/>
+            my owne hand he <unclear>
+                        <gap reason="illegible"/>
+                    </unclear> out of which I do inferr it</add> Owt of w<ex>hi</ex>ch I do <add place="above" hand="#h2">inferr ...</add>  <lb/>
+            vuniust then prohibite them to marry <lb/>
+            for marriage is the lawfull remedy that god hath apointed &amp; prouided  <lb/>
+            for such as cannot lyve in Chastitie and as Austine saieth of marriage <lb/>
+            <hi rend="italic">Quod sanis fuit in offensa<ex>m</ex>, ægrotis dictu<ex>m</ex> est in remediu<ex>m</ex>
+                </hi>, And if o<ex>u</ex>r Sauior <lb/>
+            Christ left his whole flocke for to seeke pne lost sheepe, shall wee put <lb/>
+            a poore lost sheepe out of the right way wherein it desireth  to retorne <lb/>
+            againe to the Shephard? what were this, but to punish sinne w<ex>i</ex>th sinne <lb/>
+            and to deny vnto them, whome wee would reclaime to saluation the <lb/>
+            meanes to lead them vnto it? and therefore I will only say w<ex>i</ex>th <hi rend="italic">Caluin</hi> <lb/>
+            (whoe in this agrees w<ex>i</ex>th <hi rend="italic">Luther</hi>, <hi rend="italic">Malanchton</hi>, <hi rend="italic">Bucer</hi>, <hi rend="italic">
+                    <unclear>Hem<ex>m</ex>ingiu<ex>m</ex>s</unclear>
+                </hi>, <lb/>
+            Beda, <hi rend="underline">Vinitus</hi> <add place="above">Vicetus</add> and most of all the godly doctors;) <hi rend="italic">quia hac tenus (non <lb/>
+            tamen temere, ue dicebat) animaduersu<ex>m</ex> fuit in adulterio, ut eoru<ex>m</ex> <lb/>
+            vitæ parcatur, qui violant fidem coniu<del rend="strikethrough">
+                        <ex/>
+                    </del>gij: duru<ex>m</ex> esset, virum <lb/>
+            quo cum diuortium fecit vxor adulterij causa, aut mulierem  <lb/>
+            a marito repudiata<ex>m</ex>, si incontentia laborant, in tota<ex>m</ex> vitam à <lb/>
+            coniu<del rend="strikethrough">g</del>gio arcere: Ha<ex>que</ex> necesse est, ut indulgentia vna alteram <lb/>
+            trahat.</hi> / Nowe since it doeth not appeare thaat it is prohibited by <lb/>
+            the word; and that all marriages by o<ex>u</ex>r lawes are pronounced lawfull <lb/>
+            that are not prohibited by the word of god: I may conclud that <lb/>
+            the marriage between twoe, of whome one of them was diuorced; <lb/>
+            <fw type="catch" place="bot-right">from</fw>
+            <pb n="64v" facs="/bl/add_ms_11600/add_ms_11600_f064v/add_ms_11600_f064v.jpg"/>
+            from another, duringe the lyfe of that other is lawfull by the lawe of <lb/>
+            god and of man. And if <del rend="strikethrough">it</del> not <del rend="strikethrough">it </del>being contrary to the lawe <lb/>
+            of god it were contrary to the positiue lawe of this land the <lb/>
+            <hi rend="italic">Prince</hi> might in some p<ex>ar</ex>ticuler case dispence w<ex>i</ex>th the gen<ex>er</ex>all <lb/>
+            rule and neither against the nature of all humane lawes <lb/>
+            in w<ex>hi</ex>ch the equitie of all p<ex>ar</ex>ticular causes cannot be sufficiently <lb/>
+            prouided for nor against the iustice of this Realme since (as I take <lb/>
+            it) that power is gyven by a Statute of the 25, of <hi rend="italic">H.8. <lb/>
+            Chapt<ex>er</ex> 21</hi>. even in this Cause of marriage. And yf upon <lb/>
+            greate Considerac<ex>i</ex>on hatefull <add place="above" hand="#h2">and</add> cryinge since of treason w<ex>hi</ex>ch <lb/>
+            is neu<ex>er</ex> w<ex>i</ex>thout blood and breach of faith wherein not only <lb/>
+            the prince but eu<ex>er</ex>y subiect hath an interest and not only <lb/>
+            gyven <del rend="strikethrough">of</del> the offendors lyfe but restored them and theire <lb/>
+            posteritie from infamie; what offence can the like indulgence <lb/>
+            giue in a fault of weaknes? especially if it fall out that <lb/>
+            it be not accompanied w<ex>i</ex>th any other injury; for yf bot<del rend="strikethrough">t</del>h     <lb/>
+            p<ex>ar</ex>ties doe desire suche a separac<ex>i</ex>on and content w<ex>i</ex>th <lb/>
+            a newe <hi rend="italic">voleneti non sit iniuria</hi>. /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               habeat itaq<ex>ue</ex> et Christum assertatorem <lb/>
+               Iusti diuorcij. <lb/>
+               <lb/>
+               Tertulliam lib: aduersus <lb/>
+               Marcionem. . <lb/>
+               <lb/>
+               finis
+            </hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f056v/add_ms_11600_f056v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f057r/add_ms_11600_f057r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f057v/add_ms_11600_f057v.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f058r/add_ms_11600_f058r.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f058v/add_ms_11600_f058v.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f059r/add_ms_11600_f059r.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f059v/add_ms_11600_f059v.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f060r/add_ms_11600_f060r.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f060v/add_ms_11600_f060v.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f061r/add_ms_11600_f061r.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f061v/add_ms_11600_f061v.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11600/add_ms_11600_f062r/add_ms_11600_f062r.jpg"/>
+      <graphic n="13" url="/bl/add_ms_11600/add_ms_11600_f062v/add_ms_11600_f062v.jpg"/>
+      <graphic n="14" url="/bl/add_ms_11600/add_ms_11600_f063r/add_ms_11600_f063r.jpg"/>
+      <graphic n="15" url="/bl/add_ms_11600/add_ms_11600_f063v/add_ms_11600_f063v.jpg"/>
+      <graphic n="16" url="/bl/add_ms_11600/add_ms_11600_f064r/add_ms_11600_f064r.jpg"/>
+      <graphic n="17" url="/bl/add_ms_11600/add_ms_11600_f064v/add_ms_11600_f064v.jpg"/>
+   </facsimile>
+</TEI>

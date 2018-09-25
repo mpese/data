@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short View of the Long Reign Henry III</title>
+            <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS69394.xml">British Library, Additional MS 69394, ff. 1x–10x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3876.xml">British Library, Egerton MS 3876, ff. 5r–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS252.xml">British Library, Harley MS 252, ff. 129x–136r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS305.xml">British Library, Harley MS 305, ff. 216r–225r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6021.xml">British Library, Harley MS 6021, ff. 49r–65v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_12504.xml">British Library, Additional MS 12504, ff. 47r–57r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_21993.xml">British Library, Additional MS 21993, ff. 222v–230v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_60284.xml">British Library, Additional MS 60284, ff. 1r–16v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72470.xml">British Library, Additional MS 72470, ff. 3r–14r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2245.xml">British Library, Harley MS 2245, ff. 1r–8v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_1709.xml">British Library, Sloane MS 1709, ff. 23x–34x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_3073.xml">British Library, Sloane MS 3073, ff. 38r–49r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_156.xml">British Library, Stowe MS 156, ff. 68r–80r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b22.xml">Beinecke Library, Osborn b22, ff. 160r–180r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b340.xml">Beinecke Library, Osborn b340, ff. 1x–40x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_749.xml">Bodleian Library,  MS Ashmole 749, item 4, 1–16</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_A_141.xml">Bodleian Library,  MS Rawlinson A 141, ff. 51r–64r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_A_489.xml">Bodleian Library,  MS Rawlinson A 489, ff. 2r–31v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_B_164.xml">Bodleian Library,  MS Rawlinson B 164</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_911.xml">Bodleian Library,  MS Rawlinson D 911, ff. 173r–185v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_950.xml">Bodleian Library,  MS Rawlinson D 950, ff. 4r–16r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CRO_EL_MS_6558.xml">Cornwall Record Office,  EL MS 655/8, ff. 23r–37r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Dd1428.xml">Cambridge University Library,  MS Dd.14.28, Part I, item 2, 1r–36v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg228.xml">Cambridge University Library,  MS Gg.2.28, ff. 59v–67r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Clark_Library_MS_1942_002.xml">Clark Library,  MS.1942.002, ff. 1r–55r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_110.xml">Folger Shakespeare Library,  MS V.a.110, p56</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_221.xml">Folger Shakespeare Library,  MS V.a.221, ff. 11v–17r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_830.xml">Houghton Library,  fMS Eng 830</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_806.xml">Lambeth Palace Library,  MS 806, ff. 83x–99x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FM_Misc_Vol_36.xml">Northamptonshire Record Office,  F(M) Misc. Vol. 36, ff19</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 426–439</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, ff. 1–16</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDSH5354.xml">Somerset Archives,  DD\SH/5/354, ff. 1r–64r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_85.xml">The National Archives,  SP 14/85, ff. 33r–42v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_88.xml">The National Archives,  SP 16/88, /1 [ff.2r–8r]</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">Sir Robert Cotton
+                     </persName>
+                  </author>
+                  <title>A brief survey (historical and political) of the life and reign of Henry the III</title>
+                  <idno type="Wing">C6482B</idno>
+                  <date when="1680">1680</date>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1614">1614</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

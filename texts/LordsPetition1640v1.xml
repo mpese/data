@@ -1,0 +1,681 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lords' Petition</title>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0061">Francis Russell, 4th Earl of Bedford</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0062">William Seymour, 2nd Earl of Hartford</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0063">Robert Devereux, 3rd Earl of Essex</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0064">Edmund Sheffield, 1st Earl of Mulgrave</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0065">Robert Rich, 2nd Earl of Warwick</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0066">Oliver St John, 1st Earl of Bolingbroke</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Say and Sele</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0067">Henry Montagu, Viscount Mandeville</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0050">Robert Greville, Second Baron Brooke of Beauchamps Court</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0068">Edward Howard, First Baron North of Escrick</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0069">George Manners, 7th Earl of Rutland</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0070">Theophilus Clinton, 4th Earl of Lincoln</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0071">David Cecil, 3rd Earl of Exeter</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0072">Dudley North, Third Baron North</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0073">Francis Willoughby, Fifth Baron Willoughby of Parham</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0074">Thomas Savile, Second Baron Savile of Pontefract</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0075">Philip Wharton, Fourth Baron Wharton</persName>
+            </author>
+            <author role="signatory">
+               <persName corresp="../people/people.xml#P0076">John Lovelace, 2nd Baron Lovelace?</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_125">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 125</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1467">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1467</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1710">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1710</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_7162">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 7162</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_787">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 787</idno>
+                <msName>Papers found in William Dell's study, Laud's secretary</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_33469">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 33469</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_38847">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 38847</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70002">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70002</idno>
+               <msName>Harley Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70082">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70082</idno>
+               <msName>Portland Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/All_Souls_College_MS_125.xml">All Souls College,  MS 125, ff. 89r–90r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="LordsPetition1640v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 65r–66r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 283v–284r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="LordsPetition1640v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, ff. 66r–66v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS7162.xml">British Library, Harley MS 7162, ff. 51x–52x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS787.xml">British Library, Harley MS 787, ff. 98r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 67v–68v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1467.xml">British Library, Sloane MS 1467, ff. 132r–132v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1710.xml">British Library, Sloane MS 1710, ff. 118r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1710.xml">British Library, Sloane MS 1710, ff. 119r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_33469.xml">British Library, Additional MS 33469, ff. 48r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_38847.xml">British Library, Additional MS 38847, ff. 24r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_57929.xml">British Library, Additional MS 57929, ff. 9v–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_70002.xml">British Library, Additional MS 70002, ff. 302r–303v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_70082.xml">British Library, Additional MS 70082, item 26</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 175r–179v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_OSB_MSS_28.xml">Beinecke Library, OSB MSS 28, Box 2, Folder 25, item 41, 524r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_12397.xml">Beinecke Library, Osborn File 12397, ff. 1r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_6183.xml">Beinecke Library, Osborn File 6183, ff. 1–3</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b297.xml">Beinecke Library, Osborn b297, item 11</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_800.xml">Bodleian Library,  MS Ashmole 800, ff. 110v–111v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_119.xml">Bodleian Library,  MS Carte 119, ff. 89r–91v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_19.xml">Bodleian Library,  MS Clarendon 19, ff. 13r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_19.xml">Bodleian Library,  MS Clarendon 19, ff. 16r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_908.xml">Bodleian Library,  MS Rawlinson D 908, ff. 42r–43v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, ff. 103r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, f. 105r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, ff. 140r–141r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CRO_T_16083.xml">Cornwall Record Office,  T 1608/3</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_335.xml">Cambridge University Library, Additional MS 335, f. 41r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa192.xml">Folger Shakespeare Library,  MS V.a.192, ff. 46r–48r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7872.xml">Huntington Library,  EL 7872</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U269O294.xml">Kent Archives,  U269/O294, item 11</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U386O71.xml">Kent Archives,  U386/O7/1</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U951O10.xml">Kent Archives,  U951/O10, item 5</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH2603.xml">Northamptonshire Record Office,  FH2603</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH2608.xml">Northamptonshire Record Office,  FH2608</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH2619.xml">Northamptonshire Record Office,  FH2619</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3565.xml">Northamptonshire Record Office, IC 3565</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3566.xml">Northamptonshire Record Office, IC 3566</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_JO_10_1_42.xml">Parliamentary Archives,  HL/PO/JO/10/1/42</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_RO_1_72.xml">Parliamentary Archives,  HL/PO/RO/1/72, ff. 286–310</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SHC_LM133150.xml">Surrey History Centre,  LM/1331/50</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /16 [ff.33r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /17 [ff.37r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /18 [ff.39r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /19A [ff.40r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /19B [ff.41r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /20 [ff.42r–43r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /21 [ff.44r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /22 [ff.46r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /23 [ff.47r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_465.xml">The National Archives,  SP 16/465, /24 [ff.48r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_O_1_35.xml">Trinity College,  MS O.1.35, Part II, 1r–v</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0060">
+                        <forename>J[ohn]</forename>
+                        <surname>M[ilton]</surname>
+                     </persName>
+                  </author>
+                  <title>Newes from Hell, Rome and the Inns of Court</title>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">M42A</idno>
+                  <biblScope unit="page" from="8" to="10">8-10</biblScope>
+                  <biblScope unit="sigs" from="B1v" to="B2v">B1v-B2v</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0060">
+                        <forename>J[ohn]</forename>
+                        <surname>M[ilton]</surname>
+                     </persName>
+                  </author>
+                  <title>News from Hell, Rome, and the Innes of Court</title>
+                  <date when="1641">1642</date>
+                  <idno type="Wing">M2131</idno>
+                  <biblScope unit="page" from="8" to="10">8-10</biblScope>
+                  <biblScope unit="sigs" from="B1v" to="B2v">B1v-B2v</biblScope> 
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">The Harleian Miscellany</title>
+                  <edition>1st ed.</edition> 
+                  <biblScope unit="volume">7</biblScope>
+                  <biblScope unit="page" from="205" to="206">205-206</biblScope>
+                  <note>From J.M., News from Hell (1641)</note>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640-09-03">3 September 1640</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>parliament</term>
+               <term>Bishops' Wars</term>
+               <term>ship money</term>
+               <term>soldiers</term>
+               <term>army</term>
+               <term>ecclesiastical conflict</term>
+               <term>anti-catholicism</term>
+               <term>catholicism</term>
+               <term>Ireland</term>
+               <term>monopolies</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2017-11-28" who="#SV" status="proofread"/>
+            <change when="2017-11" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="78r" facs="/bl/add_ms_35331/add_ms_35331_f078r/add_ms_35331_f078r.jpg"/>
+         <head rend="indent">
+            <hi rend="align-centre">To the kings most excellente ma<ex>jes</ex>tie. <space unit="chars" extent="20"/> <hi rend="underline">1640</hi>./</hi> <lb/>
+            The humble petition of yo<ex>u</ex>r ma<ex>jes</ex>ties loyall and obediente subiectes whose names are <lb/>
+            under written, in the behalfe of themselues and diuerse others./.
+         </head>
+         <p rend="outdent">
+            Most gratious Soueraigne
+         </p>
+         <p>
+            The sence of that dutie &amp; service w<ex>hi</ex>ch wee owe unto yo<ex>u</ex>r sacred ma<ex>jes</ex>tie and o<ex>u</ex>r earnest affections to the <lb/>
+            good and welfare of this yo<ex>u</ex>r Realme of Englande, haue moved us in all humility to beseeche yo<ex>u</ex>r <lb/>
+            royall ma<ex>jes</ex>tie to giue us leave to offer to yo<ex>u</ex>r princely wisedome the app<ex>re</ex>hension that wee &amp; other <lb/>
+            yo<ex>u</ex>r faithfull subiectes haue conceaved of the greate distempers &amp; dangers nowe thretninge the <lb/>
+            Churche and State, and yo<ex>u</ex>r Royall p<ex>er</ex>son, and of the fitteste meanes by w<ex>hi</ex>ch they may bee removed &amp; <lb/>
+            p<ex>re</ex>vented.
+         </p>
+         <p rend="indent">
+            <add place="LM">
+               <hi rend="underline">Evills./</hi>
+            </add>
+            The evills and dangers wherof yo<ex>u</ex>r ma<ex>jes</ex>tie may bee pleased to tak notice of are theise./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">1.</hi>
+            </add>
+            That yo<ex>u</ex>r ma<ex>jes</ex>ties sacred p<ex>er</ex>son is exposed to hassarde &amp; danger in the p<ex>re</ex>sente expedition againste the <lb/>
+            <add place="LM">
+               <hi rend="align-right">2.3.</hi>
+            </add>
+            Scottishe army. &amp; <add place="above">2</add>. by occasion of this warre yo<ex>u</ex>r revenewe is much wasted. 3 yo<ex>u</ex>r subiectes burthened <lb/>
+            w<ex>i</ex>th coate and conducte money, billitinge of souldiers, and diuerse rapines and disorders com=<lb break="no"/>
+            <add place="LM">
+               <hi rend="align-right">4.</hi>
+            </add>
+            mitted in severall partes of this yo<ex>u</ex>r Realme by the souldiers raised for that service. 4. and yo<ex>u</ex>r whole <lb/>
+            <add place="LM">
+               <hi rend="align-right">5.</hi>
+            </add>
+            kingdome became full of feares and discontente./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">6.</hi>
+            </add>
+            The sundry Innovations in matters of religion, the Oathe and Cannons lately imposed upon the Clergie and <lb/>
+            other yo<ex>u</ex>r ma<ex>jes</ex>ties subiectes.
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">7.</hi>
+            </add>
+            The greate increase of Popery, and the ymployinge of Popishe Recusantes and other yll affected to the <lb/>
+            <add place="LM">
+               <hi rend="align-right">8.</hi>
+            </add>
+            Religion by lawe established in places of power and truste, Espetially in com<ex>m</ex>aundinge of men &amp; armes <lb/>
+            both in the fielde and in sundry Counties of this yo<ex>u</ex>r Realme, Wheras by the lawes they are not per=<lb break="no"/>
+            mitted to haue armes in there owne howses.
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">9.</hi>
+            </add>
+            The greate mischeifes w<ex>hi</ex>ch may falll upon this kingdome yf the intentions (w<ex>hi</ex>ch haue bynn credibly <lb/>
+            reported) of bringinge Irishe and forraine forces shoulde take effecte./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">10.</hi>
+            </add>
+            The vrginge of shippe money and prosecution of some Sherifes in the Starre chamber for not levyinge of yt.
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">11.</hi>
+            </add>
+            The heavy charge upon Marchandise to the discoragemente of Trade, the multitude of Monopolies &amp; other <lb/>
+            <add place="LM">
+               <hi rend="align-right">12.</hi>
+            </add>
+           pattentes whereby the comodities &amp; comforters of this kingdome are much burthened, to the greate &amp; <lb/>
+            <add place="LM">
+               <hi rend="align-right">13.</hi>
+            </add>
+            uniu<ex>er</ex>sall grevance of yo<ex>u</ex>r people.
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-right">14.</hi>
+            </add>
+            The greate greife of yo<ex>u</ex>r subiectes by the longe intermission of parliam<ex>en</ex>tes and the late &amp; former <lb/>
+            dissolvinge of such as haue bynn called w<ex>i</ex>thout the happie effects w<ex>hi</ex>ch otherwise they mighte haue <lb/>
+            produced.
+         </p>
+         <p rend="indent">
+            <add place="LM">
+               <hi rend="underline">Remedie</hi>
+            </add>
+            For Remedy wherof and p<ex>re</ex>vention of the dangers that maye ensue your <lb/>
+            Royall person, and to the whole State.
+         </p>
+         <p>
+            They doe in all humility and faithfulnesse beseeche yo<ex>u</ex>r most excellente ma<ex>jes</ex>tie that you woulde <lb/>
+            bee pleased to sumon a Parliam<ex>en</ex>t w<ex>i</ex>thin some shorte &amp; conveniente tyme wherby the causes <lb/>
+            of theise and other greate grevances w<ex>hi</ex>ch yo<ex>u</ex>r people lye under may bee taken away, and the <lb/>
+            authors and Councellors of them may bee there broughte to such legall tryall and condigne <lb/>
+            punishm<ex>en</ex>t as the nature of the severall offences shall require, and the p<ex>re</ex>sente Warre may <lb/>
+            bee composed by yo<ex>u</ex>r ma<ex>jes</ex>ties wisedome w<ex>i</ex>thout bloude, in such manner as maye conduce <lb/>
+            to the hono<ex>u</ex>r and safety of yo<ex>u</ex>r ma<ex>jes</ex>ties p<ex>er</ex>son, the comforte of yo<ex>u</ex>r people, and the unitinge of <lb/>
+            both yo<ex>u</ex>r Realmes againste the com<ex>m</ex>on enemyes of the reformed Religion, And yo<ex>u</ex>r ma<ex>jes</ex>ties <lb/>
+            petitioners shall ever praye
+         </p>
+         <cb/>
+         <p>
+            <lb/>
+            <seg rend="curly-bracket-L">
+               Bedforde. <add place="inline" hand="../mss/BLAddMS35331.xml#WYAdd">deade.</add> <lb/>
+               Hartforde. <add place="inline" hand="../mss/BLAddMS35331.xml#WYAdd">synce m<ex>ar</ex>ques</add> <lb/>
+               <add place="LM">
+                  Earles.
+               </add>
+               Essex. <add place="inline">lo: Chamberlaine.</add> <lb/>
+               Molgrave. <lb/>
+               Warwick. <lb/>
+               Bullingbrooke.
+            </seg>
+         </p>
+         <p>
+            <seg rend="curly-bracket-L">
+               Say and Seale, <add place="inline">m<ex>aste</ex>r of the Wardes.</add> <lb/>
+               <add place="LM">
+                  Vicountes.
+               </add>
+               Mandevill.
+            </seg>
+         </p>
+         <p>
+            <seg rend="curly-bracket-L">
+               Brooke. <lb/>
+               <add place="LM">
+                  Lords.
+               </add>
+               Howarde.
+            </seg>
+         </p>
+         <cb/>
+         <p>By the way in the Northe./</p>
+         <p>
+            <seg rend="curly-bracket-L">
+               Rutlande. <lb/>
+               <add place="LM">
+                  Earles.
+               </add>
+               Lincolne. <lb/>
+               Exeter.
+            </seg>
+         </p>
+         <p>
+            <seg rend="curly-bracket-L">
+               Northe. <lb/>
+               Wylloubye. <lb/>
+               <add place="LM">
+                  Lordes./
+               </add>
+               Savell. <lb/>
+               Wharton. <lb/>
+               Lovelace.
+            </seg>
+         </p>
+         <p>
+            Stat: 27: Eliz: cap:1./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f078r/add_ms_35331_f078r.jpg"/>
+   </facsimile>
+</TEI>

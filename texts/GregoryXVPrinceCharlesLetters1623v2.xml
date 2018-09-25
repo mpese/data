@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters</title>
+            <author>
+               <persName corresp="..people/people.xml#P0007">Charles Stuart, Prince of Wales</persName>
+            </author>
+            <author>
+               <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="HB">
+               <name>Howard Barlow</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_18201">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 18201</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72365">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72365</idno>
+                <msName>Trumbull Miscellany</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_444">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 444</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_354">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 354</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_295">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 295</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34217</idno>
+               <msName>Sir Francis Fane's book</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_36446">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 36446</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48044">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48044</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48063">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 48063</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_64879">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 64879</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72276">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72276</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS18201.xml">British Library, Additional MS 18201, ff. 16v–19r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS36446.xml">British Library, Additional MS 36446, ff. 82x–83x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="GregoryXVPrinceCharlesLetters1623v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS4149.xml">British Library, Additional MS 4149, ff. 282r–283v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 128v–131v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48044.xml">British Library, Additional MS 48044, ff. 294r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS64879.xml">British Library, Additional MS 64879, ff. 35r–36r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72276.xml">British Library, Additional MS 72276, f. 51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72365.xml">British Library, Additional MS 72365, ff. 91r–93v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS295.xml">British Library, Harley MS 295, f. 259r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS354.xml">British Library, Harley MS 354, ff. 98r–99v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="GregoryXVPrinceCharlesLetters1623v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, f. 12r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1623" notBefore="1623-04-20">1623</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="LA">Latin</language>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholicism</term>
+               <term>Reformation</term>
+               <term>diplomacy</term>
+               <term>Papacy</term>
+               <term>irenicism</term>
+               <term>Spanish Match</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-06" who="#RB" status="draft"/>
+            <change when="2018-07" who="#HB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="149v" facs="/bl/add_ms_28640/add_ms_28640_f149v/add_ms_28640_f149v.jpg"/>
+         <head rend="align-centre">
+            <add place="LM">
+               <seg rend="curly-bracket-R">
+                  This Copie is <lb/>
+                  as I had it <lb/>
+                  somewhat im=<lb break="no"/>
+                  perfect
+               </seg>
+            </add>
+            To the Prince of Wales in Spaine. <lb/>
+            Breu. D. N. Pape  Gregorii XU. <lb/>
+            Nobilissimo Wallie principi Magne Brittanie Gregorius Papa XU. 
+         </head>
+         <p>
+            <add place="LM">
+               <figure>
+                  <figDesc>Three-leaved flower</figDesc>
+               </figure>
+               England’s pe=<lb break="no"/>
+               tition May 5 <lb/>
+               <unclear>1643</unclear>. extract <lb/>
+               Blame us not <lb/>
+               &amp;c to feare while <lb/>
+               we see no contra=<lb break="no"/>
+               diction to ap=<lb break="no"/>
+               peere to Mouns-<lb break="no"/>
+               de Chesne his-<lb break="no"/>
+               booke sold open=<lb break="no"/>
+               ly for many y. <lb/>
+               in Paris as in <lb/>
+               London &amp; read <lb/>
+               at Court which <lb/>
+               recordes your – <lb/>
+               Maj. Letters to <lb/>
+               the Pope pro-<lb break="no"/>
+               mising to uenture <lb/>
+               <del rend="strikethrough">/objectat/</del> <lb/>
+               <hi rend="underline">objectat.</hi> <lb/>
+               Crowne &amp; all <lb/>
+               to unite us to <lb/>
+               Rome again. <lb/>
+               Of the time <lb/>
+               &amp; date of those <lb/>
+               letters enquire.
+               <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+            </add>
+            Nobilissime Princeps salutem &amp;c.  Lumen divine gratie, Britannia <lb/>
+            illustrum virorum, ac virtutum verarum, cui vtrumqe  terrarum orbem no<ex>min</ex>is sui <lb/>
+            gloria impleat, Pontificias etiam cogitations sepissime ad suarum laudu<ex>m</ex> <lb/>
+            spectaculum evocat. Illa enim in ipsis nascentis <del rend="strikethrough">ee</del> ecclesie cunabilis <lb/>
+            tanto studio rex regum soligere voluit hereditate sibi, vt illuc non fe=<lb break="no"/>
+            re prius Romanorum aquile, quas crucis vexilla penetrasse dicantur. <lb/>
+            Porro autem non pauci ejus reges scientia salutis edocti, exterisqe <lb/>
+            nationibus ac consequentibus etatibus prebentes <ex>Christ</ex>iane pietatis exem=<lb break="no"/>
+            pla, crucem sceptro, &amp;<del rend="strikethrough">c</del> Religionis disciplina dominationis cupiditati <lb/>
+            pretulerunt. Itaqe cum in celis promeruerint principatus beatitudinis <lb/>
+            sempiterne, consecuti sunt in terris triumphali<del rend="strikethrough">
+                    <gap extent="1" unit="chars"/>
+                </del>a sanctitatis ornamenta./ <lb/>
+            Hoc autem tempore quo Anglicane ecclesie immutatus est, hu=<lb break="no"/>
+            manis tamen virtutibus Anglicanum regem ornari atqe communiri p<ex>er</ex>=<lb break="no"/>
+            spicimus, que charitatis nostre solatia <del rend="strikethrough">&amp;c</del> Christiani nominis decora <lb/>
+            <unclear>forent</unclear>, si ea habere possent orthodoxe veritatis presidia. quare que nos <lb/>
+            serenissimi parentis gloria et Regii ingenii tui indoles magis oblectat <lb/>
+            <del rend="strikethrough">&amp;c</del> &amp; ut ardentius vobis celestis regni fores patefieri, atqe<del rend="strikethrough">
+                    <gap extent="1" unit="chars"/>
+                </del> vniv<ex>e</ex>rs<ex>æ</ex> <lb/>
+            ecclesie amore conciliari cupiamus. <unclear>Tum</unclear> cum sanctissime memorie ponti=<lb break="no"/>
+            fex Gregorius magnus Anglie populis regibusqe Euangelicas leges <lb/>
+            et <hi rend="underline">Apostolice authoritatis cultum</hi> intulerit Nos vt sanctimonia ac vir=<lb break="no"/>
+            tute longe inferiores, ita nominis similitudine atqe dignitatis fastigio <lb/>
+            pares beatissima ejus vestigia par est, in istarum provinciaru<ex>m</ex> <lb/>
+            salute curanda, presertim in hoc tempore ad alicujus non vulgaris
+            <fw type="catch" place="bot-right">f<ex>æ</ex>licit</fw>            
+            <pb n="150r" facs="/bl/add_ms_28640/add_ms_28640_f150r/add_ms_28640_f150r.jpg"/>
+            f<ex>æ</ex>licitatis spem nos dirigat concilium tuum Nobilissime princeps. Quare <lb/>
+            cum in Hispanias ad Catholicum regem te contuleris Austriaci conju-<lb break="no"/>
+            gii cupidum desiderium hoc tuum apprime voluimus, <unclear>tum</unclear> etiam <lb/>
+            luculenter in presenti rerum opportunitate testari te ad precipuas <lb/>
+            pontificates nostri curas pertinere. Cum enim Catholicam virginem  <lb/>
+            matrimonie tibi jungere studeas facile conijcere possumus vetera illa <lb/>
+            <ex>Christ</ex>iane pietatis semina que in regum Brittanorum animis adeo feliciter <lb/>
+            floruerunt in visceribus tuis (deo incrementum dante) renidescere  posse. <lb/>
+            Neqe enim ejusmodi nuptias amaret quem teneret Catholice religionis <lb/>
+            odium et Romane sedis oppressio delectaret / Proinde nos accuratissimis <lb/>
+            precibus assidue orare iussimus patrem luminum vt te <ex>Christ</ex>iani orbis <lb/>
+            florem et Mag<ex>ne</ex>. Brittanie spem, in ejus hereditate possessionem per=<lb break="no"/>
+            durat, quam tibi clarissimam majores tui pepererant Pontificia autho=<lb break="no"/>
+            ritate tuenda &amp;<del rend="strikethrough">t</del> heresum portentis profligandis. Memento dierum an=<lb break="no"/>
+            tiquorum, interroga patres tuos et dicent tibi qua petatur celum via, <lb/>
+            quod iter mortales principes insistentes ad sempiterna regna p<ex>ro</ex>-<lb break="no"/>
+            grediantur. Intuere patefactis celi foribus sanctissimos illos Anglie <lb/>
+            reges qui Roma Angelis comitantibus p<ex>er</ex>fecti dominantium dominum et <lb/>
+            Apostolorum principem in Apostolica sede coluerunt. Eorum facta atqe exem=<lb break="no"/>
+            pla dei loquentis voces sunt que te hortantur vt eorum instituta <unclear>secte=</unclear>
+                <lb break="no"/>
+            <unclear>ris</unclear> in quorum imperium pervenire cupis. Fieri ne poterit vt tu ab here=<lb break="no"/>
+            ticis condemnari eos impietatis patiaris et in sempiterni horroris <lb/>
+            carcere <unclear>detrudi</unclear>, quos in celo cum <ex>Christ</ex>o regnare cunctisqe principalibus <lb/>
+            preesse Catholice ecclesie fides testatur? Ii nunc e beata illa patria <lb/>
+            tibi manum porrigunt qui sospitem te ad Catholici regis aulam p<ex>er</ex>dux=<lb break="no"/>
+            erunt, atqe Rom. ecclesie gremium reducere cupiunt. <unclear>Ea</unclear> vero ge-<lb break="no"/>
+            mitibus inenarrabilis deum clementie pro tua salute venerans, bra=<lb break="no"/>
+            chia Pontificie charitatis protendit te desideratissimum filium amantissi=<lb break="no"/>
+            me complexura, tibiqe <unclear>Celesti</unclear> regni spe ostentans. Certe <ex>Christ</ex>iane re=<lb break="no"/>
+            ipub<ex>licae</ex> nationib<ex>u</ex>s nullum tribuere solatium ma<ex>j</ex>us potes quam <unclear>si</unclear> principem Apostolorum <lb/>
+            cujus authoritas regnorum propugnaculum et divinitatis oraculum in Bri=<lb break="no"/>
+            tannia <unclear>tamdiu</unclear> habita est. in tue nobiliss<ex>imae</ex> insule possessionem reduxeris. <lb/>
+            Quod quidem haud difficulter continget si cor tuum quo regni illius <lb/>
+            prosperitas continetur pulsanti domino patefacies / Tanta charitate <lb/>
+            Regalis no<ex>str</ex>is laudibus favemus vt te in orbe terrarum vna cum sere=<lb break="no"/>
+            nissimo parente Brittanie liberatorem restitutoremqe avite religionis <lb/>
+            nuncupari cupiamus  Quod certe desperare nolumus freti deo <lb/>
+            in cujus manibus corda regum sunt &amp; qui sanabiles fecit nationes <lb/>
+            <del rend="strikethrough">fecit</del> orbis terrarum quem tibi omni qua possumus industria conciliare <lb/>
+            semper conabimur. Tu vero in his literis Pontificie charitatis
+            <pb n="150v" facs="/bl/add_ms_28640/add_ms_28640_f150v/add_ms_28640_f150v.jpg"/>
+            sollicitudinem agnosce, felicitatem tuam curantis; quas certe numq<ex>ua</ex>m nos ex=<lb break="no"/>
+            arasse penitebit si earum lectio aliquos saltem Catholice religionis ig=<lb break="no"/>
+            niculos <unclear>excitabit</unclear> in corde tanti Principis quem diuturna Letitia <lb/>
+            perfrui et virtutum omnium gloria florere cupimus  /  datum Rome apud <lb/>
+            Sa<ex>n</ex>c<ex>t</ex>um Petrum die vicesimo Aprilis 1623 Pontificatus nostri anno tertio.
+         </p>
+         <p rend="align-right">
+            Joannes Sampolus Secretarius.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f149v/add_ms_28640_f149v.jpg"/>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f150r/add_ms_28640_f150r.jpg"/>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f150v/add_ms_28640_f150v.jpg"/>
+   </facsimile>
+</TEI>

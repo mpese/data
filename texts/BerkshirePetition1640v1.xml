@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petition to the King</title>
+            <author>Grand Jury of Berkshire</author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_24064">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 24064</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="BerkshirePetition1640v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, ff. 66r–66v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 66v–67r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_24064.xml">British Library, Additional MS 24064, f. 9r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_OSB_MSS_28.xml">Beinecke Library, OSB MSS 28, Box 2, Folder 25, item 37, 516r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, ff. 135r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa192.xml">Folger Shakespeare Library,  MS V.a.192, ff. 9r–10r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH2604.xml">Northamptonshire Record Office,  FH2604</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3574.xml">Northamptonshire Record Office, IC 3574</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3576.xml">Northamptonshire Record Office, IC 3576</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_466.xml">The National Archives,  SP 16/466, /42 [ff.122v–123v]</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="page">133</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <forename>J.S.</forename>
+                     <surname>Morrill</surname>
+                  </author>
+                  <title>Revolt of the Provinces: Conservatives and Radicals in the English Civil War, 1630-1650</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Allen and Unwin</publisher>
+                  <date when="1976">1976</date>
+                  <biblScope unit="page">148</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640-07-11">11 July 1640</date>
+            <placeName corresp="../places/places.xml#PL0022">Berkshire</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Petition of Right</term>
+               <term>Ship Money</term>
+               <term>Short Parliament</term>
+               <term>forest laws</term>
+               <term>hunting</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-09" who="#SV" status="proofread"/>
+            <change when="2018-01-26" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="64r" facs="/bl/add_ms_22959/add_ms_22959_f064r/add_ms_22959_f064r.jpg"/>
+         <head>
+            To the kings most excell<ex>en</ex>t Majestie <lb/>
+            The <sic>humbe</sic> petition of yo<ex>u</ex>r Maj<ex>estie</ex>s Loyall Subjects the Grand <lb/>
+            Iury empanelled the 11th of Iuly 1640 to serue at the ge=<lb break="no"/>
+            nerall Assises holden for the County of Berke in the be=<lb break="no"/>
+            halfe of themselues &amp; the rest of the bodie of the County
+         </head>
+         <p rend="indent">
+            Sheweth
+         </p>
+         <p>
+            That whereas yo<ex>u</ex>r Petitioners haue been of late yeeres <lb/>
+            &amp; still are much burthened with sundry greevances of diu<ex>er</ex>se <lb/>
+            natures, deriving theire authority from yo<ex>u</ex>r Majestie, but <lb/>
+            being directly contrary to yo<ex>u</ex>r Maj<ex>estie</ex>s Lawes established in <lb/>
+            this yo<ex>u</ex>r kingdome, the chiefe of them presenting themselues <lb/>
+            in a schedule hereunto annexed, for redresse whereof as <lb/>
+            <add place="LM">allows</add>
+            yo<ex>u</ex>r Petitioners hoped yo<ex>u</ex>r Maj<ex>es</ex>tie was graciously pleased <lb/>
+            about the middle of Apr. last to assemble the Great Coun=<lb break="no"/>
+            cell com<ex>m</ex>only called the high Court of Parliament &amp; some <lb/>
+            three weekes after to dissolue <add place="LM">
+                    <hi rend="underline">it</hi>
+                </add>
+                <hi rend="underline">the same</hi>, for want (as it <lb/>
+            seemes to yo<ex>u</ex>r Peticioners) of a good Agreement betwixt the <lb/>
+            2 houses And neu<ex>er</ex>theles since the said dissolution to ex=<lb break="no"/>
+            presse such a fatherly care of yo<ex>u</ex>r pore people that yo<ex>u</ex>r <lb/>
+            Maj<ex>es</ex>tie hath vouchsafed by yo<ex>u</ex>r printed declaration to in=<lb break="no"/>
+            uite them to the powring out of theire complaints into yo<ex>u</ex>r <lb/>
+            Princely care
+         </p>
+         <p>
+            It may therefore please yo<ex>u</ex>r most Excellent Maj<ex>es</ex>tie to take <lb/>
+            the said particulers into yo<ex>u</ex>r tender consideration &amp; to giue <lb/>
+            yo<ex>u</ex>r Petitioners such ease therein as in yo<ex>u</ex>r Royall wise=<lb break="no"/>
+            dome shall be fitte &amp; whereby it may appeere to all yo<ex>u</ex>r <lb/>
+            Maj<ex>estie</ex>s Subjects, especiallie to those of yo<ex>u</ex>r Maj<ex>estie</ex>s most hon<ex>oura</ex>ble <lb/>
+            Privy Counsell &amp; the other officers &amp; Ministers of Iustice <lb/>
+            that you are resolued to continue to them all theire rights <lb/>
+            &amp; liberties, which they desire by the Petition of Right &amp; <lb/>
+            were confirmed by yo<ex>u</ex>r Maj<ex>es</ex>tie in the 3d yeer of your <lb/>
+            Reigne And yo<ex>u</ex>r Pet<ex>itioner</ex>s as most bound shall continue
+            <pb n="64v" facs="/bl/add_ms_22959/add_ms_22959_f064v/add_ms_22959_f064v.jpg"/>
+            to procure the length &amp; happines of yo<ex>u</ex>r Maj<ex>estie</ex>s said reigne <lb/>
+            by theire prayers &amp; all actions of zeale &amp; duty.
+         </p>
+         <p rend="indent">
+            <add place="LM">Berke</add>A Schedule of such greeuances as <lb/>
+            most oppresse this Country.
+         </p>
+         <p>
+            <add place="LM">1 </add>
+            The illegall &amp; unsupportable charge of Ship-mony <lb/>
+            nowe the 5th yeere imposed as high as ever, though <lb/>
+            the Subject was not able to pay the last yeer being a Third.
+         </p>
+         <p>
+            <add place="LM">2 </add>
+            The nowe taxe of Coate &amp; Conduct mony with undue <lb/>
+            meanes used to inforce the payment of it by messengers <lb/>
+            from the Counsell Table.
+         </p>
+         <p>
+            <add place="LM">3 </add>
+            The Compelling some Free-men by imprisonment &amp; <lb/>
+            threatnings to take presse-mony &amp; others for feare of <lb/>
+            the like imprisonment to forsake theire place of habita=<lb break="no"/>
+            tion hiding themselues in Woods, whereby theire fami=<lb break="no"/>
+            lies are left to the Charge of the Parish &amp; Harvest <lb/>
+            worke undone for want of Labourers.
+         </p>
+         <p>
+            <add place="LM">4 </add>
+            The infinite number of Monopolies upon ev'ry thing <lb/>
+            the Country-man must buy.
+         </p>
+         <p rend="indent">
+            Besides the Easterne parte of this <lb/>
+            Country where yo<ex>u</ex>r Maj<ex>esty'</ex>s Forrest of <lb/>
+            Windsor is particulerly burthened. 
+         </p>
+         <p>
+            <add place="LM">1 </add>
+            With the unmeasurable increase of y<hi rend="superscript">e</hi>
+                <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> deere which if <lb/>
+            they should goe on so for a fewe yeeres more will leaue <lb/>
+            neither food nor roome for any other creature in the <lb/>
+            forrest
+         </p>
+         <p>
+            <add place="LM">2 </add>
+            With the rigid execution of the Forrest lawes in theire <lb/>
+            extremity
+         </p>
+         <p>
+            <add place="LM">3 </add>
+            With the exaction of immoderate Fees by some Officers <lb/>
+            under the Lo<ex>r</ex>d Chiefe Iustice in Eyre.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f064r/add_ms_22959_f064r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f064v/add_ms_22959_f064v.jpg"/>
+   </facsimile>
+</TEI>

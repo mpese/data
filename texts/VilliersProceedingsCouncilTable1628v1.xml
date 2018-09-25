@@ -1,0 +1,716 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proceedings at the Council Table</title>
+            <author>
+               <persName corresp="../people/people.xml#0009">George Villiers, 1st Duke of Buckingham</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS390.xml">
+               <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 390</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_8827">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 8827</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_30926">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 30926</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48059">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 48059</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72417">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72417</idno>
+               <msName>Trumbull Papers</msName>
+            </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_161">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 161</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2217</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_13.xml">Alnwick Castle,  MS 13, ff. 21r–21*v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_540A.xml">Alnwick Castle,  MS 540A, ff. 9–13</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="VilliersProceedingsCouncilTable1628v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, ff. 10r–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_30926.xml">British Library, Additional MS 30926, ff. 51v–52v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_4155.xml">British Library, Additional MS 4155, ff. 170x–171x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_48059.xml">British Library, Additional MS 48059, ff. 75v–78v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72417.xml">British Library, Additional MS 72417, ff. 17r–18v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72432.xml">British Library, Additional MS 72432, ff. 45r–46v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_8827.xml">British Library, Additional MS 8827, ff. 75r–77r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1583.xml">British Library, Harley MS 1583, ff. 149r–150r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_161.xml">British Library, Harley MS 161, ff. 180x–182x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_161.xml">British Library, Harley MS 161, ff. 184r–185v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1721.xml">British Library, Harley MS 1721, ff. 57v–59v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, f. 21r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, ff. 22r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2305.xml">British Library, Harley MS 2305, ff. 68v–70v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_4264.xml">British Library, Harley MS 4264, ff. 122r–124v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6800.xml">British Library, Harley MS 6800, ff. 104x–106x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb165.xml">Beinecke Library, Osborn fb165, ff. 115–117</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb166.xml">Beinecke Library, Osborn fb166, ff. 72r–73r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb175.xml">Beinecke Library, Osborn fb175, f. 55</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb189.xml">Beinecke Library, Osborn fb189, ff. 84–87</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb57.xml">Beinecke Library, Osborn fb57, ff. 255–256</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_C_132.xml">Bodleian Library,  MS Add. C 132, ff. 8r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_C_187.xml">Bodleian Library,  MS Add. C 187, ff. 65v–67r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, ff. 184r–185r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_1.xml">Bodleian Library,  MS Carte 1, ff. 89r–90</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 328v–329v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_4.xml">Bodleian Library,  MS Clarendon 4, ff. 139r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_A_105.xml">Bodleian Library,  MS Rawlinson A 105, ff. 51r–52r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_687.xml">Bodleian Library,  MS Rawlinson C 687, ff. 38r–39v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_807.xml">Bodleian Library,  MS Rawlinson C 807, ff. 145–150</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_356.xml">Bodleian Library,  MS Rawlinson D 356, ff. 49–51</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_276.xml">Bodleian Library,  MS Tanner 276, ff. 70r–71r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_276.xml">Bodleian Library,  MS Tanner 276, ff. 89r–90r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_395.xml">Bodleian Library,  MS Tanner 395, reversing volume, 97v–r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_72.xml">Bodleian Library,  MS Tanner 72, f. 267v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg129.xml">Cambridge University Library,  MS Gg.1.29, reversing the volume, 97v–98r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg413.xml">Cambridge University Library,  MS Gg.4.13, pp96–97</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm424.xml">Cambridge University Library,  MS Mm.4.24, ff. 86r–87r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_4124.xml">Harvard Law School,  MS 4124, ff. 86–88</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1080.xml">Houghton Library,  fMS Eng 1080, pp43–44</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1081.xml">Houghton Library,  fMS Eng 1081, ff. 52v–54r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266_1.xml">Houghton Library,  fMS Eng 1266.1, ff. 102r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266_2.xml">Houghton Library,  fMS Eng 1266.2, ff. 133r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266_2.xml">Houghton Library,  fMS Eng 1266.2, ff. 134r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266_2.xml">Houghton Library,  fMS Eng 1266.2, ff. 135r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1278.xml">Houghton Library,  fMS Eng 1278, Folder 5</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_917.xml">Houghton Library,  fMS Eng 917, item 2, ff.51v–53r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_213.xml">Huntington Library,  HM 213, pp217–223</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Parliament_Box_3.xml">Huntington Library, Hastings Parliament Box 3, item 14</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_18.xml">Inner Temple Library, Petyt MS 538/18, f. 34r, 45r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U951O10.xml">Kent Archives,  U951/O10, item 15</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3578.xml">Northamptonshire Record Office, IC 3578</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_RO_1_66.xml">Parliamentary Archives,  HL/PO/RO/1/66, item 15</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDDH_Accession_G757_Box_1.xml">Somerset Archives,  DD\DH, Accession G/757, Box 1 [Civil War Papers]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SHC_LM133148.xml">Surrey History Centre,  LM/1331/48, ff. 1r–2v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_K35.xml">St John's College,  MS K.35, ff. 12r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 84r–v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>Aprill 4. The proceeding of the Parliament, being this day related to the King, by the councellors of the Commons House of Parliament</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">[London]</pubPlace>
+                  <date when="1628">[1628]</date>
+                  <idno type="STC">24739</idno>
+                  <biblScope unit="sigs" from="A2r" to="A4r">A2r-A4r</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0009">
+                        <forename>George</forename>
+                        <surname>Villiers</surname>
+                        <roleName>1st Duke of Buckingham</roleName>
+                     </persName>
+                  </author>
+                  <title>The Duke of Buckingham his speech to the King in Parliament Aprill 4. 1628</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">B5308B</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628-04-04">4 April 1628</date>
+            <placeName corresp="..places/places.xml#PL0011">Privy Council</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Forced Loan</term>
+               <term>parliament</term>
+               <term>court</term>
+               <term>state finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+<listChange>
+   <change when="2017-10-10" who="#RB" status="draft"/>
+   <change when="2018-06-05" who="#NM" status="proofread"/>
+</listChange>         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="379r" facs="/bl/harley_ms_390_part/harley_ms_390_f379r/harley_ms_390_f379r.jpg"/>
+         <p>
+            <add place="header">12 April 1628</add>
+            That on friday the Eue of their fast, late in the afternoone <lb/>
+            beyond all expectation, the House of Commons gaue his Ma<ex>jes</ex>tie <add place="above">
+                    <hi rend="italics">unanimously</hi>
+                </add> without <lb/>
+            all condition/ .5. subsidies to be payed beweene this &amp; Christmas. <lb/>
+            The report whereof being by S<ex>i</ex>r Iohn Cook carried to his Ma<ex>jes</ex>tie<lb/>
+            his Ma<ex>jes</ex>tie expressed wonderfull joy &amp; contentment saying he was <lb/>
+            more happie then any of the Kings his predecessors <del rend="strikethrough">were</del>, &amp;c <lb/>
+            <sic>&amp;</sic> then asking S<ex>i</ex> Iohn Cook further by how many voices he carried it, <lb/>
+            he answered But <hi rend="italics">by once voice</hi>; whereat his Ma<ex>jes</ex>tie being at first <lb/>
+            somewhat <del rend="strikethrough">appalled</del> appalled, S<ex>i</ex>r Iohn replyed, his Ma<ex>jes</ex>tie had so much <lb/>
+               the greater cause of joy, the whole <hi rend="italics">House</hi> being so vnanimous, as <lb/>
+            they made all but <hi rend="italics">One voice</hi> at which they say His Ma<ex>jes</ex>tie wept. <lb/>
+               The Duke at the Counsell Table <del rend="strikethrough">whither</del>
+                <add place="above">where</add> his <del rend="strikethrough">
+                    <gap reason="illegible" quantity="3" unit="chars"/>
+                </del> Ma<ex>jes</ex>tie was pre=<lb break="no"/>
+               sent humbly besought his Ma<ex>jes</ex>tie to grant all the Parlaments desires, <lb/>
+               since he was perswaded they intended nothing more then his &amp; the <lb/>
+               Kingdomes good. And the better to accomplish <add place="above">it</add> desire his Ma<ex>jes</ex>tie to <lb/>
+               withdraw his favour from him, seing he was willing to sacrifice <lb/>
+               himselfe his honours &amp; all that he had for the good of his Countrey <lb/>
+               And whereas he vnderstood, that his pluralitie of Offices was excepted <lb/>
+               against, he was contented to giue up the Master of the Horse to <lb/>
+               Marquesse Hammilton, The Warden of the Cinque Ports to the <lb/>
+               E of Carleile, when he returned from his Ambassadge. And for the <lb/>
+               Admiraltie, he desired onely to be Admirall in time of peace &amp; at <lb/>
+               home, &amp; that the Counsell &amp;  the Houses of Parlament might appoint <lb/>
+               another Admirall for all seruice at Sea. This was within few houres <lb/>
+               after the grant of the subsidies.
+         </p>
+         <p>
+            Secretary Cook returning to the House to signifie his Ma<ex>jes</ex>ties <lb/>
+            <del rend="strikethrough">
+                    <unclear>ioyfull ex</unclear>
+                </del> gracious acceptance &amp; that his Ma<ex>jes</ex>tie promised he would <lb/>
+            deny them nothing that any of his predecessors had granted <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> them, for <lb/>
+            their liberties &amp; immunities &amp;c he added also, for a conclusion what <lb/>
+            service my Lo<ex>rd</ex> Duke had done in so earnestly beseeching his Ma<ex>jes</ex>tie to <lb/>
+            giue the House full content in all their desires. For which S<ex>i</ex>r Iohn <lb/>
+            Eliot stood vp &amp; checked him, saying, that they in what they had done <lb/>
+            had no respect to any but his Ma<ex>jes</ex>tie alone, nor intended <del rend="strikethrough">
+                    <gap reason="illegible" quantity="5" unit="chars"/>
+                </del> to giue <lb/>
+            any <add place="above">man</add> content but him onely, nor regarded any mans acceptance but his. <lb/>
+            Nor knew they of any other distinction but of King &amp; Subjects <lb/>
+            &amp; therefore accounted of the Great man no otherwise than as one of <lb/>
+            themselues, who together with them was to advise of meanes to giue his <lb/>
+            Ma<ex>jes</ex>tie contentment <del rend="strikethrough">
+                    <gap reason="illegible" quantity="20" unit="chars"/>
+                </del> in prouision for the good of the <lb/>
+            Kingdome. Wherevnto many in the House made an acclamation, <hi rend="italics">Well</hi>
+                <lb/>
+            <hi rend="italics">spoken S<ex>i</ex>r Iohn Eiot.</hi>
+         </p>
+         <p>
+            On monday Last the Duke made a speach in the Lords house <lb/>
+            which they say, giues much contentment. The King is willing to <lb/>
+            yeeld to all they desire in behalfe of their liberties; onely stands some=<lb break="no"/>
+            what vpon the point o billetting of souldiers. which he sees <add place="above">not</add>, how he can <lb/>
+            yeeld to, as they desire it, without some maine diminution to his prerogatiue <lb/>
+            yet it is supposed, <del rend="strikethrough">they</del> they will agree
+         </p>
+         <gap reason="elision" extent="5" unit="lines"/>
+         <pb n="379v" facs="/bl/harley_ms_390_part/harley_ms_390_f379v/harley_ms_390_f379v.jpg"/> 
+         <pb n="380r" facs="/bl/harley_ms_390_part/harley_ms_390_f380r/harley_ms_390_f380r.jpg"/>
+         <p>
+            <add place="header">13 April 1628</add>
+                <lb/>
+            Worthie Sir/ 
+         </p>
+         <p>
+            This l<ex>ett</ex>re enclosed was written time enough, but <lb/>
+            sent to late, or the Cheesman went too soone &amp; sooner then he <lb/>
+            was wont. for it stayd behind. I sent it now to Kenford, <lb/>
+            if the Carrier carie it not to Bury to gett 2d more, as once <lb/>
+            he did. And <add place="above">that</add> I may make some amends for disappointing your <lb/>
+            expectation, at the usuall time; I sent with it the summe of y<hi rend="superscript">e</hi> <lb/>
+            Kings speech &amp; <add place="above">the</add> Dukes formally printed. I wonder, whose wisedome <lb/>
+            it was, in this sort, to publish them thus checkmate together: but I hope <lb/>
+            you will excuse me for sending them. In my le<ex>tt</ex>re I told you <lb/>
+            that the Duke in his speech made offer of resignation of some of <lb/>
+            his offices vpon this occasion: I saw it written from Court, &amp; from the rela=<lb break="no"/>
+            tion of one that kept that Counsell-chamberdore all the while. But <lb/>
+            you shall find no such matter in this printed speech. It may be, it <lb/>
+            aws not thought fitt. The rest I wrot about the subsidies &amp; <lb/>
+            the consequents, you may correct by what, I haue inscribed into <lb/>
+            the couer of the speaches, in the same words I receiued it yester=<lb break="no"/>
+            day from Mr Pory. whose intelligence I <del rend="strikethrough">supp</del> suppose is more <lb/>
+            <sic>more</sic> perfect, then that I had before, depending vpon memory.
+         </p>
+         <p>
+            The Parlament sittes euery day, saue onely this, <lb/>
+            the K himselfe moued to haue it so. The rest you <lb/>
+            shall receiue next saturday. In hast with my <lb/>
+            respect.
+         </p>
+         <p>
+            Christ Coll<ex>ege</ex> <lb/>
+            Aprill 13.
+         </p>
+         <pb n="380v" facs="/bl/harley_ms_390_part/harley_ms_390_f380v/harley_ms_390_f380v.jpg"/>
+         <p>
+            To the R wor<ex>shipfu</ex>ll his <lb/>
+            much respect freind <lb/>
+            S<ex>i</ex>r Martin Stuteville <lb/>
+            Knight these at <lb/>
+            <hi rend="underline">Dalham</hi>
+         </p>
+         <p>Aprill. 12. et 15</p>
+         <p>
+            Leaue this letter at <del rend="strikethrough">Kenf</del> <lb/>
+            Kenford at Mr James <lb/>
+            Fysons to be sent <lb/>
+            as aforesayd presently <lb/>
+            vpon the receipt
+         </p>
+         <p>
+            I pray be carefull that it be <lb/>
+            not carried to Bury.
+         </p>
+         <pb n="381r" facs="/bl/harley_ms_390_part/harley_ms_390_f381r/harley_ms_390_f381r.jpg"/>
+         <space extent="1" unit="page"/>
+         <pb n="381v" facs="/bl/harley_ms_390_part/harley_ms_390_f381v/harley_ms_390_f381v.jpg"/>
+         <p>
+            Both speeches following were deliuered at the Coun=<lb break="no"/>
+            sell table in the afternoone of th same day, when <lb/>
+            the five subsidies were granted in the House of <lb/>
+            Commons.
+         </p>
+         <p>
+            The same morning before the graunt, his Ma<ex>jes</ex>tie <lb/>
+            had sent a most gracious message to the House, by <lb/>
+            S<ex>i</ex>r Iohn Cook, signifieing, that he would confirme all <lb/>
+            the priviledges of the subject conteined either in <lb/>
+            <hi rend="italics">Magna charta</hi>, or elsewhere, in any manner, as <lb/>
+            they should think good to propound. Which <lb/>
+            message so privailed with them, as they presently <lb/>
+            fell into the discourse of giving, which ended <lb/>
+            with the graunt aforesayd. To this message <lb/>
+            is reference in the Dukes speach.
+         </p>
+         <pb n="382r" facs="/bl/harley_ms_390_part/harley_ms_390_f382r/harley_ms_390_f382r.jpg"/>
+         <p rend="align-centre">
+            <handShift medium="print"/>
+            <hi rend="italic">Aprill 4.</hi>
+         </p>
+         <p>
+            The proceeding of the Parliament, being <lb/>
+            this day related to the King, by the <lb/>
+            Councellors of the Commons House of <lb/>
+            Parliament.
+         </p>
+         <p>
+            <hi rend="italic">
+               <hi rend="initial-letter">H</hi>IS Maiestie vpon the report <lb/>
+               made, expressed great content-<lb break="no"/>
+               ment that it gaue him; not valewing <lb/>
+               the Money giuen, comparable to the <lb/>
+               hearts shewed in the way of the Guift: <lb/>
+               For although his great occasions of <lb/>
+               State did require more Money then at <lb/>
+               this time was giuen; yet now he made <lb/>
+               account he could not lacke since he had <lb/>
+               their loues; and that this day, he <lb/>
+               thought that he had gayned more Re-<lb break="no"/>
+               putation in</hi> Christendome, <hi rend="italic">then if <lb/>
+                  he had wonne many Battailes; Say-<lb break="no"/>
+                  ing further, (according to his Speech <lb/>
+                  the first day of the Parliament,) That <lb/>
+                  they might easily make him in loue</hi>
+                  <fw type="catch" place="bot-right">with</fw>
+                  <pb n="382v" facs="/bl/harley_ms_390_part/harley_ms_390_f382v/harley_ms_390_f382v.jpg"/>
+                  <hi rend="italic">with Parliaments, (now he professed <lb/>
+                  he was so:) And that we should finde <lb/>
+                  the fruits of it by calling vs often to-<lb break="no"/>
+                  gether, and to secure further feares, <lb/>
+                  and create future confidence, he assu-<lb break="no"/>
+                  red vs that we should enioy as great <lb/>
+                  imunitie and freedom in his time, as <lb/>
+                  euer we possessed or had vnder the <lb/>
+                  Reigne of any the best Kings of this <lb/>
+                  Realme.
+            </hi>
+         </p>
+         <pb n="383r" facs="/bl/harley_ms_390_part/harley_ms_390_f383r/harley_ms_390_f383r.jpg"/>
+         <p rend="indent">
+            <hi rend="italic">The Duke of</hi> <hi rend="small-caps"> Bvckingham</hi> <lb/>
+            <hi rend="italic">his Speach to his</hi> Maiestie <hi rend="italic">on <lb/>
+               Friday being the 4th. of A-<lb break="no"/>
+               prill,</hi> 1628.
+         </p>
+         <p rend="indent">            
+            SIR,
+         </p>
+         <p>
+            <hi rend="initial-letter">M</hi>EE thinkes I now behold <lb/>
+            you a great <hi rend="italic">King</hi>; For loue <lb/>
+            is greater then Maiestie. <hi rend="italic">Opinion</hi> <lb/>
+            that your People loued you not <lb/>
+            had almost lost you in the opinion <lb/>
+            of the <hi rend="italic">World:</hi> but this day makes <lb/>
+            you appeare as you are, <hi rend="italic">A glorious <lb/>
+               King loued at home, and now to bee <lb/>
+               feared abroad</hi>. This falling out so <lb/>
+            happily, I beseech you giue mee <lb/>
+            leaue to bee an humble Sutor vnto <lb/>
+            your <hi rend="italic">Maiestie</hi>. First, for my selfe, <lb/>
+            that I who haue had the honour to <lb/>
+            be your <hi rend="italic">Fauourite</hi>, may now giue
+            <fw type="catch" place="bot-right">vp</fw>
+            <pb n="383v" facs="/bl/harley_ms_390_part/harley_ms_390_f383v/harley_ms_390_f383v.jpg"/> 
+            vp my title vnto them, they to bee <lb/>
+            your <hi rend="italic">Fauourite</hi>, and I to bee your <lb/>
+            Seruant. My second sute is, that <lb/>
+            they hauing all done so well, you <lb/>
+            will account of them all as one, a <lb/>
+            Body of many members, but all of <lb/>
+            one Heart. <hi rend="italic">Opinion</hi> might haue <lb/>
+            made them differ, but <hi rend="italic">Affection</hi> did <lb/>
+            moue them all to ioyne with <lb/>
+            like loue in this great <hi rend="italic">Guift</hi>: for pro-<lb break="no"/>
+            portion it being lesse then your oc-<lb break="no"/>
+            casions may aske, yet it is more then <lb/>
+            euer Subiects did giue in so short a <lb/>
+            time: Nor am I perswaded it will <lb/>
+            rest there, for this is but as an ear-<lb break="no"/>
+            nest of their affections, to let you <lb/>
+            see, and the world know what <hi rend="italic">Sub-<lb break="no"/>
+               iects</hi> you haue, that when your <hi rend="italic">Ho-<lb break="no"/>
+                  nour</hi> and the good of the <hi rend="italic">State</hi> is en-<lb break="no"/>
+            gaged, and <hi rend="italic">Ayde</hi> asked in the <sic>ordi-<lb break="no"/>
+               dinary</sic> way of Parliament, you can-
+            <fw type="catch" place="bot-right">not</fw>
+            <pb n="384r" facs="/bl/harley_ms_390_part/harley_ms_390_f384r/harley_ms_390_f384r.jpg"/>            
+            not want. This is not a gift of fiue <lb/>
+            Subsidies alone, but the opening of <lb/>
+            a Mine of Subsidies which lyeth in <lb/>
+            their hearts. This good beginning <lb/>
+            hath wrought already these ef-<lb break="no"/>
+            fects, they haue taken your heart, <lb/>
+            drawne from you a declaration that <lb/>
+            you will loue Parliaments. And a-<lb break="no"/>
+            gaine, this will be mett, I make no <lb/>
+            question, with such respect, that <lb/>
+            their demands will be iust, dutifull <lb/>
+            and moderate: For they that know <lb/>
+            thus to giue, knowe what is fit to <lb/>
+            aske: then cannot your Maiestie <lb/>
+            do lesse then outgoe their demands <lb/>
+            or else you doe lesse then your selfe, <lb/>
+            or them: For your Message begat <lb/>
+            trust, their trust and your promise <lb/>
+            must then beget performance. This <lb/>
+            being done, then shall I with a glad <lb/>
+            heart hold this worke as well ended
+            <fw type="catch" place="bot-right">as</fw>
+            <pb n="384v" facs="/bl/harley_ms_390_part/harley_ms_390_f384v/harley_ms_390_f384v.jpg"/> 
+            as now begun, and then shall I hope <lb/>
+            that Parliaments shalbe made here-<lb break="no"/>
+            after so frequent, by the effects and <lb/>
+            good vse of them, as shall haue this <lb/>
+            further benefit, to deterre from ap-<lb break="no"/>
+            proaching your eares those P<hi rend="italic">roiec-<lb break="no"/>
+               tors</hi> &amp; <hi rend="italic">Inducers</hi> of Innouation, as di-<lb break="no"/>
+            sturbers both of <hi rend="italic">Church</hi> &amp; <hi rend="italic">Co<ex>m</ex>mon-<lb break="no"/>
+               wealth</hi>. Now <hi rend="italic">Sir</hi>, to open my heart <lb/>
+            and to ease my griefe, please you to <lb/>
+            pardon me a word more. I must <lb/>
+            confesse I haue long liued in paine, <lb/>
+            <hi rend="italic">Sleepe</hi> hath giuen mee no rest, <hi rend="italic">Fa-<lb break="no"/>
+               uours</hi> &amp; <hi rend="italic">Fortunes</hi> no content, much <lb/>
+            haue bene my secret sorrowes to be <lb/>
+            thought the man of <hi rend="italic">Seperation</hi>, and <lb/>
+            that diuided the <hi rend="italic">King</hi> from his peo-<lb break="no"/>
+            ple, and them from him; but I hope <lb/>
+            it shall appeare, they were some mi-<lb break="no"/>
+            staken mindes, that would haue <lb/>
+            made me the euill Spirit that wal-
+            <fw type="catch" place="bot-right">ked</fw>
+            <pb n="385r" facs="/bl/harley_ms_390_part/harley_ms_390_f385r/harley_ms_390_f385r.jpg"/>
+            ked betweene a good <hi rend="italic">Master</hi> and <lb/>
+            a loyall People for ill offices. <lb/>
+            VVhereas by your <hi rend="italic">Maiesties</hi> fa-<lb break="no"/>
+            uour, I shall euer endeauour to ap-<lb break="no"/>
+            proue my selfe a good Spirit brea-<lb break="no"/>
+            thing nothing but the best of serui-<lb break="no"/>
+            ces vnto them all. Therefore this <lb/>
+            day I account more blessed vnto me <lb/>
+            then my birth, to see my selfe able <lb/>
+            to serue them, to see you brought <lb/>
+            in loue with Parliaments, to see a <lb/>
+            Parliament expresse such loue to <lb/>
+            you. Loue them I beseech you, <lb/>
+            and God so loue me and mine, as <lb/>
+            I ioy to see this day. 
+         </p>
+         <pb n="385v" facs="/bl/harley_ms_390_part/harley_ms_390_f385v/harley_ms_390_f385v.jpg"/>
+         <space extent="1" unit="page"/>
+         <pb n="386r" facs="/bl/harley_ms_390_part/harley_ms_390_f386r/harley_ms_390_f386r.jpg"/>
+         <p>
+            <handShift medium="black-ink"/>
+            The next morning being satturday April. 5. S<ex>r</ex> Iohn <lb/>
+            Cook made report of both these speaches to the <lb/>
+            House of Com<ex>m</ex>ons./
+         </p>
+         <p>
+            Which being done, S<ex>i</ex>r Iohn Eliott stept up, &amp; <lb/>
+            taxed Mr Secretary for entermingling a subjects <lb/>
+            speech with the Kings message, whereby he might <lb/>
+            seeme (sayd he) to derogate from the honour &amp; <lb/>
+            Ma<ex>jes</ex>tie of a King. Nor could it become any subject, <lb/>
+            to beare himselfe in such a fashion, as if no <lb/>
+            grace out to descend from the King to y<hi rend="superscript">e</hi> people, <lb/>
+            nor any loyaltie ascend from the people to y<hi rend="superscript">e</hi> King, <lb/>
+            but through him onely./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_390_part/harley_ms_390_f378r/harley_ms_390_f378r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_390_part/harley_ms_390_f378v/harley_ms_390_f378v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_390_part/harley_ms_390_f379r/harley_ms_390_f379r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_390_part/harley_ms_390_f379v/harley_ms_390_f379v.jpg"/>
+      <graphic n="5" url="/bl/harley_ms_390_part/harley_ms_390_f380r/harley_ms_390_f380r.jpg"/>
+      <graphic n="6" url="/bl/harley_ms_390_part/harley_ms_390_f380v/harley_ms_390_f380v.jpg"/>
+      <graphic n="7" url="/bl/harley_ms_390_part/harley_ms_390_f381r/harley_ms_390_f381r.jpg"/>
+      <graphic n="8" url="/bl/harley_ms_390_part/harley_ms_390_f381v/harley_ms_390_f381v.jpg"/>
+      <graphic n="9" url="/bl/harley_ms_390_part/harley_ms_390_f382r/harley_ms_390_f382r.jpg"/>
+      <graphic n="10" url="/bl/harley_ms_390_part/harley_ms_390_f382v/harley_ms_390_f382v.jpg"/>
+      <graphic n="11" url="/bl/harley_ms_390_part/harley_ms_390_f383r/harley_ms_390_f383r.jpg"/>
+      <graphic n="12" url="/bl/harley_ms_390_part/harley_ms_390_f383v/harley_ms_390_f383v.jpg"/>
+      <graphic n="13" url="/bl/harley_ms_390_part/harley_ms_390_f384r/harley_ms_390_f384r.jpg"/>
+      <graphic n="14" url="/bl/harley_ms_390_part/harley_ms_390_f384v/harley_ms_390_f384v.jpg"/>
+      <graphic n="15" url="/bl/harley_ms_390_part/harley_ms_390_f385r/harley_ms_390_f385r.jpg"/>
+      <graphic n="16" url="/bl/harley_ms_390_part/harley_ms_390_f385v/harley_ms_390_f385v.jpg"/>
+      <graphic n="17" url="/bl/harley_ms_390_part/harley_ms_390_f386r/harley_ms_390_f386r.jpg"/>
+   </facsimile>
+</TEI>

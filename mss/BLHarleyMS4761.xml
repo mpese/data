@@ -1,0 +1,619 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 4761</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>8v-9r</locus>
+                   <title when="1619">Letter of the Great Mughal to James I</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0181">Jahangir</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JahangirLetterJamesI.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>9v-10r</locus>
+                   <title when="1603">Letter to the Lord Mayor of London and the Aldermen, at his First Coming to the Crown of England</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JamesLetterLordMayor1603.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>10r-13r</locus>
+                   <title when="1603">The English Catholics' Letter to James I</title>
+                   <author/>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CatholicsLetterJamesI1603v1.xml" type="witness"/>
+                   <link target="../texts/CatholicsLetterJamesI1603v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>13r-17r</locus>
+                   <title when="1617">Letter to Secretary Sir Ralph Winwood</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterWinwoodA1617.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>17r-18r</locus>
+                   <title when="1617">Second Letter to Secretary Sir Ralph Winwood</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterWinwoodB1618.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>18r-19r</locus>
+                   <title when="1603">Letter to James I Before his Trial</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">
+                         Sir Walter Raleigh
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterJames1603.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>19r-20r</locus>
+                   <title when="1604">Letter to James after his Condemnation</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">
+                         Sir Walter Raleigh
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterCondemnation1604.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>20v-22r</locus>
+                   <title when="1603">Letter to His Wife</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterHisWife1603.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>22r-23r</locus>
+                   <title when="1618">Letter to Sir Robert Carr</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterCarr.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="10">
+                   <locus>23r-25v?</locus>
+                   <title when="1617-11-14">Letter to His Wife from Guiana</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterHisWifeGuiana1617.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="11">
+                   <locus>26r-v</locus>
+                   <title when="1616-06">Resignation Letter (A)</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0114">Thomas Egerton, Lord Ellesmere</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/EgertonResignationLetterA.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="12">
+                   <locus>32v-39v</locus>
+                   <title when="1620-06">Letter to the Marquess of Buckingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0014">Thomas Alured</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/AluredLetterBuckingham1620v1.xml" type="witness"/>
+                   <link target="../texts/AluredLetterBuckingham1620v2.xml" type="witness"/>
+                   <link target="../texts/AluredLetterBuckingham1620v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="13">
+                   <locus>41v-44v</locus>
+                   <title when="1621">Letter to the Holy Roman Emperor</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JamesLetterEmperor1622.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="14">
+                   <locus>81r-85r</locus>
+                   <title when="1624-07-29">Memorial given to the King of Spain</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0013">Sir Walter Aston</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/AstonMemorial1624.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="15">
+                   <locus>85r-90v</locus>
+                   <title when="1624">Information Against Buckingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0173">Juan de Mendoza y Velazquez, Marquis de la Hinojosa</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/HinojosaInformationAgainstBuckingham1624.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="16">
+                   <locus>92v-93r</locus>
+                   <title when="1627">To Buckingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0226">Marquis de Toiras</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/MonsieurDeToiraxBuckingham.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="17">
+                   <locus>92r-97r</locus>
+                   <title when="1628-03-19">Summary of a letter from a Jesuit to the Father Rector in Brussels</title>
+                   <author>
+                      <persName corresp="../people/people.xml#0035">John Maynard</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/MaynardLetterJesuit1628v1.xml" type="witness"/>
+                   <link target="../texts/MaynardLetterJesuit1628v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="18">
+                   <locus>97r-99r</locus>
+                   <title when="1624">Letter to the Privy Council Against the Speedy Levy</title>
+                   <author>
+                      Justices of Devonshire
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JusticesDevonshireLetterAgainstLevy1628.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="19">
+                   <locus>102r-113r</locus>
+                   <title when="1630">Letter to Sir Edward Stradling</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0158">Sir Kenelm Digby</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DigbyLetterStradling163x.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="20">
+                   <locus>124r-125r</locus>
+                   <title when="1630-02">Petition to Charles I for his Son</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0010">Henry Cary, Viscount Falkland</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CaryPetitionSon1630v1.xml" type="witness"/>
+                   <link target="../texts/CaryPetitionSon1630v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="21">
+                   <locus>127r-132v</locus>
+                   <title when="1613">Challenges</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0110">Lord Edward Bruce</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0111">Sir Edward Sackville</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BruceSackvilleChallenges1613v1.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v2.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v3.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v4.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v5.xml" type="t_witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v6.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v7.xml" type="witness"/>
+                   <link target="../texts/BruceSackvilleChallenges1613v8.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="22">
+                   <locus>132v-133v</locus>
+                   <title when="1623">A Speech to the King Concerning Toleration of Popery, Attributed to Archbishop Abbot</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0204">Pseudo-Abbot</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/PseudoAbbot1623v1.xml" type="witness"/>
+                   <link target="../texts/PseudoAbbot1623v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="23">
+                   <locus>134r-141v</locus>
+                   <title when="1623">Letters</title>
+                   <author>
+                      <persName corresp="..people/people.xml#P0007">Charles Stuart, Prince of Wales</persName>
+                   </author>
+                   <author>
+                      <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="24">
+                   <locus>145v-154v</locus>
+                   <title when="1623">Letters from James I and Frederick V</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0183">Frederick V, King of Bohemia</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JamesFrederick1623.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="25">
+                   <locus>156r-171v</locus>
+                   <title when="1581">Letters</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BaconLetters.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

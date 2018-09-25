@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prices During the Siege of La Rochelle</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS21935.xml">
+               <msIdentifier xml:id="BL_Add_MS_21935">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 21935</idno>
+                <msName>Nehemiah Wallington book</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 21935</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_922.xml">British Library, Sloane MS 922, f. 77r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1628-11">November 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>seige</term>
+               <term>famine</term>
+               <term>food</term>
+               <term>war</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-08" who="#RB" status="proofread"/>
+            <change when="2018-08-08" who="#RB" status="drafted"/>
+            <change when="2018-05-21" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="80r" facs="/bl/add_ms_21935_part/add_ms_21935_f080r/add_ms_21935_f080r.jpg"/>
+         <gap extent="2" unit="paragraphs" reason="elision"/>
+         <p>
+            <add place="header">
+               <hi rend="italic align-centre">And the miseries that warr brings with it</hi>
+            </add>
+            <hi rend="italic">
+               In Nouember 1628 There Came a Letter to my Father from my <lb/>
+               Cosen Iohn Bradshaw of the newes of the troubles and Sorrows of <ex>th</ex>e <lb/>
+               Rochallers. A Coppye of Some part of <ex>tha</ex>t Letter here followeth
+            </hi>
+         </p>
+         <p>
+            Also it is reported that through this famine in Rochell younge <lb/>
+            Maids of foretenne or sixetenne yeaers olde did Looke Like Olde <lb/>
+            women of an hundred yeer olde <del rend="strikethrough">The</del>
+            <fw type="catch" place="bot-right">This</fw>
+            <pb n="80v" facs="/bl/add_ms_21935_part/add_ms_21935_f080v/add_ms_21935_f080v.jpg"/>
+            <add place="header">
+               <hi rend="italic align-centre">OF the Bitternesse of warre</hi>
+            </add>
+            This famine was such that the poore people . would Cutt off the <lb/>
+            Bvttockes of dead men as they Lay in the Church yeard vnburied <lb/>
+            All the English that came out of Rochell Looked Like Anotomies. they <lb/>
+            Liued too moneths with nothing but Cowhides and Goates skinnes <lb/>
+            boiled The dogges. Cattes, mice . and frogges being all spent <lb/>
+            And this with a world of miseries besides did they svffer in hope <lb/>
+            of releife There died in the sceige of famine Sixtenne thousand <lb/>
+            parsons. the rest induring much miserie. most of their foode be<lb break="no"/>
+            ing hides, Leather and olde gloues. Other prouisions which were <lb/>
+            verie scarces and att an excessiue rate
+         </p>
+         <p>
+            <lg>
+               <l>A Bvshell of wheate at a hundred and twenty pound</l> 
+               <l>A pound of Breat at twentie Shillings</l>
+               <l>A Qvarter of Mvtton at fiue pounde</l>
+               <l>A pounde of Bvtter at thirtie Shillings</l> 
+               <l>An Egge at eaight Shillings</l>
+               <l>An ounce of Svger at two Shillings Six pence</l> 
+               <l>A Dried Fishe at twenty Shillings</l> 
+               <l>A pint of wine at twenty Shillings</l> 
+               <l>A pound of grapes at twenty Shillings</l> 
+               <l>A pint of milke at thirty Shillings</l>
+            </lg>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_21935_part/add_ms_21935_f080r/add_ms_21935_f080r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_21935_part/add_ms_21935_f080v/add_ms_21935_f080v.jpg"/>
+   </facsimile>
+</TEI>

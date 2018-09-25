@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Last Words</title>
+            <author>
+               <persName corresp="../people/people.xml#P0086">John Haskins</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640-06-07">7 June 1640</date>
+            <placeName corresp="../places/places.xml#PL0021">St Mary Overie, London</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+               <term>confession</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholicism</term>
+               <term>crypto-Catholicism</term>
+               <term>religious conversion</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-19" who="#SV" status="proofread"/>
+            <change when="2018-01-25" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="65r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f065r/harley_ms_4931_f065r.jpg"/>
+         <p>
+            The Last Words of Iohn Haskins, who having lived all my dayes <lb/> 
+            a Romane Catholique, &amp; now being by Gods appointment to reco<ex>m</ex>=<lb break="no"/>
+            mend my Body to the earth, &amp; my Soule to God my Redeemer, I being <lb/>
+            troubled in Conscience, &amp; being heeretofore told <ex>tha</ex>t to keepe a secrett in such <lb/>
+            a case, was meritorious, I <unclear>so</unclear> did forbeare, &amp; haue concealed it till now, all-<lb break="no"/>
+            most too late to disclose it, being so neare my last breath. There is, &amp; <lb/>
+            hath beene a rumour at this time of divers things, &amp; all of <ex>the</ex>m haue not <lb/>
+            proved false, for smoake doth allwaies arise from some heate; &amp; now <lb/>
+            belieue me, for I shall see you noe more, that <ex>the</ex>r<ex>e</ex> is as much treachery <lb/>
+            in, &amp; about London now as ever there was in any age, &amp; <ex>tha</ex>t supported by <lb/>
+            noe small ones; In Coleman-streete a greate man hath an house, I wold <lb/>
+            ioy for yo<ex>u</ex>r safety if <ex>tha</ex>t w<ex>e</ex>r<ex>e</ex> searched, &amp; the garden-house adioyning <ex>the</ex>r<ex>e</ex>unto, <lb/>
+            &amp; <ex>the</ex>r<ex>e</ex> yo<ex>u</ex> shall find o<ex>u</ex>r vault, w<ex>hi</ex>ch hath beene a long time making, let <lb/>
+            that be searched throughly, &amp; <ex>the</ex>r<ex>e</ex> yo<ex>u</ex> shall find the heade-spring of all <lb/>
+            knavery; Let the close in Southwarke be looked unto, &amp; o<ex>u</ex>r garden house <lb/>
+            in the upper ground, for to my knowledge <ex>the</ex>r<ex>e</ex> hath beene a conveyance <lb/>
+            a good while.
+         </p>
+         <p>
+            Thus out of a troubled mind haue I made knowne to yo<ex>u</ex>, who ever <ex>tha</ex>t shalbe <lb/>
+            I cannot tell, nor where it wilbe left. And so I end. All my honest <lb/>
+            country-men farewell. I goe unto my rest.
+         </p>
+         <p>
+            <cb/>
+            Iun.1. 1640
+            <cb/>
+            Iohn Haskins.
+         </p>
+         <pb n="65v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f065v/harley_ms_4931_f065v.jpg"/>
+         <p>
+            Iohn Haskins <lb/>
+            his Letter found <lb/>
+            in St Mary Overies, <lb/>
+            Iun.7. 1640. 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f065r/harley_ms_4931_f065r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f065v/harley_ms_4931_f065v.jpg"/>
+   </facsimile>
+   
+</TEI>

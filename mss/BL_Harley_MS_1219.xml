@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>British Library Harley MS 1219</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>1r-2r</locus>
+                  <title>Questions Propounded to Lord Saye and Lord Brooke</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/QuestionsPropoundedSayeBrooke1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>7r-8r</locus>
+                  <title>Queries about the Etcaetera Oath</title>
+                        <author>
+               Kentish Ministers
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/KentClergyQueriesEtcOath1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>10r-12r</locus>
+                  <title>Reasons for Our Refusal to Remove the Communion Table</title>
+                        <author>Churchwardens of Beckington</author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ChurchwardensBeckingtonReasonsNotRemovingCommunionTable.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>13r-16r, 19r-25v</locus>
+                  <title>Letter to the University of Oxford with Reply</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0186">William Laud, Archbishop of Cantebury</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/LaudLetterOxfordReply1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>35r-40v</locus>
+                  <title>Pigg's Corranto</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PiggsCorranto1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>41r-47r</locus>
+                  <title>Letter to the Vicar of Grantham</title>
+                        <author>
+               <persName corresp="../people/people.xml#0021">John Williams</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WilliamsLetterVicarGrantham1627.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>61r-64v</locus>
+                  <title>Letter to the Mayor of London</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0005">Covenanters</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CovenantersLetterMayorLondon1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>65r-70v</locus>
+                  <title>Petition to King Charles With Answer</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0">Covenanters</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CovenantersPetitionKing1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>83r-v</locus>
+                  <title>Supplication of His Majesty's Subjects of Scotland, with Answer by Verney</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/SupplicationSubjectsScotland1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>149r-154r</locus>
+                  <title>Grounds of Exceptions against the Etcaetera Oath</title>
+                        <author>
+               Northamptonshire Clergy
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/NorthamptonshireClergyAgainstEtcOath1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="11">
+                  <locus>155r-164v</locus>
+                  <title>Exceptions Against the Etcaetera Oath</title>
+                        <author>
+               Devonshire Clergy
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/DevonshireClergyEtcOath1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="12">
+                  <locus>175r-179v</locus>
+                  <title>Lords' Petition</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0076">John Lovelace, 2nd Baron Lovelace?</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0075">Philip Wharton, Fourth Baron Wharton</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0074">Thomas Savile, Second Baron Savile of Pontefract</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0073">Francis Willoughby, Fifth Baron Willoughby of Parham</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0072">Dudley North, Third Baron North</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0071">David Cecil, 3rd Earl of Exeter</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0070">Theophilus Clinton, 4th Earl of Lincoln</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0069">George Manners, 7th Earl of Rutland</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0068">Edward Howard, First Baron North of Escrick</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0050">Robert Greville, Second Baron Brooke of Beauchamps Court</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0067">Henry Montagu, Viscount Mandeville</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Say and Sele</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0066">Oliver St John, 1st Earl of Bolingbroke</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0065">Robert Rich, 2nd Earl of Warwick</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0064">Edmund Sheffield, 1st Earl of Mulgrave</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0063">Robert Devereux, 3rd Earl of Essex</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0062">William Seymour, 2nd Earl of Hartford</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0061">Francis Russell, 4th Earl of Bedford</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/LordsPetition1640v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="13">
+                  <locus>180r-181r</locus>
+                  <title>Queries about the Etcaetera Oath</title>
+                        <author>
+               Kentish Ministers
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/KentClergyQueriesEtcOath1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="14">
+                  <locus>222r-251v</locus>
+                  <title>Complaint Against Laud</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0005">Covenanters</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CovenantersComplaintAgainstLaud1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="15">
+                  <locus>252r-262r</locus>
+                  <title>Queries Concerning the Etcaetera Oath</title>
+                        <author>
+               Clergy of the Disocese of London
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/QueriesClergyLondonOath1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="16">
+                  <locus>353r-362v</locus>
+                  <title>Letter from Calais</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0229">Sir Francis Windebank</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/WindebankLetterCalais1641.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="17">
+                  <locus>403r-408r</locus>
+                  <title>Speech to the King, attributed to the Duke of Lennox</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0081">
+                  James Stewart, Duke of Lennox
+               </persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0080">
+                  Pseudo-Lennox
+               </persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PseudoLennox1638.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="18">
+                  <locus>409r-413v</locus>
+                  <title>Letters</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0020">Philip Herbert, Earl of Pembroke and Montgomery</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0055">John Leslie, Earl of Rothes</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/RothesPembrokeLetters1640.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="19">
+                  <locus>420r-424v</locus>
+                  <title>Protestation of the Noblemen, Barons, Burgesses and Ministers of Scotland</title>
+                        <author/>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ProtestationNoblemenBaronsBurgessesMinistersScotlandJuly1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

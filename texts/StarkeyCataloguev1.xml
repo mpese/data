@@ -1,0 +1,1102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Separate Catalogues</title>
+            <author>
+               <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS537.xml">
+               <msIdentifier xml:id="BL_Harley_MS_537">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 537</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 537</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1617">Latest text dated 1617</date>
+            <placeName corresp="../places/places.xml#PL0013">Bloomsbury</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>catalogue</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>manuscript circulation</term>
+               <term>separates</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-11-01"/>
+            <change status="proofread" who="#NM" when="2018-06-05"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="80r" facs="/bl/harley_ms_537_part/harley_ms_537_f080r/harley_ms_537_f080r.jpg"/>
+         <p rend="align-centre">
+            Queene Mary.
+         </p>
+         <p>
+            The oratyone made by mr Fockname deane of poles to <lb/>
+            Queene mary in fauore of S<ex>i</ex>r Iohn Cheeke knight before <lb/>
+            the Rehersall of his Recantac<ex>i</ex>on An<ex>n</ex>o <del rend="strikethrough">156</del> <hi rend="underline">1556.</hi> in the 3 &amp; 4th of <lb/>
+            P. and Mary./
+         </p>
+         <space unit="folio" extent="1"/>
+         <pb n="81r" facs="/bl/harley_ms_537_part/harley_ms_537_f081r/harley_ms_537_f081r.jpg"/>
+         <p rend="align-centre">
+            Edward. 6.
+         </p>
+         <p>
+            The Coppy of a l<ex>ett</ex>re writtene by kinge Edward the .6. <lb/>
+            to the lords of the Counsell remaynynge at london <del rend="strikethrough">re</del> p<ex>er</ex>
+                <lb break="no"/>
+            swadinge them to hould a moderate Course againste the <lb/>
+            duke of Somerset then lord p<ex>ro</ex>tector of the Realme in an<ex>n</ex>o <lb/>
+            <hi rend="underline">1549</hi>./
+         </p>
+         <p>
+            An acte of parleament passed againste the duke of <lb/>
+            Somersett Convicted upon Artycles prefferred &amp; Conde=<lb break="no"/>
+            mpned to impr<supplied>i</supplied>sonement duringe the kinges pleasur <lb/>
+            An<ex>n</ex>o <hi rend="underline">1549.</hi>
+         </p>
+         <p>
+            A discourse writtene by S<ex>i</ex>r Richard morysone the kinges <lb/>
+            Ambassadore w<ex>i</ex>th the Emperor shewinge the godly and <lb/>
+            vertuous Resolutyon of Edward the sixte <del rend="strikethrough">touchinge</del> <add place="above">uppon</add> the <lb/>
+            <sic>the</sic> Emperores <add place="above">demaund</add> <del rend="strikethrough">desires</del> to have the lady marye <add place="above">
+                    <del rend="strikethrough">his</del> the kynges sister</add> to be <del rend="strikethrough">and <lb/>
+               and exept excepted</del> allowed lyberty of her Conscience in <lb/>
+            England An<ex>n</ex>o <hi rend="underline">1553</hi>.
+         </p>
+         <p>
+            A proclematyone of the deathe of <add place="above">king</add> Henry the Eight <lb/>
+            and proclayminge Edward the .6. his sonne kynge of <lb/>
+            England the 1 of february. <hi rend="underline">1546</hi>.
+         </p>
+         <p>
+            A proclematyon signefyenge to all those that houlde <lb/>
+            lands of the kynge by service at his Coronatyone, to com <lb/>
+            in and make Clayme for the same dated in februarye <lb/>
+            An<ex>n</ex>o <hi rend="underline">1546</hi>.
+         </p>
+         <p>
+            A proclematione for the Newe Coynes of gould and <lb/>
+            Siluere dated the xxiiijth daye of Ianuary An<ex>n</ex>o 2.E.6. <lb/>
+            <hi rend="underline">.1548.</hi>
+         </p>
+         <p>
+            A proclematione that the Iudges and Iustyces of the <lb/>
+            peace shall appeare befor the <del rend="strikethrough">the</del> kings Counsell in the <lb/>
+            Starre Chamber dathed the 30th of Aprill An<ex>n</ex>o 1548. <lb/>
+            &amp; the 2 yeare of Edward the 6th./
+         </p>
+         <space unit="folio" extent="2"/>
+         <pb n="81*v" facs="/bl/harley_ms_537_part/harley_ms_537_f081starv/harley_ms_537_f081starv.jpg"/>
+         <p>
+            in Blomesbury. mr Raph Starky. <lb/>
+            at the gardiners howse there at a corner <lb/>
+            entring into Bloosebury./
+         </p>
+         <p>
+            for st Maries of Bethlem./
+         </p>
+         <pb n="82r" facs="/bl/harley_ms_537_part/harley_ms_537_f082r/harley_ms_537_f082r.jpg"/>
+         <p>
+            <add place="header">
+               <hi rend="align-centre">Queen Elizabethe</hi>
+            </add>
+            <add place="LM">
+               1
+            </add>
+            S<ex>i</ex>r Nicolas Bacones speeche to mr Iustys manwode at <lb/>
+            such tyme as he was sworne Iudge An<ex>n</ex>o .:.
+         </p>
+         <p>
+            <add place="LM">
+               2
+            </add>
+            S<ex>i</ex>r Nicolas Bacones speeche in the Counsell chamber to <lb/>
+            Edmond Gryndall Arche bushope of Canterbury beinge in <lb/>
+            her ma<ex>jes</ex>t<ex>ie</ex>s displeasure An<ex>n</ex>o .:.
+         </p>
+         <p>
+            <add place="LM">
+               3
+            </add>
+            A letter written by S<ex>i</ex>r Nicolas Bacon <del rend="strikethrough">shewth</del> to her ma<ex>jes</ex>tie sh=<lb break="no"/>
+            eweinge his opinyon of daungers lyke to be intended to this <lb/>
+            Realme by <del rend="strikethrough">french</del> fraunce &amp; Spayne An<ex>n</ex>o:.:.
+         </p>
+         <p>
+            <add place="LM">
+               4
+            </add>
+            Mynuts of le<ex>tte</ex>res written from seuerall parts of forrene acu=<lb break="no"/>
+            rrents An<ex>n</ex>o .1. Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               5
+            </add>
+            The Effecte of a speech used by S<ex>i</ex>r Nichoolas Bacon to the Queen <lb/>
+            at his fyrste Callynge to be lord keeper of the great seall An<ex>n</ex>o .1. <lb/>
+            of Elizabeth./.
+         </p>
+         <p>
+            <add place="LM">
+               6
+            </add>
+            S<ex>i</ex>r Nicolas Bacones oratyone in parleamente An<ex>n</ex>o .1. Eliz: <lb/>
+            <hi rend="underline">.1558.</hi> ./.
+         </p>
+         <p>
+            <add place="LM">
+               7
+            </add>
+             A mynute of letteres sent from severall countreyes of the<lb/>
+            accurrants An<ex>n</ex>o 2 Eliz
+         </p>
+         <p>
+            <add place="LM">
+               8
+            </add>
+            S<ex>i</ex>r Nicolas Bacones at the Counsell table concernyng an Ayd <lb/>
+            to be gevene to the Scotts <del rend="strikethrough">for</del> for remouinge the french out of <lb/>
+            Scotland An<ex>n</ex>o 2 Eliz: <lb/>
+         </p>
+         <p>
+            <add place="LM">
+               9
+            </add>
+            S<ex>i</ex>r Nicolas Bacones speech in Starchamber shewinge the Ca=<lb break="no"/>
+            use of power to be sent in to Scotlande An<ex>n</ex>o .2. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               10
+            </add>
+            S<ex>i</ex>r Nicolas Bacone his spech <del rend="strikethrough">in pr</del> to the mayre of london in pres=<lb break="no"/>
+            ence of the Queenes ma<ex>jes</ex>tie An<ex>n</ex>o 2 Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               .11.
+            </add>
+            A mynute of Letteres sent from forene parts of accurrants An<ex>no</ex> .4. <lb/>
+            Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               12
+            </add>
+            S<ex>i</ex>r Nicolas Bacon his speech in the <del rend="strikethrough">sta</del> Counsell chamber wether <lb/>
+            the Interviewe betweene the Queenes ma<ex>jes</ex>tie and the Scottish <lb/>
+            Queene wer Convenyente or Not. An<ex>n</ex>o 4 Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               .13.
+            </add>
+            A minute of letteres sent from forraine parts of occurrants An<ex>n</ex>o <lb/>
+            5 Elizabethe ./.
+         </p>
+         <p>
+            <add place="LM">
+               14
+            </add>
+            A minute of letteres sent from forraine parts of occurrants An<ex>n</ex>o <lb/>
+            .6. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               15
+            </add>
+            S<ex>i</ex>r Nycolas Bacon his speece to the queenes ma<ex>jes</ex>tie in her gallorye <lb/>
+            at westmynster perswadinge her to marryage and to publysh <lb/>
+            a <del rend="strikethrough">Sus</del> Successore to this Crowne. An<ex>n</ex>o .6. Eliza: ./.
+         </p>
+         <p>
+            <add place="LM">
+               16
+            </add>
+            <del rend="strikethrough">S<ex>i</ex>r Nicolas Bacone</del> A Speech delyuered by the Queene vnto y<hi rend="superscript">e</hi> <lb/>
+            Lord Keeper and the Reste of the Lordes of the vpper house of parlea=<lb break="no"/>
+            mente An<ex>n</ex>o .6. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               17
+            </add>
+            S<ex>i</ex>r Nicolas Bacon <del rend="strikethrough">his</del> his l<ex>ette</ex>res to the Queene he beinge in her <lb/>
+            displeasure An<ex>n</ex>o .6. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               .18.
+            </add>
+            A<del rend="strikethrough">n</del> Bill delyuered by hir ma<ex>jes</ex>tie to the Lady Bacon to be deivered <lb/>
+            to the Lord Keeper, her husband An<ex>n</ex>o .6. Eliz: /.
+         </p>
+         <p>
+            <add place="LM">
+               19
+            </add>
+            S<ex>i</ex>r Nicolas Bacon beinge in the Queenes displeasure wrott a <lb/>
+            letter to <del rend="strikethrough">the</del> mr S<add place="above">e</add>cretary Sissell for his medyaac<ex>i</ex>on to the Queene <lb/>
+            An<ex>n</ex>o .6. Eliz: /.
+         </p>
+         <pb n="82v" facs="/bl/harley_ms_537_part/harley_ms_537_f082v/harley_ms_537_f082v.jpg"/>
+         <p>
+            <add place="header">
+               Queen Elizabeth
+            </add>
+            <add place="LM">
+               20.
+            </add>
+            Aminute of letteres sent from forraine parts of accurrants <lb/>
+            An<ex>n</ex>o .7. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               .21.
+            </add>
+            A mynut of Letteres sent from forrayne parts of accurrants <lb/>
+            An<ex>n</ex>o .8. Eliza: ./.
+         </p>
+         <p>
+            <add place="LM">
+               22
+            </add>
+            A mynut of Letteres sent from forrayne parts of accurrants <lb/>
+            An<ex>n</ex>o ./9. of Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               23
+            </add>
+            A mynute of l<ex>ette</ex>res of accorrants sent from forrayne partes <lb/>
+            An<ex>n</ex>o .10. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               24
+            </add>
+            An Inquisytyone of sundry Reasones what is meete to be <lb/>
+            donne upon the demannds touchinge the marryage of Q: <lb/>
+            Eliz: and the Archeduke Charles An<ex>n</ex>o 10 Eliz: /.
+         </p>
+         <p>
+            <add place="LM">
+               25.
+            </add>
+            A minut of Letteres of accurrants sent from forrayne p<ex>ar</ex>tes <lb/>
+            An<ex>n</ex>o .11. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               .26.
+            </add>
+            A discourse of the maryage of Queene Elizabets maryage <lb/>
+            w<ex>i</ex>th the duke of Aniowe written by an vnknowne Author <lb/>
+            An<ex>n</ex>o .12. Eliz:/.
+         </p>
+         <p>
+            <add place="LM">
+               27
+            </add>
+            A mynute of Letteres of accurrants sent from forrayne p<ex>ar</ex>ts <lb/>
+            An<ex>n</ex>o 12 Eliz: /.
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="underline">28</hi>
+            </add>
+            A mynut of le<ex>tte</ex>res of accurrants sent from forrayne parts <lb/>
+            An<ex>n</ex>o 13 Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               29.
+            </add>
+            S<ex>i</ex>r Nicolas Bacones speeche in parleamente An<ex>n</ex>o .13. Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               30
+            </add>
+            S<ex>i</ex>r Nicolas Bacones speeche in the end of y<hi rend="superscript">e</hi> parleamente <lb/>
+            An<ex>n</ex>o .13. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               31
+            </add>
+            A brefe declarac<ex>i</ex>on of such thinge as the duke of Norfolke hath <lb/>
+            omytted in his Examenac<ex>i</ex>on towchinge his procedings w<ex>i</ex>th the <lb/>
+            Queene of Scotts An<ex>n</ex>o .13. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               32
+            </add>
+            The Byshope of Rosse his procedinges betweene the Queen <lb/>
+            of Scotts and the duke of Norffolke An<ex>n</ex>o .13. &amp; 14: Eliz:./.
+         </p>
+         <p>
+            <add place="LM">
+               .33.
+            </add>
+            A mynute of Le<ex>tte</ex>res of accurrantes sent from forene partes An<ex>n</ex>o <lb/>
+            14 Eliz: /.
+         </p>
+         <p>
+            <add place="LM">
+               .34.
+            </add>
+            A deuise for the havinge of a marte Cittye w<ex>i</ex>thin England <lb/>
+            proiected by Io: Iones &amp; Christofor goodman An<ex>n</ex>o .14. Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               35
+            </add>
+            A mynut of l<ex>ette</ex>res of accurrants sent from foraine parts An<ex>n</ex>o 15 <lb/>
+            Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               .36
+            </add>
+            A mynute of Le<ex>tte</ex>res of accurrantes sent from forayne parts An<ex>n</ex>o .16 <lb/>
+            Eliz: /.
+         </p>
+         <p>
+            <add place="LM">
+               .37.
+            </add>
+            S<ex>i</ex>r Nicolas Bacon<ex>s</ex> speech in parleament An<ex>n</ex>o .18. Eliz:./.
+         </p>
+         <p>
+            <add place="LM">
+               38.
+            </add>
+            S<ex>i</ex>r Nicolas Bacons speech at the endinge of the parleament <lb/>
+            <del rend="strikethrough">And</del> An<ex>n</ex>o .18. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               39
+            </add>
+            S<ex>i</ex>r Walter Myldmayes speche in parleamente towchinge the <lb/>
+            Contempte of <del rend="strikethrough">the</del> mr Peeter Wentworth in his speeche in parle=<lb break="no"/>
+            ameant An<ex>n</ex>o 18. of Eliz:
+         </p>
+         <pb n="83r" facs="/bl/harley_ms_537_part/harley_ms_537_f083r/harley_ms_537_f083r.jpg"/>
+         <p>
+            <add place="header">
+               Queene Elizaethe
+            </add>
+            <add place="LM">
+               40
+            </add>
+            S<ex>i</ex>r walter myldmayds speech in parleament touchinge the <lb/>
+            byll preferde in parleament by the Lord Sturton to be rest=<lb break="no"/>
+            tored in bloude An<ex>n</ex>o .18. Eliz:/.
+         </p>
+         <p>
+            <add place="LM">
+               41
+            </add>
+            S<ex>i</ex>r walter myldmayds spech unto the bylle of forrestes prefe=<lb break="no"/>
+            red in parleament An<ex>n</ex>o .18. Eliz:/
+         </p>
+         <p>
+            <add place="LM">
+               42
+            </add>
+            S<ex>i</ex>r Nicolas Bacones letter written to the Queene Adusyng <lb/>
+            her of the .3. daungeres the Realme then stood in. An<ex>n</ex>o 20 Eliz:/
+         </p>
+         <p>
+            <add place="LM">
+               .43.
+            </add>
+            S<ex>i</ex>r Nicolas Bacones letter written to the Queene Admony<lb break="no"/>
+            shinge her of ij daungeres the Realme then stood in An<ex>n</ex>o .20. <lb/>
+            Eliz:./.
+         </p>
+         <p>
+            <add place="LM">
+               44
+            </add>
+            S<ex>i</ex>r Nicolas Bacones letter written to mr Scecretary wal=<lb break="no"/>
+            syngham towchinge the present daungeres of the Realme <lb/>
+            An<ex>n</ex>o 20 Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               45
+            </add>
+            A conferrence at westemynstere towchinge Queene Ely=<lb break="no"/>
+            zabethes maryage w<ex>i</ex>th mounsere duke of Anioye An<ex>n</ex>o <lb/>
+            .21 Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               46
+            </add>
+            Poynts of state Consydered of in Counsell towchinge the <lb/>
+            present state of England to equall Fraunce &amp; Spayne <lb/>
+            An<ex>n</ex>o 21. Eliz:./.
+         </p>
+         <p>
+            <add place="LM">
+               47
+            </add>
+            Lord Henry Howarde his discourse appr<add place="above">o</add>vinge a marryage <lb/>
+            intended betweene Queene Elyzabethe And the duke of An=<lb break="no"/>
+            ioye./ An<ex>n</ex>o 22 Eliza:
+         </p>
+         <p>
+            <add place="LM">
+               48
+            </add>
+            A Consultac<ex>i</ex>on at the Lord Treasureres house touching <lb/>
+            an Ayde to be sente in to holland againste the Kynge of Spa=<lb break="no"/>
+            ines foarces An<ex>n</ex>o <del rend="strikethrough">18</del> .26. Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               49
+            </add>
+            S<ex>i</ex>r walter myldmayes speeche in parleamente towchinge <lb/>
+            the Queene of Scots Conspyrasye An<ex>n</ex>o 28. Eliz:./.
+         </p>
+         <p>
+            <add place="LM">
+               50
+            </add>
+            Courseelys negotyatyone in Scotland from the french <lb/>
+            kynge An<ex>n</ex>o 28. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               .51.
+            </add>
+            The Earle of Essex appollogie for his voyage to the Assores <lb/>
+            An<ex>n</ex>o .39. Eliz: :/.
+         </p>
+         <p>
+            <add place="LM">
+               52
+            </add>
+            S<ex>i</ex>r Iohn Hollis his letter to the lord Tresuror Burley in <lb/>
+            regard of his speech vsed in the Starchamber in derogaty=<lb break="no"/>
+            one of the s<ex>ai</ex>d S<ex>i</ex>r Iohn Hollyce An<ex>n</ex>o :39. Eliz: ./.
+         </p>
+         <p>
+            <add place="LM">
+               53
+            </add>
+            S<ex>i</ex>r walter myldmayes speeche in parleamente <lb/>
+            perswadying to graunt a subsedy An<ex>n</ex>o 18 Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               54
+            </add>
+            The Coppie of a le<ex>tte</ex>res pattentes given by kinge Henry the 4th <lb/>
+            of Fraunce for the plantatione of Guiana An<ex>n</ex>o <hi rend="underline">1602</hi> to <del rend="strikethrough">Mar</del> <lb/>
+            <hi rend="italic">Reney Maree</hi> Lord of mountbarrot./.
+         </p>
+         <p>
+            <add place="LM">
+               55
+            </add>
+            A graunte made by Reney Maree vnto <hi rend="italic">Daniell dela Tou=<lb break="no"/>
+            sche</hi> Lord of <hi rend="italic">Raverdiere</hi>. to be his assotiate for the win<ex>i</ex>nge<lb/>
+            and possessinge of <hi rend="italic">Guiana</hi>./. 
+         </p>
+         <pb n="83v" facs="/bl/harley_ms_537_part/harley_ms_537_f083v/harley_ms_537_f083v.jpg"/>
+         <p>
+            <add place="header">
+               Queen Elizabeth
+            </add>
+            <add place="LM">
+               56
+            </add>
+            A Speeche delyuered by S<ex>i</ex>r walter myldmaye to the lords of <lb/>
+            the vpper house of Parleamente in the Name &amp; behalfe of <lb/>
+            the Comones assembled in Parleamente touchinge a byll sent <lb/>
+            from the vpper house againste excesse in apparrell An<ex>n</ex>o .:.
+         </p>
+         <p>
+            <add place="LM">57</add>
+            A speech deliuered by S<ex>i</ex>r walter mildmay in the Co<ex>m</ex>mo<ex>n</ex>n<lb/>
+            house of Parleament Advisinge a Consideratione <lb/>
+            to be had, for the makinge of more straighter lawes <lb/>
+            againste the Enemyes of this state aswell forraigne <lb/>
+            as dmoestyke, And that meanes may be had for su=<lb break="no"/>
+            pplye of such shippinge and munityon as shalbe <lb/>
+            nedefull vpon all assayes in An<ex>n</ex>o .:.            
+         </p>
+         <p>
+            <add place="LM">58</add>
+            A proiecte written by <gap quantity="19" unit="chars"/> for the Coyning <lb/>
+            of Basse moneyes for Ireland and prohibiting of <lb/>
+            Sterlinge moneyes to be Transported w<ex>i</ex>th and excha=<lb break="no"/>
+            ng to be established in sett places both in England &amp; <lb/>
+            Ireland in An<ex>n</ex>o .:.
+         </p>
+         <p>
+            <add place="LM">
+               59
+            </add>
+            The procedings in the Starchamber agaynste mr <lb/>
+            dauisene <add place="above">on</add> of the princepall scecretaryes to her ma<ex>jes</ex>tie <lb/>
+            for his Contempte in puttynge the warrante in executyo<ex>n</ex> <lb/>
+            for the deathe of the Queene of Scottes w<ex>i</ex>thout hir priuitye <lb/>
+            An<ex>n</ex>o 29 Eliz
+         </p>
+         <p>
+            <add place="LM">
+               60
+            </add>
+            <handShift medium="different ink"/> A diologue written by S<ex>i</ex>r Thomas Smythe vpon consyd=<lb break="no"/>
+            eratyones whether it were fytte Queene Elyzabeth should <lb/>
+            contynewe sole &amp; vnmaryed, or mary a stranger or <del rend="strikethrough">one</del> <lb/>
+            one of her owne subiectes in An<ex>n</ex>o 2 Elizabethe
+         </p>
+         <p>
+            <add place="LM">
+               .61.
+            </add>
+            Instructyones drawne for <handShift medium="different ink"/>S<ex>i</ex>r Richard Wigmor <handShift medium="original ink"/>his secret im=<lb break="no"/>
+            ploymente in Scotlande to temporise w<ex>i</ex>th the kynge of Scots <lb/>
+            for the deathe of his mother in An<ex>n</ex>o 30 Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               .62.
+            </add>
+            Two letteres written by the duke of Norfolke in the <lb/>
+            Tower of London to his Children Admonyshinge them <lb/>
+            to bend them selues to the protestante Relygeon &amp; good lyfe <lb/>
+            An<ex>n</ex>o 14 Eliz.
+         </p>
+         <p>
+            <add place="LM">
+               .63.
+            </add>
+            The presente Estate of the Nobillyty of Scotland as it <lb/>
+            was Certefyed unto the Lord Tresuror Burglegh in An<ex>n</ex>o <lb/>
+            1578 the .20.th Eliz /
+         </p>
+         <p>
+            <add place="LM">
+               .64.
+            </add>
+            The Names of the Nobility of Scotland accordinge to their <lb/>
+            seuerall Estates and offyces as it was certefyed to the Lord <lb/>
+            Treasurer Burleighe in An<ex>n</ex>o 1582 the 24th of Eliz:
+         </p>
+         <pb n="84r" facs="/bl/harley_ms_537_part/harley_ms_537_f084r/harley_ms_537_f084r.jpg"/>
+         <p>
+            <add place="header">
+               Jacobj Rex
+            </add>
+            <add place="LM">
+               1
+            </add>
+            A discourse written by S<ex>i</ex>r walter Ralegh <add place="above">of</add> the mot=<lb break="no"/>
+            ione of marriage propounded by the <hi rend="italic">Duke</hi> of Savoy <lb/>
+            between the Prince of Piemont &amp; the lady Eliz=<lb break="no"/>
+            abethe, as also a crose marryage propounded by <lb/>
+            the same duke betweene Prince Henry and the duke <lb/>
+            of Savoyes <del rend="strikethrough">own daughter &amp; the Ladie Elizabethe <lb/>
+            sonne</del> daughter./.
+         </p>
+         <p>
+            <add place="LM">
+               2
+            </add>
+            The Coppy of a Confirmatyone mad by H.4. frenche <lb/>
+            kinge of an Assotiatyon betweene the Lord <hi rend="italic">montbarotte</hi> <lb/>
+            and the Lord of <hi rend="italic">Rauerdiere</hi> for the Conquest of Guiana <lb/>
+            in An<ex>n</ex>o .<hi rend="underline">1605</hi>. the 3 of Jacobi ./.
+         </p>
+         <p>
+            <add place="LM">
+               3
+            </add>
+            The Coppie of a Comissyone granted by H 4 french <lb/>
+            kynge Conffyrmyinge and strengtheninge his grauntes <lb/>
+            made vnto <del rend="strikethrough">monser</del> the Lord Montbarrott &amp; the Lo<ex>rd</ex> <lb/>
+            Raverdere for the Conqueste of Guiana <add place="above">in</add> An<ex>n</ex>o <hi rend="underline">1602</hi> &amp; <lb/>
+            An<ex/>o 1605. dated in An<ex>n</ex>o .<hi rend="underline">1609</hi>. the .7. of kynge Iames
+         </p>
+         <p>
+            <add place="LM">
+               4
+            </add>
+            The Coppie of a Comissyone grauntted by the Lord mo=<lb break="no"/>
+            ntemorancy Admirall of Fraunce vnto the Lord Raue=<lb break="no"/>
+            rdierre for <add place="above">Creatinge him vizadmirall &amp;</add> freeinge of his shippes and prouisiones made <lb/>
+            for his voyadge vnto Guiana and other partes in the <lb/>
+            year of our lord .<hi rend="underline">1609</hi>. the .7. of kinge Iames./.
+         </p>
+         <p>
+            <add place="LM">
+               5
+            </add>
+            The Coppie of <add place="above">a</add> Comissyone made by the Lord of Rauard=<lb break="no"/>
+            ierre by vertue of the kynge of Fraunce <add place="above">his</add> letters pattents <lb/>
+            <del rend="strikethrough">
+                    <gap reason="illegible" quantity="3" unit="chars"/> made vntto him</del> vnto <del rend="strikethrough">the Lord</del> Robarte Le Brette lo<ex>rd</ex> <lb/>
+            dubose, <del rend="strikethrough">to</del> Constytute<add place="above">ng</add> the s<ex>ai</ex>d Lo<ex>rd</ex> <del rend="strikethrough">du Babas</del> dubose his <lb/>
+            lievtenante in the Countrye of Guiana and other p<ex>ar</ex>ts <lb/>
+            of Amerika dated An<ex>n</ex>o <hi rend="underline">1609.</hi> the 7 of Kyng Iames
+         </p>
+         <p>
+            <add place="LM">
+               6
+            </add>
+            The Coppie of a Comyssione made by the Lo<ex>rd</ex> <add place="above">of</add> Rauard=<lb break="no"/>
+            ierre (by vertue of letters <sic>pattertes</sic> graunted vnto him <lb/>
+            by the kinge of France) unto Robarte Le Brette Lord of <lb/>
+            dubose Constytutynge the s<ex>ai</ex>d Lo<ex>rd</ex> dubose his liefetenante <lb/>
+            in the Country of Brazill dated <del rend="strikethrough">the</del> An<ex>n</ex>o <hi rend="underline">.1610.</hi> the 7th of <lb/>
+            Kinge Iames <hi rend="italic">stilo Romano</hi>./
+         </p>
+         <p>
+            <add place="LM">
+               <del rend="strikethrough">7</del>
+            </add>
+            <del rend="hatched">The Coppy of the Speeche delyuered by S<ex>i</ex>r Francys Ba=<lb break="no"/>
+               con <add place="above">knighte</add> the kynges <del rend="strikethrough">Attorney</del> <add place="above">Solisetor</add> generall unto the Lord Sanquer <lb/>
+               at the <del rend="strikethrough">tyme of his</del> Araygnemente at the kyngs bench <lb/>
+               barr for hiringe of <hi rend="italic">Robert Carlisle</hi> and Iames Edwine <lb/>
+               to Murther Iohn Turner <del rend="strikethrough">the</del> <add place="above">a</add> master of Deffence, the <lb/>
+               27th of Iune .1612.</del>
+         </p>
+         <pb n="84v" facs="/bl/harley_ms_537_part/harley_ms_537_f084v/harley_ms_537_f084v.jpg"/>
+         <p>
+            <handShift medium="different ink"/>
+                <add place="header">
+               <del rend="strikethrough">Jal</del> Jac<ex>o</ex>bi R.
+            </add>
+            <add place="LM">
+               .7.
+            </add>
+            The Coppie of the speeche delyuered by S<ex>i</ex>r Francis Ba=<lb break="no"/>
+            con knight Solicetor generall vnto the kynge, at the <lb/>
+            Araignemente of the Lord <del rend="underline">sanque</del> Sanquere in the <lb/>
+            kynges benche at westemester, for procuringe the <del rend="strikethrough">mu</del> <lb/>
+            Murder of Iohn Turner a Master of defence the <lb/>
+            27.th of <del rend="strikethrough">Iul</del> Iune .<hi rend="underline">1612</hi>.
+         </p>
+         <p>
+            <add place="LM">
+               8
+            </add>
+            The Coppy of a letter writtene by S<ex>i</ex>r walter Ralegh to <lb/>
+            the Earles of Nottyngham, Suffolke &amp; deuonshir and to <lb/>
+            the Lord Cicill declaringe his Inosencie in the two <lb/>
+            poynts wherwith he was Charges in pointe of treason <lb/>
+            the xiijth of Auguste the 1. Iacobi/. an<ex>n</ex>o<hi rend="underline"> 1603.</hi>
+         </p>
+         <p>
+            <add place="LM">
+               .9.
+            </add>
+            A lettere writtene out of Scotland by an vnknowne Au=<lb break="no"/>
+            thore <del rend="strikethrough">d</del> to his frend in England discribinge the Nature <lb/>
+            of the Country and people <add place="above">of Scotland</add> dated the 20th of Iune An<ex>n</ex>o <lb/>
+            <hi rend="underline">.1617.</hi>
+         </p>
+         <p>
+            <handShift medium="different ink"/> <add place="LM">
+               .10.
+            </add>
+            A peticone of the Barronets to the kinge upon a Contr=<lb break="no"/>
+            ouersie of precedency betweene the yo<add place="inline">n</add>ger sonnes of viscounts <lb/>
+            and Barrones and the Barronets in Aprill An<ex>n</ex>o 1612 &amp; in <lb/>
+            the 10th of the kinge
+         </p>
+         <p>
+            <add place="LM">
+               11
+            </add>
+            A peticon of the Barrones to the kinge vpon a controve=<lb break="no"/>
+            rcie of precedency betweene the Barronets and our sonns <lb/>
+            in Aprill an<ex>n</ex>o <hi rend="underline">.1612.</hi> and in the 10th yeare of the kynge/.
+         </p>
+         <p>
+            <add place="LM">
+               .12.
+            </add>
+            The Coppy of a letter written S<ex>i</ex>r Robarte Carr viscont <lb/>
+            Rochester and after Earle of Somersett vnto the Lo<ex>rd</ex> Henry <lb/>
+            Howard Earle of Northampton An<ex>n</ex>o 1612 the 8th of <del rend="strikethrough">febr=<lb break="no"/>
+            uary</del> october in the 10th yeare of the kynge./.
+         </p>
+         <pb n="85r" facs="/bl/harley_ms_537_part/harley_ms_537_f085r/harley_ms_537_f085r.jpg"/>
+         <p>
+            <add place="header">
+               .Q. Elizabethe.
+            </add>
+            <add place="LM">
+               .65.
+            </add>
+            <del rend="strikethrough">
+               A discourse writtene by <lb/>
+               to her ma<ex>jes</ex>tie Aduisyng her ma<ex>jes</ex>tie
+            </del>
+               A discourse written by <space extent="25" unit="chars"/> vnto <lb/>
+            Queene Elisabethe <del rend="strikethrough">againste</del> Aduisynge her ma<ex>jes</ex>tie to <lb/>
+            hould a more stricte course againste the Papystes <lb/>
+            of England <del rend="strikethrough">in the framynge of the <gap reason="illegible" extent="5" unit="chars"/>
+                </del> <add place="above">yet to frame the</add> oathe of <lb/>
+            Allegeance in a mor <del rend="strikethrough">b</del> mylder <del rend="strikethrough">Course</del> soarte, and to <lb/>
+            oppose her selfe againste the kynge of Spayne An<ex>n</ex>o <lb/>
+            .:.
+         </p>
+         <p>
+            <add place="LM">
+               66
+            </add>
+            A Coppie of a lettere written by S<ex>i</ex>r Walter Ra=<lb break="no"/>
+            legh to the Earles of Nottyngham, Suffolke &amp; dev=<lb break="no"/>
+            onshir and my Lord <del rend="strikethrough">Cil</del> Sicell befor his Araigne=<lb break="no"/>
+            mente dated the .19. of Auguste <hi rend="underline">.1603.</hi>
+         </p>
+         <p>
+            <add place="LM">
+               .67.
+            </add>
+            An Aduise of suche meanes as are Considered fittest <lb/>
+            to putte the Forces of the Realme of England in order to w<ex>i</ex>th=<lb break="no"/>
+            stand <del rend="strikethrough">to w<ex>i</ex>th</del>/ An Invasyone pretended by the kynge of Sp=<lb break="no"/>
+            aine sett downe by these Noble Captaynes of Experienc <lb/>
+            hereafter Followinge the 27 Nouember <hi rend="underline">1587</hi> y<hi rend="superscript">e</hi> 30 Eliz
+         </p>
+         <p>
+            <add place="LM">
+               .68.
+            </add>
+            A Iurnalle of Robarte Earle of Essexe his proceedinge <lb/>
+            in Ireland beinge sente ouer <del rend="strikethrough">there</del> her Ma<ex>jes</ex>ties lieftenant there <lb/>
+            in Aprille An<ex>n</ex>o <hi rend="underline">.1599.</hi> and in the 41 of Eliz:
+         </p>
+         <p>
+            <add place="LM">
+               .69.
+            </add>
+            The generall state of Scotland and the Comonwelth <lb/>
+            therof w<ex>i</ex>th the Causes of their oftern Mutines &amp; other <lb/>
+            disorderes &amp;c <add place="above">in</add> an<ex>n</ex>o ..: <space unit="chars" extent="4"/> Collected by : <hi rend="italic">G. F:</hi>
+         </p>
+         <p>
+            <add place="LM">
+               70
+            </add>
+            A discourse touchinge the state <add place="above">&amp; Replanting</add> of Ireland written <lb/>
+            by <space extent="20" unit="chars"/> in An<ex>n</ex>o <space unit="chars" extent="5"/> the <space unit="chars" extent="2"/> of Queen <lb/>
+            Eizabeth.
+         </p>
+         <p>
+            <add place="LM">
+               71
+            </add>
+            A generall band voluntarely made by the good subiects <lb/>
+            of Iames the .6th Kinge of Scotland for the preservac<ex>i</ex>o<ex>n</ex> <lb/>
+            of his highnes p<ex>er</ex>sone in the pursuite of his vndoubted <lb/>
+            Right to the Crownes of England &amp; Ireland in An<ex>n</ex>o <hi rend="underline">1599</hi> <lb/>
+            An<ex>n</ex>o 41 of Eliz:
+         </p>
+         <pb n="85v" facs="/bl/harley_ms_537_part/harley_ms_537_f085v/harley_ms_537_f085v.jpg"/>
+         <p>
+            <add place="header">
+               Queen Elizabeth
+            </add>
+            <add place="LM">
+               72
+            </add>
+            The Speech of <sic>th</sic> S<ex>i</ex>r Thomas Eggerton Lord Keeper <lb/>
+            of the Greate Seale of Englande in the Stare Cham=<lb break="no"/>
+            bere touchinge the Contempte of <del rend="strikethrough">the Earle</del> Robarte Earle <lb/>
+            of <sic>Essell</sic> the Laste daye of <space unit="chars" extent="10"/> Terme beinge <lb/>
+            the <space unit="chars" extent="2"/> of <space unit="chars" extent="8"/> in An<ex>n</ex>o <hi rend="underline">.1599.</hi>
+         </p>
+         <p>
+            <add place="LM">
+               .73.
+            </add>
+            A Speeche deliuered by S<ex>i</ex>r Robarte Cicell princepall <lb/>
+            Secretary to the Queene in the Stare Chamber touch=<lb break="no"/>
+            inge the Contempte of <del rend="strikethrough">the Ear</del> Robarte Earle of Essexe <lb/>
+            The Laste daye of <space unit="chars" extent="10"/> Terme beinge the <space unit="chars" extent="2"/> of <lb/>
+            <space unit="chars" extent="8"/> in An<ex>n</ex>o <hi rend="underline">1599.</hi>./
+         </p>
+         <p>
+            <add place="LM">
+               74
+            </add>
+            A Speech deliuered by S<ex>i</ex>r Robarte Cicell princepall Se=<lb break="no"/>
+            cretary to the Queene in the Stare Chamber touchinge the <lb/>
+            Treasone of Robarte Earle of Essexe the 13 of February in <lb/>
+            An<ex>n</ex>o <hi rend="underline">1600.</hi>./
+         </p>
+         <p>
+            <add place="LM">
+               75
+            </add>
+            A letter written by S<ex>i</ex> Robarte Cicell <add place="above">princepall Secretary to the Queen</add> and S<ex>i</ex>r Iohn Herberte <lb/>
+            Ambasadores in fraunce w<ex>i</ex>th H the 4th frenche kinge dated <lb/>
+            the .27th of marche An<ex>n</ex>no <hi rend="underline">.1598.</hi>
+         </p>
+         <p>
+            <add place="LM">
+               76
+            </add>
+            Instructiones givene to S<ex>i</ex>r Thomas Smith knight on of <lb/>
+            her Ma<ex>jes</ex>t<ex>ie</ex>s privie Counsell sente in to Fra<ex>u</ex>nce to the french king <lb/>
+            to treate of the mariage betweene the <del rend="strikethrough">duke of Aniou</del> Queene <lb/>
+            Elizabethe and the duke of Aniou the french kings brother <lb/>
+            as also <del rend="strikethrough">a p<ex>er</ex>swasione</del> to signefy the <del rend="strikethrough">be</del> practises betweene the <lb/>
+            Queene of Scots and the duke of Norfolk againste the Queen &amp; <lb/>
+            State An<ex>n</ex>o 3 december .<hi rend="underline">1571.</hi>
+         </p>
+         <pb n="86r" facs="/bl/harley_ms_537_part/harley_ms_537_f086r/harley_ms_537_f086r.jpg"/>
+         <p rend="align-centre">
+            Ra: Starkey
+            An<ex>n</ex>o <hi rend="underline">1614</hi>.
+         </p>
+         <p>
+            <hi rend="strikethrough">The Preambulatyon of Kent</hi>
+            <add place="RM">
+               <hi rend="strikethrough">000</hi>
+            </add>
+         </p>
+         <p>
+            <add place="LM">
+               1
+            </add>
+            Parte of the Survaye of the Riuere of Themes
+            <add place="RM">
+               001
+            </add>
+         </p>
+         <p>
+            <add place="LM">
+               2
+            </add>
+            Colectiones out of the lidger booke belonging <lb/>
+            to the Charterhouse of london
+            <add place="RM">
+               002
+            </add>
+         </p>
+         <p>
+            Colectiones out of the Lidgere Booke of <lb/>
+            St martynes legraund in Londone
+            <add place="RM">
+               005
+            </add>
+         </p>
+         <p>
+            Colectiones out of the Lidger booke of the <lb/>
+            Trineties Chorche in Londone
+            <add place="RM">
+               017
+            </add>
+         </p>
+         <p>
+            Colectiones out of an old Record belonging <lb/>
+            to Christs Chorche in Canterburye
+            <add place="RM">
+               025
+            </add>
+         </p>
+         <p>
+            The Foundatyon of Bethelem w<ex>i</ex>thoute <lb/>
+            Bushopesgate London
+            <add place="RM">
+               027
+            </add>
+         </p>
+         <p>
+            The p<ex>art</ex> of the Cronecle of the kingdome of <lb/>
+            Man
+            <add place="RM">
+               029
+            </add>
+         </p>
+         <p>
+            Colectiones out of an Addissyon to <foreign xml:lang="la">Flores <lb/>
+            Historiarum</foreign>
+            <add place="RM">
+               037
+            </add>
+         </p>
+         <p>
+            The History in some p<ex>ar</ex>te of S<ex>i</ex>r Iohn Burley <lb/>
+            knighte of the gartore in .E.3. his dayes
+            <add place="RM">
+               041
+            </add>
+         </p>
+         <p>
+            A sute betweene the deane &amp; Chaptore of <lb/>
+            poles and the meare of London
+            <add place="RM">
+               044
+            </add>
+         </p>
+         <p>
+            <add place="LM">+</add>
+            Colectyones out of the Cronecles of Tew=<lb break="no"/>
+            kesburye
+            <add place="RM">
+               045
+            </add>
+         </p>
+         <p>
+            <add place="LM">x</add>
+            Some passages of the lyffe of .H.6 by. <lb/>
+            an vnknowne Authore
+            <add place="RM">
+               046
+            </add>
+         </p>
+         <p>
+            <add place="LM">x</add>
+            A <del rend="strikethrough">bo</del> Tracte takene out of a booke <lb/>
+            belonginge to wiche malbanke in <lb/>
+            Com<ex>itatus</ex> Chestore
+            <add place="RM">
+               053
+            </add>
+         </p>
+         <p>
+            <add place="LM">x</add>
+            The Ariualle of .E4. and the bastord <lb/>
+            of falconbridge in England
+            <add place="RM">
+               065 *
+            </add>
+         </p>
+         <p>
+            A tracte of the lyfe of Brute out of <lb/>
+            doctor Talbots Booke
+            <add place="RM">
+               085
+            </add>
+         </p>
+         <p>
+            Richard the Third his deathe by the <lb/>
+            Lord Standleye
+            <add place="RM">
+               089
+            </add>
+         </p>
+         <p>
+            The Morthere of Mr Arderne of Fe=<lb break="no"/>
+            versham in kente by his wives pra=<lb break="no"/>
+            ctis
+            <add place="RM">
+               093
+            </add>
+         </p>
+         <p>
+            The duke of Somersets voyag in to <lb/>
+            Scotlande
+            <add place="RM">
+               097
+            </add>
+         </p>
+         <p>
+            The seege of Leethe by y<hi rend="superscript">e</hi> Lord graye
+            <add place="RM">
+               099
+            </add>
+         </p>
+         <p>
+            Lands given to St marye priory of bethelem
+            <add place="RM">
+               028
+            </add>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_537_part/harley_ms_537_f080r/harley_ms_537_f080r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_537_part/harley_ms_537_f081r/harley_ms_537_f081r.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_537_part/harley_ms_537_f081starv/harley_ms_537_f081starv.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_537_part/harley_ms_537_f082r/harley_ms_537_f082r.jpg"/>
+      <graphic n="5" url="/bl/harley_ms_537_part/harley_ms_537_f082v/harley_ms_537_f082v.jpg"/>
+      <graphic n="6" url="/bl/harley_ms_537_part/harley_ms_537_f083r/harley_ms_537_f083r.jpg"/>
+      <graphic n="7" url="/bl/harley_ms_537_part/harley_ms_537_f083v/harley_ms_537_f083v.jpg"/>
+      <graphic n="8" url="/bl/harley_ms_537_part/harley_ms_537_f084r/harley_ms_537_f084r.jpg"/>
+      <graphic n="9" url="/bl/harley_ms_537_part/harley_ms_537_f084v/harley_ms_537_f084v.jpg"/>
+      <graphic n="10" url="/bl/harley_ms_537_part/harley_ms_537_f085r/harley_ms_537_f085r.jpg"/>
+      <graphic n="11" url="/bl/harley_ms_537_part/harley_ms_537_f085v/harley_ms_537_f085v.jpg"/>
+      <graphic n="12" url="/bl/harley_ms_537_part/harley_ms_537_f086r/harley_ms_537_f086r.jpg"/>
+   </facsimile>
+</TEI>

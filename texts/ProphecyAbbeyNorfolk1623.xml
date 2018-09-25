@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Prophecy Found in the Abbey of St Benedict in Norfolk</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS389.xml">
+               <msIdentifier xml:id="BL_Harley_MS_389">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 389</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. 1, Nov. 1620-Dec. 1625</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 389</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_242">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 242</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_292">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 292</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1479">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1479</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_363">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 363</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34217</idno>
+               <msName>Sir Francis Fane's book</msName>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/All_Souls_College_MS_242.xml">All Souls College,  MS 242, f. 87v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1479.xml">British Library, Sloane MS 1479, f. 8v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS292.xml">British Library, Sloane MS 292, f. 1v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS363.xml">British Library, Sloane MS 363, f. 17v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_34217.xml">British Library, Additional MS 34217, f. 41v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b197.xml">Beinecke Library, Osborn b197, f. 189</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_47.xml">Bodleian Library,  MS Ashmole 47, f. 40r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_1092.xml">Bodleian Library,  MS Rawlinson D 1092, f. 23r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_398.xml">Bodleian Library,  MS Rawlinson D 398, f. 162r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_poetry_26.xml">Bodleian Library,  MS Rawlinson poetry 26, f. 15v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee556.xml">Cambridge University Library,  MS Ee.5.56, f. 2v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_MSP_9.xml">Durham University Library, MSP 9, reversing the volume, 104</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_275.xml">Folger Shakespeare Library,  MS V.a.275</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UTAustinMSBLM751PhillipsMS12341.xml">UT Austin MS, BL Microfilm 751 Phillips MS 12341, p323</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+             <p>
+                
+             </p>
+         </abstract>
+         <creation>
+            <date when="1623">c.1623, but dated 1485</date>
+            <date cert="low" type="claimed" when="1485"/>
+            <placeName cert="unknown" corresp="../places/places.xml#PL0008">St Benedict's Abbey, Norfolk</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>prophecy</term>
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Spanish Match</term>
+               <term>Confessional conflict</term>
+               <term>Gunpowder plot</term>
+               <term>Palatine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+       <revisionDesc>
+           <listChange>
+               <change when="2018-06-25" who="#SV" status="proofread"/>
+               <change when="2018-04-06" who="#RB" status="draft"/>
+           </listChange>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="335r" facs="/bl/harley_ms_389_part/harley_ms_389_f335r/harley_ms_389_f335r.jpg"/>
+         <head rend="center">31 May 1623</head>
+         <salute>Sir/</salute>
+          <p>
+              I received yours, iust as I was sitting downe to <lb/>
+              write. I thank you for the returne of what I sent. <lb/>
+              And still I wonder at our Academiane whom I obserue <lb/>
+              more &amp; more to make no bones of communicating copying <lb/>
+              repeating of that I meane not shalbe <add place="above">euer</add> found in my <lb/>
+              keeping; howsoeuer curiosity to vnderstand the times <lb/>
+              makes me sometimes listen; but I hope that is a pardonable <lb/>
+              fault &amp;c. That which I receiued at seueral times <lb/>
+              since Saturday, whether by l<ex>ette</ex>r, report <del>&amp;</del> <add place="above">or</add> printing, I now <lb/>
+              send you. But for the petition you speake of, cer=<lb break="no"/>
+            tainly <add place="above">be</add> it not worthie to be called a Protestant that playd <lb/>
+            such an Idolatrous knaves part. And for the similitude <lb/>
+            of the argument, it puts me in mind of a Prophecie <lb/>
+            shall I call it or a libell, which I lately saw: others <lb/>
+            say they saw it long since but I cannot say so: but <lb/>
+            judge of it, when you heare it: If it be but 7 yeares <lb/>
+            old &amp; I knew so much I should esteeme it more <lb/>
+            But thus I had it
+         </p>
+         <p rend="indent">
+            A prophecie found in the Abbey <lb/>
+            of St Benedict in Norfolk
+         </p>
+         <lg>
+            <l>If <hi rend="italic">Eightie eight</hi>
+                    <hi rend="superscript">α</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">α<lb/>Tilbury. Camp. &amp;c</tei:add> be past, then thriue</l>
+            <l>Thou mayst, till <hi rend="italic">Fourty foure</hi> or <hi rend="italic">five</hi>.<hi rend="superscript">β</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">β<lb/>Q. Elizabeths raigne.</tei:add>
+                </l>
+            <l>After the <hi rend="italic">Mayd</hi>
+                    <hi rend="superscript">γ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">γ<lb/>Q Elizabeth</tei:add> is dead, <hi rend="italic">A Scott</hi>
+                    <hi rend="superscript">δ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">δ<lb/>K. James.</tei:add>
+                </l>
+            <l>Shall governe then; &amp; if a <hi rend="italic">Plott</hi>
+                    <hi rend="superscript">ε</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">ε<lb/>Pouder plott</tei:add>
+                </l>
+            <l>Preuent him not, then sure his sway</l>
+            <l>Continue shall full many a day.</l>
+            <l>The <hi rend="italic">Ninth</hi>
+                    <hi rend="superscript">ζ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">ζ<lb/>Pr. Henrie</tei:add> shall die, &amp; then the <hi rend="italic">First</hi>
+                    <hi rend="superscript">η</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">η<lb/>Pr. Charles</tei:add>
+                </l>
+            <l>Perhaps shall raigne; but, oh, accurst</l>
+            <l>Shalbe the Time, when as you see</l>
+            <l>To <hi rend="italic">Sixteene</hi>
+                    <hi rend="superscript">θ</hi> joyned <hi rend="italic">Twentie three</hi>
+                    <hi rend="superscript">θ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">θ θ<lb/>16|23 or <lb/> Maria 16. Charles 23.</tei:add>
+                </l>
+            <l>For then the <hi rend="italic">Eagle</hi>
+                    <hi rend="superscript">.ι.</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">ι<lb/>Rome or Romish state</tei:add> shall haue help</l>
+            <l>By craft to catch the <hi rend="italic">Lyons Whelp</hi>
+                    <hi rend="superscript">κ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">κ<lb/>God bless <ex>th</ex>e Prince</tei:add>
+                </l>
+            <l>And hurt him sore, except the same</l>
+            <l>Be cur’d by one of the <hi rend="italic">Mayds name</hi>.<hi rend="superscript">λ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">λ<lb/>Elizabeth.</tei:add>
+                </l>
+            <l>In Iulies month the selfe same yeare</l>
+            <l>Doth <hi rend="italic">Saturne</hi>
+                    <hi rend="superscript">μ</hi> joyne with <hi rend="italic">Iupiter</hi>.<hi rend="superscript">μ</hi>
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">μ. μ.<lb/>The great conjunction <lb/>of Saturne &amp; Jupiter <lb/>Anno 1623. July 8.</tei:add>
+                </l>
+            <l>Perhaps false Prophets shall arise,</l>
+            <l>And Mahomet shall play his prise;</l>
+            <l>But sure great alteration</l>
+            <l>Shall happen in Religion.</l>
+            <l rend="indent">
+                    <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">Dat: 1485</tei:add>Beleeue this true, when as you see</l>
+            <l rend="indent">A'Spanyard Protestant to be</l>
+         </lg>
+         <p>
+            I know not whether this date belongs to the who<supplied reason="damage">le</supplied> <lb/>
+            prophecie, or to the 2 last verses onely: nor wether the<unclear reason="damage">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </unclear>
+                <lb/>
+            be part of the Prophecie or some <unclear reason="damage">
+                    <gap reason="illegible" quantity="5" unit="chars"/>
+                </unclear> Howsoeve<supplied reason="damage">r</supplied>
+            <pb n="335v" facs="/bl/harley_ms_389_part/harley_ms_389_f335v/harley_ms_389_f335v.jpg"/>
+                <add place="header">31 May 1623</add>I will make that good vse of it as to devide <del rend="strikethrough">a book</del> <lb/>
+            a book betweene your selfe &amp; me, called <hi rend="italic">
+                    <foreign xml:lang="la">Hispanus <lb/>
+            conversus</foreign>
+                </hi> or <hi rend="italic">
+                    <foreign xml:lang="la">Texeda retextus</foreign>
+                </hi>. I haue it both <lb/>
+            in latin (wherein the autor writes it) &amp; the translation <lb/>
+            into English which I cutt of from the other, &amp; here <lb/>
+            send it you/ as I had thought to haue done long <lb/>
+            a goe but could neuer think of it till now, that <lb/>
+            the prophecie putts me in mind thereof.
+         </p>
+         <p>
+            Mr. <add place="above">Ramsey</add> sweares that he saw <del rend="strikethrough">afore</del> the prophecie afore Christmas <lb/>
+            at Court, &amp; that they interpreted there the Lyons Whelp of the <lb/>
+            Palatine, the Eagle of the Emperour &amp; But the Palatine <lb/>
+            is a Lyon but not a Lyons Whelp. his father not living. <lb/>
+            Mr Warner was with me this week &amp; told me, that he had <lb/>
+            seene it halfe a yeare since: but when I expounded it <lb/>
+            to him, he began to doubt whether he saw it before the <lb/>
+            Prince went or not. This is all I know of it, &amp; am <lb/>
+            sure the style is of no great antiquitie: yet you will <lb/>
+            not deny but my marginall notes guesse very neere his <lb/>
+            meaning, whoseover he were that made it. For without doubt <lb/>
+            he had a meaning &amp; some skill too in Astronomie that he could <lb/>
+            point out the yeare &amp; month of the great Conjunction <lb/>
+            to be in Iuly next. Yet for all this for any thing I <lb/>
+            know he might be a libeller &amp; perhaps he that made <lb/>
+            your <del rend="strikethrough">
+                    <gap reason="illegible" quantity="5" unit="chars"/>
+                </del> petition to Q Eliz. had some litle acquaintance <lb/>
+            either with him or his poeme. If any man can say <lb/>
+            more <del rend="strikethrough">let</del> for his credit let him.
+         </p>
+            <p>
+            Thus with my best respect to your selfe &amp; <lb/>
+            my Lady I rest, petitioning Almightie God to better <lb/>
+            the face of the times &amp; to look upon all that are either <lb/>
+            in feare or distress, whether amongst us or wheresoever else
+         </p>
+          <p>Christ Coll<ex>ege</ex> <lb/>
+          May 31</p>
+          <p>Yours most ready to <lb/>
+          be com<ex>m</ex>anded <lb/>
+          Joseph Meade</p>
+          <p>
+              It is not yet time a yeare <lb/>
+              to talke of coming to Dalham <lb/>
+              but I shall trouble you time <lb/>
+              enough.
+          </p>
+      </body>
+   </text>
+    <facsimile>
+        <graphic n="1" url="/bl/harley_ms_389_part/harley_ms_389_f335r/harley_ms_389_f335r.jpg"/>
+        <graphic n="2" url="/bl/harley_ms_389_part/harley_ms_389_f335v/harley_ms_389_f335v.jpg"/>
+    </facsimile>
+</TEI>

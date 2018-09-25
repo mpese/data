@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to Bacon</title>
+            <author>
+               <persName corresp="../people/people.xml#P0135">Sir Thomas Bodley</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+            <respStmt xml:id="PH">
+               <name>Peter Hammond</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4108.xml">British Library, Additional MS 4108, ff. 55r–58r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 101r–104v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS78186.xml">British Library, Additional MS 78186, ff. 35r–36v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS852.xml">British Library, Harley MS 852, ff. 24r–28r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_18648.xml">British Library, Additional MS 18648, ff. 9r–12v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_225.xml">British Library, Hargrave MS 225, ff. 43v–55r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 147r–152v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Wood_F23.xml">Bodleian Library,  MS Wood F.23, ff. 173r–174v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_36836.xml">Huntington Library,  HM 36836, ff. 43–59</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDAH511.xml">Somerset Archives,  DD\AH/51/1, item 4</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="pp" from="74" to="79">74-79</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1607-02-19">19 February 1607</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-19" who="#RB" status="draft"/>
+            <change when="2018-08-20" who="#PH" status="transcript"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="271v" facs="/bl/add_ms_22591/add_ms_22591_f271v/add_ms_22591_f271v.jpg"/>
+         <head>
+            <hi rend="bold">
+               Sir <lb/>
+               Thomas Bodleys letter to Sir Francis <lb/>
+               Bacon <lb/>
+               about his <foreign xml:lang="la">
+                        <hi rend="italic">cogitate et uisa</hi>
+                    </foreign> wherein he de- <lb break="no"/>
+               clareth <lb/>
+               his opynion freelye touching the same
+            </hi>
+         </head>
+         <p>
+            Sir assoone as the Tearme was ended supposing yo<ex>u</ex>r leasure, <lb/>
+            to be more then before, I was coming to thanke you 2: or 3: tymes ra= <lb break="no"/>
+            ther choosing to doe it by words then by letter: but I was still disapoin: <lb/>
+            ted or my purpose as I am at this p<ex>re</ex>sent vppo<ex>n</ex> an vrgent occasion, <lb/>
+            w<ex>hi</ex>ch doth lye mee fast to Fulham, and hath made mee now det<ex>er</ex>mine <lb/>
+            to imparte my mynde in writting, I thinke you know that I haue read <lb/>
+            yo<ex>u</ex>r <foreign xml:lang="la">
+                    <hi rend="italic">cogitata et uisa</hi>
+                </foreign>, w<ex>hi</ex>ch I p<ex>ro</ex>test I haue done w<ex>i</ex>th great desire repu= <lb break="no"/>
+            ting it A Token of yo<ex>u</ex>r Singuler Love that you ioyned mee w<ex>i</ex>th thos yo<ex>u</ex>r <lb/>
+            cheifest Freindes to whom you would Comend yo<ex>u</ex>r first p<ex>er</ex>suall of <lb/>
+            yo<ex>u</ex>r draught: For w<ex>hi</ex>ch I praye you give mee leave to saye but this vnto <lb/>
+            you: First that if the depth of my affection to yo<ex>u</ex>r p<ex>er</ex>son and spirritt, to <lb/>
+            yo<ex>u</ex>r Workes and wordes, &amp; to all yo<ex>u</ex>r abillities were as highly to be valued as <lb/>
+            yo<ex>u</ex>r Affections is to mee, it might walke w<ex>i</ex>th yo<ex>u</ex>rs Arme in Arme, and claime <lb/>
+            yo<ex>u</ex>r Love by lust deserte, but there can be noe comparison, where our <lb/>
+            States are soe vneven, and our meanes to demonsrate o<ex>u</ex>r Affectio<ex>n</ex>s <lb/>
+            soe different, in soe much as for my owne, I must leave it to be prised <lb/>
+            in the Nature that it is, and you shall evermore finde it most adicted <lb/>
+            to yo<ex>u</ex>r worthe:/ As touching the Subject of yo<ex>u</ex>r Booke, you haue sett <lb/>
+            A Foote soe manye rare and noble Speculat<ex>i</ex>ons, as I cannot choose <lb/>
+            But wonder (and I shall wonder at it ever) that yo<ex>u</ex>r expence of tyme co<ex>n</ex>= <lb break="no"/>
+            sidered in the publique p<ex>ro</ex>fession, w<ex>hi</ex>ch hath in a manner noe acquainta<ex>n</ex>ce <lb/>
+            w<ex>i</ex>th  anye Schollershippe or learning, you should haue culled out the <lb/>
+            quitessence, and sucked vpp the Sap of the cheifest kinde of learning <lb/>
+            For howsoever in some pointes, you doe varie alltogither fro<ex>m</ex> <ex>tha</ex>t, w<ex>hi</ex>ch_ <lb/>
+            is, and hath bene ever the received doctrine of o<ex>u</ex>r Schooles, and was <lb/>
+            allways by the wisest as still hath beene deemed of all Nations <lb/>
+            and Ages adiudged the truest, yet it is apparant that in thus verye <lb/>
+            pointes, and in all yo<ex>u</ex>r proposells and plotts in that booke, you shewe <lb/>
+            yo<ex>u</ex>rselfe A Mast<ex>e</ex>r Worke-man, For my selfe I must confesse, and I <lb/>
+            speake it ingenue, that for the matter of learning I am not worthyie <lb/>
+            to be reckoned in the nu<ex>m</ex>ber of Smatterers: and yet because it maye <lb/>
+            seeme, that being willing to Comunicate yo<ex>u</ex>r Treates w<ex>i</ex>th yo<ex>u</ex>r Freinds <lb/>
+            you are likewise willing to listen to whatsoever I or others ca<ex>n</ex> except <lb/>
+            against it, I must deliver vnto you for my p<ex>ri</ex>vate opynion, that I am <lb/>
+            one of that Crew <ex>tha</ex>t saye there is and will possesse a farr greater <lb/>
+            hold fast of Certainetie in yo<ex>u</ex>r Sciences, then you by yo<ex>u</ex>r discouse <lb/>
+            will seeme to acknowledgye/ For, where as First you doe abiect the ill <lb/>
+            successe and erro<ex>u</ex>rs in Practitioners in Phisicke, you know aswell the <lb/>
+            doe p<ex>ro</ex>ceed of the Patience vnrulynes, For not one of A hundred doth <lb/>
+            obey his Phisic<ex>i</ex>on in observing his Cau<ex>n</ex>cells, or by misinformat<ex>i</ex>on of <lb/>
+            their owne indisposic<ex>i</ex>on (for few are able in that kinde to explicate them <lb/>
+            Selves) or by reason their diseases are by nature vncureable, w<ex>hi</ex>ch is <lb/>
+            incident you knowe to manye Sorts of Maladyes, or for some other <lb/>
+            hidd Cause w<ex>hi</ex>ch cannot be discovered by Course of Coniecture, how be <lb/>
+            it I am full of this beleefe, that as Phisicke is ministred now a dayes <lb/>
+            by Phyisitians, it is much to be ascribed to their negligence or ignora<ex>n</ex>ce <unclear> <lb/>
+            </unclear>
+                <fw type="catch" place="bot-right">or</fw>
+            <pb n="272r" facs="/bl/add_ms_22591/add_ms_22591_f272r/add_ms_22591_f272r.jpg"/>
+            or other touche of imp<ex>er</ex>fection, that they speed noe better in theire <lb/>
+            practise, For few are found of that p<ex>ro</ex>fession soe well instructed in <lb/>
+            theire Art, as they might be the p<ex>re</ex>cepts w<ex>hi</ex>ch y<ex>ou</ex>r Art doth affoard, w<ex>hi</ex>ch <lb/>
+            thoughe it be defective in regard of such p<ex>er</ex>feccion, yet for certaine <lb/>
+            it doth florish w<ex>i</ex>th admirable remedies, such as tract of Tyme hath <lb/>
+            <unclear>-</unclear> taught by experientall events, and are the open highe waye to that <lb/>
+            principall knowledge <ex>tha</ex>t you reco<ex>m</ex>mend: As for Alchimy &amp; Magicke <lb/>
+            some conclutions they haue, that are worthye the p<ex>re</ex>serving, but all <lb/>
+            their Skill is soe accompanied w<ex>i</ex>th Subtilties and guiles as both the <lb/>
+            Crafts and Crafte Masters are not onlye dispised, but named with <lb/>
+            derison, wherevpon to make good yo<ex>u</ex>r principall asserc<ex>i</ex>on, me thinks <lb/>
+            you should haue drawne yo<ex>u</ex>r example, from that w<ex>hi</ex>ch is taught the <lb/>
+            Liberall Sciences, not by picking out Cases that happen very seldo<ex>m</ex>e <lb/>
+            and maye by all Confession, be subject to reproofe, but by Co<ex>n</ex>trolling <lb/>
+            the Generalls and  Grounds and eminent positions &amp;aphorismes w<ex>hi</ex>ch <lb/>
+            the greatest Artists and Philosophers haue from tyme to Tyme de= <lb break="no"/>
+            fended; for it goeth for currant amongst all men of learning, that <lb/>
+            those kindes of Arts, w<ex>hi</ex>ch Clarkes in tymes past did terme <foreign xml:lang="la">
+                    <hi rend="italic">quadravials</hi>
+                </foreign>, <lb/>
+            Confirme theire p<ex>re</ex>positions, by infallible demonstrat<ex>i</ex>ons; And like= <lb break="no"/>
+            wise in the tryvialls, such lessons, and direcc<ex>i</ex>ons are delivered vnto vs, <lb/>
+            as will effect verye neere, as asmuch all togither, as every falculty <lb/>
+            doth p<ex>ro</ex>mise, Nowe in case we should concure as you advise, w<ex>hi</ex>ch is to <lb/>
+            renounce o<ex>u</ex>r Co<ex>m</ex>mo Notions, and Cancell all our Theomes axioms, <lb/>
+            rules and Tenents, and soe to come babes <foreign xml:lang="la">
+                    <hi rend="italic">Ad regnu<ex>m</ex> naturae</hi>
+                </foreign>, as we <lb/>
+            are wild by Scriptures to come <foreign xml:lang="la">
+                    <hi rend="italic">Ad regnu<ex>m</ex> caeloru<ex>m</ex>
+                    </hi>
+                </foreign>, there is nothing <lb/>
+            more certaine in my vnderstanding, then that it would instantlye <lb/>
+            bringe vs to barbarisme, and after manye thousand yearees, leave vs <lb/>
+            more vnprovided of <hi rend="italic">Theoricall</hi> furniture then wee are at this p<ex>re</ex>= <lb break="no"/>
+            sent; For that were indeed to become verye Babes, or <hi rend="italic">Tabula rasa</hi> <lb/>
+            when wee shall leave noe impression of anye former principles, <lb/>
+            but be driven to begin the world againe, and to travell by tryalls <lb/>
+            of Action and <del rend="strikethrough">service</del> sence (w<ex>hi</ex>ch are yo<ex>u</ex>r p<ex>ro</ex>ffes by p<ex>ar</ex>ticulers) what to <lb/>
+            place in <foreign xml:lang="la">
+                    <hi rend="italic">intellectum</hi>
+                </foreign>, for our gen<ex>er</ex>all Conceptions it being a maxime <lb/>
+            of all mens app<ex>ro</ex>ving in <foreign xml:lang="la">
+                    <hi rend="italic">intellectui nihil else quod non prius fuit in <lb/>
+            seunsu</hi>
+                </foreign>, And soe in appearance it would befall vs, that till <hi rend="italic">Platoes</hi> yeere <lb/>
+            become about our insight in learning, would be of lesse reckoning, <lb/>
+            then nowe it is accounted, as for <ex>tha</ex>t w<ex>hi</ex>ch you inculcate of A knowledg <lb/>
+            more excellent, then nowe is among vs, w<ex>hi</ex>ch experience might pro= <lb break="no"/>
+            duce, <ex>i</ex>f wee would <unclear>-</unclear> but assaye to extract it out of Nature by par= <lb break="no"/>
+            ticuler app<ex>ro</ex>bac<ex>i</ex>ons, it is noe more vpo<ex>n</ex> the matter, but to incite vs <lb/>
+            vnto that, w<ex>hi</ex>ch w<ex>i</ex>thout instigac<ex>i</ex>on, by A Naturall instinct men will <lb/>
+            practise of themselves, for it cannot in reason be otherwise thought, <lb/>
+            but that there are infinite numbers in all p<ex>ar</ex>ts of the world, for <lb/>
+            wee maye not in this Case confine o<ex>u</ex>r Cogitac<ex>i</ex>ons  w<ex>i</ex>thin <ex>th</ex>e bounds <lb/>
+            of Europe, w<ex>hi</ex>ch imbrace the Course w<ex>hi</ex>ch you purpose, w<ex>i</ex>th all the deli <lb/>
+            gence and Care that anye Abillitye can p<ex>er</ex>forme: for every man is <lb/>
+            borne w<ex>i</ex>th an Appetite of knowledge, wherew<ex>i</ex>th they cannot be so: <lb/>
+            glutted, but still, as in dropsyes, they thirst after more: but yet when <lb/>
+            they should harken to anye such p<ex>er</ex>swasion, as wholly to abollish those <lb/>
+            setled opynions and generall <hi rend="italic">Theories</hi>, to w<ex>hi</ex>ch they attained by their <lb/>
+            owne and their Au<ex>n</ex>cestors former experience, I sed nothinge yett <lb/>
+            alleaged to induce mee to thinke it: Moreover I maye speake it, as <lb/>
+            I should Suppose w<ex>i</ex>th good p<ex>ro</ex>babillitie, that If I should make A <lb/>
+            mentall Survey what is like to be effected all the world ou<ex>er</ex> thise <lb/>
+            five or six inventions w<ex>hi</ex>ch you haue selected and ymagine to be but <lb/>
+            of moderne Standing would make but A slender shewe amongst soe <lb/>
+            <fw type="catch" place="bot-right">manye</fw>
+            <pb n="272v" facs="/bl/add_ms_22591/add_ms_22591_f272v/add_ms_22591_f272v.jpg"/>
+            manye hundreds of all kindes of Natures w<ex>hi</ex>ch are dailye brought to <lb/>
+            light, by the enforcem<ex>en</ex>t of witt, or Casuall event: &amp; maye be co<ex>m</ex>pared or <lb/>
+            p<ex>ar</ex>tlye p<ex>re</ex>ferred, aboue thos w<ex>hi</ex>ch you haue named: but were it soe here, <ex>tha</ex>t  all <lb/>
+            were admitted, <ex>tha</ex>t you can require for <ex>th</ex>e augmentac<ex>i</ex>on of our knowledge, &amp; <lb/>
+            that all o<ex>u</ex>r theorem &amp; gen<ex>r</ex>all positions were vtterlie extinquished, w<ex>i</ex>th a new <lb/>
+            substituc<ex>i</ex>on of oth<ex>e</ex>rs in their places, w<ex>ha</ex>t hope maye we haue of any benefit of lear= <lb break="no"/>
+            ning by this alterac<ex>i</ex>on, assuredlye assoone as the new are brought <foreign xml:lang="la">
+                    <hi rend="italic">ad ax<unclear>---</unclear>
+                    </hi>
+                </foreign> <lb/>
+            by the Inventors, &amp; th<ex>ei</ex>r followers, by an intercha<ex>n</ex>gable cou<ex>r</ex>se of natuall thinges, <lb/>
+            they will fall by degrees to be buried in oblivion, &amp; soe in continuance to <lb/>
+            p<ex>er</ex>ish outright &amp; <ex>tha</ex>t p<ex>er</ex>chau<ex>n</ex>ce vpo<ex>n</ex> <ex>th</ex>e like to yo<ex>u</ex>r p<ex>re</ex>sent p<ex>re</ex>tences, by p<ex>ro</ex>posall of <lb/>
+            some means to advance all o<ex>u</ex>r knowledge found to an higher pitch of p<ex>er</ex>fectnes <lb/>
+            Forr still the same defects <ex>tha</ex>t antiquitye found will reside in Mankinde: And <lb/>
+            therefore oth<ex>e</ex>r issues of <ex>the</ex>ir Actions, devices, and Studies, are not to be expected, <lb/>
+            then is app<ex>ar</ex>ant by records were in former tymes observed, I reme<ex>m</ex>ber heere a <lb/>
+            note w<ex>i</ex>th w<ex>hi</ex>ch <hi rend="italic">Paterculus</hi> made of the incomp<ex>ar</ex>able witts of <ex>th</ex>e Gretians and <lb/>
+            Romans in their florishing Estate, <ex>tha</ex>t there might be this reason of their notable <lb/>
+            downefall in <ex>the</ex>ir Issue that came after, because by Nature <foreign xml:lang="la">
+                    <hi rend="italic">quod su<ex>m</ex>mo studio <lb/>
+            petitum est ascendit in Summum <unclear>difficisq<ex>ue</ex>
+                        </unclear> in perfecto mora est</hi>
+                </foreign>, in so much <lb/>
+            that men p<ex>er</ex>ceaving that they could not goe further, being come to the toppe, <lb/>
+            they turned backe againe of their owne accord, forsakinge those Studdyes, <lb/>
+            that are most in request, &amp; betaking themselves to newe endeavours as if <lb/>
+            the thing that they sought had bene by p<ex>re</ex>ve<ex>n</ex>tio<ex>n</ex> foresprised by oth<ex>e</ex>rs: so it faced in p<ex>ar</ex>ticuler w<ex>i</ex>th <lb/>
+            the eloquence of that age, that when theire Successours founde, that hardlye <lb/>
+            the could equall, by noe meanes excell  their p<ex>re</ex>decessors, they bega<ex>n</ex> to neglect <lb/>
+            the Study thereof, &amp; both to write &amp; speake, for many too: yeares in a rusticall man<ex>er</ex>, till <lb/>
+            this latter revoluc<ex>i</ex>on brought <ex>th</ex>e wheele about againe by inflaming galla<ex>n</ex>t spirits, to giue <lb/>
+            the onsett afresh w<ex>i</ex>th streying and str<ex>i</ex>ving to clime vnto <ex>tha</ex>t top &amp; hight of p<ex>er</ex>fection not in <lb/>
+            that guifte alone, but in everye other skill, in anye p<ex>ar</ex>te of learning, For I do not <lb/>
+            hold it an erroinous conceipt, to thinke of every  Science, that as now they are <lb/>
+            p<ex>ro</ex>fessed, For they haue beene, in all p<ex>re</ex>cedent, Ages before, thoughe not alike <lb/>
+            in all places, nor at all tymes alike, in one and the same: but according to the <lb/>
+            Changeings &amp; turnings of tymes, w<ex>i</ex>th A more exact and plaine, w<ex>i</ex>th a more <lb/>
+            rude and obscure kinde of teaching: and of the questio<ex>n</ex> should be asked, what <lb/>
+            p<ex>ar</ex>te I haue of it, I haue the doctringe of Aristotle, and of the deepest learned <lb/>
+            Clarkes, of whom will haue anye meanes to take anye notice, <ex>tha</ex>t as there is <lb/>
+            of other thinges, Soe there is of Sciences, <foreign xml:lang="la">
+                    <hi rend="italic">ortus et interitus</hi>
+                </foreign>, w<ex>hi</ex>ch is allsoe the <lb/>
+            meaning, if I  should expound it, of <foreign xml:lang="la">
+                    <hi rend="italic">nihil novuum subsole</hi>
+                </foreign>, and is as well to <lb/>
+            be applyed, <foreign xml:lang="la">
+                    <hi rend="italic">ad facta</hi>
+                </foreign> as <foreign xml:lang="la">
+                    <hi rend="italic">ad dicta, ut nihil neque dictum neque factum, quod <lb/>
+            non et dictum et factum prius</hi>
+                </foreign>, I haue further for my warrent <ex>tha</ex>t famous co<ex>m</ex>= <lb break="no"/>
+            plaint of Salomon to his sonne against <ex>th</ex>e Infinite making of Bookes in his <lb/>
+            tyme, of w<ex>hi</ex>ch, in all congruitie it must neede be vnderstood, <ex>tha</ex>t a greate p<ex>ar</ex>te <lb/>
+            were observac<ex>i</ex>ons and Instructions in all kind of literature, and of thos, there <lb/>
+            is not nowe soe much as one pettye pamphlett (onlye some p<ex>ar</ex>cells of the Bible <lb/>
+            excepted remayning to posteritie) As then there was not in like manner anye <lb/>
+            footing to be found, of Millions of Authors <ex>tha</ex>t were long before Solomon: And <lb/>
+            yet wee must give creditt to that w<ex>hi</ex>ch he affirmed, <ex>tha</ex>t w<ex>ha</ex>t soever was then or had <lb/>
+            bene before, it could never be trulye p<ex>ro</ex>nou<ex>n</ex>ced of it, <hi rend="italic">Behold this is new</hi>: where <lb/>
+            vpon I must for finall Conclution inferre, Seeing all the endeaver as, Studdye <lb/>
+            and knowledge of Mandkinde in w<ex>hi</ex>ch soever Art, or Science, haue ever bine the <lb/>
+            same, as they are at this p<ex>re</ex>sent, though full of mucabillities accordinge to the <lb/>
+            changes and accidentall occasions of ages, and Cou<ex>n</ex>tryes, &amp; Clarkes dispositio<ex>n</ex> <lb/>
+            both in their devices, and in their practised of their knowledge, if now we should <lb/>
+            accord in opinion w<ex>i</ex>th you, First to co<ex>n</ex>demne o<ex>u</ex>r p<ex>re</ex>sent knowledge of doubts and <lb/>
+            incertitude (w<ex>hi</ex>ch you, co<ex>n</ex>ferme but by averm<ex>en</ex>t, w<ex>i</ex>thout other force of Argum<ex>en</ex>t <lb/>
+            And then to disclaime all our <hi rend="italic">Axiomes</hi>, and <hi rend="italic">Maximes</hi>, and gen<ex>er</ex>all acsertio<ex>n</ex>s, <lb/>
+            that are left by tradicio<ex>n</ex>, forom o<ex>u</ex>r Elders to vs, w<ex>hi</ex>ch (for soe it is to be inte<ex>n</ex>ded) <lb/>
+            haue passed all p<ex>ro</ex>bations, of the sharpest witts that ever were, and lastlye to <lb/>
+            devise (being become nowe againe as it, were <hi rend="italic">Abecedary</hi> by <ex>th</ex>e frequent spel <lb/>
+            ling of p<ex>ar</ex>ticulers, to come to the notice of the true generalls, &amp; soe afresh <lb/>
+            to create new priciples of Sciences, the End of all would be, that when <lb/>
+            wee shall bee <add place="above">dis</add>possessed of the learning w<ex>hi</ex>ch wee haue all our Consequent <lb/>
+            travell, will but helpe as in A circle to Conduct vs to the place fro<ex>m</ex> whence <lb/>
+            <fw type="catch" place="bot-right">wee</fw>
+            <pb n="273r" facs="/bl/add_ms_22591/add_ms_22591_f273r/add_ms_22591_f273r.jpg"/>
+            wee sett forward and bringe vs to <ex>th</ex>e happines to be restored in Integru<ex>m</ex>
+                <hi rend="bold"> <lb/>
+            </hi>w<ex>hi</ex>ch will require as many ages haue marched before vs to be p<ex>er</ex>fectly <lb/>
+            atcheived. And this I writt w<ex>i</ex>th noe dislike of increasing o<ex>u</ex>r knowledge w<ex>i</ex>th <lb/>
+            new found devices, (w<ex>hi</ex>ch is vndoubtedly A practise of highe Comendac<ex>i</ex>on, in <lb/>
+            regard of <ex>th</ex>e benefitt they will yeeld for the p<ex>re</ex>sent, <ex>tha</ex>t <ex>th</ex>e world hath eu<ex>er</ex> bene <lb/>
+            and will assuredly continue very full of such devises whose industery <ex>tha</ex>t way <lb/>
+            hath bine verye obstinate, and<unclear>-</unclear>eminent, &amp; hath p<ex>ro</ex>duced strang effects, aboue <lb/>
+            the reach &amp; the hope of mens como<ex>n</ex> Capacities: And yet our Notions and <lb/>
+            <hi rend="italic">Theormes</hi> hath allways kepte in grace both with them, &amp; w<ex>i</ex>th the rarest <lb/>
+            that ever were named among the learned, by this you see to w<ex>ha</ex>t boldnes I <lb/>
+            am brought, by yo<ex>u</ex>rkindnes, <ex>tha</ex>t (if I seeme to be too sawcye in this Co<ex>n</ex>tradiction, <lb/>
+            it is the opynion <ex>tha</ex>t I hold of yo<ex>u</ex>r Noble disposic<ex>i</ex>on, &amp; of <ex>th</ex>e freedome in these cases, <lb/>
+            that you will afford yo<ex>u</ex>r speciall Freind, <ex>tha</ex>t hath enduced me to doe it, And all= <lb break="no"/>
+            thoughe I my selfe, like A Cario<ex>u</ex>rs horse, cannot bauke the beaten way in <lb/>
+            w<ex>hi</ex>ch I haue bene trayned, yet such is my Censure of yo<ex>u</ex>r <hi rend="italic">Cogitata</hi>, <ex>tha</ex>t I must <lb/>
+            tell you, to be plaine, you haue verye much wronged yo<ex>u</ex>r selfe, and <ex>th</ex>e world <lb/>
+            to smother such A Treatise soe long in yo<ex>u</ex>r Coffer, for though, I stand well <lb/>
+            assured ( for the teno<ex>u</ex>r and subiect of yo<ex>u</ex>r maine discourse ) you are not able <lb/>
+            to empanell A Substantiall Iurye, in anye vniu<ex>er</ex>sitie, that will giue you A <lb/>
+            Verdict to acquite you of erro<ex>u</ex>r, yet it cannot be gainesaid, that all your <lb/>
+            treatise ever doth abound w<ex>i</ex>th chase Conceipts of the p<ex>re</ex>sent State of learning, <lb/>
+            and w<ex>i</ex>th soe worthy Contemplations of the meanes to p<ex>ro</ex>cure it, as may per= <lb break="no"/>
+            swade w<ex>i</ex>th anye Student, to looke more narrowlye to his busines, not only <lb/>
+            by aspiringe to the greatest p<ex>er</ex>fection of that w<ex>hi</ex>ch is now A dayes devulged <lb/>
+            in the Sciences, both by diving yet deeper, as it were into the Bowels and <lb/>
+            Secretts of Nature, and by enforcing of the powers of this Iudgment &amp; <lb/>
+            witt, to leave of St Paule, <foreign xml:lang="la">
+                    <hi rend="italic">Consectari meliora dona</hi>
+                </foreign>, w<ex>hi</ex>ch Course would <lb/>
+            to God (to whisper soe much in yo<ex>u</ex>r Eare) you had followed at <ex>th</ex>e first, whe<ex>n</ex> <lb/>
+            you fell into <ex>th</ex>e Studye of Such A Studye, as was not worthy such a stude<ex>n</ex>t
+         </p>
+         <p>
+            <hi rend="bold">Never</hi>thelesse, being soe as it is, <ex>tha</ex>t you are there in set<ex>t</ex>led, &amp; yo<ex>u</ex>r cou<ex>n</ex>try <lb/>
+            Soundlye Served, I cannot but wish w<ex>i</ex>th all my harte, as I doe verye often, <lb/>
+            that you maye gaine A fitt reward to the full of yo<ex>u</ex>r deserts, w<ex>hi</ex>ch I hope <lb/>
+            will come w<ex>i</ex>th leapes of happines and hono<ex>u</ex>r, <hi rend="bold">Fro<ex>m</ex> Fulham 19: Feb: </hi>
+         </p>
+         <p rend="indent">
+            <hi rend="bold">yo<ex>u</ex>rs to be vsed &amp; comaunded T: B:</hi>
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">1607</hi>
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="bold">postcripe</hi>
+            </add>
+            <hi rend="bold">Sir</hi> one kinde of Boldnes doth drawe on another, in soe much, as <lb/>
+            me thinkes I should offend, not to signifie that before the transcripte <lb/>
+            of yo<ex>u</ex>r booke be fitted for <ex>th</ex>e presse, it will be requisite for you to cast A <lb/>
+            Censo<ex>u</ex>rs Eye vpo<ex>n</ex> yo<ex>u</ex>r Stile, &amp; eloquution w<ex>hi</ex>ch in the Framinge of some <lb/>
+            periods, and in divers wordes and phrases will hardlye goe for currant, <lb/>
+            if the Coppye brought to mee be iust the same, <ex>tha</ex>t you would publish <lb/>
+            <hi rend="bold">Sir </hi>Cloudes of Miseryes darkens soe much such as are not in <ex>th</ex>e Shur= <lb break="no"/>
+            chinge of p<ex>ro</ex>speritie, as they p<ex>re</ex>vayle w<ex>i</ex>th many good Natures, furnished <lb/>
+            w<ex>i</ex>th Comendable Iudgm<ex>en</ex>t, to give wrong Censures of them: I am one of thos, <lb/>
+            that cannot iustifie myselfe soe farre, as not to be lyable to reproofe <lb/>
+            yet I am of that ranke <ex>tha</ex>t cannot stoope to the stroake of every malitious <lb/>
+            tongue. But in you I haue found such abundance of Favo<ex>u</ex>r, whoe never <lb/>
+            knewe mee but in my tyde of ebb, <ex>tha</ex>t I must needs leave this w<ex>i</ex>th you, as <lb/>
+            A Record, to wittnes my Shame and reproach, if I be in grat<ex>e</ex>full for <lb/>
+            it, Soe farr as either abillitie of Body or goods of Fortune maye <lb/>
+            extend to performe, And herevto hee setts his land, <ex>tha</ex>t resolves <lb/>
+            to live and dye/
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">
+               yo<ex>u</ex>r faithfull freinde to <lb/>
+               serue you
+            </hi>
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">
+               Thomas Bodley
+            </hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f271v/add_ms_22591_f271v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f272r/add_ms_22591_f272r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f272v/add_ms_22591_f272v.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f273r/add_ms_22591_f273r.jpg"/>
+   </facsimile>
+</TEI>

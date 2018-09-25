@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Summary of a letter from a Jesuit to the Father Rector in Brussels</title>
+            <author>
+               <persName corresp="../people/people.xml#0035">John Maynard</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6799">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6799</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4289">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 4289</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1323">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1323</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3786">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3786</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_30926">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 30926</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_33469">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 33469</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_152">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 152</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_494">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 494</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_225">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 225</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_495">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 495</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_286">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 286</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier> 
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, ff. 21v–23r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4108.xml">British Library, Additional MS 4108, ff. 95x–98r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 153v–155r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1323.xml">British Library, Harley MS 1323, ff. 37r–42r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3786.xml">British Library, Harley MS 3786, ff. 28r–30v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4289.xml">British Library, Harley MS 4289, ff. 239v–241r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 92r–97r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="MaynardLetterJesuit1628v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, ff. 143r–144v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6799.xml">British Library, Harley MS 6799, ff. 359v–361v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS494.xml">British Library, Lansdowne MS 494, ff. 40r–43v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS495.xml">British Library, Lansdowne MS 495, ff. 1r–6r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_30926.xml">British Library, Additional MS 30926, ff. 10r–14r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_33469.xml">British Library, Additional MS 33469, ff. 33r–34v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_225.xml">British Library, Hargrave MS 225, ff. 56r–65r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_286.xml">British Library, Harley MS 286, ff. 298r–302r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_152.xml">British Library, Stowe MS 152, ff. 23x–24x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b8.xml">Beinecke Library, Osborn b8, ff. 51x–61x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb165.xml">Beinecke Library, Osborn fb165, ff. 27–33</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_826.xml">Bodleian Library,  MS Ashmole 826, ff. 209r–210v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Barlow_54.xml">Bodleian Library,  MS Barlow 54, ff. 12r–13r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_4.xml">Bodleian Library,  MS Clarendon 4, ff. 113r–114v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_c_272.xml">Bodleian Library,  MS Eng. hist. c. 272, ff. 115r–122x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_807.xml">Bodleian Library,  MS Rawlinson C 807, ff. 116–127</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_356.xml">Bodleian Library,  MS Rawlinson D 356, ff. 18–24</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_72.xml">Bodleian Library,  MS Tanner 72, ff. 252r–253v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, f. 210r214r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg129.xml">Cambridge University Library,  MS Gg.1.29, reversing the volume, 84v–85v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm51.xml">Cambridge University Library,  MS Mm.5.1, ff. 124r–26v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_277.xml">Folger Shakespeare Library,  MS V.b.277, ff. 110r–113v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_VIIIB148.xml">Hertfordshire Archives and Local Studies,  VIII.B.148</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1080.xml">Houghton Library,  fMS Eng 1080, pp37–40</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_36836.xml">Huntington Library,  HM 36836, ff. 90–102</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_18.xml">Inner Temple Library, Petyt MS 538/18, ff. 404v–406v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LSA_MS_26.xml">London Society of Antiquaries,  MS 26, ff. 48r–50v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH2381.xml">Northamptonshire Record Office,  FH2381, ff. 4v–5r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_RO_1_37.xml">Parliamentary Archives,  HL/PO/RO/1/37, pp.21–28</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_99.xml">The National Archives,  SP 16/99, /22 [ff.192r–193v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_99.xml">The National Archives,  SP 16/99, /23 [ff.195r–198r]</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628-03-19">19 March 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+               <term>summary</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>anti-catholicism</term>
+               <term>Jesuits</term>
+               <term>confessional conflict</term>
+               <term>Palatinate</term>
+               <term>conspiracy</term>
+               <term>Spanish Match</term>
+               <term>puritanism</term>
+               <term>Arminianism</term>
+               <term>projectors</term>
+               <term>Gondomar</term>
+               <term>diplomacy</term>
+               <term>Dutch Republic</term>
+               <term>foreign affairs</term>
+               <term>Pope</term>
+               <term>excise</term>
+               <term>soldiers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="14r" facs="/bl/add_ms_35331/add_ms_35331_f014r/add_ms_35331_f014r.jpg"/>
+         <head>
+            <figure>
+               <figDesc>
+                  A doodle of a face with a moustache, pointed goatee and balding head; possibly a Jesuit?
+               </figDesc>
+            </figure>
+            The sum<ex>m</ex>e of a l<ex>ett</ex>re w<ex>hi</ex>ch was founde amonge some Iesuites that were taken <lb/>
+            in	London att Clerkenwell aboute the xixth of m<ex>ar</ex>rch 1628. and addressed <lb/>
+            to the father Rector att Bruxells./
+         </head>
+         <p>
+            <add place="LM">
+               <hi rend="underline">occurantes.</hi>
+            </add>
+            That the Iesuites have not opposed the callinge of this p<ex>ar</ex>liam<ex>en</ex>t but	furthered yt, conceivinge that <lb/>
+            the discontentes therin, wilbee a furtherance to there cause &amp; p<ex>ar</ex>tie.
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="underline">praerogatiue./</hi>
+            </add>
+            That the Councell is engaged to assiste the kinge by waye or Prerogatiue in case the p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            maye fayle.
+         </p>
+         <p>
+            Gondamor rocked the late kinge Iames a sleepe w<ex>i</ex>th the softe sounde of peace and keepinge upp of <lb/>
+            the Spanishe matche./
+         </p>
+         <p>
+            <add place="LM">
+               Vilifyinge the	<lb/>
+               <hi rend="underline">hollenders</hi>
+            </add>
+            To gayne tyme for furtherance of there faction A Statesman <del rend="strikethrough">
+                    <gap reason="illegible" quantity="18" unit="chars"/>
+                </del> <add place="above">of the Netherlandes</add> caused a cessation <lb/>
+            of armes in the Palatinate, and in admiringe the worthe and hono<ex>u</ex>r of Spayne, and <lb/>
+            vilifyinge of the Hollenders. That the states were more obnoxious to Englande then the <lb/>
+            Turkes and p<ex>er</ex>petually iniured his ma<ex>jes</ex>ties subiectes in the Easte Indies, and fishinge upon the <lb/>
+            Englishe coastes vsurpinge the Regallity of the narrowe seas./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="underline">Puritans.</hi>
+            </add>
+            None but the Puritan faction were adverse to this happie course (of the uniu<ex>er</ex>sall monarchy) <lb/>
+            and they stere the same course./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="underline">Proiectors.</hi>
+            </add>
+            The other factione (of proiectors) fomente revenge upon the p<ex>ar</ex>liam<ex>en</ex>t men./
+         </p>
+         <p>
+            That those that were impr<ex>i</ex>soned aboute the loane are taunted to bee the m<ex>a</ex>rtyrs &amp; worthie <lb/>
+            men of the Country./
+         </p>
+         <p>
+            That the same sworde that hath wounded them (meaninge the Duke of 			Buck<ex>ingham</ex>) shall <lb/>
+            licke them whole: thus the p<ex>ar</ex>liam<ex>en</ex>t as a shippe hath twise dashed against the same <lb/>
+            rocke, and that they have so charmed the p<ex>ar</ex>liam<ex>en</ex>t men, that they are p<ex>er</ex>swaded the beste <lb/>
+            waye to overthrowe the duke (w<ex>hi</ex>ch they haue noe cause to wishe) is by waye of petition <lb/>
+            to his ma<ex>jes</ex>tie w<ex>hi</ex>ch they have backed w<ex>i</ex>th presidentes./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="underline">Arminiansime</hi>
+            </add>
+            That they have planted Arminianisme. The materialls wherof are the Proiectors and <lb/>
+            <add place="LM">
+               <hi rend="underline">Oligarchie is</hi> <lb/>
+               A State w<ex>hi</ex>ch hath <lb/>
+               a fewe persons to <lb/>
+               governe./
+            </add>
+            beggers of all ranck: both theise introduce a newe species or forme of goverm<ex>en</ex>t w<ex>hi</ex>ch <lb/>
+            is <hi rend="italic">Oligarchie</hi>. Theise factions serve as Mediums
+            to there uniu<ex>er</ex>sall Monarchy <lb/>
+            the foundation wherof must bee mutation, and this mutation will cause a Reluctac<ex>i</ex>on <lb/>
+            w<ex>hi</ex>ch will serve as so many disseases to the destruction of the body./
+         </p>
+         <p>
+            <add place="LM">
+               Church Cathelick <lb/>
+               <hi rend="underline">honered.</hi>
+            </add>
+            That they hono<ex>u</ex>r such as merite the dukes revenge w<ex>hi</ex>ch are the Church Catholikes <lb/>
+            That they stave and keepe of the Puritans that they hange not in the dukes 		eares. <lb/>
+            and for the p<ex>re</ex>ventions of the puritans the Arminians have already blocked upp the dukes <lb/>
+            eares, and those of the popishe religion standes contyneually att the dukes chamber to see <lb/>
+            whoe goes in and out./
+         </p>
+         <p>
+            That some of the papistes have accused themselues and cann acte the p<ex>ar</ex>te of Puritans.
+         </p>
+         <p>
+            <add place="LM">
+               <seg rend="curly-bracket-L">
+                  Arminians <lb/>
+                  &amp; <lb/>
+                  Proiectors.
+               </seg>
+            </add>
+            There mayne fabricke or foundac<ex>i</ex>on is Arminianisme, &amp; Proiectors affecting mutation <lb/>
+            this wee seconde and enforce by probable argum<ex>en</ex>tes. In the firste place wee take into <lb/>
+            <sic>considerc<ex>i</ex>on</sic> the kinges hono<ex>u</ex>r and p<ex>re</ex>sente necessity, and shewe howe the kinge may free himselfe <lb/>
+            of his wardshippe (as Lewes 11.th did) and for his greater spendor raise a vaste <lb/>
+            <add place="LM">
+               Impositions <lb/>
+               <hi rend="underline">Excise.</hi>
+                    <hi rend="superscript">&amp;</hi>
+            </add>
+            revenewe, and not bee beholdinge to his subiectes w<ex>hi</ex>ch is by waye of <hi rend="italic">Impositions</hi> and <lb/>
+            <hi rend="italic">Excise</hi>. wee instance the loughe countryes./
+         </p>
+         <p>
+            This excise is to bee setled by a mercenary army of horse and foote for the horse men <lb/>
+            <add place="LM">
+               Mercenary <lb/>
+               <hi rend="italic">Souldiers.</hi>
+            </add>
+            wee have made yt sure it shalbee forrayners and Germans whoe will eate upp <lb/>
+            the kinges reveneue and spoyle the Country. Wee are carefull that this mercenary <lb/>
+            army of 2000, horses and 20000. foote shalbee taken or in paye before the excise <lb/>
+            bee setledd, enforcinge the excise. The Country is most like to ryse, yf y<hi rend="superscript">e</hi> mercenary <lb/>
+            <hi rend="align-right">army subiugate the Country then the souldiers and</hi>
+            <fw type="catch" place="bot-right">p<ex>ro</ex>iectors</fw>
+            <pb n="14v" facs="/bl/add_ms_35331/add_ms_35331_f014v/add_ms_35331_f014v.jpg"/>
+            <add place="header">
+               <hi rend="underline">
+                  An<ex>n</ex>o Dom<ex>ini</ex> 1628.
+               </hi>
+            </add>
+            and Proiectors shalbee payde out of the Confiscations: yf the Country bee to harde for <lb/>
+            the souldiers, then they must <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> consequently mutyne, w<ex>hi</ex>ch is equally advantagious to them./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="underline">to dissolve trade.</hi>
+            </add>
+            That they hope (by the Proiectors) instantly to dissolve trade, and hinder the buildinge <lb/>
+            <add place="LM">
+               overthrowe of <lb/>
+               <hi rend="underline">shippinge./</hi>
+            </add>
+            of shippinge, in divisinge probable <del rend="strikethrough">
+                    <gap reason="illegible" quantity="7" unit="chars"/>
+                </del> deseignes, and putt the State upon ex=<lb break="no"/>
+            peditions (as that of Cales) in takinge awaye the m<ex>e</ex>rchantes shippes, and putt them in <lb/>
+            hope to take the <hi rend="italic">West Indian</hi> fleete. When trade is decayed and shippinge, <lb/>
+            what will become of <hi rend="italic">Excise</hi>? naye what will become of noble men and gentlemens <lb/>
+            revenewes? And the yeoman and fermors they will turne rogues, and live noe better then slaves./
+         </p>
+         <p>
+            And then they conclude that all men missinge there meanes will lynger for 		a <lb/>
+            Conqueror: Then wee hope that the landes taken from the Churche by H:8. <lb/>
+            shalbee resumed and restored <hi rend="italic">by our Protector his Catholike ma<ex>jes</ex>tie</hi>:/ 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f014r/add_ms_35331_f014r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f014v/add_ms_35331_f014v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 389</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+               <msIdentifier xml:id="BL_Harley_MS_389">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 389</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. 1, Nov. 1620-Dec. 1625</msName>
+               </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>1r-v</locus>
+                   <title when="1620-11-21">A Relation of the manner of the loss of Prague</title>
+                   <author>An English Gentleman</author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RelationPrague1621.xml" type="t_witness"/>
+                   <msDesc>
+                    <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1620-11-21"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>335r-v</locus>
+                   <title>A Prophecy Found in the Abbey of St Benedict in Norfolk</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ProphecyAbbeyNorfolk1623.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1623-05-31">
+                            <origPlace corresp="../places/places.xml#PL0012">Christ's College, Cambridge</origPlace>
+                         </origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>347r-v</locus>
+                   <title when="1622">Description of An Hieroglyphical Watch or Clock</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>Joseph Meade</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DescriptionAnHieroglyphicalWatchClock1622.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1623-07-11"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation>Foliation in black ink</foliation>
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p>Joseph Mede</p>
+                   </handNote>
+                   <handNote n="2">
+                      <p>Sir Martin Stuteville</p>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin from="1620-11" to="1625-12">Newsletters sent from <persName xml:id="MeadeID">Joseph Mede</persName> to <persName xml:id="StutevilleID">Sir Martin Stuteville</persName>
+                    </origin>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_389_part/harley_ms_389_f001r/harley_ms_389_f001r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_389_part/harley_ms_389_f001v/harley_ms_389_f001v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_389_part/harley_ms_389_f335rl/harley_ms_389_f335r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_389_part/harley_ms_389_f335v/harley_ms_389_f335v.jpg"/>
+   </facsimile>
+</TEI>

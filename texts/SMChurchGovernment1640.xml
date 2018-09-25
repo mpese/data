@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Collection of Some Things Established in Our Church Government </title>
+            <author>
+               <persName corresp="../people/people.xml#P0085">
+                  S.M.
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName corresp="..places/places.xml#PL0020">Essex</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>commentary</term>
+               <term>articles</term>
+               <term>queries</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+               <term>anti-catholicism</term>
+               <term>Catholic Church</term>
+               <term>church history</term>
+               <term>officeholding</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="transcribed" who="#RB" when="2017-11-23"/>
+            <change status="proofread" who="#NM" when="2018-06-06"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="61r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f061r/harley_ms_4931_f061r.jpg"/>
+         <head rend="align-centre">
+            A collection of some of y<hi rend="superscript">e</hi> things established <lb/>
+            <add place="LM">
+               Supposed to be by <lb/>
+               Mr S. M. of Essex./ 
+            </add>
+            in our Church-goverment./
+         </head>
+         <p>
+            <add place="LM">
+               1:
+            </add>
+            By y<hi rend="superscript">e</hi> Lawes, y<hi rend="superscript">e</hi> King alone makes y<hi rend="superscript">e</hi> choice of Bishops, although for forme y<hi rend="superscript">e</hi> <lb/>
+            Chapiter chooseth him, whome y<hi rend="superscript">e</hi> King names, yet they may not choose another. <lb/>
+            <foreign xml:lang="la">vide Iunium Eclesiast</foreign>: l.3.c.11. whereas by all old Canons, &amp; edicts of Empe=<lb break="no"/>
+            rours y<hi rend="superscript">e</hi> Church should choose her Bishops. Origen in Levit: Hom:6 Cyprian <lb/>
+            l.1.epist:<add place="above">4 &amp;</add> 89 <foreign xml:lang="la">ubi ille Canon (inquit Athanasius) ut a Palatio mittatur is, <lb/>
+            qui futurus est Episcopus: Epist: adsolitariam vitam degentes.</foreign>
+         </p>
+         <p>
+            <add place="LM">
+               2:
+            </add>
+            They say by statute 1. Eliz: y<hi rend="superscript">e</hi> King, &amp; Arch-Bishop may appoint what <lb/>
+            Ceremonies they thinke may be for Gods glory &amp;c.
+         </p>
+         <p>
+            <add place="LM">
+               3:
+            </add>
+            By y<hi rend="superscript">e</hi> goverment established it's not lawfull to appeale to any synode <lb/>
+            Provinciall, or Generall; but a <foreign xml:lang="la">persona ad personam, ab vnico ad vnicum,</foreign> <lb/>
+            from Arch-Deacon to Bishop, from him to Arch-Bishop, from him to y<hi rend="superscript">e</hi> <lb/>
+            King Anno 25 Hen: 8.
+         </p>
+         <p>
+            <add place="LM">
+               4:
+            </add>
+            The high Commisssioners doe exercise y<hi rend="superscript">e</hi> power of y<hi rend="superscript">e</hi> Keyes, not as Cler-<lb break="no"/>
+            gymen, but as Commissioners; &amp; soe can doe nothing, but what y<hi rend="superscript">e</hi> King <lb/>
+            in person might doe, whose Commissioners they are.
+         </p>
+         <p>
+            <add place="LM">
+               5:
+            </add>
+            By y<hi rend="superscript">e</hi> Law y<hi rend="superscript">e</hi> King may grant Commendams, to Bishops tot-quots, to Chap-<lb break="no"/>
+            laines power to be non-Residents, &amp; Pluralities of Livings by y<hi rend="superscript">e</hi> Court <lb/>
+            of facultyes./
+         </p>
+         <p rend="indent">
+            Concerning Bishops./
+         </p>
+         <p>
+            <add place="LM">
+               1:
+            </add>
+            The Arch-Bishop may dispense in all cases, wherein y<hi rend="superscript">e</hi> Pope might <lb/>
+            dispense, if not against y<hi rend="superscript">e</hi> word of God; then y<hi rend="superscript">e</hi> Arch-Bishops place above <lb/>
+            Dukes, his Title Grace, other Bishops Count-Palatines, all Barons, &amp; <lb/>
+            take place of temporall Barons.
+         </p>
+         <p>
+            <add place="LM">
+               2:
+            </add>
+            The Bishops by y<hi rend="superscript">e</hi> Law have sole power of Iurisdiction; they may alone <lb/>
+            excommunicate, absolve, deprive &amp;c. a thing which all y<hi rend="superscript">e</hi> old Canons are <lb/>
+            against: <foreign xml:lang="la">vide </foreign> spalat: de Eclesia l.5.c.7.no.37. &amp; plainely against scripture, <lb/>
+            &amp; in y<hi rend="superscript">e</hi> Primitive church the Bish<ex>op</ex> was onely y<hi rend="superscript">e</hi> Præses of y<hi rend="superscript">e</hi> Assembly, <lb/>
+            &amp; did nothing without y<hi rend="superscript">e</hi> rest of y<hi rend="superscript">e</hi> Clergy. Feild l.5.c.30./49. Iunius <lb/>
+            de Clericis c.15. nota: 16. Tilen: Parænes: c.9. Whitaker de Pontifice qu: <lb/>
+            1.c.3. sec: 29. Calvin Instit .l.4.c.4. sec:2. Bilson de Gubernat: cap:11. <lb/>
+               p.202 &amp;c. shew it at large. &amp; cap:12. Ambr: Basil: Cyprian, Tertullian <lb/>
+            in Apologet: Irenæus l.4.c.42.43. &amp; Gratian: Decret: causa 15. qu.7. <lb/>
+            c.5 alledging <ex>tha</ex>t y<hi rend="superscript">e</hi> Bishops might doe something <foreign xml:lang="la">solus</foreign> in governing <lb/>
+            his owne Clergy, saith Bolus is for y<hi rend="superscript">e</hi> excluding other Bishops, not <lb/>
+            his owne Clergy; <foreign xml:lang="la">sine quorum præsentia, sententia ejus erit irrita: <lb/>
+            </foreign> soe allsoe Bilson c.11. Dr Feild <foreign xml:lang="la">ubi supra</foreign>: Bacon even in y<hi rend="superscript">e</hi> Papacy <lb/>
+            the Pope hath his Colledge of Cardinalls, &amp; looke what sole power y<hi rend="superscript">e</hi> <lb/>
+            Bishop useth in his Iurisdiction, y<hi rend="superscript">e</hi> same useth y<hi rend="superscript">e</hi> Arch-Deacon in his, <lb/>
+            yea y<hi rend="superscript">e</hi> chancellour, &amp; Officiall in Excom<ex>municati</ex>on, &amp; Absolution.
+         </p>
+         <p>
+            <add place="LM">
+               3:
+            </add>
+            By y<hi rend="superscript">e</hi> Lawes their Diocesses are exceedinge large, some 200 myles <lb/>
+            in length, some 7. or 800 parishes at least, then to them belongs y<hi rend="superscript">e</hi>
+            <pb n="61v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f061v/harley_ms_4931_f061v.jpg"/>
+            sole power of dedicating Churches, Church-yards, confirmation of children, Pro-<lb break="no"/>
+            bats of wills, power of disposing administrations, to take part of mens <lb/>
+            goods intestate to pious uses, to take Oaths of obedience to themselves, <lb/>
+            to divorce in divers cases for frigidity incurable, &amp; for severity to se-<lb break="no"/>
+            parate <foreign xml:lang="la">a toro et mensâ</foreign>, though not <foreign xml:lang="la">a vinculo</foreign>, to have prisons for <lb/>
+            Heretiques, &amp; men <ex>tha</ex>t stand excommunicated 40 dayes,
+         </p>
+         <p rend="align-centre">
+            Deputing it to Chancellours, &amp; Officials.
+         </p>
+         <p>
+            Bacon saith in all Lawes in y<hi rend="superscript">e</hi> world those Offices, which require <lb/>
+            skill, &amp; faithfullnes cannot be deputed to others, unlesse it be express<lb break="no"/>
+            ly contained in y<hi rend="superscript">e</hi> originall Writt. What judge in any court may ap-<lb break="no"/>
+            point one to judge for him, y<hi rend="superscript">e</hi> beginning of these Offices, &amp; Officers <lb/>
+            Concil: Toletan:4. sub Honorio. 633. y<hi rend="superscript">e</hi> Bishop was every yeare to visit <lb/>
+            Parish-Churches, &amp; if he was hindred by sicknes, or businesse, then <lb/>
+            to send <foreign xml:lang="la">Præsbyteros probabiles, aut Diaconos, qui in Reditus Basili-<lb break="no"/>
+               carum, et Reparationes, et vitam Ministrantium inquirant.</foreign> Quære <lb/>
+            whether this be not <foreign xml:lang="la">Ortus Archi-Diaconorum</foreign>. Mention is made of <lb/>
+            them in 2d booke of Nice Councell Binius but they are supposit<del rend="strikethrough">ions</del>
+                <unclear>ious.</unclear> <lb/>
+            Chancellours mention is made of them Can:2. Chalcedon about <lb/>
+            yeere 450. but quære, whether those Ectici were Governours in <lb/>
+            y<hi rend="superscript">e</hi> church, whether they were any other then Advocates, but after <lb/>
+            y<hi rend="superscript">e</hi> synode of Chalcedon, &amp; Carthage their power encreased; yet in <lb/>
+            Gregories time none but Clergy-men ruled in Church-matters, <lb/>
+            <foreign xml:lang="la">ut Iohannes Diaconus</foreign>./
+         </p>
+         <p>
+            Officialls long after <foreign xml:lang="la">Huiusmodi officiales non ab Officio nomine, sed <lb/>
+            ab officio verbo nomen mutuantur</foreign>./
+         </p>
+         <p>
+            Now by y<hi rend="superscript">e</hi> Law these have power of Iurisdiction, Excom<ex>municati</ex>on, Absolution, <lb/>
+            both over Clergy, &amp; people, &amp; <ex>tha</ex>t for mony-matters &amp; being meere <lb/>
+            Lay-men: which y<hi rend="superscript">e</hi> Bishop of Winchester in his <foreign xml:lang="la">Concio ad Synodum <lb/>
+               Act: 20. Attendite vobis</foreign> shewes to be most abominable, &amp; what-ever <lb/>
+            arguments strike at Lay-Elders, cut of them more strongly.
+         </p>
+         <p>
+            In every Cathedrall there are likewise established a Deane, &amp; <lb/>
+            Chapiter, Canons, Prebends, Residentiaryes, Epistolers, Gospellers, Vi-<lb break="no"/>
+            cars, Choralls, Choristers, whoe most of them are by their place by <lb/>
+            y<hi rend="superscript">e</hi> Law enabled to hold Livings, &amp; be non-Resident, &amp; y<hi rend="superscript">e</hi> worke they <lb/>
+            are tyed to is y<hi rend="superscript">e</hi> Cathedrall Mattens, &amp; Evensong. What word of <lb/>
+            these in scripture many 100 yeeres after?
+         </p>
+         <p>
+            <add place="LM">
+               1:
+            </add>
+            By y<hi rend="superscript">e</hi> Law y<hi rend="superscript">e</hi> Bishop may give orders to any man, whoe is a Grad-<lb break="no"/>
+            uate, or can render his faith in Latine, if he hath a Title.
+         </p>
+         <p>
+            <add place="LM">
+               2:
+            </add>
+            By y<hi rend="superscript">e</hi> established Goverment a Minister is to use <add place="above">y<hi rend="superscript">e</hi> Ceremonies</add> Toties-quoties, <lb/>
+            quære whether not perjured if omitt them after this Oath is taken?
+         </p>
+         <pb n="62r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f062r/harley_ms_4931_f062r.jpg"/>
+         <p>
+            <add place="LM">
+               3:
+            </add>
+            By the established Goverment a Pastour is not soe much as advised within y<hi rend="superscript">e</hi> <lb/>
+            censuring of his flocke, onely to publish y<hi rend="superscript">e</hi> Orders of y<hi rend="superscript">e</hi> Court, though y<hi rend="superscript">e</hi> <lb/>
+            Court should excommunicate all his flocke./
+         </p>
+         <p>
+            <add place="LM">
+               4:
+            </add>
+            No established Law requires <ex>tha</ex>t a Pastour should be a preacher, or <lb/>
+            able to preach./
+         </p>
+         <p>
+            But suppose all things were tolerable; yet they are mutable <lb/>
+            which stand <foreign xml:lang="la">jure humano</foreign>; &amp; if God shew me reason, why I should <lb/>
+            consent to an alteration, shall I be bound by an Oath not to yeeld to <lb/>
+            it? what Church did ever call men to sweare y<hi rend="superscript">e</hi> perpetuity of <ex>tha</ex>t <lb/>
+            which themselves grant not to <add place="above">be</add> <foreign xml:lang="la">Iure divino</foreign>, &amp; their publike doctrine <lb/>
+            saith is changeable with times, &amp; mens manners?/
+         </p>
+         <p rend="indent">
+            And how this will stand with our Oath of Supremacy to y<hi rend="superscript">e</hi> <lb/>
+            King, &amp; his successours whoe may enjoyne an alteration./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f061r/harley_ms_4931_f061r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f061v/harley_ms_4931_f061v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_4931_part/harley_ms_4931_f062r/harley_ms_4931_f062r.jpg"/>
+   </facsimile>
+</TEI>

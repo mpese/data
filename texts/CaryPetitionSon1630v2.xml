@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petition to Charles I for his Son</title>
+            <author>
+               <persName corresp="../people/people.xml#P0010">Henry Cary, Viscount Falkland</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+               <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_180">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 180</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_225">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 225</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6447">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6447</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4889">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4889</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3638">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3638</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_12496">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 12496</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="CaryPetitionSon1630v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 38r–38v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 124r–125r</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page" from="242" to="243">242-243</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1630-02">February 1630</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>imprisonment</term>
+               <term>punishment</term>
+               <term>royal pardon</term>
+               <term>duelling</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-07" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="208r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f208r/hargrave_ms_311_f208r.jpg"/>
+         <head rend="align-centre">
+            To <ex>th</ex>e kings most Excellent Majesty.
+         </head>
+         <p rend="align-centre">
+            The humble petition of the Lo<ex>rd</ex> Viscont Faukland <lb/>
+            one of the Lordes of his majestyes priuy councell.
+            <add place="LM">
+               Humbly shewinge
+            </add>
+         </p>
+         <p>
+            That I had a sonne untill I lost him in y<ex>ou</ex>r high displeasure where <lb/>
+            I cannot seeke him because I haue noe will to finde him there.
+         </p>
+         <p>
+            Men say there is a wild young man now prisoner in <ex>th</ex>e Fleet, for measuring <lb/>
+            his actiones by his owne priuate sence: but now <ex>tha</ex>t for <ex>th</ex>e same y<ex>ou</ex>r majestys <lb/>
+            hand hath appeared in punishment, hee bowes and humbles himselfe to both: <lb/>
+            Whether hee be mine or not I can discerne by noe light but <ex>tha</ex>t of your <lb/>
+            Royall clemency for only in y<ex>ou</ex>r forgiuenes must I owne him mine.
+         </p>
+         <p>
+            Forgiuenes is <ex>th</ex>e glorye of supreame powers, and hath this operation <lb/>
+            <ex>tha</ex>t when it is extended in the greatest measure, it conuerts the greatest <lb/>
+            offenders into <ex>th</ex>e greatest Louers and so makes purchas of <ex>th</ex>e hart an <lb/>
+            especiall priuiledge peculiar and dew to soueraigne Princes.
+         </p>
+         <p>
+            If y<ex>ou</ex>r majesty will uouchsafe out of y<ex>ou</ex>r owne benegnity to become a second <lb/>
+            nature and restore <ex>tha</ex>t vnto me w<ex>hi</ex>ch <ex>th</ex>e 1st gaue me, and vanity depriued <lb/>
+            me of I shall keepe <ex>th</ex>e reckoninge of <ex>th</ex>e full number of my sonnes w<ex>i</ex>th <lb/>
+            comforte and render <ex>th</ex>e tribute of my most humble thankefullnes: else <lb/>
+            my weake old memory must forgett one; and pray etc.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f208r/hargrave_ms_311_f208r.jpg"/>
+   </facsimile>
+</TEI>

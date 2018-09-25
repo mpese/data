@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laudian Articles</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS21935.xml">
+               <msIdentifier xml:id="BL_Add_MS_21935">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 21935</idno>
+                <msName>Nehemiah Wallington book</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 21935</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="LaudianArticles1633v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, f. 53v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="LaudianArticles1633v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, f. 62v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1633">1633</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>ecclesiastical conflict</term>
+               <term>liturgy</term>
+               <term>sacrament</term>
+               <term>baptism</term>
+               <term>election</term>
+               <term>Catholic Church</term>
+               <term>ministry</term>
+               <term>church ceremony</term>
+               <term>episcopacy</term>
+               <term>church courts</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-15" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10r" facs="/bl/add_ms_21935_part/add_ms_21935_f010r/add_ms_21935_f010r.jpg"/>
+         <p>
+            <add rend="align-centre" place="header">
+               OF Heaui Times <space extent="5" unit="chars"/> 1633
+            </add>
+            <add rend="align-cenre" place="header">
+               A Bvndel of Marcyes
+            </add>
+            <gap reason="elision" extent="2" unit="paragraph"/>
+            About this time I had a wrighting Come to my hand which are these <lb/>
+            greuious things that must be helden with us
+         </p>
+         <p>
+            <add place="LM">I</add>
+            That they that are Babtized are truly regenerate
+         </p>
+         <p>
+            <add place="LM">II</add>
+            That a Minister Cannot with a Safe Contience adminester <ex>th</ex>e Sacrament <lb/>
+            to one that doth <add place="above">not</add> kneele
+         </p>
+         <p>
+            <add place="LM">III</add>
+            That a Cannonicall man may posses more benefices then one
+         </p>
+         <p>
+            <add place="LM">IIII</add>
+            That vnregenerate men haue right to temporall goods in Gods Cort
+         </p>
+         <p>
+            <add place="LM">V</add>
+            That ministiricall power of forgiuing Sinns is not merely declaratiue
+         </p>
+         <p>
+            <add place="LM">VI</add>
+            That the order of <add place="above">a</add> Bishopes is by the law of God
+         </p>
+         <p>
+            <add place="LM">VII</add>
+            That bowing att the Name of Iesus is a pious Ceremony
+         </p>
+         <p>
+            <add place="LM">VIII</add>
+            That <ex>th</ex>e voyces of the people are not required to <ex>th</ex>e election of Ministers
+         </p>
+         <p>
+            <add place="LM">IX</add>
+            That Christ descended locally into hell
+         </p>
+         <p>
+            <add place="LM">X</add>
+            That the Church of Rome is a Church truely So Called
+         </p>
+         <fw type="catch" place="bot-right">Then</fw>
+         <pb n="10v" facs="/bl/add_ms_21935_part/add_ms_21935_f010v/add_ms_21935_f010v.jpg"/>
+         <p>
+            <add place="header">1633</add>
+            <add place="header">Heavie times</add>
+            The holy people of the Lord seing Idolatry Superstition &amp; all maner <lb/>
+            of profainness are grieued but they know not what Course to <lb/>
+            take to haue it reformed for
+         </p>
+         <p>
+            <add place="LM">1</add>
+            If they Complaine at the visitation they doe but like birds <lb/>
+            <add place="LM">
+               ☞
+            </add>
+            runne, among lime twiggs and in stead of reforming <ex>th</ex>e Church <lb/>
+            hamper themselues into troubles
+         </p>
+         <p>
+            <add place="LM">2</add>
+            If they Complaine to the Minister of the parish, either he is one <lb/>
+            that will be ready to defend it, Or if he be an honest Minister <lb/>
+            that would gladly see these things reformed. yet he dares not speake <lb/>
+            for feare of suspention, or if he doe Complaine <del rend="strikethrough">B</del> he is silenced <lb/>
+            if not suspended Ipse facto yea it may be loose his eares for <lb/>
+            his labour too
+         </p>
+         <p>
+            <add place="LM">3</add>
+            If they Complaine to the Magestrate, he dares not meddle with it <lb/>
+            to goe about any reformation. because he will say it belongs to the <lb/>
+            Church, Oh what a misery is this for any Church to be vnder such <lb/>
+            gouerment thus to bewaile her woefull miserie &amp; Cannot be re<lb break="no"/>
+            formed
+         </p>
+         <p>
+            <add place="LM">4</add>
+            Those Ministers who are vnder any Bishops Dioscesse haue their <lb/>
+            mouths so Stopped by their lordly prelate . that they dare not <lb/>
+            reproue any Heresie, Idoletry or wickednesse which the Bishop <lb/>
+            doth either practis in himselfe or fauour in others
+         </p>
+         <p>
+            <add place="LM">5</add>
+            If any Heresie be in the Church any Drunkard, Horemonger, Or <lb/>
+            papist that can but get into the Bishops fauour, either by bribes <lb/>
+            or frendes, or any other way: then may Such profaine persons <lb/>
+            still abide, and goe on from time to time in theire filthynesse with <lb/>
+            out Controulement
+         </p>
+         <p>
+            And therefore O England England if euer thou wilt bee <lb/>
+            free from Iudgments, take notis of these thy Antichristian pre<lb break="no"/>
+            lates disparate practises, Innouations, Popish designes. and <lb/>
+            Admire of Gods mercy &amp; longsuffering towards vs in England
+         </p>
+         <p>
+            Oh doe but Consider what the issue of their proceedings might <lb/>
+            produce Should they haue gon on in bringing popish Ceremonies <lb/>
+            Superstition and Idoletry into <ex>th</ex>e Church as may appeare by
+            <fw type="catch" place="bot-right">their</fw>
+            <pb n="11r" facs="/bl/add_ms_21935_part/add_ms_21935_f011r/add_ms_21935_f011r.jpg"/>
+            their Iestures. by their Ornaments, and by their actions
+         </p>
+         <p>
+            <add place="LM">1</add>
+            By the Iestures in their bowings &amp; adornations before the Alter <lb/>
+            with their faces towards the East, Or at the name of Iesus. as if God <lb/>
+            was inclosed in the Alter As if the <del rend="strikethrough">wes</del> East ware fuller of Gods <lb/>
+            magiestie then the West or other parts And as if the Name Iesus <lb/>
+            was aboue or before the Name Iehouah. all which is Idolatry &amp; Supersti<add place="above">on</add>
+         </p>
+         <p>
+            <add place="LM">2</add>
+            By their Ornaments In that they would make vs beleeue that holinesse <lb/>
+            is in the Surplis. Cap, Tippet or Cope aboue other garments, That the <lb/>
+            Alter is holier then the rest of the Temple &amp; that the Temple wales <lb/>
+            makes the people holy And by these Ceremonys our lord Bishops and <lb/>
+            prelates would haue vs to worship God Which is nothing but Idolatry <lb/>
+            and Superstition therfore saith the prophet Ieremi Trust not in Lying <lb/>
+            words saying the Temple of the Lord Iere VII 4
+         </p>
+         <p>
+            <add place="LM">3</add>
+            By their actions In that they assume to themseules Lordly title &amp; rule ouer Ministers which our Sauiour Christ reproueth Saying <lb/>
+            if any many desier to be first. the same shall be last Mar IX 35 <lb/>
+            And yeet how doe they by their Lordly gouerment Silence &amp; punish <lb/>
+            holy and faithfull Ministers and others because they will not yeeld to <lb/>
+            their trash &amp; rvbish which the holy word of God is so manifest a<lb break="no"/>
+            gainst. and so any drunken base man that is according to their <lb/>
+            mind he is estemed &amp; put in their place thus vile men is exalted <lb/>
+            and they that worke wickednesse are set vp Mal III 15
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_21935_part/add_ms_21935_f010r/add_ms_21935_f010r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_21935_part/add_ms_21935_f010v/add_ms_21935_f010v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_21935_part/add_ms_21935_f011r/add_ms_21935_f011r.jpg"/>
+   </facsimile>
+</TEI>

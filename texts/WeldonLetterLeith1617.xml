@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Leith</title>
+            <author>
+               <persName corresp="../people/people.xml#P0216">[Anthony Weldon]</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS444.xml">British Library, Harley MS 444, ff. 241r–245v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6865.xml">British Library, Harley MS 6865, ff. 26x–28x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_64876.xml">British Library, Additional MS 64876, ff. 37r–38v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b200.xml">Beinecke Library, Osborn b200, ff. 280–287</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_47.xml">Bodleian Library,  MS Ashmole 47, ff. 1r–7r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_792.xml">Bodleian Library,  MS Ashmole 792, ff. 299–301</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Dodsworth_61.xml">Bodleian Library,  MS Dodsworth 61, ff. 57r–59v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_1048.xml">Bodleian Library,  MS Rawlinson D 1048, ff. 47r–50r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_237.xml">Bodleian Library,  MS Tanner 237, ff. 64r–67v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_74.xml">Bodleian Library,  MS Tanner 74, ff. 97r–98r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_37.xml">Nottingham University Library, Cl LP 37</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Mi_LM_32.xml">Nottingham University Library, Mi LM 32</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 476–481</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, ff. 93–96</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_K56.xml">St John's College,  MS K.56, item 6</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_92.xml">The National Archives,  SP 14/92, /70</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UTAustinMSBLM751PhillipsMS12341.xml">UT Austin MS, BL Microfilm 751 Phillips MS 12341, pp263–270</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/University_College_Oxford_MS_152.xml">University College,  MS 152 [on deposit at the Bodleian], ff. 160–169</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1617">1617</date>
+            <placeName corresp="../places/places.xml#PL0043">Leith, Scotland</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-03" who="#RB" status="draft"/>
+            <change when="2018-05-01" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="142v" facs="/bl/add_ms_28640/add_ms_28640_f142v/add_ms_28640_f142v.jpg"/>
+         <head rend="align-centre">
+            <add place="LM">
+               This was writte<ex>n</ex> <lb/>
+               here before this <lb/>
+               booke came to be <lb/>
+               filled before &amp; <lb/>
+               after it.
+            </add>
+            <hi rend="italic">
+               The Copie of parte of a most stinking letter full of fowle uncharitable censure malice <lb/>
+               &amp; enuie sent from out of Scotland into England in the year 1617 when King <lb/>
+               Iames was there.
+            </hi>
+         </head>
+         <p>
+            First for the Countrie I must confesse that it is too good for those that <lb/>
+            inhabite it, &amp; too badde for others to be at the charge of conquering <lb/>
+            it. The aier might be wholesome but for the stinking people that <lb/>
+            inhabite it. The grounde might be made fruitfull had they witte <lb/>
+            to manure it. Theire beastes be generallie small (women excep=<lb break="no"/>
+            ted, of which there are no greater in the worlde. There is good <lb/>
+            store of fowle; as fowle linnen, fowle houses, fowle dishes, fowle <lb/>
+            pottes, fowle trenchers &amp; napkins, fowle sheetes &amp; shirtes, with w<ex>hi</ex>ch <lb/>
+            sorte of fowle we haue beene enforced to fare as the children of <lb/>
+            Israel did with theire fowle in the Wildernes.	  They haue good <lb/>
+            store of Fishe too, &amp; good for those that can eate it rawe; but if it <lb/>
+            come once to theire handes it is worse then three dayes ould. For <lb/>
+            theire butter &amp; theire cheese I will not meddle with it at this time, <lb/>
+            nor any man I thinke at any time that loues his owne life. They <lb/>
+            haue also greate store of deere, but they are so farre from the pla=<lb break="no"/>
+            ces where I haue yet beene, as I rather believe it then will goe to <lb/>
+            disproue it. I confesse all the deere that I haue mette with, was deere <lb/>
+            lodging, deere horsemeate, deere Tobacco &amp; deere English beere. As for <lb/>
+            Fruite, for theire grandmother <hi rend="italic">Euah </hi>her sake they never planted <lb/>
+            any; &amp; for other trees, had Christ beene betrayed in this Country (which <lb/>
+            he should haue beene, if he had come as a stranger among them) Iudas <lb/>
+            had sooner founde the grace of repentance, then a tree to hang him <lb/>
+            <del rend="strikethrough">withall</del> selfe on.   They haue many hilles wherein they say is much <lb/>
+            treasure, but they shewe none of it. Nature hath only discovered to <lb/>
+            them some Mines of Coales to shewe to what ende she created them. <lb/>
+            I sawe little grasse but in theire pottage &amp; no Flowers but such as mo=<lb break="no"/>
+            destie forbiddes to name. The Thistle was not giuen them for naug<unclear>ht</unclear> <lb/>
+            for that is the fairest flower in theire gardens.  The worde <hi rend="italic">Haye</hi> is <lb/>
+            heathen Greeke vnto them, neither man nor beaste knowes what it <lb/>
+            meanes.  Corne is reasonable plentifull at this time, for since they <lb/>
+            hearde of the Kings comming, it hath beene as lawfull for the Common <lb/>
+            people to eate wheate, as it was of oulde for any but the Priests to <lb/>
+            eate of the Shewe-breade. They prayed long for his comming &amp; <lb/>
+            fasted long for his <del rend="strikethrough">well fare </del>long welfare.  All his followers were
+            <pb n="143r" facs="/bl/add_ms_28640/add_ms_28640_f143r/add_ms_28640_f143r.jpg"/>
+            welcome but his <del rend="strikethrough">g</del> Guarde, those they saide looked like Pharoah<del rend="strikethrough">i</del>’s leane <lb/>
+            kine &amp; threatned a Dearthe wheresoever they came.	 They <del rend="strikethrough">woud per=<lb break="no"/>
+            </del>would perswade the Footemen that Oaten Cakes would make them long <lb/>
+            winded  / &amp; the children of the Chappell they haue brought to eate of the<ex>m</ex> <lb/>
+            for the maintenance of theire voices. They commende the brave minds <lb/>
+            of the Pensioners &amp; gentlemen of the Chamber who chuse rather to goe <lb/>
+            to Ordinaries then  alwaies to be eating of the Kings provision.
+         </p>
+         <p>
+            They likewise commende the yeomen pages of the Buttry for theie re=<lb break="no"/>
+            tirednes &amp; silence, in that they will heare xx knockes before they <lb/>
+            will answere one.   They persuade the Trumpeters that Fasting <lb/>
+            is good for them, for emptines say they causeth winde, &amp; winde causeth <lb/>
+            theire Trompets to sounde sweetly. The bringing of Here-haughts <lb/>
+            they say was a needles charge, seeing they knowe theire piedegrees <lb/>
+            well enough. &amp; the Harbingers might well haue beene spared since <lb/>
+            they brought so many beddes with them. And of the two evills since the <lb/>
+            leaste is to be chosen, they wishes the beddes might remaine with them <lb/>
+            &amp; the pore Harbingers keepe theire places &amp; doe theire office as <lb/>
+            they returne. His Hangings they likewise desire to remaine there <lb/>
+            to put them in minde of his Majestie.  They promise to dispense <lb/>
+            with the woven Images, but for the graven Images in his newe <lb/>
+            beautified Chappell they threaten to pull them downe at his depar=<lb break="no"/>
+            ture to make them a burnte offering to appease the Indignation they <lb/>
+            suppose god hath conceived against them for suffring such Idolatrie to <lb/>
+            enter that kingdome. The Organes may finde merry because of <lb/>
+            affinitye with theire Bag-pipes. The Skipper that brought <lb/>
+            over the Singing men with the Papisticall vestiments complaines of <lb/>
+            a swimming in his heade, ever since he came aborde his ship, where=<lb break="no"/>
+            fore the Pastor of the parish perswaded him to sell the p<ex>ro</ex>fane vessell <lb/>
+            &amp; to distribute the mony among the brethren.  I must confesse that <lb/>
+            his Majestie was receiued into the Parish of Edenborough (for <lb/>
+            a Citie I cannot call it) with greate showtes &amp; joyes, but with no <lb/>
+            <add place="LM">Shewes</add> shewes &amp; charge, for Pageants theey hould Idolatrous. From the <lb/>
+            Castle they gaue him pieces of Ordonance which surely he gaue <lb/>
+            the Castle since he wwas King of England.  At the entrance of <lb/>
+            the towne they presented him with a golden bason, carried before <lb/>
+            him on mens shoulders from whence I thinke it came.  They p<ex>ro</ex> <lb/>
+            tested that if Christ had come from heaven, he coulde not haue beene
+            <pb n="143r" facs="/bl/add_ms_28640/add_ms_28640_f143r/add_ms_28640_f143r.jpg"/>
+            more welcome, which I believe, for he summoned but a Parliament <lb/>
+            but Christ would haue summoned a Iudgment.  He was conveyed by <lb/>
+            the Youngers of the Towne some 100 habberts (deerely shall they <lb/>
+            rue in in respecte of the Charge of the crosse) to the high Church <lb/>
+            where the only bell they had, stoode vpon tip-toes to beholde his <lb/>
+            fayer face. Here I entreate you to spare him an houre since <lb/>
+            there I lefte him.  To reporte the speeches of the people <lb/>
+            concerning his never sampled entertainment would make this dis=<lb break="no"/>
+            course as tedious to you, as the Sermon was to those that were <lb/>
+            constreined to endure it. After the Preachment he was con=<lb break="no"/>
+            ducted by the same heralds, to his Pallace, of which I speake not <lb/>
+            because it is a place sanctifyed by his <hi rend="underline">Divine Majestie</hi>, only I wish <lb/>
+            it had beene walled well, for my frends sake that waited on him. To <lb/>
+            bring<del rend="strikethrough">ing </del>the Mayor backe againe to his lodging (who accompanied his <lb/>
+            Majestie) were to much to amplifie my story. Because the gentlemen  	 <lb/>
+            lodge there 3 stories high, I will only speake of the people in theire <lb/>
+            degrees &amp; qualities. For the Lordes spirituall, they may well <lb/>
+            be so called being neither Fish nor Flesh, but what it pleaseth theire <lb/>
+            earthlie god theire king to name them. Obedience they hould bet=<lb break="no"/>
+            ter then Sacrifice &amp; therefore they make a mocke at Martyrdome <lb/>
+            saying Christ was to die for them not they for him. They will ra=<lb break="no"/>
+            ther subscribe then surrender, &amp; dispense with small things rather the<ex>n</ex> <lb/>
+            trouble themselues with hote &amp; greate disputations.	They will ra=<lb break="no"/>
+            ther acknowledge the king to be theire heade, then wante where <lb/>
+            with to pamper theire bodies. 	They haue taken greate paines &amp; <lb/>
+            care to compasse theire Bishopricks &amp; they will not loose them for <lb/>
+            a trifle.	 The pore Deacons whose defects will not raise them <lb/>
+            to Dignities, spende theire study to disgrace those that are in leaste <lb/>
+            <del rend="strikethrough">authority</del> degree aboue them, &amp; because they may not write Bishops <lb/>
+            they proclaime they never hearde of any. The Scriptures say <lb/>
+            they speake of Deacons &amp; Elders, but not of Deanes &amp; Bisshops. <lb/>
+            Theire discourses are full of distinctions, theire Sermons of raylings <lb/>
+            &amp; theire Conclusions heresies &amp; treasons.  For theire Religion <lb/>
+            I confesse it is aboue my reache &amp; I will never stretche for it. They <lb/>
+            Christen without the Crosse, marrie without the ring, receive the
+            <pb n="144r" facs="/bl/add_ms_28640/add_ms_28640_f144r/add_ms_28640_f144r.jpg"/>
+            Sacraments without reverence, die without repentance, &amp; burie with=<lb break="no"/>
+            out Divine service. They keepe no Holidaies, nor acknowledge any <lb/>
+            Sainte but St Andrewe, who (say they) gate that honour by presen=<lb break="no"/>
+            ting Christ with an oaten cake after his 40 dayes faste. They say <lb/>
+            that they which translated our English Bible were the sonnes of some <lb/>
+            Maltsters because they speake of a miracle done with barly loaves <lb/>
+            whereas they sweare they were Oaten cakes, for no other breade <lb/>
+            <add place="LM">qua<ex>n</ex>titie</add> of that qualitie could haue sufficed so many thousands of people. <lb/>
+            They vse no prayer at all, for they say it is needles god knowing <lb/>
+            theire wants. Theire Sabbaths exercise is Preaching in the <lb/>
+            morning, &amp; persecuting theire backebiters in the afternoone. In <lb/>
+            the Morne they goe to Church to heare the lawe, &amp; to the cragges <lb/>
+            &amp; mounteines in the afternoone to lowse themselues. They holde <lb/>
+            theire noses if you speake of Beare-bayting &amp; stoppe theire eares <lb/>
+            if you talke of play. Fornication they make a pastime where=<lb break="no"/>
+            in mans abilitie is approved &amp; the fertilitie of the woman discove=<lb break="no"/>
+            red. Adultery they shake theire heades at Thefte they raile at <lb/>
+            Murther they winke at Blasphemie they laugh at.  They thinke <lb/>
+            it is impossible to misse heaven, if they leave Rome behinde them / &amp; <lb/>
+            to be opposite to the Pope is to be presently with god. To con=<lb break="no"/>
+            clude I verily thinke that if god &amp; his Angels at the last day <lb/>
+            should come downe in theire white garments, they would runne a <lb/>
+            way &amp; cry, the children of the chappell are come againe to tor=<lb break="no"/>
+            ment vs, let vs flee from the abomination of these boyes &amp; hide vs in <lb/>
+            the mountaines.  For the Lords temporall &amp; temporising <lb/>
+            gentlemen, if I were apte to speake all of any I could not say much <lb/>
+            of them? Only I must let you knowe they are noble Scottish men <lb/>
+            for so soone as they are fallen from the breastes of the beastes theire <lb/>
+            mothers, theire carefull Sires poste them away for France, whither <lb/>
+            as they passe the Sea suckes from them what they haue sucked from <lb/>
+            theire rude Dames    There they gate her freshe newe bloude, here <lb/>
+            they learne to stande, to speake, to discourse, to <unclear>conge</unclear> to courte wo=<lb break="no"/>
+            men &amp; to complement with men. They come to England to gette <lb/>
+            them Cloathes, &amp; they returne home to weare them.	 They spared <lb/>
+            for no coste to welcome theire king nor for complement or courtesie <lb/>
+            to welcome our Country<unclear>
+                    <del rend="strikethrough">n</del>
+                </unclear>men. Theire followers are theire
+            <pb n="144v" facs="/bl/add_ms_28640/add_ms_28640_f144v/add_ms_28640_f144v.jpg"/>
+            fellowes, theire wiues theire slaves, horses theire maisters, &amp; theire <lb/>
+            swords theire judges: therefore haue they fewe Lawyers &amp; not verie rich. <lb/>
+            Theire Parliament holdes but 3 dayes, theire statutes are but 3 lines <lb/>
+            &amp; theire suite is determined in 3 wordes. The wonders of the king <lb/>
+            dome be these  The Lord Chancellor is beloued, the M<ex>aste</ex>r of the Rolles <lb/>
+            well spoken of, &amp; the Iudges are free from suspition of Corruption.
+         </p>
+         <p>
+            The Country though Mountainous affordeth no monsters but women. The <lb/>
+            Countisses &amp; Ladies are kept like Lions in grates of iron. Merchants	 <lb/>
+            wiues are prisoners but not in such strong houldes, they haue woodden <lb/>
+            cages like our English boare-frankes.	 The madnes of the men is <lb/>
+            jealousie. The Ladies thinke Susanna not chaste because she bathed so <lb/>
+            often. Pride is bredde in theire bones, yet theire flesh naturallie <lb/>
+            abhorres <del rend="strikethrough">clenlines</del> cleanlines. Theire breathes stinke of pottage, <lb/>
+            linnen of pisse, &amp; handes of pigges turdes, theire bodies of sweate, &amp; <lb/>
+            theire splawe-feete offende not in sockes. To be tied to one of them <lb/>
+            in marriage were to be tied to a carrionlike carkas in a <del rend="strikethrough">ditche </del>stin=<lb break="no"/>
+            kinge ditche. Theire vsuall oyntments be brimston &amp; butter or scabbes <lb/>
+            oyle of bayes &amp; stavesarre for lice. Curiositie is newly come among <lb/>
+            them &amp; will not long continue. I had rather be the meanest ser=<lb break="no"/>
+            vant of 24 to my pupilles Chambermaide, the M<unclear>
+                    <ex>aste/istress?</ex>
+                </unclear>rs Minion to the fai=<lb break="no"/>
+            rest Countesse there. If I should discover further from the Citi <lb/>
+            sens wife to the Country gentlewoman &amp; common Dames, it were to <lb/>
+            bring you from Newgate to Bridewell &amp; the Dames of Seacole <lb/>
+            lane that converse with ragges &amp; maribones, things with them of greate <lb/>
+            fame. In Houndes-ditche are Helens &amp; the greasie bawdes in <lb/>
+            Turnbull are Greekish Dames to these. Men of ould did not more <lb/>
+            wonder that the <hi rend="italic">Messiah </hi>was borne in pore <hi rend="italic">Bethleem </hi>then I doe that <lb/>
+            so brave a prince as King Iames was borne in so stinking a towne as <lb/>
+            <hi rend="italic">Edenborough</hi> in lowsie Scotland.
+         </p>
+         <p>
+            <hi rend="italic">From Lowth neere Edenburgh this xxth of Iune</hi>
+         </p>
+         <p>
+            What the Authors religion <del rend="strikethrough">way</del>   was may be gessed at by sundrie passa=<lb break="no"/>
+            ges, &amp; this whole discourse may worthily cause <del rend="strikethrough">to</del>  vs <add place="above">to</add> name him
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">Rayling Rabshakeh.</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f142v/add_ms_28640_f142v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f143r/add_ms_28640_f143r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_28640/add_ms_28640_f143v/add_ms_28640_f143v.jpg"/>
+      <graphic n="4" url="/bl/add_ms_28640/add_ms_28640_f144r/add_ms_28640_f144r.jpg"/>
+      <graphic n="5" url="/bl/add_ms_28640/add_ms_28640_f144v/add_ms_28640_f144v.jpg"/>
+      <graphic n="6" url="/bl/add_ms_28640/add_ms_28640_f145r/add_ms_28640_f145r.jpg"/>
+      <graphic n="7" url="/bl/add_ms_28640/add_ms_28640_f145v/add_ms_28640_f145v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,645 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Peddler</title>
+            <author>
+               <persName corresp="../people/people.xml#P0089">Thomas Randolph</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_27406">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 27406</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Edinburgh_MS_La_III_493">
+               <country>United Kingdom</country>
+               <settlement>Edinburgh</settlement>
+               <repository>Edinburgh University Library</repository>
+               <collection/>
+               <idno>MS La. III. 493</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS27406.xml">British Library, Additional MS 27406, ff. 121r–127v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/EdinburghMSLaIII493.xml">Edinburgh University Library,  MS La. III. 493, ff. 49r–56v</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0089">
+                        <forename>Thomas</forename>
+                        <surname>Randolph</surname>
+                     </persName>
+                  </author>
+                  <title>Aristippus, or The iouiall philosopher ... To which is added, the conceited pedlar</title>
+                  <date when="1630">1630</date>
+                  <idno type="STC">20686</idno>
+                  <biblScope unit="page" from="8" to="10">8-10</biblScope>
+                  <biblScope unit="sigs" from="B1v" to="B2v">B1v-B2v</biblScope> 
+               </bibl>
+            </listBibl>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1627">c.1627</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>poem</term>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-20" who="#SV" status="proofread"/>
+            <change when="2017-12-05" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="4r" facs="/bl/add_ms_11600/add_ms_11600_f004r/add_ms_11600_f004r.jpg"/>
+         <head>The Pedler./</head>
+         <p>
+            Generous gentlemen such is my affection to Phebus and <lb/>
+            the 19 Muses that for the benefitt of this royall Vniuer=<lb break="no"/>
+            sity I haue stradled over three of the terestriall <lb/>
+            globes w<ex>i</ex>th my geometricall trampling and for your <lb/>
+            sakes whom I know to be the deuine bratts of Helicon <lb/>
+            the learned sillie foles of Mounsiour Pegasus, <lb/>
+            therefore I chardge you by the seauen deadly <lb/>
+            sciences w<ex>hi</ex>ch you studdy more then the liberall <lb/>
+            sins that your ha ha haas may be the recompense <lb/>
+            of my ridiculous endeauors, I haue been longe tyme <lb/>
+            in travaile but if your laughter giue my Embrion Iests <lb/>
+            safe deliuerance I dare maintayne it in the throat of <lb/>
+            all Europe, Iechonta rising from his naked bed was <lb/>
+            not a better midwife: but I see you haue a greate <lb/>
+            desire to see of what profession I am. first therefore <lb/>
+            heare of what I am not: I am noe Loyer for I hope <lb/>
+            you see noe buckram honesty about me, and I <lb/>
+            swear by these sweet lipps, my breath stincks not of <lb/>
+            any stale actions: I am noe souldier for heauen knowes <lb/>
+            my heels are wiser then my hands and by the whipe <lb/>
+            of Mars and Bellona I could neuer endure the smell <lb/>
+            of salt peter since the last gunpowder treason the voyse <lb/>
+            of mandrakes is more sweeter musicke then those maxi=<lb break="no"/>
+            mers of warr the terrible cannons. I am noe Townsman <lb/>
+            vnles there be rutting in Cambridge for you see my <lb/>
+            head w<ex>i</ex>thout his hornes: I am noe Alderman for I <lb/>
+            speake true english. I am noe Iustice of pease for I <lb/>
+            sweare by the honour of a mittimus the venerable <lb/>
+            bench neuer kist my honourable buttucks: I am noe <lb/>
+            Alchumist for although I be poore yet I haue not <lb/>
+            broke my braynes against the philosophers stone: I am <lb/>
+            noe lord yet methinks I should be one for I haue noe <lb/>
+            lands: I am noe knight yet I haue empty pockets <lb/>
+            as the proudest of them all. I am noe landlord but to <lb/>
+            <fw type="catch" place="bot-right">the tenits</fw>
+            <pb n="4v" facs="/bl/add_ms_11600/add_ms_11600_f004v/add_ms_11600_f004v.jpg"/>
+            the tenits at will: I am noe Inns of Court gent: for <lb/>
+            I haue not been throughly stewed at the temple <lb/>
+            though I haue been half codled at Cambridge <lb/>
+            I am no Parliament Burges for I cannot endure <lb/>
+            to talke of loane money and subsidyes: I am noe <lb/>
+            knight of the shire for I haue not seene the <lb/>
+            fleete marshallsea nor the councell table: now <lb/>
+            you doe expect that I should say I am a scholler <lb/>
+            but I thanke my stars I haue more witt then <lb/>
+            soe why I am not yet run mad I trowe I hope <lb/>
+            my better genial will defend me from that under=<lb break="no"/>
+            standing beggery: fortune sheild me from the <lb/>
+            thread bare blacke it lookes like a peice of <lb/>
+            Belzibubs livery. a scholler why? I doe not meane <lb/>
+            my braynes should drop through my nose: but I <lb/>
+            am a generous deuout, understanding, royall, <lb/>
+            magnificent, illustrious and thrice worthy Pedler: <lb/>
+            but whats a Pedler? why what art thow? and yet <lb/>
+            for the satisfaction of him whom I most respect my <lb/>
+            honorable S<ex>i</ex>r I will define him. a Pedler is an <lb/>
+            <foreign xml:lang="la">indiuiduum vagum</foreign> of the <foreign xml:lang="la">primum mobile</foreign> of all <lb/>
+            Tradsmen a walkinge burse, a moveable exchainge <lb/>
+            a Socraticall cittizen of the vast vniuerse or a <lb/>
+            peripatericall Iournyman, that like an other Atlas <lb/>
+            carryes his heauenly burden upon his shoulders.
+         </p>
+         <lg>
+            <l>I am a Pedler &amp; a Iest my ware</l>
+            <l>This brayne S<ex>ain</ex>t Bartholomew or Starbidge fare</l>
+            <l>I will sell all for laughter thats my gaines</l>
+            <l>Such chapmen wilbe laught at for there paynes</l>
+            <l>Come buy my witt w<ex>hi</ex>ch I haue hither brought</l>
+            <l>For witt is neuer good till it be bought</l>
+            <l>Let me not beare all backe come buy the while</l>
+            <l>If laughter be deare take for a smile</l>
+            <fw type="catch" place="bot-right">A draper</fw>
+            <pb n="5r" facs="/bl/add_ms_11600/add_ms_11600_f005r/add_ms_11600_f005r.jpg"/>
+            <l>A Draper I of linsey woolsey iests</l>
+            <l>You are my Chapmen now as once my ghuests</l>
+            <l>My trade is ieasting or quiblet speaking</l>
+            <l>Strainge trade you'l say for tis set vp w<ex>i</ex>th breaking</l>
+            <l>My shop &amp; fayre both at your com<ex>m</ex>and</l>
+            <l>For lawfull english laughter paid in hand</l>
+            <l>Now I will trust nomore it were in vaine</l>
+            <l>To breake &amp; make a Craddock of my braine</l>
+            <l>Half haue not paid me yet first there is one</l>
+            <l>Owes me a quart of wine for his declamation</l>
+            <l>Anothers mornings draught is yet vnpaid</l>
+            <l>For 4 epistles at the election made</l>
+            <l>Nor dare I crosse him that doth owe for yet</l>
+            <l>Three Iles of iests to lyne's priorum witt</l>
+            <l>But heere's a courtier hath so long a bill</l>
+            <l>Ile' fright him to behould it, yet I will</l>
+            <l>Resight the summes: It<ex>e</ex>m he owes me first</l>
+            <l>For an Imprimis but what greiues me worst</l>
+            <l>A dainty Epigram on his spaniels tayle</l>
+            <l>Cost me an howre besides 5 pots of ale</l>
+            <l>It<ex>m</ex> an Anagram on his M<ex>aste</ex>rs name</l>
+            <l>It<ex>m</ex> his speech wherew<ex>i</ex>th he courts his dame</l>
+            <l>Besides 3 iests &amp; a new tale or two</l>
+            <l>Which got his honor a dinner &amp; supper too</l>
+            <l>And an old blubbering howling elegye</l>
+            <l>Vppon his M<ex>asters</ex> dog sad Exequie</l>
+            <l>Nor can I yet the tyme directly gather</l>
+            <l>When I was payd for an Epitaph on his father</l>
+            <l>Besides he neuer yet gaue me content</l>
+            <l>For the new coyning his last compliment</l>
+            <l>Should I speak all be't spoke vnto his prayse</l>
+            <l>The totall some is what he thinkes or sayes</l>
+            <l>I will not let you run so much o'th score</l>
+            <l>Poore ducklane brayne trust me ile trust no more</l>
+            <l>Shall we iest all for nought haue ye all conscience lost</l>
+            <l>Or doe you thinke our sacke did nothing cost.</l>
+            <fw type="catch" place="bot-right">Well then</fw>
+            <pb n="5v" facs="/bl/add_ms_11600/add_ms_11600_f005v/add_ms_11600_f005v.jpg"/> 
+            <l>Well then it must be done as I haue sayd</l>
+            <l>I needs must bee with present money payd</l>
+            <l>I am a free man for by this small rime</l>
+            <l>The fellowes know I haue serued out my tyme</l>
+            <l>Yet if you please to grase my poore aduentures</l>
+            <l>I am bound more to you then ten Indentures</l>
+         </lg>
+         <p>
+            But a pox of Skeltons fury ile open my shopp in honest <lb/>
+            prooes &amp; first gent ile show you half a doozen of incomperable <lb/>
+            poynts I would giue you the definshion of a poynte but that <lb/>
+            you haue it at your fingers endes &amp; yet for your better <lb/>
+            understanding i'le giue you somthing. a poynt is noebody a <lb/>
+            com<ex>m</ex>on terme &amp; extreame freind of goodman longitude <lb/>
+            whose center &amp; circumference ioyne in one diametricall <lb/>
+            opposition to your regulaterall dublets &amp; equicuerall breches <lb/>
+            but to speake to the poynt though not to the purpose.
+         </p>
+         <p>
+            <add place="LM">1</add>The first poynt is a poynt of honesty but it is almost <lb/>
+            worne out &amp; has neuer been in request since truncke <lb/>
+            hose &amp; codpises went out of fashion tis made of simplicity <lb/>
+            ribbon tayd w<ex>i</ex>th plaine dealing &amp; if there be any knaues <lb/>
+            among you as I hope you are not all fooles fayth by this <lb/>
+            poynt of honesty &amp; the best use you can put it to is to <lb/>
+            tye the band of affection but I feare this poynt will <lb/>
+            finde noe chapmen some of you had rather sell then w<ex>i</ex>th <lb/>
+            Demosthenes buy witt at so deer a rate: o I could wish that <lb/>
+            the breeches of all bowcers stewards procters taskers &amp; <lb/>
+            receauors were trust w<ex>i</ex>th this poynt of honesty but some <lb/>
+            will not be tyed to it but hist Tom tis daingerous <lb/>
+            untrussing tymes.
+         </p>
+         <p>
+            <add place="LM">2</add>The next is a poynt of knauery but I thinke you <lb/>
+            haue enough of this already yet because I am loath to <lb/>
+            keepe myne any longer who giues most shall haue it &amp; the <lb/>
+            Diuell doe him good w<ex>i</ex>th it: this poynt was cut out of a <lb/>
+            villinous shipskin parchment in a brokers shopp tag'd w<ex>i</ex>th the <lb/>
+            gould of a ringe which the pillery robd him of when it borrowd <lb/>
+            his eares if you doe but fasten this on the doublet of a <lb/>
+            young heire it will make him grow so corpulent in the <lb/>
+            midle that ther wilbe nothing but wast: this poynt of <lb/>
+            knauery has been a man in his dayes &amp; the best of the <lb/>
+            p<ex>ar</ex>ish fourteen of them goe to our bakers dozen the
+            <fw type="catch" place="bot-right">definishion</fw>
+            <pb n="6r" facs="/bl/add_ms_11600/add_ms_11600_f006r/add_ms_11600_f006r.jpg"/>
+            definishion may be this: a poynt of knauery is an occult <lb/>
+            quality tide in a riding knot the better to play fast &amp; loose. he <lb/>
+            was borne in Buckram &amp; has run through all the offices in <lb/>
+            the citty &amp; now standes to be president in bridewell where I <lb/>
+            must leaue him hoping to see him trust at Tyburne./
+         </p>
+         <p>
+            <add place="LM">3</add>Amongst al my poynts a poynte of ignorance is the uery <lb/>
+            alderman of the dozen this is the richest poynte in my shopp <lb/>
+            &amp; it is neuer out of fashion at the Inns of Court if you <lb/>
+            buy his poynt of ignorance ye are fooles for ye shall haue <lb/>
+            it in spight of your teeth./
+         </p>
+         <p>
+            <add place="LM">4</add>The next is a poynt of good manners which hath been lost in <lb/>
+            the uniuersity amongst a croud of clownes because it was <lb/>
+            only in fashion on this side Trent this poynt is almost <lb/>
+            found agayne in our Colledge &amp; I thanke heauen for it <lb/>
+            begins to be tagd w<ex>i</ex>th lattine it has been much defil'd <lb/>
+            but I hope to see it washt away cleane with the sope of <lb/>
+            good gouernement this poynte to giue some incklinge <lb/>
+            on't begins from due obseruance of fresh men to sofisters <lb/>
+            &amp; there it endes with a sede maioribus./
+         </p>
+         <p>
+            <add place="LM">5</add>The next is a poynte of false doctrine snatcht from <lb/>
+            the codpeece of a long winded puritan, the breath of <lb/>
+            Armenius witt rotts him tag him with a peice of Apochripha <lb/>
+            &amp; he breakes a sunder trus him to the surplis &amp; his <lb/>
+            breeches will fall downe presently with the uery though<unclear reason="cropped">t</unclear> <lb/>
+            of the whore of Babilon he hates amity &amp; church gouerne=<lb break="no"/>
+            ment soe farr that you cannot tye a true loue knott on <lb/>
+            him cut of his tags &amp; he will make excellent strings for <lb/>
+            a Geneuah bible I would haue this poynt anathema=<lb break="no"/>
+            tiz'd from the religious hose in this company tis made <lb/>
+            of daingerous stubberne leather tagd at on ende w<ex>i</ex>th selfe <lb/>
+            conceight at the other w<ex>i</ex>th willfull opinion: this poynt is fitt <lb/>
+            for noe seruice but Lucifers cockeatrices: but why talke <lb/>
+            I soe long of this poynte tis pitty it tis not silenst.
+         </p>
+         <p>
+            <add place="LM">6</add>If you like my poynts why doe you not buy them if you <lb/>
+            looke for a more full poynt I can furnish you with a pe=<lb break="no"/>
+            riod I haue a parenthices to but I loue them soe well <lb/>
+            that I greiue at this ignorance of my infancy when my
+            <fw type="catch" place="bot-right">saucy.</fw>
+            <pb n="6v" facs="/bl/add_ms_11600/add_ms_11600_f006v/add_ms_11600_f006v.jpg"/>
+            saucy toes durst soe audaciously play at spurne poynte./
+         </p>
+         <lg>
+            <l>Who will not pitty poynts when ech man sees</l>
+            <l>To begg them they are fallen vpon there knees</l>
+            <l>Though if I begg pitty doe not thinke I fear</l>
+            <l>Sensuring Criticque whelps no poynt Mousier</l>
+            <l>If you hate poynts &amp; such like merry speeches</l>
+            <l>May you want poynts to trusse vp your owne breeches</l>
+            <l>And from the close stole neuer may you moue</l>
+            <l>That hating poynts do clasps &amp; keepers loue</l>
+            <l>But if my poynts haue here at all offended</l>
+            <l>I'le tell you meanes how all may be amended.</l>
+         </lg>
+         <p>
+            The next is a looking glass, but il'e put it vp againe <lb/>
+            for I dare not be so bould as to show some of your <lb/>
+            fates in it yet I will because it has strange ope=<lb break="no"/>
+            rations in it: if a crackt chambermaide dresse her <lb/>
+            selfe in this looking glasse shee shall dreame the <lb/>
+            next night of kissing her lord &amp; for making her <lb/>
+            lady a shee cuckold shall marry the Chaplaine <lb/>
+            for the next liuing shall fall. if a state court lady <lb/>
+            looke on this reflection she shall see her old face <lb/>
+            through her new complexion: a Vserer cannot see <lb/>
+            his conscience in it nor a scriuener his eares: if a <lb/>
+            Townes=man peepe into it his Acteons furniture is <lb/>
+            noe longer invisible: corrupt takers of bribes may <lb/>
+            reade the prize of their conscience in it: some fellowes <lb/>
+            cannot see the face of a scholler in it, if one of our <lb/>
+            iewell nosd, carbuncled rubyes rich bonifaces doe <lb/>
+            venture the dainger of seeing there owne faces in it <lb/>
+            the poore Basilisks will kill themselues w<ex>i</ex>th reflection: <lb/>
+            I could haue wisht this looking glass at the Island of <lb/>
+            Ree for in this various obliques &amp; seuerall reuerbera=<lb break="no"/>
+            tions of the visible species they might haue seene <lb/>
+            how many beaes had been best for the uictualing <lb/>
+            of the fort at S<ex>ain</ex>t Martins: if a blinde man see 
+            <fw type="catch" place="bot-right">his face./</fw>
+            <pb n="7r" facs="/bl/add_ms_11600/add_ms_11600_f007r/add_ms_11600_f007r.jpg"/>
+            his face in it he may recouer his sight: but I finde <lb/>
+            noe pleasure in the contemplation of it. I see &amp; finde <lb/>
+            my selfe inclining to see daingerous a disease that I <lb/>
+            feare I cannot liue heere aboue 4 yeares more how=<lb break="no"/>
+            soeuer I hope after my decease we shall drinke the parting <lb/>
+            blow./
+         </p>
+         <lg>
+            <l>If any one this looking glass disgrace</l>
+            <l>It is because he dare not see his face</l>
+            <l>What I am now I will not see some say</l>
+            <l>T'was the whores argument when she threw it away.</l>
+         </lg>
+         <p>
+            But now considering what a philosophicall vacuum is <lb/>
+            in most of our Cambridge noddles I haue heere to sell a <lb/>
+            souerainge box of Cerebrum which by Lullius Alchymie <lb/>
+            was extracted from the quintesence of Aristotles <lb/>
+            Pericranium sod in the sincipat of Demosthenes the <lb/>
+            fyer being blowed by the blast of a long winded Cicero=<lb break="no"/>
+            nian sentence, the whole complexion being boyld from a <lb/>
+            pottle to a pinte in the pipkin of Senecha, we owe the <lb/>
+            first inuention of it to S<ex>i</ex>r Iohn Mandeuill, the perfec=<lb break="no"/>
+            tion of it to John of Odcomb who fetch it from the <lb/>
+            gray headed Alpes in the Hobsons wagon of experience. <lb/>
+            I sweare as p<ex>er</ex>sons vsed) by this my coxcomb the Maga=<lb break="no"/>
+            zin of im<ex>m</ex>ortall roguery but for this box of braynes <lb/>
+            you had not laught to day? buy this box of braynes &amp; <lb/>
+            the tenor of the will shall be in socage? when as now it <lb/>
+            is but fee simple these braynes haue admirable uertues <lb/>
+            and uery strainge operations 4 dropps of them into the <lb/>
+            eare of a Lawyer will make him able to wright false <lb/>
+            lattine 3 graynes will fill the capitall of a vniuersitye <lb/>
+            gander the terestriall head of a high constable wilbe <lb/>
+            content w<ex>i</ex>th halfe a dram 3 scruples &amp; a quarter will <lb/>
+            fitt the head of a Bandbury brother./
+         </p>
+         <lg>
+            <l>Come buy my braynes you ignorant guls</l>
+            <l>And furnish heere your empty sculs</l>
+            <l>Pay your laughter as is fitt</l>
+            <l>To the learned Pedler of witt./</l>
+            <fw type="catch" place="bot-right">Quickly come.</fw>
+            <pb n="7v" facs="/bl/add_ms_11600/add_ms_11600_f007v/add_ms_11600_f007v.jpg"/>
+            <l>Quickly cum &amp; quickly buy</l>
+            <l>Or ile shut vp my shopp &amp; fooles ye shall dye</l>
+            <l>If your coxscombs you would coddle</l>
+            <l>Here buy braynes to fill your noddle</l>
+            <l>Braynes for euery wreched fole</l>
+            <l>Braynes for euery Iobbernole</l>
+            <l>Who buyes my braynes learnes quickly heere</l>
+            <l>To make a problem in a yeare</l>
+            <l>Shall vnderstand the predicable</l>
+            <l>And predicamentall rabble</l>
+            <l>Who buyes them not shall dye a foole</l>
+            <l>An Exoterick in the schoole<del rend="strikethrough">s</del>
+                </l>
+            <l>Who buyes them not shall ever passe</l>
+            <l>For a great acromaticall asse</l>
+            <l>Buy then this box who buyes not it</l>
+            <l>Shall neuer surfitt on to much witt./</l>
+         </lg>
+         <p>
+            But leuying my braynes I come to a more profitable <lb/>
+            com<ex>m</ex>oditie for considering how dull half the witts of the <lb/>
+            Colledge be I thought it not the worst trafique to <lb/>
+            sell whetstones this whetstone will set such an <lb/>
+            edge on your inuentions that it will make your rusty <lb/>
+            Iron braynes a puerer metall then your brasen <lb/>
+            faces: whet but the knife of your capacity on this <lb/>
+            whetstone and you may presume to dyne at the <lb/>
+            Muses ordinary or supp at the oracle of Apollo. <lb/>
+            if this be not true I sweare by my doxes peticoat <lb/>
+            that I will neuer hereafter presume of a better <lb/>
+            vocation then to liue &amp; dye miserable factor of <lb/>
+            cunniskins. I haue also seuerall gloues of strainge <lb/>
+            qualityes there is a payre of gloues for a loyer <lb/>
+            made of an entire loadstone that has the uertue <lb/>
+            to draw gould into it: it twas perfum'd w<ex>i</ex>th the con=<lb break="no"/>
+            science of an Vserer &amp; will keepe sent vntill <lb/>
+            rangling haue left Westm<ex>inster</ex> hall it is seamed <lb/>
+            w<ex>i</ex>th Indentures w<ex>i</ex>th the needle worke of mogage,
+            <fw type="catch" place="bot-right">and frindged.</fw>
+            <pb n="8r" facs="/bl/add_ms_11600/add_ms_11600_f008r/add_ms_11600_f008r.jpg"/>
+            And frindged w<ex>i</ex>th a nouerint vniuersi, I would show <lb/>
+            them but it is against the statuts for a latitat was lately <lb/>
+            serued vpon them.
+         </p>
+         <p>
+            The next comodities are suerall nightrappes but they <lb/>
+            dare not come abroad by candle light. the first is lin'd w<ex>i</ex>th <lb/>
+            foxes furr, w<ex>hi</ex>ch I hope to sell to some of o<ex>u</ex>r Sophisters <lb/>
+            it has an admirable qualitie for curing the Grapulas, <lb/>
+            aboue the uertue of bitter almans or iuery nay the <lb/>
+            porridge pott is not comperable to it I haue another <lb/>
+            fitt for an Alderman w<ex>hi</ex>ch Acteon by will &amp; testament <lb/>
+            bequeathed to the citty as a principall charter twas of <lb/>
+            diana's one making Albumazars catacousticon is <lb/>
+            but a chamberpot in comparison I could fitt all heades <lb/>
+            w<ex>i</ex>th nightcaps except your graue otherwise metaphisicall <lb/>
+            heads: marry they are transendent that they will <lb/>
+            not be comprehended in a nightcap.
+         </p>
+         <p>
+            I haue also seuerall ruffs first a ruff of pure holland <lb/>
+            for a dutch drunkard the second ruff of cobwebb <lb/>
+            lawne for the vniuersity statuts I haue a ruff for the <lb/>
+            colledge to but by this badge of o<ex>u</ex>r Colledge my reue=<lb break="no"/>
+            rent lambskin our backbiters say that o<ex>u</ex>r Colledge <lb/>
+            ruff is out of stocke, I haue no more ruffs then one <lb/>
+            &amp; thats a ruff of strong hempe for him that loues <lb/>
+            not Westminster./
+         </p>
+         <p>
+            But would you not bestow your money one such trifles <lb/>
+            why? I haue great wares will you buy any parsonages <lb/>
+            uicaridges, deaneries or prebendaries the price of one of <lb/>
+            his lordships crackt chambermaides another the reser=<lb break="no"/>
+            uing of his worships tithes, or you may buy the knights <lb/>
+            horse thre hundred pownds to deere: who to make you
+            <fw type="catch" place="bot-right">amends for</fw>
+            <pb n="8v" facs="/bl/add_ms_11600/add_ms_11600_f008v/add_ms_11600_f008v.jpg"/>
+            amends for the bargaine will draw you one freely to <lb/>
+            a uickaridge: there be many more trickes but the right <lb/>
+            downe way is three yeares purchase <del rend="strikethrough">your</del> come bring in <lb/>
+            youre quoyne for liuings are maiores in pretio now, then <lb/>
+            in the dayes of doomes day bookes you must giue pr<ex>e</ex>sence <lb/>
+            for theire presentations: there may be seuerall meanes <lb/>
+            for your institutions but this is the only way to induction <lb/>
+            that euer I knew: but I see you are not minded to medle <lb/>
+            with my honest leuiticall farmer<del>s</del> therefore now expect <lb/>
+            the treasure of the world, the treasure of the earth <lb/>
+            digd from the mines of my more then Indian pouch, <lb/>
+            wipe your eyes that enuious cloudes of misty uapors may <lb/>
+            not bare your sight the happines of so rare and obiect,
+         </p>
+         <lg>
+            <l>Come from thy <hi rend="italic">Pallace beautious queene of Greece</hi>
+                </l>
+            <l>Sweet Hellen of the world rise as the morne</l>
+            <l>Clad in the smock of night that all the starrs</l>
+            <l>May loose there eyes in blasing &amp; heauen grow blinde</l>
+            <l>Run weeping to the man that liues in the Moon</l>
+            <l>To borrow his dog to lead the spheares a begging</l>
+            <l>Rare Empresse of our sowles whose charcole flame</l>
+            <l>Burnes the poore coulse foot of amazed harts</l>
+            <l>Hew the dumb audience that thy beauty spyes</l>
+            <l>And then amaze w<ex>i</ex>th greife laugh out your eyes./</l>
+         </lg>
+         <p>
+            Heers now a rare comoditie how all your fingers itch at it who <lb/>
+            should be the first chapman this would be a dainty freind in a <lb/>
+            corner &amp; was it not better to embrace these pritty shambles <lb/>
+            of beauty this arant <sic>arant</sic> poultry of perfection then <lb/>
+            to tumble your sopy landrases. is this like your dagtaild <lb/>
+            bedmakers? when a man shall lye w<ex>i</ex>th seacoll ashes &amp; <lb/>
+            com<ex>m</ex>itt adultry w<ex>i</ex>th the uery dust of his one chamber? <lb/>
+            me thinkes that this peerlesse paragon of perfection <lb/>
+            should be better esteem'd on, &amp; should sett a better <lb/>
+            edge one your appetite then all the eight penny cutlers <lb/>
+            in Cambridge: I am a man as you are &amp; this naughty <lb/>
+            flesh &amp; blood will neuer leaue tempting. yet I protest <lb/>
+            by the sweet sowle of this incomperable <unclear>shoow</unclear> that <lb/>
+            I neuer had any acquaintance w<ex>i</ex>th any <unclear>moliacklinge</unclear>
+            <fw type="catch" place="bot-right">or peg larkins</fw>
+            <pb n="9r" facs="/bl/add_ms_11600/add_ms_11600_f009r/add_ms_11600_f009r.jpg"/>
+            or Peg larkings but only this: this is the subiect of my <lb/>
+            Muse, thee I adorne withall costly epigrams, &amp; such curious <lb/>
+            encomions as may deserue im<ex>m</ex>ortality in the chamber pott <lb/>
+            of Helicon, &amp; thus my furor Porticus doth acoste her when <lb/>
+            my appetite desires to kisse the cap of her lippes or drinke <lb/>
+            my mornings draught of her embraces./
+         </p>
+         <lg>
+            <l>Fare Madam thou whose euery thinge</l>
+            <l>Deserues the clostole of a kinge</l>
+            <l>Whose head is faire as any bone</l>
+            <l>White &amp; smooth as pumistone.</l>
+            <l>Whose naturall baldnes scornes to weare</l>
+            <l>The needles exscrement of haire</l>
+            <l>Whose foreheads streakes our hearts comand</l>
+            <l>The most delightfull in this land</l>
+            <l>While from those dainty glowormes eyes</l>
+            <l>Cupid shoots plum pudding pyes</l>
+            <l>A cream pott of white Nectar flowes</l>
+            <l>From thy fayre &amp; comely nose</l>
+            <l>Faire dainty lippes so smooth so meeke</l>
+            <l>And truly alabaster cheeke</l>
+            <l>Pure safron teeth happy the meat</l>
+            <l>That such pritty milstones eate</l>
+            <l>O lett me heare some silent song</l>
+            <l>Tun'd by the iewestrump of thy tung</l>
+            <l>Oh how that chin becomes thee well</l>
+            <l>Where neuer saucy beard did dwell</l>
+            <l>Thy corrall necke doth statelier show</l>
+            <l>Then Ios when she turned a cow</l>
+            <l>O let me or I neuer shall rest</l>
+            <l>Sucke the blacke bottells of thy breast</l>
+            <l>Or lay my head &amp; rest me still</l>
+            <l>On that dainty hog magog hill</l>
+            <l>A curious &amp; unfadomed wast</l>
+            <l>As slender as the statelyest mast</l>
+            <l>Thy fingers to breed my delight</l>
+            <l>Each wart a naturall Margeret</l>
+            <l>O pitty then my dismall mone</l>
+            <l>Able to melt my heart of stone</l>
+            <l>Thou knowest how I lament &amp; houle</l>
+            <l>Weepe, snort, condole, cry &amp; scowle.</l>
+            <fw type="catch" place="bot-right">each night</fw>
+            <pb n="9v" facs="/bl/add_ms_11600/add_ms_11600_f009v/add_ms_11600_f009v.jpg"/>
+            <l>Each night soe great my passions bee</l>
+            <l>I cannot wake for thought of thee</l>
+            <l>Thy gowne can tell how well I lou'd</l>
+            <l>Thy peticoat to pitty mou'd</l>
+            <l>Then let the pedler mercy find</l>
+            <l>To kiss thee once though twere behinde</l>
+            <l>Sweet kiss, sweet lippes, delicious sence</l>
+            <l>How great a Zephirus blowes from thence</l>
+            <l>Blest peticoat more blest thy smock</l>
+            <l>That daily kisseth thy buttock</l>
+            <l>For now the prouerbe true I finde</l>
+            <l>That the best is still behinde</l>
+            <l>Sweet dainty sowle daigne but to giue</l>
+            <l>This Pedler poore thy hanging sleue</l>
+            <l>And in thy honor by this kisse</l>
+            <l>Ile dayly were my pack in this</l>
+            <l>And quickly soe breed thee more fame</l>
+            <l>The quixsot the knight errantes name</l>
+            <l>So farwell sweet daynge now to crought</l>
+            <l>And oncce againe reblesse my pouch</l>
+         </lg>
+         <p>
+            Is it not pitty such ware should not be bought well <lb/>
+            I perceaue the emptines in yo<ex>u</ex>r learned purses: but <lb/>
+            ile to the court &amp; see what I can sell there &amp; <lb/>
+            then carry the reliques to Roome./
+         </p>
+         <lg>
+            <l>Some freind must now p<ex>er</ex>force</l>
+            <l>Make hast &amp; fetch my boy</l>
+            <l>To sadle my woodden horse</l>
+            <l>For I meane to conquer Troy.</l>
+         </lg>
+         <p>Finis / Th: R</p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f004r/add_ms_11600_f004r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f004v/add_ms_11600_f004v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f005r/add_ms_11600_f005r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f005v/add_ms_11600_f005v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f006r/add_ms_11600_f006r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f006v/add_ms_11600_f006v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f007r/add_ms_11600_f007r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f007v/add_ms_11600_f007v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f008r/add_ms_11600_f008r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f008v/add_ms_11600_f008v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f009r/add_ms_11600_f009r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11600/add_ms_11600_f009v/add_ms_11600_f009v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,1284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Speech at First Taking His Seat in Chancery</title>
+                <author>
+                    <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+                </author>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc corresp="../mss/BLAddMS45145.xml">
+                    <msIdentifier xml:id="BL_Add_MS_45145">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 45145</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 45145</p>
+                </msDesc>
+                <listBibl xml:id="mss_witness">
+                    <bibl>
+                        <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Sloane_MS_1856">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1856</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Lansdowne_MS_612">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 612</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Harley_MS_830">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 830</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="Folger_MS_V_a_206">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.206</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="BaconSpeechChancery1617v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 268r–271r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 86r–89r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 248r–258r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS830.xml">British Library, Harley MS 830, ff. 38r–52r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS612.xml">British Library, Lansdowne MS 612, ff. 20r–31r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1856.xml">British Library, Sloane MS 1856, f. 74r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 47r–58r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb60.xml">Beinecke Library, Osborn fb60, ff. 448r–456r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_924.xml">Bodleian Library,  MS Rawlinson D 924, ff. 16v–23r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_395.xml">Bodleian Library,  MS Tanner 395, ff. 48r–57r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa206.xml">Folger Shakespeare Library,  MS V.a.206, ff. 25r–34v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_1026.xml">Harvard Law School,  MS 1026, ff. 147r–155v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LA_MON_21121.xml">Lincolnshire Archives, MON 21/12/1</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_16.xml">Nottingham University Library, Cl LP 16</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SheffA_WWMMS2.xml">Sheffield Archives,  WWM/MS/2, ff. 90r–94r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UCL_Ogden_MS_7_3.xml">UCL, Ogden MS 7/3, ff. 21r–29v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UCL_Ogden_MS_7_52.xml">UCL, Ogden MS 7/52, ff. 14r–15v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_19.xml">Woburn Abbey,  MS 19, pp19–23</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_192.xml">Woburn Abbey,  MS 192, pp111–126</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 106v–107r</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="C17_print_witness">
+                    <bibl>
+                        <author>
+                            <persName corresp="../people/people.xml#P0012">
+                                <forename>Francis</forename>
+                                <surname>Bacon</surname>
+                            </persName>
+                        </author>
+                        <title>Resuscitatio</title>
+                        <date when="1657">1657</date>
+                        <idno type="Wing">B319</idno>
+                        <biblScope unit="page" from="79" to="86">79-86</biblScope>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date when="1617-05-07">7 May 1617</date>
+                <placeName corresp="../places/places.xml#PL0025">Court of Chancery</placeName>
+            </creation>
+            <langUsage>
+                <language ident="EN">English</language>
+                <language ident="LA">Latin</language>
+            </langUsage>
+            <textClass>
+                <keywords n="text-type">
+                    <term>speech</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords n="topic-keyword">
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change status="draft" who="#NM" when="2017-10-04"/>         
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <p>
+                The Lord Chancellor's Speech
+            </p>
+            <p>c
+                Before I enter into buisnesse of <add place="above">the</add> courte<lb/>
+                I must take aduantadge of soe many<lb/>
+                ho<ex>noura</ex>ble wittnesses to <sic>puplish</sic> and make<lb/>
+                knowne summarily, what charge<lb/>
+                the kinges most Excellent M<ex>ajes</ex>tie gaue <lb/>
+                me when I receaued the seale, and <lb/>
+                what Orders and resoluc<ex>i</ex>ons I my <lb/>
+                selfe have taken in Conformitie <lb/>
+                to that Charge, that the king <lb/>
+                may haue the honor of direction, <lb/>
+                and the parte of obedience, wherby <lb/>
+                yo<ex>u</ex>r lo<ex>rdshi</ex>ps and the rest of the pr<ex>e</ex>sence <lb/>
+                shall see my whole tyme of sitting in <lb/>
+                Chauncery, w<ex>hi</ex>ch may be longer, and <lb/>
+                shorter as it shall please God, and <lb/>
+                the king Contracted into one hower, <lb/>
+                and this I doe for three causes./
+            </p>
+            <p>
+                First to give account to the king <lb/>
+                of his Commaund./
+            </p>
+            <p>
+                Secondly, that it may be a Guard <lb/>
+                and Custodie to my selfe, and <lb/>
+                mine owne doeinges, that I doe
+                <pb n="1v"/>
+                not swarme and recede from any <lb/>
+                thing I have professed in soe <lb/>
+                good Companie.
+            </p>
+            <p>
+                And Thirdly, that all men that <lb/>
+                have to doe w<ex>i</ex>th the Chauncery, or the seale <lb/>
+                may know what they shall expect <lb/>
+                and both sett theire hartes and <lb/>
+                myne Eares att Rest, not moveing <lb/>
+                any thing against those Rules, <lb/>
+                knoueing that my answere is now <lb/>
+                turned from a Volumus into a quod <lb/>
+                non possumus, it is noe more I will <lb/>
+                not, but I cannot alter this <lb/>
+                declaracon./
+            </p>
+            <p>
+                And this I doe Allsoe under <lb/>
+                three cautions./
+            </p>
+            <p>
+                The first is that there be <lb/>
+                some things of a more secrett and <lb/>
+                Counsaylelike nature, w<ex>hi</ex>ch are <lb/>
+                rather to be Acted then puplished <lb/>
+                but those thinges w<ex>hi</ex>ch I shall
+                <pb n="2r"/>
+                speake of today, are of a more <lb/>
+                puplique nature
+            </p>
+            <p>
+                The second is That I will not <lb/>
+                trouble this presence w<ex>i</ex>th every <lb/>
+                perticular w<ex>hi</ex>ch would be too long, <lb/>
+                but select those thinges w<ex>hi</ex>ch are of <lb/>
+                greatest efficacie and conduce most <lb/>
+                <foreign xml:lang="la">ad summas rerum</foreign> leaveing many oth<ex>e</ex>r <lb/>
+                particulars to be sett downe in a <lb/>
+                puplique table according to the good <lb/>
+                example of <add place="above">my last</add> pr<ex>e</ex>decessor in his <lb/>
+                begini<ex>n</ex>gs.
+            </p>
+            <p>
+                And lastly that theise Imperatives <lb/>
+                w<ex>hi</ex>ch I have made but to my selfe <lb/>
+                and my tymes be w<ex>i</ex>thout preiudice <lb/>
+                to the Auhtoritie of the Courte, or <lb/>
+                to wiser men that may succeede <lb/>
+                me and chefely that they are <lb/>
+                wholly <del rend="strikethrough">Ad</del>
+                <add place="above">sub</add>mitted unto the greate <lb/>
+                wisdome of my soveraigne and the <lb/>
+                absolutest Prince for Judicature <lb/>
+                that hath beene in the Christian
+                <pb n="2v"/>
+                <sic>wordle</sic>, for if of those thinges <lb/>
+                w<ex>hi</ex>ch I intend to be subordinate to, <lb/>
+                his directions shalbe thought by <lb/>
+                his M<ex>ajes</ex>tie to be Inordinate, I shalbe <lb/>
+                most readie to reforme them 
+            </p>
+            <p>
+                Those thinges are but <foreign xml:lang="la">tanquam <lb/>
+                Albu<ex>m</ex> prætoris</foreign>, for soe did the <lb/>
+                Roman Prætors w<ex>hi</ex>ch have the greatest <lb/>
+                affinitie w<ex>i</ex>th the Jurisdicc<ex>i</ex>on of <lb/>
+                the Chauncell<ex>o</ex>r here, whoe used <lb/>
+                to sett downe att theire entrance <lb/>
+                how they would use theire <del rend="strikethrough">J</del> <lb/>
+                Jurisdicc<ex>i</ex>on. And this I shall <lb/>
+                doe my lordes in <foreign xml:lang="la">verbis masculis</foreign>, <lb/>
+                noe flourishing or painted wordes <lb/>
+                but such wordes as shall goe <lb/>
+                before deedes./
+            </p>
+            <p>
+                The kinges Charge w<ex>hi</ex>ch is my <lb/>
+                lanthorne resteth uppon fouer <lb/>
+                heades. 
+            </p>
+            <p>
+                The first <add place="above">was</add> that I should
+                <pb n="3r"/>
+                Conteyne the Jurisdiccon of the <lb/>
+                Courte, w<ex>i</ex>th<ex>i</ex>n the true, and due <lb/>
+                limitts, w<ex>i</ex>thout swelling or excesse.
+            </p>
+            <p>
+                The second that I should thinke <lb/>
+                the putting of the great seale to <lb/>
+                l<ex>ett</ex>res pattents was not a matter of <lb/>
+                course to followe after precedent <lb/>
+                warrants, but that I should take <lb/>
+                it to be the Maturetie, and fulnes <lb/>
+                of the kinges intencons, and therfore <lb/>
+                one of the greatest partes of my <del rend="strikethrough">p</del>trust <lb/>
+                and if I saw therein any scruple <lb/>
+                or cause of stay that I should <lb/>
+                acquaint him, w<ex>i</ex>th a <foreign xml:lang="la">quod non dubites <lb/>
+                ne fecere</foreign>./
+            </p>
+            <p>
+                The Third was that I should <lb/>
+                retrench all unnecessary delayes that <lb/>
+                the subiect might find that he <lb/>
+                did enioye the same Remedy against <lb/>
+                the fainting of the soule, and <lb/>
+                the Consumption of his Estate <lb/>
+                w<ex>hi</ex>ch: was speedie Justice./
+            </p>
+            <pb n="3v"/>
+            <p>
+                And that those same brambles <lb/>
+                w<ex>hi</ex>ch grow about Justice of needlesse <lb/>
+                charge and expence, and all <lb/>
+                maner of exaccons might be rooted <lb/>
+                out soe farre as might be
+            </p>
+            <p>
+                Theise <hi rend="italic">Cammaundem<ex>en</ex>ts</hi> my Lords <lb/>
+                are righteous, and as I may <lb/>
+                terme them sacred, and therefore <lb/>
+                to use a sacred forme, I pray <lb/>
+                god blesse the king for his greate <lb/>
+                care over the Justice of this land <lb/>
+                and give me his poore servant <lb/>
+                grace and power to observe <lb/>
+                his precepts.
+            </p>
+            <p>
+                Now for a beginning towardes it <lb/>
+                I had sett downe, and applyed <lb/>
+                particular orders to day out of <lb/>
+                theise generall heades./
+            </p>
+            <p>
+                For the excesse or humor of <lb/>
+                the Courte of Chauncery, I shall <lb/>
+                devide it into five Natures.
+            </p>
+            <pb n="4r"/>
+            <p>
+                The <del rend="strikethrough">nature</del>
+                <add place="above">first</add> is when the Courte <lb/>
+                doeth embrace, or retayne causes <lb/>
+                both in matter and in Circumstance <lb/>
+                meerely determinable, and fitt for <lb/>
+                the Common law, for my Lordes <lb/>
+                the Chauncery is ordeyned to supply <lb/>
+                the law, and not to subvert the law. <lb/>
+                Now to describe unto yow: or delineate <lb/>
+                what theise Causes are, and uppon <lb/>
+                what difference, and what are fitt <lb/>
+                for the Courte or not fitt for the <lb/>
+                Courte were too long a lecture, <lb/>
+                but I will tell yow:, what remedie <lb/>
+                I have prepared, I will keepe <lb/>
+                the keyes my selfe, and I will nev<ex>er</ex> <lb/>
+                referre any demurrer or Plea <lb/>
+                tending to dischardge or dismisse <lb/>
+                the Courte of the Cause, to any <lb/>
+                M<ex>aste</ex>r of the Chauncery, but Judge <lb/>
+                of it my selfe, or at the least <lb/>
+                by the M<ex>aste</ex>r of the Rolls, Nay <lb/>
+                further I will appoynte regularly 
+                <pb n="4v"/>
+                that on the Tuesday of evry weeke <lb/>
+                w<ex>hi</ex>ch: is the day of Ord<ex>e</ex>rs First to <lb/>
+                heare Mocons of that nature, <lb/>
+                before any other that the subiect <lb/>
+                may have his vale att the First w<ex>i</ex>thout <lb/>
+                attending, and that the Courte <lb/>
+                may not leave and accumulate a <lb/>
+                Missellanie and Confusion of <lb/>
+                Causes of all natures./
+            </p>
+            <p>
+                The second point concerneth the <lb/>
+                tyme of <add place="above">the</add> Complaint, and the late <lb/>
+                Commers into the Chauncery w<ex>hi</ex>ch <lb/>
+                stay till a Judgment be passed <lb/>
+                against them att the Com<ex>m</ex>on lawe <lb/>
+                and then Complaine, wherein yo<ex>u</ex>r <lb/>
+                Lordshipps may have heard a greate <lb/>
+                Rattle, and a Noyse of Præmunire, <lb/>
+                but I cannot tell what, but <add place="above">that</add> cause <lb/>
+                the king hath settled according <lb/>
+                to the auncient presidents in all <lb/>
+                kinges tymes Continued. And <lb/>
+                this I will say that the opinion not 
+                <pb n="5r"/>
+                to releeve any Case after Judg<ex>men</ex>t <lb/>
+                would be a guilty opinion guilty <lb/>
+                of the Ruygne, Naufrage, and <lb/>
+                perishing of Infortunate subiects <lb/>
+                and as the king found it well out <lb/>
+                why should a man fly into the <lb/>
+                Chauncery before he be hurte, but <lb/>
+                my Lordes the power would be <lb/>
+                preserved, but the practice would be <lb/>
+                moderate, My Rule shalbe there fore <lb/>
+                that In case of Complaints after <lb/>
+                Judegement except the Judgm<ex>en</ex>t <lb/>
+                be uppon nihil dicit and cases w<ex>hi</ex>ch <lb/>
+                are but disguises of Judgements <lb/>
+                As that Judgement be obteyned, <lb/>
+                in contempt of a preceding Order, <lb/>
+                in this Courte, yea, and after <lb/>
+                verdict allsoe, I will have the <lb/>
+                partie Complaynant to enter <lb/>
+                into good Bond to prove his <lb/>
+                successions, soe that he wilbe <lb/>
+                Releeved against a Judgement
+                <pb n="5v"/>
+                att the Common law uppon <lb/>
+                matter of equity he shall doe it <lb/>
+                tanquam et Vinculis, att his p<ex>er</ex>ill/
+            </p>
+            <p>
+                The Third poynt of excesse may <lb/>
+                be the over frequent, and facile <lb/>
+                graunting of Iniunctions for the <lb/>
+                stayeing of the Common law, or <lb/>
+                the altering of the possessions <lb/>
+                wherin theise shalbe my Rules, I <lb/>
+                will graunt noe Iniunctions meerely <lb/>
+                uppon prioretie of suite that is to <lb/>
+                say, because this Courte was first <lb/>
+                possessed, a thing that was well <lb/>
+                Reformed in the late lord Chauncell:<ex>o</ex>r <lb/>
+                Bromely's tyme, In soe much that <lb/>
+                I remember that mr: Dalton the <lb/>
+                Counsellar <del rend="strikethrough">of</del> <add place="above">att</add> law put a Pasquill <lb/>
+                uppon the Courte in nature of a Bill <lb/>
+                for seeing it was noe more but my <lb/>
+                lord, the Bill came in on munday <lb/>
+                and the arrest att Com<ex>m</ex>on law uppon
+                <fw type="catch" place="bot-right">tuesday.</fw>
+                <pb n="6r"/>
+                I pray an Iniunccon uppon <lb/>
+                Prioretie of suite, he caused his <lb/>
+                client that had a debtor to put <lb/>
+                his Bill into the Chauncery before <lb/>
+                the Bond due to him was forfeited, <lb/>
+                to desire an order that he might <lb/>
+                have his money at his day because <lb/>
+                he would be sure to be before the <lb/>
+                other, I doe not meane to make it a <lb/>
+                matter of an horse race, whoe shall <lb/>
+                be first att Westminister hall <lb/>
+                Neither will I graunt a Iniunction <lb/>
+                uppon matter conteyned in the Bill <lb/>
+                onely, be it never soe smo<add place="above">o</add>th and <lb/>
+                specious but uppon matter confessed <lb/>
+                in the deffendants aunswere, or matt<ex>e</ex>r <lb/>
+                pregnant in writing, or of Record, <lb/>
+                or uppon Contempt of the def<ex>endan</ex>ts in <lb/>
+                not appearing, or not aunswering, <lb/>
+                or trifeling w<ex>i</ex>th the Courte by Insuffi-<lb break="no"/>
+                cient Aunswering, for then <lb/>
+                It may be thought that the
+                <pb n="6v"/>
+                Deff<ex>endan</ex>ts standes out of purpose <lb/>
+                to gett the starte att the Com<ex>m</ex>on <lb/>
+                law, and soe to take advantage <lb/>
+                of his owne Contempt w<ex>hi</ex>ch may <lb/>
+                not be suffered,
+            </p>
+            <p>
+                As for Iniunctions for poss<ex>ess</ex>ions, <lb/>
+                I shall mainteyne possession, as <lb/>
+                they were at the tyme of the bill <lb/>
+                exhibited, and for the space of <lb/>
+                a yeare att least before, except <lb/>
+                the possession were gotten by force <lb/>
+                or by any trick
+            </p>
+            <p>
+                Neither will I alter possession <lb/>
+                uppon Interlocutorie orders untill <lb/>
+                a
+                decree, except uppon matter <lb/>
+                playnely confessed in the <expan>deff<ex>endan</ex>
+                    <hi rend="superscript">ts</hi>:</expan>
+                <lb/>
+                aunswere ioyned allsoe <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>:</expan> a <lb/>
+                playne disabilitie and
+                Insolvencie <lb/>
+                in the <expan>deff<ex>endan</ex>ts</expan> to aunswere the
+                        <expan>p<ex>ro</ex>fitts</expan>
+            </p>
+            <p>
+                As for takeing the possession away <pb n="7r"/>In Respect of Contempts I will
+                <lb/>
+                have all the processe of the courte <lb/>
+                spent first, and a Sequestracon of
+                <lb/>
+                the profitts before I Come to an <lb/>
+                Iniunction.</p>
+            <p>
+                The Fourth poynt is, as con- <lb break="no"/>cerning the Communicating of the
+                <lb/>
+                Authority of the <expan>Chauncell<ex>o</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> too farre, <lb/>
+                and makeing uppon the matter too <lb/>
+                many Chauncellors, by
+                relying too <lb/>
+                much uppon the reportes of the <expan>M<ex>aste</ex>
+                    <hi rend="superscript">rs</hi>:</expan>
+                <lb/>
+                of the Chauncery as concludent, <lb/>
+                I know, my lordes, the
+                        <expan>m<ex>aste</ex>
+                    <hi rend="superscript">rs</hi>:</expan> of the <lb/>
+                Chauncery are reverend
+                men,and <lb/>
+                the greate masse of the buisnes of the <lb/>
+                Court Cannot be
+                    spe<del>e</del>
+                <add>d</add>d <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>:out</expan> them; <lb/>
+                And it is a thing the
+                        <expan>Chauncell<ex>o</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>
+                <lb/>
+                may soone fall to for his owne case <lb/>
+                to rely much uppon them, but the
+                <lb/>
+                Course that I will take <expan>gen<ex>er</ex>ally</expan>
+                <lb/>
+                shalbe this, I will make noe <lb/>
+                binding order uppon any Report of <pb n="7v"/>One of the Masters, <expan>w<ex>i</ex>thout</expan> giving <lb/>
+                a seavenights day
+                at <add>the</add> least, to shew <lb/>
+                cause against the Report, <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan>
+                <lb/>
+                neverthelesse I will have done <lb/>
+                modestly, and <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>:</expan> due reverence <lb/>
+                towardes them, and
+                againe I must <lb/>
+                utterly discontinew the Makeing of <lb/>
+                an Hipotheticall or
+                Conditionall <lb/>
+                Order, That if a Master of the <lb/>
+                Chauncerie be certefied thus,
+                &amp; thus, <lb/>
+                that then it is soe ordered <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>out</expan>
+                <lb/>
+                further mocon, for that it is a <lb/>
+                surprize, and giveth noe tyme for
+                <lb/>
+                Contradiction. </p>
+            <p> The last poynt of Excesse is, if <lb/>
+                a <expan>Counsell<ex>o</ex>
+                    <hi rend="superscript">r</hi>:</expan> shall doe soe much of <lb/>
+                himselfe, as
+                he shall neglect the <lb/>
+                assistance of reverend Judges, in cases <lb/>
+                of
+                difficulty, especially if they touch <lb/>
+                uppon law, or calling them shall <lb/>
+                doe
+                it but, pro forma tantum <pb n="8r"/>and give noe due respect to theire
+                <lb/>
+                Opinions, wherein my Lordes preserving <lb/>
+                the dignitie and
+                        <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>
+                </expan> of the Courte, <lb/>
+                <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> I cannot rather encreased then
+                    <del>ad</del>
+                <lb/>
+                diminshed by grave and due assistance, <lb/>
+                I shall never be found soe
+                        <expan>s<ex>o</ex>v<ex>er</ex>aigne</expan>
+                <lb/>
+                or abundant in mine owne sence, <lb/>
+                but <del>as</del> I shall both desire and
+                <lb/>
+                make <add>true</add> use of Assistants, Nay I assure <lb/>
+                <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>:</expan>
+                <expan>Lo<ex>rdshi</ex>
+                    <hi rend="superscript">ps</hi>:</expan> if I should find any <lb/>
+                many
+                diversitie of opinion of my <lb/>
+                assistantse from mine owne, though <lb/>
+                I know well
+                the Judjcature of the <lb/>
+                Courte, wholly rests in my selfe <lb/>
+                yett I thinke I
+                should have <lb/>
+                recourse, to the Oracle of the king's <lb/>
+                owne Judgement, before I
+                should <lb/>
+                pronounce, And soe much for the <lb/>
+                temperate use of the Authoritie
+                <lb/>
+                of this Courte, for surely the <lb/>
+                health of a Courte as well as <lb/>
+                a body
+                consisteth in temperance </p>
+            <p>
+                <pb n="8v"/>For the second <expan>Commaundem<ex>en</ex>t</expan>
+                <lb/>
+                of his <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>:</expan> touching staying of <lb/>
+                graunts att
+                the seale, theire <lb/>
+                may be iust cause of stay either <lb/>
+                in the matter of the
+                graunt, or <lb/>
+                in the manner of passing the <lb/>
+                same, out of both
+                        <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> I extract <lb/>
+                theise six principall
+                causes, <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan>
+                <lb/>
+                I will now make knowne. All <lb/>
+                <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> neverthe lesse I understand to <lb/>
+                be
+                wholly submitted to his <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">t<ex>y</ex>s</hi>
+                </expan> will, <lb/>
+                after by me he shall have beene <lb/>
+                Informed, for if Iteratum <lb/>
+                <expan>mundatu<ex>m</ex>
+                </expan> become obedience is better <lb/>
+                the sacrafice. </p>
+            <p>
+                The first case is where any <expan>matt<ex>e</ex>
+                    <hi rend="superscript">r</hi>:</expan>
+                <lb/>
+                of Revenew, treasure, or profitt passeth <lb/>
+                from his <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>:</expan>, my first dutie <lb/>
+                shalbe to examine
+                wheither the <lb/>
+                graunt have passed in the <lb/>
+                due and naturall course, by <pb n="9r"/>the greate <expan>Offic<ex>e</ex>
+                    <hi rend="superscript">rs</hi>
+                </expan> of the <lb/>
+                Revenew, The Lord Treasurer and <lb/>
+                Chauncellor of the
+                Exchequer, and <lb/>
+                <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>:</expan> theire privitie; <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> if I find it, <lb/>
+                not to be, I presume
+                it to have <lb/>
+                passed in the darke, and by a <lb/>
+                kind of surrepcon; &amp; I will
+                make <lb/>
+                stay of it, till his <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>:</expan> pleasure <lb/>
+                be further knowne./ </p>
+            <p>
+                If it be a graunt that is not <lb/>
+                meerely vulgar, and hath of course <lb/>
+                passed att
+                the signett of fac simile <lb/>
+                but needeth science; my duety shalbe <lb/>
+                to examine,
+                wheither it hath passed <lb/>
+                by the learned Councell, and had <lb/>
+                theire dockett,
+                        <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> is that his <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>:</expan>
+                <lb/>
+                reades, and leades himselfe, and <lb/>
+                if I find it otherwise (although <lb/>
+                the
+                matter were not in it selfe In <lb break="no"/> =convenient) yett I hold it iust
+                cause <lb/>
+                to stay for presidents sake to <lb/>
+                keepe men in the right way./</p>
+            <pb n="9v"/>
+            <p> Thirdly if it be graunt <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> I <lb/>
+                conceave out of my litle knowlege
+                <lb/>
+                to be against the law, (of <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan>
+                <lb/>
+                nature Theodosius was wont to say <lb/>
+                I spake it or I wrote it but I
+                <lb/>
+                graunted it not) if it be uniust) I <lb/>
+                will call the learned Counsell to
+                <lb/>
+                it aswell he that drew the booke <lb/>
+                as the rest, or some of them, for <lb/>
+                as
+                for the Judges, they are <add>Judges</add> grants <lb/>
+                past, but not of grauntes to
+                come <lb/>
+                except the king call them./</p>
+            <p>
+                Fourthly if graunts be against <lb/>
+                the kings puplique booke of <lb/>
+                bounty, I am
+                expressly Comannded <lb/>
+                to stay them, untill the king <expan>eith<ex>e</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>
+                <lb/>
+                revise his booke in generall, or give <lb/>
+                direction in the
+                    <expan>p<ex>ar</ex>ticular</expan>./ </p>
+            <p>
+                If as a Counsellor of Estate <lb/>
+                I doe foresee Inconvenience to ensue <lb/>
+                by reason
+                of estate in respect of <lb/>
+                the kinges honour, or discontent, <pb n="10r"/>or
+                Murmure of the people, I will <lb/>
+                not trust to mine owne Judegment,<lb/>
+                but I will
+                either acquaint his <lb/>
+                <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>
+                </expan>
+                <expan>w<ex>i</ex>
+                    <hi rend="superscript">t:h</hi>
+                </expan> it, or the Counsell table <lb/>
+                or some such of my Lordes as <lb/>
+                I shall
+                thinke fitt,/</p>
+            <p>
+                Lastly for matter of pardons, <lb/>
+                if it be for treasons <expan>Mispriclu<ex>m</ex>
+                </expan>
+                <lb/>
+                Murther either exprest or involute, <lb/>
+                by a non obstante or of Piracy, or
+                <lb/>
+                Premunire, or of fines or exemplary <lb/>
+                punishment in the starre Chamber, or
+                <lb/>
+                some other natures I shall by the <lb/>
+                grace of god stay <sic>the</sic>, untill
+                his <lb/>
+                <expan>M<ex>ajes</ex>:<hi rend="superscript">tie</hi>
+                </expan> who is the fountayne of grace <lb/>
+                shall resolve betweene god and <lb/>
+                him,
+                how farre grace shall abound <lb/>
+                or superabound./ </p>
+            <p>
+                And if it be of persones attainted <lb/>
+                and Convicted of Robbery, Burglary,
+                <lb/>&amp;c, then will I examine <expan>wheith<ex>e</ex>:<hi rend="superscript">r</hi>
+                </expan>
+                <lb/>
+                the pardons passed the hand of any <pb n="10v"/>Justice of Assize, or Justice
+                of <lb/>
+                peace, or other Commissioners, <lb/>
+                before whome the triall was <lb/>
+                made,
+                And if not I thinke it <lb/>
+                my dutie allsoe to stay them/ </p>
+            <p>
+                And <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>
+                <expan>lo<ex>rdshi</ex>ps</expan> see in this <lb/>
+                matter of the seale, and his
+                        <expan>M<ex>ajes</ex>:<hi rend="superscript">t<ex>y'</ex>s</hi>
+                </expan>
+                <lb/>
+                Royall <expan>Co<ex>m</ex>maundement</expan> concerning <lb/>
+                the same I meane
+                to walke in <lb/>
+                the light, soe that men may <lb/>
+                know where to finde me, And
+                <lb/>
+                this puplishing thereof plainly <lb/>
+                I hope will save the king from <lb/>
+                a
+                great deale of abuse, and <lb/>
+                me from a great deale of Envy <lb/>
+                when men shall see
+                that noe <lb/>
+                particular turne, or end leades <lb/>
+                me but a generall Rule, </p>
+            <pb n="11r"/>
+            <p>
+                For the third generall heade <lb/>
+                of his precepts concerning speedy <lb/>
+                Justice, It
+                Resteth much uppon <lb/>
+                my selfe, and much uppon <expan>oth<ex>e</ex>:<hi rend="superscript">rs</hi>
+                </expan>
+                <lb/>
+                yett soe as my procuracon may <lb/>
+                give some Remedy and order <lb/>
+                unto it./ </p>
+            <p>
+                For my selfe I am resolved <lb/>
+                that my decree shall come <lb/>
+                speedily, if not
+                Instantly after <lb/>
+                the heareing, and my signed <lb/>
+                decree speedily uppon my
+                decree <lb/>
+                pronounced, for it hath bin a <lb/>
+                manner much used of late in my
+                <lb/>
+                last lordes tyme, of whome I <lb/>
+                have much to Imitate, and
+                        <expan>somew<ex>ha</ex>:<hi rend="superscript">t</hi>
+                </expan>
+                <lb/>
+                to avoyde, that uppon the solemne <lb/>
+                and full heareing of a cause
+                <lb/>
+                noetheing is pronounced in Courte, <lb/>
+                but breviats are required to be made
+                        <lb/>(<expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan> I doe not dislike in it selfe <pb n="11v"/>In <sic>caused</sic> perplexed)
+                for I <lb/>
+                Confesse I have somewhat of <lb/>
+                the Cunctative, And I am <lb/>
+                of opinion
+                that Whoesoever is <lb/>
+                not wiser uppon advise then <lb/>
+                uppon the soddayne, the
+                same <lb/>
+                man is noe wiser att fiftine, <lb/>
+                then <add>hee was</add> att thirtye,
+                and It was <lb/>
+                my Father's ordinary wordes <lb/>
+                yo:<hi rend="superscript">w</hi>
+                must give me tyme, but <lb/>
+                yett I finde that when such <lb/>
+                breviates were taken,
+                the Cause <lb/>
+                was sometymes forgotten a terme <lb/>
+                or two, and then sett downe for
+                <lb/>
+                a new hearing, or reheareing <lb/>
+                three or foure termes after./ </p>
+            <p>
+                And in the meane tyme the <pb n="12r"/>subiects pulse beates swifte <lb/>
+                though the
+                Chauncery pace be <lb/>
+                slowe, of <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan> kind of Inter= <lb break="no"/>mission I see noe use, And <lb/>
+                therefore I
+                will promise regu= <lb break="no"/>larly to pronownce my decree <lb/>
+                <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>:in</expan> few dayes after my hearing, <lb/>
+                and
+                to signe my de<del>g</del>
+                <add>c</add>ree att <lb/>
+                the least in the Vacation after <lb/>
+                the pronouncing of
+                fresh Justice <lb/>
+                is the sweetest, And to the end <lb/>
+                that there be noe delay of
+                Justice <lb/>
+                nor any other meanes makeing or <lb/>
+                labouring, but the labour of the
+                <lb/>
+                Counsell att the barre./ </p>
+            <p>
+                Againe because Justice is <lb/>
+                a sacred thing, and the end <lb/>
+                for
+                        <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan> I am called hither, <lb/>
+                and there fore is my way to <lb/>
+                heaven (And if it
+                be shorter <lb/>
+                it is never <del>the</del>
+                <add>a</add> whitt the worsse) <lb/>
+                I shall by the grace of god (as <pb n="12v"/>farre as god will give me leave) <lb/>
+                add the after noone to the afforenoone
+                <lb/>
+                and some fortnight of the Vacacon <lb/>
+                to the service of the expediting,
+                <lb/>
+                and clearing of the Causes of the <lb/>
+                Courte, onely the depth of the <choice>
+                    <sic>thre</sic>
+                    <corr>three</corr>
+                </choice>
+                <lb/>
+                long vacacons, I would reserve <lb/>
+                in some measure free from <lb/>
+                buisnes of
+                Estate, and for <lb/>
+                studies, Acts, and services, to <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan>: <lb/>
+                In mine owne nature, I am <lb/>
+                most Enclined./ </p>
+            <p>
+                There is an <expan>oth<ex>e</ex>
+                    <hi rend="superscript">r</hi>:</expan> poynt of true <lb/>
+                Expedicon
+                        <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> resteth much <lb/>
+                in my selfe, And that
+                is <lb/>
+                my manner of giving orders <lb/>
+                For I have seene an <pb n="13r"/>affectacon
+                of dispatch turne <lb/>
+                utterly to delay at length, for <lb/>
+                the manner of it is to
+                take the <lb/>
+                Tale out of the <expan>Counsell<ex>o</ex>:<hi rend="superscript">r</hi>
+                </expan> att the <lb/>
+                Barre his mouth and to give <lb/>
+                a Cursary order noething
+                tending, <lb/>
+                or conducing to the end of the <lb/>
+                buisnes, It makes me Remember
+                <lb/>
+                what I have heard one say of a <lb/>
+                Judge that sate in the Chancery, <lb/>
+                That
+                he would make fortie <expan>ord<ex>e</ex>:<hi rend="superscript">rs</hi>
+                </expan>
+                <lb/>
+                <del>out</del>
+                <add>in</add> a morning out of the way <lb/>
+                and it was out of the way <lb/>
+                indeede,
+                for it was noething to <lb/>
+                the end of the buisnes, and <lb/>
+                that is that
+                        <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan> makes fiftie <add>&amp; sixtie</add>
+                <lb/>
+                eightie, 100 orders in a cause, too, <lb/>
+                and froe begetting one another,
+                <lb/>
+                and like Penelope's Webb, doeing <lb/>
+                and undoeing,/ </p>
+            <p>
+                But I meane not to purchase <lb/>
+                the prayse of expedetive in <pb n="13v"/>that kind,
+                but as one that hath <lb/>
+                a feeling of my duetie, and of <lb/>
+                the case of others in
+                my <expan>endeav<ex>ou</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>
+                <lb/>
+                shalbe to heare patiently, <lb/>
+                and to cast my Order into such <lb/>
+                a mould, as
+                may soonest bring <lb/>
+                the subiect to the end of his <lb/>
+                Journey./ </p>
+            <p>
+                And for delayes that may <lb/>
+                Concerne others, first the great <lb/>
+                Abuse is, that if
+                the <expan>p<ex>lainti</ex>
+                    <hi rend="superscript">ff</hi>
+                </expan> have <lb/>
+                gott an Iniunction to stay <lb/>
+                suites att the Common law,
+                <lb/>
+                then he will spinne out his <lb/>
+                Cause att length, But by <lb/>
+                the grace of god
+                I will make <pb n="14r"/>Iniunctions but an hard pillow <lb/>
+                to sleepe on, for if I
+                finde <lb/>
+                that he prosecutes not <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>:</expan>
+                <lb/>
+                effect, he may perhappes when <lb/>
+                he is awake find not onely <lb/>
+                his
+                Iniunction dissolved but <lb/>
+                his Cause dissmissed./ </p>
+            <p>
+                There be other perticular <lb/>
+                orders, I meane to take for non <lb/>
+                prosecution, or
+                faint prosecucon <lb/>
+                where<expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>
+                </expan> I will not trouble <lb/>
+                yo<hi rend="superscript">w</hi> now because summa
+                sequor <lb/>
+                vestigia <expan>reru<ex>m</ex>
+                </expan> and soe much <lb/>
+                for matter of Expedicon./</p>
+            <p>
+                Now for the fourth and last <lb/>
+                point of the king
+                        <expan>Com<ex>m</ex>andem<ex>en</ex>t</expan>
+                <lb/>
+                for the cutting of unnecessary <lb/>
+                charge of the suibect, A great <lb/>
+                porcon
+                of it is fulfilled, in the <lb/>
+                precedent Article, for it is the <lb/>
+                length of
+                suites that doeth <lb/>
+                multiply Charges cheefely <pb n="14v"/>Butt yett there are
+                some other <lb/>
+                Remedies, that doe Conduce <lb/>
+                thereunto./ </p>
+            <p>
+                First therefore I <lb/>
+                will maynteyne strictly, and <lb/>
+                <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>
+                </expan> former orders <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> I finde <lb/>
+                my lord Chauncellor hath
+                taken <lb/>
+                for the moderate, and needelesse <lb/>
+                prolixitie, and length of bills,
+                <lb/>
+                and Aunsweres &amp;c/ aswell in <lb/>
+                punishing the partie, as fining <lb/>
+                the
+                Counsell whose hand I shall <lb/>
+                find att such bills, and <lb/>
+                aunsweres/ </p>
+            <p>
+                Secondly for all examinacons <lb/>
+                taken in the Countrey, I doe <pb n="15r"/>give
+                charge unto the <expan>examin<ex>e</ex>
+                    <hi rend="superscript">r</hi>s</expan>
+                <lb/>
+                uppon perill of loosing theire <lb/>
+                places, that they doe use any <lb/>
+                Idle
+                Repeticons, or needelesse <lb/>
+                Circumstance in setting downe <lb/>
+                the deposicons
+                taken by them <lb/>
+                And I would I could helpe it <lb/>
+                likewise in the Countrey, but
+                <lb/>
+                that is Impossible./ </p>
+            <p>
+                Thirdly I shall take a <lb/>
+                diligent survey of the copies in <lb/>
+                Chauncery, that
+                they have <lb/>
+                theire Just number of lines <lb/>
+                and <expan>w<ex>i</ex>
+                    <hi rend="superscript">th</hi>
+                </expan>out open, and <lb/>
+                wastefull writing./ </p>
+            <p>
+                Fourthly, I shalbe carefull <lb/>
+                there be noe <del>n</del>exaccon of <del>any</del>
+                <lb/>
+                any new Fees, but according <lb/>
+                as they have beene heretofore <lb/>
+                sett and
+                tabled./ </p>
+            <p>
+                As for lawyers Fees I <lb/>
+                must leave that to the conscience <lb/>
+                and meritt of the
+                lawyers, <pb n="15v"/>and the estimacon, and gratitude <lb/>
+                of the Clyent, but this
+                I can <lb/>
+                doe, I know there have used <lb/>
+                to attend this Barre a
+                        <expan>numb<ex>e</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>
+                <lb/>
+                of lawyers, that have not beene <lb/>
+                hard scarce once, or twice in a
+                <lb/>
+                terme, and that maketh the <lb/>
+                <del>Counsell</del>
+                <add>Client</add> seeke to greate <expan>counsel<ex>lors</ex>
+                </expan>
+                <lb/>
+                and favourites (as they call them) <lb/>
+                for evry ordder, that a meane <lb/>
+                <del>mens</del>
+                <add>lawyer</add> might aswell dispach <lb/>(a terme fitter for kinges then
+                <lb/>
+                Judges) therefore to helpe the <lb/>
+                generalitie of lawyers, and <lb/>
+                therein to
+                helpe the Clyents <lb/>
+                I will constantly observe that <lb/>
+                evry tuesday, and other
+                dayes <pb n="16r"/>of Orders, After nine a <lb/>
+                clocke strucken, I will heare
+                <lb/>
+                the Barre untill eleaven, or <lb/>
+                halfe an hower After tenn <lb/>
+                att the least,
+                and since I <lb/>
+                am uppon <add>
+                    <del>whome</del>
+                </add> the pointe <add>whome</add> I will here <lb/>
+                <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>
+                <expan>lo<ex>rdshi</ex>p<hi rend="superscript">s</hi>
+                </expan> will give me leave <lb/>
+                to tell a fancie./ </p>
+            <p>
+                It falleth out that there <lb/>
+                be three of us the kinges <lb/>
+                servants in greate
+                places that <lb/>
+                are lawyers by descent, Mr <lb/>
+                Attourney somnne of a Judge,
+                <lb/>
+                Mr Solicitor likewise sonne of <lb/>
+                a Judge, and my selfe a <lb/>
+                Chauncellors
+                sonne./ </p>
+            <p>
+                Now because the law rootes <lb/>
+                so well in my tyme, I will <lb/>
+                water it at the Roote
+                thus <lb/>
+                farre, As besides theise <lb/>
+                great ones I will heare <lb/>
+                any Judges
+                sonne before <pb n="16v"/>a Serieant, and any seriants <lb/>
+                sonne be a Reader if
+                there <lb/>
+                be not many of them,</p>
+            <p>
+                Lastly for the better ease <lb/>
+                of the subiects, and the bridling <lb/>
+                of Contentious
+                suites, I give <lb/>
+                better that is great coastes <lb/>
+                where the suggestions are <expan>
+                    <ex>n</ex>o<ex>t</ex>
+                </expan>
+                <lb/>
+                proved then hath beene <lb/>
+                hithe<del>e</del>
+                <add>r</add>to used./ </p>
+            <p>
+                There be divers <expan>O<ex>rders</ex>
+                </expan>
+                <lb/>
+                for the better Regiment <ex>of</ex>
+                <lb/>
+                this Courte, and for gr<ex>a</ex>nting <lb/>
+                of writts, and for graunting
+                <lb/>
+                of benefitts, and others <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan>
+                <lb/>
+                I shall sett downe <add>in</add> a table, but <lb/>
+                I will deale <add>
+                    <expan>w<ex>i</ex>
+                        <hi rend="superscript">th</hi>:</expan>
+                </add> noe other <expan>to<ex>day</ex>
+                </expan>
+                <lb/>
+                but such as have a proper <pb n="17r"/>Relacon to his <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">ti<ex>e'</ex>s</hi>
+                </expan>
+                <hi rend="italic">
+                    <expan>Commaundem<ex>en</ex>t</expan>
+                </hi>
+                <lb/>
+                it being my Comforte, that I <lb/>
+                serve such a master that I <lb/>
+                shall neede
+                to be a Conduit <lb/>
+                onely, for Conveying his goood <lb break="no"/> =nes to his
+                people, And it is <lb/>
+                true that I doe aspire, and <lb/>
+                affect to make good that
+                <lb/>
+                saying, That <hi rend="italic">optimus Magistratus <lb/>
+                praestat optimae
+                    legi</hi>, <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>:</expan> is true in <lb/>
+                his
+                        <expan>M<ex>ajes</ex>
+                    <hi rend="superscript">tie</hi>:</expan> and for my selfe, I <lb/>
+                doubt I shall
+                not attaine it, <lb/>
+                but yett I have a domesticke <lb/>
+                Example to follow./</p>
+            <p>
+                My Lordes I have noe more to <lb/>
+                say, but now I will goe on in <lb/>
+                the buisnes of
+                the Courte./</p>
+            <p>
+                finis/</p>
+
+        </body>
+    </text>
+</TEI>

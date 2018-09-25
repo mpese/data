@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to his Father, the Earl of Manchester</title>
+            <author>
+               <persName corresp="../people/people.xml#P0120">Walter Montagu</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="EB">
+               <name>Elaine Brown</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_209">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 209</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6866">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6866</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 309x–311r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6866.xml">British Library, Harley MS 6866, ff. 210x–225x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS209.xml">British Library, Lansdowne MS 209, ff. 109x–164x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_16729.xml">Beinecke Library, Osborn File 16729</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_4o_Rawl_550.xml">Bodleian Library,  4o Rawl. 550, ff. 6v–17v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_749.xml">Bodleian Library,  MS Ashmole 749, item 9, 2–9</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_943.xml">Lambeth Palace Library,  MS 943, ff. 381–388</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 53–63</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UCL_Ogden_MS_7_29.xml">UCL, Ogden MS 7/29, ff. 68r–v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0120">Walter Montagu</persName>
+                  </author>
+                  <title>The Coppy of a letter sent from France by Mr. Walter Mountagu to his father the Lord Privie Seale, with his answere thereunto also a second answere to the same letter by the [Lord] Faulkland</title>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">M2472</idno>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0121">Lucius Cary, 2nd Viscount Falkland</persName>
+                  </author>
+                  <title>A discourse of infallibillity...also Mr Walter Mountague (Abbot of Nanteul) his letter against Protestantism and his Lordship’s answer thereunto</title>
+                  <date when="1651">1651</date>
+                  <idno type="Wing">F317</idno>
+                  <biblScope unit="page" from="269" to="298">269-[298]</biblScope>
+                  <biblScope unit="sigs" from="Mm3r" to="Qq1v">Mm3r-Qq1v</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0121">Lucius Cary, 2nd Viscount Falkland</persName>
+                  </author>
+                  <title>A discourse of infallibillity...also Mr Walter Mountague (Abbot of Nanteul) his letter against Protestantism and his Lordship’s answer thereunto</title>
+                  <date when="1660">1660</date>
+                  <idno type="Wing">F318</idno>
+                  <biblScope unit="page" from="269" to="298">269-[298]</biblScope>
+                  <biblScope unit="sigs" from="Mm3r" to="Qq1v">Mm3r-Qq1v</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1635-11-21">21 November 1635</date>
+            <placeName corresp="../places/places.xml#PL0029">Paris, France</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholicism</term>
+               <term>conversion</term>
+               <term>confessional conflict</term>
+               <term>Luther</term>
+               <term>Protestantism</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-18" who="#RB" status="proofread"/>
+            <change when="2018-04-12" who="#RB" status="draft"/>
+            <change when="2018-03-22" who="#EB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="99r" facs="/bl/add_ms_22591/add_ms_22591_f099r/add_ms_22591_f099r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               Maister <lb/>
+               Walter Montague his letter to his Father the E<ex>arl</ex> of <lb/>
+               Manchester lorde Privye seale touching his Recon=<lb break="no"/>
+               consilem<ex>en</ex>t <lb/>
+               to the Church of Rome, Paris xxith Nove<ex>m</ex>b<ex>er</ex> 1635: 
+            </hi>
+         </head>
+         <p rend="indent">
+            My lord
+         </p>
+         <p>
+            After <del rend="strikethrough">my duetie remembred</del> much debate Concerninge the <lb/>
+            Fittest Expr<ex>e</ex>ssion of my duetie vnto you<ex>r</ex> Lo<ex>rdshi</ex>pp, whether I ought by <lb/>
+            Scilence, Seeke to Suspend yo<ex>u</ex>r Beleefe of the declaracion of my <lb/>
+            Selfe / I haue made heere by A Cleere Profession of it, I assure <lb/>
+            you/ of what I Feare to present w<ex>i</ex>th an Apprehension of A <lb/>
+            misinterpr<ex>e</ex>ted affection, I Conclude what was most Satisfactory <lb/>
+            to my Selfe / and Imediate duetie, to God was most Iustifiable <lb/>
+            to my Second / and derivatiue to Nature / Therefore I resolved <lb/>
+            soe soone to give you this Ingenious Accompte of my Selfe /
+         </p>
+         <p>
+            The greatest parte of my liffe Capable of distinctions of <lb/>
+            Religions, hath bine Imployed in Places, and Conversant with <lb/>
+            p<ex>er</ex>sons opposite to the Faithe I was bredd in / Therefore itt had <lb/>
+            bine Strang if Naturall Curiositie / w<ex>i</ex>thout anye Spirrituall <lb/>
+            p<ex>ro</ex>vocation had not invited mee to the desire of looking w<ex>i</ex>th mine <lb/>
+            owne Eyes / vpon the Foundacions I troade vpon / rather then <lb/>
+            holding Fast blind Folde by my Educacion to agree to be carryed <lb/>
+            awaye allwayes after Insensible of all Stocks / I meante to <lb/>
+            vnfasten mee / And besydes I was Sollicited by the reproaches  <lb/>
+            Protestants Presse vpon the Cathoquies that they blindly beleeue <lb/>
+            all the Impostures of the Church / w<ex>i</ex>thout anye Illuminacio<ex>n</ex> of <ex>the</ex>ir <lb/>
+            Iudgement / This mee thought enioyned mee the cleerest Informa=<lb break="no"/>
+            tion of my Selfe/ of the differences betwixt vs I could p<ex>ro</ex>pose <lb/>
+            to my Capacitye/ Soe all my last Iourneye into Italie/ I did <lb/>
+            applie all my leysure to A more Iustefiable Settlem<ex>en</ex>t of <lb/>
+            my beleefe (as I there w<ex>i</ex>th Imagyned by Confirmacion of my <lb/>
+            Iudgement in what had bine Introduced by my Birthe and <lb/>
+            Educacion/ I begann w<ex>i</ex>th this Consideration that there were <lb/>
+            two Sortes of questions betweene the Catholiques and the <lb/>
+            Protestants/ The One of right doctrine, the other of Facte or <lb/>
+            Storye / as This / Whether Luther were the newe Erector of the <lb/>
+            Protestant Faithe / Whether it had A vissible Appearance <lb/>
+            of Pastors, and Teachers before his Tyme / I resolved to begin <lb/>
+            my Enquirye w<ex>i</ex>th the questions of Faithe / For theis reasons First <lb/>
+            because theis are Soe fewe / and Be Compr<ex>e</ex>hencible by all Capacety<add place="above">es</add> <lb/>
+            and the Controversies of doctrine soe Intricate, and soe manye <lb/>
+            as they required much Tyme / and learning For their disquisition <lb/>
+            onelye / and I Found my selfe vnprovided of both theies In=<lb break="no"/>
+            quisitions for this vndertaking / and for the derision of the oth<ex>e</ex>r <lb/>
+            I needed not much p<ex>re</ex>sumption to <add place="above">beleeve</add> <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> my selfe A Competent Iudge, <lb/>
+            when it consisted onelye in the p<ex>er</ex>usuall of authentique Testimonys <lb/>
+            Secondlye I considered that there was noe One pointe of Con=<lb break="no"/>
+            tro<del rend="strikethrough">d</del>
+                <gap extent="2" unit="chars"/>verted doctrine / whereon all the rest depended / but <add place="above">that</add> this One <lb/>
+            question of Faith was such as the derision thereof determyned <lb/>
+            <fw type="catch" place="bot-right">all</fw>
+            <pb n="99v" facs="/bl/add_ms_22591/add_ms_22591_f099v/add_ms_22591_f099v.jpg"/>
+            all the<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> rest, For yf Luther could be proved to be Innovater of <ex>th</ex>e <lb/>
+            Protestant Faith / it is then necessarilye <unclear>Evicted</unclear> to be the true au<ex>n</ex>=<lb break="no"/>
+            tient Apostolicall religion / therefore I begann w<ex>i</ex>th this Enquiry <lb/>
+            w<ex>hi</ex>ch Protestants are bound to make to au<ex>n</ex>swere this obiection / to <lb/>
+            finde out an Existence of some Professors of the reformed doctrines <lb/>
+            before Luthers Tyme / For Finding the <del rend="strikethrough">Protestan</del> the Catholiques  <lb/>
+            were not to prove their Negatiue, it was my parte to p<ex>ro</ex>ue my <lb/>
+            Selfe the affirmatiue/ that our Religion was noe Innovat<ex>i</ex>on By <lb/>
+            some Preexistence before that Tyme / But in the perusall of all <lb/>
+            the historyes / or Recordes Ecclesiasticall / or Civill I could chose, <lb/>
+            I could Finde noe Au<ex>n</ex>tienter a dissencion from the Ramaine church <lb/>
+            then Waldoe / Wickliffe / or Husse / whoe scarse had relacion to <lb/>
+            the newe Professed Protestancye / Soe as I Found A dissention <lb/>
+            from about Eight hundred yeares From the Tyme all Protesta<ex>n</ex>t<ex>es</ex> <lb/>
+            Confesse an Vnitie w<ex>i</ex>th the Church of Rome / downe to thos p<ex>er</ex>sons <lb/>
+            w<ex>i</ex>thout anye Apparant Profession / to A different Faithe / To <lb/>
+            answere my Selfe in this Pointe / I read manye of our Protestant <lb/>
+            Authors, that treated of it, and I Founde most of them replye to this <lb/>
+            Sence in w<ex>hi</ex>ch I Cite heere one of the most Authentique, doct<ex>or</ex> whitaker, <lb/>
+            in his Cent: 243 : Pa: 479: where they aske of vs where our Church <lb/>
+            was heeretofore for Soe manye Ages / wee au<ex>n</ex>swere that it was <lb/>
+            in a Secrett Solitude / that is to saye it was concealed / and laye hid <lb/>
+            From the Sight of men / And Further the same docter Chap: 4: Pag <lb/>
+            502: Our Church allwayes was / but you saye it was not Visible, doth <lb/>
+            that proue that it was nott / For itt laye hidd in in A Solitarye Con=<lb break="no"/>
+            cealement/ To this direct Sence all the A<ex>u</ex>nsweres were that I could <lb/>
+            meete to this Obiection / This Confession of Invisibiletie in our <lb/>
+            Church For Soe manye Ages / did much p<ex>er</ex>plex mee / it seduced to <lb/>
+            mee to offend even Naturall reason / Such A derogation fro<ex>m</ex> Gods <lb/>
+            power and Providence as the sufferance of soe greate an Ecclipse <lb/>
+            as the light of his True Church / And such A Church as this is de=<lb break="no"/>
+            scribed to be / <del rend="strikethrough">seduced</del> Seemed to mee to be repugant to the maine <lb/>
+            reason whye God hath A Church vpon Earthe / w<ex>hi</ex>ch is to be Conseruor <lb/>
+            of the doctrine Christ preached / and to convey it From Age to Age, <lb/>
+            vntill the Ende of the worlde / Therefore I applyed my Studye <lb/>
+            to p<ex>er</ex>use such Arguments as the Catholiques brought For the p<ex>roo</ex>fe <lb/>
+            of the necessitie of the Continuall Vissibillitye of the true Church <lb/>
+            downe from the Apostles Tyme / in all Ages / And in Apperau<ex>n</ex>ce <lb/>
+            of Pastors teaching and Administring the Sacram<ex>en</ex>t<ex>es</ex> / In p<ex>roo</ex>fe of this <lb/>
+            I Found they brought manye Prophesyes out of the Scriptures, <lb/>
+            But this Text most litterall / out of the 4th of Ephesians / Christe <lb/>
+            hath Placed in his Church / Pastors / and doctors till <ex>th</ex>e Co<ex>n</ex>sum<ex>m</ex>atio<ex>n</ex> <lb/>
+            of the Saincts / till wee all meete in the vnitye of the Faith / And <lb/>
+            next they discourse vpon w<ex>hi</ex>ch they Inferre this necessary visible <lb/>
+            Succession of the Church Seemed to mee to be a most rationall <lb/>
+            and <unclear>Convislaige</unclear> One w<ex>hi</ex>ch is to this Effecte Naturall reason being <lb/>
+            not Able to Proportion vnto A man A Course <ex>tha</ex>t might certainlye <lb/>
+            bring him to State of sup<ex>er</ex>naturall happinesse / yett such a Cou<ex>r</ex>se <lb/>
+            being necessarye to Mankinde / w<ex>hi</ex>ch other wise would totallie <lb/>
+            faile of the End it was Created For, there remayned noe other <lb/>
+            waye, but that it must be p<ex>ro</ex>posed vnto vs by one whose authoritye <lb/>
+            wee could not doubte of / and that in soe plaine A Manner as the <lb/>
+            Simple might be capable of / As well as the Learned/ This <lb/>
+            worke was p<ex>er</ex>formed by our Saviour From whose Mouth all our <lb/>
+            Faithe is originallie derived / But the Succeeding Ages nott <lb/>
+            being able to receive it from thence / it was necessarye it should <lb/>
+            <fw type="catch" place="bot-right">bee</fw>
+            <pb n="100r" facs="/bl/add_ms_22591/add_ms_22591_f100r/add_ms_22591_f100r.jpg"/>
+            bee conveyed vnto them that lived in by those that did receive it From <lb/>
+            Christs owne Mouthe/ and soe from Age to Age/ to end of the worlde <lb/>
+            And in w<ex>ha</ex>t Age soever the thrid of doctrine should be broken it might  <lb/>
+            be Acknowledged for the reasons above mentiond/ that the light <ex>tha</ex>t <lb/>
+            should Conveye Mankinde through the darke passages of this world <lb/>
+            was Extinguished/ and it selfe w<ex>i</ex>thout A guide to Infallable ruine <lb/>
+            w<ex>hi</ex>ch cannott stand w<ex>i</ex>th Gods Providence / and goodnes w<ex>hi</ex>ch St Augustine <lb/>
+            affirmeth in his opynion directlye in his Booke <hi rend="italic">
+                    <foreign xml:lang="la">de utilitate Cre=<lb break="no"/>
+            dendi</foreign>
+                </hi> Cap: 16 : Saying if devine Providence doth Presede our humaine <lb/>
+            affayes / it is not to be doubted but that there is some authoritye Con=<lb break="no"/>
+            stituted by the same God vpon w<ex>hi</ex>ch goeing as vpon Certaine Steps <lb/>
+            wee are carryed vpp to God/ nor can it be sayde that he meante <lb/>
+            the Scriptures onelye by theis Stepps, Since experience sheweth <lb/>
+            that the alteration about the right Sence of the Severall most impor=<lb break="no"/>
+            tant Causes of it; That what there is Conceived there cannott bee <lb/>
+            A Competent rule for Mankinde, w<ex>hi</ex>ch Consisteth more of <ex>th</ex>e simple <lb/>
+            then learned men / And besydes the Scriptures must be supposed <lb/>
+            to haue bine kept safe in some handes whose authoritie must begett <lb/>
+            acceptau<ex>n</ex>ce of itt, w<ex>hi</ex>ch being noe other then the Church in all Ages wee <lb/>
+            haue noe more reason to beleeve that it hath pr<ex>r</ex>served <ex>th</ex>e Scriptures <lb/>
+            free from Corrupc<ex>i</ex>on then that it hath mayneteyned it Selfe w<ex>i</ex>th <lb/>
+            A Continuall visibiletie, w<ex>hi</ex>ch St Augustine Concludeth to be A <lb/>
+            Certaine Marke of the True Church in theis wordes in his Booke <lb/>
+            <foreign xml:lang="la">Contra Petil<ex>iani</ex>
+                </foreign> Cap:140: The true Church hath this Certane signe <lb/>
+            that it cannott be hidd / therefore it must be knowne to all Nations, <lb/>
+            but that Parte of the donatists is vnknowne vnto manye / there=<lb break="no"/>
+            fore it cannott be true/ Noe Inference can be Stronger then fro<ex>m</ex> <lb/>
+            thence that the Concealem<ex>en</ex>t of A Church disproveth the truth of it, <lb/>
+            Lastlie not to Insist vpo<ex>n</ex> theire Allegation of the sence of all <lb/>
+            the Fathers of the Church in everye Severall Age/ w<ex>hi</ex>ch seemed to me <lb/>
+            most Cleere that w<ex>hi</ex>ch in this Case weighed much w<ex>i</ex>th mee, was the <lb/>
+            Confession / and Testemonye of the Approved doctors themselues <lb/>
+            of the Protestant Church / as in Hoker, in his First Booke of Eccle<lb break="no"/>
+            siasticall Pollicye Page 126: God allwayes had and must haue some <lb/>
+            visible Church vpon Earthe / doct<ex>or</ex> Feild 1: of Ecclesiasticall Polecye <lb/>
+            Cap:10: It cannot be but that those that are the true Church must <lb/>
+            be knowne by the Profession of Truthe / And Further the same doc<ex>tor</ex> <lb/>
+            Saithe how should the Church be in the World / and noe Boddye <lb/>
+            professe openlye that saveing Truth of God / And doct<ex>or</ex> white <lb/>
+            in his defence of the waye Cap:44: Pag: 79: The Providence of <lb/>
+            God hath lefte Monuments, and Storyes For the Confirmatio<ex>n</ex> of <lb/>
+            our Faithe / And I Confesse truelye that our Religion is False <lb/>
+            if A Continuall descent of it Cannot be demonstrated by those <lb/>
+            Monuments downe From Christs Tyme / this appeared to mee <lb/>
+            A direct Submission of themselves to Produce the Apparant <lb/>
+            testimonyes of the Publique Profession of theire Faithe as the <lb/>
+            Catholiques demaunded But this I could never reade or knowe <lb/>
+            of anye that had performed itt For docter White himselfe for <lb/>
+            wante of Proofe of this is Faine to saye in another place in his <lb/>
+            waye to the Churche pa:5: The doctors of our Church haue had <lb/>
+            A Contynued Successeon thoughe not visible to the World. Soe as he <lb/>
+            flyeth from his vndertaking of A Conspicuous demonstrac<ex>i</ex>on of <ex>th</ex>e monum<ex>en</ex>t<ex>es</ex> <lb/>
+            of his Faithe, to an Invisible Subterfuge of releife w<ex>i</ex>thout Apperance <lb/>
+            for he saithe in the same booke in another place Pag. 84: all <ex>th</ex>e Exte<ex>r</ex>nall <lb/>
+            governem<ex>en</ex>t of the Church maye Faile / Soe a locall/ and personall <lb/>
+            <fw type="catch" place="bot-right">su<ex>c</ex>cession</fw>
+            <pb n="100v" facs="/bl/add_ms_22591/add_ms_22591_f100v/add_ms_22591_f100v.jpg"/>
+            Succession of Po<del rend="strikethrough">
+                    <gap reason="illegible" quantity="3" unit="chars"/>
+                </del>stors maye be Interrupted, And Pag 403: wee doe <lb/>
+            not Contest for an externall Succession. It sufficeth that they succeeded <lb/>
+            in the doctrine of the Apostells / and the Faithffull / w<ex>hi</ex>ch in all ages did  <lb/>
+            Embrace the same Faithe / Soe as heere he renounceth absolutely all <lb/>
+            Externall proofe of Succession w<ex>hi</ex>ch before hee consented to be Iudged <lb/>
+            by / I Cannott saye I haue Verbatim Cited theis authors / because I haue <lb/>
+            translated theis Places / though the Originall bee in English I am sure <lb/>
+            the sence is noe wayes Iniured / And I haue chosen to alledge doct<ex>or</ex> <lb/>
+            Whits Authoretyes because hee is an Orthodox Professor of <ex>th</ex>e P<ex>ro</ex>testa<ex>n</ex>t <lb/>
+            Churche The reflection vpon the Estate of this question wherein I <lb/>
+            haue Found the Protestants defend themselves onelye by Flying out <lb/>
+            of Sight By Confessing A longe visibillitye in their Church / the Ap=<lb break="no"/>
+            pearance of Pastors / and doctors left mee much loosened from the <lb/>
+            fastnes of my Professed Religion / but had not yett transposed me in <lb/>
+            to the Catholique Churche / For I had an opynion that <ex>th</ex>e devines might <lb/>
+            yett fill vpp this vacuitie w<ex>i</ex>th some more substantiall Matter then I <lb/>
+            could meete w<ex>i</ex>th / Soe I came backe into England w<ex>i</ex>th A Purpose of <lb/>
+            Seeking nothinge more Intentivelye / as this Satisfacc<ex>i</ex>on / and this <lb/>
+            p<ex>u</ex>rpose I did Covertlye vnder anothers name send this my Scruple <lb/>
+            to one in whose learning / and Sufficiencye I had most Affyance in <lb/>
+            theis Termes whether there was noe Visible Succession in <ex>th</ex>e p<ex>ro</ex>testa<ex>n</ex>t <lb/>
+            Church since the Apostles Tyme downe to Luther / And what was to <lb/>
+            be au<ex>n</ex>swered to that Obiection / besydes the Confession of a Latencye &amp; <lb/>
+            Invisibletie for soe manye Ages / to this I could gett noe au<ex>n</ex>swere, but <lb/>
+            that this Pointe had bine largelie and learnedlye handled by doctor <lb/>
+            White and manye others of our Church / vppon this I resolved to En=<lb break="no"/>
+            forme my Selfe in some other Points w<ex>hi</ex>ch seemed to be vnwarrantable <lb/>
+            and sup<ex>er</ex>stitious in the Ceremonyes of the Romaine Church Since I had <lb/>
+            such an Inducement as soe little Satisfaction in A pointe that seemed to <lb/>
+            mee soe Essentiall / and in all theis Scruples I found myne owne mistakes <lb/>
+            in the behalfe of the tenent<ex>es</ex> of the Catholique Church gaue mee <ex>th</ex>e only <lb/>
+            occasion of Scandall / and not the practise of their doctrine / and to co<ex>n</ex>firme <lb/>
+            mee in that satisfacc<ex>i</ex>on I found the practise and authoritie of most of <ex>th</ex>e <lb/>
+            au<ex>n</ex>tient Fathers / and in the Protestants refutacions of their doctrines <lb/>
+            theire refutac<ex>i</ex>ons of theire Authorities / as men that might erre Since <lb/>
+            that the question seemed then to mee / whether I would rather hazard <lb/>
+            the Erring w<ex>i</ex>th them / then w<ex>i</ex>th the Latter reformers w<ex>hi</ex>ch Consequentlye <lb/>
+            might erre allsoe in their dissenting from them / I will not vndertake <lb/>
+            to disipate the severall tenent<ex>es</ex> Controducted / Nor doubt that yo<ex>u</ex>r Lo<ex>rdshi</ex>pp <lb/>
+            will suspect that I omitted my Satisfaction in anye of them / since my <lb/>
+            resolucion of reconciling my Selfe to the Romaine Church / is not lyable <lb/>
+            to any suspicion of too Forwards or precipitate A resignation of <lb/>
+            my Selfe / My Iudgment maye be censured of Seducement / my affecci<ex>on</ex> <lb/>
+            cannot bee or Corrupc<ex>i</ex>on / vppon theis occasions I did soone after my <lb/>
+            retourne into England reconsyle my selfe to the Romaine Catholicke <lb/>
+            Churche by her externall workes / and her Internall obiect Faithe <lb/>
+            soe dexteriouslye as yf my Fortune had read it vnto mee / Nor doe <lb/>
+            I nowe professe it to be soe da<ex>u</ex>ngerous / but it maye recover, For I <lb/>
+            knowe the kings wisedome is rightlye enfformed that the Catholique <lb/>
+            Faithe doth not tend to the Alienation of the heart of A Subiect, it <lb/>
+            rather sup<ex>er</ex> infuseth obedience / and reverence to Monarchie / &amp; streng<lb break="no"/>
+            theneth and straightneth the bonds to our obedience to our naturall <lb/>
+            Prince / and his grate and goodnes shall never finde any oth<ex>e</ex>r occasion <lb/>
+            or diversion of them fro<ex>m</ex> the Naturall / and vsuall exercise of the<ex>m</ex>selves <lb/>
+            vpon those that haue had the honor to haue bine bredd w<ex>i</ex>th App<ex>ro</ex>batio<ex>n</ex> <lb/>
+            of Fidelitye in his Service / Nor cann I Feare that yo<ex>u</ex>r Lo<ex>rdshi</ex>pp should <lb/>
+            <fw type="catch" place="bot-right">appr<ex>e</ex>hend</fw>
+            <pb n="101r" facs="/bl/add_ms_22591/add_ms_22591_f101r/add_ms_22591_f101r.jpg"/>
+            appr<ex>e</ex>hend anye Change in my duetie, even yo<ex>u</ex>r displeasure w<ex>hi</ex>ch <lb/>
+            maye apprehend vpon this misinterpreted occasion shall never giue <lb/>
+            anye of the least recession from my duetie / In w<ex>hi</ex>ch Profession I <lb/>
+            humblye aske yo<ex>u</ex>r Blessinge
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">
+               yo<ex>u</ex>r lo<ex>rdshi</ex>ps most obedient <lb/>
+               sonne
+            </hi>
+         </p>
+         <p rend="indent">
+            paris 21: nouemb: <lb/>
+            1635:
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">The Answere</hi>
+         </p>
+         <p>
+            maister Walter Mountague Cheifflye insists vppon <ex>tha</ex>t pointe <lb/>
+            where was our Church before Luther
+         </p>
+         <p>
+            A Sacke of Meale was brought From Mill and when it came <lb/>
+            into the backehouse some Few Pecks were taken out and boulted, <lb/>
+            and soe the Flower Sep<ex>ar</ex>ated From the Brane / till nowe more Tell <lb/>
+            mee nowe where was the Flower whilst the grist was coming from <lb/>
+            the Mill / will you not saye it was in the Sacke / but you will saye itt <lb/>
+            was not then boulted / tis True and thats the verye pointe  / Our church <lb/>
+            is nothing els but A parte of the Romaine Church / or rather of Wes=<lb break="no"/>
+            terne Churche / boulted in this last age / and the Fine Flower <ex>tha</ex>t was <lb/>
+            there sep<ex>ar</ex>ated From the branne of Superstion and other Popishe  <lb/>
+            Ceremonies tell mee nowe where was our Church before Luther
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f099r/add_ms_22591_f099r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f099v/add_ms_22591_f099v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f100r/add_ms_22591_f100r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f100v/add_ms_22591_f100v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f101r/add_ms_22591_f101r.jpg"/>
+   </facsimile>
+</TEI>

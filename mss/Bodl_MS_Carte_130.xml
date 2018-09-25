@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bodleian Library MS Carte 130</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Bodl_MS_Carte_130">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>Bodleian Library</repository>
+               <collection/>
+               <idno>MS Carte 130</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>52r-53</locus>
+                  <title>Letter to the Earl of Essex</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0099">Barghley</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0100">William Kerr, 3rd Earl of Lothian</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0059">Lord George Forester</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0091">John Elphinstone, 2nd Lord Balmerino</persName>             
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0056">James Graham, 5th Earl of Montrose</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0056">John Leslie, 6th Earl of Rothes</persName>
+            </author>
+                        <author>
+               <persName>William Crichton?, 1st Earl of Dumfries and Viscount Ayr</persName>
+            </author>
+                        <author>
+               <persName>David Wemyss, Lord Elcho (2nd Earl of Wemyss)</persName>
+            </author>
+                        <author>
+               <persName>Aynsey</persName>
+            </author>
+                        <author>
+               <persName>William Ramsay, 1st Earl of Dalhousie</persName>
+            </author>
+                        <author>
+               <persName>John Sinclair, 9th Lord Sinclair</persName>
+            </author>
+                        <author>
+               <persName>John Lindsay, 1st Earl of Lindsay</persName>
+            </author>
+                        <author>
+               <persName>Archibald Campbell, 1st Marquess of Argyll</persName>
+            </author>
+                        <author>
+               <persName>John Wemyss, 1st Earl of Wemyss</persName>
+            </author>
+                        <author>
+               <persName>John Kennedy, 6th Earl of Cassilis</persName>
+            </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CovenantersLetterEssex1639.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

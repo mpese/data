@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Folger Shakespeare Library MS V.b.50</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="Folger_MS_V_b_50">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.b.50</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>pp135-143</locus>
+                  <title>Letter to King James regarding Sir Edward Coke</title>
+                        <author>
+               Privy Council
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PrivyCouncilLetterRegardingCoke1616.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>pp143-147</locus>
+                  <title>Submission</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0146">Sir Edward Coke</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CokeSubmission1616.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>pp177-187</locus>
+                  <title>Before the Lords, For Refusing to Pay the Forced Loan</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0147">William Coryton</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CorytonBeforeLords1627.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>pp205-207</locus>
+                  <title>A Speech to the King Concerning Toleration of Popery, Attributed to Archbishop Abbot</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0204">Pseudo-Abbot</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PseudoAbbot1623v1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>pp207-208</locus>
+                  <title>Letters Concerning Recusants</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0021">Lord Keeper Williams, Bishop of Lincoln</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/JamesWilliamsLettersRecusants1622.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>pp227-228</locus>
+                  <title>Ordinary Annual Receipts in the Exchequer</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OrdinaryAnnualRecieptsExchequer.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>pp229-230</locus>
+                  <title>Ordinary Annual Issues in the Exchequer</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/OrdinaryAnnualIssuesExchequer.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>pp301-322</locus>
+                  <title>Considerations upon the Treaty of Marriage between England and Spain</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv1.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>pp357-374</locus>
+                  <title>Politeia of the United Provinces</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PoliteiaUnitedProvinces.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>pp387-446</locus>
+                  <title>The Privilege of Parliaments</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/StarkeyPrivilegeParliaments.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="11">
+                  <locus>pp451-476</locus>
+                  <title>The Canvas of Cambridge</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CanvasCambridge1626.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="12">
+                  <locus>pp476-481</locus>
+                  <title>Letters to the Heads of Cambridge Colleges</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0009">George Villiers, 1st Duke of Buckingham</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0008">Thomas Howard, 1st Earl of Berkshire</persName>
+            </author>
+                        <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesBuckinghamBerkshireLettersCambridge1626.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="13">
+                  <locus>pp519-540</locus>
+                  <title>Arraignment of Mervin, Lord Audley, Earl of Castlehaven</title>
+                        <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/ArraignmentCastlehaven1631.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="14">
+                  <locus>pp541-543</locus>
+                  <title>Speech on the Scaffold</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0221">Mervyn Tuchet, 2nd Earl of Castlehaven</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CastlehavenSpeechScaffold.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="15">
+                  <locus>pp543-547</locus>
+                  <title>Confession of Faith</title>
+                        <author>
+               <persName corresp="../people/people.xml#P0221">Mervyn Tuchet, 2nd Earl of Castlehaven</persName>
+            </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name>
+                        <persName corresp="../people/people.xml#P0108">Feathery</persName>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CastlehavenConfessionFaith.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

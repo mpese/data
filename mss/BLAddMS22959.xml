@@ -1,0 +1,590 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Add MS 22959</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>16r-18r</locus>
+                   <title when="1628">The Danger Wherein the Kingdom Now Standeth and the Remedy</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonDanger1626v1.xml" type="t_witness"/>
+                   <link target="../texts/CottonDanger1626v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>25v</locus>
+                   <title when="1628-08-23">Statement on the assassination of the Duke of Buckingham</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0002">John Felton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/FeltonStatement1628v1.xml" type="t_witness"/>
+                   <link target="../texts/FeltonStatement1628v2.xml" type="witness"/>
+                   <link target="../texts/FeltonStatement1628v3.xml" type="witness"/>
+                   <msDesc>
+                    <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1628-09-02">
+                            Diary entry dated 2 September 1628.
+                         </origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>32v</locus>
+                   <title when="1629">Prognostication of the Emperor’s Principal Astrologers</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/Prognostication1629v1.xml" type="t_witness"/>
+                   <link target="../texts/Prognostication1629v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1629-04">
+                            Received April 1629.
+                         </origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>33v-34r</locus>
+                   <title notAfter="1629">Copy of a Letter from the Devil to the Pope</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0003">The Devil</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DevilLetterPope1629.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1629"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>36v-37r</locus>
+                   <title when="1629" notAfter="1629-10-06">Sermon on News</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0105">Thomas Lushington</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LushingtonsSermons1629v2.xml" type="t_witness"/>
+                   <link target="../texts/LushingtonsSermons1629v1.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1629-10-06"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>38r-38v</locus>
+                   <title when="1630-02">Petition to Charles I for his Son</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0010">Henry Cary, Viscount Falkland</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CaryPetitionSon1630v1.xml" type="t_witness"/>
+                   <link target="../texts/CaryPetitionSon1630v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1630-02"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>40r-40v</locus>
+                   <title when="1629">Instructions Concerning Lecturers and Ministers</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CharlesInstructionsLecturers1629v1.xml" type="t_witness"/>
+                   <link target="../texts/CharlesInstructionsLecturers1629v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1640-04">Articles as received in <placeName corresp="../places/places.xml#PL0023">Swaffham, Norfolk</placeName>
+                                </origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>58v-60r</locus>
+                   <title when="1638-04-14">Argument Concerning Ship Money</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0004">George Croke</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CrokeShipMoney1638.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1638-04-14"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>63r-64r</locus>
+                   <title when="1640-07-28">Petition to the King Presented at the Assizes of York</title>
+                   <author>Gentry of Yorkshire</author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/YorkshirePetition1640v1.xml" type="t_witness"/>
+                   <link target="../texts/YorkshirePetition1640v2.xml" type="witness"/>
+                   <link target="../texts/YorkshirePetition1640v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-07-28"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="10">
+                   <locus>64r-64v</locus>
+                   <title when="1640-07-11">Petition to the King</title>
+                   <author>Grand Jury of Berkshire</author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/BerkshirePetition1640v1.xml" type="t_witness"/>
+                   <link target="../texts/BerkshirePetition1640v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640-07-11"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="11">
+                   <locus>65r-66r</locus>
+                   <title when="1640">Lords' Petition</title>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0061">Francis Russell, 4th Earl of Bedford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0062">William Seymour, 2nd Earl of Hartford</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0063">Robert Devereux, 3rd Earl of Essex</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0064">Edmund Sheffield, 1st Earl of Mulgrave</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0065">Robert Rich, 2nd Earl of Warwick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0066">Oliver St John, 1st Earl of Bolingbroke</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0051">William Fiennes, Viscount Say and Sele</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0067">Henry Montagu, Viscount Mandeville</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0050">Robert Greville, Second Baron Brooke of Beauchamps Court</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0068">Edward Howard, First Baron North of Escrick</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0069">George Manners, 7th Earl of Rutland</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0070">Theophilus Clinton, 4th Earl of Lincoln</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0071">David Cecil, 3rd Earl of Exeter</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0072">Dudley North, Third Baron North</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0073">Francis Willoughby, Fifth Baron Willoughby of Parham</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0074">Thomas Savile, Second Baron Savile of Pontefract</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0075">Philip Wharton, Fourth Baron Wharton</persName>
+                   </author>
+                   <author role="signatory">
+                      <persName corresp="../people/people.xml#P0076">John Lovelace, 2nd Baron Lovelace</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LordsPetition1640v2.xml" type="t_witness"/>
+                   <link target="../texts/LordsPetition1640v1.xml" type="witness"/>
+                   <link target="../texts/LordsPetition1640v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin when="1640-09-09"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="12">
+                   <locus>69v-70v</locus>
+                   <title when="1640">A Dialogue Between Two Zealots Concerning the &amp;c in the New Oath</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>John Rous</name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DialogueZealots1640.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1640"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p>
+                         <persName>
+                            John Rous
+                         </persName>
+                      </p>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin from="1625-05-27" to="1643-05">Manuscript diary of <persName>John Rous</persName>, Rector of Stanton Downham, Suffolk</origin>
+                <provenance>Purchased at "Mr. D. Turner's sale", 7 June 1859. Lot 253.</provenance>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f001ar/add_ms_22959_f001ar.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f001av/add_ms_22959_f001av.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22959/add_ms_22959_f001r/add_ms_22959_f001r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22959/add_ms_22959_f001v/add_ms_22959_f001v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22959/add_ms_22959_f002r/add_ms_22959_f002r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22959/add_ms_22959_f002v/add_ms_22959_f002v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22959/add_ms_22959_f003r/add_ms_22959_f003r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22959/add_ms_22959_f003v/add_ms_22959_f003v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_22959/add_ms_22959_f004r/add_ms_22959_f004r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22959/add_ms_22959_f004v/add_ms_22959_f004v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22959/add_ms_22959_f005r/add_ms_22959_f005r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22959/add_ms_22959_f005v/add_ms_22959_f005v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_22959/add_ms_22959_f006r/add_ms_22959_f006r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_22959/add_ms_22959_f006v/add_ms_22959_f006v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_22959/add_ms_22959_f007r/add_ms_22959_f007r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_22959/add_ms_22959_f007v/add_ms_22959_f007v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_22959/add_ms_22959_f008r/add_ms_22959_f008r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_22959/add_ms_22959_f008v/add_ms_22959_f008v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_22959/add_ms_22959_f009r/add_ms_22959_f009r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_22959/add_ms_22959_f009v/add_ms_22959_f009v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_22959/add_ms_22959_f010r/add_ms_22959_f010r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_22959/add_ms_22959_f010v/add_ms_22959_f010v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_22959/add_ms_22959_f011r/add_ms_22959_f011r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_22959/add_ms_22959_f011v/add_ms_22959_f011v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_22959/add_ms_22959_f012r/add_ms_22959_f012r.jpg"/>
+      <graphic n="26" url="/bl/add_ms_22959/add_ms_22959_f012v/add_ms_22959_f012v.jpg"/>
+      <graphic n="27" url="/bl/add_ms_22959/add_ms_22959_f013r/add_ms_22959_f013r.jpg"/>
+      <graphic n="28" url="/bl/add_ms_22959/add_ms_22959_f013v/add_ms_22959_f013v.jpg"/>
+      <graphic n="29" url="/bl/add_ms_22959/add_ms_22959_f014r/add_ms_22959_f014r.jpg"/>
+      <graphic n="30" url="/bl/add_ms_22959/add_ms_22959_f014v/add_ms_22959_f014v.jpg"/>
+      <graphic n="31" url="/bl/add_ms_22959/add_ms_22959_f015r/add_ms_22959_f015r.jpg"/>
+      <graphic n="32" url="/bl/add_ms_22959/add_ms_22959_f015v/add_ms_22959_f015v.jpg"/>
+      <graphic n="33" url="/bl/add_ms_22959/add_ms_22959_f016r/add_ms_22959_f016r.jpg"/>
+      <graphic n="34" url="/bl/add_ms_22959/add_ms_22959_f016v/add_ms_22959_f016v.jpg"/>
+      <graphic n="35" url="/bl/add_ms_22959/add_ms_22959_f017r/add_ms_22959_f017r.jpg"/>
+      <graphic n="36" url="/bl/add_ms_22959/add_ms_22959_f017v/add_ms_22959_f017v.jpg"/>
+      <graphic n="37" url="/bl/add_ms_22959/add_ms_22959_f018r/add_ms_22959_f018r.jpg"/>
+      <graphic n="38" url="/bl/add_ms_22959/add_ms_22959_f018v/add_ms_22959_f018v.jpg"/>
+      <graphic n="39" url="/bl/add_ms_22959/add_ms_22959_f019r/add_ms_22959_f019r.jpg"/>
+      <graphic n="40" url="/bl/add_ms_22959/add_ms_22959_f019v/add_ms_22959_f019v.jpg"/>
+      <graphic n="41" url="/bl/add_ms_22959/add_ms_22959_f020r/add_ms_22959_f020r.jpg"/>
+      <graphic n="42" url="/bl/add_ms_22959/add_ms_22959_f020v/add_ms_22959_f020v.jpg"/>
+      <graphic n="43" url="/bl/add_ms_22959/add_ms_22959_f021r/add_ms_22959_f021r.jpg"/>
+      <graphic n="44" url="/bl/add_ms_22959/add_ms_22959_f021v/add_ms_22959_f021v.jpg"/>
+      <graphic n="45" url="/bl/add_ms_22959/add_ms_22959_f022r/add_ms_22959_f022r.jpg"/>
+      <graphic n="46" url="/bl/add_ms_22959/add_ms_22959_f022v/add_ms_22959_f022v.jpg"/>
+      <graphic n="47" url="/bl/add_ms_22959/add_ms_22959_f023r/add_ms_22959_f023r.jpg"/>
+      <graphic n="48" url="/bl/add_ms_22959/add_ms_22959_f023v/add_ms_22959_f023v.jpg"/>
+      <graphic n="49" url="/bl/add_ms_22959/add_ms_22959_f024r/add_ms_22959_f024r.jpg"/>
+      <graphic n="50" url="/bl/add_ms_22959/add_ms_22959_f024v/add_ms_22959_f024v.jpg"/>
+      <graphic n="51" url="/bl/add_ms_22959/add_ms_22959_f025r/add_ms_22959_f025r.jpg"/>
+      <graphic n="52" url="/bl/add_ms_22959/add_ms_22959_f025v/add_ms_22959_f025v.jpg"/>
+      <graphic n="53" url="/bl/add_ms_22959/add_ms_22959_f026r/add_ms_22959_f026r.jpg"/>
+      <graphic n="54" url="/bl/add_ms_22959/add_ms_22959_f026v/add_ms_22959_f026v.jpg"/>
+      <graphic n="55" url="/bl/add_ms_22959/add_ms_22959_f027r/add_ms_22959_f027r.jpg"/>
+      <graphic n="56" url="/bl/add_ms_22959/add_ms_22959_f027v/add_ms_22959_f027v.jpg"/>
+      <graphic n="57" url="/bl/add_ms_22959/add_ms_22959_f028r/add_ms_22959_f028r.jpg"/>
+      <graphic n="58" url="/bl/add_ms_22959/add_ms_22959_f028v/add_ms_22959_f028v.jpg"/>
+      <graphic n="59" url="/bl/add_ms_22959/add_ms_22959_f029r/add_ms_22959_f029r.jpg"/>
+      <graphic n="60" url="/bl/add_ms_22959/add_ms_22959_f029v/add_ms_22959_f029v.jpg"/>
+      <graphic n="61" url="/bl/add_ms_22959/add_ms_22959_f030r/add_ms_22959_f030r.jpg"/>
+      <graphic n="62" url="/bl/add_ms_22959/add_ms_22959_f030v/add_ms_22959_f030v.jpg"/>
+      <graphic n="63" url="/bl/add_ms_22959/add_ms_22959_f031r/add_ms_22959_f031r.jpg"/>
+      <graphic n="64" url="/bl/add_ms_22959/add_ms_22959_f031v/add_ms_22959_f031v.jpg"/>
+      <graphic n="65" url="/bl/add_ms_22959/add_ms_22959_f032r/add_ms_22959_f032r.jpg"/>
+      <graphic n="66" url="/bl/add_ms_22959/add_ms_22959_f032v/add_ms_22959_f032v.jpg"/>
+      <graphic n="67" url="/bl/add_ms_22959/add_ms_22959_f033r/add_ms_22959_f033r.jpg"/>
+      <graphic n="68" url="/bl/add_ms_22959/add_ms_22959_f033v/add_ms_22959_f033v.jpg"/>
+      <graphic n="69" url="/bl/add_ms_22959/add_ms_22959_f034r/add_ms_22959_f034r.jpg"/>
+      <graphic n="70" url="/bl/add_ms_22959/add_ms_22959_f034v/add_ms_22959_f034v.jpg"/>
+      <graphic n="71" url="/bl/add_ms_22959/add_ms_22959_f035r/add_ms_22959_f035r.jpg"/>
+      <graphic n="72" url="/bl/add_ms_22959/add_ms_22959_f035v/add_ms_22959_f035v.jpg"/>
+      <graphic n="73" url="/bl/add_ms_22959/add_ms_22959_f036r/add_ms_22959_f036r.jpg"/>
+      <graphic n="74" url="/bl/add_ms_22959/add_ms_22959_f036v/add_ms_22959_f036v.jpg"/>
+      <graphic n="75" url="/bl/add_ms_22959/add_ms_22959_f037r/add_ms_22959_f037r.jpg"/>
+      <graphic n="76" url="/bl/add_ms_22959/add_ms_22959_f037v/add_ms_22959_f037v.jpg"/>
+      <graphic n="77" url="/bl/add_ms_22959/add_ms_22959_f038r/add_ms_22959_f038r.jpg"/>
+      <graphic n="78" url="/bl/add_ms_22959/add_ms_22959_f038v/add_ms_22959_f038v.jpg"/>
+      <graphic n="79" url="/bl/add_ms_22959/add_ms_22959_f039r/add_ms_22959_f039r.jpg"/>
+      <graphic n="80" url="/bl/add_ms_22959/add_ms_22959_f039v/add_ms_22959_f039v.jpg"/>
+      <graphic n="81" url="/bl/add_ms_22959/add_ms_22959_f040r/add_ms_22959_f040r.jpg"/>
+      <graphic n="82" url="/bl/add_ms_22959/add_ms_22959_f040v/add_ms_22959_f040v.jpg"/>
+      <graphic n="83" url="/bl/add_ms_22959/add_ms_22959_f041r/add_ms_22959_f041r.jpg"/>
+      <graphic n="84" url="/bl/add_ms_22959/add_ms_22959_f041v/add_ms_22959_f041v.jpg"/>
+      <graphic n="85" url="/bl/add_ms_22959/add_ms_22959_f042r/add_ms_22959_f042r.jpg"/>
+      <graphic n="86" url="/bl/add_ms_22959/add_ms_22959_f042v/add_ms_22959_f042v.jpg"/>
+      <graphic n="87" url="/bl/add_ms_22959/add_ms_22959_f043r/add_ms_22959_f043r.jpg"/>
+      <graphic n="88" url="/bl/add_ms_22959/add_ms_22959_f043v/add_ms_22959_f043v.jpg"/>
+      <graphic n="89" url="/bl/add_ms_22959/add_ms_22959_f044r/add_ms_22959_f044r.jpg"/>
+      <graphic n="90" url="/bl/add_ms_22959/add_ms_22959_f044v/add_ms_22959_f044v.jpg"/>
+      <graphic n="91" url="/bl/add_ms_22959/add_ms_22959_f045r/add_ms_22959_f045r.jpg"/>
+      <graphic n="92" url="/bl/add_ms_22959/add_ms_22959_f045v/add_ms_22959_f045v.jpg"/>
+      <graphic n="93" url="/bl/add_ms_22959/add_ms_22959_f046r/add_ms_22959_f046r.jpg"/>
+      <graphic n="94" url="/bl/add_ms_22959/add_ms_22959_f046v/add_ms_22959_f046v.jpg"/>
+      <graphic n="95" url="/bl/add_ms_22959/add_ms_22959_f047r/add_ms_22959_f047r.jpg"/>
+      <graphic n="96" url="/bl/add_ms_22959/add_ms_22959_f047v/add_ms_22959_f047v.jpg"/>
+      <graphic n="97" url="/bl/add_ms_22959/add_ms_22959_f048r/add_ms_22959_f048r.jpg"/>
+      <graphic n="98" url="/bl/add_ms_22959/add_ms_22959_f048v/add_ms_22959_f048v.jpg"/>
+      <graphic n="99" url="/bl/add_ms_22959/add_ms_22959_f049r/add_ms_22959_f049r.jpg"/>
+      <graphic n="100" url="/bl/add_ms_22959/add_ms_22959_f049v/add_ms_22959_f049v.jpg"/>
+      <graphic n="101" url="/bl/add_ms_22959/add_ms_22959_f050r/add_ms_22959_f050r.jpg"/>
+      <graphic n="102" url="/bl/add_ms_22959/add_ms_22959_f050v/add_ms_22959_f050v.jpg"/>
+      <graphic n="103" url="/bl/add_ms_22959/add_ms_22959_f051r/add_ms_22959_f051r.jpg"/>
+      <graphic n="104" url="/bl/add_ms_22959/add_ms_22959_f051v/add_ms_22959_f051v.jpg"/>
+      <graphic n="105" url="/bl/add_ms_22959/add_ms_22959_f052r/add_ms_22959_f052r.jpg"/>
+      <graphic n="106" url="/bl/add_ms_22959/add_ms_22959_f052v/add_ms_22959_f052v.jpg"/>
+      <graphic n="107" url="/bl/add_ms_22959/add_ms_22959_f053r/add_ms_22959_f053r.jpg"/>
+      <graphic n="108" url="/bl/add_ms_22959/add_ms_22959_f053v/add_ms_22959_f053v.jpg"/>
+      <graphic n="109" url="/bl/add_ms_22959/add_ms_22959_f054r/add_ms_22959_f054r.jpg"/>
+      <graphic n="110" url="/bl/add_ms_22959/add_ms_22959_f054v/add_ms_22959_f054v.jpg"/>
+      <graphic n="111" url="/bl/add_ms_22959/add_ms_22959_f055r/add_ms_22959_f055r.jpg"/>
+      <graphic n="112" url="/bl/add_ms_22959/add_ms_22959_f055v/add_ms_22959_f055v.jpg"/>
+      <graphic n="113" url="/bl/add_ms_22959/add_ms_22959_f056r/add_ms_22959_f056r.jpg"/>
+      <graphic n="114" url="/bl/add_ms_22959/add_ms_22959_f056v/add_ms_22959_f056v.jpg"/>
+      <graphic n="115" url="/bl/add_ms_22959/add_ms_22959_f057r/add_ms_22959_f057r.jpg"/>
+      <graphic n="116" url="/bl/add_ms_22959/add_ms_22959_f057v/add_ms_22959_f057v.jpg"/>
+      <graphic n="117" url="/bl/add_ms_22959/add_ms_22959_f058r/add_ms_22959_f058r.jpg"/>
+      <graphic n="118" url="/bl/add_ms_22959/add_ms_22959_f058v/add_ms_22959_f058v.jpg"/>
+      <graphic n="119" url="/bl/add_ms_22959/add_ms_22959_f059r/add_ms_22959_f059r.jpg"/>
+      <graphic n="120" url="/bl/add_ms_22959/add_ms_22959_f059v/add_ms_22959_f059v.jpg"/>
+      <graphic n="121" url="/bl/add_ms_22959/add_ms_22959_f060r/add_ms_22959_f060r.jpg"/>
+      <graphic n="122" url="/bl/add_ms_22959/add_ms_22959_f060v/add_ms_22959_f060v.jpg"/>
+      <graphic n="123" url="/bl/add_ms_22959/add_ms_22959_f061r/add_ms_22959_f061r.jpg"/>
+      <graphic n="124" url="/bl/add_ms_22959/add_ms_22959_f061v/add_ms_22959_f061v.jpg"/>
+      <graphic n="125" url="/bl/add_ms_22959/add_ms_22959_f062r/add_ms_22959_f062r.jpg"/>
+      <graphic n="126" url="/bl/add_ms_22959/add_ms_22959_f062v/add_ms_22959_f062v.jpg"/>
+      <graphic n="127" url="/bl/add_ms_22959/add_ms_22959_f063r/add_ms_22959_f063r.jpg"/>
+      <graphic n="128" url="/bl/add_ms_22959/add_ms_22959_f063v/add_ms_22959_f063v.jpg"/>
+      <graphic n="129" url="/bl/add_ms_22959/add_ms_22959_f064r/add_ms_22959_f064r.jpg"/>
+      <graphic n="130" url="/bl/add_ms_22959/add_ms_22959_f064v/add_ms_22959_f064v.jpg"/>
+      <graphic n="131" url="/bl/add_ms_22959/add_ms_22959_f065r/add_ms_22959_f065r.jpg"/>
+      <graphic n="132" url="/bl/add_ms_22959/add_ms_22959_f065v/add_ms_22959_f065v.jpg"/>
+      <graphic n="133" url="/bl/add_ms_22959/add_ms_22959_f066r/add_ms_22959_f066r.jpg"/>
+      <graphic n="134" url="/bl/add_ms_22959/add_ms_22959_f066v/add_ms_22959_f066v.jpg"/>
+      <graphic n="135" url="/bl/add_ms_22959/add_ms_22959_f067r/add_ms_22959_f067r.jpg"/>
+      <graphic n="136" url="/bl/add_ms_22959/add_ms_22959_f067v/add_ms_22959_f067v.jpg"/>
+      <graphic n="137" url="/bl/add_ms_22959/add_ms_22959_f068r/add_ms_22959_f068r.jpg"/>
+      <graphic n="138" url="/bl/add_ms_22959/add_ms_22959_f068v/add_ms_22959_f068v.jpg"/>
+      <graphic n="139" url="/bl/add_ms_22959/add_ms_22959_f069r/add_ms_22959_f069r.jpg"/>
+      <graphic n="140" url="/bl/add_ms_22959/add_ms_22959_f069v/add_ms_22959_f069v.jpg"/>
+      <graphic n="141" url="/bl/add_ms_22959/add_ms_22959_f070r/add_ms_22959_f070r.jpg"/>
+      <graphic n="142" url="/bl/add_ms_22959/add_ms_22959_f070v/add_ms_22959_f070v.jpg"/>
+      <graphic n="143" url="/bl/add_ms_22959/add_ms_22959_f071r/add_ms_22959_f071r.jpg"/>
+      <graphic n="144" url="/bl/add_ms_22959/add_ms_22959_f071v/add_ms_22959_f071v.jpg"/>
+      <graphic n="145" url="/bl/add_ms_22959/add_ms_22959_f072r/add_ms_22959_f072r.jpg"/>
+      <graphic n="146" url="/bl/add_ms_22959/add_ms_22959_f072v/add_ms_22959_f072v.jpg"/>
+      <graphic n="147" url="/bl/add_ms_22959/add_ms_22959_f073r/add_ms_22959_f073r.jpg"/>
+      <graphic n="148" url="/bl/add_ms_22959/add_ms_22959_f073v/add_ms_22959_f073v.jpg"/>
+      <graphic n="149" url="/bl/add_ms_22959/add_ms_22959_f074r/add_ms_22959_f074r.jpg"/>
+      <graphic n="150" url="/bl/add_ms_22959/add_ms_22959_f074v/add_ms_22959_f074v.jpg"/>
+      <graphic n="151" url="/bl/add_ms_22959/add_ms_22959_f075r/add_ms_22959_f075r.jpg"/>
+      <graphic n="152" url="/bl/add_ms_22959/add_ms_22959_f075v/add_ms_22959_f075v.jpg"/>
+      <graphic n="153" url="/bl/add_ms_22959/add_ms_22959_f076r/add_ms_22959_f076r.jpg"/>
+      <graphic n="154" url="/bl/add_ms_22959/add_ms_22959_f076v/add_ms_22959_f076v.jpg"/>
+      <graphic n="155" url="/bl/add_ms_22959/add_ms_22959_f077r/add_ms_22959_f077r.jpg"/>
+      <graphic n="156" url="/bl/add_ms_22959/add_ms_22959_f077v/add_ms_22959_f077v.jpg"/>
+      <graphic n="157" url="/bl/add_ms_22959/add_ms_22959_f078r/add_ms_22959_f078r.jpg"/>
+      <graphic n="158" url="/bl/add_ms_22959/add_ms_22959_f078v/add_ms_22959_f078v.jpg"/>
+      <graphic n="159" url="/bl/add_ms_22959/add_ms_22959_f079r/add_ms_22959_f079r.jpg"/>
+      <graphic n="160" url="/bl/add_ms_22959/add_ms_22959_f079v/add_ms_22959_f079v.jpg"/>
+      <graphic n="161" url="/bl/add_ms_22959/add_ms_22959_f080r/add_ms_22959_f080r.jpg"/>
+      <graphic n="162" url="/bl/add_ms_22959/add_ms_22959_f080v/add_ms_22959_f080v.jpg"/>
+      <graphic n="163" url="/bl/add_ms_22959/add_ms_22959_f081r/add_ms_22959_f081r.jpg"/>
+      <graphic n="164" url="/bl/add_ms_22959/add_ms_22959_f081v/add_ms_22959_f081v.jpg"/>
+      <graphic n="165" url="/bl/add_ms_22959/add_ms_22959_f082r/add_ms_22959_f082r.jpg"/>
+      <graphic n="166" url="/bl/add_ms_22959/add_ms_22959_f082v/add_ms_22959_f082v.jpg"/>
+      <graphic n="167" url="/bl/add_ms_22959/add_ms_22959_f083r/add_ms_22959_f083r.jpg"/>
+      <graphic n="168" url="/bl/add_ms_22959/add_ms_22959_f083v/add_ms_22959_f083v.jpg"/>
+      <graphic n="169" url="/bl/add_ms_22959/add_ms_22959_f084r/add_ms_22959_f084r.jpg"/>
+      <graphic n="170" url="/bl/add_ms_22959/add_ms_22959_f084v/add_ms_22959_f084v.jpg"/>
+      <graphic n="171" url="/bl/add_ms_22959/add_ms_22959_f085r/add_ms_22959_f085r.jpg"/>
+      <graphic n="172" url="/bl/add_ms_22959/add_ms_22959_f085v/add_ms_22959_f085v.jpg"/>
+      <graphic n="173" url="/bl/add_ms_22959/add_ms_22959_f086r/add_ms_22959_f086r.jpg"/>
+      <graphic n="174" url="/bl/add_ms_22959/add_ms_22959_f086v/add_ms_22959_f086v.jpg"/>
+      <graphic n="175" url="/bl/add_ms_22959/add_ms_22959_f087r/add_ms_22959_f087r.jpg"/>
+      <graphic n="176" url="/bl/add_ms_22959/add_ms_22959_f087v/add_ms_22959_f087v.jpg"/>
+      <graphic n="177" url="/bl/add_ms_22959/add_ms_22959_f088r/add_ms_22959_f088r.jpg"/>
+      <graphic n="178" url="/bl/add_ms_22959/add_ms_22959_f088v/add_ms_22959_f088v.jpg"/>
+      <graphic n="179" url="/bl/add_ms_22959/add_ms_22959_f089r/add_ms_22959_f089r.jpg"/>
+      <graphic n="180" url="/bl/add_ms_22959/add_ms_22959_f089v/add_ms_22959_f089v.jpg"/>
+      <graphic n="181" url="/bl/add_ms_22959/add_ms_22959_fblefr/add_ms_22959_fblefr.jpg"/>
+      <graphic n="182" url="/bl/add_ms_22959/add_ms_22959_fblefv/add_ms_22959_fblefv.jpg"/>
+      <graphic n="183" url="/bl/add_ms_22959/add_ms_22959_fbrigr/add_ms_22959_fbrigr.jpg"/>
+      <graphic n="184" url="/bl/add_ms_22959/add_ms_22959_fbrigv/add_ms_22959_fbrigv.jpg"/>
+      <graphic n="185" url="/bl/add_ms_22959/add_ms_22959_fbspi/add_ms_22959_fbspi.jpg"/>
+      <graphic n="186" url="/bl/add_ms_22959/add_ms_22959_fs001r/add_ms_22959_fs001r.jpg"/>
+      <graphic n="187" url="/bl/add_ms_22959/add_ms_22959_fs001v/add_ms_22959_fs001v.jpg"/>
+      <graphic n="188" url="/bl/add_ms_22959/add_ms_22959_fs002r/add_ms_22959_fs002r.jpg"/>
+      <graphic n="189" url="/bl/add_ms_22959/add_ms_22959_fs002v/add_ms_22959_fs002v.jpg"/>
+      <graphic n="190" url="/bl/add_ms_22959/add_ms_22959_fs003r/add_ms_22959_fs003r.jpg"/>
+      <graphic n="191" url="/bl/add_ms_22959/add_ms_22959_fs003v/add_ms_22959_fs003v.jpg"/>
+      <graphic n="192" url="/bl/add_ms_22959/add_ms_22959_fse001r/add_ms_22959_fse001r.jpg"/>
+      <graphic n="193" url="/bl/add_ms_22959/add_ms_22959_fse001v/add_ms_22959_fse001v.jpg"/>
+      <graphic n="194" url="/bl/add_ms_22959/add_ms_22959_fse002r/add_ms_22959_fse002r.jpg"/>
+      <graphic n="195" url="/bl/add_ms_22959/add_ms_22959_fse002v/add_ms_22959_fse002v.jpg"/>
+      <graphic n="196" url="/bl/add_ms_22959/add_ms_22959_fse003r/add_ms_22959_fse003r.jpg"/>
+      <graphic n="197" url="/bl/add_ms_22959/add_ms_22959_fse003v/add_ms_22959_fse003v.jpg"/>
+      <graphic n="198" url="/bl/add_ms_22959/add_ms_22959_fse004r/add_ms_22959_fse004r.jpg"/>
+      <graphic n="199" url="/bl/add_ms_22959/add_ms_22959_fse004v/add_ms_22959_fse004v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advices and Motives for Soliciting Catholics</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="HB">
+               <name>Howard Barlow</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_181">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 181</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_5108">
+                    <country>United Kingdom</country>
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Harley</collection>
+                    <idno>MS 5108</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="John_Rylands_Eng_MS_737">
+                    <country>United Kingdom</country>
+                    <settlement>Manchester</settlement>
+                    <repository>John Rylands Library</repository>
+                    <collection>Eng</collection>
+                    <idno>MS 737</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/All_Souls_College_MS_181.xml">All Souls College,  MS 181, ff. 201r–209v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS5108.xml">British Library, Harley MS 5108, ff. 131r–136v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 478r–482r</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="820" to="822">820-822</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Nalson</surname>
+                     </persName>
+                  </author>
+                  <title>Impartiall Collection of the Great Affairs of State</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1682" from="1682" to="1683">1682-1683</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="741" to="744">741-744</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1639-04-04">4 April 1639</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>advice</term>
+               <term>instructions</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholics</term>
+               <term>state finance</term>
+               <term>revenue</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-01-23" who="#RB" status="draft"/>
+            <change when="2018-01" who="#HB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="31r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f031r/harley_ms_4931_f031r.jpg"/>
+         <head rend="indent">
+            <add place="LM">
+               <hi rend="underline">
+                  Anno <add place="above">1638 et</add> 1639
+               </hi>
+            </add>
+            Advices, and Motiues for the Noblemen, Knights, <lb/>
+            and Gentlemen, that shall imploy <ex>the</ex>mselues in <ex>th</ex>e Country <lb/>
+            in sollicitting Catholiques for a Contribution to his <lb/>
+            Ma<ex>jes</ex>ty, upon occasion of his pr<ex>ese</ex>nt Northern Iorney.
+         </head>
+         <p>
+            <add place="LM">1</add>It is fitt yo<ex>u</ex> repr<ex>e</ex>sent to <ex>th</ex>os we treate w<ex>i</ex>th, the extraordinary graces, &amp; <lb/>
+            protections wee owe to the Queenes Ma<ex>jes</ex>ty, And <ex>tha</ex>t to her favourable inter-<lb break="no"/>
+            cessions meeting w<ex>i</ex>th the Kings Clemency, we must ascribe the happy modera-<lb break="no"/>
+            tion we liue in under him. Thereby to make <ex>the</ex>m apprehend How fitt, or rather <lb/>
+            How iust, and necessary a duty it is in us to lay hold on the first occasion, <lb/>
+            thereby to express o<ex>u</ex>r bounden gratitude to both their Ma<ex>jes</ex>tyes.
+         </p>
+         <p>
+            <add place="LM">2</add>Then yo<ex>u</ex> may bring into y<ex>ou</ex>r considerac<ex>i</ex>on how much is importeth <ex>th</ex>e Kings ser-<lb break="no"/>
+            vice to be assisted w<ex>i</ex>th extraordinary contribuc<ex>i</ex>ons of Moneyes upon this extraor-<lb break="no"/>
+            dinary, &amp; chargable occasion of going into <ex>th</ex>e Northerne parts w<ex>i</ex>th an Army. <lb/>
+            And <ex>tha</ex>t accordingly all well-affected Persons doe so, as is euident by <ex>th</ex>e contributions <lb/>
+            of many particular Persons. Besides <ex>th</ex>os of <ex>th</ex>e body of <ex>th</ex>e Lawyers, of <ex>th</ex>e Iudges, of <lb/>
+            the City, and severall other parts.
+         </p>
+         <p>
+            <add place="LM">3</add>You may tell <ex>tha</ex>t besides the g<ex>e</ex>n<ex>e</ex>rall Motiues <ex>tha</ex>t p<ex>er</ex>swade every well-affected p<ex>er</ex>son to <lb/>
+            giue liberally upon this occasion, Catholiques haue other p<ex>ar</ex>ticular pressing ones, as <lb/>
+            Their owne private Interest, And likewise the Queenes earnest reco<ex>m</ex>mendac<ex>i</ex>on <lb/>
+            of this action in general to all Catholiques throughout England; w<ex>hi</ex>ch to make <lb/>
+            <ex>the</ex>m rightly to conceiue, it will be necessary <ex>tha</ex>t yo<ex>u</ex> informe <ex>the</ex>m Of <ex>th</ex>e p<ex>ar</ex>ticulars of her <lb/>
+            Ma<ex>jes</ex>tyes reco<ex>m</ex>mendac<ex>i</ex>ons, w<ex>hi</ex>ch are,
+         </p>
+         <p>
+            That her Ma<ex>jes</ex>ty hath so much taken to heart to haue a considerable Sum<ex>m</ex>e <lb/>
+            raised by this contribution, as shee hath beene graciously pleased to reco<ex>m</ex>mend <lb/>
+            it efficaciously to all <ex>th</ex>e Catholick L<ex>or</ex>ds about London, &amp; to <ex>th</ex>e chiefe p<ex>er</ex>sons <lb/>
+            of eminency <ex>tha</ex>t her express Co<ex>m</ex>mands could find out both to be Contributers, &amp; <lb/>
+            Sollicitors in it, And to the several Superiors of the Cleargy, &amp; Religious Or-<lb break="no"/>
+            ders to promote it all they can, both by their owne negociac<ex>i</ex>ons, &amp; p<ex>er</ex>swasions, &amp; <lb/>
+            by the like Offices of all <ex>th</ex>os who do depend on <ex>the</ex>m. And lastly <ex>tha</ex>t her Ma<ex>jes</ex>ty hath <lb/>
+            co<ex>m</ex>manded all <ex>th</ex>os, <ex>tha</ex>t by their aboads about this Towne haue had the honor to <lb/>
+            receive her gracious directions im<ex>m</ex>ediatly from herselfe, to signify w<ex>i</ex>th all speede <lb/>
+            to the eminentest p<ex>er</ex>sons in every Country, <ex>tha</ex>t they may <ex>the</ex>n doe <ex>th</ex>e like to all <lb/>
+            the p<ex>ar</ex>ticular Catholiques w<ex>i</ex>thin their Neighbourhood, &amp; knowledge.
+         </p>
+         <p>
+            <add place="LM">4</add>That in the pursuance of this co<ex>m</ex>mand from her Ma<ex>jes</ex>ty, all the p<ex>er</ex>sons mett to-<lb break="no"/>
+            gether here in London, sc<ex>ilicet</ex> <ex>th</ex>e L<ex>or</ex>ds, Superiors of <ex>th</ex>e Cleargy, &amp; Religious Orders, <lb/>
+            &amp; <ex>th</ex>e Knights, &amp; Gent<ex>lemen</ex> have all of <ex>the</ex>m agreed upon those Motiues, &amp; Advices, <lb/>
+            &amp; upon the p<ex>er</ex>sons to w<ex>ho</ex>m they shalbe sent, And <ex>tha</ex>t <ex>th</ex>e Superiors of <ex>th</ex>e Cleargy, <lb/>
+            &amp; Religious Orders haue charged <ex>the</ex>mselues w<ex>i</ex>th <ex>th</ex>e conveying <ex>the</ex>m to <ex>th</ex>os p<ex>ar</ex>ticular <lb/>
+            p<ex>er</ex>sons, &amp; accompanying <ex>the</ex>m w<ex>i</ex>th effectual letters from <ex>the</ex>mselues, to assure That these <lb/>
+            are the Act of all <ex>th</ex>e p<ex>er</ex>sons so mett together, And haue p<ex>ro</ex>mised every one of <ex>the</ex>m by <lb/>
+            <ex>the</ex>mselues, &amp; by the Priests <ex>tha</ex>t depend on <ex>the</ex>m, to negociate sincerely, to p<ex>ro</ex>mote, &amp; aduance <lb/>
+            this business effectually as a thing mainly importing <ex>th</ex>e Kings service, &amp; o<ex>u</ex>r duty, &amp; good.
+         </p>
+         <pb n="31v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f031v/harley_ms_4931_f031v.jpg"/>
+         <p>
+            <add place="LM">5</add> You are to lett <ex>th</ex>os know, <del rend="strikethrough">
+                    <gap reason="illegible" quantity="4" unit="chars"/>
+                </del> w<ex>ho</ex>m yo<ex>u</ex> imploy to assist yo<ex>u</ex> in this work, <lb/>
+            (&amp; we conceiue it wilbe noe small encouragement to yo<ex>u</ex>rselues to labor effectu-<lb break="no"/>
+            ally in the business) that her Ma<ex>jes</ex>ty undertakes to secure all those that shall im-<lb break="no"/>
+            ploy <ex>the</ex>mselues in these affaires from any inconvenience <ex>tha</ex>t may be appr<ex>e</ex>hended by <lb/>
+            them, by reason of their forwardness, &amp; declarac<ex>i</ex>on in this service.
+         </p>
+         <p>
+            <add place="LM">6</add>To make <ex>the</ex>m appr<ex>e</ex>hend of one Instance,how much it importeth <ex>the</ex>m upon this <lb/>
+            occasion to meritt at <ex>th</ex>e Kings, and Queenes hands, yo<ex>u</ex> may let <ex>the</ex>m know, There <lb/>
+            hath beene lately granted to one Pulford, a Co<ex>m</ex>mission to indite, &amp; Convict <lb/>
+            such Catholiques as yet are not, &amp; to question Composic<ex>i</ex>ons allready made upon <lb/>
+            pretence Of their having passed at too low a rate, And to prosecute the rest <lb/>
+            of the Lawes ag<ex>ains</ex>t them, And <ex>tha</ex>t <ex>the</ex>rupon he hath sett on <del rend="strikethrough">in</del> work many A-<lb break="no"/>
+            gents in severall parts, And hath erected an Office for <ex>tha</ex>t Service; But by <ex>th</ex>e <lb/>
+            Queenes mediac<ex>i</ex>on to the King, his Ma<ex>jes</ex>ty hath beene graciously pleased To <lb/>
+            direct the Suspending of the execuc<ex>i</ex>on of this Co<ex>m</ex>mission, &amp; to stay all pro-<lb break="no"/>
+            ceedings upon it; so as o<ex>u</ex>r behaviour in this contribuc<ex>i</ex>on will assuredly much altere <lb/>
+            o<ex>u</ex>r Condic<ex>i</ex>on generally, either to the Better, or to <ex>th</ex>e Worse, according as we <lb/>
+            shall expresse o<ex>u</ex>rselvus affectionate, or cold to his Ma<ex>jes</ex>tyes Service, &amp; <del rend="strikethrough">upon this</del> pre-<lb break="no"/>
+            sent occasions.
+         </p>
+         <p>
+            <add place="LM">7</add>To <ex>th</ex>e end <ex>tha</ex>t all p<ex>er</ex>sons of w<ex>ha</ex>t degree soeuer be spoken to, &amp; Solicited for <lb/>
+            this contribuc<ex>i</ex>on, It wilbe fitt <ex>tha</ex>t yo<ex>u</ex> speake to all subordinate Superiors of the <lb/>
+            Country where yo<ex>u</ex> liue, That they reco<ex>m</ex>mend effectually to all the Priests w<ex>i</ex>thin <lb/>
+            their Provinces to give yo<ex>u</ex> all the Assistance in their power for the advance-<lb break="no"/>
+            ment of this business.
+         </p>
+         <p>
+            <add place="LM">8</add>Though we will not pr<ex>e</ex>sume to pr<ex>e</ex>scribe limits to the/ Devoc<ex>i</ex>on, &amp; liberality of <lb/>
+            any others, yet we think it not amiss to lett yo<ex>u</ex> know, <ex>tha</ex>t upon this occasion we <lb/>
+            find here about London so g<ex>rea</ex>t a cheerfullness in Catholiques to advance <lb/>
+            this business, &amp; to bring <ex>th</ex>e contribuc<ex>i</ex>on to a considerable summe, as <ex>tha</ex>t we confi-<lb break="no"/>
+            dently hope noe man will giue lesse <ex>tha</ex>n 8, 9 or 10 parts of his Annuall <lb/>
+            revenue (as <ex>th</ex>e iust, &amp; true values) And hither to we haue mett w<ex>i</ex>th none <lb/>
+            <ex>tha</ex>t haue gone under, but w<ex>i</ex>th many <ex>tha</ex>t doe farre exceed <ex>tha</ex>t p<ex>ro</ex>porc<ex>i</ex>on, w<ex>hi</ex>ch <lb/>
+            we conceiue the most will imitate, Considering <ex>tha</ex>t <ex>th</ex>e Action is such, as <ex>tha</ex>t no duti<lb break="no"/>
+            full subject ought to be backward in these times, wherein the safety of the king<lb break="no"/>
+            dome is so nearly concerned, &amp; for <ex>tha</ex>t it hath beene so effectually reco<ex>m</ex>mended <lb/>
+            <del rend="strikethrough">by us</del> unto us by <ex>th</ex>e Queenes Ma<ex>jes</ex>ty, who hath beene so tender in matters of <lb/>
+            this nature, as never to haue reco<ex>m</ex>mended the like before, &amp; unto w<ex>ho</ex>m we <lb/>
+            haue so g<ex>rea</ex>t obligac<ex>i</ex>ons (as <ex>tha</ex>t <hi rend="bold">w<ex>ha</ex>t is</hi> but for her sake) <ex>the</ex>r is noe man (we p<ex>er</ex>-<lb break="no"/>
+            swade o<ex>u</ex>rselues) but wold be content to sufferr some Inconvenience in his own <lb/>
+            estate to comply w<ex>i</ex>th such a desire from so gracious, &amp; deseruing a Princesse <lb/>
+            <del rend="strikethrough">Into</del> <add place="above">unto</add> w<ex>hi</ex>ch severall consid<ex>e</ex>rac<ex>i</ex>ons all hereabout haue had so zealous a regard : <ex>tha</ex>t <lb/>
+            Even such who are much en<ex>cu</ex>mbred w<ex>i</ex>th debts, &amp; distracted in their estates <lb/>
+            (w<ex>hi</ex>ch may also happen to many others in the country) haue beene so farre <lb/>
+            from offerring the same as an excuse, as that they haue borrowed monyes to giue <lb/>
+            upon this occasion, in so large a p<ex>ro</ex>porc<ex>i</ex>on, as if <ex>thei</ex>r estates w<ex>e</ex>r free, &amp; they be-<lb break="no"/>
+            fore hand in the world. And no man need to appr<ex>e</ex>hend That this gift upon this <lb/>
+            <fw type="catch" place="bot-right">occasion</fw>
+            <pb n="32r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f032r/harley_ms_4931_f032r.jpg"/>
+            occasion may discover the value of his estate (w<ex>hi</ex>ch for sundry reasons he may <lb/>
+            desire to keepe private) for w<ex>ha</ex>t he giues, being voluntary, &amp; w<ex>ha</ex>t we haue s<ex>ai</ex>d, <lb/>
+            being only to informe <ex>the</ex>m how others comport <ex>the</ex>mselues about London, w<ex>ha</ex>tsoever he <lb/>
+            contributeth, will not discover any certeine value of his estate, but <ex>th</ex>e p<ex>ro</ex>porc<ex>i</ex>on of <lb/>
+            his zeale, &amp; good will, And this is the unanimous <del rend="strikethrough">con</del> sense of <del rend="strikethrough">almost all the </del>
+                <add place="above">as well of the</add> <lb/>
+            Eccl<ex>esiast</ex>icall p<ex>er</ex>sons, as well as the noblemen, &amp; Gent<ex>lemen</ex> mett here together.
+         </p>
+         <p>
+            <add place="LM">9</add>Although we are well assured <ex>tha</ex>t <ex>th</ex>e chiefe motiues w<ex>hi</ex>ch will induce men to straine <lb/>
+            <ex>the</ex>mselues to giue as largely as their estates will p<ex>er</ex>mitt, are the Honor, &amp; glory of <lb/>
+            g<ex>o</ex>d, &amp; his Ma<ex>jes</ex>tyes Service. Yet to <ex>th</ex>e end <ex>tha</ex>t ev<ex>e</ex>ry one may likewise receiue such <lb/>
+            advantage as may be iustly expected from his forwardnes, &amp; piety, Vpon this oc-<lb break="no"/>
+            casion we desire <ex>tha</ex>t the Collectors wold giue Receipts under their Hands for such <lb/>
+            monyes as shalbe paid in to <ex>the</ex>m, to the end <ex>tha</ex>t <ex>th</ex>e p<ex>er</ex>sons may upon occasions shew <lb/>
+            the same, &amp; make use <ex>the</ex>rof as a faire Motiue to p<ex>ro</ex>cure <ex>the</ex>m reasonable favors, &amp; <lb/>
+            graces, as hereafter they may stand in need of.
+         </p>
+         <p>
+            The Forme of the Receipt <ex>tha</ex>t <ex>th</ex>e Collectors doe giue, is this. <lb/>
+            I A. B. doe acknowledge to haue received of N. N. the day <lb/>
+            &amp; yeare abouewritten, the Summe of ----- as his free, &amp; volun-<lb break="no"/>
+            tary gift, &amp; for his Ma<ex>jes</ex>tyes Service reco<ex>m</ex>mended to us by o<ex>u</ex>r gra-<lb break="no"/>
+            cious Queene, upon occasion of his pr<ex>ese</ex>nt iorny w<ex>i</ex>th an Army <lb/>
+            into the Northerne parts.
+         </p>
+         <p>
+            <add place="LM">10</add>
+            Bec<ex>ause</ex> no circumstance is so important in this service as EXPEDITION, wee <lb/>
+            desire <ex>tha</ex>t <ex>th</ex>os p<ex>er</ex>sons in London, &amp; neare about it, and in the Southerne Countreyes <lb/>
+            who wilbe Contributers, will pay in their monies betweene this, &amp; <ex>th</ex>e end of <lb/>
+            Easter Terme, And <ex>tha</ex>t they who are in Countries more remote, will pay in theirs <lb/>
+            by the end of Mid-summer Terme.
+         </p>
+         <p>
+            <add place="LM">11</add>If any <ex>tha</ex>t are allready convicted, &amp; do pay Composic<ex>i</ex>ons for their Recusancy, doe <lb/>
+            p<ex>re</ex>tend to be <ex>the</ex>rfore eased in this contribuc<ex>i</ex>on, yo may tell <ex>the</ex>m, <ex>tha</ex>t w<ex>ha</ex>t they pay upon <lb/>
+            these <unclear>
+                    <del rend="strikethrough">?</del>
+                </unclear> termes, Is an Annuall <unclear>certainty</unclear>, &amp; so settled into the substance of their <lb/>
+               estates, as ought not at all to divert this extraordinary Acc<ex>i</ex>on, w<ex>hi</ex>ch is to receive <lb/>
+               its alottment, &amp; p<ex>ro</ex>porc<ex>i</ex>on out of w<ex>ha</ex>t remaineth <ex>the</ex>rafter <ex>th</ex>e co<ex>m</ex>posic<ex>i</ex>on is deducted.
+         </p>
+         <p>
+            <add place="LM">12</add>If any p<ex>re</ex>tend any other charges, as Noblemen <ex>tha</ex>t they have allready contributed to <lb/>
+            this expedic<ex>i</ex>on upon <ex>th</ex>e Kings Letters to <ex>the</ex>m, or if others p<ex>re</ex>tend any other gt paiments, <lb/>
+            or extraordinary charges, yo may also tell <ex>the</ex>m, <ex>that</ex>t <ex>th</ex>os consid<ex>e</ex>rac<ex>i</ex>ons ought not at all <lb/>
+            to lessen their contribuc<ex>i</ex>on upon this occasion, for this concerneth <ex>the</ex>m only as Catho-<lb break="no"/>
+            liques, abstracting from all other regards w<ex>ha</ex>tsoever; but these other are <del rend="strikethrough">as</del> co<ex>m</ex>mon <lb/>
+            as well to protestants, &amp; all sorts of people as to <ex>the</ex>m.
+         </p>
+         <p>
+            <add place="LM">13</add>If yo perceiue any shalbe cold in this worke by not being so sensible as they <lb/>
+            ought to be of <ex>th</ex>e publick good, &amp; p<ex>re</ex>suming they are secured in their p<ex>ar</ex>ticular by <lb/>
+            some priviledges w<ex>hi</ex>ch they may happily haue obtained by pow<ex>e</ex>rfull mediac<ex>i</ex>on, or <lb/>
+            hope otherwise <hi rend="bold">to</hi> excuse, or exempt <ex>the</ex>mselues, yo may assure <ex>the</ex>m <ex>tha</ex>t as <ex>th</ex>e good success <lb/>
+            of this Contribuc<ex>i</ex>on is likely to better all o<ex>u</ex>r condic<ex>i</ex>ons in gnrall, so their priviledges <lb/>
+            may proue lesse availeable to <ex>the</ex>m if <ex>the</ex>mselues be defective upon this occasion. And <lb/>
+            accordingly yo are desired to returne the Names of all <ex>th</ex>os who shall forbeare <lb/>
+            to giue (the w<ex>hi</ex>ch we conceiue none will doe) or shall give inconsiderably. <lb/>
+            You may do well likewise to solicit those <ex>tha</ex>t though they be no Catholiques,
+            <fw type="catch" place="bot-right">yet</fw>
+            <ex>fo. 32v</ex> <lb/>
+            yet are well affected, &amp; have their Wives &amp; Children Catholiques; for besides <lb/>
+            the general, every one in his owne particular is like to fare the better, or <lb/>
+            worse, according as he demeaneth <unclear>hims<ex>el</ex>f</unclear> in this contribuc<ex>i</ex>on. And where <ex>the</ex>r are <lb/>
+            no p<ex>ar</ex>ticular meritts to exempt, it may be feared the rigour of <ex>th</ex>e lawes may be <lb/>
+            putt into execuc<ex>i</ex>on agt <ex>th</ex>os (upon p<ex>ar</ex>ticular notice taken of <ex>the</ex>m) w<ex>hi</ex>ch will fall upon <lb/>
+            <ex>the</ex>m, if throughly looked into, as well as for their wives being Catholiques, &amp; such <lb/>
+            other lapses, <hi rend="bold">as</hi> by their being declared Catholiques <ex>the</ex>mselues.
+         </p>
+         <p>
+            <add place="LM">14</add>You may <unclear>repr<ex>e</ex>sent</unclear> to such p<ex>er</ex>sons to consider w<ex>ha</ex>t a gt Charity their contribuc<ex>i</ex>on <lb/>
+            wilbe to the poorer sort of Catholiques, who will also be utterly ruined, if (<ex>th</ex>e) <lb/>
+            course of informers goe on, as it is to be feared it will do, if the contribuc<ex>i</ex>on a-<lb break="no"/>
+            mount not to a consid<ex>e</ex>rable matter, w<ex>hi</ex>ch it cannot be unles all hands putt it forward.
+         </p>
+         <p>
+            <add place="LM">15</add>You are desired to receiue all such monies as shall come in by this contri-<lb break="no"/>
+            buc<ex>i</ex>on giving the Receipts for it, &amp; <ex>the</ex>n to pay it to such p<ex>er</ex>son, or p<ex>er</ex>sons, as the <lb/>
+            Queene shalbe pleased to direct for <ex>th</ex>e Service aforesd.
+         </p>
+         <p>
+            <add place="LM">16</add>And Lastly. Yo are desired to returne unto the Superiors of <ex>th</ex>e Cleargy, &amp; (Re-) <lb/>
+            ligious Orders (<ex>tha</ex>t shall send yo these from us) assoone as yo can, an Informac<ex>i</ex>on <lb/>
+            of w<ex>ha</ex>t p<ex>ro</ex>gresse yo make in this business, And how yo find Catholicks affected <lb/>
+            in it, <ex>tha</ex>t we may accordingly ioyne w<ex>i</ex>th <ex>the</ex>m, &amp; yo, in giving her Ma<ex>jes</ex>ty <ex>tha</ex>t account <lb/>
+            of all o<ex>u</ex>r labors <ex>the</ex>rin, as is expected at o<ex>u</ex>r hands. Such we doubt not, but will <lb/>
+            in effect proue answearable to the faire <unclear>hopes</unclear> given severally by <ex>th</ex>e sd Supe-<lb break="no"/>
+            riors, upon the returne they rd of their 1st letters into <ex>th</ex>e Country as <unclear>pd pa?e</unclear> <lb/>
+            Catholiques for this contribuc<ex>i</ex>on, And to gods honor, &amp; glory, &amp; a good service <lb/>
+            to his Ma<ex>jes</ex>ty, and a complying duty to <ex>th</ex>e Queene, &amp; benefitt to Catholiques, <lb/>
+            For w<ex>hi</ex>ch ends we shall imploy both o<ex>u</ex>r prayers, &amp; all o<ex>u</ex>r best endeavors. <lb/>
+            <unclear>Flims</unclear>
+         </p>
+         <p rend="align-centre">
+            The Queenes Letter <lb/>
+            To o<ex>u</ex>r Trusty, &amp; well-beloved Councellor S<ex>i</ex>r John Winton <lb/>
+            Knight, o<ex>u</ex>r Principall Secretary, &amp; Mr of Requests
+         </p>
+         <p rend="outdent">
+            Henriette Marie Regina,
+         </p>
+         <p>
+            Wee have so good a belief of the loyaltie, &amp; affection of his Ma<ex>jes</ex>tyes subi<ex>ec</ex>ts, <lb/>
+            (an)d we doubt not but <ex>tha</ex>t upon this occasion, <ex>tha</ex>t hath called his Ma<ex>jes</ex>ty into <ex>th</ex>e Northerne <lb/>
+            p<ex>ar</ex>ts, for <ex>th</ex>e defense of his honor, &amp; dominions, they will expresse <ex>the</ex>mselues so affected <lb/>
+            as we haue allwaies repr<ex>e</ex>sented <ex>the</ex>m to his Ma<ex>jes</ex>ty, so in this co<ex>m</ex>mon consent w<ex>hi</ex>ch hath <lb/>
+            appeared in the Nobility, Judges, Gentry &amp; others to forward his Ma<ex>jes</ex>tyes Service <lb/>
+            by <ex>the</ex>r p<ex>er</ex>sons &amp; estates, we haue made no difficulty to answeare for <ex>th</ex>e same <lb/>
+            <unclear>correspondency</unclear> in <del rend="strikethrough">the</del> his Catholique Subi<ex>ec</ex>ts as Catholiques, not w<ex>i</ex>thstanding <ex>tha</ex>t they haue <lb/>
+            concurred to his Ma<ex>jes</ex>tyes Service, according to the qualityes wherof they are, <unclear>w<ex>he</ex>n</unclear> o-<lb break="no"/>
+            thers of <ex>th</ex>e same quality w<ex>e</ex>r called upon; For we believed, <ex>tha</ex>t it became us, who <lb/>
+            haue beene so <unclear>
+                    <del rend="strikethrough">en</del>
+                </unclear> often <unclear>interessed</unclear> in the solicitac<ex>i</ex>on of their benefitts, to <lb/>
+            shew o<ex>u</ex>rselues now the p<ex>er</ex>swasers of their gratitude. Therefore having allready <lb/>
+            by other meanes reco<ex>m</ex>mended to <ex>the</ex>m this earnest desire of o<ex>u</ex>rs to assist, &amp; secure his <lb/>
+            Ma<ex>jes</ex>ty by <lb/>
+         </p>
+         <pb n="33r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f033r/harley_ms_4931_f033r.jpg"/>
+         <p>
+            Ma<ex>jes</ex>ty by some considerable summe of mony freely, &amp; cheerfully p<ex>re</ex>sented, we haue <lb/>
+            <sic>Haue</sic> though fitt to <ex>th</ex>e end <ex>tha</ex>t this o<ex>u</ex>r desire may be the more publick, &amp; the more au-<lb break="no"/>
+            theorised hereby to giue yo a Com<ex>m</ex>ission, &amp; direction to distribute Copies und<ex>e</ex>r yo<ex>u</ex>r hand <lb/>
+            of o<ex>u</ex>r certificac<ex>i</ex>on thereof, unto <ex>the</ex>m who haue mitt at London by o<ex>u</ex>r directions about <lb/>
+            this business; And unto the severall <unclear>Collecters</unclear> of every county. And as we p<ex>re</ex>sume <ex>th</ex>e <lb/>
+            summe they will raise, will not be unworthy of o<ex>u</ex>r <unclear>p<ex>ro</ex>testing</unclear> to <ex>tha</ex>t <unclear>18</unclear>. So shall we be <lb/>
+            very sensible of it as p<ex>ar</ex>ticular respects to o<ex>u</ex>rselues, &amp; will endeavour in the most efficaci-<lb break="no"/>
+            ous manner we can, to improue the merit of it, &amp; remoue any app<ex>re</ex>hension of p<ex>re</ex>iudice <lb/>
+            <ex>tha</ex>t any who imploy <ex>the</ex>mselues towards the successe of this business, by this they may be <lb/>
+            assured <ex>tha</ex>t we will secure <ex>the</ex>m from all such obiected inconveniences. And we are confident <ex>tha</ex>t <lb/>
+            this o<ex>u</ex>r 1st reco<ex>m</ex>mendac<ex>i</ex>on wilbe so complied w<ex>i</ex>thall, as it may not only afford not <lb/>
+            only us satisfacc<ex>i</ex>on, but also facilitation towards <ex>the</ex>r owne Advantages.
+         </p>
+         <p rend="align-centre">
+            A Coppy of <ex>th</ex>e Letter sent from the Superiours tou-<lb break="no"/>
+            ching <ex>th</ex>e contribution money to be collected of Catholiques <lb/>
+            towards his Ma<ex>jes</ex>tyes Northerne Jorney.
+         </p>
+         <p>
+            The enclosed advices, &amp; motiues being so ample as yo will p<ex>er</ex>ceiue by p<ex>er</ex>using <lb/>
+            Of <ex>the</ex>m, <ex>tha</ex>t it will not be needfull for us to enlarge o<ex>u</ex>rselues upon any p<ex>ar</ex>ticular concer-<lb break="no"/>
+            ning the conduct of the business, w<ex>hi</ex>ch they direct the way in. This <ex>the</ex>rfore serveth <lb/>
+            only for to convey <ex>the</ex>m to yo, as we are entreated by <ex>th</ex>os who haue mett here, <lb/>
+            haue undertaken to do, &amp; to desire yo to repaire im<ex>m</ex>ediatly unto the Collector to w<ex>ho</ex>m <lb/>
+            the enclosed motiues are directed, &amp; to deliver <ex>th</ex>e same unto him in <ex>th</ex>e name of all <lb/>
+            the Noblemen, &amp; Gent<ex>lemen</ex>, together w<ex>it</ex>h o<ex>u</ex>rselues assembied here in London by <ex>th</ex>e Queens <lb/>
+            <unclear>co<ex>m</ex>manding</unclear>, to sett forward <ex>th</ex>e work. And we pray yo assure him in <ex>th</ex>e most effi-<lb break="no"/>
+            cacious manner yo can (engaging all o<ex>u</ex>r creditts for <ex>th</ex>e <unclear>much</unclear> <ex>the</ex>rof) <ex>tha</ex>t it is <ex>th</ex>e sense of <lb/>
+            us all both Eccl<ex>es</ex>i<ex>astic</ex>all , &amp; Lay-p<ex>er</ex>sons, <ex>tha</ex>t (besides <ex>th</ex>e discharging of <ex>thei</ex>r, and o<ex>u</ex>r duties to gd, <lb/>
+            &amp; <ex>th</ex>e K.) it mainLy importeth <ex>th</ex>e good of Catholiques to have <ex>th</ex>r business take good success. <lb/>
+            Therfore entreate him to deale very actiuely, efficaciously, &amp; speedily according to these <lb/>
+            advices, &amp; motiues. We are so well p<ex>er</ex>swaded of his devoc<ex>i</ex>on to putt forward so pious <lb/>
+            a <unclear>worke</unclear>, as <ex>tha</ex>t we doubt not but he wilbe well satisfied in the needfullness of the thing; <lb/>
+            &amp; are as ready to <unclear>imply hims</unclear>. in it (receiving <ex>th</ex>e assurance <ex>the</ex>rof, &amp; <ex>th</ex>e p<ex>er</ex>swasions <ex>the</ex>runto only <lb/>
+            from o<ex>u</ex>r hands) as if they came by all the most-formall waies <ex>tha</ex>t can be imagined, w<ex>hi</ex>ch <lb/>
+            in a business of this nature cannot be expected. And although <ex>th</ex>e advices, &amp; motiues be di-<lb break="no"/>
+            <supplied>r</supplied>ected only to Lay Gent<ex>lemen</ex>, yet we desire yo, &amp; we haue answeared for yo, <ex>tha</ex>t yo will <lb/>
+            imploy yo<ex>u</ex>rselfe, &amp; all <ex>th</ex>os <ex>tha</ex>t depend on yo, sincerely to <unclear>solicite</unclear>, &amp; dispose all y<ex>ou</ex>r minds, w<ex>ho</ex>m you haue <lb/>
+            relac<ex>i</ex>on unto, as powerfully as yo can, to contribute cheerfully, &amp; bountifully on this occa-<lb break="no"/>
+            sion, w<ex>hi</ex>ch as it is <ex>th</ex>e 1st, <ex>tha</ex>t we ever laboured in, in this kind, so we hope in God it <lb/>
+            will be <ex>th</ex>e last, <ex>the</ex>r being noe p<ex>ro</ex>babilityof so pressing, &amp; urgent a necessity to occurred <lb/>
+            any more./.
+         </p>
+         <p rend="align-right">
+            Yo<ex>u</ex>rs <unclear>&amp;c</unclear>
+         </p>
+         <p>
+            London April 4. 1638 /.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f031r/harley_ms_4931_f031r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f031v/harley_ms_4931_f031v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_4931_part/harley_ms_4931_f032r/harley_ms_4931_f032r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_4931_part/harley_ms_4931_f032v/harley_ms_4931_f032v.jpg"/>
+      <graphic n="5" url="/bl/harley_ms_4931_part/harley_ms_4931_f033r/harley_ms_4931_f033r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prognostication of the Emperor’s Principal Astrologers</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+               <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_78201">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 78201</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70001">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70001</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="Prognostication1629v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, f. 32v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS70001.xml">British Library, Additional MS 70001, f. 353v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS78201.xml">British Library, Additional MS 78201, ff. 106r–106v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1629">c.1629</date>
+            <placeName corresp="../places/places.xml#PL0024">Rome</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>prophecy</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>astrology</term>
+               <term>prophecy</term>
+               <term>diplomacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-15" who="#RB" status="proofread"/>
+            <change when="2018-03-15" who="#RB" status="draft"/>
+            <change when="2010" who="#NM" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="192r" facs="/bl/hargrave_ms_311/hargrave_ms_311_f192r/hargrave_ms_311_f192r.jpg"/>
+         <head rend="align-centre">
+            A Prognostication <hi rend="smudged">for this yeare</hi> <lb/>
+            for <ex>th</ex>e yeare 1629
+         </head>
+         <p>
+            Ordered and taken out according to <ex>th</ex>e calculation of <ex>th</ex>e principall <lb/>
+            Astrologers vpon <ex>th</ex>e present yeare 1629 sent from Rome to <del rend="strikethrough">the</del> <lb/>
+            his Imperiall Ma<ex>jes</ex>tie &amp; <ex>th</ex>e Prince Elector of <del rend="strikethrough">Spaine</del> Saxonie.
+         </p>
+         <p>
+            <add place="LM">1.</add>
+            In <ex>th</ex>e 1629 <ex>th</ex>e sunn beinge in <ex>th</ex>e celestiall signe Libra all <ex>th</ex>e plan<ex>n</ex>ets <lb/>
+            will assemble about <ex>th</ex>e sunn att <ex>th</ex>e taile of <ex>th</ex>e Dragon whereby it <lb/>
+            may bee pr<ex>e</ex>sumed <ex>tha</ex>t manie horrable things will ensue and w<ex>i</ex>th such <lb/>
+            a tempest <ex>tha</ex>t all <ex>th</ex>e winds of <ex>th</ex>e <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> 4 quarters of <ex>th</ex>e world will meete <lb/>
+            togeth<ex>e</ex>r where upon will follow: soe horrable an Earthquake <ex>tha</ex>t men for <lb/>
+            feare and sorrow shall dye w<ex>i</ex>thout any violence offered to them./
+         </p>
+         <p>
+            <add place="LM">2</add>
+            Here after trees Mountaynes &amp; Valles, shall chaing their places, townes <lb/>
+            and Villages shallbe removed: by Earthquakes &amp; some but cheiftly these <ex>tha</ex>t <lb/>
+            stand neare any waters &amp; are built vpon sand shall fall to <ex>th</ex>e ground./
+         </p>
+         <p>
+            <add place="LM">3.</add>
+            Horrible Eclipses shall appeare &amp; afterwards a bloody Rainebowe shalbee <lb/>
+            seene w<ex>hi</ex>ch will cause great trouble &amp; bloody warr amoungst many people <lb/>
+            of <ex>th</ex>e world./
+         </p>
+         <p>
+            <add place="LM">4.</add>
+            All this shalbe seene in <ex>th</ex>e mounth of 7br aboute <ex>th</ex>e exaltation of <ex>th</ex>e Cross.
+         </p>
+         <p>
+            <add place="LM">
+               5.
+            </add>
+            But for soe much as god best knowes <ex>th</ex>e successe of things <ex>th</ex>e most humble &amp; obedient seruants of his imperiall Ma<ex>jes</ex>tie &amp; their consorts haue <lb/>
+            shewen vnto him there=bye to gouerne himselfe &amp; to <ex>th</ex>e Com<ex>m</ex>on people <lb/>
+            to pr<ex>e</ex>pare them to repentance advising likewise his said <del rend="strikethrough">said</del> Ma<ex>jes</ex>tie to w<ex>i</ex>thdraw <lb/>
+            himselfe to some place of good temperature and to Furnish himselfe w<ex>i</ex>th <lb/>
+            vicutall for xxtie dayes.
+         </p>
+         <p rend="align-right"> 
+            The most learned &amp; most vnd<ex>e</ex>rstanding both Alpians, <lb/>
+            Spanish &amp; Grecian<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> Astrologers haue approved <lb/>
+            this Prognostica<ex>ti</ex>on.
+         </p>
+         <p>
+            May <ex>th</ex>e 18th their shalbe a great assemble of men of Warr.
+         </p>
+         <p>
+            Iune <ex>th</ex>e 11th 3 Princes shall dye.
+         </p>
+         <p>
+            Iune <ex>th</ex>e 12th a Lord shall attaine to great dignity and honor
+         </p>
+         <p>
+            Iune <ex>th</ex>e 18th a greate wind shall arise/
+         </p>
+         <p>
+            Iune <ex>th</ex>e 19th a banisht Prince shall returne into his owne Country &amp; recouer <add place="above">great dignity &amp; honor</add>
+         </p>
+         <p>
+            Iune <ex>th</ex>e 28th there wilbee intollerable heate.
+         </p>
+         <p>
+            Au<ex>gu</ex>st <ex>th</ex>e 11th their wilbe great pr<ex>e</ex>parac<ex>i</ex>on for warr, both by sea &amp; land/
+         </p>
+         <p>
+            Au<ex>gu</ex>st <ex>th</ex>e 17th greate effusion of blood./
+         </p>
+         <p>
+            Au<ex>gu</ex>st <ex>th</ex>e 18th <ex>th</ex>e halfe of <ex>th</ex>e world shalbe drownd/
+         </p>
+         <p>
+            Au<ex>gu</ex>st <ex>th</ex>e 20th busines of great importance shalbe sent from seuerall places./  
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f192r/hargrave_ms_311_f192r.jpg"/>
+   </facsimile>
+</TEI>

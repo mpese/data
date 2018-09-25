@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Add MS 11045</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>18r-18v</locus>
+                  <title when="1639-04-19">Letter to the Earl of Essex</title>
+                  <author corresp="../people/people.xml#P0090">
+                     <persName>John Kennedy, 6th Earl of Cassilis</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0091">
+                     <persName>John Wemyss, 1st Earl of Wemyss</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0092">
+                     <persName>Archibald Campbell, 1st Marquess of Argyll</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0093">
+                     <persName>John Lindsay, 1st Earl of Lindsay</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0094">
+                     <persName>John Sinclair, 9th Lord Sinclair</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0096">
+                     <persName>William Ramsay, 1st Earl of Dalhousie</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0097">
+                     <persName>Aynsey</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0098">
+                     <persName>David Wemyss, Lord Elcho (2nd Earl of Wemyss)</persName>
+                  </author>
+                  <author corresp="../people/people.xml#P0101">
+                     <persName>William Crichton?, 1st Earl of Dumfries and Viscount Ayr</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0056">John Leslie, 6th Earl of Rothes</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0056">James Graham, 5th Earl of Montrose</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0091">John Elphinstone, 2nd Lord Balmerino</persName>             
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0059">Lord George Forester</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0100">William Kerr, 3rd Earl of Lothian</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0099">Barghley</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/CovenantersLetterEssex1639.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1640-05-08">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 8 May 1640.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>20r</locus>
+                  <title when="1639-04-17">To the Catholics of England</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0104">Queen Henrietta Maria</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/HenriettaMariaCatholicsEngland1639.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1639-05-23">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName>, in <placeName corresp="../places/places.xml#0001">London</placeName>, to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 23 May 1639.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>22r-24r</locus>
+                  <title when="1639">Petition of the Scots in Ireland to the Lord Deputy, Council and Parliament of Ireland</title>
+                  <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/PetitionLordDeputy1639.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1639-05-28">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 28 May 1639.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>29r</locus>
+                  <title when="1639">Oath Offered to the Scots in London</title>
+                  <author/>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/OathScotsLondon1639.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1639-06-16">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 16 June 1639.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="5">
+                  <locus>31r-32r</locus>
+                  <title when="1639">Answer to the Humble Desires of the Covenanters</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/CharlesAnswerCovenanters1639.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1639-06-25">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 25 June 1639.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="6">
+                  <locus>44r-44v</locus>
+                  <title when="1639">Explanation of the Pacification of Berwick</title>
+                  <author>Covenanters</author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/CovenantersExplanationPacificationBerwick1639.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1639-08-06">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 6 August 1639.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="7">
+                  <locus>93v-94r</locus>
+                  <title when="1640">Petition to Charles I</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0021">John Williams</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/WilliamsPetitionCharles1640.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1640-02-14">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 14 February 1639/40.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="8">
+                  <locus>97r, 98r-98v</locus>
+                  <title when="1640" from="1640-01-29" to="1640-03-08">Letters</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0055">John Leslie, Earl of Rothes</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0020">Philip Herbert, Earl of Pembroke and Montgomery</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/RothesPembrokeLetters1640.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1640-03-13">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 13 March 1639/40.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="9">
+                  <locus>118r-119v</locus>
+                  <title when="1640">Petition to Charles I</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0021">John Williams</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/WilliamsPetitionCharles1640.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1640-02-14">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 14 February 1639/40.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="10">
+                  <locus>119r</locus>
+                  <title when="1640-09-24">Speech to the Lords at York</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/CharlesSpeechYork1640v1.xml" type="t_witness"/>
+                  <link target="../texts/CharlesSpeechYork1640v2.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1640-09-29">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 29 September 1640.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="11">
+                  <locus>130v</locus>
+                  <title when="1640">Letter to London</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                  </author>
+                  <respStmt>
+                     <resp>Scribe</resp>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/CharlesLetterLondon1640.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin when="1640-11-03">Newsletter from <persName corresp="../people/people.xml#0102">Edmund Rossingham</persName> to <persName corresp="../people/people.xml#0103">John, 1st Lord Scudamore</persName>, dated 3 November 1640.</origin>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote n="1">
+                     <p/>
+                  </handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11045_part/add_ms_11045_f018r/add_ms_11045_f018r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11045_part/add_ms_11045_f018v/add_ms_11045_f018v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11045_part/add_ms_11045_f019r/add_ms_11045_f019r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11045_part/add_ms_11045_f019v/add_ms_11045_f019v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11045_part/add_ms_11045_f020r/add_ms_11045_f020r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11045_part/add_ms_11045_f020v/add_ms_11045_f020v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11045_part/add_ms_11045_f021r/add_ms_11045_f021r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11045_part/add_ms_11045_f021v/add_ms_11045_f021v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11045_part/add_ms_11045_f022r/add_ms_11045_f022r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11045_part/add_ms_11045_f022v/add_ms_11045_f022v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11045_part/add_ms_11045_f023r/add_ms_11045_f023r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11045_part/add_ms_11045_f023v/add_ms_11045_f023v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_11045_part/add_ms_11045_f024r/add_ms_11045_f024r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_11045_part/add_ms_11045_f024v/add_ms_11045_f024v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_11045_part/add_ms_11045_f029r/add_ms_11045_f029r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_11045_part/add_ms_11045_f029v/add_ms_11045_f029v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_11045_part/add_ms_11045_f030r/add_ms_11045_f030r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_11045_part/add_ms_11045_f030v/add_ms_11045_f030v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_11045_part/add_ms_11045_f031r/add_ms_11045_f031r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_11045_part/add_ms_11045_f031v/add_ms_11045_f031v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_11045_part/add_ms_11045_f032r/add_ms_11045_f032r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_11045_part/add_ms_11045_f032v/add_ms_11045_f032v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_11045_part/add_ms_11045_f093r/add_ms_11045_f093r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_11045_part/add_ms_11045_f093v/add_ms_11045_f093v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_11045_part/add_ms_11045_f094r/add_ms_11045_f094r.jpg"/>
+      <graphic n="26" url="/bl/add_ms_11045_part/add_ms_11045_f094v/add_ms_11045_f094v.jpg"/>
+      <graphic n="27" url="/bl/add_ms_11045_part/add_ms_11045_f097r/add_ms_11045_f097r.jpg"/>
+      <graphic n="28" url="/bl/add_ms_11045_part/add_ms_11045_f097v/add_ms_11045_f097v.jpg"/>
+      <graphic n="29" url="/bl/add_ms_11045_part/add_ms_11045_f098r/add_ms_11045_f098r.jpg"/>
+      <graphic n="30" url="/bl/add_ms_11045_part/add_ms_11045_f098v/add_ms_11045_f098v.jpg"/>
+      <graphic n="31" url="/bl/add_ms_11045_part/add_ms_11045_f118r/add_ms_11045_f118r.jpg"/>
+      <graphic n="32" url="/bl/add_ms_11045_part/add_ms_11045_f118v/add_ms_11045_f118v.jpg"/>
+      <graphic n="33" url="/bl/add_ms_11045_part/add_ms_11045_f119r/add_ms_11045_f119r.jpg"/>
+      <graphic n="34" url="/bl/add_ms_11045_part/add_ms_11045_f119v/add_ms_11045_f119v.jpg"/>
+      <graphic n="35" url="/bl/add_ms_11045_part/add_ms_11045_f130r/add_ms_11045_f130r.jpg"/>
+      <graphic n="36" url="/bl/add_ms_11045_part/add_ms_11045_f130v/add_ms_11045_f130v.jpg"/>
+      <graphic n="37" url="/bl/add_ms_11045_part/add_ms_11045_f131r/add_ms_11045_f131r.jpg"/>
+      <graphic n="38" url="/bl/add_ms_11045_part/add_ms_11045_f131v/add_ms_11045_f131v.jpg"/>
+   </facsimile>
+</TEI>

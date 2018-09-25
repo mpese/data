@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 4888</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_4888">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4888</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>213x-251x</locus>
+                   <title when="1625">The Five Years of King James</title>
+                   <author/>
+                   <respStmt>
+                      <name/>
+                      <resp/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/FiveYearsKingJames1625-8.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>252x</locus>
+                   <title when="1616">The True Relation of the Manner of the Proceeding in King's Bench Upon the Pardon of Sir Thomas Mounson</title>
+                   <author/>
+                   <respStmt>
+                      <name/>
+                      <resp/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/MounsonTrueRelationMannerProceeding1616.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>256x</locus>
+                   <title when="1606-06-01">The Tilting Challenge</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0081">
+                         Ludovic Stewart, 2nd Duke of Lennox
+                      </persName>
+                   </author>
+                   <author corresp="../people/people.xml#P0080">
+                      <persName>
+                         Thomas Howard, 21st Earl of Arundel
+                      </persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0079">
+                         William Herbert, 3rd Earl of Pembroke
+                      </persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0020">
+                         Philip Herbert, 1st Earl of Montgomery
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <name/>
+                      <resp/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/TiltingChallenge1606.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>257x-258x</locus>
+                   <title when="1622">Petition for His Brother's Freedom</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0202">Francis Phellips</persName>
+                   </author>
+                   <respStmt>
+                      <name/>
+                      <resp/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/PhellipsPetitionHisBrother1622.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="1">
+                   <locus>259x-260x</locus>
+                   <title when="1622">Considerations upon the Treaty of Marriage between England and Spain</title>
+                   <author/>
+                   <respStmt>
+                      <name/>
+                      <resp/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv1.xml" type="witness"/>
+                   <link target="../texts/ConsiderationsTreatyMarriageEnglandSpainv2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

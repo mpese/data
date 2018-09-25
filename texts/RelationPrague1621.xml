@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the manner of the loss of Prague</title>
+            <author>An English Gentleman</author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS389.xml">
+               <msIdentifier xml:id="BL_Harley_MS_389">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 389</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. 1, Nov. 1620-Dec. 1625</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 389</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1620-11-21">21 November 1620</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>account</term>
+               <term>newsletter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Battle of White Mountain</term>
+               <term>Bohemia</term>
+               <term>confessional conflict</term>
+               <term>foreign news</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-04"/>
+            <change status="proofread" who="#NM" when="2018-06-06"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="1r" facs="/bl/harley_ms_389_part/harley_ms_389_f001r/harley_ms_389_f001r.jpg"/>
+         <head>
+            A Relation of the manner of the losse of <lb/>
+            Prague by an English Gentleman there &amp; <lb/>
+            then present <space unit="chars" quantity="3"/> Dated Novemb. 21 <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">1620</tei:add>stylo veteri./ 1620
+         </head>
+         <p>
+            The losse of Prague was &amp; is the last wonder of that k<gap reason="damage" unit="chars" quantity="2"/> <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">//<lb/>Octob 28</tei:add>His Ma<ex>jes</ex>tie coming to Court on the saturday<hi rend="superscript">//</hi> at 3 of the clock, with <lb/>
+            a countenance of glee told his Queene, that the Enimie was come <lb/>
+            within 2 Dutch miles of the Citty, which is 8 English; but his Army <lb/>
+            of 28000 was betwixt them &amp; it. That night we slept securely <lb/>
+            as free from doubt, as we supposed ourselues quit from danger. <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">//<lb/>Octob 29</tei:add>On the Sunday<hi rend="superscript">///</hi> the Lords dined at Court, with whom y<hi rend="superscript">e</hi> Queene <lb/>
+            had taken resolution to go into the Armie: But while we wer<supplied reason="damage">e</supplied> <lb/>
+            at our cuppes, the Enimie was vpon a march towards us; and <lb/>
+            when they were approached within 2 English miles they per=<lb break="no"/>
+            ceived our Armie to ly in plaine not entrenched or any way wi<supplied reason="damage" cert="medium">th</supplied> <lb/>
+            advantage against them. When this was discovered, the Duke <lb/>
+            of Bavaria enquired of a Dominican Friar (who all these warres <lb/>
+            hath beene his Oracle) whether he should fight or no. He going <lb/>
+            a ceremonious time apart returned with an encouragement to <lb/>
+            them to fight, assuring them, a troupe of Angells were over t<supplied reason="damage">hem</supplied> <lb/>
+            for their defence. with this superstition &amp; their owne priuate <lb/>
+            necessitie (for the Enimie had had no bread in 4 days before <lb/>
+            &amp; hardly any water) they putt on a resolution to bring things <supplied cert="low" reason="damage">to</supplied> <lb/>
+            an exigent. For the better effecting of which, they came <gap reason="damage" unit="chars" quantity="4"/> <lb/>
+            bettell aray up an hill on which the Kings cannon were place<supplied cert="medium" reason="damage">d</supplied> <lb/>
+            but so to our small advantage, as that they did disadvantage <lb/>
+            them nothing. At the foot of this ill-defended hill stood the <lb/>
+            Kings forces, but neerer the Citty: and from the topp of the <supplied reason="damage" cert="medium">Hill</supplied>
+            6000 Hungarians put towards the Enimie, the which were <lb/>
+            encountred by a yong man of 30 yeares old called the great <lb/>
+            nephew to the Bishop of Mentz, who onely had some 3 comp<lb break="no"/>
+            nies of horse not surmounting the number of 500, &amp; putt them a<supplied reason="damage">ll</supplied> <lb/>
+            to so base a flight, as that in lesse then halfe an houre all the <lb/>
+            Kingdome of Bohemie was lost. Our foot seeing such a disc<gap reason="damage" unit="chars" quantity="3"/> <lb/>
+            routed &amp; sealed their owne vnworthines with their bloud. <gap reason="damage" unit="chars" quantity="3"/> <lb/>
+            Hungarians like men of their owne mould, forsook their hors<supplied reason="damage">es</supplied> <lb/>
+            their pistolls, their swords, leapt downe headlong to their ow<supplied reason="damage">n</supplied> <lb/>
+            ruine, tooke rivers that served to choak them; and all this p<supplied reason="damage">ro</supplied>
+                <lb break="no"/>
+            ceeding from their first apprehension; for in all this pursuit th<supplied reason="damage">ere</supplied> <lb/>
+            was not a pistoll shott at them, nor did the Enimie well kno<supplied reason="damage">w</supplied> <lb/>
+            whether their flight were fained: For, as since many of them <supplied reason="damage" cert="low">have</supplied> <lb/>
+            protested, had we but made a stand, their Armie had runne. But <lb/>
+            when they perceived it reall, then fell they to execution &amp; cutt <lb/>
+            to peeces 1200 Hungarians, &amp; by this time the Enimies foot <gap reason="damage" unit="chars" quantity="3"/> <lb/>
+            gott our Cannon, &amp; taken all the Kings carriadges, amongst whi<supplied reason="damage">ch</supplied> <lb/>
+            they found a garter of his Order of St Georg.
+         </p>
+         <p>
+            The vnanswerable &amp; unparalleld unworthines of the Prin<supplied reason="damage" cert="medium">ce</supplied>
+            <pb n="1v" facs="/bl/harley_ms_389_part/harley_ms_389_f001v/harley_ms_389_f001v.jpg"/>
+                <add place="header">21 November 1620/1</add>of Anhalt Generall of the foot &amp; of Count Hollock Generall of <lb/>
+            the horse must not, to their perpetuall shame, be left vntold, <lb/>
+            who at the first appearance of danger left the feild &amp; came <lb/>
+            running into the Citty, more pale then death could have made <lb/>
+            them; &amp; never returned to try, if they could againe rally some <lb/>
+            troups which were but disordered &amp; had not as yet felt y<hi rend="superscript">e</hi> danger <lb/>
+            of a bullet or sword. None of any worth, <sic>none of any worth</sic> <lb/>
+            forbore the Citty, but the Prince of Anhalts son, who to wash o<supplied reason="damage">ff</supplied> <lb/>
+            (as I conceive) his fathers leprosie of cowardize, shedd much <lb/>
+            bloud, fought gallantly, &amp; is now the Enimies wounded prisoner <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+                  Thurne</tei:add>With him stayd the Grave van Tour<hi rend="superscript">+</hi> an old &amp; gallant noble <lb/>
+            man, who till the day shutt in, shutt not himselfe into the Citty. <lb/>
+            At this discomfortable Feast the people ot Moravia gave worst<lb/>
+            entertainment to their vnwelcome guests, for they have the <lb/>
+            honour of their deaths carved vpon their bodies in great char<lb break="no"/>
+            acters: In this slaughter there dyed on the conquered parte <lb/>
+            about 4000 &amp; on the Conquering not a 1000 confest, &amp; all <lb/>
+            done in as short a time as so many throats could be cutt.
+         </p>
+         <p>
+            But to adde to this strange tale a relation scarse to be be<lb break="no"/>
+            leeved, is that 4000 being but lost of 28000, we could <del rend="strikethrough">
+                    <gap reason="illegible" quantity="5" unit="chars"/>
+                </del> <lb/>
+            never heare, what became of the saved multitude, nor as ye<unclear reason="damage">t</unclear> <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+                    <supplied reason="damage">w</supplied>eeks after</tei:add>where they are: for those that felt not this furie, had they <lb/>
+            beene reinforced, had beene enough to have kept the Cittie <lb/>
+            from twise so many as the Enimie was, who was but 26000 <lb/>
+            stronge
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_389_part/harley_ms_389_f001r/harley_ms_389_f001r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_389_part/harley_ms_389_f001v/harley_ms_389_f001v.jpg"/>
+   </facsimile>
+</TEI>

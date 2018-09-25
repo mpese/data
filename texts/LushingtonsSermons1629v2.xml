@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon on News</title>
+            <author>
+               <persName corresp="../people/people.xml#P0105">Thomas Lushington</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_213">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 213</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="LushingtonsSermons1629v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLLansdowneMS213.xml">British Library, Lansdowne MS 213, ff. 177r–177v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1629" notBefore="1629-10-06">1629</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>sermon</term>
+               <term>conversation</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>news culture</term>
+               <term>confessional conflict</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="36v" facs="/bl/add_ms_22959/add_ms_22959_f036v/add_ms_22959_f036v.jpg"/>
+         <p>
+            <add place="LM">
+               Dr Lushingtons sermo<ex>n</ex>
+            </add>
+            Octob. 6. I was at Mondeford courte where <lb/>
+            asking Mr Tayler what newes, he tould me that <lb/>
+            Mr Barret had there showen a sermo<ex>n</ex> unprinted <lb/>
+            lately preached at Whitehall before the king upo<ex>n</ex> <lb/>
+            Mat. 28. 13 Saying, say ye, his disciples came by night &amp;c. <lb/>
+            by Dr Lushington Oxfordiens./ I asked the drifte of it <lb/>
+            he tould me Witte. I asked what was remarkeable <lb/>
+            he said. First the beginning. What newes? Euery man <lb/>
+            askes what newes. Every ma<ex>n</ex>s religion is knowne by his <lb/>
+            newes, the Puritan talkes of Bethlehem Gabor &amp;c <lb/>
+            Besides this, the doctor fell belike to Personate the <lb/>
+            <del rend="strikethrough">Elders</del> chiefe Priests &amp; Elders in a flourishing descrip=<lb break="no"/>
+            tio<ex>n</ex> of our Sauiour &amp; his Apostles as impostors &amp;c. (a 
+            <pb n="37r" facs="/bl/add_ms_22959/add_ms_22959_f037r/add_ms_22959_f037r.jpg"/>
+            wicked witte) &amp; then comes to demande why the soldiers <lb/>
+            should say it &amp;c. because saith he (yet he mistooke his <lb/>
+            marke see uerse 14) the soldiers were audiacious &amp; durst <lb/>
+            doe any thing. In those times (said he) the soldiers did de=<lb break="no"/>
+            pose &amp; chuse Emperors. yet the time had beene when the <lb/>
+            priests did this. But now pesants will doe all by Pre=<lb break="no"/>
+            rogatiue of Parliament &amp;c. + 
+            <figure>
+               <figDesc>Three-leaved flower</figDesc>
+            </figure>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f036v/add_ms_22959_f036v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f037r/add_ms_22959_f037r.jpg"/>
+   </facsimile>
+</TEI>

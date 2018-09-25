@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters</title>
+            <author>
+               <persName corresp="../people/people.xml#P0055">John Leslie, Earl of Rothes</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0020">Philip Herbert, Earl of Pembroke and Montgomery</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11045.xml">
+               <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11045</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_3876">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 3876</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4106">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4106</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, ff. 48r–49r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4106.xml">British Library, Additional MS 4106, ff. 191r–196v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3876.xml">British Library, Egerton MS 3876, ff. 205r–206v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72432.xml">British Library, Additional MS 72432, ff. 116r–117r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72432.xml">British Library, Additional MS 72432, ff. 118r–119r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 409r–413v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_7830.xml">Huntington Library,  EL 7830</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U2691Oo208.xml">Kent Archives,  U26/1/Oo208</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_25.xml">Woburn Abbey,  MS 25</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640" from="1640-01-29" to="1640-03-08">29 January &amp; 8 March 1640</date>
+            <placeName corresp="../places/places.xml#PL0009">Edinburgh</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-04"/>
+            <change status="proofread" who="#NM" when="2018-06-06"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="97r" facs="/bl/add_ms_11045_part/add_ms_11045_f097r/add_ms_11045_f097r.jpg"/>
+         <p>
+            Concerneing my lord Savile, I doe heare, that there are twoe <lb/>
+            more wittnesses, that will depose they heard him tell the people <lb/>
+            to animate them to chouse Mr. <sic>Hoborne</sic> a Burgesse, That Mr. <lb/>
+            <sic>Hoborne</sic> did alwayes oppose the kinge, the shipp monye and all <lb/>
+            monopolies what soever; It seemes the first accuser declard <lb/>
+            soe much, but I was misinformd; but of this, I am certaine, <lb/>
+            That their lo<ex>rdshi</ex>ps did not approve of that which my lord <lb/>
+            Savile confest himselfe
+            <gap extent="multiple lines" reason="elision"/>
+            <pb n="97v" facs="/bl/add_ms_11045_part/add_ms_11045_f097v/add_ms_11045_f097v.jpg"/>
+            <pb n="98r" facs="/bl/add_ms_11045_part/add_ms_11045_f098r/add_ms_11045_f098r.jpg"/>
+            <gap extent="multiple lines" reason="elision"/>
+            My lord Chamberleine <lb/>
+            receavd a letter lately from my lord Rothes out of Scotland which <lb/>
+            hee shewed to his Ma<ex>jes</ex>tie being much offended, my lord Rothes should <lb/>
+            fasten such Calumnies vpon him, the coppie of which letter, <lb/>
+            with my lord Chamberleins aunsweare here followeth:
+         </p>
+         <p>
+            my noble lord, <space extent="6" unit="chars"/>	I haue large incouragements to vse <lb/>
+            freedome, both from your owne favours to mee, and my affections <lb/>
+            to your lo<ex>rdshi</ex>pe, and soe might expostulate for with draweing <lb/>
+            your wonted, and even lately expressed respects at the Campe <lb/>
+            to this nation: you found wee had reason for our lawfull de=<lb break="no"/>
+            fence, and that wee had loyall harts to our Prince, and Iustice <lb/>
+            in all our desires, which movd you to pleade for vs, and soe <lb/>
+            ingagd the affections of many to you, but sithence, when my lord <lb/>
+            Traquaire made his relation <del rend="strikethrough">
+                    <gap reason="illegible" quantity="3" unit="chars"/>h</del> that movd hard conclusions <lb/>
+            against vs, not requireing soe much, as that it should not obtaine <lb/>
+            truth to the preiudice of a whole nation, till wee weere heard, <lb/>
+            and agreeing that an armye should bee leavyed, and lending <lb/>
+            monyes hath much greived vs, to bee disappointed of one wee <lb/>
+            soe much trusted: I haue therefore made bold to intreate <lb/>
+            that wee may keepe better correspondencie, or ells by mistake, <lb/>
+            wee maye bee brought againe to begin a mischeife, that will <lb/>
+            not end <add place="above">in</add> our dayes, as wee haue formerly declind yt, soe shall <lb/>
+            it not bee our fault, and it lyeth in your lo<ex>rdshi</ex>pe, and other greate <lb/>
+            persons to pr<ex>e</ex>vent these evills; you haue livd in all greate <lb/>
+            ease, and plentie as any nation in the world, and if you like <lb/>
+            to interrupt your owne happinesse for the pleasure of some <lb/>
+            <milestone unit="section" type="LM"/>
+            <seg style="transform:rotateZ(90deg)">
+               Prelates, whoe will share little in the hardshipp, and daungers, that will bee indured, you are not well advised: The Earle of Dum=<lb break="no"/>
+               farmlyn, and lord Lowdun are sent with full information of our businesse. they will waight vpon your lo<ex>rdshi</ex>pe, and expect your <lb/>
+               wonted assistance, They all asmuch as maye bee decline warre, except you will needes nowe haue it: wee hope your lo<ex>rdshi</ex>pe, <lb/>
+               and others will make vse of these reasons for the right end, which will fix a greate deale of obligation from both nations <lb/>
+               on you, and shall infinitely increase my respects, desireing to continue your lo<ex>rdshi</ex>ps humble servant, Rothes: Edenburg 29. January: <lb/>
+               My lord Chamberleins aunsweare followeth, <space extent="6" unit="chars"/> My good lord, <space extent="5" unit="chars"/>	The Civilityes, and good respects which I placed 
+            </seg>
+            <pb n="98v" facs="/bl/add_ms_11045_part/add_ms_11045_f098v/add_ms_11045_f098v.jpg"/>
+                <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">1639 March .13. E. R.</tei:add>vpon you, and your nation at my tyme of my being in the Campe, <lb/>
+            you stile incouragements, and insinuate them, as reasons, why <lb/>
+            you maye expostulate with mee: <add place="above">your</add>
+                <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> premisses, I allowe <lb/>
+            you, but your <del rend="strikethrough">infernall</del> inference I returne you againe, as fuller <lb/>
+            of sophistry, and meane designe, then of truth, and reason: first, <lb/>
+            I never allowed your defence lawfully vndertaken by other armes <lb/>
+            then by Petitions, and prayers to your Master, I never found <lb/>
+            loyaltie in your Covenant, or duety in your takeing vpp armes: <lb/>
+            I never affirmed the Iustice of your cause, neither did I consider <lb/>
+            soe much the meritts thereof, as I did your vnwarrantable, and <lb/>
+            tumultuous disobedience herein vnto your kinge, with the vexation <lb/>
+            and disturbance it brought uppon the nobillity of this kingdome, <lb/>
+            neither was I in all this commotion, your advocate, but for other <lb/>
+            reasons suffered my selfe to become a mediator to his Ma<ex>jes</ex>tie for <lb/>
+            your peace, and forgivenesse, movd there vnto by your frequent <lb/>
+            protestations of payeing all duety, and loyaltie, unto your masters <lb/>
+            commaunds: if from hence you happily gaind from mee an easier <lb/>
+            credulity, then your maskt designes deservd, at my hands, I knowe <lb/>
+            not why you should obtrude to mee an alteration of my opinion <lb/>
+            or a withdraweing of my (but conditionall) respects to you: thus <lb/>
+            farr in aunsweare what concernes mee: And nowe, as a <lb/>
+            Counsellour of England, lett mee bee bold to expostulate with you <lb/>
+            vpon that which followeth in your letter: Howe comes it to <lb/>
+            passe, that you should vpbraide vs, or expect from vs, that <lb/>
+            wee should not give creditt to my lord Traquaires relation, <lb/>
+            That wee did not mediate with the kinge to change his <lb/>
+            resolution of sending forth an armye, and that wee did not <lb/>
+            denye the kinge loanes of mony, for his service: <space extent="4" unit="chars"/> my lord, <lb/>
+            These inforcements perhaps, as little become you, as it is <lb/>
+            certainely unlawfull, and vndutifull <del rend="strikethrough">to</del>
+                <add place="above">in</add> the subiects of Eng=<lb break="no"/>
+            land to dispute it with their kinge: you maye pretend <lb/>
+            Religion to bee the sole cause of your greivance, but wee be=<lb break="no"/>
+            leive it a woefull Religion here, that hath thus devested <lb/>
+            it selfe of all morrall duety, and civility to their Prince: <lb/>
+            nay, you goe further, you threatten, and feare vs with a <lb/>
+            mischeife, that will not end in our dayes, and boldly make <lb/>
+            it your owne act to haue declind it heretofore without obliga=<lb break="no"/>
+            tion to the kings mercy at all; you tell vs of plenty, and ease, <lb/>
+            and happinesse many yeares inioyed, and wonder, wee <lb/>
+            should expose all these to hazard for the pleasure of some <lb/>
+            fewe Prelates: <space extent="4" unit="chars"/> my lord, These are arguments for <lb/>
+            common people, and men of broaken fancies to feede vpon, <lb/>
+            and such suggestions will not find, nor make a party here; <lb/>
+            Perhapps it maye blowe them into a flame, whose zeale <lb/>
+            had already burnt vpp their duety, and conscionable alle=<lb break="no"/>
+            gience vnto their master: <space extent="4" unit="chars"/> To bee short <add place="above">as</add> I never held <lb/>
+            a correspondencie of businesse with your lo<ex>rdshi</ex>pe, soe your letters
+            <milestone unit="section" type="LM"/>
+            <seg style="transform:rotateZ(90deg)">
+               hath assured mee, it is daungerous to begin yt: yet for the Peace of both the Churches, and kingdomes, I will adventure <lb/>
+               to give you this Intelligence, That wee haue not <del rend="strikethrough">this Intelligence</del> in our Councells here, proceeded ag<ex>ains</ex>t you without <lb/>
+               deliberation, a good conscience, and a iust sence of honour: neither shall I, or any of vs bee intreated, or feared by <lb/>
+               any of you from contributeing our assents, or fortunes there vnto, but as our Master shall commaund vs. Lastly, Know you, <lb/>
+               my lord of Rothes, that the returne of my old freindshipp to you is to bee expected, when I shall heare of your renova=<lb break="no"/>
+               tion, Bee simply my lord Rothes, and not a Covenanter, I shall bee the same freind, Pembroke, 8. March 1639./
+            </seg>
+         </p>
+         <p>
+            <hi rend="align-right">March the 13.th 1639</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11045_part/add_ms_11045_f097r/add_ms_11045_f097r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11045_part/add_ms_11045_f097v/add_ms_11045_f097v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11045_part/add_ms_11045_f098r/add_ms_11045_f098r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11045_part/add_ms_11045_f098v/add_ms_11045_f098v.jpg"/>
+   </facsimile>
+</TEI>

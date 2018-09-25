@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to the Lords at York</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11045.xml">
+               <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11045</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_2651">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 2651</idno>
+               <msName>Barrington family papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_7162">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 7162</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3791">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3791</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2111">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2111</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_57929">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 57929</idno>
+               <msName>Register of Business for the Scots Commissioners at Ripon</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70082">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70082</idno>
+               <msName>Portland Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, f. 71r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3791.xml">British Library, Harley MS 3791, f. 5r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="CharlesSpeechYork1640v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, f. 68r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS7162.xml">British Library, Harley MS 7162, ff. 57x–60**x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 73r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_57929.xml">British Library, Additional MS 57929, ff. 16v–17r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_70082.xml">British Library, Additional MS 70082, item 27</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_2651.xml">British Library, Egerton MS 2651, f. 99r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2111.xml">British Library, Harley MS 2111, f. 158r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_3317.xml">British Library, Sloane MS 3317, ff. 7r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_OSB_MSS_28.xml">Beinecke Library, OSB MSS 28, Box 2, Folder 25, item 42, 526r–527r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b297.xml">Beinecke Library, Osborn b297, item 13</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_800.xml">Bodleian Library,  MS Ashmole 800, ff. 112r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, ff. 222r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_103.xml">Bodleian Library,  MS Carte 103, ff. 88r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_19.xml">Bodleian Library,  MS Clarendon 19, f. 43r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_19.xml">Bodleian Library,  MS Clarendon 19, f. 44r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, f. 122r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, ff. 123r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, f. 138r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_VMP_1.xml">Durham University Library, VMP 1, pp20–21</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa192.xml">Folger Shakespeare Library,  MS V.a.192, ff. 57r–58r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_DELwZ8.xml">Hertfordshire Archives and Local Studies,  D/ELw/Z8</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_JO_10_1_42.xml">Parliamentary Archives,  HL/PO/JO/10/1/42, ff. 170v–171r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_466.xml">The National Archives,  SP 16/466, /42 [ff.118v–119r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_O_1_35.xml">Trinity College,  MS O.1.35, f. 5r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/University_College_Oxford_MS_83.xml">University College,  MS 83 [on deposit at the Bodleian], f. 2r</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="part">2</biblScope>
+                  <biblScope unit="page" from="1275" to="1286">1275-1286</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Nalson</surname>
+                     </persName>
+                  </author>
+                  <title>Impartiall Collection of the Great Affairs of State</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1682" from="1682" to="1683">1682-1683</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="4542" to="4543">4[5]42-4[5]43</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1640-09-24">24 September 1640</date>
+            <placeName corresp="../places/places.xml#PL0015">York</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+               <term>report</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Personal Rule</term>
+               <term>Bishops' Wars</term>
+               <term>parliament</term>
+               <term>revenue</term>
+               <term>army</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-04"/>
+            <change status="proofread" who="#NM" when="2018-06-22"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="119r" facs="/bl/add_ms_11045_part/add_ms_11045_f119r/add_ms_11045_f119r.jpg"/>
+         <p>
+            The last weeke <lb/>
+            all the subscrybing Lords of the Petit<ex>i</ex>on Came into Yorke together <lb/>
+            w<ex>i</ex>th resoluc<ex>i</ex>on not to receede from one tytle of their petic<ex/>on: The <lb/>
+            King vseth all the Peeres w<ex>i</ex>th all possible kindnesse, and vpon Thurs=<lb break="no"/>
+            day last being the 24th makes a good speech to them, That vpon <lb/>
+            invasions, when Dangers were neere and instant, the Custome of <lb/>
+            his Ma<ex>jes</ex>ties predecessors had beene to assemble the great Councell <lb/>
+            of the Peeres by their Advice to giue timely remedy to such evills <lb/>
+            as could not admitt the delay of calling a Parliam<ex>en</ex>t, this being <lb/>
+            o<ex>u</ex>r Condic<ex>i</ex>on at this tyme, an Army of Rebells being lodged w<ex>i</ex>thin <lb/>
+            the Kingdome: In the first place, the King declared, that of <lb/>
+            himselfe hee had resolued to call his Parliam<ex>en</ex>t, my Lo<ex>rd</ex> Keeper <lb/>
+            having order to issue writts to assemble the Parliam<ex>en</ex>t the third <lb/>
+            of November next, whither if the Subiects bring those good <lb/>
+            affecc<ex>i</ex>ons, w<ex>hi</ex>ch become them towards him, it shall not faile on his <lb/>
+            parte to make it a happie meeting: but his Ma<ex>jes</ex>ty requires their <lb/>
+            present Advice in two thinge, w<ex>hi</ex>ch were the Causes of their <lb/>
+            meeting, first, what Answer to giue to the petic<ex>i</ex>on of the Rebells, <lb/>
+            and in what manner to treate w<ex>i</ex>th them, of w<ex>hi</ex>ch that they may <lb/>
+            giue a surer Iudgm<ex>en</ex>t, his Ma<ex>jes</ex>tie hath ordered their Lo<ex>rdshi</ex>pps shalbee <lb/>
+            clearely and truly informed of the state of the whole businesse, <lb/>
+            and vpon what reasons the Advices, that the privy Councell gaue <lb/>
+            his Ma<ex>jes</ex>ty vnanimously, were grounded: The second is, how the Army <lb/>
+            shalbee kept on foote, and mayntained, whiles the supply of a Parliam<ex>en</ex>t <lb/>
+            may be had, for so long, as the Scotts Army remaynes in England, his <lb/>
+            Ma<ex>jes</ex>ty thinkes noe man will Councell him to disband, for that would <lb/>
+            be an vnspeakeable losse to all that parte of the Kingdome, by sub=<lb break="no"/>
+            iecting them to the greedy appetite of Rebells, besides the unspea=<lb break="no"/>
+            kable dishonour, that would thereby fall vpon this Nac<ex>i</ex>on, thus <lb/>
+            farre the Kings Speech; And nowe the King hath wholly <lb/>
+            put this busines into the hands of his Peeres to doe what <lb/>
+            they shall see fitt w<ex>i</ex>th this Caution, that if they Conclude <lb/>
+            vpon dishono<ex>ura</ex>ble Condic<ex>i</ex>ons, hee will not haue anie thing to doe <lb/>
+            in it, the dishonour shall fall vpon them, and their posterity, but <lb/>
+            as they agree, so it shall stand, and because the Scotts in a <lb/>
+            newe petic<ex>i</ex>on of the 24th present, desire a meeting of the <lb/>
+            English Lords, therefore theis 16. following are appoynted to meete <lb/>
+            and treate at Rippon. <hi rend="italic">Bedford, Hartford, Essex, Salisbury <lb/>
+            Bristowe Warwicke, Holland, and Barkshire, Barons Pagett, <lb/>
+            Mandavile, Pawlett, Wharton, Howard, Dunsmore, Savile, <lb/>
+               and Brooke:</hi>
+                <lb/>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11045_part/add_ms_11045_f118r/add_ms_11045_f118r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11045_part/add_ms_11045_f118v/add_ms_11045_f118v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11045_part/add_ms_11045_f119r/add_ms_11045_f119r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11045_part/add_ms_11045_f119v/add_ms_11045_f119v.jpg"/>
+   </facsimile>
+</TEI>

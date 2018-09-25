@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Statement on the assassination of the Duke of Buckingham (and a chronogram of Buckingham's name)</title>
+                <author>
+                    <persName corresp="../people/people.xml#P0002">John Felton</persName>
+                </author>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                
+                <msDesc corresp="../mss/BLHarleyMS537.xml">
+                    <msIdentifier xml:id="BL_Harley_MS_537">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 537</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 537</p>
+                </msDesc>
+                <listBibl xml:id="mss_witness">
+                    <bibl>
+                        <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Sloane_MS_1199">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Sloane</collection>
+               <idno>MS 1199</idno>
+               <msName>Dr Benfield's notebook</msName>
+            </msIdentifier>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="FeltonStatement1628v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, f. 25v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="FeltonStatement1628v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, f. 24r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS826.xml">British Library, Sloane MS 826, ff. 133r–v</ref>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date when="1628-08-23">23 August 1628</date>
+                <placeName/>
+            </creation>
+            <langUsage>
+                <language ident="EN">English</language>
+            </langUsage>
+            <textClass>
+                <keywords n="text-type">
+                    <term>speech</term>
+                    <term>statement</term>
+                    <term>note</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords n="topic-keyword">
+                    <term>John Felton</term>
+                    <term>assassination</term>
+                    <term>Duke of Buckingham</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2018-06-19" who="#SV" status="proofread"/>
+                <change when="2018-01-25" who="#RB" status="draft"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <pb n="104r" facs="/bl/harley_ms_537_part/harley_ms_537_f104r/harley_ms_537_f104r.jpg"/>
+            <p>
+               Let no man commend mee for doing it, but rather discommend <lb/>
+               themselues, for if God had not taken away ther hurts for ther <lb/>
+               sinnes, hee had not gone soe long unpunished.
+            </p>
+            <p rend="align-right">
+               Iohn Felton.
+            </p>
+            <p>
+                That man in my opinion <del rend="strikethrough">wa</del>is cowardlie &amp; base &amp; deserveth <lb/>
+                neither the name of a gentleman, nor souldier that is unwilling <lb/>
+                to sacrifice his life for the honour of God, and the good of <lb/>
+                his King and Countrie
+            </p>
+            <p rend="align-right">
+               Iohn Felton.
+            </p>
+            <lg>
+                <l>
+                    <handShift medium="lighter ink"/>Mens bona non vaga sors, virtus non gratia Regis </l>
+                <l>Nomina cui tribuit Dux bone convaleas </l>
+                <l>Exitium caput hoc fugiat nec turbida tollant </l>
+                <l>Tempora te curis o precor eripiant </l>   
+                <l>Carminibus tua sit victuris instia virtus </l>   
+                <l>Viuida nec lethes te vada <add place="above">
+                    <handShift medium="black ink"/>1 5 <space unit="chars" extent="2"/> 500 5 10 5 100 1 <space unit="chars" extent="5"/> 1000 1</add> <handShift medium="lighter ink"/>
+                    surrpiant
+                </l>    
+            </lg>
+            <p rend="indent">
+                <handShift medium="black ink"/>
+                GeorgIVs DVX BVckINghaMIæ.
+            </p>
+            <p rend="indent">
+                M.DC.XVVVIII.
+            </p>
+            <p rend="indent">
+                <handShift medium="lighter ink"/>
+                Sit tibi climacterius annus.
+            </p>
+            <p>
+                Locto iam soeclo tandem sol pertulit annum <lb/>
+                Noni non videat quoesumus alme diem
+            </p>
+            <p>
+                Thie numerous name w<ex>i</ex>th this yeare doth agree <lb/>
+                But twentie nine heavens grant thou ne<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>'re see.
+            </p>
+        </body>
+    </text>
+    <facsimile>
+        <graphic n="1" url="/bl/harley_ms_537_part/harley_ms_537_f104r/harley_ms_537_f104r.jpg"/>
+    </facsimile>
+</TEI>

@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 537</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_537">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 537</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                 <msItem n="1">
+                   <locus>56r-62v</locus>
+                   <title when="1632-12-22">Letter to Sir Miles Fleetwood, his father, on the death of the King of Sweden</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0088">Sir George Fleetwood</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/FleetwoodToFleetwood1632.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1632-12-22"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>80r, 81r, 81*v, 82r-85v, 86r</locus>
+                   <title notBefore="1617">Separate Catalogues</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                        <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/StarkeyCataloguev1.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1617"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>104r</locus>
+                   <title when="1628-08-23">Statement on the assasination of the Duke of Buckingham (and a chronogram of Buckingham's name)</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0002">John Felton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/FeltonStatement1628v2.xml" type="witness"/>
+                   <link target="../texts/FeltonStatement1628v1.xml" type="witness"/>
+                   <link target="../texts/FeltonStatement1628v3.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1628-08-23"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_537_part/harley_ms_537_f056r/harley_ms_537_f056r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_537_part/harley_ms_537_f056v/harley_ms_537_f056v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_537_part/harley_ms_537_f057r/harley_ms_537_f057r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_537_part/harley_ms_537_f057v/harley_ms_537_f057v.jpg"/>
+      <graphic n="5" url="/bl/harley_ms_537_part/harley_ms_537_f058r/harley_ms_537_f058r.jpg"/>
+      <graphic n="6" url="/bl/harley_ms_537_part/harley_ms_537_f058v/harley_ms_537_f058v.jpg"/>
+      <graphic n="7" url="/bl/harley_ms_537_part/harley_ms_537_f059r/harley_ms_537_f059r.jpg"/>
+      <graphic n="8" url="/bl/harley_ms_537_part/harley_ms_537_f059v/harley_ms_537_f059v.jpg"/>
+      <graphic n="9" url="/bl/harley_ms_537_part/harley_ms_537_f060r/harley_ms_537_f060r.jpg"/>
+      <graphic n="10" url="/bl/harley_ms_537_part/harley_ms_537_f060v/harley_ms_537_f060v.jpg"/>
+      <graphic n="11" url="/bl/harley_ms_537_part/harley_ms_537_f061r/harley_ms_537_f061r.jpg"/>
+      <graphic n="12" url="/bl/harley_ms_537_part/harley_ms_537_f061v/harley_ms_537_f061v.jpg"/>
+      <graphic n="13" url="/bl/harley_ms_537_part/harley_ms_537_f062r/harley_ms_537_f062r.jpg"/>
+      <graphic n="14" url="/bl/harley_ms_537_part/harley_ms_537_f062v/harley_ms_537_f062v.jpg"/>
+      <graphic n="15" url="/bl/harley_ms_537_part/harley_ms_537_f080r/harley_ms_537_f080r.jpg"/>
+      <graphic n="16" url="/bl/harley_ms_537_part/harley_ms_537_f081r/harley_ms_537_f081r.jpg"/>
+      <graphic n="17" url="/bl/harley_ms_537_part/harley_ms_537_f081starv/harley_ms_537_f081starv.jpg"/>
+      <graphic n="18" url="/bl/harley_ms_537_part/harley_ms_537_f082r/harley_ms_537_f082r.jpg"/>
+      <graphic n="19" url="/bl/harley_ms_537_part/harley_ms_537_f082v/harley_ms_537_f082v.jpg"/>
+      <graphic n="20" url="/bl/harley_ms_537_part/harley_ms_537_f083r/harley_ms_537_f083r.jpg"/>
+      <graphic n="21" url="/bl/harley_ms_537_part/harley_ms_537_f083v/harley_ms_537_f083v.jpg"/>
+      <graphic n="22" url="/bl/harley_ms_537_part/harley_ms_537_f084r/harley_ms_537_f084r.jpg"/>
+      <graphic n="23" url="/bl/harley_ms_537_part/harley_ms_537_f084v/harley_ms_537_f084v.jpg"/>
+      <graphic n="24" url="/bl/harley_ms_537_part/harley_ms_537_f085r/harley_ms_537_f085r.jpg"/>
+      <graphic n="25" url="/bl/harley_ms_537_part/harley_ms_537_f085v/harley_ms_537_f085v.jpg"/>
+      <graphic n="26" url="/bl/harley_ms_537_part/harley_ms_537_f086r/harley_ms_537_f086r.jpg"/>
+      <graphic n="27" url="/bl/harley_ms_537_part/harley_ms_537_f104r/harley_ms_537_f104r.jpg"/>
+   </facsimile>
+</TEI>

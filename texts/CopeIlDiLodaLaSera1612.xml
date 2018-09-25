@@ -1,0 +1,900 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il Di Lodi La Sera</title>
+            <author>
+               <persName corresp="../people/people.xml#P0117">Sir Walter Cope</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddms11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_40629">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 40629</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34323">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34323</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_151">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 151</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72407">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72407</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_3378">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 3378</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_Oxford_MS_117">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 117</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/AllSoulsOxfordMS117.xml">All Souls College,  MS 117, f. 147v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS34323.xml">British Library, Additional MS 34323, ff. 1r–15r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS40629.xml">British Library, Additional MS 40629, ff. 106r–114v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72407.xml">British Library, Additional MS 72407, ff. 44r–51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3378.xml">British Library, Egerton MS 3378, ff. 28r–34r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS151.xml">British Library, Lansdowne MS 151, ff. 112r–124v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb40.xml">Beinecke Library, Osborn fb40, ff. 557x–580x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_265.xml">Bodleian Library,  MS Tanner 265, ff. 29r–31v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_74.xml">Bodleian Library,  MS Tanner 74, ff. 17r–20v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee232.xml">Cambridge University Library,  MS Ee.2.32, ff. 183r–195r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_36.xml">Inner Temple Library, Petyt MS 538/36, ff. 211r–217r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDAH511.xml">Somerset Archives,  DD\AH/51/1, item 5</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_309.xml">Senate House, University of London,  MS 309, ff. 275x–289x</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title>Collectanea Curiosa</title>
+                  <editor>John Gutch</editor>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Clarendon Press</publisher>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="119" to="133">119-133</biblScope>
+                  <date when="1781">1781</date>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1612">1612&gt;</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>apology</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-09" who="#RB" status="draft"/>
+            <change when="2018-03-20" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="35r" facs="/bl/add_ms_11600/add_ms_11600_f035r/add_ms_11600_f035r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="italic">
+               An Apologie vppon the death of S<ex>i</ex>r Robert <lb/>
+               Cecill Knight Lord Treasurer of England <lb/>
+               writen against his Libellers and presented <lb/>
+               to Kinge James.   / <lb/>
+               <lb/>
+               Il di loda la sera.  /
+            </hi>
+         </head>
+         <fw type="catch" place="bot-right">It</fw>
+         <pb n="35v" facs="/bl/add_ms_11600/add_ms_11600_f035v/add_ms_11600_f035v.jpg"/>
+         <p>
+            It was an Impresse of a great Secretarie of this <lb/>
+            State, and may now welbe applyed vnto a greater <lb/>
+            then himselfe. The night prayses the day the <lb/>
+            death the life, the end the action. But what <lb/>
+            availes it, be the day neuer so faire the life neuer <lb/>
+            so cleere yf night com and wrapp up all theire  <lb/>
+            beauties in darkenes and confusion. The late <lb/>
+            Lord Tr<ex>easur</ex>er for wisdome and integritie exceeding <lb/>
+            all or most that eu<ex>er</ex> went before him, whome <lb/>
+            liveinge the world obserued with all admirac<ex>i</ex>on <lb/>
+            and applause, noe sooner died but it p<ex>re</ex>sently <lb/>
+            seeketh to suppresse his excellente part<ex>es</ex> / <lb/>
+            and to loade his Memorie with all imputacons <lb/>
+            of Corruption. If he had lived he would haue  <lb/>
+            answered for me, which makes me (<ex>th</ex>e meanest    <lb/>
+            of many) to take <ex>th</ex>e bouldnes to answere for <lb/>
+            him, that cannott answere for himselfe. I <lb/>
+            held it base to flatt<ex>e</ex>r him in this life, I will <lb/>
+            not now begin to flatt<ex>e</ex>r him in <ex>th</ex>e graue to offer <lb/>
+            such incense to the dead I account <ex>th</ex>e baseste <lb/>
+            kind of sacrifice, what he was what he did  <lb/>
+            what he deserued I will shortly declare. /
+         </p>
+         <p>
+            <hi rend="italic">He</hi> was by nature milde courteous &amp; affable / <lb/>
+            and if tired with affaires or impatient of idle <lb/>
+            motions or impertinent answeres, he had bin <lb/>
+            moued to make any sooner replie, He was in <lb/>
+            this like his father neuer prowd of op<ex>er</ex>tunity <lb/>
+            to giue to the meanest satisfacc<ex>i</ex>on. / In his wisdome <lb/>
+            he was able to <del rend="strikethrough">ext</del> disinguist betweene truth &amp; <lb/>
+            faleshood his his eye could perce through <ex>th</ex>e Mists <lb/>
+            and vales of <ex>th</ex>e Darkest causes quicke of conceipte <lb/>
+            easie of deliu<ex>er</ex>ie soe full of p<ex>ro</ex>uidence and Industry <lb/>
+            as he neu<ex>er</ex> suffered occation to turne her backe. / <lb/>
+            He was plentifull in almes, hartie and good  <lb/>
+            workes, full of honor and honesty to his freind 
+            <pb n="36r" facs="/bl/add_ms_11600/add_ms_11600_f036r/add_ms_11600_f036r.jpg"/>
+            and noe malicious percecut<ex>o</ex>r of his enemies, He loved <lb/>
+            Iustice as his life and <ex>th</ex>e lawes as his Inheritance, <lb/>
+            He loued equitie <ex>th</ex>e true umpresse betweene them <lb/>
+            both as moderatrix of extreames, <ex>th</ex>e harte of man <lb/>
+            was never more free from bassnes or bribe <lb/>
+            he hated <ex>th</ex>e bribe and the taker, he was one <lb/>
+            of those of whome <hi rend="italic">Kinge Dauid</hi> speakes <foreign xml:lang="la">
+                    <hi rend="italic">Qui <lb/>
+            Munera  supra innocentem non accepit</hi>
+                </foreign> so cleare <lb/>
+            were his hands from theere basse Corruption <lb/>
+            that I suposed rumor and reporte would haue <lb/>
+            bin affraid once to haue raysed such sland<ex>e</ex>rs of <lb/>
+            him.  / But what doe I complaine of rumor &amp; reporte <lb/>
+            w<ex>hi</ex>ch beinge but <ex>th</ex>e breath of vnconstant People dayely <lb/>
+            Varies and eu<ex>er</ex> speakes of extreames, one day it crieth <lb/>
+            <hi rend="italic">Hosanna</hi> another day <hi rend="italic">Crucifye</hi>, of whome it is trulie <lb/>
+            said <foreign xml:lang="la">
+                    <hi rend="italic">honesta vix Creduntur tristia facile spargantur <lb/>
+            in vulgus.</hi>
+                </foreign> Imaginac<ex>i</ex>on with them goe for currante <lb/>
+            truthes, whereby it often falles out as at this p<ex>re</ex>sent, <lb/>
+            that the acc<ex>i</ex>ons of <ex>th</ex>e iustest men are worse reported
+         </p>
+         <p>
+            Such are the frutes of Envy beinge a moath and kanker <lb/>
+            of <ex>th</ex>e minde, <ex>th</ex>e <hi rend="italic">Cantarides</hi> euer haue and will croppe <lb/>
+            <ex>th</ex>e fairest flow<ex>e</ex>rs and some doggs will barke againste <lb/>
+            <ex>th</ex>e brightest moone, If by lawes of <hi rend="italic">Moses</hi> cursed was <lb/>
+            he that stroke his neighbour secretly, what shall wee <lb/>
+            saye of them that wound <ex>th</ex>e dep<ex>ar</ex>ted in the Graue / <lb/>
+            and seeke to Murder <ex>th</ex>e good report of <ex>th</ex>e liveinge <lb/>
+            and <ex>th</ex>e dead, But what glorie is it to wraskle w<ex>i</ex>th <lb/>
+            shaddowes that cannot answere for themselves. / <lb/>
+            how easilie may <ex>th</ex>e simpliest sheepe leape ou<ex>er</ex> <ex>th</ex>e dead <lb/>
+            Lyon, and how inhumane a thinge it is to rake into <lb/>
+            <ex>th</ex>e sepulchers of <ex>th</ex>e departed what fond darings when <lb/>
+            he breake open <ex>th</ex>e tombe of Simiramis the Queene
+            <pb n="36v" facs="/bl/add_ms_11600/add_ms_11600_f036v/add_ms_11600_f036v.jpg"/>
+            expectinge accordinge to <ex>th</ex>e inscription to haue found <lb/>
+            great store of treasure in stead of riches he <lb/>
+            found this reproofe o thou vnsatiable and vnworthy <lb/>
+            wretch that out of a covetous humor seekes to <lb/>
+            Violate <ex>th</ex>e houses of <ex>th</ex>e dead, and to interrupte <lb/>
+            theire quiett possessions. If this lor<ex>ds</ex> tombe could <lb/>
+            speake it would assure vs there were noe gaine <lb/>
+            to be gotten, by defaceinge a Monum<ex>en</ex>t of soe <lb/>
+            worthie a minister as it lieth not in the <lb/>
+            power of p<ex>re</ex>sent greatnes to suppresse the <lb/>
+            Memory of our fault<ex>es</ex> in the ages ensuinge <lb/>
+            noe more lies it in the power of envie or Malice <lb/>
+            to detract from theere humors which by vertus <lb/>
+            meritt<ex>es</ex> are ascribed vnto Worthey men. / <lb/>
+            True honor will eu<ex>er</ex> take roote where false  <lb/>
+            glories fade like flowers. /  <hi rend="italic">Si vitæ socius virtus <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">mortis comes gloriæ</hi> and <ex>th</ex>e more wee seeke to <lb/>
+            supresse true honor <ex>th</ex>e more it will spread like <lb/>
+            <ex>th</ex>e palme. Tyme the surest wittnes , <ex>th</ex>e wisest Counsel<ex>o</ex>r <lb/>
+            will easilie discou<ex>er</ex> what wee haue bin. But  <lb/>
+            what are <ex>th</ex>e greatest imputac<ex>i</ex>on that this vnthankfull <lb/>
+            tyme doth lay vppon this noble lord  First that <lb/>
+            he did vndertake three great Offices and in a <lb/>
+            generall distraction left them all all executed.
+         </p>
+         <p>
+            That it may appeare he was noe vnprofitable <lb/>
+            Offic<ex>e</ex>r in any of his three places, how he found <lb/>
+            them how he left them my selfe being trained <lb/>
+            vpp thirtie eight yeares vnder him and his <lb/>
+            father, can best deliu<ex>er</ex>e. /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               And first concerninge <lb/>
+               the Treasurorshippe  /
+            </hi>
+         </p>
+         <pb n="37r" facs="/bl/add_ms_11600/add_ms_11600_f037r/add_ms_11600_f037r.jpg"/>
+            <p>
+         His Lord<ex>shi</ex>pp found <hi rend="italic">the Exchequer</hi> a <hi rend="italic">Caos</hi> of <lb/>
+            confussion he found debt<ex>es</ex> there of three of foure <lb/>
+            <add place="above">hundred</add>thousand powndes, but wch were good w<ex>hi</ex>ch badd <lb/>
+            w<ex>hi</ex>ch sperate w<ex>hi</ex>ch desperate, noe man know. Those <lb/>
+            there he com<ex>m</ex>anded to the examinac<ex>i</ex>on and reporte <lb/>
+            of some Comissioners of trust vpon whose answere <lb/>
+            his lordshipe keepte this decoru<ex>m</ex>, he sent l<ex>ett</ex>res <lb/>
+            to the Noblemen and processe to the inferiour <lb/>
+            p<ex>er</ex>sons by Meanes hereof he hath reduced <lb/>
+            it to some better knowledge allthough farr <lb/>
+            from p<ex>er</ex>fection.  /  .
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               Concerninge Yo<ex>u</ex>r Ma<ex>jes</ex>ties Lands /
+            </hi>
+         </p>
+         <p>
+            Concerninge Yo<ex>u</ex>r <hi rend="italic">Maj<ex>es</ex>ties Mannors </hi>the faiest possessions <lb/>
+            he found most of them vnsurvayed, and those  <lb/>
+            that were survayed he found sleightly done rather <lb/>
+            by reporte then be measur, so as litle more <lb/>
+            thereof was knowne then <ex>th</ex>e auncient rent<ex>es</ex> <lb/>
+            and <ex>th</ex>e estates therof were, graunted rather <lb/>
+            by chance then by knowledge vppon Further survayes <lb/>
+            thereof he bestowed much moneyes and hath brought <lb/>
+            them to some other passe but not to p<ex>er</ex>fection. /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">The Custodie Lands.  / </hi>
+         </p>
+         <p>
+            Yo<ex>u</ex>r custodie land<ex>es</ex> ancientlie termed Yo<ex>u</ex>r Crowne land<ex>es</ex> answered <lb/>
+            in the Pipe, these hee found more vnsertaine then <ex>th</ex>e <lb/>
+            rest much charged vpon Sheriff<ex>es</ex> yearlie discharged by <lb/>
+            annuall petiteon, a revenewe w<ex>hi</ex>ch seemeth <del rend="strikethrough">
+                    <unclear>defcry</unclear>
+                </del>ed <add place="above">decayed</add> biscent of <lb/>
+            tymes and worne out of all knowledge, but bij his Lo<ex>rdshi</ex>pps <lb/>
+            care many of these <sic>howe</sic> bine latelie revived bij Yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            Com<ex>m</ex>issione of Assert<ex>es</ex>.  /
+         </p>
+         <pb n="37v" facs="/bl/add_ms_11600/add_ms_11600_f037v/add_ms_11600_f037v.jpg"/>
+         <p rend="align-centre">
+            <hi rend="italic">
+               Concerninge the wood<ex>es</ex>
+            </hi>
+         </p>
+         <p>
+            For <del rend="strikethrough">the</del> Yo<ex>u</ex>r Ma<ex>jes</ex>ties wood<ex>es</ex> hee found these more <lb/>
+            vncerteine then the rest, For the Coppices, noe <lb/>
+            man knowe the certaintie of acres, there <lb/>
+            groweth, or theere true valewe For yo<ex>u</ex>r tymber <lb/>
+            trees, noe man knowe of them, neither the <lb/>
+            nvmber of them, nor the worth, soe as his Lo<ex>rdshi</ex>pp at <lb/>
+            his first lookinge in to them, thought himselfe <lb/>
+            in a wood in deede. Hee fovnd in the leasing of <lb/>
+            Coppices <hi rend="italic">nul fine quia bosce</hi> And as for yo<ex>u</ex>r tymber, <lb/>
+            he fovnd it wasted in many part<ex>es</ex> w<ex>i</ex>thout <lb/>
+            controvlement, becavse there was noe Record made <lb/>
+            nor kept there<del rend="strikethrough">fore</del>
+                <add place="above">of</add>. They are now nvmbred, <lb/>
+            marked and valewed, soe as a responsible officer <lb/>
+            maij easilie call in question what shalbee missing, <lb/>
+            and readilie p<ex>re</ex>serve the accompt thereof. /
+         </p>
+         <p>
+            <hi rend="italic">Coppyholder<ex>es</ex> of Inheritance <lb/>
+            <hi rend="italic"/>
+                </hi> <lb/>
+            And for <del rend="strikethrough">the</del> yo<ex>u</ex>r Coppyholders of inheritance who <lb/>
+            by many Record<ex>es</ex> prove theire fynes certaine, <lb/>
+            by his Lo<ex>rdshi</ex>pps like indvstrie, they offerr for theire <lb/>
+            freedome twentie thirtie fortie and fiftie yeares <lb/>
+            pvrchase, wheare they shewe vs probable Recor<add place="above">ds</add> <lb/>
+            w<ex>i</ex>thout fyne to free themselves. 
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               Wasts &amp; Com<ex>m</ex>ons
+            </hi>
+         </p>
+         <p>
+            A tender title full of murmuring<ex>es</ex> and com<ex>m</ex>oc<ex>i</ex>ons <lb/>
+            these natures he neuer durst offer to inclose nor <lb/>
+            to vrge the Tenn<ex>an</ex>t<ex>es</ex> to any forcible Compossic<ex>i</ex>on <lb/>
+            but vnder hand sett some one on worke to prompt <lb/>
+            Tenn<ex>an</ex>t<ex>es</ex> to become suiters themselves, w<ex>i</ex>th whome <lb/>
+            wee haue compounded for part<ex>es</ex> and made a good  <lb/>
+            p<ex>re</ex>sident for <ex>th</ex>e rest  /
+         </p>
+         <pb n="38r" facs="/bl/add_ms_11600/add_ms_11600_f038r/add_ms_11600_f038r.jpg"/>
+         <p rend="align-centre">
+            <hi rend="italic">Casvall fines</hi>
+         </p>
+         <p>
+            Casvall fynes are done up<ex>p</ex>on Yo<ex>u</ex>r Ma<ex>jes</ex>tie out of Yo<ex>u</ex>r private <lb/>
+            possessions and out of publique offences, out of <lb/>
+            private possessions as other lords haue by theire  <lb/>
+            Cort Leet<ex>es</ex> Court Barrons and such like. Out of <lb/>
+            publique offences as aparent of <ex>th</ex>e Com<ex>m</ex>on wealth <lb/>
+            vnto whome belonges <hi rend="italic">et premiu<ex>m</ex> et pena</hi>, theese being <lb/>
+            natures left for your bountie, his Lo<ex>rdshi</ex>pp ment to haue <lb/>
+            comended them also vnto some especiall comissioners <lb/>
+            by whose industrie a better revenew might haue bine <lb/>
+            raysed being now vtterly neglected and almost lost
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Extended Lands.</hi>
+         </p>
+         <p>
+            For Yo<ex>u</ex>r extended Lands where ill officers cam indebted <lb/>
+            to the Crowne, and made it an art to haue the lands <lb/>
+            extended at easie rates, His Lo<ex>rdshi</ex>pp caused most <lb/>
+            of these possessions to be surveyed, com<ex>m</ex>ended the <lb/>
+            the improum<ex>en</ex>t hereof to diuers Comission<ex>e</ex>rs and com<ex>m</ex>anded <lb/>
+            the Ten<add place="above">a</add>nt by his l<ex>ett</ex>res to appeare before them in <lb/>
+            the w<ex>hi</ex>ch my selfe can wittnes they have bine carefull to <lb/>
+            doe vnto yo<ex>u</ex>r Ma<ex>jes</ex>tie there vttermost indeavors. To these I maij <lb/>
+            add the Services hee did abroad, as the improvem<ex>en</ex>t of the <lb/>
+            Cvstomes advanced From 8600 povnd<ex>es</ex> to 120000 povnd<ex>es</ex>  <lb/>
+            and From 120000 povnd<ex>es</ex> vnto 13500 povnd<ex>es</ex> p<ex>er</ex> ann<ex>um</ex>. /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Allom</hi>
+         </p>
+         <p>
+            Also his bargaines for the Allom, w<ex>hi</ex>ch ovght not to be soe <lb/>
+            abased as the fvll, and complaint<ex>es</ex> of the Farmors <lb/>
+            seemes to expostvlate for I p<ex>re</ex>svme I shalbe able to prove <lb/>
+            thaij are neitehr decayed bij the bargaine nor bij anij paij<add place="above">m<ex>en</ex>t<ex>es</ex>
+                </add>  <lb/>
+            made to Yo<ex>u</ex> Ma<ex>jes</ex>tie. /
+         </p>
+         <p rend="align centre">
+            <hi rend="italic">
+               Baronett<ex>es</ex> <lb/>
+            </hi>
+         </p>
+         <p>
+            His proiect for the Baronett<ex>es</ex>, w<ex>hi</ex>ch hath brovght in to Yo<ex>u</ex>r <lb/>
+            Coffers fo{u}rsescore thowsand pownd<ex>es</ex> is like to supplij the <lb/>
+            rest yf some pettie priviledges maij bee allowed.  / <lb/>
+         </p>
+         <pb n="38v" facs="/bl/add_ms_11600/add_ms_11600_f038v/add_ms_11600_f038v.jpg"/>
+         <p rend="align centre">
+            <hi rend="italic">Water workes to London</hi>
+         </p>
+         <p>
+            The bargaine for bringinge water to the dryest <lb/>
+            p<ex>ar</ex>t of London, like yf it prosper to bring vnto Yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            a greate yearlie revenewe. /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               For all industrie and <lb/>
+               manufactures. /
+            </hi>
+         </p>
+         <p>
+            Besid<ex>es</ex> hee was a patron of all in<add place="above">dv</add>strie and <lb/>
+            manufactors of newe proiect<ex>es</ex> and inventions, <lb/>
+            as for the home Makinge of allome, of Bvsses <lb/>
+            for fishinge, Copper and Copperall of Yron, of <lb/>
+            steele, of salt bij the same salt and newe fvrnasses <lb/>
+            and fyres, for the easie wo<add place="above">r</add>keman shipp heareof, <lb/>
+            that the native svb<ex>iec</ex>t might be set on worke, &amp; <lb/>
+            the small treasvure of the Kingdome kept at <lb/>
+            home, For the increase wheareof what care hee <lb/>
+            tooke Yo<ex>u</ex>r Ma<ex>jes</ex>tie best knowes.  /
+         </p>
+         <p>
+            By these Yo<ex>u</ex>r Ma<ex>jes</ex>tie maij see hee was noe <lb/>
+            vnprofitable officer in this place. That <lb/>
+            his improvem<ex>en</ex>t<ex>es</ex> were not oppressions but <lb/>
+            good hvsbandrie, and noe more then everee <lb/>
+            private subiect hath one from another <lb/>
+            And that it is more ivst for yow to live <lb/>
+            vpon your Ten<add place="above">a</add>nt<ex>es</ex> and vpon yo<ex>u</ex>r owne then <lb/>
+            vpon Yo<ex>u</ex>r Sub<ex>iec</ex>t<ex>es</ex> pvrse, who in all svbsidies <lb/>
+            and taxes you fvll as mvch as yo<ex>u</ex>r p<ex>ar</ex>ticvler	 <lb/>
+            Ten<add place="above">a</add>nt<ex>es</ex> allthovgh they receave noe benifit by <lb/>
+            beinge Yo<ex>u</ex>r Ma<ex>jes</ex>ties Farmors.  /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Concerninge the Secretaries place.  /</hi>
+         </p>
+         <pb n="39r" facs="/bl/add_ms_11600/add_ms_11600_f039r/add_ms_11600_f039r.jpg"/>
+         <p>
+            What intelligence hee had from all part<ex>es</ex> of the world, <lb/>
+            what correspondencee hee kept w<ex>i</ex>th all Ambassador<ex>es</ex> <lb/>
+            and forraine States, and at how easie a rate hee <lb/>
+            mantayned cvrrant of all yo<ex>u</ex>r l<ex>ett</ex>res and affaires, Yf <lb/>
+            Yo<ex>u</ex>r Ma<ex>jes</ex>tie weare trvlie enformed, yow shall finde in <lb/>
+            that little establishment a greate providence, and <lb/>
+            in this his place vnto how greate a repitation hee <lb/>
+            had rased services, and how confident all part<ex>es</ex> <lb/>
+            grewe ovt of theire large experience of his iust  <lb/>
+            conversation, the vnited provinces especiallie, <lb/>
+            whose frindshipp most concernes Yo<ex>u</ex>r Ma<ex>jes</ex>tie, there <lb/>
+            owne Ambassadors and yo<ex>u</ex>r <sic>Minsters</sic> abroad can <lb/>
+            best deliver Besid<ex>es</ex> by his Treasvror &amp; <lb/>
+            Secretaries place, what he did in Ireland <lb/>
+            in the plantac<ex>i</ex>on of the Countrie, &amp; trasporta <lb/>
+            tion of Yo<ex>u</ex>r people, what in adviseinge Yo<ex>u</ex>r <lb/>
+            cvstomes, &amp; in abateinge the charges of <lb/>
+            Yo<ex>u</ex>r garrisons, &amp; howe indvstrvous he was <lb/>
+            to setle a vniversall covse of <unclear>lawe</unclear> and <lb/>
+            Iustice in the most barbarovs and remote part<ex>es</ex> of that <lb/>
+            vnfortvnate Kingdome, thaij that knewe the Countr<unclear>ie</unclear> <lb/>
+            best can best deliver.  / 
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Concerninge the ward<ex>es</ex>
+                </hi>
+         </p>
+         <p>
+            By the constituc<ex>i</ex>on of this State, all the land<ex>es</ex> in the <lb/>
+            Kingdome are houlden by two tenures, bij Socage, or <lb/>
+            bij Kni<add place="above">gh</add>t<ex>es</ex> service, bij the plough to feede vs, or bij the <lb/>
+            sword to defend vs, and who <unclear>see</unclear> died leavinge <lb/>
+            an heire w<ex>i</ex>thin age vnable to doe this service, his <lb/>
+            his heire and land<ex>es</ex> fell both into the p<ex>ro</ex>tection of <lb/>
+            the Kinge  And this in ancent tymes was p<ex>ro</ex>mis <lb/>
+            cuouslie carried in Chauncerie, vntell the 32th yeare <lb/>
+            of Kinge Henrie the eight, when the Covrt of <lb/>
+            ward<ex>es</ex> was first erected, and as M<ex>aste</ex>r and Covncell <lb/>
+            appointed bij Parlement to governe the same. /
+            <pb n="39v" facs="/bl/add_ms_11600/add_ms_11600_f039v/add_ms_11600_f039v.jpg"/>
+            Since w<ex>hi</ex>ch erection the M<ex>aste</ex>rs have accustomed bij <lb/>
+            the favovrs of the King<ex>es</ex> of this Realme as a  <lb/>
+            bovntie of State to grant vnto Noblemen, the King<ex>es</ex> <lb/>
+            Servant<ex>es</ex>, and there owne followers, both the <lb/>
+            marriage of the bodie, and the Lease of the land<ex>es</ex>, <lb/>
+            for the third penney of theire true worth. But <lb/>
+            Yo<ex>u</ex>r late hvmble servant deceased, findinge Yo<ex>u</ex>r  <lb/>
+            estate daylie falling more and more into a  <lb/>
+            retrograde consvmpc<ex>i</ex>on, svpposinge this bovntie <lb/>
+            at this time more properlie to app<ex>er</ex>taine vnto <lb/>
+            Yo<ex>u</ex>r Ma<ex>jes</ex>tie then to anij others, Hath in all <lb/>
+            hvmilitie and dvtij laid downe his l<ex>ett</ex>res patents <lb/>
+            at Yo<ex>u</ex>r Ma<ex>jes</ex>ties feete, and hath endeavored to advance <lb/>
+            the whole benefit thereof  vnto Yo<ex>u</ex>r Ma<ex>jes</ex>ties best  <lb/>
+            profit, p<ex>re</ex>suminge it wovld have yeilded to Yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie treble as much as before, groundinge this <lb/>
+            iudgem<ex>en</ex>t vpon this probabilitie That all offices <lb/>
+            weare fovnd scarecelie at a tenth p<ex>ar</ex>t of there <lb/>
+            true valewes After w<ex>hi</ex>ch rate theij were <lb/>
+            wont to paie there<del rend="strikethrough">s</del> yeares fyne, and therefore <lb/>
+            concluded, that if thaij payed th<del rend="strikethrough">e</del>rice as mvch <lb/>
+            nowe as before, they howld not yet exceede <lb/>
+            the rate of one yeares trve valewe, w<ex>hi</ex>ch was <lb/>
+            a proporc<ex>i</ex>on hvmblie for Yo<ex>u</ex>r Ma<ex>jes</ex>tie and favorable  <lb/>
+            for the sub<ex>iec</ex>t. But his experince shewed him, <lb/>
+            that this fell not ovt accordinge to his expectation, <lb/>
+            w<ex>hi</ex>ch he p<ex>ar</ex>tlie ascribed vnto two clavses in the <lb/>
+            printed booke, The one that there was monethes <lb/>
+            p<ex>re</ex>empc<ex>i</ex>on allowed to the frend<ex>es</ex>. The other that <lb/>
+            whosoever dealt for a wardshipp duereinge the <lb/>
+            first yeare showld pay the vtmost valewe, w<ex>hi</ex>ch <lb/>
+            two clauses hee svpposed did make a generall <lb/>
+            non suite in the publiq<ex>ue</ex> sutors besides that many <lb/>
+            lingered the tyme and smothered there tenures<pb n="40r" facs="/bl/add_ms_11600/add_ms_11600_f040r/add_ms_11600_f040r.jpg"/>
+         in hope of a Parliam<ex>en</ex>t, and a generall dissoluc<ex>i</ex>on of <lb/>
+            <ex>th</ex>e Court. The remedies whereof he meant to haue <lb/>
+            studied at his returne. /
+         </p>
+         <p rend="indent">
+            	whereby Yo<ex>u</ex>r Ma<ex>jes</ex>tie may see he was neither <lb/>
+            	carelesse nor Idle in any of his 3 offices
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Some obiections answered</hi>
+         </p>
+         <p>
+            I humblie now craue leaue to answere some obiections  <lb/>
+            which the world (not knowinge the true price of <lb/>
+            faith and good fame) hath basely and vnchariblie <lb/>
+            layd vppon him
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">Concerningehis three Offices</hi>
+         </p>
+         <p>
+            As first for the <unclear>ingrossinge</unclear> of Offices, vnto which <lb/>
+            I make this answere that he had more then in my <lb/>
+            owne thought<ex>es</ex>, I ever wisht vnto him, or in his owne <lb/>
+            hart himselfe desireth, the last of them and the <lb/>
+            worst, he rather vndertooke by importunitie of freinds <lb/>
+            then out of his owne affection. But as he had latelie <lb/>
+            past away <ex>th</ex>e wards and left himselfe and left himselfe <lb/>
+            only the Mastershippe in name soe ment he with <lb/>
+            Yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> favour to haue freed himselfe of the <lb/>
+            Secretarishipps of estate if he had lived but <lb/>
+            three monethes longer. 
+         </p>
+         <p rend="align-centre">   
+            <hi rend="italic">
+               The Lord Treasuror anoth<ex>e</ex>r of <lb/>
+               all our Miseries</hi>
+         </p>
+         <p>
+            And where this suspicious age which iudgeth all <lb/>
+            things by <ex>th</ex>e outside and not by a true examinac<ex>i</ex>on  <lb/>
+            of <ex>th</ex>e inward causes seinge a p<ex>ar</ex>te of yo<ex>u</ex>r lands yo<ex>u</ex>r woods <lb/>
+            yo<ex>u</ex>r Mills yo<ex>u</ex>r Rectories and Chaunteries sould imposic<ex>i</ex>on <lb/>
+            sett vppon some of yo<ex>u</ex>r Costome, goods, and many <lb/>
+            others proiect<ex>es</ex> for raysinge of Moneys as the Barronett<ex>es</ex> <lb/>
+            and such like and yet that your Ma<ex>jes</ex>tie resteth<pb n="40v" facs="/bl/add_ms_11600/add_ms_11600_f040v/add_ms_11600_f040v.jpg"/>
+         greatly indebted without iust meanes of supplie <lb/>
+            or suporte, they presently Conclude all theese <lb/>
+            miseries to growe by <ex>th</ex>e improvidence of You <lb/>
+            T<ex>reasu</ex>rer, neuer remembringe in what estate Yo<ex>u</ex>r <lb/>
+            were when he received <ex>th</ex>e Whittstaffe which he <lb/>
+            found charged with a debt of Six hundred thousand <lb/>
+            pownds and yearely arreriage of a hundred and <lb/>
+            threescore thousand pownds p<ex>er</ex> ann<ex>um</ex> w<ex>hi</ex>ch to supporte <lb/>
+            was more then he could doe with all his <lb/>
+            industrie and sales.  /
+         </p>
+         <p rend="align-centre">   
+            <hi rend="italic">
+               The obiection against <ex>th</ex>e sale of <lb/>
+               Mills and Chaunteries answered.  /
+            </hi>
+         </p>
+         <p>
+            He then after the fairest possessons were by <lb/>
+            annexac<ex>i</ex>on setled vpon the Crowne sought to <lb/>
+            sell some of <ex>th</ex>e meaner natures for <ex>th</ex>e payme<ex>n</ex>t of <lb/>
+            <ex>th</ex>e debt<ex>es</ex> and discharge of theese arreriages, of <ex>th</ex>e <lb/>
+            which <ex>th</ex>e Mills were one which cost yow more <lb/>
+            in tym<ex>m</ex>ber for theire yearely repaire then then <lb/>
+            were worth in yearlie rent, The Countrie <lb/>
+            lands and other which lay soe dispersedly and <lb/>
+            were of such pettie rent<ex>es</ex> as it cost yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            neere a third part to gather the rest soe as in <lb/>
+            <ex>th</ex>e sale of these natures Envie it selfe cannot <lb/>
+            find noe great fa<add place="above">u</add>lte.  /
+         </p>
+         <p rend="align-centre">   
+            <hi rend="italic">
+               The obiections of <ex>th</ex>e Sale of <lb/>
+               Leases answered.  /
+            </hi>
+         </p>
+         <p>
+            It is then obiected as an ill p<ex>ar</ex>te of husbandrie <ex>tha</ex>t <lb/>
+            his Lordship<ex>p</ex>e made leases, First for threescore <lb/>
+            yeares, and after sould <unclear>away</unclear> the Inheritance  <lb/>
+            But I p<ex>re</ex>sume if both the some be cast vpp <lb/>
+            togeth<ex>e</ex>r the bargaine will not proue vnp<ex>ro</ex>fittable <lb/>
+            nether doe they vnderstand <ex>th</ex>e contract aright
+            <pb n="41r" facs="/bl/add_ms_11600/add_ms_11600_f041r/add_ms_11600_f041r.jpg"/>
+            that thinke in all these leases, new estates were <lb/>
+            graunted for threescore yeares, for in most of them <lb/>
+            there was twentie thirtie fortie yeares in being <lb/>
+            which were made vp by surendor not be new grante
+         </p>
+         <p rend="align-centre">   
+            <hi rend="italic">
+               An answere to the obiection for the <lb/>
+               sale of tymber trees.  /
+            </hi>
+         </p>
+         <p>
+            And where some ignorant p<ex>er</ex>sone exclaime of the <lb/>
+            late sale of tymb<ex>er</ex> trees, as if a generall wast <lb/>
+            of the tymber of the kingdome had bin made therby <lb/>
+            , It may please yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex>  to be remembred that both <lb/>
+            by yo<ex>u</ex>r warrant, and by his lo<ex>rdshi</ex>pp direction there were <lb/>
+            noe more to be sould the two in the hundred and those <lb/>
+            such also as bare some visible Markes of decay, for <lb/>
+            the which fortie thousand pownds came vnto Yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie Coffers w<ex>hi</ex>ch in shorte tyme would according to <lb/>
+            theire Costomes haue fallen to the keep<ex>er</ex>s and <lb/>
+            forresters for theire fees, neither were these take<ex>n</ex> <lb/>
+            before <ex>th</ex>e Offic<ex>e</ex>rs of <ex>th</ex>e Admiraltie had marked <lb/>
+            out whatsoe<ex>eve</ex>r they found fit for the navy, neither <lb/>
+            weare teij sovld by anie private avtoritie, but bij <lb/>
+            the Svrveyor and two Iustices of the peace, w<ex>i</ex>th the <lb/>
+            best coutions and instructions could bee devised, and <lb/>
+            more hee covld not doe For hee trvsted men, hee <lb/>
+            not Angells on the errand.   /
+         </p>
+         <p rend="align-centre">   
+            <hi rend="italic">
+               The answere for the sale of Land<ex>es</ex>
+            </hi>
+         </p>
+         <p>
+            For the saile of yo<ex>u</ex>r Ma<ex>jes</ex>tie land<ex>es</ex>, some obiect theij were <lb/>
+            sovld ignorantlie, some that theij weare sovld corruptlie, mij <lb/>
+            selfe was a partner in one <del rend="strikethrough">p</del> of the Contract<ex>es</ex> &amp; since this <lb/>
+            slander I have sovght to informe mij self of the p<ex>ro</ex>babilitie <lb/>
+            of the gaines or losses licke to arise, vnto the rest And I  <lb/>
+            p<ex>ro</ex>test before God and Yo<ex>u</ex>r Ma<ex>jes</ex>tie, of the fowre Companies <lb/>
+            of Contractors I thinke th<del rend="strikethrough">ere</del>
+                <add place="above">ree</add> of them will neither prove <lb/>
+            gayners nor saveors.  /
+         </p>
+         <pb n="41v" facs="/bl/add_ms_11600/add_ms_11600_f041v/add_ms_11600_f041v.jpg"/>
+         <p rend="align-centre">   
+            <hi rend="italic">
+               That hee pilled the people to suport <lb/>
+               the wastfull expnces of State.  /
+            </hi>
+         </p>
+         <p>
+            Where hee is taxed to have sooed all Yo<ex>u</ex>r bounties and <lb/>
+            voluntarilie to have svpplyed all wastfvll expences of <lb/>
+            State, and to make this good hath improved vpon yo<ex>u</ex>r  <lb/>
+            <unclear>Com<add place="above">an</add>t<ex>es</ex>
+                </unclear> And imposed vpon yo<ex>u</ex>r sub<ex>iec</ex>t<ex>es</ex> to the greate offence<del rend="strikethrough">s</del> <lb/>
+            and grewance of the Com<ex>m</ex>on wealth, For answere <lb/>
+            whereof I appeale to Yo<ex>u</ex>r Ma<ex>jes</ex>ties Iustices, whether <lb/>
+            hee hath not at all tymes opposed aga<ex>ins</ex>t those occatons, <lb/>
+            as farre as the dvtie of his place, &amp; his humble <lb/>
+            <unclear>alegence</unclear> wovld give him leave. Hee knewe Yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            affection to some of Yo<ex>u</ex>r speciall servant<ex>es</ex>.  Hee knewe <lb/>
+            you were in earth as <hi rend="italic">primum mobile</hi> in Heaven, w<ex>hi</ex>ch <lb/>
+            carries abovt w<ex>i</ex>th it, all the planett<ex>es</ex> and inferior <lb/>
+            Moc<ex>i</ex>ons, althovgh theij naturallie affect another covrse. <lb/>
+            Hee learned two thinges vnder you, aswell to obeij as <lb/>
+            to com<add place="above">a</add>und, And conclvded w<ex>i</ex>th Seneca <hi rend="italic">Sapiens non <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">se mutat set aptat</hi> And to this is added, his maintayned <lb/>
+            his private faction bij consvmpc<ex>i</ex>on of the publique <lb/>
+            treasvre. To w<ex>hi</ex>ch I answere hee was the flesh &amp; <lb/>
+            might wish well to his frind<ex>es</ex>, But hee lives not <lb/>
+            that can shewe three of these examples nor anie  <lb/>
+            one vncom<ex>m</ex>aunded bij yo<ex>u</ex>r Ma<ex>jes</ex>tie.  /
+         </p>
+         <p>
+            For his improveinge vpon Yo<ex>u</ex>r Ten<add place="above">a</add>nt<ex>es</ex> It was but <lb/>
+            good hvsbandrie, noe oppression, yet was it let bij <lb/>
+            surveij what before was let bij chance. For the <lb/>
+            imposeinge vpon yo<ex>u</ex>r svb<ex>iec</ex>t<ex>es</ex>, The Answeare followeth.  /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">The answere to the imposition <lb/>
+            vpon marchandice. /</hi>
+         </p>
+         <p>
+            Hir Lo<ex>rdshi</ex>pp findinge Yo<ex>u</ex>r debt<ex>es</ex> greate Yo<ex>u</ex>r yearlie <lb/>
+            surreriages irrecoverable, &amp; that all his indvstrie &amp; <lb/>
+            sales did in yo<ex>u</ex>r estate make but a palliat Cure, findinge <lb/>
+            the moneys due bij Parlimant anticipated &amp; assigned <lb/>
+            for paym<ex>en</ex>t of yo<ex>u</ex>r debt<ex>es</ex>, &amp; noe hope bij that meanes <lb/>
+            of any speedij, Hee was enforced to resort to his <lb/>
+            p<ex>ro</ex>iect of imposic<ex>i</ex>ons p<ex>ro</ex>pounded but not p<ex>er</ex>fected bij <lb/>
+            his p<ex>re</ex>decessor, wherevnto he would not assent <lb/>
+            <fw type="catch" place="bot-right">vntell</fw>
+            <pb n="42r" facs="/bl/add_ms_11600/add_ms_11600_f042r/add_ms_11600_f042r.jpg"/>
+            untell bij after p<ex>ar</ex>liam<ex>en</ex>t<ex>es</ex> it was otherwise resolved, Neither <lb/>
+            was hee satisfied w<ex>i</ex>th anij p<ex>re</ex>sident<ex>es</ex>, untell hee fovnd <lb/>
+            them iustified bij p<ex>re</ex>sent Iudgement in Yo<ex>u</ex>r Ma<ex>jes</ex>ties excheqver, <lb/>
+            neither was hee satisfied w<ex>i</ex>th any p<ex>re</ex>sident<ex>es</ex> vntell hee <lb/>
+            fovnd the example of Bueene Marie, who raysed <ex>th</ex>e <lb/>
+            cloth from fowerteene pence to a noble, the Gascoyne <lb/>
+             wynes from three shilling<ex>es</ex> six pence to fower Markes <lb/>
+            And also bij the example of Qveene Elizabeth who <lb/>
+            raysed the sweete wynes from three shilling<ex>es</ex> six pence <lb/>
+            to fortie shillinges the tunn and vpon the Cvrrant<ex>es</ex> <lb/>
+            for ev<add place="above">e</add>rie hundred five shillinges &amp; six pence, Hee then <lb/>
+            w<ex>i</ex>th the assistance of M<ex>aste</ex>r Chauncellor of the excheqver <lb/>
+            some of the Barrons, &amp; two principall Marchant<ex>es</ex> of <lb/>
+            everie Companie set ane imposic<ex>i</ex>on vpon svch natures <lb/>
+            of marchandize, as theij all svpposed were best able <lb/>
+            to beare them, &amp; in these impositions theij vsed <lb/>
+            these manner of victuall, &amp; all <unclear>natures</unclear> almost <lb/>
+            incident to the poore, vpon all thinges concerninge <lb/>
+            the Ordinance, the shipps, and the defence of <lb/>
+            the Realme, &amp; imposed especiallie vpon silkes, <lb/>
+            spices, whalebones Lawnes, Cambrick<ex>es</ex> and <lb/>
+            svch like thing<ex>es</ex> rather of delicocie then nece= <lb break="no"/>
+            ssitie, allowinge free libertie to transcport <lb/>
+            w<ex>i</ex>thovt charge, what was not vented heare <lb/>
+            w<ex>hi</ex>ch hee was ever willinge the Parliam<ex>en</ex>t <lb/>
+            showld have altered into any other nature <lb/>
+            of svpport, beinge as yet but a temporari<add place="above">e</add> <lb/>
+            flower of the Crowne.  /
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">of his falshood in fellowshipp</hi>
+         </p>
+         <p>
+            That hee would often make his frind<ex>es</ex> fayre <lb/>
+            promissis, &amp; vnderhand lay rubbs in the waies of <lb/>
+            theire p<ex>re</ex>ferment, the secret passage of all things <lb/>
+            I know not, maij bee it was trwe, maij bee not, <lb/>
+            suspic<ex>i</ex>on ever lies at the gates of greate actions,<pb n="42v" facs="/bl/add_ms_11600/add_ms_11600_f042v/add_ms_11600_f042v.jpg"/>
+         and manij that have receved the greatest favours <lb/>
+            from him, are as I heare the most forward <lb/>
+            to make this Report, the Covrt<ex>es</ex> of Kings <lb/>
+            are manie tymes the markit<ex>es</ex> of ward<ex>es</ex> &amp; Ceremonies <lb/>
+            &amp; thaij that live therein mvst sometymes  <lb/>
+            <hi rend="italic">verbadare.</hi> Besid<ex>es</ex> greate Covnsellors have <lb/>
+            theire private &amp; theire publique end<ex>es</ex> and <lb/>
+            theire private affections doe often yeild to <lb/>
+            theire pvblique Iudgment, and make them <lb/>
+            <hi rend="italic">Remavaes </hi>in theire frind<ex>es</ex> suit<ex>es</ex>. And therefore <lb/>
+            noble natvres will rather be thankfull for <lb/>
+            good turnes receved, then vngratefull, yf <lb/>
+            theij enioije not all theire hart<ex>es</ex> desier.  /
+         </p>
+         <p>
+            <hi rend="italic">To conclude</hi>
+         </p>
+         <p>
+            Yo<ex>u</ex>r Ma<ex>jes</ex>tie for indvstrie &amp; integritie hath lost <lb/>
+            of the best servant<ex>es</ex> of the world And yf <lb/>
+            mij testimonie seeme partiall, I hvmbly rferr <lb/>
+            you to his fellowe labovrer, a most paynfull &amp; <lb/>
+            worthie <unclear>assistant</unclear> in all theise affaires, who can <lb/>
+            assvre yo<ex>u</ex>r Ma<ex>jes</ex>tie, hee never thovght himself well, <lb/>
+            but when hee was bringinge either wax or <lb/>
+            honeij vnto the hive.  He left the love of <lb/>
+            the people onlie for Yo<ex>u</ex>r sake, &amp; for Yo<ex>u</ex>r service, <lb/>
+            Hee devised bij a late Com<ex>m</ex>ission to ease Yo<ex>u</ex>r hand<ex>es</ex> <lb/>
+            fromm petitions, Yo<ex>u</ex>r eares from suit<ex>es</ex>, Finding yo<ex>u</ex>r <lb/>
+            want<ex>es</ex> hee yeilded vpp his office, &amp; findinge hee <lb/>
+            covld not <unclear>releve</unclear> them, hee yelded vpp his <lb/>
+            lyfe, w<ex>hi</ex>ch my selfe can best witnes, vnto whom <lb/>
+            in his sicknes hee vsed this speech. <hi rend="italic">Ease and <lb/>
+            pleasure quake to heare of death to be dissolved</hi>. <lb/>
+            My most hvmble &amp; onlie svite is that yo<ex>u</ex>r Ma<ex>hes</ex>tie <lb/>
+            will not svffer a servant of his desart, mirtured <lb/>
+            as it weare w<ex>i</ex>th the care of Yo<ex>u</ex>r service to bee <lb/>
+            thus libelled vpon &amp; scandalized as hee is, at
+            <pb n="43r" facs="/bl/add_ms_11600/add_ms_11600_f043r/add_ms_11600_f043r.jpg"/>
+            the least that Yo<ex>u</ex>r Ma<ex>jes</ex>tie willbee pleased publiqu <lb/>
+            lie to deliver how much you hate it in the Report<ex>es</ex>, <lb/>
+            and how much Yow will pvnishe it in the avthors <lb/>
+            yf theij bee found. And that it is not the tru<add place="above">e</add> <lb/>
+            waie w<ex>i</ex>th Yo<ex>u</ex>r Ma<ex>jes</ex>tie for men to raise themselves <lb/>
+            by the ladder of detraction.  / <lb/>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f035r/add_ms_11600_f035r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f035v/add_ms_11600_f035v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f036r/add_ms_11600_f036r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f036v/add_ms_11600_f036v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f037r/add_ms_11600_f037r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f037v/add_ms_11600_f037v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f038r/add_ms_11600_f038r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f038v/add_ms_11600_f038v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f039r/add_ms_11600_f039r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f039v/add_ms_11600_f039v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f040r/add_ms_11600_f040r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11600/add_ms_11600_f040v/add_ms_11600_f040v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_11600/add_ms_11600_f041r/add_ms_11600_f041r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_11600/add_ms_11600_f041v/add_ms_11600_f041v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_11600/add_ms_11600_f042r/add_ms_11600_f042r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_11600/add_ms_11600_f042v/add_ms_11600_f042v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_11600/add_ms_11600_f043r/add_ms_11600_f043r.jpg"/>
+   </facsimile>
+</TEI>

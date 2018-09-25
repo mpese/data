@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries concerning the Etcaetera Oath</title>
+            <author>
+               Norfolk Ministers
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName corresp="../people/people.xml#PL0019">Norfolk</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>commentary</term>
+               <term>articles</term>
+               <term>queries</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+               <term>anti-catholicism</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-11-23"/>
+            <change status="proofread" who="#NM" when="2018-07-04"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="60r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f060r/harley_ms_4931_f060r.jpg"/>
+         <head>
+            Quæries concerning this new Oath. <lb/>
+            From Norfolke:/.
+         </head>
+         <p>
+            <add place="LM">
+               1
+            </add>
+            Whether it be not an unreasonable unheard of practise in any church to cause <lb/>
+            Clergy, and laity (as in this cause is done) not only to assent, submitt, &amp; sub=<lb break="no"/>
+            scribe unto, but to sweare solemnly and directly not only to the doctrine, but <lb/>
+            also to the perticular discipline of the Church they liue under, not on<add place="above">e</add>ly <lb/>
+            for obedience thereunto, but to the compleatnes, and necessity therof unto <lb/>
+            salvation.
+         </p>
+         <p>
+            <add place="LM">
+               2
+            </add>
+            Whether the word Discipline or Gouerment in this oath be all one? and whether <lb/>
+            the word Gouerment, in the first clause, and in the third clause of the oath be to <lb/>
+            be taken in the same sence? And whether thereby be meant the species of <lb/>
+            gouernours as seemeth to be imported in the latter clause, by the inumeration <lb/>
+            of some of them with an &amp;c? or 2dly the lawes and rules of gouerment, vix <lb/>
+            Rubrick &amp; Canons Canon Law, and Civil law still in force (though some <lb/>
+            of them for present practise be dormant)? or 3dly the proceedings of these <lb/>
+            gouernours in the exercise of their gouerment according to these rules? <lb/>
+            If in the first sence, then the words are not literally, and gram<ex>m</ex>atically <lb/>
+            to be understood, but tropically for <foreign xml:lang="la">disciplina</foreign>, and <foreign xml:lang="la">disciplinatores</foreign>, <foreign xml:lang="la">gu=<lb break="no"/>
+               bernatio</foreign>, and <foreign xml:lang="la">gubernatores</foreign> are not the same gram<ex>m</ex>atically, but onely <lb/>
+            tropically which is against the last clause in this oath. If in the second <lb/>
+            sence then it is required that wee sweare neuer to consent to the least <lb/>
+            mutation of Rubrick Canon <seg rend="curly-bracket-L">
+                    <hi rend="superscript">former</hi> <hi rend="subscript">later</hi>
+                </seg> Civill, and Canon Law by what <lb/>
+            power soever. If in the third sence then worse consequences will <lb/>
+            follow in cause the gouernours err in the exercise of their power.
+         </p>
+         <p>
+            <add place="LM">
+               3
+            </add>
+            Whether a man may sweare <foreign xml:lang="LA">de futuro</foreign> to bind his judgment to any tenet, <lb/>
+            or tenets especially in matters of discipline, seing wee know but in part <lb/>
+            and the light breaking forth dayly a man may see cause to alter his <lb/>
+            present judgm<ex>en</ex>t, especially in things so controverted, not by a few <lb/>
+            private men, but the contrary holden by most of the reformed Churches <lb/>
+            of the world.
+         </p>
+         <p>
+            <add place="LM">
+               4
+            </add>
+            Whether assenting, &amp; consenting be acts of the mind (<ex>th</ex>e later alwayes <lb/>
+            implying <ex>th</ex>e former though not alwayes <foreign xml:lang="la">e contra</foreign>) the taker of this oath <lb/>
+            doth not bind his mind so that he shall be guilty of perjury by assent <lb/>
+            in judgm<ex>en</ex>t, or will to any mutation in the Goverment, or any particle <lb/>
+            thereof in any of the three forenamed sences, which soever those <lb/>
+            words ought to be taken in, though he never expresse the same <lb/>
+            externally to further the mutation therof? nor liue under it, to <lb/>
+            yeild submission therunto?
+         </p>
+         <p>
+            <add place="LM">
+               5
+            </add>
+            Whether the consent heere mentioned be antecedent to the mutation, or <lb/>
+            subsequent in case it be done by lawfull Authority? If Antecedent
+            <pb n="60v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f060v/harley_ms_4931_f060v.jpg"/>
+            then all the members of all following Convocations, and a greate part of <lb/>
+            future parlamentary men shall heereby præclude themselues by oath from <lb/>
+            giuing free votes for altering any particle about Church gouerm<ex>en</ex>t <lb/>
+            though it be found never so needfull. If subsequent, then wee <add place="above">sweare</add> to dis=<lb break="no"/>
+            obey the authority, and com<ex>m</ex>ands of King, and state in cause they <lb/>
+            should make any alteration.
+         </p>
+         <p>
+            <add place="LM">
+               6
+            </add>
+            Whether this oath doe not impl<del>o</del>y that all these gouernours specified, &amp; <lb/>
+            contained under <ex>th</ex>e &amp;c be <foreign xml:lang="la">jure divino</foreign>? because the oath makes them all <lb/>
+            <add place="LM">
+               Articles of <lb/>
+               Religion. <lb/>
+               :7: 34: <lb/>
+               Hook: pol. <lb/>
+               l:3: p.111.
+            </add>
+            alike im<ex>m</ex>utable; &amp; in a copulatiue axiome if any one particular be <lb/>
+            false <ex>th</ex>e whole axiome is to be denyed: but if that be not intended <ex>the</ex>n <lb/>
+            whether may a man bind himselfe by oath to make that for ever im=<lb break="no"/>
+            mutable, and necessary, w<ex>hi</ex>ch in its owne nature is mutable, &amp; indif<lb break="no"/>
+            ferent standing only by humane pr<ex>e</ex>script, as all men grant most of <ex>th</ex>em doe.
+         </p>
+         <p>
+            <add place="LM">
+               7
+            </add>
+            Whether (And) in these wordes (And as by right it ought to stand) be <lb/>
+            copulatiue, or aggregative? And whether the right be divine, humane, or <lb/>
+            common æquity? &amp; whether it be opposite to the practises of some men <lb/>
+            in their ill exercise of their gouerment, or to other formes of gouerment <lb/>
+            in other Churches which is most probable.
+         </p>
+         <p>
+            <add place="LM">
+               8
+            </add>
+            What is meant by popery? whether onely the Pope's supreamacy, or <lb/>
+            the doctrine of the Church of Rome differing from oures? and <lb/>
+            where that is defined that wee may know against what wee sweare?
+         </p>
+         <p>
+            <add place="LM">
+               9
+            </add>
+            How any man can sweare he taketh his oath willingly when (there be so <lb/>
+            many quæries, and difficulties in it) he would not take it if he could <lb/>
+            avoid it, and when it is enforced by so greivous censure./.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f060r/harley_ms_4931_f060r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f060v/harley_ms_4931_f060v.jpg"/>
+   </facsimile>
+
+</TEI>

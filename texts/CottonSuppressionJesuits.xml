@@ -1,0 +1,1979 @@
+<TEI xmlns="http://www.tei-c.org/ns/1CottonDeclarationKingsEstates1612.xml.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the Suppression of Jesuits</title>
+            <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Harley_MS_35">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 35</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Lansdowne_MS_213">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 213</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Harley_MS_1858">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 1858</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Harley_MS_859">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 859</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Harley_MS_354">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 354</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Add_MS_48101">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48101</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xmlns="http://www.tei-c.org/ns/1.0" xml:id="BL_Egerton_MS_3138">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Egerton</collection>
+                <idno>MS 3138</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Serious Considerations For Repressing of the Increase of Iesvites, Priests, and Papists Without Shedding Blood</title>
+                  <pubPlace>[London?]</pubPlace>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">C6497</idno>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Cottoni Posthuma</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1651">1651</date>
+                  <idno type="Wing">C6500</idno>
+                  <biblScope unit="page" from="109" to="157">109-157</biblScope>
+                  <biblScope unit="sigs" from="H7r" to="L7r">H7r-L7r</biblScope> 
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Cottoni Posthuma</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1672">1672</date>
+                  <idno type="Wing">C6486</idno>                  
+                  <biblScope unit="page" from="109" to="157">109-157</biblScope>
+                  <biblScope unit="sigs" from="H7r" to="L7r">H7r-L7r</biblScope> 
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Cottoni Posthuma</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1679">1679</date>
+                  <idno type="Wing">C6487aA</idno>
+                  <biblScope unit="page" from="109" to="157">109-157</biblScope>
+                  <biblScope unit="sigs" from="H7r" to="L7r">H7r-L7r</biblScope> 
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1613-08-11">11 August 1613, although this version dated 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+               <term>discourse</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>recusancy</term>
+               <term>Catholicism</term>
+               <term>confessional conflict</term>
+               <term>Jesuits</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-17" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="22v" facs="/bl/add_ms_11600/add_ms_11600_f022v/add_ms_11600_f022v.jpg"/>
+         <head>
+            <hi rend="align-centre">S<ex>i</ex>r Robert Cottons speech 1628./</hi> <lb/>
+            Against recusants in defence of the oath of alle=<lb break="no"/>
+            giance or execuc<ex>i</ex>ons of consideration of <lb/>
+            repressing of the increase of Papists./
+         </head>
+         <p>
+            I am not ignorant that this latter age hath brought <lb/>
+            forth a sworme of busy heades which measure the <lb/>
+            misteryes of states by the rule of theire selfe con=<lb break="no"/>
+            ceyted wisdome but if they would consider that the <lb/>
+            com<ex>m</ex>on wealth gouerned by graue co<add place="above">u</add>nsello<ex>u</ex>rs is like <lb/>
+            to a shipp directed by a skillfull pilott to whom <lb/>
+            the necessityes of occasions and ground of reason <lb/>
+            which steereth the helme to this or that poynt <lb/>
+            of the compass are better knowne then to those <lb/>
+            that stand a loofe of they would perhapps be <lb/>
+            more sparing if not more warye in theire reso=<lb break="no"/>
+            lutions./
+         </p>
+         <p>
+            For my owne perticular I must confesse that I am
+            <fw type="catch" place="bot-right">naturally</fw>
+            <pb n="23r" facs="/bl/add_ms_11600/add_ms_11600_f023r/add_ms_11600_f023r.jpg"/>
+            naturally to much inclyned to his opinion who once sayd <foreign xml:lang="la">qui bene latuit <lb/>
+            bene uixit</foreign> and freshly calling to minde the saying of Funtius to his <lb/>
+            freind at the howre of his untimely death./
+         </p>
+         <p rend="indent">
+            Disce mei exemplo mandato munere fungi <lb/>
+            et fuge s<add place="above">e</add>upestem.
+         </p>
+         <p>
+            I could easily forbeare to make my hand wrighting the record <lb/>
+            of my opinion neuerthelesse I protest to maintayne rather <lb/>
+            <sic>deliberale</sic> then by way of conclusiue assertion therefore w<ex>i</ex>thout <lb/>
+            wasting of pretious tyme any longer with needlesse prolog I will <lb/>
+            breifely sett downe the question in the termes following <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>/
+         </p>
+         <p>
+            Whether it be more expedient to suppresse popish practises <lb/>
+            against the due allegiances to his Ma<ex>jes</ex>tie by the strict execution <lb/>
+            of the lawes touching Iesuitts and seminary preists or to retayne <lb/>
+            them to close prisons during life if noe reformation followe./
+         </p>
+         <p>
+            The doubt propounded consisting of 2 branches necessarily <lb/>
+            required to be distinctly handled that by comparing euery <lb/>
+            parte the conueniency in the question may <sic>becleared</sic> w<ex>i</ex>th more <lb/>
+            facility./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">1</hi> <lb/>
+               Mercy forerunning <lb/>
+               the repentance of <lb/>
+               a malefactor of a <lb/>
+               Princes p<ex>er</ex>son./
+            </tei:add>
+            In fauour of the first diuision there are not a few who <lb/>
+            grounding themselues on an auncient prouerbe a deade <lb/>
+            man bites not. afirme that such are daingerous to be pr<ex>e</ex>=<lb break="no"/>
+            serued aliue who being guilty condemned &amp; full of feare are <lb/>
+            likely for purchase of life &amp; liberty to engage their vtmost <lb/>
+            <sic>indesperation</sic> aduentures against there king &amp; cuntry./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">2</hi> <lb/>
+               A hard hand suddenly <lb/>
+               remitted is seldome <lb/>
+               by rude people inter=<lb break="no"/>
+               preted in <ex>th</ex>e best sence.
+            </tei:add>
+            No lesse is it to be feared that while the sword of Iustice is remisse <lb/>
+            in cutting of haynous offences against the dignity of the crowne the <lb/>
+            misled papall multitude in the interim may enter into a iealous <lb/>
+            suspence whether that forbearance proceede from the feare of <lb/>
+            exasperating theire desperat humors or that it is more become <lb/>
+            questionable whether the execution of theire preists be simply <lb/>
+            for matters of state or pretended quarrell of religion./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">3</hi> <lb/>
+               There is noe hope of <lb/>
+               reformation where <lb/>
+               there is noe confession <lb/>
+               of the fault./
+            </tei:add>
+            And whereas in a remedilus in conueniency it is lawfull to vse extre=<lb break="no"/>
+            mityes of the lawes against some few that  may be reformed what <lb/>
+            hope can there be that clemency may tame there hearts who in=<lb break="no"/>
+            terpret his Ma<ex>jes</ex>ties grace in transporting there preists out <lb/>
+            of the realme to be a meere shift to ridd prisons of those whom <lb/>
+            conscience could not condemne of any capitall cryme./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">4</hi> <lb/>
+               While iustice sleepes <lb/>
+               the tyme serue to sowe <lb/>
+               new <gap extent="4" unit="chars"/> &amp; rayse <lb/>
+               factions./
+            </tei:add>
+            Neither are theire uanting whisperings to be neglected by which <lb/>
+            they seeke to confirme the fearfull soules of theire party &amp; <lb/>
+            to inueagle the ignorant doubtfull or discontented p<ex>er</ex>sons for if <lb/>
+            the glorious extolling of theire powerfull freinds &amp; the exspec=<lb break="no"/>
+            tance of a goulden day be suffered to winn creditt w<ex>i</ex>th the <lb/>
+            meaner sort the relapse cannot be small or the meanes easy to re=<lb break="no"/>
+            forme the error w<ex>i</ex>thout a generall combustion of the state./
+         </p>
+         <fw type="catch" place="bot-right">let experienc<supplied reason="damage">e</supplied>
+            </fw>
+         <pb n="23v" facs="/bl/add_ms_11600/add_ms_11600_f023v/add_ms_11600_f023v.jpg"/> 
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">:5:</hi> <lb/>
+               Fearefull sperits by <lb/>
+               sufferaunce growe inso=<lb break="no"/>
+               lent &amp; cruell./
+            </tei:add>
+            Let exsperience speake something in this behalfe which <lb/>
+            hath euidently disceried w<ex>i</ex>thin the currant of a few yeares that <lb/>
+            the forbearance of seuerity hath multiplied theire rowle in <lb/>
+            such manner that it remaynes as a Corasiue to thousands <lb/>
+            of his Ma<ex>jes</ex>t<ex>y'</ex>s well affected subiects./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">:6:</hi> <lb/>
+               Vnion in a pr<ex>e</ex>pared conspi=<lb break="no"/>
+               racie pr<ex>e</ex>uaileth more then <lb/>
+               number./
+            </tei:add>
+            To what purpose serues it to minister the names of the <lb/>
+            Protestants or uaunt them to be tenn for one of the <lb/>
+            Roman facc<ex>i</ex>on as if base figures of numeration could pr<ex>e</ex>uaile <lb/>
+            againt an vnited p<ex>ar</ex>tey resolued and aduised aforehand how <lb/>
+            to turne theire faces with assurance vnto all daingers while <lb/>
+            in the meane tyme the protestants nestling in vaine se<lb break="no"/>
+            curity suffer the weedes to grow up that threaten his bare <lb/>
+            and mercilesse ruine./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">:7:</hi> <lb/>
+               It is hard to p<ex>er</ex>swade <lb/>
+               those who by reason of <lb/>
+               theire dependancy on <lb/>
+               the Pope, are scarse Ma<ex>s</ex>ters <lb/>
+               of theire owne sowles./
+            </tei:add>
+            Some tymes the oath of supremacy cheaked theire pr<ex>e</ex>sumptions <lb/>
+            imaginac<ex>i</ex>ons and yet could not that infernall smoake be wholly <lb/>
+            smothered nor the locusts yssuing thereout cleansed from <lb/>
+            the face of this lande. Now that the temporall power of <lb/>
+            the kinge conteyned in the oath of allegeance is by the papall <lb/>
+            sea and many of the orders thereof impudently a vowed to be vn=<lb break="no"/>
+            lawfull shall the branches of such doctrine be suffered to liu <lb/>
+            yea to liue and to be releiued of vs for whose destrucc<ex>i</ex>on they <lb/>
+            groane daylye./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">:8:th</hi> <lb/>
+               Malis bene facere tantan=<lb break="no"/>
+               dem estac bonis malefacere./
+            </tei:add>
+            To be a right popish preist in true English sence is to beare the <lb/>
+            Character of a disloyall Renegado of his naturall disobedience towards <lb/>
+            his soueraigne whom if by conueniency he shall let slip or chastice <lb/>
+            with a light hand what im<ex>m</ex>unity may not trayto<ex>u</ex>r delinquents in <lb/>
+            lesser degrees expecte or <choice>
+                    <sic>challgence</sic>
+                    <corr>challenge</corr>
+                </choice> after a sort inequity of Justice./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">:9:th</hi> <lb/>
+               Fellowshipp in misery <lb/>
+               easeth greefe: and by <lb/>
+               clamor of the multitude <lb/>
+               iustice is many tymes con<lb break="no"/>
+               dempned./
+            </tei:add>
+            If there were noe receavo<ex>u</ex>rs there would be no theeues likewise <lb/>
+            if there were noe harbourers of the Iesuits it is to be pr<ex>e</ex>sumed yt <lb/>
+            they would not troble this Isle w<ex>i</ex>th there pr<ex>e</ex>sence therefore <lb/>
+            must rigoure be exstended against the receauo<ex>u</ex>r that the Iesuit <lb/>
+            may be kept w<ex>i</ex>thout doores: were it then indifferent Iustice to <lb/>
+            hang vp the accessaryes &amp; let the principall goe free, namely to <lb/>
+            suffer the preist to drawe his breath at length while the <lb/>
+            intertayner of him vnder his roofe submitts his body to the <lb/>
+            executioners hande w<ex>i</ex>thout doubte, if it be fitt to forbeare the <lb/>
+            cheife, it wilbe necessary to receaue the second offendo<ex>u</ex>r into <lb/>
+            protection. Whereupon a mischeife must ensue of continuall <lb/>
+            exspence &amp; scandalus restrainte of soe great a number./
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="align-centre">:10:th</hi> <lb/>
+               It is not good to sett a <lb/>
+               price one that w<ex>hi</ex>ch being <lb/>
+               sould will bring repentance <lb/>
+               to the seller./
+            </add>
+            Reputation is one of the principall Arteries of the com<ex>m</ex>onwealth <lb/>
+            w<ex>hi</ex>ch maxime is soe well knowne to the secritaryes of the papacye that <lb/>
+            by priuate forgeries &amp; publique impressions of calumniac<ex>i</ex>ons they <lb/>
+            endeauor to wound vs in that uitall parte howsoeuer therefore
+            <fw type="catch" place="bot-right">some few of</fw>
+            <pb n="24r" facs="/bl/add_ms_11600/add_ms_11600_f024r/add_ms_11600_f024r.jpg"/> 
+            some few of that stampe beinge better tempered then theire <lb/>
+            fellowes in defence of this pr<ex>e</ex>sent gouernem<ex>en</ex>t have not spared <lb/>
+            to affirme that Tyranny is vniustly ascribed therevnto for so <lb/>
+            much as freedom of conscience after a sorte may be redeemed <lb/>
+            for money, notw<ex>i</ex>thstanding there want not many Pamphlets <lb/>
+            of theire side who approbri<add place="above">o</add>usly cast in o<ex>u</ex>r teeths the conuerting <lb/>
+            of the penaltie inflicted on recusant<ex>es</ex> and refusers of the <lb/>
+            oath of allegiance from the king<ex>es</ex> to a perticuler purse, <lb/>
+            surely we cannot pr<ex>e</ex>sume that the libellers may be diswaded <lb/>
+            from spitting out theire venum maliciously against vs, <lb/>
+            when they shall see theire preist<ex>es</ex> mewed vp w<ex>i</ex>thout <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               Warines is to be vsed <lb/>
+               with those qui nec <lb/>
+               tota<ex>m</ex> seruitute<ex>m</ex> pati <lb/>
+               possunt nec totam <lb/>
+               libertatem.
+            </tei:add>
+            further processe of lawe. for either they attribute this <lb/>
+            calme dealing to the iustice of theire cause, the strength <lb/>
+            of theire partie or patience or that tract of tymes hath <lb/>
+            discovered o<ex>u</ex>r lawes importing overmuch sharpenes in good <lb/>
+            pollicie to be thought fitter for abrogation by non vsance <lb/>
+            then repealed by a publique decree./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">11th
+                    </hi>
+                    <lb/>
+               Most men write good <lb/>
+               turnes in sand, and <lb/>
+               bad in marble./
+            </tei:add>
+            Moreover it is fore thought by som<ex>m</ex>e that if theis seminaries <lb/>
+            be onely restreyned; that they may proue hereafter like a <lb/>
+            snake kept in the bosome of such as <hi rend="italic">Bonner, Guardiner,</hi> <lb/>
+            and others of the same liverye showed themselues to be <lb/>
+            after libertie obteyned in Queene Maryes dayes. and if <lb/>
+            the loss of theire ghostlye Fathers agreive them, it is <lb/>
+            probable that they will take armes sooner and with <lb/>
+            more Courage to free the living then to sett vp a <lb/>
+            Trophe to the dead./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               <hi rend="align-centre">12th
+                    </hi>
+                    <lb/>
+               Fugitiues that craue <lb/>
+               succor vse to lye <lb/>
+               <lb/>
+               Much fauor of theire <lb/>
+               cause and power. <lb/>
+               Relation de Botero. <lb/>
+               It is a signe when <lb/>
+               a faction dare nu<ex>m</ex>ber <lb/>
+               theire side that there <lb/>
+               is an opinion con=<lb break="no"/>
+               ceiued of sufficient <lb/>
+               strength to attempt <lb/>
+               some innouation./
+            </tei:add>
+            Howsoever the Iesuits band is knowne in theire native <lb/>
+            soyle to be defectiue in many respect<ex>es</ex> which makes them <lb/>
+            vnderlings to the Protestant<ex>es</ex>, as in authoritye, armes, <lb/>
+            and the protection of the lawes which is all in all ne=<lb break="no"/>
+            verthelesse they insinuate themselues to forraigne Princes <lb/>
+            favoring theire partie with promises of strong assistance <lb/>
+            at home if they may be welbacked abroad, to which purpose <lb/>
+            they devided the inhabitant<ex>es</ex> of this realme into fowre <lb/>
+            sectes, whereof ranking theire troopes in the first place <lb/>
+            (as due to the pr<ex>e</ex>tended Catholiques) they assumed a full
+            <fw type="catch" place="bot-right">forth part</fw>
+            <pb n="24v" facs="/bl/add_ms_11600/add_ms_11600_f024v/add_ms_11600_f024v.jpg"/>
+            <handShift/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               In a com<ex>m</ex>on wealth <lb/>
+               there ought to bee <lb/>
+               but one head, for w<ex>hi</ex>ch <lb/>
+               cause a Prince must <lb/>
+               bee vigilant when <lb/>
+               diuers fac<ex>i</ex>ons arise <lb/>
+               yt by favouring one <lb/>
+               and neglecting of <lb/>
+               other in stead of <lb/>
+               a head of all hee <lb/>
+               becom<ex>m</ex>e onely a memb<ex>e</ex>r <lb/>
+               of one p<ex>ar</ex>tye./.
+            </tei:add>
+            fourth p<ex>ar</ex>te to theire p<ex>ro</ex>perties: and of that p<ex>ar</ex>te againe <lb/>
+            they made subdivision into two porc<ex>i</ex>ons namely of those <lb/>
+            that openly renounced the established Church of Engl<ex>and</ex> <lb/>
+            others whose c<ex>er</ex>ten number could not bee asigned <lb/>
+            because they frequented o<ex>u</ex>r service of sacram<ex>en</ex>t<ex>es</ex> <lb/>
+            reservinge theire heart<ex>es</ex> to the Lord God, the Pope <lb/>
+            The 2.d p<ex>ar</ex>te they allotte to the Protestant<ex>es</ex> whoe <lb/>
+            retayne yet as they saye some reliques of theire <lb/>
+            Church, The 3d rancke and largest was lefte vnto <lb/>
+            the Puritans whom they hate deadly in respect <lb/>
+            they will hold noe indiffer<ex>en</ex>t quarter w<ex>i</ex>th papistry. <lb/>
+            The 4th and last maniple they assigne to the <lb/>
+            Politic<ex>i</ex>ans, <foreign xml:lang="la">Huomini</foreign> (say they) <foreign xml:lang="la">Senza Dio et senza <lb/>
+            anima</foreign>, men w<ex>i</ex>thout feare of God, or regard of <lb/>
+            theire soules, whoe busieinge themselues only <lb/>
+            in matters of state retayne noe sence of <lb/>
+            religion: noe doubt if the Autho<ex>u</ex>rs of <lb/>
+            this petic<ex>i</ex>on haue cast theire accounte <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               Discontented mynd<ex>es</ex> <lb/>
+               in begi<ex>nn</ex>ings of tumult<ex>es</ex> <lb/>
+               will agree though <lb/>
+               th'end<ex>es</ex> be divers/. 
+            </tei:add>
+            arighte wee must confesse that the later <lb/>
+            broode is to bee ascribed p<ex>ro</ex>p<ex>er</ex>lie vnto them, <lb/>
+            for if the vndermyninge of the Parliam<ex>en</ex>t houses <lb/>
+            they scandelizinge the king in print (whoe <lb/>
+            is God<ex>es</ex> an<ex>n</ex>oynted) the refusall of na<ex>tur</ex>all <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">
+               A multitude is neu<ex>er</ex> <lb/>
+               vnited but in some <lb/>
+               few head<ex>es</ex> w<ex>hi</ex>ch being <lb/>
+               taken away converteth <lb/>
+               theire furye ag<ex>ains</ex>t <ex>th</ex>e <lb/>
+               first movers of the <lb/>
+               sedition./.
+            </tei:add>
+            obedience bee mark<ex>es</ex> of those that neither <lb/>
+            stand in feare of God nor conscience well <lb/>
+            maie the papist<ex>es</ex> boast that they are assured <lb/>
+            of theire first number, and may p<ex>re</ex>sume like=<lb break="no"/>
+            wise of the laste freindshippe when occac<ex>i</ex>on <lb/>
+            shalbee offered./.
+         </p>
+         <p>
+            For <ex>th</ex>e pr<ex>e</ex>venting of w<ex>hi</ex>ch Combinac<ex>i</ex>on it is <lb/>
+            <add place="LM">
+               Certe<ex>i</ex>n Germans <lb/>
+               in H. 2d<ex>es</ex> tyme <lb/>
+               calling themselues <lb/>
+               Publicans were <lb/>
+               marked w<ex>i</ex>th a hott <lb/>
+               Iron in the forhead <lb/>
+               and whipped being <lb/>
+               thrust out in the <lb/>
+               wynter w<ex>i</ex>th a p<ex>ro</ex>hi=<lb break="no"/>
+               bic<ex>i</ex>on <ex>tha</ex>t none should <lb/>
+               receaue them into <lb/>
+               theire houses they <lb/>
+               died of hunger &amp; cold/.
+            </add>
+            a sure waie to cutt of the head<ex>es</ex> that <lb/>
+            should tye the knott or att least brand <lb/>
+            them w<ex>i</ex>th a marke in <ex>th</ex>e forheadd bee=<lb break="no"/>
+            fore they bee dismissed or after the <lb/>
+            opinion of other to make them vnwelcome <lb/>
+            to the Femynyne sexe which now w<ex>i</ex>th great <lb/>
+            fervency embrace them./.
+         </p>
+         <fw type="catch" place="bot-right">Theise=</fw> 
+         <pb n="25r" facs="/bl/add_ms_11600/add_ms_11600_f025r/add_ms_11600_f025r.jpg"/>
+         <p>
+            Theise are for the most p<ex>ar</ex>te Argum<ex>en</ex>t<ex>es</ex> vented <lb/>
+            in ordinary discourse by many who suppose a <lb/>
+            preist<ex>es</ex> breath to bee contagious in o<ex>u</ex>r english <lb/>
+            aire: Others there are who maintayne the <lb/>
+            2d p<ex>ar</ex>rte of the question w<ex>i</ex>th reasons not vn=<lb break="no"/>
+            worthy of observac<ex>i</ex>ons:
+         </p>
+         <p>
+            <add place="LM">
+               Rooted sup<ex>er</ex>stic<ex>i</ex>on <lb/>
+               violently handled <lb/>
+               groweth more <lb/>
+               warie but not <lb/>
+               lesse obstinate./.
+            </add>
+            Death is <ex>th</ex>e ende of temporall woes but it maie <lb/>
+            in noe waies bee accounted the graue of <lb/>
+            memorie therefore howsoever it is in the <lb/>
+            power of the Iustice to suppresse the p<ex>er</ex>son of <lb/>
+            a man, (the opinion for w<ex>hi</ex>ch hee suffered <lb/>
+            conceived trulye or vntrulie in <ex>th</ex>e heart<ex>es</ex> of <lb/>
+            a multitude) is not subiecte to th'edge <lb/>
+            of any sword how keene soever I confesse <lb/>
+            <ex>tha</ex>t <ex>th</ex>e teeth are soone blunted that byte onlie <lb/>
+            <add place="LM">
+               Yf Conspirators <lb/>
+               haue once sympathy <lb/>
+               of mynd the <lb/>
+               Conspiracy is <lb/>
+               never wholye <lb/>
+               suppr<ex>e</ex>ssed soe long <lb/>
+               as one of them <lb/>
+               remayneth./.
+            </add>
+            out of malice of a sing<ex>u</ex>ler faction, but <lb/>
+            when poison is diffused through the veynes <lb/>
+            of a Com<ex>m</ex>on wealth w<ex>i</ex>th intermixture of <lb/>
+            bloodd, good, and badd, <sic>sepac<ex>i</ex>on</sic> is to bee <lb/>
+            made rather by patient evacuation then <lb/>
+            by pr<ex>e</ex>sent <sic>incisicion</sic>. The greatest biter <lb/>
+            of State is Envye ioyned w<ex>i</ex>th thirst of <lb/>
+            revenge, w<ex>hi</ex>ch seldome declares it selfe in <lb/>
+            plaine Cullours vntill a iealousie conceved <lb/>
+            of p<ex>er</ex>sonall dang<ex>e</ex>rs breath out into <lb/>
+            desp<ex>er</ex>ate resoluc<ex>i</ex>ons, Hence comes it to <lb/>
+            passe that when one malecontented <lb/>
+            member is greived the rest of the <lb/>
+            boddie is sensible thereof, Neither can <lb/>
+            a Preist or Iesuite bee cutt of w<ex>i</ex>thout <lb/>
+            a g<ex>ene</ex>rall murmure of theire secretaries <lb/>
+            w<ex>hi</ex>ch beinge confident in the number <lb/>
+            secretly arme for opposic<ex>i</ex>on or confirmed <lb/>
+            w<ex>i</ex>thout theire martirs Blood (as they are
+            <pb n="25v" facs="/bl/add_ms_11600/add_ms_11600_f025v/add_ms_11600_f025v.jpg"/>
+            <handShift/>
+            as they are p<ex>er</ex>swaded resolue by patience and sufferance <lb/>
+            to glorifie there cause and merritt heauen doe not <lb/>
+            wee dailie see that itt is easier to confronte a pryvate <lb/>
+            en<ex>n</ex>emy then a society or a corporac<ex>i</ex>on, and that the <lb/>
+            hatred of a state, is more mortall then the spleene <lb/>
+            <add place="LM">
+               opinion setled in a <lb/>
+               multitude is lyke <lb/>
+               hidras heads w<ex>hi</ex>ch must <lb/>
+               bee cured by searing <lb/>
+               but not by letting blood
+            </add>
+            of <add place="above">a</add> Monarchie, Therefore except itt bee demonstrated <lb/>
+            that the whole Roman Citty w<ex>hi</ex>ch concists not of one <lb/>
+            broade but of a succession of p<ex>er</ex>sons may bee cut <lb/>
+            of att the first stroake as an entire head, I see <lb/>
+            noe cause to see owr state secured by sitting on the <lb/>
+            skirts of som<ex>m</ex>e fewe Semminaries leavinge in the <lb/>
+            <add place="LM">
+               Clemency is a <lb/>
+               devine instinct &amp; <lb/>
+               worketh sup<ex>er</ex>naturall <lb/>
+               efforts
+            </add>
+            meane tyme a multitud of snarlors abroade whoe <lb/>
+            allreadie shewe there teeth and only want oportunitie <lb/>
+            to byte fiersly I not deny that where wee feare wee <lb/>
+            com<ex>m</ex>only hate provided allwaies that noe merritt hath <lb/>
+            interceded a reconcilliac<ex>i</ex>on, for there is greate difference <lb/>
+            betweene hatred conceaved against him that will take <lb/>
+            away the lyfe and him that may iustly doe itt, And <lb/>
+            yett in Clemency forbeares to putt itt in effect for the <lb/>
+            latter breedeth reverend awe wheras the form<ex>er</ex> <lb/>
+            subiecteth to servile feare, allwaies uccompanied <lb/>
+            w<ex>i</ex>th desyer of innovations, And although itt hath <lb/>
+            beene affirmed of the Churche of <hi rend="italic">Roeme <foreign xml:lang="la">quod <lb/>
+               <add place="LM">
+                  Gartij Axiomatu <lb/>
+                  Politica
+               </add>
+            pontificium genus semper crudele</foreign>
+                </hi> nevertheless <lb/>
+            owt of charrety lett vs hope that all Devills are not <lb/>
+            soe blacke <del rend="strikethrough">are</del> as they are painted. som<ex>m</ex>e or p<ex>er</ex>happs <lb/>
+            many of them there are whome conscience or in defalt <lb/>
+            thereof puer shame of the worlde will constraine <lb/>
+            to confess that his Ma<ex>jes</ex>tie most gratiously distinguisheth <lb/>
+            the Theory of Popery from the actyve p<ex>ar</ex>te thereof <lb/>
+            as beinge naturally inclined <hi rend="italic">
+                    <foreign xml:lang="la">Paruis peccatis <lb/>
+            veniam mangis seueritatem comodare nec poena <lb/>
+               <add place="LM">
+                  Tacitus in vita <lb/>
+                  Agricolæ
+               </add>
+            semper sed sepias penitentia contentus esse</foreign>
+                </hi>//
+         </p>
+         <p>
+            Mistakinge of punishm<ex>en</ex>t legally inflicted comonly <lb/>
+            proceedes from fonde pitty or the interest wee haue <lb/>
+            in the same cause booth w<ex>hi</ex>ch begett blinde <lb/>
+            partiallity Admitt then th<ex>a</ex>t the Papall syde <lb/>
+            <fw type="catch" place="bot-right">effectinge</fw>
+            <pb n="26r" facs="/bl/add_ms_11600/add_ms_11600_f026r/add_ms_11600_f026r.jpg"/>
+            <add place="LM">
+               when Traitors in Euills <lb/>
+               will not chase the least <lb/>
+               It is an argument that <lb/>
+               they are desperat and <lb/>
+               breath nothinge but <lb/>
+               extremities of mischeife/
+            </add>
+            effecting merritt by compassion maybee neerely touched w<ex>i</ex>th the<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> restraint of theire <lb/>
+            Semminaries, It cannot bee denied I hope except they had the harts of Tygers <lb/>
+            that in humanitie they will preferr theire ease of durannce before the <lb/>
+            rygor of death And albeitt that Parsons Bellarmine and the Pope himselfe <lb/>
+            constraine there spirituall children to thrust there fingers into the fyer <lb/>
+            by refusinge the oath of alleageannce notw<ex>i</ex>thstandinge wee haue many <lb/>
+            testimonies in iudiciall Courts and printed bookes that the greater p<ex>ar</ex>te of them <lb/>
+            are of that Theban hunters mynde who would rather haue seene <lb/>
+            his dogges cruell actes then to haue felt them to his owne costs;
+         </p>
+         <p>
+            Garnett himselfe allsoe in one of his secrett letters lamented that after <lb/>
+            <add place="LM">
+               It was a precept of <lb/>
+               Macheuills to putt on <lb/>
+               the Masque of religion <lb/>
+               w<ex>hi</ex>ch nowe is become a <lb/>
+               popish afforisme/
+            </add>
+            his death hee should not bee inrowlled amongst the Martirs because <lb/>
+            that noe matter of Religion was obiected against him yett itt plainly <lb/>
+            <add place="LM">
+               soe itt pleased in Parsons <lb/>
+               to Cauill of whome itt <lb/>
+               may bee spoken <foreign xml:lang="la">malus <lb/>
+                  malum esse vult et siu <lb/>
+               similem</foreign>
+            </add>
+            appeared in his demeanure that hee should gladly suruiue the possebillitie <lb/>
+            of that glorie, yf any such had had remained neither is itt to bee presumed <lb/>
+            that beinge in prison hee would eu<ex>er</ex> haue conceiued that wee durst <lb/>
+            not touche his reverence or that the lawe was remisse w<ex>hi</ex>ch had iustly <lb/>
+            condemned him and leste his lyfe to the kinges mercy. It is the distannce <lb/>
+            of place and not of persons that interrpreted the sendinge ou<ex>er</ex> seas <lb/>
+            the Preists to bee agreater argum<ex>en</ex>t of theire Innocencie then of his ma<ex>jes</ex>t<ex>es</ex> <lb/>
+            forbearannce, for had Father Parsons himselfe beene <foreign xml:lang="la">coram nobis</foreign> his <lb/>
+            songe would <del rend="strikethrough">h</del> rather haue beene of mercy then of iustice./.
+         </p>
+         <p>
+            <add place="LM">
+               gross and bratish errors <lb/>
+               are soner reformed <lb/>
+               the easier escapes for <lb/>
+               so much as the one <lb/>
+               cannot be defended <lb/>
+               w<ex>i</ex>thout inpudencie <lb/>
+               whereas the other admi=<lb break="no"/>
+               teth som<ex>e</ex> cullor of <lb/>
+               excuse and pittie./
+            </add>
+            It is truly said that wee are all instructed better by exsamples then <lb/>
+            precepts. Therefor yf the lawes printed and Indictm<ex>en</ex>t<ex>es</ex> cannot <lb/>
+            controwle the Callumniatione of those that will willingly mistake <lb/>
+            treason for religion by the execution of twoe or three of that <lb/>
+            blackbittridge nomber I dowbt not but that the question may <lb/>
+            bee readely decyded <foreign xml:lang="la">namq<ex>ue</ex> immedicabile vulnus ense residendum est ne parss sincera tratiatur:</foreign>
+         </p>
+         <p>
+            <add place="LM">
+               To bestowe benefitts <lb/>
+               to the bad maketh them <lb/>
+               worss and vilifieth the <lb/>
+               reward of the vertuous./
+            </add>
+            To dally w<ex>i</ex>th Pragmaticall Papists especially w<ex>i</ex>th those that by theire <lb/>
+            exsample and Councell p<ex>re</ex>vente his ma<ex>jes</ex>ties subiect<ex>es</ex>, I hould itt a <lb/>
+            pointe of meere iniustice for what comfort may the good expect <lb/>
+            when the badd are by connivancye freed to speake and imbold=<lb break="no"/>
+            enned to put there <sic>dislyall</sic> thought<ex>es</ex> in execution for explaining <lb/>
+            therefore of my meaninge It is necessarie to haue a regard to the <lb/>
+            nature of the kings liege people that are to bee reformed <lb/>
+            by exsample of Iustice and others forraigners whoe will <lb/>
+            wee nill wee muste bee censurers of o<ex>u</ex>r actions./
+         </p>
+         <fw type="catch" place="bot-right">It hath beene</fw>
+         <pb n="26v" facs="/bl/add_ms_11600/add_ms_11600_f026v/add_ms_11600_f026v.jpg"/>
+         <p>
+            <handShift/>
+            It hath been truly obserued that <ex>th</ex>e nations of <lb/>
+            Europe w<ex>hi</ex>ch are most remote from Rome are more super=<lb break="no"/>
+            stitiously inclined to <ex>th</ex>e dreggs of that place then the <lb/>
+            neerer neighbours of Italy, whether <ex>th</ex>e humor proceede <lb/>
+            from <ex>th</ex>e complexion of the Northerne bodies w<ex>hi</ex>ch is naturally <lb/>
+            more attentiue of old customes then hotter regions, or <ex>tha</ex>t <lb/>
+            the vices of <ex>th</ex>e Citty seated on seauen hills are by <lb/>
+            crafty Ministers of <ex>tha</ex>t Sea concealed from <ex>th</ex>e vulgar sort.
+         </p>
+         <p>
+            I list not now to discusse, but most certaine it is that <lb/>
+            the people of this Island exceeds <ex>th</ex>e Romans in zeale of <lb/>
+            their profession; in so much that in Rome itselfe I haue <lb/>
+            heard <ex>th</ex>e English fugitiues taxed by <ex>th</ex>e name of Pichiapetti <lb/>
+            <add place="LM">Knockbrests <lb/>
+            hypocrites</add>
+            Inglesi: Now <add place="above">as</add> our Countrimen take surer holdfast of Papall <lb/>
+            tradic<ex>i</ex>ons then others so are they naturally better fortifyed w<ex>i</ex>th <lb/>
+            a courage to endure death for the maintenance of that cause. <lb/>
+            For this climate is of that temperature out of w<ex>hi</ex>ch Vegetius <lb/>
+            holdeth it fittest to choose a valiant soldier, where the <lb/>
+            heart findeth itselfe prouided of plenty of blood to sustaine <lb/>
+            <add place="LM">
+               Valour is often ouer=<lb break="no"/>
+               come by weaknesse, but <lb/>
+               being too much oppressed <lb/>
+               it turnes to vnbridled <lb/>
+               fury.
+            </add>
+            suddaine defects it is not so soone apprehensiue of death <lb/>
+            or dangers, as where <ex>th</ex>e storehouse of bloud is small, <lb/>
+            euery hazard makes pale cheekes, &amp; trembling handes. <lb/>
+            <foreign xml:lang="la">Angli</foreign> (say ancient writers <foreign xml:lang="la">bello intrepidi, nec mortis <lb/>
+               sensu deterrentur</foreign>: and thereupon Botero <ex>th</ex>e Italian beareth <lb/>
+            witnesse in his Relac<ex>i</ex>ons <ex>tha</ex>t many strangers therefore <lb/>
+            comming out of forraigne parts, among the rarities of <lb/>
+            England desired to see if report had not been too lauish <lb/>
+            in affirming that our condemned persons yeeld their bodies <lb/>
+            to death with cheerefulnes. And were it not that by <lb/>
+            daily experience we can call ourselues to witnesse of this <lb/>
+            <add place="LM">
+               The best lawes are made <lb/>
+               out of those good Customes <lb/>
+               whereunto the people is <lb/>
+               naturally inclined. Fortescue <lb/>
+               <foreign xml:lang="la">de legibus Anglia</foreign>.
+            </add>
+            truth, I could produce the Reuerend Iudge Fortescue <lb/>
+            who in commendac<ex>i</ex>on of our English Lawes <add place="above">made</add> <del rend="strikethrough">well</del> sutable <lb/>
+            (as he well obserueth) to <ex>th</ex>e inbred condic<ex>i</ex>ons of the <lb/>
+            Inhabitants of this soyle, avoweth that the English <lb/>
+            people in triall for criminall causes are not compelled <lb/>
+            by tortures to confesse the truth as in other Nations <lb/>
+            <add place="LM">
+               Vse to see men dye with <lb/>
+               resoluc<ex>i</ex>on takes away the <lb/>
+               feare of death, for which <lb/>
+               purpose the Romans used <lb/>
+               the fight of Gladiators.
+            </add>
+            it is used forasmuch as the quality of the English <lb/>
+            is knowne to be lesse fearefull of death then of torments, <lb/>
+            for w<ex>hi</ex>ch cause, if the torments of <ex>th</ex>e Ciuill Lawe were offered
+            <fw type="catch" place="bot-right">to an</fw>
+            <pb n="27r" facs="/bl/add_ms_11600/add_ms_11600_f027r/add_ms_11600_f027r.jpg"/> 
+            to an innocent person in England he would rather yeild <lb/>
+            himself guilty and suffer death then endure the <lb/>
+            horrors of <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> lingring paines, <foreign xml:lang="la">Insulani plerumq<ex>ue</ex> fures</foreign>, <lb/>
+            (saith one) &amp; so true it is that this Country is stained <lb/>
+            w<ex>i</ex>th that imputac<ex>i</ex>on notwithstanding that many are putt <lb/>
+            to death to the end that others by their fall might learne <lb/>
+            in time to beware: If then it doth appeare that terror <lb/>
+            preuailes not to keep men from offenses w<ex>hi</ex>ch are condemned <lb/>
+            <add place="LM">
+               The hereticks calld Publi=<lb break="no"/>
+               cans when they were <lb/>
+               whipped they tooke their <lb/>
+               punishment gladly, their <lb/>
+               Capt. Gerrard being before <lb/>
+               them a signing, Blessed <lb/>
+               are you when men doe <lb/>
+               hate you.
+            </add>
+            by Lawe &amp; conscience, what assurance can there be <lb/>
+            to secure those who are constantly satisfied in their <lb/>
+            mindes that their sufferings are either expressely or by <lb/>
+            implicac<ex>i</ex>on for matter of Religion and <space extent="8" unit="chars"/>: to English=<lb break="no"/>
+            men <foreign xml:lang="la">Quibus nihil interest humine, sublimine putrescant,</foreign> <lb/>
+            tis a matter of small consequence; <foreign xml:lang="la">Gallis, Italis aut <lb/>
+            <add place="LM">
+               Andromache cogere sivis <lb/>
+               vitam imitare. Senac. Trag
+            </add>
+               Hispanis istam imitari</foreign>, To a settled resoluc<ex>i</ex>on it bootes <lb/>
+            not to shew the dreadfull vizard of death; menaces to <lb/>
+            prolong a wearisome life preuaile much more in such cases. <lb/>
+            <add place="LM">
+               Wordly desires may be <lb/>
+               quenced w<ex>i</ex>th godly medita=<lb break="no"/>
+               t<ex>i</ex>ons, but heauenly hopes <lb/>
+               cannot be abated by <lb/>
+               earthly punishments.
+            </add>
+            Rightly did Clement the 8th consider that by burning <lb/>
+            two Englishmen in Rome for supposed heresie, he rather <lb/>
+            impaired his cause then bettered it, Insomuch that many <lb/>
+            present at the resolute death of Mr March, who brought <lb/>
+            to dust in Campo di Santa Flore spared not to proclaime <lb/>
+            him a martyr, carryed away of his ashes for a relick, <lb/>
+            and wished their soules in the same place w<ex>i</ex>th his: which <lb/>
+            newes brought to the Popes eare caused him (as it was <lb/>
+            printed in Rome) solemnly to protest that none of the <lb/>
+            English nation should publickly from that time forward <lb/>
+            be consumed w<ex>i</ex>th fire.
+         </p>
+         <p>
+            On the other side if we reade the volumes written in <lb/>
+            praise of their Priests constancy, their Martyrologie or Kalender <lb/>
+            of martyrs, &amp; pathway of Saluation as it were chalked <lb/>
+            out unto <ex>th</ex>e Papists by sacrificeing their liues for <ex>th</ex>e Pope, <lb/>
+            we shall find that by takeing away of one we haue con=<lb break="no"/>
+            firmed and inui<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>ted many, whereof I could giue particular <lb/>
+            instances, if I thought any scruple were made in that point.
+         </p>
+         <p>
+            <add place="LM">
+               It is a point of wisdome to <lb/>
+               maintaine <ex>th</ex>e truth w<ex>i</ex>th as little <lb/>
+               disputac<ex>i</ex> as may be least a good <lb/>
+               cause be marred w<ex>i</ex>th il handling.
+            </add>
+            As for forraigne parts w<ex>hi</ex>ch hold w<ex>i</ex>th Papall Supremacy it is <lb/>
+            cleare that they wilbee seuere &amp; partiall Iudges in this Cause <lb/>
+            for albeit here in England it is well knowne to bell true 
+            <fw type="catch" place="bot-right">&amp; loyall</fw>
+            <pb n="27v" facs="/bl/add_ms_11600/add_ms_11600_f027v/add_ms_11600_f027v.jpg"/> 
+            &amp; loyall subiects that for matter of Roman doctrine no <lb/>
+            mans life is directly called into question, but their disobedience <lb/>
+            in reason of State is the onely motiue of their persecution. <lb/>
+            Neuerthelesse where a great Canton of Christendome is rooted <lb/>
+            <add place="LM">
+               Truth seldome preuaileth <lb/>
+               with the partiality of the <lb/>
+               people, w<ex>hi</ex>ch being ignorant is <lb/>
+               carryed away w<ex>i</ex>th <ex>th</ex>e outward sem=<lb break="no"/>
+               blance of things./
+            </add>
+            in a contrary opinion, and things in this world are for the <lb/>
+            most esteemed by the outward appearance, this Land cannot <lb/>
+            escape malicious scandalls, neither shall there be want <lb/>
+            of <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> Colledges to supply their factions W<ex>i</ex>th Seminaries, <lb/>
+            Therefore againe &amp; againe I say if the State of the <lb/>
+            <add place="LM">
+               It is hard to make a Rule <lb/>
+               so generall against which <lb/>
+               difference of circumstance may <lb/>
+               not except.
+            </add>
+            question were so sett, That it were possible by a generall <lb/>
+            execuc<ex>i</ex>on of <ex>th</ex>e Papists and their adherents to end <ex>th</ex>e Controuersy <lb/>
+            I could in some sort w<ex>i</ex>th better will subscribe thereunto, <lb/>
+            but seing I finde but little hope in that Course I hold <lb/>
+            it safer to be ambitious of <ex>th</ex>e victory w<ex>hi</ex>ch is purchased w<ex>i</ex>th a <lb/>
+            lesse losse of bloud, and to proceed as Tully teacheth his <lb/>
+            Orator, who when he cannot wholy ouerthrow his aduersary <lb/>
+            yet ought he to doe it in some Sort, and withall to confirme <lb/>
+            his owne partie in the best manner that may be.
+         </p>
+         <p>
+            He that forbeareth to sowe his ground in expectac<ex>i</ex>on of a <lb/>
+            good winde or a fauorable moone commonly hath a poore cropp, <lb/>
+            and a leane purse, so shall it fare w<ex>i</ex>th this State if priuate <lb/>
+            <add place="LM">
+               He that is calumniated by <lb/>
+               many is in danger first to <lb/>
+               be suspected of his freind <lb/>
+               and shortly to be condem=<lb break="no"/>
+               ned if the slaunder continue.
+            </add>
+            whisperings of discontented persons, that neuer learned to speak <lb/>
+            well be too nicely regarded, yet ought they nor slightly <lb/>
+            sett at nought, least our credits grow light euen in the <lb/>
+            ballance of our dearest freinds.
+         </p>
+         <p>
+            The Papisticall libells informe against vs, as if wee were <lb/>
+            desirous to grow fatt w<ex>i</ex>th suckeing of their blood. The <lb/>
+            very walls of their seminarie Colledge at Rome on whom <lb/>
+            he daubed w<ex>i</ex>th their lyeing fancie, &amp; in euery corner the <lb/>
+            cornerkeepers leaue some badge of their malicious spleene <lb/>
+            against vs cryeing out of cruelty &amp; persecuc<ex>i</ex>on; But if <lb/>
+            the penalty of death be changed into a simple indurance <lb/>
+            of prison, what moate can they find in our eyes to pull out, <lb/>
+            and w<ex>i</ex>th what Rhetorick can they defend their obstinate <lb/>
+            malapertnesse, w<ex>i</ex>th whc repayeing vs ill for good, deserues <lb/>
+            to haue coales of indignac<ex>i</ex>on powred upon their heads. <hi rend="underline">
+                    <foreign xml:lang="la">Visne <lb/>
+               muliebre consilium</foreign>
+                </hi>? said <hi rend="underline">Liuia to Augustus, Let seuerity</hi> <lb/>
+            <add place="LM">
+               That Counsell takes best <lb/>
+               effect w<ex>hi</ex>ch is fitted to <ex>th</ex>e <lb/>
+               natures of the times <lb/>
+               and persons.
+            </add>
+            <hi rend="underline">sleepe a while &amp; what</hi> alterac<ex>i</ex>on Clemency may procure <lb/>
+            his Enemies much stopped, &amp; the fury of their malice <lb/>
+            abated; Some there are perhaps that will terme this <lb/>
+            Clemency an Innouac<ex>i</ex>on, &amp; vouch the Precedent of <ex>tha</ex>t Citty
+            <fw type="catch" place="bot-right">who</fw>
+            <pb n="28r" facs="/bl/add_ms_11600/add_ms_11600_f028r/add_ms_11600_f028r.jpg"/> 
+            permitted none to propound new Lawes, who had not a Coard <lb/>
+            about their necks ready for vengeance if it were found <lb/>
+            unprofitable.
+         </p>
+         <p>
+            But lett such Stoicks know that there is a great difference <lb/>
+            betweene the penning of a new Lawe and aduice giuen for <ex>th</ex>e <lb/>
+            manner of executing of it; neither by their leaues are all <lb/>
+            <add place="LM">
+               Those changes of state are <lb/>
+               safely made w<ex>hi</ex>ch w<ex>i</ex>th reser=<lb break="no"/>
+               ueing most part of the <lb/>
+               auncient forme betters it, <lb/>
+               and reduces the defects <lb/>
+               into order.
+            </add>
+            Innouac<ex>i</ex>ons to be reiected: for Diuine Plato teacheth us that <lb/>
+            in all Commonwealths upon iust grounds there ougt to be some <lb/>
+            changes, &amp; that Statesmen therein must behaue themselues like <lb/>
+            skillfull Musicians, <foreign xml:lang="la">qui artem Musices non mutant sed <lb/>
+               Musices modum</foreign>. That an ill weed groweth fast by example <lb/>
+            of <ex>th</ex>e new Catholicks encrease is clearely couinced, but he that <lb/>
+            will ascribe this generac<ex>i</ex>on simply to his Ma<ex>jes</ex>ties heroicall <lb/>
+            vertue of Clemency argueth out of <ex>th</ex>e Fallacy w<ex>hi</ex>ch is called <lb/>
+            <add place="LM">
+               The Church is most zealous <lb/>
+               when persecuc<ex>i</ex>on is fresh <lb/>
+               in minde; when those <lb/>
+               times are forgotten we grow <lb/>
+               to loath that w<ex>hi</ex>ch we enioy <lb/>
+               freely.
+            </add>
+            Ignorac<ex>i</ex>o Elenchi. Was not the zeale of many cooled towards <lb/>
+            <ex>th</ex>e last end of Queen Elizabeth's raigne? hath not the <lb/>
+            impertinent heate of some of our owne side bereft vs of <lb/>
+            part of our strength, &amp; <ex>th</ex>e Papacy w<ex>i</ex>th tract of time gotten a <lb/>
+            hard skinne on their consciences. <foreign xml:lang="la">Pauo met primo mox <lb/>
+               sere attollit in altum</foreign>. But if we will w<ex>i</ex>th a better insight <lb/>
+            behold how this great quantity of spawne is multiplyed we must <lb/>
+            especially ascribe <ex>th</ex>e Cause thereof to <ex>th</ex>e Priests who by their <lb/>
+            deaths prepare &amp; assure more to their sect, then by their <lb/>
+            liues they could euer perswade. It were inciuility to distrust a <lb/>
+            freind or one <ex>tha</ex>t carrieth the shew of an honest man if he <lb/>
+            will franckly giue his word or confirme it w<ex>i</ex>th a sacred oath: <lb/>
+            But when a Protestac<ex>i</ex>on is reade upon the last gaspe of life, <lb/>
+            it is of great effect and possesseth those that cannot gainesay <lb/>
+            it upon their owne knowledge.
+         </p>
+         <p>
+            The number of these Priests w<ex>hi</ex>ch nowadayes come to make <lb/>
+            a Tragicall confession, is not great; yet as w<ex>i</ex>th one seale <lb/>
+            many Patents are sealed, so w<ex>i</ex>th <ex>th</ex>e losse of few liues numbers <lb/>
+            of wauering spirits may be gained. <foreign xml:lang="la">Sanguis martyru<ex>m</ex> senen <lb/>
+               Ecclesia;</foreign> &amp; though these Preists haueing a disaduantagious <lb/>
+            <add place="LM">
+               In this case <ex>th</ex>e qeustion is <lb/>
+               not so much of <ex>th</ex>e truth of <lb/>
+               it, as who shall be Iudgeste <lb/>
+               &amp; what Censure will be giuen.
+            </add>
+            cause are but in very deed counterfett shadowes of martyrs <lb/>
+            to a true vnderstanding, yet will they be reputed for such <lb/>
+            by those that lay their soules in pawne upon their doctrine, <lb/>
+            w<ex>i</ex>th whom if wee list to contend by multitude of voyces, we <lb/>
+            shall be cryed downe w<ex>i</ex>thout all peraduenture: for the gate <lb/>
+            of their Church is wide &amp; many are they that enter <lb/>
+            thereinto.
+         </p>
+         <pb n="28v" facs="/bl/add_ms_11600/add_ms_11600_f028v/add_ms_11600_f028v.jpg"/> 
+         <p>
+            By diuers meanes it is possible to come to one &amp; <ex>th</ex>e same <lb/>
+            end; seing then that <ex>th</ex>e summe of our wellwishings is <lb/>
+            all one, namely <ex>tha</ex>t Popish Priests may haue no power to doe <lb/>
+            harme, it is not impertiennt to try diuers pathes w<ex>hi</ex>ch may <lb/>
+            tend to <ex>th</ex>e perfecting of our desires. Politicians distinguish <lb/>
+            <add place="LM">
+               In <ex>th</ex>e first yeare of Queene <lb/>
+               Elizabeth it was easier to <lb/>
+               subdue Popery then now, for <lb/>
+               then they feared to irritate <ex>tha</ex>t <lb/>
+               State not knoweing how farre <lb/>
+               seuerity might extend, now <lb/>
+               knoweing <ex>th</ex>e worst they are <lb/>
+               resolued Agere &amp; Pati.
+            </add>
+            <foreign xml:lang="la">Inter Rempublicam constitutam &amp; Remp. constituenda<ex>m</ex>
+                </foreign> accor=<lb break="no"/>
+            ding to <ex>th</ex>e seuerall Natures whereof Statists are to dispose of <lb/>
+            their Counsells &amp; ordinances; were they Romists &amp; Roma=<lb break="no"/>
+            lists new hatched out of <ex>th</ex>e shell, the former course of <lb/>
+            seuerity might soone bury their opinions w<ex>i</ex>th their persons <lb/>
+            but since <ex>th</ex>e disease is inueterated, variety of medicines in <lb/>
+            iudicially to be applyed.
+         </p>
+         <p>
+            The Romans did not punish all crimes of one &amp; <ex>th</ex>e selfe <lb/>
+            same nature by extremity of death, for some they conde<ex>m</ex>ned <lb/>
+            to perpetuall prison, and others they banisht into an <lb/>
+            Island or some remote Countrey, euen in the very case of <lb/>
+            Religion they were very tender to dipp their finger in bloud <lb/>
+            for when Cato was Consull, it seemed good to <ex>th</ex>e Senate to sup=<lb break="no"/>
+            presse w<ex>i</ex>th violence <ex>th</ex>e disordered Ceremony of <ex>th</ex>e Bacchanalls <lb/>
+            brought by a strange Preist into <ex>th</ex>e City: he w<ex>i</ex>thstood that <lb/>
+            sentence, alleadging that there was nothing so apt to deceiue <lb/>
+            men as Religion w<ex>hi</ex>ch alwayes pretends the shew of Diuinity: <lb/>
+            and for that Cause it behooued to be very wary in chastising <lb/>
+            <add place="LM">
+               Vulgus est merosum animal <lb/>
+               quod facilius duci quam <lb/>
+               cogi potest.
+            </add>
+            the Professors thereof, least any indignac<ex>i</ex>on should enter <lb/>
+            into <ex>th</ex>e peoples minds that somewhat was derogated fro<ex>m</ex> <ex>th</ex>e <lb/>
+            Ma<ex>jes</ex>tie of God: Others more freely haue not spared to <lb/>
+            place Religion, I meane that Religion w<ex>hi</ex>ch is ignorantly <lb/>
+            zealous, among <ex>th</ex>e kinds of frenzie, w<ex>hi</ex>ch is not to be cured <lb/>
+            otherwise then by time giuen to diuert or qualify <ex>th</ex>e fury of <ex>th</ex>e conceit: <foreign xml:lang="la">Tantum Religio potuit suadere malorum</foreign>.
+         </p>
+         <p>
+            Howsoeuer in valueing the power of a City or strength of <lb/>
+            Arguments, quality &amp; worth is to be preferred before nu<ex>m</ex>ber. <lb/>
+            <add place="LM">
+               Many partizans incourage <ex>th</ex>e <lb/>
+               faint hearted, &amp; where an <lb/>
+               Enemy cannot preuaile a=<lb break="no"/>
+               gainst number, his thoughts <lb/>
+               are not how to offend, but <lb/>
+               how to make a safe retraite.
+            </add>
+            Neuerthelesse where <ex>th</ex>e vttermost of our force is not knowne, <lb/>
+            it importes much to haue it conceiued that <ex>th</ex>e multitude stands <lb/>
+            for vs, for doubts &amp; suspicions cast in our enemies way <lb/>
+            euermore makes things seeme greater &amp; more difficult then they <lb/>
+            are indeed; we haue by Gods mercy the sword of Iustice <lb/>
+            drawne on our behalfe, w<ex>hi</ex>ch vpon short warning is able to <lb/>
+            disunite the secret underminers of our quietnes; we haue a <lb/>
+            King zealous for the house of our Lord; who needeth not feare <lb/>
+            <add place="LM">
+               More Priests may be shutt vp <lb/>
+               in a yeare then they can <lb/>
+               make in many.
+            </add>
+            lesse successe in shutting up of Priests, then our late Queene <lb/>
+            had in restraining them to Wisbich Castle, where least their <lb/>
+            <fw type="catch" place="bot-right">factious spirits</fw>
+            <pb n="29r" facs="/bl/add_ms_11600/add_ms_11600_f029r/add_ms_11600_f029r.jpg"/>
+            factious spirits should grow rusty they conuerted their canker to <lb/>
+            frett vpon themselues, and vomitting out their gall in quodlibets <lb/>
+            shewed that their disease was chiefly predominant in the spleene: <lb/>
+            what Tempests they haue raised in their Colledge at Rome, their owne <lb/>
+            bookes, &amp; many can witnesse, The storme thereof was such that <lb/>
+            Sixtus Quintus complained seriously of <ex>th</ex>e vexac<ex>i</ex>on w<ex>hi</ex>ch he receaued <lb/>
+            oftener from <ex>th</ex>e English schollers, then all <ex>th</ex>e vassalls of his Triple <lb/>
+            Crowne, And truly is <ex>th</ex>e Magistrate noted of negligence or ouermuch <lb/>
+            security that layeth waite to catch <ex>th</ex>e Foxes, &amp; <ex>th</ex>e little foxes <ex>tha</ex>t <lb/>
+            spoile <ex>th</ex>e vineyard, though afterwards without further punishment <lb/>
+            he reserues them to <ex>th</ex>e day wherein God will take account of their <lb/>
+            stewardships. For if Aristotles City had been defined to be a society <lb/>
+            of men assembled to liue well, be <ex>th</ex>e same w<ex>hi</ex>ch in our Lawe hath <lb/>
+            <add place="LM">
+               Peace is alwaies to be wished <lb/>
+               prouided <ex>tha</ex>t vnder color thereof <lb/>
+               there be not a mischief en=<lb break="no"/>
+               tertained worse then warre <lb/>
+               itselfe.
+            </add>
+            a reference to <ex>th</ex>e maintaineing of <ex>th</ex>e people in peace, so long as wee <lb/>
+            taste of <ex>th</ex>e sweet of <ex>th</ex>e peaceable gouernment, wee cannot say but <lb/>
+            that we liue well, &amp; that <ex>th</ex>e City consisting of men &amp; not of <lb/>
+            walls, is happily ioyned.
+         </p>
+         <p>
+            An oath is a weake bond to conteine him that will for pretended <lb/>
+            Conscience sake hold no faith w<ex>i</ex>th hereticks, or by absoluc<ex>i</ex>on fro<ex>m</ex> <lb/>
+            a Priest, thinkes himself at liberty to fly from any promise or <lb/>
+            protestac<ex>i</ex>on whatsoeuer.
+         </p>
+         <p>
+            Therefore when I remember that Watson <ex>th</ex>e Priest notwithstanding <lb/>
+            his Inuectiues against <ex>th</ex>e Iesuites gained liberty to forge his Trai=<lb break="no"/>
+            terous inuentions, &amp; had others of his society of <ex>th</ex>e complott, I iudged <lb/>
+            it safer to make refuses of them then to suffer such to dally w<ex>i</ex>th vs <lb/>
+            by bookes, &amp; some Idle intelligences cast abroad, onely as a mist to bleare <lb/>
+            our eyes: But how shall we find <ex>th</ex>e meanes to apprehend those <lb/>
+            disguised Romanists that borrow the shapes of Captaines, Marchants, <lb/>
+            Gentlemen, Citizens, &amp; all sorts of people, &amp; by Equiuocac<ex>i</ex>on may <lb/>
+            deny themselues to be themselues? In answer to this question I will <lb/>
+            first shew <ex>th</ex>e reason why they are not pursued &amp; taken, and hereafter <lb/>
+            make an answer how they may be bolted out of their hatches. The <lb/>
+            nature of man howsoeuer in hot bloud it be thirsty of reuenge, in <lb/>
+            <add place="LM">
+               One man in another be=<lb break="no"/>
+               holdeth himself, &amp; thereby <lb/>
+               groweth compassionate &amp; <lb/>
+               sensible of <ex>tha</ex>t which may <lb/>
+               fall to himselfe.
+            </add>
+            a cooler temper it, hath a kind of Nausea, as I may call it or <lb/>
+            loathing of takeing away mens liues euen of <ex>th</ex>e nocent. Insomuch <lb/>
+            as in all Assises and Sessions, an Offendor can hardly be condemned <lb/>
+            whom <ex>th</ex>e foolish pitty of many will not after a sort excuse with <lb/>
+            layeing some Imputac<ex>i</ex>on on <ex>th</ex>e Iudge, part on <ex>th</ex>e Iury, &amp; much on <ex>th</ex>e <lb/>
+            Accuser, &amp; such is their blind affection, that <ex>th</ex>e prisoner who perhaps <lb/>
+            was neuer commended for handsome will be esteemed of them for <lb/>
+            one of <ex>th</ex>e properest men of <ex>th</ex>e Company, from hence it comes that <lb/>
+            <ex>th</ex>e name of Sergeant or a Purseuant is odious, &amp; <ex>th</ex>e Executioner <lb/>
+            although he be <ex>th</ex>e hand of Iustice, is esteemed no better then an <lb/>
+            Enemy of mankinde &amp; one <ex>tha</ex>t lost honesty and humanity in his cradle.
+         </p>
+         <fw type="catch" place="bot-right">Reuerend</fw>
+         <pb n="29v" facs="/bl/add_ms_11600/add_ms_11600_f029v/add_ms_11600_f029v.jpg"/> 
+         <p>
+            Reuerend Mr Fox was wont to say that spies &amp; accusers <lb/>
+            were necessary members in a Commonwealth, &amp; deserued to be <lb/>
+            cherished, but for his part he would not be any of <ex>tha</ex>t number, <lb/>
+            nor wish his freinds to affect such imployments: &amp; albeit <lb/>
+            that <ex>th</ex>e Law permitts &amp; commands euery man to apprehend a fellon <lb/>
+            <add place="LM">
+               What men doe vnwillingly <lb/>
+               is neuer done effectually.
+            </add>
+            do we not commonly see <del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del>very many content to stand by &amp; looke <lb/>
+            on whilest others performe that office, likewise it is euident <lb/>
+            that such as are tender of their reputac<ex>i</ex>on, be very scrupulous to <lb/>
+            to arrest a man for even actions of debts, they will be more vnwil=<lb break="no"/>
+            ling instruments of draweing their bodies to <ex>th</ex>e wrack or the <lb/>
+            gallowes, especially when there is any colour of Religion to be <lb/>
+            pretended on their defence. The diuersity of mens faces is greate, <lb/>
+            but <ex>th</ex>e difference of their minds in this case is more variable, <lb/>
+            wherein <ex>th</ex>e meanest haue thought as free as the highest. Besides <lb/>
+            this there are too many of the blind Com<ex>m</ex>unalty altogether <lb/>
+            Popish though not reconciled Papists who in their foolish Igno=<lb break="no"/>
+            rance will say it is pitty any should dye for their conscience, <lb/>
+            though indeed they make honorable amends for their treason: <lb/>
+            verily I doe not know what misgiueing of <ex>th</ex>e mind it is that <lb/>
+            maketh men forecast <ex>th</ex>e possibility of alterac<ex>i</ex>on in matters of <lb/>
+            Religion, &amp; for that respect, they are exceeding backward in <lb/>
+            discouering &amp; layeing hands on Seminaries, yea &amp; are timorous <lb/>
+            in enacting sharpe Lawes against them, as those that silently <lb/>
+            say among themselues, <foreign xml:lang="la">Sors hodierna mihi, cras erit illa tibi</foreign>. <lb/>
+            Some also suruiue who <del rend="strikethrough">know </del>remember that in Queen Maries <lb/>
+            time the Protestants alleadged a Text, That the tares should <lb/>
+            not be plucked vp before <ex>th</ex>e haruest; nay should I speake <lb/>
+            a buggs word there is no small number that doubtfull is <lb/>
+            whether it be a gratefull worke to crosse Popery, or that it may <lb/>
+            <add place="LM">
+               Vertue neither priased nor <lb/>
+               rewarded waxeth cold.
+            </add>
+            be done safely, without a foule aspersion of Puritanisme, or <lb/>
+            a shrewed turne for their labours at some time or other.
+         </p>
+         <p>
+            By w<ex>hi</ex>ch vnhappy ambiguity it comes to passe that, <hi rend="underline">Animalia</hi> <hi rend="underline">Am</hi>=<lb break="no"/>
+            phibia, <hi rend="underline">
+                    <ex>th</ex>e Priests</hi> I mean, <hi rend="underline">that</hi> prey on <ex>th</ex>e soules &amp; bodyes of <lb/>
+            either sexe, vnatached reuell where they list, though they be <lb/>
+            no more seene then a man dancing in a nett: how much <lb/>
+            fitter were it for vs couragiously to inuite them to our partie by <lb/>
+            preaching or confuting them by writeing: &amp; vnto <ex>th</ex>e State wherein <lb/>
+            we stand, wisely to apply <ex>th</ex>e exhortac<ex>i</ex>on of <ex>th</ex>e Assyrian King <lb/>
+            to his souldiers, you are fooles (quoth he) if there be any <lb/>
+            hope in your hearts to redresse sorrow by flight, rather indeauour <lb/>
+            to make them fly that are <ex>th</ex>e causers of your griefe, assuring <lb/>
+            your selues that more perish in flight then in battaile, euen <lb/>
+            as many seeking to meete <ex>th</ex>e Papists half way discomfort our <lb/>
+            owne partie.
+         </p>
+         <pb n="30r" facs="/bl/add_ms_11600/add_ms_11600_f030r/add_ms_11600_f030r.jpg"/>
+         <p>
+            It followes now according to <ex>th</ex>e methode prescribed before that an <lb/>
+            ouerture be made, how to gett <ex>th</ex>e Iesuits, &amp; their shadowes <ex>th</ex>e <lb/>
+            Priests into possession. It hath been heretofore recited that <lb/>
+            <ex>th</ex>e vnwelcome name of bloodsucker, a busy body, or a Puritan <lb/>
+            haue been shrewd scarcrowes vnto many honest mindes, by <lb/>
+            abrogating therefore of those or such like imputac<ex>i</ex>ons many <lb/>
+            will be stirred vp to vndertake <ex>th</ex>e Apprehending of <ex>th</ex>e aduersaries <lb/>
+            vnto <ex>th</ex>e truth, especially when for their paines &amp; time imployed <lb/>
+            they shall haue &amp; deserue <ex>th</ex>e Titles of good Patriots, dutifull <lb/>
+            subiects &amp; zealous Christians. How ready is euery Com<ex>m</ex>on person <lb/>
+            to carry a Malefactor rather to <ex>th</ex>e Goale then execuc<ex>i</ex>on, and <lb/>
+            doubtlesse they wilbe no lesse forward to attach a Priest <lb/>
+            when they are assured <ex>th</ex>e worst of his punishments shalbe a <lb/>
+            <add place="LM">
+               Wise men doe forecast how <lb/>
+               to doe most w<ex>i</ex>th least noise.
+            </add>
+            simple restrainte within <ex>th</ex>e walls of some old castle. A certaine <lb/>
+            kinde of people there is with whom mony playes a more for=<lb break="no"/>
+            ceable orators part then any persuasion of the dutifull seruice w<ex>hi</ex>ch <lb/>
+            they owe to their Com<ex>m</ex>onwealth, these men will not be negligent <lb/>
+            to giue inteligence &amp; also to procure it faithfully prouided that <lb/>
+            reward may helpe to line their threadbare purse, &amp; exempt them <lb/>
+            for need to sell Libertie vnto Seminaries, &amp; where assured hope <lb/>
+            of gaine is propounded for discouery, what master or housekeeper <lb/>
+            will trust his seruant w<ex>i</ex>th keeping of his Priest, or sleep quietly <lb/>
+            while he is ingaged to <ex>th</ex>e danger of a mercinary. I remember <lb/>
+            that in Italy it was often told me that <ex>th</ex>e bountifull hand of S<ex>i</ex>r <lb/>
+            Francis Walsingham made his Intelligencers so actiue <ex>tha</ex>t a Seminary <lb/>
+            could hardly stirre out of <ex>th</ex>e gates of Rome without his priuity, w<ex>hi</ex>ch <lb/>
+            successe my mediac<ex>i</ex>on of gold may as readily be obtained from <lb/>
+            Siuill, <del rend="strikethrough">W</del> Valadolid, Doway, Lorraine, Paris, &amp; other places, &amp; <lb/>
+            by forewarning giuen of their approach they may be waited for at <ex>th</ex>e <lb/>
+            portes, &amp; from thence soone conueyed to a safe lodging; But whence <lb/>
+            shall <ex>th</ex>e streame flow that must feede this bounty? it is a doubt <lb/>
+            easily satisfied if some thousands of pounds out of <ex>th</ex>e Recusants <lb/>
+            penalties be reserued in stock &amp; committed by his Ma<ex>jes</ex>tie into <ex>th</ex>e <lb/>
+            disposic<ex>i</ex>on of some zealous distributers who will not be afraid to <lb/>
+            <add place="LM">
+               Particular officer must be <lb/>
+               appointed, what is com<ex>m</ex>anded <lb/>
+               to all is commonly per=<lb break="no"/>
+               formed by none.
+            </add>
+            conclude <foreign xml:lang="la">Perdat fiscus ut capiat Christus</foreign>; neither need we seeke <lb/>
+            any further succour to repaire decayed castles, &amp; therein to defray e <lb/>
+            the charge of <ex>th</ex>e Priests w<ex>i</ex>th a sure guard to keep them in, then <ex>th</ex>e <lb/>
+            foresaid forfeitures <ex>tha</ex>t by <ex>th</ex>e Iustice of <ex>th</ex>e Lawe may be collected, <lb/>
+            <add place="LM">
+               the seruice done for the <lb/>
+               Kings proper vse hath his <lb/>
+               warrant &amp; countenance, but <lb/>
+               when a priuate man hath <ex>th</ex>e <lb/>
+               <gap reason="guttering" extent="1" unit="chars"/>aine, neither reward nor <lb/>
+               bearing out can be expected, <lb/>
+               <gap reason="guttering" extent="2" unit="chars"/> by consequence Recusants <lb/>
+               ree.
+            </add>
+            w<ex>hi</ex>ch course if euer it come happily to be entertained, &amp; that Recu=<lb break="no"/>
+            sants cease to be an ignominous prey to <ex>th</ex>e subiect, <ex>th</ex>e proceeding for <lb/>
+            Religion shall be least blamed, &amp; perhaps altogether vniustly <lb/>
+            accused by any gracelesse Gretzerus or Cacodæmon Iohannes tincting <lb/>
+            their penns in gall &amp; vineger, for besides occasion of calumniac<ex>i</ex>on <lb/>
+            giuen by suits of that nature, it is euident that many Recusants
+            <fw type="catch" place="bot-right">that would be</fw>
+            <pb n="30v" facs="/bl/add_ms_11600/add_ms_11600_f030v/add_ms_11600_f030v.jpg"/> 
+            that would be indited for <ex>th</ex>e King, &amp; <ex>th</ex>e effecting of <ex>th</ex>e proiect <lb/>
+            aforesaid, shall escape without punishment &amp; be borne out <lb/>
+            against <ex>th</ex>e power of a priuate persons begging to no other purpose <lb/>
+            then hath heretofore been vsed, &amp; albeit <ex>th</ex>e penalty be rated <lb/>
+            at 20ll a month yet it was neuer <ex>th</ex>e Lawmakers intent that <lb/>
+            such as were not able to pay so great a summe should goe <lb/>
+            scottfree, but <ex>tha</ex>t according to <ex>th</ex>e proportion of their abilities they <lb/>
+            should doe penance of their purses for their disobedience; wheeas <lb/>
+            none (if <ex>th</ex>e voice of the people w<ex>hi</ex>ch is said to be <ex>th</ex>e voice of God) <lb/>
+            but is slipt ouer as if they owed no soules to God nor duty to <lb/>
+            their Soueraigne. A poore man (saith one) is to be pittyed <lb/>
+            if he offend through necessity, but if he doe amisse volun=<lb break="no"/>
+            tarily, he is more seuerely to be chastised, for asmuch as <lb/>
+            wanting freinds &amp; meanes to beare him out, it sheweth <lb/>
+            that his fault proceedeth fro<ex>m</ex> presumption.
+         </p>
+         <p>
+            Let vs now suppose that all <ex>th</ex>e whole Regiment of Iesuits &amp; <lb/>
+            Priests were lodged in safe custody, may we then persuade our <lb/>
+            selues that Popery will vanish like a dumbe shew, I am <lb/>
+            clearely resolued that though it receiue a great Ecclipse, not=<lb break="no"/>
+            withstanding without other helpes, <ex>th</ex>e Kingdome of Antichrist <lb/>
+            will onely lye hidden as a wood that seemes withered in the <lb/>
+            winter, &amp; is <del rend="strikethrough">onely</del> ready to sprout out w<ex>i</ex>th <ex>th</ex>e spring: Temporall <lb/>
+            Armes are remedies seruing for a time, but <ex>th</ex>e spirituall sword <lb/>
+            <add place="LM">
+               Medicines that worke in <lb/>
+               <ex>th</ex>e spiritts of men are of <lb/>
+               great force, &amp; cure more <lb/>
+               surely then outward plaisters.
+            </add>
+            is permanent in operac<ex>i</ex>on, &amp; by an inuisible blow workes more <lb/>
+            then mortall man can Imagine: The word of God carryeth <lb/>
+            the two edged weapon in his mouth w<ex>hi</ex>ch is to be vsed by faith=<lb break="no"/>
+            full Ministers of <ex>th</ex>e Church, whom pure zeale without respect <lb/>
+            towards promoc<ex>i</ex>on or persons ought to encourage. Of Iudges <ex>th</ex>e <lb/>
+            Scripture saith <foreign xml:lang="la">Estote fortes</foreign>; &amp; daily we see that sitting in <lb/>
+            their Iudiciall seates God inspireth them w<ex>i</ex>th greater courage <lb/>
+            then when as priuate persons they are to giue their opinions. <lb/>
+            No lesse is <ex>th</ex>e power of <ex>th</ex>e Holy Ghost in his seruants <ex>tha</ex>t out <lb/>
+            <add place="LM">
+               .... <lb/>
+               Speech is <ex>th</ex>e Interpreter of <ex>th</ex>e <lb/>
+               minde, therefore who so vseth <lb/>
+               in diuine matters to speake <lb/>
+               reseruedly, &amp; in adouble sence <lb/>
+               he would be suspected to haue <lb/>
+               a double heart, &amp; vnfitt to <lb/>
+               teach them that trust him.
+            </add>
+            of <ex>th</ex>e Pulpitt are to deliuer his Embassage: Let them there=<lb break="no"/>
+            fore not be dismayed to speake out plainely, &amp; tell <ex>th</ex>e truth <lb/>
+            without running a middle course betweene heate &amp; cold, vn=<lb break="no"/>
+            profitably descanting vpon <ex>th</ex>e Scripture w<ex>i</ex>th an old Postill, or for <lb/>
+            want of better matter, waste <ex>th</ex>e poore time shutt vp in an <lb/>
+            houre glasse w<ex>i</ex>th skirmishing against <ex>th</ex>e worthy pillars of our <lb/>
+            owne Profession. Rumor, w<ex>hi</ex>ch is euer ready to take hold of <lb/>
+            euill hath raised a secrett thought (as I hope) a causelesse <lb/>
+            suspicion that there should be some combinac<ex>i</ex>on vnder hand by <lb/>
+            changing the state of questions, to putt vs in our old dayes to <lb/>
+            learne a new Catechisme, &amp; when they haue brought vs out of <lb/>
+            conceit w<ex>i</ex>th <ex>th</ex>e Reuerend Interpreters of <ex>th</ex>e Word, to vse vs
+            <fw type="catch" place="bot-right">then as</fw>
+            <pb n="32r" facs="/bl/add_ms_11600/add_ms_11600_f032r/add_ms_11600_f032r.jpg"/> 
+            then as <ex>th</ex>e Wolues (menc<ex>i</ex>oned in Demosthenes Apology) handled <lb/>
+            <ex>th</ex>e shepheards when they had deliuered up their doggs. Most <lb/>
+            sacred was that speech of our Soueraigne concerning Vorstius, <lb/>
+            He that will speake of Canaan let him speake <ex>th</ex>e language <lb/>
+            of Canaan, how can wee drawe others to our Church, if we <lb/>
+            cannot agree where or how to lay our foundac<ex>i</ex>on, or how may <lb/>
+            we cause the Leprous disease of dissension w<ex>hi</ex>ch <ex>th</ex>e Papists <lb/>
+            w<ex>hi</ex>ch are best assured to them selues &amp; not doubtfull of their <lb/>
+            saluation, are not ashamed to ascribe vnto many of vs, <lb/>
+            I would not haue Ministers indiscreet like <hi rend="underline">doggs</hi> to <lb/>
+            <add place="LM">
+               A good Pastor is <ex>th</ex>e Physician <lb/>
+               of <ex>th</ex>e soule, &amp; ought to apply <lb/>
+               his doctrine according to <ex>th</ex>e <lb/>
+               tendernes or hardnesse of <ex>th</ex>e <lb/>
+               conscience, for want of w<ex>hi</ex>ch <lb/>
+               discretion some mens zeale <lb/>
+               hath done hurt.
+            </add>
+            barke against all whether they know or know them not, I like <lb/>
+            better <ex>th</ex>e opinion of Aristotle who aduised those <ex>tha</ex>t stand in <lb/>
+            guard of a place to be curst onely to such as are about to <lb/>
+            endamage <ex>th</ex>e Citty. If Purseuants &amp; others <ex>tha</ex>t are euill <lb/>
+            officers would learne to keep this Rule, they might goe <lb/>
+            about their businesse w<ex>i</ex>th much creditt. The imagined feare <lb/>
+            of inuiting <ex>th</ex>e Romish faction by force to deliuer their <lb/>
+            Ghostly fathers out of prison moues mee not a whitt, for I <lb/>
+            cannot beleeue that they esteeme them at so deare a price that <lb/>
+            they would runne <ex>th</ex>e hazard by freeing them out of hold to <lb/>
+            putt themselues in their places. Some will say A man of <lb/>
+            strawe is a head good enough for a discontented multitude; That <lb/>
+            <ex>th</ex>e Papists are very cholerick it appeares euidently by their writeings, <lb/>
+            yet it hath pleased God to send those curst Cowes short hornes; <lb/>
+            That when they should not finde a man of sufficiency to <lb/>
+            <add place="LM">
+               false miracles &amp; lying <lb/>
+               newes are <ex>th</ex>e food of super=<lb break="no"/>
+               stition w<ex>hi</ex>ch by credulity delu=<lb break="no"/>
+               deth ignorant people.
+            </add>
+            serue their turne, they are faine to doe homage to Garnetts <lb/>
+            strawe, forgettfull as they are that such stubbl cannot en=<lb break="no"/>
+            dure <ex>th</ex>e triall of fire. But vnto vs that ought to be doers <lb/>
+            aswell as professors of <ex>th</ex>e Ghospell, let this remaine as a <lb/>
+            memoriall, The ordaind' Religion is the mother of good order, <lb/>
+            &amp; good order is <ex>th</ex>e Cause of prosperous fortune &amp; happy suc=<lb break="no"/>
+            cesse in all counsells &amp; Enterprises, wherefore in what State <lb/>
+            soeuer there wanteth good order, it is an euident Argument <lb/>
+            that Religion goes backward.
+            <add place="LM" rend="align-right">
+               X
+            </add>
+         </p>
+         <pb n="31r" facs="/bl/add_ms_11600/add_ms_11600_f031r/add_ms_11600_f031r.jpg"/>
+         <p>
+            <add place="LM" rend="align-right">
+               X
+            </add>
+            <add place="LM">
+               God w<ex>hi</ex>ch is <ex>th</ex>e Great Law=<lb break="no"/>
+               maker by his Lawe <lb/>
+               preuents sinnes, to <ex>th</ex>e <lb/>
+               end that punishment be <lb/>
+               inflicted on it Iustly, <lb/>
+               as to auoyd Idolatrie <lb/>
+               he forbiddeth making of <lb/>
+               Images. He <ex>tha</ex>t cannot <lb/>
+               liue chaste let him marry
+            </add>
+            I haue euer held it for a kind of Iniustice to omitt <lb/>
+            <ex>th</ex>e execuc<ex>i</ex>on of meane Lawes made to preuent the <lb/>
+            effects of idlenesse, and then to apply many extremities <lb/>
+            of the sword, when the powling habitt gotten by <ex>tha</ex>t vice <lb/>
+            comes to light, no lesse is <ex>th</ex>e course vncharitable (w<ex>i</ex>th <lb/>
+            pardon for the presumption be it spoken) when we <lb/>
+            spare them that haue no Religion at all, &amp; censure <lb/>
+            those that can giue account of somewhat tending to <lb/>
+            that purpose.
+         </p>
+         <pb n="32r" facs="/bl/add_ms_11600/add_ms_11600_f032r/add_ms_11600_f032r.jpg"/>
+         <p>
+            He that is in his misery must be borne w<ex>i</ex>th if he speake <lb/>
+            miserably, &amp; when <ex>th</ex>e Child from his mothers breast hath <lb/>
+            suckt' nothing but Popery, a man had need to be angry with <lb/>
+            discretion if he heare him speake in <ex>th</ex>e voice of a Papist. God <lb/>
+            calleth some by miracles, but <ex>th</ex>e ordinary meanes is <ex>th</ex>e word, If <lb/>
+            that meanes in any place of this Land be wanting of what <lb/>
+            Religion is it likeliest <ex>th</ex>e people wilbe? I suppose that few men <lb/>
+            will gainesay my assertion <ex>tha</ex>t outward sence will direct them <lb/>
+            to Popery, w<ex>hi</ex>ch is fuller of Pageants then of Scripture doctrine:
+            <fw type="catch" place="bot-right">&amp; what is</fw>
+            <pb n="32v" facs="/bl/add_ms_11600/add_ms_11600_f032v/add_ms_11600_f032v.jpg"/>
+            And what is <ex>th</ex>e Cause that after so many yeares preaching of <lb/>
+            <ex>th</ex>e Ghospell that <ex>th</ex>e Com<ex>m</ex>on people still retaine a sent of <ex>th</ex>e <lb/>
+            Roman perfume? The cause is for that <ex>th</ex>e formall obedience <lb/>
+            of comming to Church hath bin more expected, then the <lb/>
+            Instruction of priuate families: Publick Catechizeing is of <lb/>
+            greate vse, but <ex>th</ex>e first Elements thereof are to be learned <lb/>
+            <add place="LM">
+               A man is knowne to know how <lb/>
+               much he remembreth, &amp; no <lb/>
+               more, &amp; we remember best what <lb/>
+               we learned in our youth, there=<lb break="no"/>
+               fore if we will be wise when <lb/>
+               we are old we must be taught <lb/>
+               when we are yong.
+            </add>
+            at home, &amp; those w<ex>hi</ex>ch we learne from our Parents stick most surely in our mindes: What was <ex>th</ex>e cause why <ex>th</ex>e Spartans <lb/>
+            continued their gouernment so many reuoluc<ex>i</ex>ons of times <lb/>
+            without mutac<ex>i</ex>on histories record, for learning <ex>th</ex>e Country <lb/>
+            Customes from their Infancy, they could not be induced <lb/>
+            to alter them, &amp; in this our Natiue Country we perceiue <lb/>
+            that <ex>th</ex>e Com<ex>m</ex>on Lawes w<ex>hi</ex>ch relye vpon ancient Customes are <lb/>
+            better obserued then late Statutes of what worth soeuer they be. <lb/>
+            So fares it w<ex>i</ex>th <ex>th</ex>e poore people w<ex>hi</ex>ch being once seasonsed w<ex>i</ex>th <lb/>
+            <add place="LM">
+               Out of oeconomicall gouerne=<lb break="no"/>
+               ment <ex>th</ex>e diuersity of states grow, <lb/>
+               &amp; such as <ex>th</ex>e Princes house is <lb/>
+               such is <ex>th</ex>e state of <ex>th</ex>e Com<ex>m</ex>ons for <lb/>
+               <ex>th</ex>e most part: by w<ex>hi</ex>ch reason a <lb/>
+               Prince may by a suruey of <lb/>
+               his owne house haue an aime <lb/>
+               how the Com<ex>m</ex>onwealth is <lb/>
+               affected.
+            </add>
+            <ex>th</ex>e old dreggs of Papisme will hardly be drawne from it <lb/>
+            till <ex>th</ex>e learning of <ex>th</ex>e true faith be growne to a Custome, <lb/>
+            I will prescribe no order nor officers to effect this, but I suppose <lb/>
+            <ex>th</ex>e ancient laudable course by <ex>th</ex>e B<ex>isho</ex>pps confirmac<ex>i</ex>on will <lb/>
+            not be sufficient to fullfill so great a taske. The Ministers <lb/>
+            must &amp; ought to be <ex>th</ex>e Principall &amp; immediate hands to <lb/>
+            giue assistance to so gracious a worke: &amp; in case any be <lb/>
+            defectiue in their duty, The Reuerend B<ex>isho</ex>pps may <lb/>
+            take notice <lb/>
+            thereof in their visitac<ex>i</ex>ons.
+         </p>
+         <p>Perhaps it will be thought a hard taske to contraine <ex>th</ex>e <lb/>
+            people to learne <ex>th</ex>e <hi rend="italic">A B C</hi> of their Christian belefe, but <lb/>
+            how hard soeuer it be, I hold it no inciuility to prepare <lb/>
+            people of all ages for <ex>th</ex>e Kingdome of heauen. By <ex>th</ex>e order <lb/>
+            <add place="LM">
+               By <ex>th</ex>e Law there were tithing <lb/>
+               men who gaue account for <lb/>
+               Lo: housholdes, some such <lb/>
+               officers might doe good in <lb/>
+               this case, for I hold the <lb/>
+               breaking of <ex>th</ex>e Sabbeth to <lb/>
+               be <ex>th</ex>e ruine of our Religion.
+            </add>
+            contained in <ex>th</ex>e booke of Common prayers, on Sundayes &amp; <lb/>
+            holidayes, half an houre before Euensong the Curate of <lb/>
+            the Parish ought to examine children sent vnto him in <lb/>
+            some points of <ex>th</ex>e Catechisme; &amp; all Fathers, mothers, <lb/>
+            masters &amp; Dames should cause their children, seruants &amp; <lb/>
+            prentices to resort vnto <ex>th</ex>e Church at <ex>th</ex>e time appointed there <lb/>
+            obediently to heare &amp; be ordered by <ex>th</ex>e Curate vntill such <lb/>
+            time that they haue learn't all that in <ex>th</ex>e same booke is co<ex>m</ex>=<lb break="no"/>
+            manded, &amp; when <ex>th</ex>e Bishop shall appoint <ex>th</ex>e Children to be <lb/>
+            brought before him for their Confirmac<ex>i</ex>on, <ex>th</ex>e Curate of <lb/>
+            euery Parish shall send or bring in writeing th names of <lb/>
+            those children of his parish w<ex>hi</ex>ch can answer to <ex>th</ex>e questions <lb/>
+            of the Catechisme, &amp; there ought none to be admitted to <ex>th</ex>e <lb/>
+            holy Com<ex>m</ex>union vntill such time as he can say his Catechisme <lb/>
+            &amp; be confirmed. Many times I haue stood amaz'd to behold
+            <fw type="catch" place="bot-right">
+                    <ex>th</ex>e magnificence</fw>
+            <pb n="33r" facs="/bl/add_ms_11600/add_ms_11600_f033r/add_ms_11600_f033r.jpg"/>
+            to behold <ex>th</ex>e Magnificence of our Ancestors buildings, w<ex>hi</ex>ch their <lb/>
+            successors at this day are not able to keep up: but when I <lb/>
+            cast my eyes vpon <ex>th</ex>e excellent foundac<ex>i</ex>on layd' by <ex>th</ex>e graue <lb/>
+            fathers of <ex>th</ex>e Church, &amp; perceiue their children <del rend="strikethrough">to</del> neglect to <lb/>
+            build thereupon w<ex>hi</ex>ch is ixceeding maruell, I rest almost beside <lb/>
+            myself: for neuer was better ground plott layd' w<ex>hi</ex>ch hath byn <lb/>
+            seconded w<ex>i</ex>th lesse successe. It was not <ex>th</ex>e hanging vp of <ex>th</ex>e <lb/>
+            <add place="LM">
+               He <ex>tha</ex>t knowes not <ex>th</ex>e cause <lb/>
+               of an euill cannot helpe <lb/>
+               it but by chance w<ex>hi</ex>ch is a <lb/>
+               dangerous guide of <ex>th</ex>e state.
+            </add>
+            Bull of Pius Quintus on <ex>th</ex>e B<ex>isho</ex>pp of London's doores, or the <lb/>
+            forbearing to hang vp Priests that hath cause this Apostasy, <lb/>
+            but <ex>th</ex>e idlenesse &amp; insufficiency of many Teachers conspiring <lb/>
+            w<ex>i</ex>th <ex>th</ex>e peoples cold zeale that hath byn <ex>th</ex>e contriuer of this <lb/>
+            vnhappy webb. Vntill <hi rend="underline">
+                    <ex>th</ex>e 11th yeare of Queene Elizabeth's</hi> <lb/>
+            raigne a Recusants <hi rend="underline">name</hi> was scarcely <hi rend="underline">knowne, <ex>th</ex>e reason was</hi> <lb/>
+            that <ex>th</ex>e zeale begotten in <ex>th</ex>e time of <ex>th</ex>e Mariane persecution <lb/>
+            was yet fresh in memory, &amp; <ex>th</ex>e late persecutors were so ama=<lb break="no"/>
+            zed at <ex>th</ex>e suddaine alterac<ex>i</ex>on of Religion that they could <lb/>
+            not choose but say, <foreign xml:lang="la">Digitus Dei hic est</foreign>.
+         </p>
+         <p>
+            In those dayes there was a reconciliac<ex>i</ex>on between <ex>th</ex>e Clergie <lb/>
+            &amp; <ex>th</ex>e Layity, &amp; a strife arose whether of them should shew <lb/>
+            themselues most affectionate to <ex>th</ex>e Gospell, Ministers hanted <lb/>
+            <add place="LM">
+               Where good are afraid to call <lb/>
+               a vice by its proper name <lb/>
+               it is a signe <ex>tha</ex>t <ex>th</ex>e vice is
+               common, &amp; <ex>th</ex>e great Persons <lb/>
+               whom it is not safe to <lb/>
+               anger, are infected therew<ex>i</ex>th.
+            </add>
+            <ex>th</ex>e houses of <ex>th</ex>e worthiest men, where now Iesuits build their <lb/>
+            Tabernacles, &amp; poore Country Churches were frequented w<ex>i</ex>th <ex>th</ex>e <lb/>
+            best of <ex>th</ex>e shire. The <hi rend="italic">word of God was precious, prayeing <lb/>
+               &amp; preaching went hand in hand together, vntill Archbishop <lb/>
+               Grindalls disgrace,</hi> &amp; Hatfeilds <hi rend="italic">hard conceite of preaching <lb/>
+                  brought <ex>th</ex>e floweinge of these good graces to still water.</hi> <lb/>
+            The name of Papist smelt ranke euen in their owne nostrills <lb/>
+            &amp; for pure shame to be accounted such they resorted daily <lb/>
+            both to our Churches &amp; exercises: But when they saw their <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  De Schismat. Ang. &amp; de <lb/>
+                  Inuisibili Monarch. Eccli<ex>siastic</ex>æ
+               </foreign>
+            </add>
+            great Coriphaeus Sanders had pinned <ex>th</ex>e name of Puritans vpon <lb/>
+            the sleeues of <ex>th</ex>e Protestants that encountred them w<ex>i</ex>th most courage <lb/>
+            &amp; perceiuing that <ex>th</ex>e word was pleasing to some of our owne side <lb/>
+            they tooke heart, of grace, to sett little by <ex>th</ex>e seruice of God &amp; <lb/>
+            <add place="LM">
+               Some thinke <ex>tha</ex>t if thse mens <lb/>
+               zeale had by order byn putt <lb/>
+               to imploy itself otherwise, &amp;, <lb/>
+               a taske sett them to doe <lb/>
+               some good &amp; memorable thing <lb/>
+               in <ex>th</ex>e Church they might haue <lb/>
+               byn reformed or made harme=<lb break="no"/>
+               lesse by diuersion.
+            </add>
+            duty to their Soueraigne, Therewith start vp amongst vs some <lb/>
+            that might haue byn recommended for their zeale, if it had <lb/>
+            byn tempered w<ex>i</ex>th discretion, who forerunning <ex>th</ex>e authoritie of <ex>th</ex>e <lb/>
+            Magistrate tooke vpon them in sundry places, &amp; publikly to <lb/>
+            censure whatsoeuer agreed not w<ex>i</ex>th their priuate conceits: with <lb/>
+            <add place="LM">
+               S<ex>i</ex>r Nic. Bacon.
+            </add>
+            such crosse humors vented in Pulpitts, &amp; pamphletts most mn <lb/>
+            grew to be frozen in zeale, &amp; in such sort benummed that <lb/>
+            who<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>soeuer (as <ex>th</ex>e worthy Lord <hi rend="underlined">Keeper</hi> Bacon <hi rend="underline">obserued</hi> in those <lb/>
+            dayes) pretended a little sparke <hi rend="underline">of earnestnes, he seemed</hi> no lesse <lb/>
+            then redd fire hott in comparison <hi rend="underline">of <ex>th</ex>e</hi> other.
+         </p>
+         <pb n="33v" facs="/bl/add_ms_11600/add_ms_11600_f033v/add_ms_11600_f033v.jpg"/>
+         <p>
+            And as some things fare <ex>th</ex>e worse for an ill neighbours sake <lb/>
+            <add place="LM">
+               Headstrong passions are not <lb/>
+               easily subdued yet must they <lb/>
+               not be suffered to grow to a <lb/>
+               faction. <foreign xml:lang="la">Discretio per legem <lb/>
+                  discernere quid sit res</foreign> must <lb/>
+               lay <ex>th</ex>e burthen in <ex>th</ex>e right place.
+            </add>
+            dwelling besides them, so did it betide <ex>th</ex>e Protestants who <lb/>
+            seeking to curbe <ex>th</ex>e Papists, or reproue an idle drone were <lb/>
+            incontinently branded w<ex>i</ex>th <ex>th</ex>e ignominious name of Precisians, <lb/>
+            all w<ex>hi</ex>ch winde brought plenty of water to <ex>th</ex>e Popes mill, <lb/>
+            &amp; there will most men grinde where they see appearance to <lb/>
+            be well serued.
+         </p>
+         <p>
+            If without great inconueniency <ex>th</ex>e Children of Papists could <lb/>
+            <add place="LM">
+               Without reformac<ex>i</ex>on in this <lb/>
+               point Popery will still increase, <lb/>
+               but, as all vertuous enterprises <lb/>
+               are difficult, so is this <ex>th</ex>e most <lb/>
+               intricate.
+            </add>
+            be brought vp out of their company it were a happy turne, <lb/>
+            but I finde it to be full of difficulty. There is prouision <lb/>
+            made to avoyde Popish Schoolemasters, but there is no word <lb/>
+            against Popish Schoolemistresses that infect the silly <lb/>
+            Infants while they carry them in their armes w<ex>hi</ex>ch moueth <lb/>
+            me to suppose <ex>tha</ex>t <ex>th</ex>e former proposic<ex>i</ex>on to examine how children <lb/>
+            &amp; seruants are brought vp, &amp; truly to certify <ex>th</ex>e list of the <lb/>
+            Communicants, &amp; recusants will be <ex>th</ex>e readiest meanes to let <lb/>
+            his Ma<ex>jes</ex>tie know <ex>th</ex>e yearely increase or decrease of <ex>th</ex>e Church <lb/>
+            in euery Diocese, &amp; whosoeuer shall send his children or <lb/>
+            <add place="LM">
+               A wise householder will cast <lb/>
+               by his reckonings what losse <lb/>
+               or profitt he hath made in <lb/>
+               a yeare.
+            </add>
+            his Ma<ex>jes</ex>ties subiects to be placed in Monasteries or seminary <lb/>
+            Colledges, or Popishly to be brought vp in forraine parts, <lb/>
+            I thinke that for punishment both <ex>th</ex>e one &amp; the other <lb/>
+            worthily <del rend="strikethrough">
+                    <gap reason="illegible" quantity="4" unit="chars"/> be</del> might be disfranchised of priuiledges <lb/>
+            due to naturall Englishmen so farre forth as any good <lb/>
+            by <ex>th</ex>e Lawes may descend to them, but not to be exempted <lb/>
+            from <ex>th</ex>e penalties thereof, or <ex>th</ex>e Regall Iurisdiction of the <lb/>
+            Crowne. I know well <ex>tha</ex>t contradiction is odious &amp; makes <lb/>
+            a man seeme ambitious to be thought more vnderstanding <lb/>
+            then others, in w<ex>hi</ex>ch case <ex>th</ex>e Spaniard vseth onely to call pre=<lb break="no"/>
+            sumptious whom he would call fooles if ciuility would <lb/>
+            beare it: but in my defence I hope it shall suffice to <lb/>
+            reuiue my former protestac<ex>i</ex>on that I discourse by way of <lb/>
+            proposic<ex>i</ex>on rather then arrogance of defining of any thing: <lb/>
+            <add place="LM">
+               The Lawe w<ex>hi</ex>ch tooke immediate <lb/>
+               notice of an offence gaue a <lb/>
+               quick redresse, &amp; corrected <ex>th</ex>e <lb/>
+               poore as well as <ex>th</ex>e riche.
+            </add>
+            w<ex>i</ex>th pardon therefore may I be permitted to say That the <lb/>
+            first easy Lawe of xii d inflicted on him that could not giue <lb/>
+            a reasonable excuse for his absence fro<ex>m</ex> Church on Sondayes <lb/>
+            was one of <ex>th</ex>e best Ordinances that hitherto hath byn <lb/>
+            <add place="LM">
+               <add place="above">The</add> sharp Lawe<del rend="strikethrough">s</del> <ex>tha</ex>t stands pon a <lb/>
+               long processe after a manner <lb/>
+               seemes to dispense w<ex>i</ex>th <ex>th</ex>e vice
+            </add>
+            enacted: but while we sought to make new Lawes &amp; Statuts <lb/>
+            sauoring of more seuerity we neglected <ex>th</ex>e old &amp; were loth <lb/>
+            to execute <ex>th</ex>e newe; for it is a certaine Rule that whosouer <lb/>
+            in Policy will giue Liberty &amp; yet seeme to suppresse a crime, <lb/>
+            let him procure sharp Lawes to be proclaimed w<ex>hi</ex>ch are necessary <lb/>
+            onely for sometimes, &amp; rare occasions to be putt in execuc<ex>i</ex>on, but <lb/>
+            not to be an ordinary worke for euery day of <ex>th</ex>e weeke: daily <lb/>
+            vse likewise teacheth vs that it is lesse grieuous to punish
+            <fw type="catch" place="bot-right">by an old Lawe</fw>
+            <pb n="34r" facs="/bl/add_ms_11600/add_ms_11600_f034r/add_ms_11600_f034r.jpg"/>
+            by an old Lawe then by any new. Forasmuch as truth itselfe <lb/>
+            seldome getts creditt without proofe, &amp; it is hard to free people fro<ex>m</ex> <lb/>
+            suspicion that new Lawes are not rather inuented against <ex>th</ex>e particular <lb/>
+            persons &amp; purses of men then against their corrupt manners; <lb/>
+            by force of w<ex>hi</ex>ch reason I am induced to conceiued that <ex>th</ex>e old vse of <lb/>
+            <add place="LM">
+               The allegiance to God ought to <lb/>
+               <unclear>preceed</unclear> <ex>th</ex>e temporall obedience <lb/>
+               for if <ex>th</ex>e first may be obtained <lb/>
+               <ex>th</ex>e second will follow of itself.
+            </add>
+            <ex>th</ex>e Church contained in good nurture &amp; Ecclesiasticall Censure will <lb/>
+            much more preuaile to muzzle pouerty then any fresh deuices <lb/>
+            whatsoeuer; neither doe I thinke it blame worthy to affirme <lb/>
+            that our cause hath taken harme by relying more on the temporall <lb/>
+            then on <ex>th</ex>e Spirituall armes, for a while wee trusted <ex>tha</ex>t capitall <lb/>
+            punishment would strike <ex>th</ex>e stroke, we haue neglected <ex>th</ex>e meanes <lb/>
+            w<ex>hi</ex>ch would for <ex>th</ex>e most part <add place="above">haue</add> discharged the needs of such seuerity <lb/>
+            The oath of Allegiance is not offered generally to seruants &amp; <lb/>
+            meane people, who if they had taken the oath of absoluc<ex>i</ex>on of <lb/>
+            a Priest might recoyle from it, or change their opinion at <lb/>
+            leisure without any other ready meanes to discouer their leger=<lb break="no"/>
+            demaine, That oath I feare will not often be pressed, &amp; to them <lb/>
+            that shift from place to place how can it be tendered. The <lb/>
+            principall Papists couer themselues now in <ex>th</ex>e coude of <ex>th</ex>e multitude, <lb/>
+            but if we can discouer <ex>th</ex>e affecc<ex>i</ex>on of <ex>th</ex>e multitude, they easily <lb/>
+            will be vnmaskt', &amp; being singled out, <ex>th</ex>ey rest ashamed of their <lb/>
+            nakedness, <del rend="strikethrough">bee</del> w<ex>hi</ex>ch vnder correction of better Iudgements may be <lb/>
+            effected. If euery new commer to Inhabitt in a Towne, &amp; seruants <lb/>
+            newly entertained in a weeke or forteeen dayes be caused to repaire <lb/>
+            to <ex>th</ex>e Minister, there in presence of <ex>th</ex>e Churchwardens &amp; other <lb/>
+            honest men to subscribe vnto such briefe &amp; substantiall Articles <lb/>
+            concerning faith &amp; Allegeance as shalbe <del rend="strikethrough">thought</del> according to Gods <lb/>
+            word &amp; Iustice ordeined to distinguish <ex>th</ex>e sheep from <ex>th</ex>e goates. <lb/>
+            In foraigne Countries euery host is bound to bring his guest <lb/>
+            before an officer there to certify his name w<ex>i</ex>th <ex>th</ex>e occasion of his <lb/>
+            comming, &amp; intended time of abode in those parts, &amp; in case he <lb/>
+            stay longer he must againe renew his licence: so curious and so <lb/>
+            vigilant also are they to keep their Cities from infection that without <lb/>
+            a certificat witnessing their comming from wholesome places, they <lb/>
+            may not escape <ex>th</ex>e Lazaretto:  No lesse ought we to be watchfull <lb/>
+            <add place="LM">
+               So long as houses &amp; lodgings <lb/>
+               in London are lett to Papists <lb/>
+               <ex>th</ex>e Priests wilbe receiued &amp; <lb/>
+               from thence shall <ex>th</ex>e Country <lb/>
+               be infected.
+            </add>
+            to preuent <ex>th</ex>e contagion of our soules then other nations of their bodies; <lb/>
+            euery thing is hard &amp; scarcely pleasing in <ex>th</ex>e beginning, but in <lb/>
+            time some such course may be readily putt in execuc<ex>i</ex>on, w<ex>hi</ex>ch I <lb/>
+            propound rather as matter for better heads to worke vpon, then <lb/>
+            peremptorily to be insisted vpon <ex>th</ex>e same termes.
+         </p>
+         <p>
+            But least any charge me w<ex>i</ex>th temerity that when I desire to know <lb/>
+            <ex>th</ex>e multitudes inclinac<ex>i</ex>on by <ex>th</ex>e meanes aforesaid, I satisfy myself <lb/>
+            w<ex>i</ex>th their parrots language pronouncing it knowes not what, I thinke, <lb/>
+            it not impertinent to putt <ex>th</ex>em in minde that heretofore I haue
+            <fw type="catch" place="bot-right">required instrucc<ex>i</ex>on</fw>
+            <pb n="34v" facs="/bl/add_ms_11600/add_ms_11600_f034v/add_ms_11600_f034v.jpg"/>
+            required instrucc<ex>i</ex>on precedent &amp; subsequent, &amp; am euer of <ex>th</ex>e minde <lb/>
+            that thought this cannot be done all at once, yet it is necessary <lb/>
+            alwayes to be doeing best, knoweing that not to goe forward <lb/>
+            in Religion is <ex>th</ex>e ready way to goe backward.
+         </p>
+         <p>
+            It is not <ex>th</ex>e outward obedience of com<ex>m</ex>ing to Church <ex>tha</ex>t discouers <lb/>
+            <ex>th</ex>e inward thought of <ex>th</ex>e heart: it is <ex>th</ex>e confession of <ex>th</ex>e tongue <ex>tha</ex>t <lb/>
+            must vtter these secrets, &amp; <hi rend="underline">where <ex>th</ex>e Curates are insufficient, <lb/>
+               <add place="LM">
+                  If we can preuent <ex>th</ex>e increase <lb/>
+                  of Papists these <ex>th</ex>at now liue <lb/>
+                  must either be reformed or <lb/>
+                  ni time yeld to nature, &amp; <lb/>
+                  there shall a new age succeed <lb/>
+                  of Christians by educac<ex>i</ex>on made <lb/>
+                  Religious.
+               </add>
+               or parish</hi> greate I <hi rend="underline">wish they had Catechists to assist them <lb/>
+                  maintained by <ex>th</ex>e purses of <ex>th</ex>e Recusants</hi> w<ex>hi</ex>ch pension being collected <lb/>
+            for Gods cause, will free vs of scandall, though it grieue them <lb/>
+            to pay <ex>th</ex>e spirituall armie waged against their owne stratagems. <lb/>
+            Surely be giueing them way in petty matters they are growne <lb/>
+            to be very masterfull in their partie. Plato affirmeth <ex>tha</ex>t the <lb/>
+            popular state proceeded from <ex>th</ex>e licence w<ex>hi</ex>ch <ex>th</ex>e people tooke to make <lb/>
+            immoderate applauses in <ex>th</ex>e Theatres, when as by arrogating <ex>tha</ex>t <lb/>
+            immunitie without controlment in <ex>th</ex>e presence of their Gouernors <lb/>
+            &amp; perceiuing the Nobility to Ioyne w<ex>i</ex>th them in <ex>th</ex>e same Passions, <lb/>
+            they thought their heads as worthy to gouerne, as any of those <lb/>
+            that were made out of <ex>th</ex>e self same mould: In like manner <lb/>
+            while we suffer ignorannce openly to maintaine such pettie <lb/>
+            glimpses of Popery as are thought to be scarce worthy to be looked <lb/>
+            at, &amp; in small matters runn an indifferent course, w<ex>hi</ex>ch neither <lb/>
+            make sure friends nor feeble foes, vnawares they take <ex>th</ex>e bridle <lb/>
+            from vs, &amp; eate out Religion as it were by an insensible <lb/>
+            gangrene.
+         </p>
+         <p rend="align-right">
+            <foreign xml:lang="la">
+               <hi rend="italic">
+                  Principijs obsta, sero' medicina parætur <lb/>
+                  Cum mala per longas inualuere moras.
+               </hi>
+            </foreign>
+         </p>
+         <p>
+            For by sufferance of breakeing smaller lawes people are imbol=<lb break="no"/>
+            dened to sett <ex>th</ex>e greater at nought; To comprehend all things in <lb/>
+            a Lawe w<ex>hi</ex>ch are necessary to <ex>th</ex>e Reformac<ex>i</ex>on, I neither hold it <lb/>
+            profitable nor expedient, yet it is discretion to prouide for the <lb/>
+            most important, <ex>th</ex>e smaller matters whereof <ex>th</ex>e Lawe speakes <lb/>
+            not are to be commended to <ex>th</ex>e discretion of parents, masters <lb/>
+            &amp; other Reuerend persons who by example &amp; aduise may prepare <lb/>
+            yonglings by educac<ex>i</ex>on &amp; custome to obey <ex>th</ex>e Lawes, especially <lb/>
+            such as are in high places ought in this behalfe to be like <lb/>
+            Cæsars wife, <foreign xml:lang="la">Non solum crimine sed etiam criminis suspicione <lb/>
+               vaiare</foreign>, &amp; w<ex>i</ex>th such circumspection to behaue themselues that <ex>th</ex>e <lb/>
+            world may conceiue in requiring obedience to God, &amp; their Soueraigne <lb/>
+            that they hold <ex>th</ex>e multitude rather for companions <ex>th</ex>en slaues, <lb/>
+            If great men take another way they may seduce many by exam=<lb break="no"/>
+            ples though by words they expresse not their conceald opinions, <lb/>
+            <foreign xml:lang="la">Tace &amp; loquere</foreign> said God to Moses, it is <ex>th</ex>e speach of <ex>th</ex>e heart w<ex>hi</ex>ch <lb/>
+            vtters more then <ex>th</ex>e letters or syllables, &amp; in our Com<ex>m</ex>on Lawes <lb/>
+            it is held maintenance when a great Personage onely by his <lb/>
+            presence contenanceth a cause: neither lett vs secure our selues w<ex>i</ex>th <lb/>
+            this Argument, The Papists are pliable in small matters, Ergo <lb/>
+            they will yeild in greater, &amp; because they tooke no armes in <hi rend="overline">88</hi>, <lb/>
+            therefore it is needlesse curiously to suspect them now; for who
+            <fw type="catch" place="bot-right">knowes not</fw>
+            <pb n="35r" facs="/bl/add_ms_11600/add_ms_11600_f035r/add_ms_11600_f035r.jpg"/>
+            knowes not that small baites are vsed to take <ex>th</ex>e greatest fish, <foreign xml:lang="la">vt cum <lb/>
+               esca vna' &amp; hamum deuoret:</foreign> warinesse is <ex>th</ex>e sinewes of wisdome, <lb/>
+            &amp; nothing is more dangerous then to be secure in matters of state. There=<lb break="no"/>
+            fore for <ex>th</ex>e Lawes already made I wish that <ex>th</ex>e most effectuall of <lb/>
+            <add place="LM">
+               Few lawes well executed <lb/>
+               are better then many.
+            </add>
+            them w<ex>hi</ex>ch least concerne life may be executed, for better it were not <lb/>
+            to make them, then by neglect to sett them at liberty, seing that <lb/>
+            many offences there are w<ex>hi</ex>ch men would abstaine from, if they were <lb/>
+            forbidden, but when a strict commandment is auoyded without <lb/>
+            punishment, thereout springs an vnbridled licence to be hardly <lb/>
+            reformed by any rigor.
+         </p>
+         <p>
+            To conclude I say freely that he <ex>tha</ex>t endeth his dayes by a naturall <lb/>
+            death, he shalbe subiect to receiue many mens doomes for euery <lb/>
+            particular offence, but when for Religions sake a man triumpheth <lb/>
+            ouer <ex>th</ex>e sword, that one vertue razeth out <ex>th</ex>e memory of other errors, <lb/>
+            &amp; placeth him that so doth, in paradise (if common opinion may <lb/>
+            be lawfully accouched) w<ex>hi</ex>ch glory haueing many followers &amp; admirers, <lb/>
+            awaketh euer dull spirits to affect their footsteps, to sell their liues <lb/>
+            for <ex>th</ex>e maintenance of <ex>th</ex>e cause. I need not to enuy <ex>th</ex>e name of a <lb/>
+            martyrto <ex>th</ex>e Iesuites, for <ex>th</ex>e cause if it be rightly weighed will branch <lb/>
+            that title: But I desire to haue all these lineaments defaced <lb/>
+            w<ex>hi</ex>ch may compose <ex>th</ex>e Counterfett Image; In prosecuting of w<ex>hi</ex>ch purpose <lb/>
+            if I haue failed in any aduise, &amp; by confused handling intricated <lb/>
+            <ex>th</ex>e question, I humbly request <ex>tha</ex>t wisemans verdict may mitigate <lb/>
+            the heauinesse of <ex>th</ex>e Censure. It is neither good to priase badd <lb/>
+            <add place="LM">
+               He counsells lest that <lb/>
+               preferes <ex>th</ex>e cause of God &amp; <lb/>
+               <ex>th</ex>e Com<ex>m</ex>onwealth before any <lb/>
+               particular.
+            </add>
+            counsells because of their good successe, nor to condemne good Counsells <lb/>
+            if <ex>th</ex>e euent proue not fortunate, least many be animated to <lb/>
+            aduise rashly, &amp; others disheartened to counsell grauely./ <hi rend="italic">FINIS.</hi>
+         </p>
+         <p rend="align-centre">
+            <foreign xml:lang="la">
+               Illi mors grauis incubat <lb/>
+               Qui notus nims omnibus <lb/>
+               Ignotus moritur sibj. seneca Trag.
+            </foreign>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f022v/add_ms_11600_f022v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f023r/add_ms_11600_f023r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f023v/add_ms_11600_f023v.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f024r/add_ms_11600_f024r.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f024v/add_ms_11600_f024v.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f025r/add_ms_11600_f025r.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f025v/add_ms_11600_f025v.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f026r/add_ms_11600_f026r.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f026v/add_ms_11600_f026v.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f027r/add_ms_11600_f027r.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f027v/add_ms_11600_f027v.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11600/add_ms_11600_f028r/add_ms_11600_f028r.jpg"/>
+      <graphic n="13" url="/bl/add_ms_11600/add_ms_11600_f028v/add_ms_11600_f028v.jpg"/>
+      <graphic n="14" url="/bl/add_ms_11600/add_ms_11600_f029r/add_ms_11600_f029r.jpg"/>
+      <graphic n="15" url="/bl/add_ms_11600/add_ms_11600_f029v/add_ms_11600_f029v.jpg"/>
+      <graphic n="16" url="/bl/add_ms_11600/add_ms_11600_f030r/add_ms_11600_f030r.jpg"/>
+      <graphic n="17" url="/bl/add_ms_11600/add_ms_11600_f030v/add_ms_11600_f030v.jpg"/>
+      <graphic n="18" url="/bl/add_ms_11600/add_ms_11600_f031r/add_ms_11600_f031r.jpg"/>
+      <graphic n="19" url="/bl/add_ms_11600/add_ms_11600_f031v/add_ms_11600_f031v.jpg"/>
+      <graphic n="20" url="/bl/add_ms_11600/add_ms_11600_f032r/add_ms_11600_f032r.jpg"/>
+      <graphic n="21" url="/bl/add_ms_11600/add_ms_11600_f032v/add_ms_11600_f032v.jpg"/>
+      <graphic n="22" url="/bl/add_ms_11600/add_ms_11600_f033r/add_ms_11600_f033r.jpg"/>
+      <graphic n="23" url="/bl/add_ms_11600/add_ms_11600_f033v/add_ms_11600_f033v.jpg"/>
+      <graphic n="24" url="/bl/add_ms_11600/add_ms_11600_f034r/add_ms_11600_f034r.jpg"/>
+      <graphic n="25" url="/bl/add_ms_11600/add_ms_11600_f034v/add_ms_11600_f034v.jpg"/>
+      <graphic n="26" url="/bl/add_ms_11600/add_ms_11600_f035r/add_ms_11600_f035r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to His Majesty at the Council Table</title>
+            <author>
+               <persName corresp="../people/people.xml#0009">George Villiers, 1st Duke of Buckingham</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_8827">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 8827</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_30926">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 30926</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48059">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 48059</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72417">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72417</idno>
+               <msName>Trumbull Papers</msName>
+            </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_161">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 161</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2217</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="VilliersProceedingsCouncilTable1628v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS390.xml">British Library, Harley MS 390, ff. 379r–386r</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>Aprill 4. The proceeding of the Parliament, being this day related to the King, by the councellors of the Commons House of Parliament</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">[London]</pubPlace>
+                  <date when="1628">[1628]</date>
+                  <idno type="STC">24739</idno>
+                  <biblScope unit="sigs" from="A2r" to="A4r">A2r-A4r</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0009">
+                        <forename>George</forename>
+                        <surname>Villiers</surname>
+                        <roleName>1st Duke of Buckingham</roleName>
+                     </persName>
+                  </author>
+                  <title>The Duke of Buckingham his speech to the King in Parliament Aprill 4. 1628</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">B5308B</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628-04-04">4 April 1628</date>
+            <placeName corresp="..places/places.xml#PL0011">Privy Council</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Forced Loan</term>
+               <term>parliament</term>
+               <term>court</term>
+               <term>state finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+<revisionDesc>
+<listChange>
+            <change when="2018-06-05" who="#NM" status="proofread"/>
+   <change when="2017-10-10" who="#RB" status="transcribed"/>
+            </listChange>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="10r" facs="/bl/add_ms_35331/add_ms_35331_f010r/add_ms_35331_f010r.jpg"/>
+         <head>
+            The Duke of Buckinghams Speeche to his ma<ex>jes</ex>tie att the <lb/>
+            Councell table Aprill 4th 1628.
+         </head>
+         <p>
+            <add place="LM">4.</add>
+            S<ex>i</ex>r me thinckes I nowe beholde you a greate kinge: for love is greater then ma<ex>jes</ex>tie: <hi rend="italic">opinion</hi> <lb/>
+            that yo<ex>u</ex>r people loved you not had almost loste you in the opinion of the worlde. But this <lb/>
+            daye makes you appeare (as you are) a glorious kinge: Loved att home, and nowe to bee feared <lb/>
+            abroade. This fallinge out soe happily I beseeche you giue me leave to bee an humble <lb/>
+            sutor to yo<ex>u</ex>r ma<ex>jes</ex>tie: Firste for my selfe that I whoe have had the hono<ex>u</ex>r to have bynn your <lb/>
+            favorite, may nowe giue vpp my selfe unto them: they to bee yo<ex>u</ex>r favorites and I to bee your <lb/>
+            servante. My seconde suite is, that they havinge <add place="above">all</add> done <hi rend="strikethrough">all</hi> soe well, you woulde accompte of <lb/>
+            them all as one, a body of many members, but all of one hearte: Opinion mighte have <lb/>
+            made them differ, but affection did make them to ioyne in like love in this greate gifte. <lb/>
+            For proportion yt beinge lesse then yo<ex>u</ex>r occasions may aske, yet it is more then ever subiects <lb/>
+            did give in soe shorte a <hi rend="strikethrough">tyme</hi> tyme: nor I am I p<ex>er</ex>swaded it will reste there for this <lb/>
+            is but as an earneste of there affections to lett you see and the worlde knowe what subiectes <lb/>
+            you haue, That when yo<ex>u</ex>r honor and the good of the state is engaged and ayde asked in <lb/>
+            the ordinary waye of p<ex>ar</ex>liam<ex>en</ex>t you cannot wante. This is not a guifte of 5. subsedies <lb/>
+            alone, but the openinge of a myne of Subsedies that lyeth in there heartes: these <lb/>
+            good begin<ex>n</ex>inges hath wroughte already theise <hi rend="strikethrough">good</hi> effects that they haue taken your <lb/>
+            hearte and drawen from yo<ex>u</ex> a declarac<ex>i</ex>on that you will love p<ex>ar</ex>liam<ex>en</ex>ts. And againe, this <lb/>
+            will meete I make noe question w<ex>i</ex>th such respecte as there demaundes wilbee dutifull <lb/>
+            and moderate. For they that knowe thus to give, knowe what is fytte to aske, then cannot <lb/>
+            yo<ex>u</ex>r ma<ex>jes</ex>tie doe lesse then outgoe there demaundes, or els you doe lesse then yo<ex>u</ex>r selfe <lb/>
+            of them, for yo<ex>u</ex>r message begott truste (see <ref>pag: 12</ref> 4th of m<ex>a</ex>rche) and yo<ex>u</ex>r promise <lb/>
+            <hi rend="align-right">must begette p<ex>er</ex>formance. This beinge done then shall I</hi> <lb/>
+            <fw type="catch" place="bot-right">w<ex>i</ex>th a gladde hearte holde</fw>
+            <pb n="10v" facs="/bl/add_ms_35331/add_ms_35331_f010v/add_ms_35331_f010v.jpg"/>
+            <add place="header">
+               <hi rend="underline">An<ex>n</ex>o Do<ex>mi</ex>ni 1628.</hi>
+            </add>
+            with a gladde hearte holde this worke aswell ended as begun, and then shall I hope yt p<ex>ar</ex>liamentes <lb/>
+            shalbee made hereafter soe frequente by the effectes and good vse of them, as shall have <lb/>
+            this further benefite to deterre from appreychinge your eares those <hi rend="italic">Proiectors</hi> and <lb/>
+            <hi rend="italic">inducers of innovations</hi> as disturbers of Churche and Com<ex>m</ex>on wealthe. Nowe soe to open <lb/>
+            my hearte and ease my greife maye yt please you to p<ex>ar</ex>don me a worde more:/ I <lb/>
+            must confesse I have longe lived in payne, sleepe hath given me noe reste, favors <lb/>
+            and Fortunes noe contente, much have bynn my secrette sorrowes to bee thoughte the <lb/>
+            <hi rend="italic">man of seperation</hi> that divided the kinge from his people, and them from him. But <lb/>
+            <add place="margin">
+               + <lb/>
+               S<ex>i</ex>r Ro: Philippes <lb/>
+               speeche the 18:th of <lb/>
+               m<ex>a</ex>rche in p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+               house./
+            </add>
+            I hope yt shall appeare there are<add place="above">+</add> some mistaken mynds that woulde have made <lb/>
+            me <hi rend="italic">the evill Spirite</hi> that walked betwixte a good M<ex>aste</ex>r and loyall subiectes for yll <lb/>
+            offices: wheras by your ma<ex>jes</ex>ties favour I shall ever endeavor to approve my selfe <lb/>
+            a good sprite, breathinge nothinge but the beste services to them all. Therfore <lb/>
+            this daye I accompte more blessed to me, then my birthe daye, to see my <lb/>
+            selfe able to serve them: to see you broughte in love w<ex>i</ex>th p<ex>ar</ex>liam<ex>en</ex>ts: to see a <lb/>
+            p<ex>ar</ex>liam<ex>en</ex>t expresse somuch love to you./ Love them I beseech you, and God soe love me, <lb/>
+            and myne, as I ioye to see this daye./
+         </p>
+         <p rend="align-right">
+            I thinck this speeche was penned to his handes, for I have <lb/>
+            hearde hee is noe	scholler &amp;c. nether doth hee vnderstande the latyne <lb/>
+            tonge./ 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f010r/add_ms_35331_f010r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f010v/add_ms_35331_f010v.jpg"/>
+   </facsimile>
+</TEI>

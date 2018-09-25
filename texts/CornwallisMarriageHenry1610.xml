@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discourse Concerning the Marriage Propounded to Prince Henry with a Daughter of Florence</title>
+            <author>
+               <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_41613">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 41613</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS41613.xml">British Library, Additional MS 41613, ff. 215r–216v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb178.xml">Beinecke Library, Osborn fb178, ff. 32r–33v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title>Collectanea Curiosa</title>
+                  <editor>John Gutch</editor>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Clarendon Press</publisher>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="156" to="160">156-60</biblScope>
+                  <date when="1781">1781</date>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1610">1610?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>discourse</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>diplomacy</term>
+               <term>marriage</term>
+               <term>monarchy</term>
+               <term>Florence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-01" who="#RB" status="draft"/>
+            <change when="2017-11" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="280v" facs="/bl/add_ms_11600/add_ms_11600_f280v/add_ms_11600_f280v.jpg"/>
+            <p>
+               A Discoure Concerninge The Marrige: Propounded <lb/>
+               to: Prince Henry w<ex>i</ex>th: a: Daughter of Florence  <lb/>
+               Written by Sr: Charles: Cornewallis beinge: The: Princes: <lb/>
+               <unclear>Treasr</unclear>: att The Princes: Com<ex>m</ex>andement
+            </p>
+            <p>
+               The Alliance w<ex>i</ex>th Florance by Marriage of your highnes <lb/>
+               w<ex>i</ex>th a sister of that Duke: bring<ex>es</ex> w<ex>i</ex>th it neithr. to the kinge <lb/>
+               nor to your selfe aney Addition of streinght or diminution of <lb/>
+               doubt<ex>es</ex>; the two princapall markes that in all marriages and <lb/>
+               Coniunctions of that nature are Aymed att.
+            </p>
+            <p>
+               The Cuntrey of that Duke is farre remote &amp; therefore of it <lb/>
+               selfe utterly un apte to yealde yow aney helpe if by acci dent  <lb/>
+               you should haue occasion to use it.
+            </p>
+            <p>
+               His forces are hardly able to defende his owne estat<ex>es</ex> . if <lb/>
+               either by the kinge of Spaine or the Pope ioyned w<ex>i</ex>th aney <lb/>
+               other the princes of Italy they should bee att aney tyme <lb/>
+               invaded.
+            </p>
+            <p>
+               The Affections (of that Duke and estate are allredy  <lb/>
+               espowsed to your most suspected freind<ex>es</ex> and Assuredst <lb/>
+               enemyes. The late workinge of these Conjunctions betweene <lb/>
+               them to the engreatinge of them &amp; perrill of us haue <lb/>
+               made it manifest. They  haue by those meanes weakned us <lb/>
+               a broade; and by this Coniunction theire designe may bee to <lb/>
+               doe the like att home.
+            </p>
+            <p>
+               Ther e pollices and plott<ex>es</ex> of fflore nce haue seldome or neur <lb/>
+               wanted an especiall regard . to the Chayre of Rome From  <lb/>
+               that see  they  haue Receued there greatest honnor. &amp; from <lb/>
+               that Tripple Crowne they   still hope and . exspecte the diadem <lb/>
+               of a kinge; whereunto they  haue all redy made a st eppe by <lb/>
+               acquiringe that of the great Duke of Hetearia.
+            </p>
+            <p>
+               Noe p<ex>ar</ex>te nor place the kinge your fathers Courte or <lb/>
+               your owne will bee free from the eyes &amp; undrstanding<ex>es</ex> of <lb/>
+               some that shall from tyme to tyme bee shuffled into there <lb/>
+               trayne . and little doubte there is but from that Florentine <lb/>
+               fountyne &amp; Source of practises whereof soe bitter an exsperiance <lb/>
+               hath bine had by our neighbour Cuntreys;  both Intelligences <lb/>
+               will bee given &amp; plottes used to putt us into  faccions &amp; Garboyles <lb/>
+               to searue <del rend="strikethrough">only</del> <add place="above">
+                    <unclear>ends</unclear> </add> abroad . &amp; p<ex>er</ex>hapes those of our greatest enemyes.
+            </p>
+            <p>
+               In noe one thinge earthly can they  more merrit either of that <lb/>
+               Romane <del rend="strikethrough">Chaire</del> <add place="above">Chayre</add> or of those king<ex>es</ex> whome they  haue of late <lb/>
+               soe stroungly &amp; streightley united . then by drawinge this <lb/>
+               mon<ex>n</ex>archey  . haueinge soe maney yeares Continued the nurse &amp; <lb/>
+               protector of the Religion reformed . into a devission <lb/>
+               W<ex>i</ex>thin <lb/>
+               <pb n="280r" facs="/bl/add_ms_11600/add_ms_11600_f280r/add_ms_11600_f280r.jpg"/>
+               W<ex>i</ex>th in it selfe and into a suspition w<ex>i</ex>th all those frynd<ex>es</ex> <lb/>
+               whome a greement in religion (the surest bound that a <lb/>
+               moungst men is to bee found) soe streightly united  /
+            </p>
+            <p>
+               The Coniun<ex>n</ex> ction moued is Collaterall not Line all and <lb/>
+               therefore more then the portion prsently to bee given noe <lb/>
+               other ayde or Assistance to bee hereafter hoped.
+            </p>
+            <p>
+               That serpent of Corruption w<ex>hi</ex>ch not w<ex>i</ex>th standing the <lb/>
+               frost of soe maney yeares disgraced wherew<ex>i</ex>th it hath <lb/>
+               bine in these kingdomes, benumn ed hath yet lived &amp; <lb/>
+               heald up the head . would nowe by receuinge a p<ex>ar</ex>te of  <lb/>
+               her nowe into our bosome . recouer newe warmth and <lb/>
+               streinght and bee in abled againe to endaun<ex>n</ex>ger us w<ex>i</ex>th  <lb/>
+               her poyson  /
+            </p>
+            <p>
+               There can in Reason bee little Chasticement expected <lb/>
+               for receauinge of Jesuit<ex>es</ex> &amp; preaist<ex>es</ex> the only mothes <lb/>
+               and myners of this Com<ex>m</ex>on Wealth or for saying or <lb/>
+               hearinge of Masse when undr. the roofe of the house <lb/>
+               of his Matie: &amp; your highnes &amp; soe neare unto your <lb/>
+               p<ex>er</ex>sons . both the one &amp; the other shall bee daily tollerated. 
+            </p>
+            <p>
+               His Maty that hath in all the tyme of his gouerm<ex>en</ex>t showed  <lb/>
+               soe great an Intire regard to Justice cannot soe <lb/>
+               well w<ex>i</ex>th his honnor. demonstrate soe great an Inequalitey <lb/>
+               as to punish those thing<ex>es</ex> in his people abroad that hee  <lb/>
+               alloweth and . p<ex>er</ex>mitteth in his Chamber att home.
+            </p>
+            <p>
+               Weare it that this Allyance might bee said to bring  <lb/>
+               w<ex>i</ex>th it an enlargment of Dominion an Increase of <lb/>
+               revenew. or an honnor in it selfe in regard of an <lb/>
+               equalitey in blood . &amp; dignitey . as was p<ex>ro</ex>iected in the <lb/>
+               marriage w<ex>i</ex>th Spaine / more approvable would it <lb/>
+               bee to our frynd<ex>es</ex> a broad whoe thereby might as occasion  <lb/>
+               should require hope to p<ex>ar</ex>ticipate of what should bee <lb/>
+               added unto us &amp; to the Sub:it<ex>es</ex>  att home / to whom the <lb/>
+               streinght &amp; glorey of there Cuntrey would bee a Countrpoize <lb/>
+               against the distast<ex>es</ex> of ioyninge hand<ex>es</ex> w<ex>i</ex>th a Religion <lb/>
+               they soe much abhorre.
+            </p>
+            <p>
+               But your highnes in this expect<ex>es</ex> . noe Amplifiinge <lb/>
+               of dominion nor Augmentacion of revenew’ more our  <lb/>
+               whatsoeuer shall bee given in redy money or the most  <lb/>
+               p<ex>ar</ex>te of it must passe into the kinge your fathers <lb/>
+               purse. your selfe obliged to a newe charge w<ex>hi</ex>ch will <lb/>
+               bee looked for to become sutable to your owne high  <lb/>
+               estate &amp; the portion that shall bee given in marriage <lb/>
+               your owne meanes beeinge but little or nothinge att all  <lb/>
+               enabled / nor your p<ex>er</ex>son honnored marryinge w<ex>i</ex>th  <lb/>
+               a dowghter though of a great Duke and a prince  <lb/>
+               absolute w<ex>i</ex>th out aney nomin<ex>n</ex>all subiection to aney <lb/>
+               yet not free from dependance in regard that for <lb/>
+               the principalest p<ex>ar</ex>t<ex>es</ex>  of his territors hee is feeudatory  <lb/>
+               to the  <lb/>
+               <pb n="279v" facs="/bl/add_ms_11600/add_ms_11600_f279v/add_ms_11600_f279v.jpg"/>
+               Tto the Empire and receaueth the Investiture of other <lb/>
+               of his estat<ex>es</ex> from his mightey <unclear>near bour</unclear> the kinge of Spaine <lb/>
+               w<ex>i</ex>th out whose favour . hee shall euer haue cause to live <lb/>
+               w<ex>i</ex>th some feare  /
+            </p>
+            <p>
+               Neather is that house much graced w<ex>i</ex>th theire towe <add place="above">2</add>  late <lb/>
+               mariages w<ex>i</ex>th Fraunce:  ( the first beeing <add place="above">w<ex>i</ex>th</add> a younger sonne <lb/>
+               then not like to bee come a kinge;) and the successe such  <lb/>
+               as will euer continewe a woefull memorey in the hart<ex>es</ex> <lb/>
+               of that nation: the second w<ex>i</ex>th a kinge whoe in regard <lb/>
+               of his havinge an oth<ex>e</ex>r wife then alive / &amp; some other <lb/>
+               Contract<ex>es</ex> . challenged . att his hand<ex>es</ex> / to whose Children <lb/>
+               hee had avowed  him selfe a father / was rather Contented <lb/>
+               to accepte of a valley offred him w<ex>i</ex>th ease / then to  <lb/>
+               Aspire to a mountayne w<ex>i</ex>th <add place="above">w<ex>i</ex>th</add>  those his incumbars of <lb/>
+               estate &amp; Conscience Considred, was not like<add place="above">ly</add>
+                <del rend="strikethrough">wis</del> <lb/>
+               to stoope to him /  
+            </p>
+            <p>
+               It is trewe that in all other forreigne p<ex>ar</ex>t<ex>es</ex> of Chrisendom. <lb/>
+               fitt for the regard<del rend="strikethrough">
+                    <ex>es</ex>
+                </del> of your highnes eyes / yow are either <lb/>
+               prouccupated by those late marriages . agreead upon in <lb/>
+               Fraunce or Spaine; or there arise alike doubt<ex>es</ex> &amp; <del rend="strikethrough">ac</del>
+                <add place="above">ex</add>cept= <lb break="no"/>
+               ions for <unclear>mattrs </unclear> of differe nce in Religion / as of this in <lb/>
+               Flore nce  (only those of (Germany excepted ). whoe allthough <lb/>
+               in respecte of theire depende nces . upon the Empire may <lb/>
+               in some sort bee taken for sub<ex>tes</ex> . and not absolute in theire <lb/>
+               owne territoss; yet respectinge the Antiquity of theire  <lb/>
+               houses . their Clearnes of blood. theire streinght by leagues <lb/>
+               &amp; Confedracyes amoungst them selues &amp; w<ex>hi</ex>ch is most <lb/>
+               Considerable theire Conformitey in Religion are in my weake <lb/>
+               Judgmt <unclear>more</unclear>   p<ex>ar</ex>ties for your highnes to Joyne w<ex>i</ex>th then <lb/>
+               those of Flore nce /
+            </p>
+            <p>
+               Your Conj unction w<ex>i</ex>th those of your owne Religion will  <lb/>
+               demonstrate your cleare &amp; undowbted Resolution not to  <lb/>
+               declyne in the cause of god. This will fasten unto yow through <lb/>
+               out all Christ endome the proffessors of ye Reformation &amp; <lb/>
+               will make yow deare to the subiect<ex>es</ex> of this kingdome: out  <lb/>
+               of whoses loves yow may exspecte a p<ex>er</ex>manent &amp; Continuall <lb/>
+               treasure / not to bee equalled by the porcion of Florence  <lb/>
+               weare it by maney degrees greater then can bee hoped: <lb/>
+               &amp; whoes contrarey conceipt<ex>es</ex> upon a marriage in soe high <lb/>
+               a degree . distastfull unto them . is lickly to breed &amp; in crease <lb/>
+               those obstructions , w<ex>hi</ex>ch haue lately bine sho wed uppon the <lb/>
+               demaund<ex>es</ex> of supply in Parlimt by the kinge your father.
+            </p>
+            <p>
+               Lastly might the estat<ex>es</ex> .  of ye united provinces out of <lb/>
+               Considration how much it may import them selues . to haue yow <lb/>
+               Joyned w<ex>i</ex>th those of ye Popes obedience be wrought to bee  <lb/>
+               come Actors aswell in Recomendinge to your highnes a <lb/>
+               marriage in there neighbour Cuntreyes . as they weare out <lb/>
+               of there owne loues &amp; respect<ex>es</ex> assistances att your <lb/>
+               Christninge yt maye p<ex>er</ex>hapes drawe out  an <add place="above">an</add> Increase of some  <lb/>
+               in Portion <lb/>
+               <pb n="279r" facs="/bl/add_ms_11600/add_ms_11600_f279r/add_ms_11600_f279r.jpg"/>
+               In portion and an obligation in them w<ex>hi</ex>ch may here after <lb/>
+               become of greater consequence &amp; benefitte to your <lb/>
+               estate then what soeuer can be offered <del rend="strikethrough">by</del> be p<ex>er</ex>formed <lb/>
+               from Florence.
+            </p>
+            <p>
+               The like may bee wished and wrought w<ex>i</ex>th the subiect<ex>es</ex> <lb/>
+               att home if it shall please the kinge &amp; yow soe <lb/>
+               much . to honnor . as to accqu<add place="above">a</add>inte them w<ex>i</ex>th your <lb/>
+               Intencion to marey   &amp; w<ex>i</ex>th what the necessitey of the <lb/>
+               state will requi<add place="above">r</add>tte in portion are not likely to suffer <lb/>
+               your choyce (agreeinge in regard of Conformitey in <lb/>
+               Religion w<ex>i</ex>th there likeinge to bee shorte in portion <lb/>
+               to aney other what soeuer . that shall bringe with them  <lb/>
+               soe maney inconvenienc<ex>es</ex> . as out of a Conjunction <lb/>
+               w<ex>i</ex>th a sister of Florence or one of soe different  <lb/>
+               an opinion are to bee expected.
+            </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f279r/add_ms_11600_f279r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f279v/add_ms_11600_f279v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f280r/add_ms_11600_f280r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f280v/add_ms_11600_f280v.jpg"/>
+   </facsimile>
+</TEI>

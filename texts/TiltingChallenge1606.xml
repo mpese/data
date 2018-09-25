@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>            
+            <title>The Tilting Challenge</title>
+            <author>
+               <persName corresp="../people/people.xml#P0081">
+                  Ludovic Stewart, 2nd Duke of Lennox
+               </persName>
+            </author>
+            <author corresp="../people/people.xml#P0080">
+               <persName>
+                  Thomas Howard, 21st Earl of Arundel
+               </persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0079">
+                  William Herbert, 3rd Earl of Pembroke
+               </persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0020">
+                  Philip Herbert, 1st Earl of Montgomery
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22601.xml">
+               <msIdentifier xml:id="BL_Add_MS_22601">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22601</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22601</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4888">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4888</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34218">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34218</idno>
+               <msName>Sir Francis Fane's book</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_38139">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 38139</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4888.xml">British Library, Harley MS 4888, f. 256x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_34218.xml">British Library, Additional MS 34218, f. 183v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_38139.xml">British Library, Additional MS 38139, f. 266v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_22.xml">The National Archives,  SP 14/22, /1–2</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title>British Drama, 1533-1642: 1603-1608</title>
+                  <editor>
+                     <forename>Martin</forename>
+                     <surname>Wiggins</surname>
+                  </editor>
+                  <editor>
+                     <forename>Catherine</forename>
+                     <surname>Richardson</surname>
+                  </editor>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Oxford University Press</publisher>
+                  <biblScope unit="volume">5</biblScope>
+                  <biblScope unit="page" from="301" to="303">301-303</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p>There is a lot more data we could probably pull from the Wiggins/Richardson entry above, and which may help write a blurb.</p>
+            </abstract>
+         <creation>
+            <date when="1606-06-01">1 June 1606</date>
+            <placeName corresp="../places/places.xml#PL0014">Greenwich Palace</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>proclamtion</term>
+               <term>challenges</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>chivalry</term>
+               <term>knights</term>
+               <term>court</term>
+               <term>Merlin</term>
+               <term>prophecy</term>
+               <term>tilting</term>
+               <term>tournaments</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-30" who="#SV" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="7r" facs="/bl/add_ms_22601_part/add_ms_22601_f007r/add_ms_22601_f007r.jpg"/>
+         <head rend="align-centre">
+            O yes, o yes, o yes.
+         </head>
+         <p>
+            To all ho<ex cert="medium">nest</ex> men at armes and knightes aduenturers <lb/>
+            of hereditarie note &amp; exemplarie noblenes that <lb/>
+            for moste maintenable actions, do either wielde <lb/>
+            sworde or Launce in the Gist of glorie, righte <lb/>
+            braue &amp; Chivalrouse wheresoeu<ex>er</ex> through y<hi rend="superscript">e</hi> worlde <lb/>
+            We .4. knightes errant denominated of y<hi rend="superscript">e</hi> fortunat <lb/>
+            Island servantes of y<hi rend="superscript">e</hi> destinies, awakinge the slee=<lb break="no"/>
+            pinge courages w<ex>i</ex>th martiall greetinges.
+         </p>
+         <p>
+            Knowe yow that o<ex>u</ex>r Sou<ex>er</ex>aigne La<ex>dy</ex> &amp; M<ex>aste</ex>res mother <lb/>
+            of the falls &amp; empresse of great atchieuem<ex>en</ex>tes: <lb/>
+            revoluinge of late the adamantine leaves of hir <lb/>
+            eternall volumes, and finding in them that the <lb/>
+            tryumphall times are nowe at hande wherein y<hi rend="superscript">e</hi> <lb/>
+            marveilous aduenture of y<hi rend="superscript">e</hi> Lucent piller should <lb/>
+            be revealed to the wond<ex>e</ex>r of times &amp; men as <lb/>
+            <hi rend="italics">Merlin</hi> secretorie to hir moste inwarde disseignes <lb/>
+            did longe sithens presage. Hath therefore most <lb/>
+            deepelie weighing w<ex>i</ex>th hir self howe necessarie <lb/>
+            it is that sounde opinions should p<ex>re</ex>pare y<hi rend="superscript">e</hi> waie <lb/>
+            to worthie Celebrac<ex>i</ex>on of so vnhard of misteries <lb/>
+            byn pleased to com<ex>m</ex>aunde vs hir voluntarie yet ever <lb/>
+            humble votaries to publishe &amp; mainteine by all the <lb/>
+            allowed waies of knightlie arguing theis .4. vn=<lb break="no"/>
+            disputable proposic<ex>i</ex>ons.
+         </p>
+         <p>
+            <list rend="numbered">
+               <item n="1">
+                  <hi rend="italic">That in the seruice of Ladies knightes <lb/>
+                  haue no free will</hi>. 
+               </item>
+               <item n="2">
+                  <hi rend="italic">That it is Bewty that maintaines the <lb/>
+                  worlde in valo<ex>u</ex>r.</hi>/ 
+               </item>
+               <item n="3">
+                  <hi rend="italic">That no faire Lady was euer false.</hi> 
+               </item>
+            <pb n="7v" facs="/bl/add_ms_22601_part/add_ms_22601_f007v/add_ms_22601_f007v.jpg"/>   
+               <item n="4">
+                  <hi rend="italic">That none can be p<ex>er</ex>fectly wise but louers:</hi>
+               </item>
+            </list>
+         </p>
+         <p>
+            Against w<ex>hi</ex>ch or anie of them, if anie of yow shall <lb/>
+            dare to aunsw<ex>e</ex>r at point of <hi rend="italic">Launce</hi> or <hi rend="italic">Swordes</hi> <lb/>
+            in hono<ex>ur</ex> listes before rarest bewties &amp; best iudgm<ex>en</ex>tes <lb/>
+            Then knowe ye that we the .4. assured Cham/<lb break="no"/>
+            =pions shall by the high sufferance of heaven, &amp; <lb/>
+            vertue of o<ex>u</ex>r Knightlie valo<ex>u</ex>rs be readie in the <lb/>
+            vale of <hi rend="italic">My refleure</hi>, constantlie to aunsw<ex>e</ex>r <lb/>
+            &amp; make p<ex>er</ex>fecte o<ex>u</ex>r imposed vndertakinge, a<lb break="no"/>
+            =gainst all suche of yow as shall w<ex>i</ex>thin .40. <lb/>
+            daies aft<ex>e</ex>r the first intimac<ex>i</ex>on of this o<ex>u</ex>r vni=<lb break="no"/>
+            =uersall challenge arryve, to attend y<hi rend="superscript">e</hi> glori<lb break="no"/>
+            =ous issue of the famous aduentures of the <lb/>
+            <hi rend="italic">Lucent</hi> piller. In the w<ex>hi</ex>ch the prises are re=<lb break="no"/>
+            =serued &amp; ordeyned by the fate of o<ex>u</ex>r Countrye <lb/>
+            to Crowne the .3. seu<ex>er</ex>all succeedinge daies of <lb/>
+            Triumphe. The firste at Tylte, the second <lb/>
+            at Turney, the thirde at Barryers./
+         </p>
+         <p rend="indent">
+             <seg type="curly-bracket-R">
+               <list rend="simple">
+                  <item>
+                     Linnis
+                  </item>
+                  <item>
+                     Arrundel
+                  </item>
+                  <item>
+                     Pembrooke 
+                  </item>
+                  <item>
+                     Mongomery
+                  </item>
+               </list> 
+            </seg>  
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22601_part/add_ms_22601_f007r/add_ms_22601_f007r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22601_part/add_ms_22601_f007v/add_ms_22601_f007v.jpg"/>
+   </facsimile>
+</TEI>

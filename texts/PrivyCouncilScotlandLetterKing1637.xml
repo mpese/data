@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Copy of a Letter from the Lords of the Council of Scotland to the King</title>
+            <author>
+               <persName corresp="../people/people.xml#0048">Privy Council of Scotland</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_231">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 231</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_3876">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 3876</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_737">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 737</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70002">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70002</idno>
+               <msName>Harley Papers</msName>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3876.xml">British Library, Egerton MS 3876, ff. 146v–147r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS737.xml">British Library, Harley MS 737, ff. 74r–75r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS231.xml">British Library, Lansdowne MS 231, ff. 9v–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_70002.xml">British Library, Additional MS 70002, ff. 157r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_650.xml">British Library, Sloane MS 650, ff. 3v–5r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_829.xml">Bodleian Library,  MS Ashmole 829, ff. 227r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_720.xml">Bodleian Library,  MS Rawlinson D 720, ff. 15r–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm424.xml">Cambridge University Library,  MS Mm.4.24, ff. 121r–v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1637-08-25">25 August 1637</date>
+            <placeName corresp="../places/places.xml#PL0009">Edinbrugh</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Scottish Church</term>
+               <term>ecclesiastical conflict</term>
+               <term>liturgy</term>
+               <term>Book of Common Prayer</term>
+               <term>Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2017-11-28" who="#SV" status="proofread"/>
+            <change when="2017-11" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="70v" facs="/bl/add_ms_35331/add_ms_35331_f070v/add_ms_35331_f070v.jpg"/>
+         <head>
+            The Copie of a letter from the Lordes of the Councell of <lb/>
+            Scotlande to the kinge./
+         </head>
+         <p>
+            Most sacred sov<ex>er</ex>aigne.
+         </p>
+         <p>
+            Accordinge to the warrante of yo<ex>u</ex>r ma<ex>jes</ex>ties com<ex>m</ex>aundem<ex>en</ex>t wee haue bynn moste <lb/>
+            willinge and ready to giue all occurrance and assistance unto the Lordes of the <lb/>
+            Clergie for establishinge of the service booke. And notwithstandinge the barbarous <lb/>
+            tumulte occasioned only (for any thinge wee cann yet lerne) by a nomber <lb/>
+            of base and Rascally people, wee were very hopefull that in a shorte tyme <lb/>
+            w<ex>i</ex>thout any further trouble or importunity to yo<ex>u</ex>r ma<ex>jes</ex>tie to haue brought yt to <lb/>
+            passe; And to that ende havinge appointed a meetinge of Councell <lb/>
+            upon the 23th of this instante Auguste in this extraordinary tyme of vacancy <lb/>
+            expresly to consider of the beste course for advancinge of the saide service book <lb/>
+            wee finde our selves surprised (farre beyonde our expectation) w<ex>i</ex>th the <lb/>
+            clamors and feares of yo<ex>u</ex>r ma<ex>jes</ex>ties subiectes from diuerse p<ex>ar</ex>tes of the 
+            <fw type="catch" place="bot-right">kingdome, and that</fw>
+            <pb n="71r" facs="/bl/add_ms_35331/add_ms_35331_f071r/add_ms_35331_f071r.jpg"/> 
+            and that even from those whoe otherwise haue heretofore lived <lb/>
+            in obedience to yo<ex>u</ex>r ma<ex>jes</ex>ties lawes) both in Eccl<ex>esiast</ex>i<ex>c</ex>all and Civill affayres: <lb/>
+            And that wee finde yt to bee a matter of soe highe a consequence in re=<lb break="no"/>
+            specte of a generall grudge and murmurre of all sortes of people for urginge <lb/>
+            of the said service book as the lik hath not bynn hearde att any tyme here=<lb break="no"/>
+            tofore: Soe as wee dare not any longer to delaye or conceale yt from yo<ex>u</ex>r <lb/>
+            ma<ex>jes</ex>tie where unto yt may tende or what effecte yt may produce. Nether <lb/>
+            doe dare wee medle further in the cause untill yt please yo<ex>u</ex>r ma<ex>jes</ex>tie in the <lb/>
+            deepenesse of yo<ex>u</ex>r royall Iudgm<ex>en</ex>t to pr<ex>e</ex>scribe the way after the hearinge <del rend="strikethrough">all</del> of all <lb/>
+            p<ex>ar</ex>ticulars, either by callinge yo<ex>u</ex>r ma<ex>jes</ex>ties councell and Lordes of the clergie to <lb/>
+            yo<ex>u</ex>r ma<ex>jes</ex>ties owne p<ex>re</ex>sence to effecte a course that may bee taken, for pacifyinge <lb/>
+            of the p<ex>re</ex>sente com<ex>m</ex>otion and establishinge of the saide service book, or otherwise <lb/>
+            by such other meanes as to your ma<ex>jes</ex>tie in yo<ex>u</ex>r greate wisedome shall seeme <lb/>
+            fitte. And wee haue appointed the 20th of September nexte for attendinge yo<ex>u</ex>r <lb/>
+            ma<ex>jes</ex>ties pleasure herin, w<ex>hi</ex>ch (as becom<ex>m</ex>eth faithfull and humble subiectes &amp; those <lb/>
+            whome yo<ex>u</ex>r ma<ex>jes</ex>tie hath honored w<ex>i</ex>th yo<ex>u</ex>r royall com<ex>m</ex>aundem<ex>en</ex>t) wee are ready <lb/>
+            to followe and obaye. Soe w<ex>i</ex>thall humble prayers for yo<ex>u</ex>r ma<ex>jes</ex>ties longe and <lb/>
+            prosperous raigne wee reste &amp;c.
+         </p>
+         <p rend="outdent">
+            <foreign xml:lang="la">
+               Apud Edinburgu<ex>m</ex> 25<hi rend="superscript">o</hi> die <lb/>
+               Augusti 1637.
+            </foreign>  
+         </p>
+         
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f070v/add_ms_35331_f070v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f071r/add_ms_35331_f071r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prophecy of Merlin</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_252">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 252</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1479">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1479</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_64887">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 64887</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_L_b_670">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS L.b.670</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS64887.xml">British Library, Additional MS 64887, ff. 23r–24v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 131v–133r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS252.xml">British Library, Harley MS 252, ff. 120r–121v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1479.xml">British Library, Sloane MS 1479, ff. 7r–7v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b197.xml">Beinecke Library, Osborn b197, ff. 174–175</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb69.xml">Beinecke Library, Osborn fb69, f. 229</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_poetry_26.xml">Bodleian Library,  MS Rawlinson poetry 26, ff. 67r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_88.xml">Bodleian Library,  MS Tanner 88, f. 252v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_88.xml">Bodleian Library,  MS Tanner 88, f. 253r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee556.xml">Cambridge University Library,  MS Ee.5.56, ff. 1r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSLb670.xml">Folger Shakespeare Library,  MS L.b.670, ff. 1r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_275.xml">Folger Shakespeare Library,  MS V.a.275</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_303.xml">Folger Shakespeare Library,  MS V.b.303, p276</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1622">1622-1623</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>prophecy</term>
+               <term>verse</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>prophecy</term>
+               <term>kingship</term>
+               <term>empire</term>
+               <term>political conflict</term>
+               <term>parliament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-16" who="#RB" status="proofread"/>
+            <change when="2018-03-16" who="#RB" status="draft"/>
+            <change when="2010" who="#NM" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="101r" facs="/bl/add_ms_28640/add_ms_28640_f101r/add_ms_28640_f101r.jpg"/>
+         <p>
+            <add place="LM">
+               <seg rend="curley-bracket-R">
+                  Merlin in Latine hath <lb/>
+                  nothing that is like <lb/>
+                  hitherto
+               </seg>
+            </add>
+            This following prophecie is said to <add place="above">be</add> Merlins who was famous about <lb/>
+            the yeere of Chr. 433 see <foreign xml:lang="la">Fascicul<ex>us</ex> temporu<ex>m</ex>
+                </foreign> betw. 423 &amp; 433. It see=<lb break="no"/>
+            mes that Mr. I. Malcomb. Scot<ex>us</ex> had relation to this prohecie in his <lb/>
+            verses before the kings expositio<ex>n</ex> of Reuel. 20. v.7-10 printed at E=<lb break="no"/>
+            denburgh. 1588 &amp; since reprinted in England.
+         </p>
+         <p>
+            A Prince out of the North shall come, <lb/>
+            King borne, Crownde babe, his brest vpon <lb/>
+            a lyon rampant strange to see, <lb/>
+            &amp; C I S shall cleped be <lb/>
+            <add place="RM">Charles Iames Stuart. the K. of <lb/>
+               Fr. named him Ch. &amp; Queene Eliz. <lb/>
+               James.
+            </add>
+            borne in a Country rude &amp; stony, <lb/>
+            yet he Couragious wise &amp; holie. <lb/>
+            At beste of strength his Fortunes beste <lb/>
+            he shall receiue, &amp; then in reste <lb/>
+            couche as a Lyon in his denne, <lb/>
+            &amp; <hi rend="underline">reste</hi> in peace so long, till men
+            <add place="RM">
+               <hi rend="underline">live</hi>
+            </add> <lb/>
+            shall wonder, &amp; all Christendome <lb/>
+            thinke the time long, both all &amp; some <lb/>
+            At last he calles a Parliament, <lb/>
+            &amp; breakes it vp in discontent. <lb/>
+            And shortelie then shall rouzed be, <lb/>
+            by enemie beyonde the sea; <lb/>
+            But when in wrath he drawes his sworde, <lb/>
+            woe, <hi rend="underline">that</hi> the sleeping Lyon stird'e.
+            <add place="RM">
+               <hi rend="underline">woe him</hi>
+            </add> <lb/>
+            The Valiant acts he then shall doe,
+            <add place="RM">
+               <seg rend="curly-bracket-R">
+                  For ere he sheates the same againe <lb/>
+                  he puttes his foes to mickle paine
+               </seg>
+            </add> <lb/>
+            <add place="LM">
+               <seg rend="curly-bracket-R">
+                  a
+               </seg>
+            </add>
+            greate Alexanders fame out-goe. <lb/>
+            He passeth seas &amp; fame doth winne, <lb/>
+            till many Princes ioyne with him, <lb/>
+            &amp; chuse him for theire Governor, <lb/>
+            &amp; crowne him Westerne Emperor. <lb/>
+            And after a while he shall begirte, <lb/>
+            the City auncient oulde &amp; greate, <lb/>
+            which on seaven hilles is scituate, <lb/>
+            till he her walles hath ruinate. <lb/>
+            <fw type="catch" place="bot-right">Then shall a foe &amp;c./turne</fw> 
+            <pb n="101v" facs="/bl/add_ms_28640/add_ms_28640_f101v/add_ms_28640_f101v.jpg"/>
+            Then shall a foe from Easte appeere <lb/>
+            <add place="LM">
+               <seg rend="curly-braket-R">b</seg>
+            </add>
+            the brinke of one greate river neere, <lb/>
+            The Lyon rampant shall him meete, <lb/>
+            &amp; if on this side they shall <hi rend="underline">fight </hi>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  mollius pronu<ex>n</ex>ciandu<ex>s</ex>.
+               </foreign>
+            </add> <lb/>
+            the day is loste, but he shall crosse <lb/>
+            the river greate, &amp; being paste <lb/>
+            shall in the strength of his greate god, <lb/>
+            be to his foe<del rend="strikethrough">s</del> a scourging rodde. <lb/>
+            <add place="LM">
+               <seg rend="curly-bracket-R">
+                  c
+               </seg>
+            </add> 
+            <add place="RM">
+               <seg rend="curly-bracket-L">
+                  causing him thence to take his flight <lb/>
+                  of Easterne kings succour to seeke <lb/>
+                  Then shall he be in an hower <lb/>
+                  of East &amp; west crownde Emperour.
+               </seg>
+            </add> <lb/>
+            Then shall the foe in fury burne, <lb/>
+            &amp; from the Easte in haste returne, <lb/>
+            with aide of Kings &amp; Princes greate, <lb/>
+            into the vale of Iehoshaphat. <lb/>
+            There shall he meete the Lyon strong, <lb/>
+            Who in a battaile fierce &amp; long <lb/>
+            shall foile his foes. Then cruell death <lb/>
+            shall take away his aged breathe. 
+            <add place="RM">
+               <del rend="strikethrough">
+                  vide Merlins p<ex>ro</ex>phecie.
+               </del>
+            </add>
+         </p>
+         <p>
+            <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+            I haue seene another Copie agreeing with this, sauing that at /a/ <lb/>
+            it hath not those ij verses but ij other in steade of the<ex>m</ex> thus
+         </p>
+         <p>
+            For yere he sheathes the same againe <lb/>
+            <add place="LM">a</add>
+            he puttes his foes to mickle paine
+         </p>
+         <p rend="align-right">
+            a /b/ 'tis thus
+         </p>
+         <p>
+            <add place="LM">
+               b
+            </add>
+            Then shall a foe from seas appeere <lb/>
+            <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+            the brinke of our great riuer neere
+         </p>
+         <p rend="align-right">
+            which causeth alteratio<ex>n</ex> <lb/>
+            after
+         </p>
+         <p>
+            the day is lost but he shall crosse <lb/>
+            the seas &amp; being past
+         </p>
+         <p rend="align-right">
+            this staffe is lame you see.
+         </p>
+         <p>
+            <seg rend="curly-bracket-LR">
+               causing him thence to take his flight <lb/>
+               of Easterne kings succour to seeke <lb/>
+               Then shall he be in an hower <lb/>
+               of Easte &amp; West crowned Emperor
+            </seg>
+            <add place="RM">
+               <seg rend="curly-bracket-R">
+                  All these 4 are inserted <lb/>
+                  at /c/ in the other copie.
+               </seg>
+            </add>
+         </p>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            In the beginning of Merlins p<ex>ro</ex>phecie which I bought, there was written <lb/>
+            this p<ex>ro</ex>phecie, conteining as much as both these copies &amp; no more.
+         </p>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            The Scottes talke of one Thomas the Rymer or Ritchner, fro<ex>m</ex> whom this <lb/>
+            
+            Iacobus Iacobi Iacobo Iacobum Iacobe Iacoboq<ex>ue</ex> Sexto, filius Dac<unclear reason="guttering"/> <lb/>
+            regnabit in eternum.
+            <add place="LM">
+               <handShift medium="pale ink"/>
+               Of Thomas the Ri=<lb break="no"/>
+               mer mention is made in Speeds chron. 635 <lb/>
+               a.
+            </add>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f101r/add_ms_28640_f101r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f101v/add_ms_28640_f101v.jpg"/>
+   </facsimile>
+</TEI>

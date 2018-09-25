@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to the Earl of Bristol</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">
+                  Charles I
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHarleyMS390.xml">
+               <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 390</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6255">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6255</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1580">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1580</idno>
+               <msName>Villiers papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_161">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 161</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_39238">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 39238</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_12.xml">Alnwick Castle,  MS 12, f. 199r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6255.xml">British Library, Harley MS 6255, pp.11–13</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_39238.xml">British Library, Additional MS 39238, f. 18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1580.xml">British Library, Harley MS 1580, ff. 142r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_160.xml">British Library, Harley MS 160, ff. 20r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_161.xml">British Library, Harley MS 161, ff. 57r–58v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb57.xml">Beinecke Library, Osborn fb57, f. 185</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_277.xml">Folger Shakespeare Library,  MS V.b.277, ff. 116r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HRO_44M69G223.xml">Hampshire Record Office,  44M69/G2/23</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_142.xml">Harvard Law School,  MS 142, f. 24r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_3473.xml">Lambeth Palace Library,  MS 3473, f. 153r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_64.xml">Nottingham University Library, Cl LP 64</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1626-01-20">20 January 1626</date>
+            <placeName corresp="..places/places.xml#PL0007">Palace of Westminster</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Spanish Match</term>
+               <term>diplomacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-29" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="193r" facs="/bl/harley_ms_390_part/harley_ms_390_f193r/harley_ms_390_f193r.jpg"/>
+         <head>
+            His Ma<ex>jes</ex>ties L<ex>ett</ex>re to the Lo<ex>rd</ex> Digby
+         </head>
+         <p>
+            We haue receiued your l<ex>ett</ex>re addressed to vs by Buckin=<lb break="no"/>
+            ham, &amp; we cannot but wonder, that you should through for=<lb break="no"/>
+            getfullnes make such a request to vs of fauour, as if you <lb/>
+            stood euenly capable of it; when you know, what your <lb/>
+            behauiour in Spaine deserved of vs, which you are to examine <lb/>
+            by the observation we made &amp; know. You will remember, <lb/>
+            at our first coming into Spaine, taking vpon you to be so <lb/>
+            wise, as to forsee our intentions to change our Religion, you <lb/>
+            were so farre from disswading vs, that you offered your ser=<lb break="no"/>
+            vice &amp; sinceritie to concurre in it; &amp; in many other <lb/>
+            conferences pressing to shew how convenient it was for vs <lb/>
+            to become a Romane Catholick, it being impossible in <lb/>
+            your opinion to doe any great action otherwise: How <lb/>
+            much wrong, disadvantage &amp; disservice you did to the <lb/>
+            Treaty &amp; vnto the right &amp; interest of our deere brother <lb/>
+            &amp; Sister &amp; their children: What disadvantage, inconvenience <lb/>
+            &amp; hazard you entangled vs in by your artificies, putting <lb/>
+            off &amp; deluding our returne home: The great estimation <lb/>
+            you made of that State, &amp; the vile price you set this <lb/>
+            Kingdome at, still maintaining, that we vnder colour of <lb/>
+            freindship to Spaine did what was in our power against them; <lb/>
+            which you sayd, they knew very well: And lastly your <lb/>
+            approving of those conditions, that our Nephew should be <lb/>
+            brought up in the Emp<ex>ero</ex>rs Court; to which S<ex>i</ex>r Walter <lb/>
+            Ashton then sayd, he durst not give his consent for feare <lb/>
+            of his head; you replying to him, that without some such <lb/>
+            great Action, neither marriage, nor peace would be had.
+         </p>
+         <closer>
+            Giuen at our Palace at Westminster <lb/>
+            the 20th day of Ianuary, in the First <lb/>
+            yeare of our Raigne.
+         </closer>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_390_part/harley_ms_390_f193r/harley_ms_390_f193r.jpg"/>
+   </facsimile>
+</TEI>

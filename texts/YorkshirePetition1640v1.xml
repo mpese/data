@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petition to the King Presented at the Assizes of York</title>
+            <author>Gentry of Yorkshire</author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_489">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 489</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_7162">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 7162</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="SHC_1248_1">
+               <country>United Kingdom</country>
+               <settlement>Woking</settlement>
+               <repository>Surrey History Centre</repository>
+               <collection/>
+               <idno>1248/1</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, f. 68r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="YorkshirePetition1640v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, f. 64r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS7162.xml">British Library, Harley MS 7162, ff. 45x–50x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 67r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS489.xml">British Library, Lansdowne MS 489, f. 120v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_OSB_MSS_28.xml">Beinecke Library, OSB MSS 28, Box 2, Folder 25, item 38, 518r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_6183.xml">Beinecke Library, Osborn File 6183, ff. 4–5</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b297.xml">Beinecke Library, Osborn b297, item 10</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_19.xml">Bodleian Library,  MS Clarendon 19, f. 41r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, f. 39r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, ff. 134r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa192.xml">Folger Shakespeare Library,  MS V.a.192, ff. 51r–52r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_27.xml">Inner Temple Library, Petyt MS 538/27, ff. 114r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U269O294.xml">Kent Archives,  U269/O294, item 19</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3557.xml">Northamptonshire Record Office, IC 3557</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3576.xml">Northamptonshire Record Office, IC 3576</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="YorkshirePetition1640v3.xml">Transcript</ref> of <ref type="ms" target="../mss/SHC_1248_1.xml">Surrey History Centre,  1248/1, item 6</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SHC_12781.xml">Surrey History Centre,  1278/1, f. 6r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_456.xml">The National Archives,  SP 16/456, /72 [f.152v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /38 [ff.57v–58r]</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <listBibl xml:id="modern_print_witness">
+                  <bibl>
+                     <title type="shorttitle">Somers Tracts</title>
+                     <edition>2nd ed.</edition> 
+                     <biblScope unit="volume">4</biblScope>
+                     <biblScope unit="page" from="128" to="129">128-129</biblScope>
+                  </bibl>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640-07-28">28 July 1640</date>
+            <placeName corresp="../places/places.xml#PL0015">York</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>subsidies</term>
+               <term>Petition of Right</term>
+               <term>state finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-30" who="#SV" status="proofread"/>
+            <change when="2018-01-26" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="63r" facs="/bl/add_ms_22959/add_ms_22959_f063r/add_ms_22959_f063r.jpg"/>
+         <head>
+            <add place="LM">Petitions <lb/>deliuered or <lb/> intended (<foreign xml:lang="la">ut <lb/>dicitur</foreign>)</add>
+            To the kings most excellent Maj<ex>es</ex>tie <lb/>
+            The humble petition of the Gentry in your Maj<ex>estie</ex>s <lb/>
+            County of Yorke now assembled at the Assises of <lb/>
+            Yorke this 28 of July 1640.—/
+         </head>
+         <p>  
+            May it please your Majestie
+         </p>
+         <p>
+            Yo<ex>u</ex>r most humble servants shewe unto yo<ex>u</ex>r most excellent <lb/>
+            Majestie that in all humility this Country hath endea=<lb break="no"/>
+            voured to fulfill yo<ex>u</ex>r Maje<ex>stie</ex>s Commands with the forwar=<lb break="no"/>
+            dest of yo<ex>u</ex>r Majesties subjects, &amp; the last yeer in the <lb/>
+            execution of yo<ex>u</ex>r Majesties Royall Command, about the
+            <pb n="63v" facs="/bl/add_ms_22959/add_ms_22959_f063v/add_ms_22959_f063v.jpg"/>
+            Militarie affaires did expend 100000 li to our great im=<lb break="no"/>
+            pouerishment, &amp; farre aboue the proportion of other Coun=<lb break="no"/>
+            tries, which although at that time we were willing out <lb/>
+            of our desires to serve yo<ex>u</ex>r Majestie to doe; yet for the fu=<lb break="no"/>
+            ture the burthen is so heavie that we neither can or are <lb/>
+            able to beare it. Now upon this our cheerfulnes to serue <lb/>
+            yo<ex>u</ex>r Majestie we hoped to haue found equall favour <lb/>
+            with other Countries.
+         </p>
+         <p>
+            But so it is most gracious Soveraigne to our great <lb/>
+            griefe &amp; as we conceiue to the great disservice of yo<ex>u</ex>r <lb/>
+            Maj<ex>es</ex>tie we find our selues opprest with the billeting of <lb/>
+            unruly Soldiers, whose speeches &amp; actions tend to the <lb/>
+            burning of our Villages &amp; houses &amp; to whose violence <lb/>
+            &amp; insolence we are so daily subject as we cannot say <lb/>
+            we possesse our wiues children &amp; estates in safety.
+         </p>
+         <p>
+            Wherefore we are imboldened to present these our <lb/>
+            humble complaints, beseeching yo<ex>u</ex>r Majestie that as the <lb/>
+            billeting of soldiers in any of yo<ex>u</ex>r subjects houses ag<ex>ains</ex>t <lb/>
+            their will is contrary to the auncient Lawes of this <lb/>
+            kingdome confirmed by yo<ex>u</ex>r Majestie in the petition of <lb/>
+            Right we most humbly desire yo<ex>u</ex>r sacred Majestie that <lb/>
+            this unsupportable burthen may be taken of from us <lb/>
+            lest by theire insolencie some such bad accident may <lb/>
+            happen as will be much displeasing to yo<ex>u</ex>r sacred Ma=<lb break="no"/>
+            jestie &amp; yo<ex>u</ex>r loyall &amp; obedient Subjects who will never <lb/>
+            cease to pray for &amp;c.
+         </p>
+         <p>
+            <cb/>
+            Philip Wharton. <lb/>
+            ar Fairefax <lb/>
+            Henry Bellassis <lb/>
+            Wm Sauile <lb/>
+            Fra. Wortley <lb/>
+            Tho. Bower <lb/>
+            Io. Hotham <lb/>
+            Edward Stanhope <lb/>
+            Henry Griffith <lb/>
+            Will.m Sheffielde
+            <cb/>
+            Rich. Daruy <lb/>
+            Io. Ramsden <lb/>
+            Hugh Cholmley <lb/>
+            Hugh Bethel <lb/>
+            Willm Strickland <lb/>
+            Phil Stapleton. <lb/>
+            Geo. Wentworth. <lb/>
+            Tho. Remington <lb/>
+            Tho. Wretham. <lb/>
+            Io. Hotham jun<ex>ior</ex>
+            <cb/>
+            Tho. Gower <lb/>
+            Ro. Strickl.d <lb/>
+            Io. Hegan. <lb/>
+            Geo. Butler <lb/>
+            Fr. Mouncton <lb/>
+            Hen. Chaubey <lb/>
+            Geo. Trotter <lb/>
+            Henry Darly <lb/>
+            Ric. Remingto<ex>n</ex> <lb/>
+            Willm Franckland
+            <cb/>
+            Th. Hublewaile <lb/>
+            Chr. Peaslifay <lb/>
+            Io. Pearsell. <lb/>
+            Bri. Stapleto<ex>n</ex> <lb/>
+            Ing. Lepton <lb/>
+            Hen. Anderson <lb/>
+            Geo. Crutly. <lb/>
+            Geo. Marwood <lb/>
+            Tho. Hasket <lb/>
+            Io. Aulaby.
+            <pb n="64r" facs="/bl/add_ms_22959/add_ms_22959_f064r/add_ms_22959_f064r.jpg"/>
+            <cb/>
+            Christ. Hogarde. <lb/>
+            Mar. Borcliffe
+            <cb/>
+            Wm Mallosie <lb/>
+            &amp;c.
+            <cb/>
+            Io. Ingleby <lb/>
+            45. &amp;c.
+            <cb/>
+            Edw. Gower
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f063r/add_ms_22959_f063r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f063v/add_ms_22959_f063v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22959/add_ms_22959_f064r/add_ms_22959_f064r.jpg"/>
+   </facsimile>
+</TEI>

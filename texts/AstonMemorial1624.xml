@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorial given to the King of Spain</title>
+            <author>
+               <persName corresp="../people/people.xml#P0013">Sir Walter Aston</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            
+            <msDesc corresp="../mss/BLAddMS29587.xml">
+                <msIdentifier xml:id="BL_Add_MS_29587">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 29587</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 29587</p>
+            </msDesc>
+             <listBibl xml:id="mss_witness">
+                <bibl>
+                    <msIdentifier xml:id="BL_Hargrave_MS_226">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 226</idno>
+               <msName/>
+            </msIdentifier>
+                </bibl>
+                <bibl>
+                    <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+                </bibl>
+                <bibl>
+                    <msIdentifier xml:id="BL_Harley_MS_1323">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1323</idno>
+               <msName/>
+            </msIdentifier>
+                </bibl>
+                <bibl>
+                    <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+                </bibl>
+                <bibl>
+                    <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+                </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4108.xml">British Library, Additional MS 4108, ff. 89r–90v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 146r–149r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHargraveMS226.xml">British Library, Hargrave MS 226, ff. 156r–161v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1323.xml">British Library, Harley MS 1323, ff. 273x–277v?</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 81r–85r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 200v–203v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm524.xml">Cambridge University Library,  MS Mm.5.24, ff. 12v–5v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HRO_44M69G2502.xml">Hampshire Record Office,  44M69/G2/502</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_36836.xml">Huntington Library,  HM 36836, ff. 130–139</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page" from="152" to="155">152-155</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1624-07-29">29 July 1624</date>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>memorandum</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>foreign affairs</term>
+               <term>Spanish Match</term>
+               <term>Palatinate</term>
+               <term>Spain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-03" who="#SV" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="11r"/>
+         <head rend="indent">
+            <hi rend="bold">A Copie</hi> of the Memoriall which S<ex>i</ex>r <lb/> 
+            Walter Aston his ma<ex>jes</ex>ties Ambassador of <lb/> 
+            great Brittaine gaue to the Kinge of Spaine <lb/> 
+            the 29:th of July 1624./
+         </head>
+         <p>
+            <hi rend="bold">S<ex>i</ex>r Walter</hi> Aston Ambassador for the Kinge of <lb/> 
+            great Brittaine, saith, That the Kinge his maister hath <lb/> 
+            Comaunded him to represent to your Ma<ex>jes</ex>tie, That have=<lb break="no"/>
+            ing declared to your Ma<ex>jes</ex>tie the reasons why he could receaue <lb/> 
+            no satisfaction by your Ma<ex>jes</ex>ties answere of the firste of Janu=<lb break="no"/>
+            arie, And that therby accordinge to the vnanimous con=<lb break="no"/>
+            sent of his p<ex>ar</ex>liament, he came to dissolue both the trea=<lb break="no"/>
+            ties of the Matche and the Pallatinate, he receiued <lb/> 
+            another answere from your Ma<ex>jes</ex>tie, wherein he findes <lb/> 
+            lesse groundes to build vpon. And haueing vnderstoode, that <lb/> 
+            either by Padre Maestro or your Ma<ex>jes</ex>ties Ambassadors <lb/> 
+            wh<ex>i</ex>ch haue resided these daies past in his Court, there was <lb/> 
+            somethinge to be propounded and declared touching the <lb/> 
+            busines of the Pallatynate whereby he might receiue <lb/> 
+            satisfaction: The said Ambassadors till  nowe haue not <lb/> 
+            said anythinge at all to purpose, which compareing <lb/> 
+            with other Circumstances of their ill Carriage <lb/> 
+            he gathers and doubtes, that according to the ill affection <lb/> 
+            and depraued intentions wherewith they haue <expan>p<ex>ro</ex>ceeded</expan> <lb/> 
+            in all thinges; but especially in one <expan>p<ex>ar</ex>ticuler</expan> they haue <lb/> 
+            Laboured to hinder the good Correspondencie and soe <lb/> 
+            necessarie and desired Intelligence which shoulde be <lb/> conserued with your Maiestie./
+         </p>
+         <fw type="catch" place="bot-right">Furthermore</fw>
+         <pb n="11v"/>
+         <p>
+            Furthermore he saith That the Kinge his maister hath <lb/> 
+            Comaunded him to giue Accompt to your Ma<ex>jes</ex>tie that in an <lb/> 
+            audience wh<ex>i</ex>ch he gaue to the Marquesse of Inijosa, and Don <lb/> 
+            Carlos Colonna they vnder cloake and p<ex>re</ex>text of zeale and <lb/> 
+            p<ex>ar</ex>ticuler Care of his p<ex>er</ex>son, pretended to discouer vnto him <lb/> 
+            a very great coniuration against his p<ex>er</ex>son and Royall <lb/> 
+            dignitie. And it was, 
+         </p>
+         <p>
+            That at the begining of the p<ex>ar</ex>liament the Duke <lb/> 
+            of Buckingham had consulted with certaine Lordes, of <lb/> 
+            the argumentes and meanes wh<ex>i</ex>ch were to be taken touching <lb/> 
+            the breaking and dissoluing of the treaties of the Pallati=<lb break="no"/>
+            nate and Match; And their Consultations passed soe <lb/> 
+            farr, That if his Ma<ex>jes</ex>tie would not accomodate himselfe <lb/> 
+            to their Counsells, they would giue him a house of pleasure, <lb/> 
+            whether he might retire himselfe to his sportes, in regard <lb/> 
+            that the Prince had nowe yeares sufficient and parts <lb/> 
+            answerable for the good gou<ex>er</ex>ment of the Kingdome./
+         </p>
+         <p>
+            The information was of that quallitie, that it was <lb/> 
+            sufficient to putt impression in him of perpetuall <lb/> 
+            iealousies; in regard that throughe the Ribbs of the <lb/> 
+            Duke he gaue woundes to the Prince his sonne and no=<lb break="no"/>
+            billitie And it is not probable that they could bringe <lb/> 
+            to effect such designes without departing totally from <lb/> 
+            the obligation, faith, and Loyaltie wh<ex>i</ex>ch they owed to his <lb/> 
+            p<ex>er</ex>son and Crowne, because the Lordes made themselues <lb/> 
+            Culpable, as concealers: And it is not like that the <lb/> 
+            Duke would hurle himselfe into such an enterprise <lb/> 
+            without Comunicating first with the Prince and <lb/> 
+            knoweing his pleasure./
+         </p>
+         <p>
+            And because this Information might be made <lb/> 
+            more cleare, he did make many instances to the <lb/> 
+            said Ambassadors, that they would giue him the <lb/> 
+            Authors of the said Coniuration; This beinge the <lb/> 
+            sole meanes whereby their owne honor might be <lb/> 
+            preserued, and wherebye the great zeale and care they <lb/> 
+            p<ex>re</ex>tended to haue of his p<ex>er</ex>son might appeare. But <lb/> 
+            instead of confirminge the great zeale they had <lb/> 
+            p<ex>re</ex>tended to beare him, All the answere they made <lb/> 
+            him consisted of Argumentes against the discouerie <lb/> 
+            of the Conspirators. So that for confirmation of the <lb/> 
+            <fw type="catch" place="bot-right">said</fw>
+            <pb n="12r"/>
+            said Report there remained no other meanes then the <lb/> 
+            examination of some of his Counsell of State and prin=<lb break="no"/>
+            cipall subiectes, wh<ex>i</ex>ch he putt in execution; and made them <lb/> 
+            take oath euery one p<ex>ar</ex>ticulerly in his owne p<ex>re</ex>sence; and <lb/> 
+            comaunded that such interrogateries and questions <lb/> 
+            should be propounded vnto them, that were most p<ex>er</ex>tinent <lb/> 
+            to the accusation; so that neither partes, p<ex>ar</ex>ticle, or Circum=<lb break="no"/>
+            stance remained, wh<ex>i</ex>ch was not exactly examined and winnowed; <lb/> 
+            And he found in the Duke and the rest that were accused, <lb/> 
+            a cleere and sinceere innocency touching the Accusations <lb/> 
+            and Imputations wherewith they were charged./
+         </p>
+         <p>
+            This being soe he turned to make new instances <lb/> 
+            vnto the said Ambassadors, that they should not preferr <lb/> 
+            the discouerie of the names of the conspirators to the <lb/> 
+            securitie of his royall p<ex>er</ex>son, and truth and honor of them=<lb break="no"/>
+            selues, and the hazard of an opinion to be held and iudged <lb/> 
+            the raisers of a plott of such mallice, sedition and dainger <lb/> 
+            But the Ambassadors remained in a knotty kinde <lb/> 
+            of obstinancie, resoluing to conceale the Authors./
+         </p>
+         <p>
+            Neuerthelesse afterwardes he gaue them Audience <lb/> 
+            Wherein the Marquesse of Iniosa tooke his Leave./
+         </p>
+         <p>
+            Few daies after they demaunded newe Audience pre=<lb break="no"/>
+            tending that they had something to say that concerned the <lb/> 
+            publique good, and conduced to the intire restitution <lb/> 
+            of the Pallatinate. And the Kinge his maister, with <lb/> 
+            desire to loose noe oportunitie that might lead there=<lb break="no"/>
+            vnto, and therewith the conseruation and confirmation of <lb/> 
+            the Frendship with your Ma<ex>jes</ex>tie haueing suspended some <lb/> 
+            fewe daies to giue them Audience, thinkeing, that being <lb/> 
+            thereby better aduised, they would resolue upon a wiser <lb/> 
+            course, and declare the Authors of soe <expan>p<ex>er</ex>nitious</expan> an <lb/> 
+            Action: And haueing since made many instances, <lb/> 
+            and attended the successe of so longe Patience, He sent <lb/> 
+            Secretarie Conwaye and S<ex>i</ex>r Francis Cottington <lb/> 
+            secretarie to the Prince, comaunding them, that they <lb/> 
+            should signifie vnto the Ambassadors, that he desired <lb/> 
+            nothinge more then the Continuance of the frendship <lb/> 
+            twixt both Crownes; And that if so be that they had <lb/> 
+            anything to say, that they would comunicate it to the <lb/> 
+            said secretaries, as p<ex>er</ex>sons of soe great trust, wh<ex>i</ex>ch he <lb/> 
+            sent to that end; And if they made difficultie of this, <lb/> 
+            <fw type="catch" place="bot-right">That</fw>
+            <pb n="12v"/>
+            That they would choose amonge his Counsell of state those <lb/> 
+            wh<ex>i</ex>ch they liked best, and he would comaund that they should <lb/> 
+            presently repaire vnto them: And if this likewise did <lb/> 
+            seeme inconuenient to them, that they would send what <lb/> 
+            they had to say to him in a Letter sealed vp by whome should <lb/> 
+            best seeme to them, And he would receave it with his <lb/> 
+            owne handes. But the Ambassadors misbehaueing them=<lb break="no"/>
+            selues in all that was propounded the said Secretaries <lb/> 
+            according to the order wh<ex>i</ex>ch they brought, told them, That <lb/> 
+            they being the Authors of an Information so daingerous <lb/> 
+            and seditious, had made themselues incapable to treate <lb/> 
+            further with the Kinge their maister, And were it not <lb/> 
+            for respect to the King his deere and beloued Brother, <lb/> 
+            and their maister, And in contemplation of their Con=<lb break="no"/>
+            dition as Ambassadors of such a Maiestie, he would and <lb/> 
+            could by the Lawe of Nations, and the right of his owne <lb/> 
+            royall Iustice, proceede against them with such seueritie <lb/> 
+            as their offence deserued: But for the reasons aforesaid <lb/> 
+            he would leaue the reparation thereof to the Iustice of <lb/> 
+            their owne Kinge, of whome he would demaund and require <lb/> 
+            it./
+         </p>
+         <p>
+            In Conformitie whereof, the said Ambassador of the <lb/> 
+            Kinge of <del rend="strikethrough">Spain</del> great Brittaine saith That the Kinge <lb/> 
+            his maister comaunded him to demaund refaction and <lb/> 
+            satisfaction of your ma<ex>jes</ex>tie, against the said Marquesse <lb/> 
+            de Inijosa and Don Carlos Colonna, making your <lb/> 
+            Ma<ex>jes</ex>tie Iudge of the great scandall, and enormous <lb/> 
+            offence wh<ex>i</ex>ch they haue Com<ex>m</ex>itted against him, and against <lb/> 
+            the publique right, and expectes Iustice from your ma<ex>jes</ex>tie <lb/> 
+            in the demonstrations and chastisementes wh<ex>i</ex>ch your <lb/> 
+            Ma<ex>jes</ex>tie shall inflict vpon them: wh<ex>i</ex>ch for his p<ex>ro</ex>ceedinges <lb/> 
+            sake with your Ma<ex>jes</ex>tie, and out of your ma<ex>jes</ex>ties owne <lb/> 
+            vprightnes and goodnes ought to be accepted./
+         </p>
+         <p>
+            Furthermore, he saith, That the Kinge, his maister <lb/> 
+            hath Comaunded him to assure your Ma<ex>jes</ex>tie that <lb/> 
+            till nowe he hath not mingled the Correspondencie and <lb/> 
+            frendshippe wh<ex>i</ex>ch he holdes with your Ma<ex>jes</ex>tie with the <lb/> 
+            faltes and offences of your ministers, but Leaves and <lb/> 
+            restraines them to their owne p<ex>er</ex>sons, And that he rema=<lb break="no"/>
+            ines with your Ma<ex>jes</ex>tie in the same true and antient <lb/> 
+            <fw type="catch" place="bot-right">Frendship</fw>
+            <pb n="13r"/>
+            Frendship and brotherhoode as heretofore, And that he is <lb/> 
+            readie to giue heareing to any thinge that shalbe reason and <lb/> 
+            to answere thereunto, And when your ma<ex>jes</ex>tie is pleased to<lb/> 
+            send your Ambassadors thither he will make them all <lb/> 
+            good intreatie, and receaue them with that Loue thates <lb/> 
+            due./
+         </p>
+         <p>
+             For Conclusion<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>, the said Ambassador humblie be=<lb break="no"/>
+            seechteth your Ma<ex>jes</ex>tie to be pleased to obserue and weighe <lb/> 
+            the care and tendernes wherewith the Kinge his maister <lb/> 
+            proceeded with your Ma<ex>jes</ex>ties Ambassadors, not ob=<lb break="no"/>
+            lidgeing them to precepitate resolutions, but giueing <lb/> 
+            them much time to proue and giue light of that wh<ex>i</ex>ch <lb/> 
+            they had spoken, and besides openinge vnto them many <lb/> 
+            waies, that they might comply with their Authors, if <lb/> 
+            they had any such: wh<ex>i</ex>ch Course if they had taken <lb/> 
+            they might well haue giuen satisfaction to the Kinge <lb/> 
+            his maister, and moderated the so grounded opinion <lb/> 
+            of their ill proceedinges against the Peace and good <lb/> 
+            intelligence and Correspondence betwixt the <lb/> 
+            Crownes./ Madrid the 5.th August: 1624./
+         </p>
+      </body>
+   </text>
+</TEI>

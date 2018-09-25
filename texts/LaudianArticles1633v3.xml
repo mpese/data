@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laudian Articles</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_21935">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 21935</idno>
+                <msName>Nehemiah Wallington book</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <ref target="#BL_Add_MS_35331"/>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="LaudianArticles1633v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS21935.xml">British Library, Additional MS 21935, ff. 10r–11r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="LaudianArticles1633v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, f. 53v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1633-06-11">11 June 1633</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>ecclesiastical conflict</term>
+               <term>liturgy</term>
+               <term>sacrament</term>
+               <term>baptism</term>
+               <term>election</term>
+               <term>Catholic Church</term>
+               <term>ministry</term>
+               <term>church ceremony</term>
+               <term>episcopacy</term>
+               <term>church courts</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-27" who="#SV" status="proofread"/>
+            <change when="2018-01-26" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="62v" facs="/bl/add_ms_35331/add_ms_35331_f062v/add_ms_35331_f062v.jpg"/>
+         <p>
+            <add place="LM">
+               <ref type="hyperlink" target="../texts/LaudianArticles1633v2.xml">see fol:98.(☼)</ref>
+            </add>
+            It is reported that DD: Lawde Archb<ex>ishop</ex> of Canterbury hath a purpose to drawe all <lb/>
+            ministers to subscribe vnto certayne newe positions, and as many as shall refuse <lb/>
+            to bee suspended, or dealte w<ex>i</ex>thall in the highe Com<ex>m</ex>ission, the articles giuen out are <lb/>
+            theise/
+         </p>
+         <p>
+            <add place="LM">
+               article 27: <lb/>
+               An<ex>n</ex>o 1562.
+            </add>
+            1. That they that are baptised are truly regenerated. <note type="commentary" place="inline">No: for tis not the water that washeth away o<ex>u</ex>r sinnes but the <lb/>
+            bloode of Chr<ex>ist</ex> Io:1:26: Iohn bapt: baptised w<ex>i</ex>th water./ Io:1:33. Chr<ex>ist</ex> baptiseth w<ex>i</ex>th the holie ghoste./ Math: 3:11./ Luk:3:16. Mar:1:8./</note>
+         </p>
+         <p>
+            2. That ministers cannot w<ex>i</ex>th a safe conscience administer the sacramente to them that <lb/>
+            doe not kneele./ <note type="commentary" place="inline">howe did Chr<ex>ist</ex>? whitgifte ag<ex>ains</ex>t Cartwright pag:597. saith it is not of the substance of the <lb/>
+               sacram<ex>en</ex>t to administer yt <unclear>Wright</unclear>./</note>
+         </p>
+         <p>
+            3. That a <del rend="strikethrough">Can</del> Can<ex>n</ex>onicall man may possesse more benefices then one/
+         </p>
+         <p>
+            <add place="LM">
+               art: 38. An<ex>n</ex>o <lb/>
+               1562
+            </add>
+            4. That an vnregenerate man hath righte to temporall goodes in Gods courte./
+         </p>
+         <p>
+            5. The ministers power of forgivenesse of sinnes is not merely declaratory./ <lb/>
+            <note type="commentary" place="inline">Iob.34:31:13./ Io:9:31./ ag<ex>ains</ex>t the book of com<ex>m</ex>on prayer.</note>
+         </p>
+         <p>
+            6. That the Order of B<ex>ishop</ex>s is by the Lawe of God.
+         </p>
+         <p>
+            7. That the bowinge att the name of Iesus is a pious ceremony:/
+         </p>
+         <p>
+            8. That the voice of the people is not required to the election of ministers../
+         </p>
+         <p>
+            9. That Christe descended locally into hell./ <note type="commentary" place="inline">This day the shalbee w<ex>i</ex>th me (luk:22:43) in paradise</note>
+         </p>
+         <p>
+            10. That the churche of Rome is a churche truly <sic>truly</sic> soe called./ <note type="commentary" place="inline">as he saith of <lb/>
+               divells is <unclear>saieth</unclear> truly so called Iames 2:19./ The church of Antichrist./</note> 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f062v/add_ms_35331_f062v.jpg"/>
+   </facsimile>
+</TEI>

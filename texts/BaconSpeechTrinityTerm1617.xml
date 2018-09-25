@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Speech in the Star Chamber, Last Day of the Trinity Term</title>
+                <author>
+                    <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+                </author>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc corresp="../mss/BLSloaneMS3522.xml">
+                    <msIdentifier xml:id="BL_Sloane_MS_3522">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Sloane</collection>
+                  <idno>MS 3522</idno>
+                  <msName/>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Sloane MS 3522</p>
+                </msDesc>
+                <listBibl xml:id="mss_witness">
+                    <bibl>
+                        <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Lansdowne_MS_612">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 612</idno>
+                <msName/>
+             </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="BL_Add_MS_18016">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 18016</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                    <bibl>
+                        <msIdentifier xml:id="Alnwick_Castle_MS_10">
+               <country>United Kingdom</country>
+               <settlement>Alnwick</settlement>
+               <repository>Alnwick Castle</repository>
+               <collection/>
+               <idno>MS 10</idno>
+               <msName/>
+            </msIdentifier>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_10.xml">Alnwick Castle,  MS 10, ff. 289r–289v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_526.xml">Alnwick Castle,  MS 526, ff. 8r–12v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS18016.xml">British Library, Additional MS 18016, ff. 91r–94v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 260r–261r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 82r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 208r–209r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 283v–285v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS612.xml">British Library, Lansdowne MS 612, ff. 32r–35v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 64r–68r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb59.xml">Beinecke Library, Osborn fb59</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_692.xml">Bodleian Library,  MS Rawlinson D 692, ff. 97v–98r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ll311.xml">Cambridge University Library,  MS Ll.3.11, ff. 1r–6r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH36.xml">Northamptonshire Record Office,  FH36</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH83.xml">Northamptonshire Record Office,  FH83, ff. 9v–13r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_20.xml">Senate House, University of London,  MS 20, ff. 195v–199r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_290.xml">Senate House, University of London,  MS 290, ff. 47–52</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_300.xml">Senate House, University of London,  MS 300, ff. 65x–79x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_192.xml">Woburn Abbey,  MS 192, pp127–132</ref>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date when="1617">1617</date>
+            </creation>
+            <langUsage>
+                <language ident="EN">English</language>
+                <language ident="LA">Latin</language>
+            </langUsage>
+            <textClass>
+                <keywords n="text-type">
+                    <term>speech</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords n="topic-keyword">
+                    <term>statecraft</term>
+                    <term>officeholding</term>
+                    <term>Star Chamber</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2018-05-24" who="#NM" status="proofread"/>
+                <change when="2017-10-04" who="#RB" status="transcribed"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <pb n="31r"/>
+            <p>
+                <expan>S<ex>i</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> Fraunces Bacon Lord <lb/>Keeper of the great Seale of <lb/>England his Speech in the <lb/>Starrechamber the last Daie <lb/>of Trinitie Terme 1617./.
+            </p>
+            <p>
+                The Kinge by his perfect <expan>declarac<ex>i</ex>on</expan> pub=<lb break="no"/>
+                lished in this place Concerninge Iudges, <lb/>
+                and Iustices hath made the speech of his <lb/>
+                Chauncellor accustomed before the Circuites <lb/>
+                rather of Ceremonye then of vse, For as in <lb/>
+                his Booke to his sonne he hath sett forth <lb/>
+                a true Character and Platforme of a Kinge, <lb/>
+                soe in this his speech he hath done of a Iudge <lb/>
+                and Iustice, <expan>w<ex>hi</ex>ch
+                </expan> sheweth that his <expan>Ma:<ex>jes</ex>tie</expan> <lb/>
+                is Exetentlie able to gouerne in Cheef<lb/>
+                soe he is likewise well seene, and Skil=<lb break="no"/>
+                full in the Inferior Offices, and Stages <lb/>
+                of Iustice, and gouerment which is a thinge <lb/>
+                verie rare in kings./.
+            </p>
+            <p>
+                Yet neuertheles somewhat must be sayed <lb/>
+                to fulfill an ould obseruation but yet upon the <lb/>
+                <fw type="catch" place="bottom">Kinges groundes</fw>
+                <pb n="31v"/>kinges groundes and verie shortelie, for as<lb/>
+                Soloman saieth in another Case in<lb/>
+                theis thinges, who is he that can come after the<lb/>
+                kinge./.
+            </p>
+            <p>
+                <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">(1)</tei:add>First you that are Iudges of Circutes yea <lb/>
+                are as it were the Plannetts of the King=<lb break="no"/>
+                dome I doe you no dishonnor in giuinge you<lb/>
+                that name / And noe doubte you haue<lb/>
+                a great stroke in the Frame of this <expan>gou<ex>ern</ex>m<ex>en</ex>te</expan>
+                <lb/>
+                As the other haue in the great Frame, doe<lb/>
+                therefore, as they doe, moue allwayes, and<lb/>
+                be Carryed with the motion of <expan>yo<ex>u</ex>r</expan> First<lb/>
+                mouer <expan>w<ex>hi</ex>ch</expan> is your soueraigne a Popular<lb/>
+                Iudge is a deformed thinge, and Plau=<lb break="no"/>
+                ditees are fitter for Players then for Ma=<lb break="no"/>
+                gistrates doe goode to the people, loue<lb/>
+                them, and giue them Iustice, But lett<lb/>
+                it be like the Gospelender (nihil inde ex=<lb break="no"/>
+                pectantes) lookinge for noethinge neither<lb/>
+                prayse, nor profitt./.
+            </p>
+            <p>
+                Yet my meaninge is not when I<lb/>
+                wish you to take heede of popularitie that<lb/>
+                you should be Imperious, and strainge to<lb/>
+                <fw type="catch" place="bottom">the gentlemen</fw>
+                <pb n="32r"/>
+                the Gentlemen of the Countrey, you are aboue<lb/>
+                them in Power, but <expan>yo<ex>u</ex>r</expan> Rancke is not much<lb/>
+                <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">=</tei:add>
+                <seg rend="LMRM-line">unequall, and learne this, th<hi rend="underline">at power is euer <lb/>
+                of greatest strength when it is Ciuilly Carrye</hi>d./.</seg>
+            </p>
+            <p>
+                Secondly you must remember that<lb/>
+                besides your ordinary <expan>Administrac<ex>i</ex>on</expan> of<lb/>
+                Iustice, you doe Carry the two Glasses, or<lb/>
+                Mirrors of the State; For it is <expan>yo<ex>u</ex>r</expan> duetie<lb/>
+                in theis <expan>yo<ex>u</ex>r</expan> visitations to represent vnto the<lb/>
+                people the goodnes, and care of the Kinge<lb/>
+                and to represent vnto the Kinge the de=<lb break="no"/>
+                seases, and greifes of his People./.
+            </p>
+            <p>
+                Marke what the kinge saieth in his<lb/>
+                Booke procure reuerence to the kinge, and<lb/>
+                the lawe Informe my People truelie of<lb/>
+                me (<expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan> we knowe is verie hard to<lb/>
+                doe accordinge to the Exelencie of his<lb/>
+                Merritt, but yet <expan>Endeauo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> it,) how zea=<lb break="no"/>
+                lous I am for Religion, how I desire <lb/>
+                lawe may be mainteyned and flourish; that <lb/>
+                euery Courte should haue his owne <expan>Iu=<lb break="no"/>
+                risdicc<ex>i</ex>on</expan>, That euery subiect should submitt<lb/>
+                himself to lawe, And of this you haue<lb/>
+                had of late noe smale occasion of Remem=<lb break="no"/>
+                brance in the great Charge that the kinge<lb/>
+                <fw type="catch" place="bottom">hath giuen</fw>
+                <pb n="32v"/>
+                hath giuen me, beinge <expan>Keep<ex>er</ex>
+                </expan> of his Seale,<lb/>
+                for the gouernance of the Chauncerie<lb/>
+                without Tumor, or Excesse./.
+            </p>
+            <p>
+                Again (e Re nata) yee ought to make<lb/>
+                the people knowe and Consider the Kinges blessed<lb/>
+                Care, and prouidence in gouerninge this<lb/>
+                Realme in his absence; soe that sittinge att the<lb/>
+                helme of another kingdome, not without great<lb/>
+                Affayres, and Businesses there, yet he gouer=<lb break="no"/>
+                neth all thinges by his letters, and directions<lb/>
+                as punctually, and perfectlye as If he<lb/>
+                were present./.
+            </p>
+            <p>
+                I Assure you my lordes of the Councell<lb/>
+                I doe much admire the Execution and<lb/>
+                latitude of his Care in all thinges./.
+            </p>
+            <p rend="indent">
+                In the high Comission he did Con<lb break="no"/>
+                ceiue a sinewe of gouerment was<lb/>
+                a little shrunke, he recommended<lb/>
+                the Care of it./.
+            </p>
+            <p>
+                He hath Called for the Accompts<lb/>
+                of the last Circutes from the Iudges to be<lb/>
+                transmitted unto him in Scotland Touchinge<lb/>
+                the <expan>Infestac<ex>i</ex>on</expan> of Pyrates, he hath bin<lb/>
+                Carefull, and is, and hath put thinges<lb/>
+                in way./.<lb/>
+                <fw type="catch" place="bot-right">All thinges</fw>
+            </p>
+            <p rend="indent">
+                <pb n="33r"/>All thinges that Concerne the<expan>Re:<lb break="no"/>
+                formac<ex>i</ex>on</expan>, and <expan>Plantac<ex>i</ex>on</expan> of Ireland he<lb/>
+                hath giuen in them punctuall, and reso<lb break="no"/>
+                lute direction./.
+            </p>
+            <p>
+                I giue but a few Instances of a publique na<lb break="no"/>
+                ture the secretts of Councell I may not enter <lb/>
+                into, Though his dispatches into Fraunce, Spaine,<lb/>
+                and the lowe Countryes now in his absence,<lb/>
+                are alsoe publique as to the Outward sendinge<lb/>
+                soe that I must Conclude that his <expan>Ma<ex>jes</ex>tie</expan>
+                <lb/>
+                wants but more Kingdomes, for I see he would<lb/>
+                suffice to all./.
+            </p>
+            <p>
+                As for the other glasse which I tould you<lb/>
+                of Representinge to the kinge the greifes of his<lb/>
+                people. without doubt it is properly <expan>yo<ex>u</ex>r</expan> parte, For<lb/>
+                the kinge ought to be Informed of aniethinge a=<lb break="no"/>
+                misse in the State of his Countreys from the<lb/>
+                Obseruations, and <expan>relac<ex>i</ex>ons</expan> of his Iudges, that<lb/>
+                indeed knowe the pulse of the Countrey, rather <lb/>
+                then from discourses, But for this glasse (thankes <lb/>
+                be to God) I doe heare from you all that there <lb/>
+                was neuer greater peace, Obedience, and <lb/>
+                Contentment in the Countrey, though the <lb/>
+                best gouerments be allwayes like the fairest <lb/>
+                Christalls, wherein euery Eye sickle, or graine <lb/>
+                is seene, <expan>w<ex>hi</ex>ch</expan> in a fowle stone is neuver <expan>p<ex>er</ex>ceaved</expan>./. <lb/>
+                <fw type="catch" place="bot-right">Now to</fw>
+            </p>
+            <p>
+                <pb n="33v"/>Now to some <expan>p<ex>ar</ex>ticulars</expan>, and not many of <lb/>
+                of all other thinges, I must begin as the Kinge<lb/>
+                begins, that is, <expan>w<ex>i</ex>th</expan> the Cause of religion, and <lb/>
+                especially the hollowe Church Papists; S<hi rend="superscript">t</hi>:<lb/>
+                Augustine hath a good Comparison of such <lb/>
+                men Affirminge that they are the rootes of <lb/>
+                Nettles. which themselues stinge not, But <lb/>
+                they beare all the stringinge leaues lett me <lb/>
+                knowe of such Rootes, and I will Roote <lb/>
+                them out of the Commission./.
+            </p>
+            <p>
+                Next for Matter of Religion in prin=<lb break="no"/>
+                cipall places I recomend both to you, and <lb/>
+                the Iustices the Contenancinge of godlie, and <lb/>
+                zealous Preachers, I meane not Sectaryes <lb/>
+                or Nouellists, but those that are sound, and <lb/>
+                Conforme, but yet pious, and reuverend for <lb/>
+                there wilbe a perpetuall defection, except yee <lb/>
+                keepe men in by Preachinge, as well as <lb/>
+                laye men in by Punishement, and <expan>Com<ex>m</ex>only</expan> <lb/>
+                sperituall deseases are not cured but by Spe=<lb break="no"/>
+                rituall Remedyes./.
+            </p>
+            <p>
+                Next lett me <expan>Recom<ex>m</ex>end</expan> unto you. the <lb/>
+                Repressinge, as much as may be of <expan>Facc<ex>i</ex>ons</expan> <lb/>
+                in the Countrey, of <expan>w<ex>hi</ex>
+                    <hi rend="superscript">ch</hi>
+                </expan> ensue Infinite Incon=<lb break="no"/>
+                <fw type="catch" place="bot-right">ueniences</fw>
+                <pb n="34r"/>Inconueniences and <expan>perturbac<ex>i</ex>on</expan> of all good <lb/>
+                order, and crossinge of all good seruices in <expan>Co<ex>u</ex>
+                    <hi rend="superscript">rte</hi>
+                </expan>
+                <lb/>
+                or Countrey, or wheresoeuer Cicero, when he was <lb/>
+                Consull had deuised a Fyne remedye a milde<lb/>
+                one, but an effectuall one, and an apt one,<lb/>
+                (eos qui otium perturbant reddam otiosos) those <lb/>
+                that trouble others quiett I will giue them quiett <lb/>
+                they shall haue noethinge to doe. nor noe au=<lb break="no"/>
+                thoritie putt into their hands. If I may knowe <lb/>
+                from you of anye who are in the Country that <lb/>
+                are heads or hands of Factions, or men of Tur=<lb break="no"/>
+                bulent speritts; I shall giue them Ciceroes re=<lb break="no"/>
+                ward, as much as in me is, and putt him out <lb/>
+                of the <expan>Com<ex>m</ex>ission</expan>./.
+            </p>
+            <p>
+                <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="RM">(3)</tei:add>The Third perticular I will remember vnto <lb/>
+                you is, your repayre into the Countrey and <lb/>
+                to <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> liuinge there this <expan>vacac<ex>i</ex>on</expan> accordinge to <lb/>
+                the Kings late <expan>Proclamac<ex>i</ex>on</expan>) though this <lb/>
+                were more needfull att a Christmas, then att <lb/>
+                this tyme For the stronge breath of london nowe <lb/>
+                will driue you to seeke the fresh <add place="above">ayre</add> of the Countrey./. 
+            </p>
+            <p>
+                To Conclude, studdye this the Kinges <lb/>
+                Booke, and studye with <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> selues, how yo<hi rend="superscript">w</hi> <lb/>
+                profitt by it, and all shalbe well; And you <lb/>
+                the Iustices of the Peace in perticular, Lett <lb/>
+                <fw type="catch" place="bot-right">me say</fw>
+                <pb n="34v"/> me saye this unto you, that neuer kinge of <lb/>
+                this Realme did you soe much <expan>honno<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan>, as the <lb/>
+                Kinge hath done you in this his speech by being <lb/>
+                <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> Imediate director, and by soartinge you, <lb/>
+                and <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> seruices with the seruice of Am=<lb break="no"/>
+                bassadors, and neere Attendants, nay more, <lb/>
+                it seemes his <expan>Ma<ex>jes</ex>
+                    <hi rend="superscript">tie</hi>
+                </expan> is willinge to doe the <lb/>
+                State of the Iustices of peace <expan>Honno<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> Actually <lb/>
+                alsoe by bringinge in with tyme the like forme <lb/>
+                of <expan>Com<ex>m</ex>issions</expan> into the gouerment of Scotland <lb/>
+                as the glorious kinge Edward the third did plante <lb/>
+                this <expan>Com<ex>m</ex>ission</expan> heere in England; And <lb/>
+                therefore yee are not fitt to be Copies ex=<lb break="no"/>
+                cept yee be faire Written without Blottes, <lb/>
+                or Blurres, or anythinge unworthy <expan>yo<ex>u</ex>
+                    <hi rend="superscript">r</hi>
+                </expan> <lb/>
+                Authoritie, And soe I will trouble you noe <lb/>
+                longer for this tyme./.
+            </p>
+        </body>
+    </text>
+</TEI>

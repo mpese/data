@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Add MS 29492</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="BL_Add_MS_29492">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 29492</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus>17r-18r</locus>
+                  <title when="1622">Directions for Preachers</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0036">George Abbot, Archbishop of Cantebury</persName>
+                  </author>
+                  <respStmt>
+                     <resp/>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/JamesDirectionsPreachers1622.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="2">
+                  <locus>18r-18v</locus>
+                  <title when="1622">Letters Concerning Recusants</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0021">Lord Keeper Williams, Bishop of Lincoln</persName>
+                  </author>
+                  <respStmt>
+                     <resp/>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/JamesWilliamsLettersRecusants1622.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+              <msItem n="3">
+                  <locus>19r-22r</locus>
+                  <title when="1622">Propositions for the marriage of Prince Charles, with the Pope’s Replies</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0016">James I</persName>
+                  </author>
+                  <author>
+                     <persName corresp="../people/people.xml#P0119">Pope Gregory XV</persName>
+                  </author>
+                  <respStmt>
+                     <resp/>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/JamesIMarriageCharles1622.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="4">
+                  <locus>44r-46v</locus>
+                  <title when="1623">Petition to Blessed Eliza from the Commons of England</title>
+                  <author/>
+                  <respStmt>
+                     <resp/>
+                     <name/>
+                  </respStmt>
+                  <note/>
+                  <link target="../texts/PetitionBlessedEliza1623.xml" type="witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                     
+                  </supportDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote n="1">
+                     <p/>
+                  </handNote>
+                  
+               </handDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+</TEI>

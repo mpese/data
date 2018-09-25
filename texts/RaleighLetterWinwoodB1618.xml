@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Second Letter to Secretary Sir Ralph Winwood</title>
+            <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4108.xml">British Library, Additional MS 4108, f. 113v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 165v–166r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 355r–358v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 17r–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS852.xml">British Library, Harley MS 852, ff. 21r–23v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS3520.xml">British Library, Sloane MS 3520, ff. 9v–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_29598.xml">British Library, Additional MS 29598, ff. 2r–4v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb243.xml">Beinecke Library, Osborn fb243</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_265.xml">Bodleian Library,  MS Tanner 265, ff. 9r–10v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_290.xml">Bodleian Library,  MS Tanner 290, ff. 4r–5v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Hatfield_House_CP_242.xml">Hatfield House,  CP 242, ff. 12r–17v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_36836.xml">Huntington Library,  HM 36836, ff. 112–115</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDMI1881.xml">Somerset Archives,  DD\MI/18/81</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_96.xml">The National Archives,  SP 14/96, /70 [ff.118r–119v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_96.xml">The National Archives,  SP 14/96, /71 [ff.123v–126r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/University_College_Oxford_MS_152.xml">University College,  MS 152 [on deposit at the Bodleian], ff. 158–160</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Sir Walter Raleigh's Sceptick</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1651">1651</date>
+                  <idno type="Wing">R186</idno>
+                  <biblScope unit="page" from="69" to="74">69-74</biblScope>
+                  <biblScope unit="page" from="81" to="97">81-97</biblScope>
+                  <biblScope unit="page" from="109" to="113">109-113</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1657">1657</date>
+                  <idno type="Wing">R180</idno>
+                  <biblScope unit="page" from="158" to="161">158-161</biblScope>
+                  <biblScope unit="page" from="164" to="173">164-173</biblScope>
+                  <biblScope unit="page" from="178" to="181">179-181</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1661">1661</date>
+                  <idno type="Wing">R181</idno>
+                  <biblScope unit="page" from="220" to="223">220-223</biblScope>
+                  <biblScope unit="page" from="226" to="235">226-235</biblScope>
+                  <biblScope unit="page" from="241" to="243">241-243</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1664">1664</date>
+                  <idno type="Wing">R182</idno>
+                  <biblScope unit="page" from="220" to="223">220-223</biblScope>
+                  <biblScope unit="page" from="226" to="235">226-235</biblScope>
+                  <biblScope unit="page" from="241" to="243">241-243</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1669">1669</date>
+                  <idno type="Wing">R183</idno>
+                  <biblScope unit="page" from="220" to="223">220-223</biblScope>
+                  <biblScope unit="page" from="226" to="235">226-235</biblScope>
+                  <biblScope unit="page" from="241" to="243">241-243</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1675">1675</date>
+                  <idno type="Wing">R184</idno>
+                  <biblScope unit="page" from="220" to="223">220-223</biblScope>
+                  <biblScope unit="page" from="226" to="235">226-235</biblScope>
+                  <biblScope unit="page" from="241" to="243">241-243</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1681">1681</date>
+                  <idno type="Wing">R185</idno>
+                  <biblScope unit="page" from="220" to="223">220-223</biblScope>
+                  <biblScope unit="page" from="226" to="235">226-235</biblScope>
+                  <biblScope unit="page" from="241" to="243">241-243</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1618">1618</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>exploration</term>
+               <term>voyages</term>
+               <term>Guiana</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries Concerning the Etcaetera Oath</title>
+            <author>
+               Clergy of the Disocese of London
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, ff. 60r–61v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 69v–73r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS489.xml">British Library, Lansdowne MS 489, ff. 119r–120v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_32093.xml">British Library, Additional MS 32093, ff. 30x–31x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 252r–262r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Jones_17.xml">Bodleian Library,  MS Jones 17, ff. 247r–248v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Nalson_22.xml">Bodleian Library,  MS Nalson 22, ff. 1r–3r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_785.xml">Bodleian Library,  MS Rawlinson C 785, ff. 1r–2v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_353.xml">Bodleian Library,  MS Rawlinson D 353, ff. 144r–145v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_65.xml">Bodleian Library,  MS Tanner 65, ff. 42r–43v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg129.xml">Cambridge University Library,  MS Gg.1.29, reversing the volume, 124v–127v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm410.xml">Cambridge University Library,  MS Mm.4.10, ff. 1r–5r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_VMP_1.xml">Durham University Library, VMP 1, pp15–19</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_XIIA42.xml">Hertfordshire Archives and Local Studies,  XII.A.42, ff8</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_943.xml">Lambeth Palace Library,  MS 943, ff. 595–598</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 360–361</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /89 [ff.187r–191v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /90 [ff.193r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /90 [ff.194r–195v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /91 [ff.196r–197r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /92 [ff.198r–199r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /93 [ff.200r–201v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_25.xml">Woburn Abbey,  MS 25</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term>queries</term>
+               <term>commentary</term>
+               <term>articles</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-30" who="#RB" status="proofread"/>
+            <change when="2018-07-30" who="#RB" status="draft"/>
+            <change when="2018-05-22" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="52v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f052v/harley_ms_4931_f052v.jpg"/>
+         <head rend="align-centre">
+            Quæres propounded by sundry of <ex>th</ex>e Clergy of <ex>th</ex>e Diocesse <lb/>
+            of London, &amp; parts adjacent touching <ex>th</ex>e Oath enjoy_<lb break="no"/>
+            ned by <ex>th</ex>e last Synode Can 6. wherein they unfainedly <lb/>
+            desire satisfaction, that so they may more hearti_<lb break="no"/>
+            ly, &amp; willingly take <ex>th</ex>e said Oath when Authority <lb/>
+            shall tender it unto them, as by that <lb/>
+            Canon it is injoyned. /
+         </head>
+         <p>
+            <add place="LM">1.</add>
+            Whether this Oath be legally imposed, so as to bind all <ex>th</ex>e Clergy to <lb/>
+            take it?
+         </p>
+         <p>
+            The ground of this Quære is, because <ex>tha</ex>t since <ex>th</ex>e submission of <ex>th</ex>e  <lb/>
+            Clergy of this Kingdome <ex>th</ex>e Conuocation is bound by <ex>th</ex>e statute of <lb/>
+            25. Hen: 8. 19. from decreeing, or executing ought repugnant to <ex>th</ex>e <lb/>
+            Customes, Lawes, or Statutes of this Realme; Now we finde not <ex>tha</ex>t <lb/>
+            this Oath is warranted by <ex>th</ex>e Lawes, or Statutes, &amp; so we cannot tell <lb/>
+            whether it be contrary to <ex>th</ex>e Answer of <ex>th</ex>e Petition of Right 3 Caroli, <lb/>
+            &amp; we beleiue it to be contrary to <ex>th</ex>e Customes of <ex>th</ex>e Realme, bec<ex>ause</ex> we take <lb/>
+            <add place="LM">
+               The Title is An Oath for <lb/>
+               preuenting of all Inno_<lb break="no"/>
+               uations &amp;c.
+            </add>
+            it to be altogether new, &amp; never before imposed in this Church, &amp; so it <lb/>
+            crosseth <ex>th</ex>e very<add place="above">x</add> Title of <ex>th</ex>e Canon whereby it is enjoyned. Yea we finde <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  Tom: 3. Concil: par:1: sec: 2. cap. <lb/>
+                  13 pa: 193. edit: Binian: 4o. 1618. <lb/>
+                  Dictum est interea de quibusdam <lb/>
+                  fratribus, quod eos, quos ordinaturi <lb/>
+                  sunt, jurare cogant, quòd digni sint, <lb/>
+                  et contra Canones non sint, facturi <lb/>
+                  et obedientes sint Episcope, qui eos <lb/>
+                  <unclear>-rdinat</unclear>, &amp; Ecclesiæ in qua ordinan_<lb break="no"/>
+                  tur. Quod juramentum quia periculo_<lb break="no"/>
+                  sum est, omnes una inhibemus.
+               </foreign>
+            </add>
+            <ex>tha</ex>t in<add place="above">x</add> <foreign xml:lang="la">Concil<ex>ium</ex> Cabilon<ex>ese</ex> 2 sub Carolo magno cap: 13</foreign> such an Oath was con_<lb break="no"/>
+            demned, &amp; cashiered <hi rend="italic">
+                    <foreign xml:lang="la">quia periculosum</foreign>
+                </hi>. Notwithstanding w<ex>hi</ex>ch Councell <lb/>
+            we doe not scruple <ex>th</ex>e Oath of Canonicall Obedience time out of mind <lb/>
+            continued, &amp; by laudable Custome in this Church duely administred <lb/>
+            to Ministers taking Institution, or receiuing Collation to any Bene_<lb break="no"/>
+            fice w<ex>i</ex>th Cure of soules./
+         </p>
+         <p>
+            <add place="LM">2</add>
+            What is meant by <ex>th</ex>e Doctrine, &amp; Discipline, or Gouernment established in <ex>th</ex>e <lb/>
+            Church of England.
+         </p>
+         <p>
+            The Reasons of this Quære are, 1. we know not whether <ex>th</ex>e Synode meant by <lb/>
+            Doctrine <ex>th</ex>e 39. Articles of 1562. only, according to his Ma<ex>jes</ex>ties Declaration  <lb/>
+            before <ex>th</ex>e Articles anno. 1629. or doe extend it further to other Doctrine  <lb/>
+            authorized, or established; according as his Ma<ex>jes</ex>tie in his late Commission <lb/>
+            under his great seale to <ex>th</ex>e Conuocation directed to enable them to make <lb/>
+            Canons, seemes to enlarge it; &amp; if they doe so extend it, we know not what <ex>tha</ex>t <lb/>
+            other Doctrine is, &amp; so cannot safely sweare to it, or for it, till it be decla_<lb break="no"/>
+            red; nor then further then it may be declared to be taken out of <ex>th</ex>e holy <lb/>
+            Scriptures. Seing by <ex>th</ex>e 21 Article of 1562. we finde not other suffi_<lb break="no"/>
+            cient warrant to ground an Oath upon, although propounded by a Gene_<lb break="no"/>
+            rall Councell.
+         </p>
+         <p>
+            <add place="LM">2</add>
+            We know not whether by Discipline they meane only <ex>th</ex>e Canons &amp; Constitu_<lb break="no"/>
+            tions of <ex>th</ex>e Church, or other things beside; &amp; if <ex>th</ex>e Canons, then what Canons? <lb/>
+            some of <ex>th</ex>e ancient ones being growne out of use, &amp; others altered; neither of <lb/>
+            w<ex>hi</ex>ch (as we conceiue) ought to be, if <ex>th</ex>e Discipline be necessary to salvation, <lb/>
+            &amp; <ex>th</ex>e Canons be<del rend="strikethrough" unit="chars" extent="1"/>ing so many, &amp; at so many, &amp; different times (so far asun_<lb break="no"/>
+            der) made, how can any man sweare to <ex>tha</ex>t part unlesse it be <foreign xml:lang="la">in terminis</foreign> set <lb/>
+            forth, what those be w<ex>hi</ex>ch we sweare unto? If <ex>th</ex>e Discipline containe ought <lb/>
+            else, why is not <ex>tha</ex>t clearely expressed <foreign xml:lang="la">in terminis terminatibus</foreign>?
+         </p>
+         <p>
+            <add place="LM">3</add>
+            Whether is meant <ex>tha</ex>t <ex>th</ex>e Doctrine, &amp; Discipline containe all things <lb/>
+            necessary to salvation <hi rend="italic">
+                    <foreign xml:lang="la">Conjunctim, or Diuisim</foreign>
+                </hi>?
+            <pb n="52v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f052v/harley_ms_4931_f052v.jpg"/>
+            The Reasons of this Quære, 1. <hi rend="italic">If <foreign xml:lang="la">Conjunctim</foreign>
+                </hi>, we doubt of it because we <lb/>
+            take all things necessary to salvation to be contained in <ex>th</ex>e Articles of <lb/>
+            1562. as grounded on holy Scripture (else <ex>th</ex>e Doctrine of <ex>th</ex>e Church of <lb/>
+            England should be insufficient to saluation) &amp; not at all in <ex>th</ex>e Discipline <lb/>
+            as distinct from <ex>th</ex>e Doctrine. Not but <ex>tha</ex>t we yeeld <ex>th</ex>e Discipline to be <lb/>
+            lawfull, but cannot admitte it to be necessary to saluation. And he <ex>tha</ex>t <lb/>
+            will directly sweare it to be in both (as we are required by <ex>th</ex>e Conjunctio<ex>n</ex>  <lb/>
+            &amp; yet beleiues it to be but in one <add place="above">of</add> <ex>th</ex>e two, doth (as we conceiue) coast upon <lb/>
+            perjury; as he <ex>tha</ex>t sweares a summe of mon<add place="above">e</add>y to lye hid in this heape, &amp; <ex>tha</ex>t heape <lb/>
+            of sand, when yet he beleiues it to be hid on one heape only.
+         </p>
+         <p>
+            2 <hi rend="italic">If <foreign xml:lang="la">diuism</foreign>
+                </hi>, then it must be understood of <ex>th</ex>e Doctrine only, or of <ex>th</ex>e <lb/>
+            Discipline only; or of both in different respects seuerally, &amp; apart. If in <lb/>
+            this last sense, we thinke it needfull <ex>tha</ex>t those severall respects be explai<lb break="no"/>
+            ned, &amp; declared to take a way ambiguity, w<ex>hi</ex>ch must not crowd into an Oath. <lb/>
+            And if it be meant but of one of these only, <ex>tha</ex>t ought to be expressed, &amp; <ex>th</ex>e <lb/>
+            other cashiered as superfluous, <ex>tha</ex>t it may not be, as to <ex>tha</ex>t branch a vaine <lb/>
+            Oath. <foreign xml:lang="la">Qui absq<ex>ue</ex> necessitate jurat, peccat</foreign>, say <ex>th</ex>e Casnists, w<ex>hi</ex>ch holds in <lb/>
+            every part of an Oath, as well as in <ex>th</ex>e whole. And how ever it be ta_<lb break="no"/>
+            ken, to enjoyne all to sweare <ex>th</ex>e Discipline to be necessary to salva_<lb break="no"/>
+            tion implyes a Condemnation of all Protestant=Churches abroad, <ex>tha</ex>t <lb/>
+            haue not <ex>th</ex>e same Discipline, or Government, as wanting something ne_<lb break="no"/>
+            cessary to salvation, &amp; <ex>th</ex>e essentiall Being of a true Church. And <lb/>
+            it seemes to be a large, &amp; wide step at first, since <ex>tha</ex>t we haue not <lb/>
+            yet read, nor heard any such position in those termes, so much as by <lb/>
+            bare assertion maintained. And <ex>th</ex>e newnes of <ex>th</ex>e expression makes us <lb/>
+            afraid, especially considering <ex>tha</ex>t ancient Constitution under ArchB<ex>isho</ex>p <lb/>
+            Arundell. <foreign xml:lang="la">Statuimus, et sub obtestatione diuini judicij inhibemus, <lb/>
+            nè quis, vel qui cujuscunq<ex>ue</ex> gradus, status, aut conditionis existat, con_<lb break="no"/>
+            clusiones, aut propositiones de fide Catholicâ, aut bonis moribus adver<lb break="no"/>
+            sè sonantes, præter necessariam doctrinam facultatis suæ in scholis, <lb/>
+            aut extra, disputando, aut com<ex>m</ex>unicando, protestatione præmissâ, <lb/>
+            aut non præmissâ asserat, vel proponat, etiamsi quadam verborum, <lb/>
+            aut terminorum curiositate defendi possint. Nam teste Beato <lb/>
+            Hugone desacram: Sæpius quod benè dicitur, non benè intelligiter</foreign> <lb/>
+            And if nouell expressions must be auoyded in ordinary discourse, <lb/>
+            how much more in an Oath? /   
+         </p>
+         <p>
+            <add place="LM">4</add> What is meant by <ex>tha</ex>t clause (Nor will I ever giue my consent to alter <lb/>
+            <ex>th</ex>e Gouernment of this Church by Arch-Bi<ex>sho</ex>ps, B<ex>isho</ex>ps &amp;c?
+         </p>
+         <p>
+            The Reasons of this Quære, If this promissory clause, I will never <lb/>
+            giue my consent to alter, be sworne absolutely, so as no Reuocation, or <lb/>
+            alteration made herein by his Ma<ex>jes</ex>tie in or out of Parliament at any <lb/>
+            time (if there shall be cause so to doe) shall make us consent to <lb/>
+            such an alteration, we thinke this to be contrary to our Oathes <lb/>
+            of allegiance, &amp; supremacy, &amp; a binding ourselues to resi<add place="above">s</add>t Authori_<lb break="no"/>
+            ty if any alteration shall be hereafter made upon any reason <lb/>
+            whatsoeuer. If it intend only to binde us till such an alteration &amp; <lb/>
+            abrogation of <ex>th</ex>e present Gouernment be made, why is it so peremp_<lb break="no"/>
+            torily sayd, I will never consent, w<ex>hi</ex>ch in ordinary construction is <lb/>
+            for perpetuity, &amp; admitts of no termination unlesse it be expressed.
+            <pb n="53r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f053r/harley_ms_4931_f053r.jpg"/>
+            And albeit Casnists tell us, <ex>tha</ex>t such an Oath (if not limited so inter_<lb break="no"/>
+            mes) binds not if <ex>th</ex>e Gou<add place="above">e</add>rnment be altered by Authority; yet they dare <lb/>
+            not acquitt him of rashnes &amp; sinne, who doth not in swearing so limit <lb/>
+            his words as <ex>tha</ex>t such an alteration be clearely expressed.
+         </p>
+         <p>
+            <add place="LM">5</add>
+            Whether there be <ex>th</ex>e same reason of not consenting to alteration of <lb/>
+            Gou<add place="above">e</add>rnment by Deanes, &amp; Arch=Deacons, as there is of not consenting <lb/>
+            to alter <ex>tha</ex>t of Bi<ex>sho</ex>ps?
+         </p>
+         <p>
+            The Reason, because Deanes, &amp; Arch=Deacones were never esteemed <lb/>
+            such helps in Gouernment, as if they were of <ex>th</ex>e <add place="above">same</add> Institution, &amp; founda_<lb break="no"/>
+            tion. with B<ex>isho</ex>ps, &amp; therefore may more easily be changed, if Autho_<lb break="no"/>
+            rity finde cause, so <ex>tha</ex>t we <add place="above">see</add> not cause to riuett them into <add place="above">th</add>e unalterable <lb/>
+            <add place="LM">
+               Canon: 7:
+            </add>
+            Order by <ex>th</ex>e sacred bond of an Oath. The Canon of 1603. requires no <lb/>
+            more but to acknowledge <ex>th</ex>e Gouernment of <ex>th</ex>e Church not to be repug_<lb break="no"/>
+            nant to <ex>th</ex>e word of God. w<ex>hi</ex>ch Canon is part of <ex>th</ex>e Discipline establi_<lb break="no"/>
+            shed (as we conceiue) &amp; so <ex>tha</ex>t acknowledgement may suffice w<ex>i</ex>thout an <lb/>
+            Oath.     
+         </p>
+         <p>
+            <add place="LM">6</add>
+            What is meant by &amp;c. /
+         </p>
+         <p>
+            The Reason, because we neuer read, or heard, <ex>tha</ex>t an &amp;c was euer put <lb/>
+            into <ex>th</ex>e body of any Oath either among Christians, or Pagans, &amp; doe <lb/>
+            beleiue it to be without all president, &amp; contrary to <ex>tha</ex>t plainenes &amp; per_<lb break="no"/>
+            spicuity w<ex>hi</ex>ch ought to be in all Oathes, for either it imparts some other <lb/>
+            persons or things, w<ex>hi</ex>ch are not named, &amp; then it is an ambiguous Clause, <lb/>
+            w<ex>hi</ex>ch ought not to be admitted into an Oath; or else it signifies nought <lb/>
+            at all, &amp; then it is too vaine, &amp; triuiall for men in so graue an action <lb/>
+            to pawne theire soules upon, &amp; cannot be lesse then taking Gods <lb/>
+            name in vaine, w<ex>hi</ex>ch Clergy=men of all others should most shun, especi_<lb break="no"/>
+            ally in such solemne swearing.
+         </p>
+         <p>
+            <add place="LM">7</add>
+            What is meant by <ex>tha</ex>t clause (As it stands now established, &amp; <lb/>
+            as by Right it ought to stand?
+         </p>
+         <p>
+            The Reasons of this Quære are; 1 It is not cleare whether <unclear>Tò <lb/>
+            vlu<ex>m</ex>
+                </unclear> be meant of any new establishment by <ex>tha</ex>t Synode, or <ex>th</ex>e establish<lb break="no"/>
+            ment by Parliament 1: Eliz: &amp; 8. Eliz: 1 If it be meant of <ex>th</ex>e lat_<lb break="no"/>
+            ter, then 2ly it appeares not what is <ex>tha</ex>t Right by w<ex>hi</ex>ch it ought to <lb/>
+            stand, but only <ex>tha</ex>t w<ex>hi</ex>ch it hath from such an establishment, viz: <lb/>
+            by <ex>th</ex>e positiue Lawes of <ex>th</ex>e Kingdome, w<ex>hi</ex>ch is a meere Tautologye (if <lb/>
+            <ex>tha</ex>t be <ex>th</ex>e meaning) for who doubts, but <ex>tha</ex>t w<ex>hi</ex>ch is established by <ex>th</ex>e Law <lb/>
+            of <ex>th</ex>e Land ought to stand by <ex>th</ex>e Law of <ex>th</ex>e Land? &amp; whether <ex>tha</ex>t <lb/>
+            will content <ex>th</ex>e Reuerend B<ex>isho</ex>ps we much doubt. And if any other <lb/>
+            Right were intended, w<ex>hi</ex>ch we verely beleiue) then ought <ex>tha</ex>t Right to <lb/>
+            be expressed, <ex>tha</ex>t we may know what we sweare unto, especially in a <lb/>
+            poynt so much questioned, &amp; disputed in <ex>th</ex>e world, &amp; not positi_<lb break="no"/>
+            uely decided by this Synode, or any other in this Church of <lb/>
+            England for ought we know.
+         </p>
+         <p>
+            <add place="LM">8</add>
+            Whether our Consents, &amp; suffrages are so inuolued in <ex>th</ex>e New Canons <lb/>
+            &amp; <ex>th</ex>e Oath before mentioned, <ex>tha</ex>t we cannot refuse this Oath?
+         </p>
+         <p>
+            The Reason of this Quære, because we conceiue <ex>th</ex>e late Conuocation <lb/>
+            whereunto we sent our Votes (in <ex>th</ex>e persons of those Clerks chosen
+            <pb n="53v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f053v/harley_ms_4931_f053v.jpg"/>
+            by us to assist therein) ended w<ex>i</ex>th <ex>th</ex>e Parliament May 5th &amp; <ex>tha</ex>t by <ex>th</ex>e dissolution <lb/>
+            of <ex>tha</ex>t Parliament our Votes, &amp; suffrages returned backe to us againe es_<lb break="no"/>
+            pecially considering, <ex>tha</ex>t <ex>th</ex>e first Commission granted to <ex>th</ex>e Conuocation <lb/>
+            April 15. was of force no longer then during <ex>tha</ex>t then present Parlia<lb break="no"/>
+            ment, &amp; <ex>tha</ex>t <ex>th</ex>e <del rend="strikethrough">persons</del> same persons formerly elected for our Clerkes &amp; <lb/>
+            Procuratours in <ex>th</ex>e lower house (<foreign xml:lang="la">ut vulgo dicitur</foreign>) of Conuocation had <lb/>
+            no new Election by <ex>th</ex>e rest of <ex>th</ex>e Clergy, nor any new writt for enabling <lb/>
+            them to continue their Assembly (for ought we can yet finde) but on_<lb break="no"/>
+            ly a new Commission to goe on with <ex>th</ex>e Canons not concluded upon by <lb/>
+            <ex>th</ex>e Synode before <ex>th</ex>e dissoluing of <ex>th</ex>e Parliament. And <ex>tha</ex>t theire 2d <lb/>
+            Com<ex>m</ex>ission beares date May 12th so <ex>tha</ex>t they were not only without au_<lb break="no"/>
+            thority of a writt, &amp; new Election thereupon to continue a lawfull <lb/>
+            Synode, representing <ex>th</ex>e whole Prouince of Cant<ex>erbury</ex> but also without a <lb/>
+            Com<ex>m</ex>ission to make, or perfect Canons formerly begun by <ex>th</ex>e space of a <lb/>
+            whole weeke after <ex>th</ex>e Parliament was dissolued.
+         </p>
+         <p>
+            These Quære’s we finde the more <add place="above">cause</add> to insist upon because of <ex>th</ex>e last Clause <lb/>
+            of <ex>th</ex>e Oath, viz, <ex>tha</ex>t we must sweare all this (according to <ex>th</ex>e plaine, &amp; com_<lb break="no"/>
+            mon sense, &amp; understanding of <ex>th</ex>e same words, &amp; <ex>tha</ex>t heartily, willingly, &amp; <lb/>
+            truely, upon <ex>th</ex>e faith of a Christian, w<ex>hi</ex>ch we cannot doe till <ex>th</ex>e former <lb/>
+            doubts be cleared, &amp; <ex>th</ex>e Oath made so plaine, <ex>tha</ex>t we cannot mistake <ex>th</ex>e <lb/>
+            meaning, w<ex>hi</ex>ch is now so amphibolos <ex>tha</ex>t we cannot understand <ex>th</ex>e meaning <lb/>
+            so as to aduenture an Oath upon it, in case it should appeare to be law_<lb break="no"/>
+            full, &amp; meete (w<ex>hi</ex>ch we doubt) to multiply Oathes, or Decisions de fide <lb/>
+            beyond great, &amp; unauoydable necessity./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f052r/harley_ms_4931_f052r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f052v/harley_ms_4931_f052v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_4931_part/harley_ms_4931_f053r/harley_ms_4931_f053r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_4931_part/harley_ms_4931_f053v/harley_ms_4931_f053v.jpg"/>
+   </facsimile>
+</TEI>

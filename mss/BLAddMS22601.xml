@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Add MS 22601</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Add_MS_22601">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22601</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>7r-7v</locus>
+                   <title when="1606-06-01">The Tilting Challenge</title>
+                      <author>
+                         <persName corresp="../people/people.xml#P0081">
+                            Ludovic Stewart, 2nd Duke of Lennox
+                         </persName>
+                      </author>
+                      <author corresp="../people/people.xml#P0080">
+                         <persName>
+                            Thomas Howard, 21st Earl of Arundel
+                         </persName>
+                      </author>
+                      <author>
+                         <persName corresp="../people/people.xml#P0079">
+                            William Herbert, 3rd Earl of Pembroke
+                         </persName>
+                      </author>
+                      <author>
+                         <persName corresp="../people/people.xml#P0020">
+                            Philip Herbert, 1st Earl of Montgomery
+                         </persName>
+                      </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/TiltingChallenge1606.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1606-06-01"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>10v-11v</locus>
+                   <title when="1603-05-07">The Poor Man's Petition</title>
+                      <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/PoorMansPetition1603.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1606-06-01"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>12r-17r</locus>
+                   <title when="1603" notAfter="1603-09">Advertisements of a Loyal Subject to his Gracious Soveraign Drawn from Observations of the People's Speeches</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/AdvertisementsLoyalSubject1603v1.xml" type="t_witness"/>
+                   <link target="../texts/AdvertisementsLoyalSubject1603v2.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1603-09"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>17r-18r</locus>
+                   <title when="1604">Letter to James after his Condemnation</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0017">
+                         Sir Walter Raleigh
+                      </persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RaleighLetterCondemnation1604.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1604"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22601_part/add_ms_22601_f007r/add_ms_22601_f007r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22601_part/add_ms_22601_f007v/add_ms_22601_f007v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22601_part/add_ms_22601_f011r/add_ms_22601_f011r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22601_part/add_ms_22601_f011v/add_ms_22601_f011v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22601_part/add_ms_22601_f012r/add_ms_22601_f012r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22601_part/add_ms_22601_f012v/add_ms_22601_f012v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22601_part/add_ms_22601_f013r/add_ms_22601_f013r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22601_part/add_ms_22601_f013v/add_ms_22601_f013v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_22601_part/add_ms_22601_f014r/add_ms_22601_f014r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22601_part/add_ms_22601_f014v/add_ms_22601_f014v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22601_part/add_ms_22601_f015r/add_ms_22601_f015r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22601_part/add_ms_22601_f015v/add_ms_22601_f015v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_22601_part/add_ms_22601_f016r/add_ms_22601_f016r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_22601_part/add_ms_22601_f016v/add_ms_22601_f016v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_22601_part/add_ms_22601_f017r/add_ms_22601_f017r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_22601_part/add_ms_22601_f017v/add_ms_22601_f017v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_22601_part/add_ms_22601_f018r/add_ms_22601_f018r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_22601_part/add_ms_22601_f018v/add_ms_22601_f018v.jpg"/>
+   </facsimile>
+</TEI>

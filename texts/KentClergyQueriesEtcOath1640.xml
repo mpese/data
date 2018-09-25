@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries about the Etcaetera Oath</title>
+            <author>
+               Kentish Ministers
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 7r–8r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 180r–181r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /87 [ff.181r–183r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_461.xml">The National Archives,  SP 16/461, /88 [ff.184r–185r]</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName corresp="../places/places.xml#PL0017">Kent</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>queries</term>
+               <term>commentary</term>
+               <term>articles</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>The Etcaetera Oath</term>
+               <term>oaths</term>
+               <term>church government</term>
+               <term>episcopacy</term>
+               <term>church ministers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="58r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f058r/harley_ms_4931_f058r.jpg"/>
+         <head>
+            Other Quæries about the same new Oath <lb/>
+            Supposed to be from y<hi rend="superscript">e</hi> Kentish ministers./
+         </head>
+         <p>
+            <add place="LM">
+               1:
+            </add>
+            Qr Whether it be lawfull to take an oath w<ex>i</ex>th &amp;c, where <lb/>
+            ther may bee a doubt of how much is thereby signified?
+         </p>
+         <p>
+            <add place="LM">
+               2:
+            </add>
+            Whether to affirme in an oath that such a thing ought by <lb/>
+            right so to stand doth not suppose it to be divine right?
+         </p>
+         <p>
+            <add place="LM">
+               3:
+            </add>
+            Whether it be lawfull <add place="above">to</add> sweare the perpetuall maintaining of <lb/>
+            any ordinance meerely Eccl<ex>esiast</ex>i<ex>c</ex>all?
+         </p>
+         <p>
+            <add place="LM">
+               4:
+            </add>
+            Whether the superiority of Archb<ex>isho</ex>ps aboue B<ex>isho</ex>ps, and the <lb/>
+            substitution of Deanes, and Arch Deacons &amp;c be not meerly <del rend="strikethrough">Eccl</del> <lb/>
+            Eccl<ex>esiast</ex>i<ex>c</ex>all?
+         </p>
+         <p>
+            <add place="LM">
+               5:
+            </add>
+            Whether Divine Authority onely ordaining B<ex>isho</ex>ps to be Church <lb/>
+            Governours, perticularly in point of Excom<ex>municati</ex>on it be lawfull to con-<lb break="no"/>
+            sent any more to any other Governo<ex>u</ex>rs Eccleciasticall to exercise <lb/>
+            the same authority of Excom<ex>municati</ex>on?
+         </p>
+         <p>
+            <add place="LM">
+               6:
+            </add>
+            Whether since the Church of England rejects y<hi rend="superscript">e</hi> lay Elders of <lb/>
+            other Churches it doeth not thereby condemne giving any power <lb/>
+            to chancellours Comissarys, and officialls who are meerly lay men to <lb/>
+            medle in Excommunication even jointly with ministers much lesse as chife <lb/>
+            the Surrogates being but their deputies and assistants.
+         </p>
+         <p>
+            <add place="LM">
+               7
+            </add>
+            Whether any scripture doth authorize such power given to a very lay <lb/>
+            man
+         </p>
+         <p>
+            <add place="LM">
+               8:
+            </add>
+            Whether having sworne to y<hi rend="superscript">e</hi> Kings supreamacy in all causes Eccle-<lb break="no"/>
+            siaticall it be not a violation of y<hi rend="superscript">e</hi> oath, or at least a hazzard of it in <lb/>
+            time to come to sweare not to giue consent to such an alteration in goverm<ex>en</ex>t <lb/>
+            as may at least possibly be thought fitt and even commanded with all <lb/>
+            authority by y<hi rend="superscript">e</hi> Kinge, or any successor of his heereafter
+         </p>
+         <p>
+            <add place="LM">
+               9
+            </add>
+            Whether experience shewing that y<hi rend="superscript">e</hi> goverm<ex>en</ex>t of Chancellours &amp;c <lb/>
+            hath not advantaged y<hi rend="superscript">e</hi> Kingdome of Christ, nor religion and piety <lb/>
+            nor suppressed vice, but rather y<hi rend="superscript">e</hi> contrary? whether it be law-<lb break="no"/>
+            full to consent actually to thir continuance, and much lesse to sweare <lb/>
+            their perpetuall continuance?
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f058r/harley_ms_4931_f058r.jpg"/>
+   </facsimile>
+</TEI>

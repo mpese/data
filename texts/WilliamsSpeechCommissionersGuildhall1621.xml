@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to the Commissioners at the Guild Hall</title>
+            <author>
+               <persName corresp="../people/people.xml#P0021">John Williams, Bishop of Lincoln</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS4149.xml">
+               <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 4149</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_156">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 156</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_G_b_9">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS G.b.9</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_556.xml">Alnwick Castle,  MS 556, pp111–114</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_156.xml">British Library, Stowe MS 156, ff. 62v–65v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_d_144.xml">Bodleian Library,  MS Eng. hist. d. 144, ff. 77r–78v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_723.xml">Bodleian Library,  MS Rawlinson D 723, ff. 29r–30v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 205v–210r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Cl_LP_18.xml">Nottingham University Library, Cl LP 18</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_20.xml">Senate House, University of London,  MS 20, ff. 248v–254r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1621-07-30">August 1621 [i.e. 30 July 1621]</date>
+            <placeName corresp="../places/places.xml#PL0034">Guildhall, London</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>taxation</term>
+               <term>subsidies</term>
+               <term>royal finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-22" who="#SV" status="proofread"/>
+            <change when="2018-04-27" who="#RB" status="draft"/>
+            <change when="2018-04-17" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="323r" facs="/bl/add_ms_4149_part/add_ms_4149_f323r/add_ms_4149_f323r.jpg"/>
+         <head rend="align-centre">
+            <add place="header">
+               An<ex>n</ex>o xix Iacobi
+            </add>
+            <hi rend="italic">
+               The Bishope of Lincolne Lorde Keeper of the <lb/>
+               great seale of Englande his speeche in the yeilde <lb/>
+               hall of London for the Colectinge of the sub=<lb break="no"/>
+               sedij the <space unit="chars" extent="3"/> Day of August An<ex>n</ex>o <hi rend="underline">1621</hi>.
+            </hi>
+         </head>
+         <p>
+            My Lordes and Gentlemen.
+         </p>
+         <p>
+            I shall not neede to speake many wordes, vpon <lb/>
+            the occasion of this o<ex>u</ex>r meeting, You haue heard <lb/>
+            by the reading of the Comission, that it is a <lb/>
+            gathering of a part of that Subsidie, w<ex>hi</ex>ch <lb/>
+            was graunted by the parliament, as yet <lb/>
+            assembled, as a supplie and a support to the <lb/>
+            manifold occasions of the kinges expences. /
+         </p>
+         <p>
+            Payment of Subsedies is no newe thing, <lb/>
+            but hath his begynnyng from the lawe of God, <lb/>
+            the Lawe of reason, and the contynuall practise <lb/>
+            of this Kingdome. Now for Godes Lawe it <lb/>
+            is apparant by the demonstrations of St Paule <lb/>
+            in the 13. to the <hi rend="italic">Romans the .6. &amp; .7. verses:</hi> <lb/>
+            Princes are Godes servantes, attending con=<lb break="no"/>
+            tynually vpon great and weightie busynesses, <lb/>
+            Render therefore (saith the Apostle) a <lb/>
+            Tribute to whome tribute belongeth; and <lb/>
+            custome to whome custome is due, where  <lb/>
+            eu<ex>er</ex>y word hath his full weight, and would <lb/>
+            be putt into the ballance. /
+         </p>
+         <p>
+            First Princes they are servantes, and to <lb/>
+            deny that w<ex>hi</ex>ch is due vnto s<ex>er</ex>vantes is scarce <lb/>
+            honestie; Secondly they are Godes  <lb/>
+            s<ex>er</ex>vantes, and to deny that w<ex>hi</ex>ch is due vnto <lb/>
+            <fw type="catch" place="bot-right">Godes
+                </fw>
+            <pb n="323v" facs="/bl/add_ms_4149_part/add_ms_4149_f323v/add_ms_4149_f323v.jpg"/>
+            Godes servantes is impietie; Thirdly they <lb/>
+            are contynually attending (that is) diligent <lb/>
+            servantes, and to deny that w<ex>hi</ex>ch is due vnto <lb/>
+            diligent servantes, is a strange kind of obstinacy. <lb/>
+            Fourthly they are servantes attending vpon <lb/>
+            the Church, and comon wealth, and to denye <lb/>
+            that w<ex>hi</ex>ch is due to such servantes of the <lb/>
+            Church and Comon<del rend="strikethrough">alty</del> welth, is Titanisme <lb/>
+            and Barbarrity (and princes are all <lb/>
+            these) Besides o<ex>u</ex>r Sauio<ex>u</ex>r Christ when <lb/>
+            he lived vpon the earth, neuer for ought <lb/>
+            wee read, handeled any Coyne with his blessed <lb/>
+            handes except that <hi rend="italic">Denarium </hi>or tribute <lb/>
+            <hi rend="italic">
+                    <unclear>munis Tovonibuæ Tu<ex>m</ex> xnvbs</unclear>
+                </hi>) Math. 22.19: that  <lb/>
+            Coyne was like vnto that Spanish Royall <lb/>
+            Invented by <hi rend="italic">Augustus</hi>, or as some thinke by <lb/>
+            <hi rend="italic">Tiberius</hi>. A Subsedye gathered towardes <lb/>
+            the building of the pallace, this o<ex>u</ex>r blessed <lb/>
+            Sauiour handeled, and all owed the imposi=<lb break="no"/>
+            tions, and the vse, as it appeareth by these <lb/>
+            wordes; <hi rend="italic">Giue vnto Cæsar that which is  <lb/>
+            Cæsars</hi>; soe that the payment of subsedies is <lb/>
+            grounded on the lawe of God. /
+         </p>
+         <p>
+            And for the Lawe of reason, compared to the <lb/>
+            Lawe of God, is like the dawning of the <lb/>
+            daie, to the breake of the morning, it is the <lb/>
+            same light, but a little more clowded, or of <lb/>
+            the same ground; and the lawe of reason <lb/>
+            teacheth vs, that they who care for all <lb/>
+            must be releeued by all; there is a  <lb/>
+            pollitique body, as well as a naturall body <lb/>
+            and as eu<ex>er</ex>y vayne of the body must be  <lb/>
+            <fw type="catch" place="bot-right">content</fw>
+            <pb n="324r" facs="/bl/add_ms_4149_part/add_ms_4149_f324r/add_ms_4149_f324r.jpg"/>
+            content to bleede a little for the conser=<lb break="no"/>
+            vation of the whole; soe eu<ex>er</ex>y particular <lb/>
+            p<ex>er</ex>son must be content to emptie themselues <lb/>
+            a little, for the conservation of the land, wee <lb/>
+            all owe wages to o<ex>u</ex>r servantes and beare them <lb/>
+            out in their casualties, and adventures; And <lb/>
+            the <hi rend="italic">Philosopher </hi>saith: <hi rend="italic">Domus est Initius <lb/>
+            reipublicæ</hi>, eu<ex>er</ex>y family is a broode egge of <lb/>
+            the Com<ex>m</ex>on wealth;  now if wee deale soe <lb/>
+            iustly, and take such care for the private, <lb/>
+            lett vs not turne <hi rend="italic">Nabals</hi> to the publique; <lb/>
+            For the contynuall practize of this kingdom <lb/>
+            it is not vnknowne to many here p<ex>re</ex>sent, <lb/>
+            (whoe by reason of their Ciuill life, cannott <lb/>
+            but be conversant, in o<ex>u</ex>r native Histories) <lb/>
+            that o<ex>u</ex>r kinges of old, were not wont to receaue <lb/>
+            but to impose subsedies, for when the <hi rend="italic">Saxon</hi> <lb/>
+            Kinges wanted any releefe, towardes the re=<lb break="no"/>
+            payring of their Citties, Castles, bridges, <lb/>
+            and military expeditions, they imposed it <lb/>
+            vpon the people, as appeareth: by these <lb/>
+            ould names, the remainders of ould tymes  <lb/>
+            <hi rend="italic">Bridgbook</hi>, <hi rend="italic">burghbooke</hi>, <hi rend="italic">hidag</hi>, <hi rend="italic">Dangeld</hi>, and <lb/>
+            such like w<ex>hi</ex>ch meetes vs in o<ex>u</ex>r bookes euery <lb/>
+            where; The <hi rend="italic">Normans</hi> whoe you maye <lb/>
+            sweare lost nothing of their owne, imposed <lb/>
+            these subsedyes, as occasion required, For <lb/>
+            <hi rend="italic">William the Conqueror</hi> imposed <hi rend="italic">Six s.</hi> vpon <lb/>
+            euery hide of land; hee had <hi rend="italic">ex vna quaq<ex>ue</ex> <lb/>
+            hida sex sollid<ex>orum</ex>
+                </hi>. saith <hi rend="italic">math<ex>ew</ex> Parris</hi>, <hi rend="italic">William <lb/>
+            Rufus</hi> he had <hi rend="italic">auxilium suæ terræ</hi>, that is <lb/>
+            an ayd of his land, without any act of <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="italic">Parliament</hi>
+                </fw>
+            <pb n="324v" facs="/bl/add_ms_4149_part/add_ms_4149_f324v/add_ms_4149_f324v.jpg"/>
+            <hi rend="italic">Parliament</hi>, as <hi rend="italic">Hindon</hi> reportes in the life <lb/>
+            of H<ex>enry</ex> the .2. this manner of subsedie <lb/>
+            the <hi rend="italic">Normans</hi> kept and observed vntill the <lb/>
+            tyme of King <hi rend="italic">John</hi>, whoe in his great <lb/>
+            Charter of Liberties, made a voluntary <lb/>
+            act to impose noe subsedies but <hi rend="italic">per com<ex>m</ex>une <lb/>
+            consiliu<ex>m</ex> Regni</hi>. /
+         </p>
+         <p>
+            As appeares by <hi rend="italic">Math<ex>ew</ex> Parris</hi>, hence the <lb/>
+            old statute of 51 .H<ex>enry</ex> the .3.<hi rend="italic"> de Tallage</hi> <lb/>
+            of imposing noe subsedies, without the con=<lb break="no"/>
+            sent of the .3. estates had its begynnyng, <lb/>
+            w<ex>hi</ex>ch confirmed by the statute of 25. of <lb/>
+            <hi rend="italic">Edward the</hi> .1. hath euermore contynued <lb/>
+            in vse, betwixt the people and good kinges <lb/>
+            of this Realme vnto this daie. /
+         </p>
+         <p>
+            Nowe the motives Indusing the p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            to p<ex>re</ex>sent his Ma<ex>jes</ex>tie with these subsedies are <lb/>
+            sett downe in the p<ex>re</ex>amble, and weare inlar=<lb break="no"/>
+            ged vnto you, I doubt not, but that noble <lb/>
+            and learned Lo<ex>rd</ex> when you were prepared <lb/>
+            for the gathering of the former subsidies, <lb/>
+            and therefore I shall not need to speake  <lb/>
+            much. /
+         </p>
+         <p>
+            1.	You must remember that these .19. <lb/>
+            Yeres, vnder the protecc<ex>i</ex>on of o<ex>u</ex>r gra=<lb break="no"/>
+            tious soueraigne, wee haue enioyed <lb/>
+            <space unit="chars" extent="5"/> daies and peace, euery man hath <lb/>
+            lived vnder his owne vyne, and vnder the <lb/>
+            shade of his owne figtree, and the voyce <lb/>
+            of the turtell hath byn heard in o<ex>u</ex>r land <lb/>
+            and <hi rend="italic">tributum est pr<ex>e</ex>tium pacis</hi>, saith <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="italic">Osorius</hi>
+                </fw>
+            <pb n="325r" facs="/bl/add_ms_4149_part/add_ms_4149_f325r/add_ms_4149_f325r.jpg"/>
+            <hi rend="italic">Osorius</hi> in his 5. booke, Subsedyes are <lb/>
+            but salaryes, w<ex>hi</ex>ch wee paie vnto princes <lb/>
+            as paymentes for o<ex>u</ex>r peace. /
+         </p>
+         <p>
+            2.	You must remember that these 10. <lb/>
+            yeres, the King hath lived, as one wrytes <lb/>
+            of the Oyster <hi rend="italic">proprio suo</hi> with his owne <lb/>
+            moysture, without maintenance or support, <lb/>
+            besides the ordinary revenewes of the <lb/>
+            Crowne (I thinke it will trouble any <lb/>
+            man here to find out soe long a cessation <lb/>
+            of Subsedies, in the raignes of o<ex>u</ex>r Kinges <lb/>
+            and Queenes, from the Conqueror to o<ex>u</ex>r <lb/>
+            soueraigne. /
+         </p>
+         <p>
+            3. You must remember these contynuall <lb/>
+            exhaustmentes vpon great Ambassadors, <lb/>
+            whereby he hath purchased vnto vs by <lb/>
+            the effusion of his Treasure, that peace <lb/>
+            w<ex>hi</ex>ch was wont to cost vs the effusion  <lb/>
+            of blood. /
+         </p>
+         <p>
+            4. You must remember the soe many <lb/>
+            strange p<ex>re</ex>sidentes of exemplary iustice, <lb/>
+            whereby his ma<ex>jes</ex>t<ex>i</ex>es reigne, hath byn much <lb/>
+            beautified and adorned, and Iustice in a <lb/>
+            Kingdom, of all thinges on the earth, comes <lb/>
+            nearest to that pearle, that the wise man <lb/>
+            in the Ghospell would sell all to p<ex>ur</ex>chase. /
+         </p>
+         <p>
+            5. You must remember the p<ex>re</ex>sent estate <lb/>
+            of his ma<ex>jes</ex>ties Exchequer, w<ex>hi</ex>ch I note, <lb/>
+            not to displaye his wantes, but to extoll <lb/>
+            his goodnesse, <hi rend="italic">non nosti Longas regibus</hi> <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="italic">esse</hi>
+                </fw>
+            <pb n="325v" facs="/bl/add_ms_4149_part/add_ms_4149_f325v/add_ms_4149_f325v.jpg"/>
+            <hi rend="italic">esse manus</hi>; Doe you not knowe, that Kinges <lb/>
+            haue long handes, if they list to vse them, <lb/>
+            this is that w<ex>hi</ex>ch made <hi rend="italic">Plinie</hi> saie <hi rend="italic">fassi <lb/>
+            nunquam mala causa nisi sub bone prince=<lb break="no"/>
+            pe</hi>, the cause of the Exchequer is neu<ex>er</ex> <lb/>
+            bad, but when the prince is good and gratious. /
+         </p>
+         <p>
+            6. You must remember, and he is a <lb/>
+            villaine that will not remember, his <lb/>
+            ma<ex>jes</ex>ties last proclamac<ex>i</ex>on, w<ex>hi</ex>ch I maye <lb/>
+            call his proclamac<ex>i</ex>on of grace, wherein <lb/>
+            besides many causions of Expedic<ex>i</ex>on of <lb/>
+            Iustice, and favo<ex>u</ex>r in releeving of trades <lb/>
+            and many significations of his care ou<ex>er</ex> <lb/>
+            his people, hath voluntarily and freely <lb/>
+            out of his goodnes, proclaymed 37. revo=<lb break="no"/>
+            cations of monopolies, pattentes, and suppo=<lb break="no"/>
+            sed greevances, w<ex>hi</ex>ch 37. Revocations thus <lb/>
+            linked together, and hung about the <lb/>
+            neck of o<ex>u</ex>r state, makes up that <hi rend="italic">catena <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">aurea</hi>, such a Chaine of pearle, as noe <lb/>
+            com<ex>m</ex>on welth vnder heauen, but would <lb/>
+            willingly buy vp with as many subsedies; /
+         </p>
+         <p>
+            These (Gentlemen) are tokens, graces <lb/>
+            and tastes of his ma<ex>jes</ex>ties fauo<ex>u</ex>r vpon all <lb/>
+            in generall, but he hath powred out more <lb/>
+            especiall favo<ex>u</ex>rs vpon yo<ex>u</ex>r Cittie in p<ex>ar</ex>ti=<lb break="no"/>
+            cular <hi rend="italic">Posuit te tanquam an<ex>n</ex>ullam in <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">dextra</hi>, he placeth yo<ex>u</ex>r Cittie as a <lb/>
+            bracelett on his arme, and <add place="above">as</add> his signett <lb/>
+            <fw type="catch" place="bot-right">on his</fw>
+            <pb n="326r" facs="/bl/add_ms_4149_part/add_ms_4149_f326r/add_ms_4149_f326r.jpg"/>
+            on his right hand, and hath walled it about <lb/>
+            with soe many privelidges, prerogatiues <lb/>
+            minuities and Charters, as Roome of old <lb/>
+            was said to be <hi rend="italic">Epitome totius orbis</hi>, a short <lb/>
+            abridgment of the whole world. /
+         </p>
+         <p>
+            Loe this Cittie is as he said of Athens <lb/>
+            <unclear>ΤΠς ΕΛΛαδοςς ΕΛΛας</unclear>, the very England of <lb/>
+            Englandes, and at this daie the very treasury <lb/>
+            and storehouse of all the kingdome, soe <ex>tha</ex>t <lb/>
+            there needes noe more motives for the <lb/>
+            gathering of this part of the subsedies. /
+         </p>
+         <p>
+            Nowe I come to the sesuall circumstances <lb/>
+            concerning these subsedies, w<ex>hi</ex>ch are 2. <lb/>
+            1. the p<ex>er</ex>sons. 2. the som<ex>m</ex>es. /
+         </p>
+         <p>
+            For the persons, w<ex>hi</ex>ch are not considered <lb/>
+            <hi rend="italic">vno ordine</hi> with a difference, for they <lb/>
+            are either <hi rend="italic">filij Regis</hi> or <hi rend="italic">aliem natiues <lb/>
+            or aliens</hi>, and these ither denizens, and <lb/>
+            these either sesuable by rate, or by <lb/>
+            Polle; now this distinction of strangers <lb/>
+            was in Christes tyme, he tooke notice of <lb/>
+            it, math<ex>ew</ex> .17.25. and good reason that <lb/>
+            strangers should somewhat exceede <lb/>
+            the native, for looke what good lawes  <lb/>
+            they haue established, by spilling of <lb/>
+            their owne blood, and their ancesto<ex>u</ex>rs, <lb/>
+            what fauo<ex>u</ex>rs they haue procured from <lb/>
+            their good Kinges and princes, what puri=<lb break="no"/>
+            tie of religion they haue settled by <lb/>
+            the martyrdom of their Forefathers, <lb/>
+            <fw type="catch" place="bot-right">to all</fw>
+            <pb n="326v" facs="/bl/add_ms_4149_part/add_ms_4149_f326v/add_ms_4149_f326v.jpg"/>
+            to all this milke and hony, to all these <lb/>
+            graces spirituall and Temporall is <lb/>
+            the stranger admitted at the first hower; <lb/>
+            Therefore grudge not to giue a little <lb/>
+            when you finde freely you enioye soe <lb/>
+            much; besides if you reflect vpon the <lb/>
+            p<ex>re</ex>sent state of Christendome, w<ex>hi</ex>ch  I <lb/>
+            beseech almightie God to settle and <lb/>
+            compose, me thinkes it resembles the <lb/>
+            Kingdom of Egipt, clowded and co=<lb break="no"/>
+            uered with clowdes of Darknes, and <lb/>
+            ratteling of armo<ex>u</ex>r; But this Iland <lb/>
+            is <hi rend="italic">officina pacis</hi> a nest of peace, where <lb/>
+            all the scattered strangers are glad <lb/>
+            to <del rend="strikethrough">reserve</del> <add place="above">receaue</add> for a refuge; now blessed <lb/>
+            be God, and o<ex>u</ex>r gratious soueraigne, <lb/>
+            vnder whose protection, wee haue <lb/>
+            equally enioyed theise blessinges of peace. /
+         </p>
+         <p>
+            Nowe I come from the person to the <lb/>
+            summes, w<ex>hi</ex>ch be lowe and easie, arising <lb/>
+            either out of landes, or goodes Landes <lb/>
+            if they be worth xx s.  p<ex>er</ex> annu<ex>m</ex>, and goodes <lb/>
+            amounting to 3 li. besides s<ex>er</ex>vantes and <lb/>
+            children of strangers, w<ex>hi</ex>ch shall paie <lb/>
+            4d. by the poll, all these portions and <lb/>
+            proportions, these doe fall out soe easie <lb/>
+            and soe small, that they forbeare lopp=<lb break="no"/>
+            ing and topping, and take only the pru=<lb break="no"/>
+            ninges, but Landes are of a higher rate <lb/>
+            <fw type="catch" place="bot-right">then goodes
+                </fw>
+            <pb n="327r" facs="/bl/add_ms_4149_part/add_ms_4149_f327r/add_ms_4149_f327r.jpg"/>
+            then goodes, for <hi rend="italic">terra manet in eternu<ex>m</ex>
+                </hi> <lb/>
+            and euer since that blessing in the 1. of <lb/>
+            Genesis the .11. Landes haue byn the <lb/>
+            most fructifying, returning all possessi=<lb break="no"/>
+            ons, but goodes are called <hi rend="italic">Mobilia</hi>, moveable <lb/>
+            fortunes, because they are further of <lb/>
+            from eternitie then Landes, they are <lb/>
+            of a more fading, flitting nature, and <lb/>
+            that is the goodnes of God to vs, that <lb/>
+            they are no more p<ex>er</ex>manent and fixed, for <lb/>
+            by the due considerac<ex>i</ex>on of thinges here <lb/>
+            belowe, wee are drawne to more certein=<lb break="no"/>
+            ty of thinges aboue, now the 5. Leviable <lb/>
+            from the landes of natives, is 2s. 8d.; from <lb/>
+            a stranger .5s. 4d. halfe as much more,  <lb/>
+            for the goodes of natives 20d. of a stran=<lb break="no"/>
+            ger, denizen, or no denizen .3s. 4d. and <lb/>
+            this is the small some leviable at this <lb/>
+            tyme. /
+         </p>
+         <p>
+            I should now speake of the manner of <lb/>
+            levying but it is not soe proper for <lb/>
+            this tyme, I referre you to .3. most  <lb/>
+            certayne thinges. /
+         </p>
+         <p>
+            1. To yo<ex>u</ex>r owne p<ex>er</ex>vsall of the act. /
+         </p>
+         <p>
+            2. To yo<ex>u</ex>r conference with mr Recor=<lb break="no"/>
+            der, and the rest of yo<ex>u</ex>r learned counsell. /
+         </p>
+         <p>
+            3. To yo<ex>u</ex>r owne former experience. <lb/>
+            wherein if you be ignorant or defective <lb/>
+            <fw type="catch" place="bot-right">remember</fw>
+            <pb n="327v" facs="/bl/add_ms_4149_part/add_ms_4149_f327v/add_ms_4149_f327v.jpg"/>
+            remember that gratious King <hi rend="italic">per <lb/>
+            quem licuit esse negligentem</hi>, by whose <lb/>
+            Indulgence, you haue almost forgotten <lb/>
+            howe to leavie subsedies, whome I pray <lb/>
+            God alwaies to blesse in himselfe, in <lb/>
+            his issue, posteritie, and his people. / 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f323r/add_ms_4149_f323r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f323v/add_ms_4149_f323v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f324r/add_ms_4149_f324r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f324v/add_ms_4149_f324v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_4149_part/add_ms_4149_f325r/add_ms_4149_f325r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_4149_part/add_ms_4149_f325v/add_ms_4149_f325v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_4149_part/add_ms_4149_f326r/add_ms_4149_f326r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_4149_part/add_ms_4149_f326v/add_ms_4149_f326v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_4149_part/add_ms_4149_f327r/add_ms_4149_f327r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_4149_part/add_ms_4149_f327v/add_ms_4149_f327v.jpg"/>
+   </facsimile>
+</TEI>

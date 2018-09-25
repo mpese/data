@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Challenges</title>
+            <author>
+               <persName corresp="../people/people.xml#P0110">Lord Edward Bruce</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0111">Sir Edward Sackville</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22587.xml">
+               <msIdentifier xml:id="BL_Add_MS_22587">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22587</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22587</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72407">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72407</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_226">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 226</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6854">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6854</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_73087">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73087</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v6.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS4149.xml">British Library, Additional MS 4149, ff. 210r–211r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v7.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 177r–179v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS72407.xml">British Library, Additional MS 72407, ff. 52r–52v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v8.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS73087.xml">British Library, Additional MS 73087, ff. 47v–52r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHargraveMS226.xml">British Library, Hargrave MS 226, ff. 244r–249v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v5.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 127r–132v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v4.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS6854.xml">British Library, Harley MS 6854, ff. 3r–14r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b50.xml">Beinecke Library, Osborn b50, ff. 65r–76v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b8.xml">Beinecke Library, Osborn b8, ff. 88x–93x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_4o_Rawl_550.xml">Bodleian Library,  4o Rawl. 550, ff. 29r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, ff. 67–70</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 81v–87v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Willis_58.xml">Bodleian Library,  MS Willis 58, ff. 207r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, pp408–412</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_244.xml">Huntington Library,  EL 244</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_245.xml">Huntington Library,  EL 245</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_18.xml">Inner Temple Library, Petyt MS 538/18, ff. 244r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, f. 493</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, f. 118</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, ff. 9v–11v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1613">1613</date>
+            <placeName corresp="../places/places.xml#PL0028">Tregoes, Holland</placeName>
+            <placeName corresp="../places/places.xml#PL0031">France</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>challenges</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>duel</term>
+               <term>honour</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-01" who="#RB" status="draft"/>
+            <change when="2017-12" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="25v"/>
+            <head>
+               A challeng receaved by mr Sackvill nowe earle of Dorsett <lb/>
+               from the L<ex>or</ex>d Bruce a Scottish Baron who foug<del rend="strikethrough">y</del>
+                <add place="above">ht</add> in Zeland 1614 <lb/>
+               where Bruce was slayne
+            </head>
+            <p>
+               A mounsier Monsier Sackvile
+            </p>
+            <p>
+               I that am in Fraunce heare howe much yow attribute to yor self in this tyme <lb/>
+               that I have given the world to ring yor praises and for me the truest <lb/>
+               Almanacke to tell yow howe much I suffer   And if yow call to memory when <lb/>
+               I gave yow my hand last I tould yow I reserved the harte for a truer reconci= <lb break="no"/>
+               liac<ex>i</ex>on    Nowe be that Noble gent<ex>leman</ex> my love once spoke of and com<ex>m</ex>e and doe him <lb/>
+               right that would recite the trialls yow owe yor  birth &amp; Countrey were I not <lb/>
+               confident yor honor gives yow the same Courage to doe mee right that it did <lb/>
+               to doe mee wronge Bee mr of yor owne weapons &amp; tyme the place wheresoever <lb/>
+               I will waite on yow by doeing this yow shall shorten revenge &amp; cleere the idle <lb/>
+               opinion the world hath of both oure worthes <lb/>
+               E: Bruce  
+            </p>
+            <p>
+               A mounsier Mounsier le Baaron de Kinlosse
+            </p>
+            <p>
+               As it shall be allwayes farr from mee to seeke a quarrell soe will I allwayes <lb/>
+               be ready to meete with any that desire to make tryall of my valor by soe fayre <lb/>
+               a Course as yow require   A wittnes whereof yo<ex>u</ex>r selfe shall be whoe <lb/>
+               within a month shall receave a strickt accompt of tyme place and <lb/>
+               weapon where yow shall finde ready disposed to give yow hono<ex>ura</ex>ble satisfacc<ex>i</ex>on <lb/>
+               by him that shall conducte yow thither   In the meane tyme be as <lb/>
+               secrett of the appoint<ex>en</ex>t as it seemes yow are desirous of it. <lb/>
+               Ed: Sackvile
+            </p>
+            <p>
+               I am ready at Tregose a towne in Zeland to give yow what <lb/>
+               satisfacc<ex>i</ex>on yowr sword can render yow, accompanied with a worthy <lb/>
+               gent<ex>leman</ex>  for my second in degree a knight   And for ye com<ex>m</ex>inge <lb/>
+               I will not lymitt yow a p<ex>er</ex>emptory daye but desire yow to make <lb/>
+               it definite and speedy for yor owne honor and feare of prvenc<ex>i</ex>on <lb/>
+               untill which tyme yow shall fynd me there <lb/>
+               E: Bruce <lb/>
+               I have receaved yo<ex>u</ex>r letter by yo<ex>u</ex>r man and acknowledge yow <lb/>
+               have dealt noblye with mee   And nowe I come with all <lb/>
+               speede to meete yow <lb/>
+               Ed: Sackvile
+            </p> 
+      </body>
+   </text>
+</TEI>

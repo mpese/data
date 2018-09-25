@@ -1,0 +1,973 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Match Propounded by the Savoian Betweene the Lady Elizabeth &amp; the Prince of Piedmont</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS4149.xml">
+               <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 4149</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1611">c.1611-1612</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>diplomacy</term>
+               <term>royal marriage</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-23" who="#RB" status="draft"/>
+            <change when="2018-04-17" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="184r" facs="/bl/add_ms_4149_part/add_ms_4149_f184r/add_ms_4149_f184r.jpg"/>
+         <head rend="align-centre">
+            <add place="header" rend="align-right">
+               <hi rend="italic">
+                  An<ex>n</ex>o .9. Iacobij:
+               </hi>
+            </add>
+            <hi rend="italic">
+               A matche propoundede by <ex>th</ex>e Sauoian be=<lb break="no"/>
+               tweene the ladie Elizabethe, &amp; the pri=<lb break="no"/>
+               nce of Piemont. / .
+            </hi>
+         </head>
+         <p>
+            To obaye the Comaundm<ex>m</ex>ents of my Lord the Pr=<lb break="no"/>
+            ince, I have sent you my opinione of the match <lb/>
+            latly desired by the duke of <hi rend="italic">Sauoy</hi> and p<ex>ro</ex>pound=<lb break="no"/>
+            ed by his Ambassadore, betweene the Ladie <lb/>
+            <hi rend="italic">Elizabethe</hi> his Ma<ex>jes</ex>t<ex>ies</ex> eldest <add place="above">&amp; only</add> Daughter and the <lb/>
+            Prince of Piemont w<ex>i</ex>th an ouerture (as I have <lb/>
+            hearde) of a Crosse Marriage, betweene the <lb/>
+            moste Exelent and hopefull prince of <hi rend="italic">Wales</hi>, <lb/>
+            and the eldeste Daughter of the said <hi rend="italic">Duke</hi>. / . 
+         </p>
+         <p>
+            Now as by the firste to witt, by the match w<ex>i</ex>th <lb/>
+            the ladie Elizabeth, the Dukes Sauoye<hi rend="italic"> </hi>of a Sp=<lb break="no"/>
+            annish race may in the future yf it should pl=<lb break="no"/>
+            please god to laye so greevous a burden vpon <lb/>
+            vs) becomes kinges of England, so by the seco=<lb break="no"/>
+            nde (though the <del rend="strikethrough">sau</del> <hi rend="italic">Sauoyan</hi> had no heires  <lb/>
+            males) yet would it Not be easie for a kinge <lb/>
+            of Englande to recouer the Righte of those Pr=<lb break="no"/>
+            incepalleties, all Fraunce beinge interiacent: <lb/>
+            For one of the moste renowned kinges and the <lb/>
+            moste valliante that ever Fraunce had, spe=<lb break="no"/>
+            nte more in the obtayninge and defence of that <lb/>
+            parte of <hi rend="italic">Sauoye</hi> and <hi rend="italic">Piemont</hi> w<ex>hi</ex>ch fell vnto <lb/>
+            him by <hi rend="italic">Louyse</hi> his mother heir to her Brother <lb/>
+            <hi rend="italic">Phillibert</hi>, then both those pettie prounices <lb/>
+            Could be vallued to be worth. / .
+         </p>
+         <p>
+            And yf those of the House of <hi rend="italic">Austria</hi>, and of <lb/>
+            <hi rend="italic">Spaine</hi> thought it a matter so exceedinge Pe=<lb break="no"/>
+            rilous for a French kinge to posesse that Bar=<lb break="no"/>
+            ren dukedom, Much more will the French este=<lb break="no"/>
+            eme it dangerous for them, that a kinge of <lb/>
+            <fw type="catch" place="bot-right">England</fw>
+            <pb n="184v" facs="/bl/add_ms_4149_part/add_ms_4149_f184v/add_ms_4149_f184v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobij</hi>
+                </add>
+            England should inherite it, the Reason whie I <lb/>
+            Neede Not tell you. / .
+         </p>
+         <p>
+            But wee will leave these Considerationes to <lb/>
+            their farre of possibillities, and in the meane wh=<lb break="no"/>
+            ill take it for graunted that marriages betw=<lb break="no"/>
+            eene forraigne Princes for the moste are but <lb/>
+            Polletique: for wheresoever they imploy their <lb/>
+            owne affectyones, Iudginge by persones prese=<lb break="no"/>
+            nted, and Not by Picktures representynge, they <lb/>
+            Comonly make Choyse of their owne <del rend="strikethrough">Husbandes</del> <lb/>
+            Subiect<ex>es</ex>. / 
+         </p>
+         <p>
+            Nowe this pollecie in marryages hath either  re=<lb break="no"/>
+            specte to the enlarginge of Dominion and vnitinge <lb/>
+            of Kingedomes, Dukedomes, or other princepalle=<lb break="no"/>
+            ties, as by a Marriage the Duchie of <hi rend="italic">Brittani</hi> <lb/>
+            and other Seignories in Fraunce, were anne=<lb break="no"/>
+            xed to that Crowne, by a Marriage, the Neth=<lb break="no"/>
+            erlands became Subiecte to the Princes of <lb/>
+            <hi rend="italic">Austria, Casteele to Arragon</hi> and <hi rend="italic">Portugale</hi> to <lb/>
+            <hi rend="italic">Castile</hi> <hi rend="italic">&amp;c</hi>: or to the endinge of some greate <lb/>
+            warre, and the Establishinge of Peace, as <lb/>
+            when Ferdinande of <hi rend="italic">Arragon</hi> married the La=<lb break="no"/>
+            die <hi rend="italic">Germaine </hi>of <hi rend="italic">Foix</hi>; when kinge Frauncis <lb/>
+            the Firste married <hi rend="italic">Queen Eleanor</hi> kinge Ph=<lb break="no"/>
+            illipe the seconde the Ladie <hi rend="italic">Elizabethe</hi> of Fr=<lb break="no"/>
+            aunce, and <hi rend="italic">Philibert Emanuele</hi> duke of <hi rend="italic">Sa=<lb break="no"/>
+            uoye</hi>. the Ladie <hi rend="italic">Margartita</hi> sister to kynge He=<lb break="no"/>
+            nrye the seconde of Fraunce, or Lastely it hath <lb/>
+            respecte to the Combination and league against <lb/>
+            some other kinge or estate powrefull &amp; suspec=<lb break="no"/>
+            ted. / .
+         </p>
+         <p>
+            Now for the firste, I thinke his ma<ex>jes</ex>tie houldes <lb/>
+            Nothinge More impossible, Nor any thinge  <lb/>
+            lesse proffitable then the inheritance of <hi rend="italic">Sa=<lb break="no"/>
+            uoy</hi>, for as longe as ther is a kinge of France <lb/>
+            or a kinge of Spayne, they will Never, yf the=<lb break="no"/>
+            ire poweres faile them Not) endure the vnitinge <lb/>
+            <fw type="catch" place="bot-right">of <hi rend="italic">Sauoy</hi>
+                </fw>
+            <pb n="185r" facs="/bl/add_ms_4149_part/add_ms_4149_f185r/add_ms_4149_f185r.jpg"/>
+            <add place="header" rend="align-right">
+               <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+            </add>
+            of <hi rend="italic">Sauoy </hi>and <hi rend="italic">Piemont</hi> to any absolut monarchie pow=<lb break="no"/>
+            erfull in it selfe it was alonge warre, a Cruele, &amp;  <lb/>
+            a Costely, made for the defence of the duchey of Mi=<lb break="no"/>
+            llaine and to keep it a <hi rend="italic">Duchi</hi>  aparte from the <hi rend="italic">Em=<lb break="no"/>
+            perialls, Spanishe, &amp; Frenche,</hi> . / . <lb/>
+         </p>
+         <p>
+            for the second to witt the Establishemente of peace after <lb/>
+            a longe warre; as ther was never any effect w<ex>i</ex>th <lb/>
+            out a Cause, so to those thing<ex>es</ex> that had never begin=<lb break="no"/>
+            inge, ther was Never any man that tooke care to give <lb/>
+            ende, or conclusion. / .
+         </p>
+         <p>
+            For the third, namly a Combynacon againste som po=<lb break="no"/>
+            wrefull &amp; suspected Ennemye, I knowe no christian <lb/>
+            Prince so powrefull as the kinge of great Britta=<lb break="no"/>
+            ine, and out of doubte the Estate of <hi rend="italic">Sauoy</hi> cannot  <lb/>
+            be Charged by any alliance; for it hath evere depe=<lb break="no"/>
+            nded and must <add place="above">ever</add> depend either vppon Fraunce or <lb/>
+            <hi rend="italic">Spaine</hi> <add place="above">&amp; for the strengtheninge of o<ex>u</ex>r Kinge or the levie of an Army in those p<ex>ar</ex>t<ex>es</ex> <lb/>
+            either against france or <hi rend="italic">Spaine</hi>;</add> <lb/>
+            the leaste of the Cantones of <hi rend="italic">Switzeres</hi>, or <lb/>
+            the meaneste of the <hi rend="italic">Gearmaine Princes</hi> maye be of <lb/>
+            farre more vse to the kinges ma<ex>jes</ex>tie then the <hi rend="italic">Dukke <lb/>
+            of Sauoy</hi> can be. Certenly that <hi rend="italic">Sauoy</hi> cannot but <lb/>
+            depende one <hi rend="italic">Spaine</hi> it is manyfeste enough, for <lb/>
+            thus the Case standes betweene those Princes. <lb/>
+            The <hi rend="italic">Duke</hi> hath yet lyuinge foure sonnes, hee <lb/>
+            had five, but the Eldeste was poisoned in <hi rend="italic">Spaine</hi> <lb/>
+            because the kinge bounde him selfe to give the <hi rend="italic">Duc=<lb break="no"/>
+            hie of Millan</hi> to the firste and eldeste sonne borne  <lb/>
+            by his daughter. The second w<ex>hi</ex>ch is Nowe Prince of <lb/>
+            <hi rend="italic">Piemont</hi> Caled Don <hi rend="italic">Philliert</hi> Liues w<ex>i</ex>th the duke  <lb/>
+            his father but of lesse hope by farre then <hi rend="italic">Don Ph=<lb break="no"/>
+            illip </hi>his Brother was. His third sonne <hi rend="italic">Don Victo=<lb break="no"/>
+            rio Amedo </hi>knight of malta, is the greate Comaunder <lb/>
+            of <hi rend="italic">St Johns in Spaine</hi> worth a Hundred thousand <lb/>
+            Crow<ex>n</ex>esa yeare, and w<ex>i</ex>thall generall of all the <lb/>
+            <hi rend="italic">Kinge of Spaines</hi> Gallies a place of great Hono=<lb break="no"/>
+            ure and proffite: The fourth sonne is <hi rend="italic">Cardinall</hi> <lb/>
+            and hath the one halfe of the proffite of the Archbishop=<lb break="no"/>
+            <fw type="catch" place="bot-right">Archebishopricke</fw>
+            <pb n="185v" facs="/bl/add_ms_4149_part/add_ms_4149_f185v/add_ms_4149_f185v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add>
+            Archebishopricke of <hi rend="italic">Toledo</hi>, and is promysed the whole <lb/>
+            after the death of the Nowe Bishope, an estat worth <lb/>
+            three Hundred thousande Crownes a yeare. / .  <lb/>
+            The First <hi rend="italic">Don Thomasa</hi> w<ex>i</ex>th whome the Mother the La=<lb break="no"/>
+            die <hi rend="italic">Katherina: d’Austria </hi>died a prince of fifteene <lb/>
+            yeares of Age hath also a pentyone out of <hi rend="italic">Spaine</hi>, <lb/>
+            but hath not yet acquired any perticuler tytle. / <lb/>
+            Hereby it is easie to iudge whether the <hi rend="italic">Duke of Sau=<lb break="no"/>
+            oye</hi> by the Powre of <hi rend="italic">Sauoye</hi>, will abandone all theis <lb/>
+            Pentiones and preferments, and enter in to a warre <lb/>
+            w<ex>i</ex>th the kinge of <hi rend="italic">Spaine</hi> for the <hi rend="italic">Duchie of Millan</hi>, or <lb/>
+            for the quarell of any other prince, seinge <hi rend="italic">Millan</hi> <lb/>
+            it selfe when it was a <hi rend="italic">Duchie</hi> apart, was evere <lb/>
+            a princepalletie of greater force then <hi rend="italic">Sauoye </hi>and<hi rend="italic">  <lb/>
+            Piemont. / .</hi>
+         </p>
+         <p>
+            <add place="LM">Shall we then hope that he  <lb/>
+            will offend the King of Spaine <lb/>
+            in respecte of England certenly <lb/>
+            it were madnes so to doe <lb/>
+            <hi rend="italic">Millan</hi> is too near him and <lb/>
+            so are both <hi rend="italic">Spaine &amp; Naples <lb/>
+            &amp; England</hi> to farre of: they are <lb/>
+            ever like to be his Neighbors <lb/>
+            <hi rend="italic">England </hi>never lyke to be</add> <lb/>
+            Againe that he will evere bee vsed againste the Fre=<lb break="no"/>
+            nche for the <hi rend="italic">Englishe</hi>, it is very <del rend="strikethrough">vn</del>
+                <add place="above">im</add>probable, hee <lb/>
+            hath bene too well beaten for that falte, I mean <lb/>
+            for Ioyninge him selfe againste the French, though <lb/>
+            Not for vs. for that he is a prince of noe stren=<lb break="no"/>
+            gth yf a kinge of France drawe his Swoarde <lb/>
+            againste him; <hi rend="italic">Frauncis</hi> the firste hath resolued vs, <lb/>
+            who in dispight of all the assistance of <hi rend="italic">Charles</hi> <ex>th</ex>e <lb/>
+            fifte when he returned victorious out of Affrica <lb/>
+            and not w<ex>i</ex>thstandinge the great Armies w<ex>hi</ex>ch the <lb/>
+            sayd Emperour imployd in the <hi rend="italic">Dukes</hi> defence, &amp; <lb/>
+            not w<ex>i</ex>thstandinge his forcible invadinge of Picardie <lb/>
+            therby to w<ex>i</ex>thdrawe the French from out of <hi rend="italic">Piemont</hi>, <lb/>
+            and not w<ex>i</ex>thstandinge (ere yet that warre had end) <lb/>
+            that <hi rend="italic">Kinge Henrie <ex>th</ex>e Eight</hi> of England did also <lb/>
+            invade Fraunce w<ex>i</ex>th a moste Puissante Armye, <lb/>
+            yet did <hi rend="italic">Francis</hi> the firste by the Earle of <hi rend="italic">St Pau=<lb break="no"/>
+            le </hi>take from him his duchey of <hi rend="italic">
+                    <del rend="strikethrough">Mill</del> Sauoye</hi> in a sh=<lb break="no"/>
+            orte tyme, and by other his Comaunderes possesse <lb/>
+            <hi rend="italic">Turing</hi> the Cheefe Cittie of <hi rend="italic">Piemont</hi> w<ex>i</ex>th the gre=<lb break="no"/>
+            ateste parte of all that princepallety, and helde <lb/>
+            <fw type="catch" place="bot-right">Bothe</fw>
+            <pb n="186r" facs="/bl/add_ms_4149_part/add_ms_4149_f186r/add_ms_4149_f186r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add>
+            both the one and the other, from the yeare .<hi rend="underline">1535</hi> . <lb/>
+            to the yeare .<hi rend="underline">1544</hi> . when w<ex>i</ex>th a daughter of <hi rend="italic">Fr=<lb break="no"/>
+            ans</hi> or rather out of Com<ex>m</ex>isseratione, it was resto=<lb break="no"/>
+            red, This is true and it is <del rend="strikethrough">true</del> all the good that <lb/>
+            our kinge of Englande can expecte from <hi rend="italic">Sauo=<lb break="no"/>
+            ye</hi> that he must either abandone his sonne in lawe, <lb/>
+            yf either <hi rend="italic">France</hi> or <hi rend="italic">Spaine</hi>, opprese him, w<ex>hi</ex>ch were <lb/>
+            too great a dishonore, or he muste enter into a warre <lb/>
+            for his defence, w<ex>hi</ex>ch were too greate a Charge: And <lb/>
+            his Ma<ex>jes</ex>tie doth well knowe that whill the league st=<lb break="no"/>
+            ands betweene him and the Lowecountreyes, that <lb/>
+            he is invincible by them, and they by him, and that <lb/>
+            all other pettie Combinatyones, wilbe rather Char=<lb break="no"/>
+            gable then p<ex>ro</ex>ffitable. / .
+         </p>
+         <p>
+            And yf any man shall tell the kynge that by havinge <lb/>
+            the <hi rend="italic">Duke of Sauoye</hi> at his devotyone he maye offend <lb/>
+            <hi rend="italic">France</hi> when he pleaseth, his ma<ex>jes</ex>tie may looke in to <lb/>
+            the Exployts of kinge <hi rend="italic">Henry </hi>the Eighte, and what <lb/>
+            floweres and fruite that warre if his in Fraunce <lb/>
+            brought forth: for <hi rend="italic">Kinge Henry <ex>th</ex>e viij</hi> had not <lb/>
+            onely a <hi rend="italic">Duke of Sauoy but a Duke of Bur=<lb break="no"/>
+            bon a King Arragon</hi>, and an <hi rend="italic">Emperore </hi>the most <lb/>
+            ambitious and vndertakynge <hi rend="italic">Prince </hi>that <hi rend="italic">Germ=<lb break="no"/>
+            anye</hi> hath seene for many ages; he had also <ex>th</ex>e <lb/>
+            Lowcountreyes, Flaunderes, Henald, and Artois <lb/>
+            to Ioyne w<ex>i</ex>th him, and he w<ex>i</ex>th them againste the <lb/>
+            French: but lett vs see what he brought to passe /
+         </p>
+         <p>
+            In the yeare <hi rend="underline">1512</hi> . <hi rend="italic">Ferdinand of Arragon</hi> <lb/>
+            perswaded <hi rend="italic">Henry the uiij </hi>to send an Armye <lb/>
+            of Englishe in to <hi rend="italic">Biskay</hi>, and by the waye of <lb/>
+            <hi rend="italic">Baion</hi> to invade <hi rend="italic">Guienne</hi>, by the Countenance of <lb/>
+            <del rend="strikethrough">w<ex>hi</ex>ch </del> whose forces, and whill the Englishe affroun=<lb break="no"/>
+            the French in those parts, <hi rend="italic">Ferdinand </hi>conqu=<lb break="no"/>
+            ered the kingdom of <hi rend="italic">Nauarre</hi>, deferringe his As=<lb break="no"/>
+            istinge of kinge <hi rend="italic">Henry <ex>th</ex>e viij</hi> tyll the nexte <lb/>
+            <fw type="catch" place="bot-right">yeare</fw>
+            <pb n="186v" facs="/bl/add_ms_4149_part/add_ms_4149_f186v/add_ms_4149_f186v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iames.</hi>
+                </add> <lb/>
+            yeare, and so the English returned w<ex>i</ex>th a greate dea=<lb break="no"/>
+            le of Losse and more discourse. / .
+         </p>
+         <p>
+            In the yeare .<hi rend="underline">1513</hi>. <hi rend="italic">Kinge Henry </hi>did not onelye <lb/>
+            sett out a fleete of Shippes of warre againste the <lb/>
+            french, and gave the <hi rend="italic">Emperoure</hi> 120 thousande du=<lb break="no"/>
+            cker<ex>es</ex> toward<ex>es</ex> the Levienge of an Armye to invade <lb/>
+            <hi rend="italic">Bourgogne </hi>but the kinge Landed in <hi rend="italic">Fraunce</hi> w<ex>i</ex>th <lb/>
+            40 thousand foote and 5000 men at Armes, and was <lb/>
+            perswaded by the Emperour to beseege <hi rend="italic">Terouenne</hi>; <lb/>
+            a towne of asmuch vse to the Englishe, as yf it had <lb/>
+            bene seated in Arabia: Neither did hee gaine <lb/>
+            any foote of grounde else by the Emperoures assi=<lb break="no"/>
+            stance; Neither Could he svccoure or releive that <lb/>
+            Cittie. w<ex>i</ex>thout an Armye of Equall strength to <lb/>
+            to that by w<ex>hi</ex>ch it was wonne to witte an Army co=<lb break="no"/>
+            nsistinge of 40 thousand foote &amp; 5000 barbd horse. / .
+         </p>
+         <p>
+            In the yeare .<hi rend="underline">1515</hi>, he againe paid diveres Regimentes <lb/>
+            of <hi rend="italic">Switzers</hi>, againste <hi rend="italic">King Francis</hi>, because the <lb/>
+            said <hi rend="italic">Kinge</hi> sent the <hi rend="italic">Duke of Albanie</hi> in to <hi rend="italic">Scotland <lb/>
+            </hi>for the protectione of <hi rend="italic">Kinge James </hi>the fift <hi rend="italic">Kinge<del rend="strikethrough">
+                        <unclear/> <lb/>
+            </del>Henries </hi>owne nephew and his Ma<ex>jes</ex>t<ex>ies</ex> <hi rend="italic">Grandfater</hi>. / .
+         </p>
+         <p>
+            In the yeare .<hi rend="underline">1522</hi>. he renewed the warre againe=<lb break="no"/>
+            ste <hi rend="italic">Francis</hi> the first, and entered into League ag=<lb break="no"/>
+            ainste him w<ex>i</ex>th the Emperour, the <hi rend="italic">Pope</hi>, <hi rend="italic">
+                    <ex>th</ex>e Duke <lb/>
+            of Millaine</hi> and the <hi rend="italic">Florentines</hi>: and after the <lb/>
+            <hi rend="italic">Englishe </hi>armie had in vaine beseeged <hi rend="italic">Hesdine</hi>, <lb/>
+            and sett fire in <hi rend="italic">Dourleans</hi>, dispeopled and aband=<lb break="no"/>
+            oned vnto them, they presently hasted homward, <lb/>
+            and in exchange of a greate deale of Treasure <lb/>
+            and tyme spente, they Returned againe loaden<hi rend="italic"> <lb/>
+            </hi>w<ex>i</ex>th Nothinge but pouerty and disseasses. / . <lb/>
+            W<ex>i</ex>th the lyke successe he invaded <hi rend="italic">Frans</hi> by the <lb/>
+            <hi rend="italic">Duke of Suffolke</hi> in the yeare .<hi rend="underline">1523</hi>., tooke ce=<lb break="no"/>
+            rtaine small Townes to daye and Loste them <lb/>
+            <fw type="catch" place="bot-right">againe</fw>
+            <pb n="187r" facs="/bl/add_ms_4149_part/add_ms_4149_f187r/add_ms_4149_f187r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add>
+            againe to morow, and spent a world of Treas=<lb break="no"/>
+            ure to be laught at. / .
+         </p>
+         <p>
+            In the years .<hi rend="underline">1524</hi>. it was promissed that all <lb/>
+            formor errors should be amended, and france <lb/>
+            should be Conquered for kinge <hi rend="italic">Henry </hi>by the <lb/>
+            <hi rend="italic">Emperour</hi>, and the <hi rend="italic">Duke of Burbon</hi> who <lb/>
+            Receaved of <hi rend="italic">Kinge Henry</hi> .100. thousand Crow=<lb break="no"/>
+            nes for the firste month, and somuch he was <lb/>
+            to have had Monethly duringe the warre: but <lb/>
+            the <hi rend="italic">Duke of Burbon</hi> to whom the preservat<ex>i</ex>o<ex>n</ex> <lb/>
+            of <hi rend="italic">Millan</hi> was more proffitable then the in=<lb break="no"/>
+            vasione of <hi rend="italic">France</hi>, spente our kings Crownes <lb/>
+            Merrely in that <add place="above">good</add>  Cittie. / .
+         </p>
+         <p>
+            So as when <hi rend="italic">Kinge Henry</hi> had spent all the <lb/>
+            Treasure lefte him by that provident kinge <lb/>
+            <hi rend="italic">Henry the vijth:</hi>, all that masse of  moneye <lb/>
+            made by the dissolutyones of the <hi rend="italic">Abbies</hi>, and all <lb/>
+            that England Could yeald him besides in a  <lb/>
+            warre againste the French, assisted also therin <lb/>
+            by all the fores<ex>ai</ex>d  Princes and States, he had <lb/>
+            Nothinge Remaininge of all those greate expe=<lb break="no"/>
+            nces of Treasure, armes, and the bodies of men, <lb/>
+            but the poore towne of <hi rend="italic">Bulloigne</hi>, the restituti=<lb break="no"/>
+            one wherof to the <hi rend="italic">Frenche</hi>, <hi rend="italic">Kinge Henry</hi> him=<lb break="no"/>
+            selfe promysed; but beinge prevented by death <lb/>
+            the same was delyueredvpp by <hi rend="italic">Kinge Edward <lb/>
+            </hi>his sonne. / .
+         </p>
+         <p>
+            What accompte can wee make therfor of <hi rend="italic">Sauoy  <lb/>
+            </hi>since neither Charles the <hi rend="italic">Emperour</hi>, nor all <ex>tha</ex>t <lb/>
+            Ioyned w<ex>i</ex>th him, and <del rend="strikethrough">the</del> w<ex>i</ex>th the <hi rend="italic">English</hi> againste <lb/>
+            the <hi rend="italic">Frenche</hi>, would putt vs in possessione of one <lb/>
+            good place in .18. or 20 yeares warre. / . <lb/>
+            But S<ex>i</ex>r that w<ex>hi</ex>ch wee are to Considere in this, <lb/>
+            treatie is, whether it doe not dragge after it <lb/>
+            some <hi rend="italic">Spanishe</hi> exploite. For it is Certaine <ex>tha</ex>t <lb/>
+            the <hi rend="italic">Castillianes</hi> and those of whom these <hi rend="italic">Princes</hi> <lb/>
+            <fw type="catch" place="bot-right">are</fw>
+            <pb n="187v" facs="/bl/add_ms_4149_part/add_ms_4149_f187v/add_ms_4149_f187v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add> <lb/>
+            are disscended, have gotten noe lesse by the tra=<lb break="no"/>
+            fficque of their marriages; then they have don <lb/>
+            by the trade of their <hi rend="italic">Indies</hi>, of w<ex>hi</ex>ch because the <lb/>
+            Instances are ouer many, I will remember vnto <lb/>
+            you some fewe and leave the Reste to yo<ex>u</ex>r owne <lb/>
+            Readinge. / .
+         </p>
+         <p>
+            In the yeare .<hi rend="underline">1503</hi>.<hi rend="italic">Phillipe Arche Duke of Aus=<lb break="no"/>
+            tria</hi> Authorised by <hi rend="italic">Ferdinande of Arragon</hi> his <lb/>
+            father in Lawe made a peace w<ex>i</ex>th <hi rend="italic">Lewis </hi>the .12th. <lb/>
+            promisinge that his sonne <hi rend="italic">Charles</hi> (afterwarde <lb/>
+            <hi rend="italic">Emperour</hi>) should marry the <hi rend="italic">Ladi Clavdi </hi>the <lb/>
+            <hi rend="italic">Kinges</hi> daughter, w<ex>hi</ex>ch marriage was solemp=<lb break="no"/>
+            ly sworne and Confirmed at <hi rend="italic">Bloys</hi>. But wh=<lb break="no"/>
+            at was the end of this Loue makynge, other <lb/>
+            then to perswade kinge <hi rend="italic">Lewis</hi> that according to <lb/>
+            the devissyon made of the kyngdom of <hi rend="italic">Naples</hi> <lb/>
+            betweene the <hi rend="italic">Spanish &amp; <ex>th</ex>e Frenche</hi>. the <hi rend="italic">Fre=<lb break="no"/>
+            nche Kinge </hi>should inioye his parte and the <lb/>
+            <hi rend="italic">Spanish</hi> his, and all warre and debate take <lb/>
+            ende. whervpon while <hi rend="italic">Lewis</hi> (meaninge all <lb/>
+            thinges in good faith) neclected <del rend="strikethrough">&amp;</del> to renforce &amp; <lb/>
+            to supply his Armie in those parts, <hi rend="italic">Gonsalua <lb/>
+            </hi>accordinge to his secret instructiones (&amp; Notw<ex>i</ex>th <lb/>
+            standinge that this peace was proclaymede <lb/>
+            thoroughout all Naples and Comaundement  <lb/>
+            sente to <hi rend="italic">Gonsalua</hi> by the <hi rend="italic">Archeduke</hi> to absta=<lb break="no"/>
+            ine deom all actes of hostyllitie) he sett vpo<ex>n</ex> <lb/>
+            the Frenche vnawares, difeated the duke <lb/>
+            of <hi rend="italic">Artry</hi>, and <hi rend="italic">Mr Daubigne</hi> &amp; followinge <lb/>
+            the aduauntage of <del rend="strikethrough">the</del> his formor victory, ouer=<lb break="no"/>
+            threwe the remainder of the <hi rend="italic">Frenche</hi> Army <lb/>
+            ledd by that valiant <hi rend="italic">Duke of Nam<add place="above">o</add>urs</hi>, who <lb/>
+            loste himselfe w<ex>i</ex>th all <del rend="strikethrough">that</del> in effecte that the <lb/>
+            Frenche Posseste in that kingdom. / .
+         </p>
+         <p>
+            And yet this was not all the vse that the <lb/>
+            <hi rend="italic">Spaniardes</hi> made of this <del rend="strikethrough">l<unclear>an</unclear>d</del> <hi rend="italic">Ladie</hi>, for <lb/>
+            <fw type="catch" place="bot-right">after that</fw>
+            <pb n="188r" facs="/bl/add_ms_4149_part/add_ms_4149_f188r/add_ms_4149_f188r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add>
+            after that <hi rend="italic">Leuis </hi>
+                <ex>th</ex>e .12. had sent a newe Army in <lb/>
+            to <hi rend="italic">Italy</hi> for the Recouerye of <hi rend="italic">Naples</hi>, comaunded (at the tyme <lb/>
+            of the ouerthrowe therof) by the <hi rend="italic">Marques <lb/>
+            of Saluce</hi> (the <hi rend="italic">Spaniarde</hi> beinge not as yet <lb/>
+            thorowly setled in his Newe Conqueste) the formor <lb/>
+            <hi rend="italic">Marriage</hi> was againe to be confirmed, and in <lb/>
+            recompence of the one halfe of the kingdome of <hi rend="italic">Na=<lb break="no"/>
+            ples</hi>, the investiture of the <hi rend="italic">Duchie of Millan </hi>was <lb/>
+            promised to kinge <hi rend="italic">Lewis </hi>and his Heires Males, <lb/>
+            and for wante of Heires males to the <hi rend="italic">Ladi Clauda</hi> <lb/>
+            and <hi rend="italic">Charles</hi> her imagenary Husband. And to <lb/>
+            make it a plaine Bargaine, kinge <hi rend="italic">Lewis</hi> was <lb/>
+            to paye vnto <hi rend="italic">Maximillian</hi> a greate some of <lb/>
+            moneie w<ex>hi</ex>ch was presently sente by the <hi rend="italic">Cardi=<lb break="no"/>
+            nall of Amboyse </hi>at <hi rend="italic">Haguenaw </hi>in <hi rend="italic">Alsatia</hi>, but <lb/>
+            this monie was never repayed, this Match never <lb/>
+            effected, nor the <hi rend="italic">Duchcy of Millan</hi> ever deliue=<lb break="no"/>
+            red into the French possessione. / .
+         </p>
+         <p>
+            In the Necke of this &amp; vpon the death of <hi rend="italic">Izabelle <lb/>
+            Queen of Castile, Ferdinand of Arragon </hi>(fea=<lb break="no"/>
+            ringe to be dispossest of <hi rend="italic">Castile &amp; Leon</hi> by his <lb/>
+            sonne in Lawe the <hi rend="italic">Archduke Phillip</hi>, who by <ex>th</ex>e <lb/>
+            Right of his wife the <hi rend="italic">
+                    <del rend="strikethrough">A Lady</del> Daughter of Que=<lb break="no"/>
+            ne Izabell</hi> was nowe lawfull kinge therof, sought <lb/>
+            peace <del rend="strikethrough">the</del> w<ex>i</ex>th <hi rend="italic">Lewis</hi> the .12th. and to that end tooke <lb/>
+            to wife the <hi rend="italic">Ladi Germaine de Foix</hi> sister to <lb/>
+            <hi rend="italic">Gaston de Foix</hi> the kinge Neece, vpon condition <lb/>
+            that <hi rend="italic">Lewis </hi>should resigne all that parte of <hi rend="italic">Na=<lb break="no"/>
+            ples</hi> vnto w<ex>hi</ex>ch he had Right, and that <hi rend="italic">Ferdina=<lb break="no"/>
+            nde</hi> should paye vnto <hi rend="italic">Lewis</hi> .700. thousande  <lb/>
+            duckets. / .
+         </p>
+         <p>
+            In conclusyone the <hi rend="italic">Spaniarde</hi> gott the starte, <lb/>
+            for the French delyuered those fewe places w<ex>hi</ex>ch <lb/>
+            they held in <hi rend="italic">Naples</hi>, and w<ex>i</ex>th all resigned their <lb/>
+            Right to the Reste; but as for the monie prom=<lb break="no"/>
+            ised the same was never paide to this daye. <lb/>
+            <fw type="catch" place="bot-right">what</fw>
+            <pb n="188v" facs="/bl/add_ms_4149_part/add_ms_4149_f188v/add_ms_4149_f188v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobij</hi>
+                </add> <lb/>
+            what vse <hi rend="italic">Ferdinand of Arragon</hi> made by the <lb/>
+            givinge his daughter in marriage to <hi rend="italic">Henry <ex>th</ex>e <lb/>
+            viij</hi>th of Englande, the <del rend="strikethrough">the </del>Conqueste of <lb/>
+            <hi rend="italic">Nauarre</hi> hath told vs. / .
+         </p>
+         <p>
+            For a fifte Marriage (the <hi rend="italic">Arche Duke Phi=<lb break="no"/>
+            llip</hi> father to <hi rend="italic">Charles</hi> afterward <hi rend="italic">Emperour</hi> <lb/>
+            beinge dead) it was accorded that <hi rend="italic">Charles <lb/>
+            Now Arche Duke of Austria</hi>, and Kinge  <lb/>
+            of <hi rend="italic">Castille</hi> should take to wife the <hi rend="italic">Ladi Renee <lb/>
+            </hi>daughter to <hi rend="italic">Lewis the xij</hi>th deceased, and <lb/>
+            that <hi rend="italic">Francis </hi>the first his Successor should <lb/>
+            give in dowre w<ex>i</ex>th the s<ex>ai</ex>d <hi rend="italic">Ladie </hi>the <hi rend="italic">Duchie <lb/>
+            of Berry</hi>, and 600 thousand Crownes, and <lb/>
+            that <hi rend="italic">Renee</hi> should give vpe to king <hi rend="italic">Francis</hi> <lb/>
+            all her Right both<del rend="strikethrough">e<unclear/>
+                </del> by father and mother of <lb/>
+            the <hi rend="italic">Duchie of Millan</hi>, and this Marriage <lb/>
+            proceeded so farre as all conditiones were ag=<lb break="no"/>
+            reed one, and sworne betweene the Princes. / .
+         </p>
+         <p>
+            In the meane while the great <hi rend="italic">Ferdenand <lb/>
+            of Arragon </hi>dies, and Now comes <hi rend="italic">Charles <lb/>
+            ArcheDuk of Austria</hi> and Kinge of <hi rend="italic">Castille <lb/>
+            &amp; Arragon</hi> vpon the stage, who inherited his <lb/>
+            grandfather <hi rend="italic">Ferdinand </hi>aswell in all his kin=<lb break="no"/>
+            domes as in his Subtylties and breache of <lb/>
+            faith. / .
+         </p>
+         <p>
+            And to the end he mighte obtaine of Kinge <lb/>
+            <hi rend="italic">Francis</hi> a passage by the waye of <hi rend="italic">France</hi> <lb/>
+            into <hi rend="italic">Spaine</hi> as well to possesse him selfe of <lb/>
+            his kingedomes ther, as to fortefie <hi rend="italic">Nauarra</hi> <lb/>
+            lately Conquered he treates a peace withe  <lb/>
+            <hi rend="italic">France</hi> (made fearfull vnto him by the gre=<lb break="no"/>
+            ate ouerthrowe givene the <hi rend="italic">Switzeres</hi> at <ex>th</ex>e <lb/>
+            Battaile of <hi rend="italic">Marignan</hi>) and in sted of <hi rend="italic">Renee</hi> <lb/>
+            daughter to <hi rend="italic">Lewis</hi> he desyred the <hi rend="italic">Ladie Lo=<lb break="no"/>
+            wise</hi> daughter to Kinge <hi rend="italic">Francis</hi> presentyle <lb/>
+            <fw type="catch" place="bot-right">Raigning</fw>
+            <pb n="189r" facs="/bl/add_ms_4149_part/add_ms_4149_f189r/add_ms_4149_f189r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add> <lb/>
+            raigninge <hi rend="italic">Renee</hi> beinge afterward married to the <lb/>
+            duke of <hi rend="italic">Ferrara. </hi>for the accomplishment of this al=<lb break="no"/>
+            liance <hi rend="italic">Noyon</hi> was appointed wher it was Concl=<lb break="no"/>
+            uded by the deputies that the kingdome of <hi rend="italic">Nauar=<lb break="no"/>
+            re</hi> should be restored to <hi rend="italic">Henrie of Alberte</hi> sonne to <hi rend="italic">Jo=<lb break="no"/>
+            hn of Albert</hi> and <hi rend="italic">Katherine of Foix</hi> lately dece=<lb break="no"/>
+            ased; that <hi rend="italic">Kinge Francis</hi> should by waye do=<lb break="no"/>
+            wrie his daughter clearly resigne all his Right <lb/>
+            in the kingdom of <hi rend="italic">Naples</hi>, and <hi rend="italic">Charles</hi> was to pa=<lb break="no"/>
+            aye vnto the kinge .150. thousand duckets yearlye <lb/>
+            towards the maintenance of <hi rend="italic">Lowise</hi> his wife tyll <lb/>
+            she became of full age, w<ex>i</ex>th diueres other Condit=<lb break="no"/>
+            iones agreede one and sworne. / .
+         </p>
+         <p>
+            But this Ladie dienge soone after, a mariage was <lb/>
+            Concluded betweene the s<ex>ai</ex>d <hi rend="italic">Charles</hi> and King <hi rend="italic">Fra=<lb break="no"/>
+            ncis</hi> yonger daughter vpon the formor Conditions
+         </p>
+         <p>
+            But in the meane while the <hi rend="italic">Emperour maxi=<lb break="no"/>
+            milian </hi>leaves the world and <hi rend="italic">Charles</hi> <del rend="strikethrough">and <hi rend="italic">Ch</hi>
+                </del> not <lb/>
+            contented w<ex>i</ex>th all the kingdomes  of <hi rend="italic">Spaine (Portu <lb/>
+            </hi>excepted) nor w<ex>i</ex>th all the dukedomes, and earldoms  <lb/>
+            of the <hi rend="italic">Netherlandes</hi> w<ex>i</ex>th the kingdomes of <hi rend="italic">Naplls</hi> <lb/>
+            and <hi rend="italic">Cicille</hi> but he affects the <hi rend="italic">Empire of Germa=<lb break="no"/>
+            nye</hi>, and delte not therin as kinge <hi rend="italic">Francis</hi>, <lb/>
+            who had the same Ambitione, but havinge how <lb/>
+            setled his Estat<ex>es</ex> in <hi rend="italic">Spaine, Naples &amp; Nauar=<lb break="no"/>
+            ra</hi> w<ex>hi</ex>ch he Could not have done but by the pre=<lb break="no"/>
+            tence of the fores<ex>ai</ex>d mariage; he Raised an Army <lb/>
+            one the suddaine w<ex>hi</ex>ch marched towarde <hi rend="italic">Francfo=<lb break="no"/>
+            rd</hi>, and assuringe therby those of his owne party <lb/>
+            and discouraginge the rest, he was forthw<ex>i</ex>th ele=<lb break="no"/>
+            cted Emperor of <hi rend="italic">Germanie</hi>. / .
+         </p>
+         <p>
+            And Nowe he forgetts his father in lawe kinge <lb/>
+            <hi rend="italic">Francis</hi>, forgets the restetutyone of <hi rend="italic">Nauarra</hi>, for=<lb break="no"/>
+            gets the pentione promised to the <hi rend="italic">Ladi Lowis</hi>, <lb/>
+            and in Conclusione he tooke to wyfe the sister of <lb/>
+            <fw type="catch" place="bot-right">John</fw>
+            <pb n="189v" facs="/bl/add_ms_4149_part/add_ms_4149_f189v/add_ms_4149_f189v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobij</hi>
+                </add> <lb/>
+            <hi rend="italic">John Kinge of Portugall </hi>w<ex>i</ex>th whom he had a gre=<lb break="no"/>
+            ate masse of moneye to maintayne his warres ag=<lb break="no"/>
+            ainste the <hi rend="italic">Frenche</hi>. / .
+         </p>
+         <p>
+            By this you maye see to what <del rend="strikethrough">v</del> greate aduantage <lb/>
+            these <hi rend="italic">Princes </hi>vsed the <hi rend="italic">Sacrament</hi> of marriage, <lb/>
+            for beinge twise promysed to <hi rend="italic">Renee</hi>, and twise ma=<lb break="no"/>
+            rried to the daughters of Fraunce<del rend="strikethrough">s</del> <del rend="strikethrough">of</del> the firste, &amp; <lb/>
+            once given to the Ladie <hi rend="italic">Marij</hi> daughter to Kinge <lb/>
+            <hi rend="italic">Henry </hi>the .8th. havinge served his turne by them <lb/>
+            all, he lefte them all to seeke out Newe Parra=<lb break="no"/>
+            moures; and it is well noted by those that wro=<lb break="no"/>
+            tte the Stories of those tymes that before the bat=<lb break="no"/>
+            aile of <hi rend="italic">Pauia</hi>, wher kinge frauncis was made <lb/>
+            Prisonere; <hi rend="italic">Charles </hi>allwaies wrotte to kinge <hi rend="italic">He=<lb break="no"/>
+            nrie the viij</hi> (yo<ex>u</ex>r sonne and Cousine <hi rend="italic">Charles</hi>) but <lb/>
+            nevere after that tyme did he afford him one lyne <lb/>
+            but by his Secretaryes, nor never vsed other su=<lb break="no"/>
+            bscriptione then simple (<hi rend="italic">Charles</hi>:) and by <del rend="strikethrough">delyue=<lb break="no"/>
+            <del rend="strikethrough"/>
+                </del>
+                <del rend="strikethrough">ringe</del> <add place="above">delude</add> Kinge Henry by the promise of beinge his <lb/>
+            sonne in Lawe, he did not onely borrowe gre=<lb break="no"/>
+            ate somes of monie of him, but drewe him <lb/>
+            oftene in to Fraunce to the greate preiudice of <lb/>
+            that Natione. / .
+         </p>
+         <p>
+            But wee may not end here for <hi rend="italic">Charles</hi> that had <lb/>
+            him selfe married so many wives, had also store <lb/>
+            for other men; but the better to confirme the <hi rend="italic">Duke <lb/>
+            of Burbn </hi>in his disloyaltye againste his souera=<lb break="no"/>
+            igne Lord Kinge <hi rend="italic">Frauncis</hi>, he promised him his <lb/>
+            owne Sister, <hi rend="italic">Eleanor</hi> widowe of <hi rend="italic">Emanuell K<ex>ing</ex> <lb/>
+            of Portugalle</hi>, but that poore duke findinge him <lb/>
+            selfe derided; died soone after in the <hi rend="italic">Diche of Rome</hi> <lb/>
+            as he offered to assaille the wales therof, and <hi rend="italic">Ch=<lb break="no"/>
+            arles</hi> the Emperore havinge now kinge <hi rend="italic">Francis <lb/>
+            </hi>his <hi rend="italic">Prisoner </hi>at <hi rend="italic">Madrille</hi> in Spaine made a  <lb/>
+            matche betweene him and his said Sister formor=<lb break="no"/>
+            lie promised to <hi rend="italic">Burbon</hi> vpon condition that kinge <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="italic">Francis</hi>
+                </fw>
+            <pb n="190r" facs="/bl/add_ms_4149_part/add_ms_4149_f190r/add_ms_4149_f190r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobj</hi>
+                </add> <lb/>
+            <hi rend="italic">Francis </hi>should resigne as his righte in <hi rend="italic">Italye</hi>, render <lb/>
+            vnto the <hi rend="italic">Emperoure</hi>, the <hi rend="italic">Duchij of Burgoigne</hi>, quite <ex>th</ex>e <lb/>
+            Soueraigntie of <hi rend="italic">Flanderes &amp; Artoys</hi> w<ex>i</ex>th many other <lb/>
+            insolente and Cruell Conditiones, wherby you may p<ex>er</ex>ceave <lb/>
+            that although the <hi rend="italic">Spaniard</hi> had often abused the <hi rend="italic">Fre=<lb break="no"/>
+            nche </hi>by offeringe them Marriages never ment, yet <lb/>
+            at laste they made a Bargaine outrighte, but such <lb/>
+            a Costely one, as should for ever teach the Frenche <lb/>
+            the prise of a <hi rend="italic">Spanishe </hi>wife. / .
+         </p>
+         <p>
+            But this matrimoniall traffique is not yet at an <lb/>
+            end, the market is still contynued by the <hi rend="italic">Emperor</hi>, <lb/>
+            for <hi rend="italic">Francis</hi> the firste resolued to recouer the <hi rend="italic">Duchie <lb/>
+            of Millan</hi> and to take an accompte of the <hi rend="italic">Duke of <lb/>
+            Millan</hi> and to take an accompte of the <hi rend="italic">Duke of <lb/>
+            Sauoy</hi> for his mothers Inheritance therin, prepa=<lb break="no"/>
+            res an Armye to effecte it. the <hi rend="italic">Emperor </hi>beinge <lb/>
+            newlye returned out of <hi rend="italic">Affrica</hi>, and from the ta=<lb break="no"/>
+            kinge of <hi rend="italic">Tunise</hi> findinge his forces marvelouslye <lb/>
+            decayed by the greate heate of that Countrey, &amp;  <lb/>
+            toyles of the warre, and therfore not in case for <lb/>
+            the presente to resiste kinge Frauncis, he treated  <lb/>
+            a marriage betweene the <hi rend="italic">Infanta of Portug=<lb break="no"/>
+            alle</hi> and the <hi rend="italic">Dolphin of France</hi> &amp; betwene the <lb/>
+            <hi rend="italic">Duke of Angolesme</hi>, the Kinges yonger sonne, &amp; <lb/>
+            the <hi rend="italic">Infanta of Spaine</hi>, though he did not dir=<lb break="no"/>
+            ectely Name her. He offered to give to any of <lb/>
+            the Kinges sonnes a 100. thousand Crownes a year <lb/>
+            pentione out of the <hi rend="italic">Duchey of Millan</hi>, desiring <lb/>
+            w<ex>i</ex>th all that the <hi rend="italic">Duke of Orleance</hi> might acco=<lb break="no"/>
+            mpanie him in the Conqueste of <hi rend="italic">Algire</hi>, then w<ex>hi</ex>ch <lb/>
+            and then anye of theise marriages, he never me=<lb break="no"/>
+            nte any thinge lesse, and doubtinge that the kinge <lb/>
+            would not bite at any <del rend="strikethrough">thinge </del>of theise baites, he also <lb/>
+            offered to invest the <hi rend="italic">Duke of Angolesme</hi> in the <hi rend="italic">Du=<lb break="no"/>
+            che of Millaine</hi>. / .
+         </p>
+         <p>
+            These goodly offeres the kinge Could not refuse, <lb/>
+            though he had Experience enoughe of the  <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="italic">Spanishe</hi>
+                </fw>
+            <pb n="190v" facs="/bl/add_ms_4149_part/add_ms_4149_f190v/add_ms_4149_f190v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add> <lb/>
+            <hi rend="italic">Spanish</hi> trechery; But whill the Emperor helde <lb/>
+            the Emperour held the <hi rend="italic">Kinge</hi> in this treatie, he <lb/>
+            gotte tyme to leuie an <hi rend="italic">Armye</hi> in <hi rend="italic">Germanye</hi> to <lb/>
+            prepare his <hi rend="italic">Fleete</hi> by <hi rend="italic">Andrew Dores </hi>at <hi rend="italic">Genes</hi> <lb/>
+            to make a Confederacie in <hi rend="italic">Italie</hi> and to drawe the=<lb break="no"/>
+            ther all the <hi rend="italic">Spanishe </hi>Garrisones out of <hi rend="italic">Sicilie</hi> <lb/>
+            Comaunded by <hi rend="italic">Gonsalue</hi> after w<ex>hi</ex>ch he never spake <lb/>
+            worde of any of theise Marriages, nor of any pen=<lb break="no"/>
+            tione nor restitucyon of <hi rend="italic">Millan</hi>. / .
+         </p>
+         <p>
+            Nowe for Conclusione we will remember the goodly <lb/>
+            marriage betweene Kinge <hi rend="italic">Philip</hi> the seconde &amp; <lb/>
+            <hi rend="italic">Queene Mary</hi> of Englande formorly promised to <lb/>
+            his father <hi rend="italic">Charles</hi>, for aftere <hi rend="italic">Phillip</hi> had failed in <lb/>
+            his dessigne to make <hi rend="italic">England</hi> a <hi rend="italic">Prouince</hi>, and  <lb/>
+            subiecte to <hi rend="italic">Spaine</hi>, he drewe the good <hi rend="italic">Queene</hi> in <lb/>
+            to a warre againste the French, but after his tu=<lb break="no"/>
+            rne <unclear>
+                    <del rend="strikethrough">ser</del>
+                </unclear> served, and the victory at <hi rend="italic">St Quintanes</hi>, <lb/>
+            he Concluded a Peace w<ex>i</ex>th <hi rend="italic">France</hi>, not so much <lb/>
+            as includinge the <hi rend="italic">Queene</hi> his wyfe, who bein=<lb break="no"/>
+            ge abandoned by her Husbande, she Loste the good <lb/>
+            towne of <hi rend="italic">Callis</hi> w<ex>hi</ex>ch had remayned in Possessio<ex>n</ex> <lb/>
+            of the Crowne of England from the yeare .<hi rend="underline">1347</hi>. <lb/>
+            to the yeare .<hi rend="underline">1558</hi>., Neither had kinge <hi rend="italic">Phillipes</hi>.2d. <lb/>
+            wiffe the Ladie <hi rend="italic">Elizabethe of France</hi> the dau=<lb break="no"/>
+            ghter of <hi rend="italic">Henri</hi> the seconde any greate Cause of <lb/>
+            <del rend="strikethrough">Goye</del> Ioye in that her Aduancemente, for she died <lb/>
+            in <hi rend="italic">Spaine</hi> aftere a stange maner <unclear/>/ as it was <lb/>
+            <del rend="strikethrough">Supposed</del>. suspected. / .
+         </p>
+         <p>
+            Nowe me thinkes I hear some <hi rend="italic">English</hi>
+                <add place="above">man</add> <hi rend="italic">spanioli=<lb break="no"/>
+            zed</hi> saye vnto the kinge, that seinge the <hi rend="italic">Kinges <lb/>
+            of France</hi>; but espetially of <hi rend="italic">Spaine</hi> have so often <lb/>
+            matcht themselues w<ex>i</ex>th the <hi rend="italic">Dukes of Sauoye</hi>, <lb/>
+            whie should not his ma<ex>jes</ex>tie also accepte of theire <lb/>
+            <del rend="strikethrough">marriage</del> alliance; But his ma<ex>jes</ex>tie beinge of <lb/>
+            an vniuersall vnderstandinge will easely fynde <lb/>
+            the difference; for though the kinges of <hi rend="italic">Polonia</hi> fou=<lb break="no"/>
+            nd it greately to their aduantage to matche w<ex>i</ex>th <lb/>
+            <fw type="catch" place="bot-right">the <hi rend="italic">Dukes</hi>
+                </fw>
+            <pb n="191r" facs="/bl/add_ms_4149_part/add_ms_4149_f191r/add_ms_4149_f191r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobij</hi>
+                </add> <lb/>
+            the <hi rend="italic">Dukes of Lithuania</hi> yet yf such an ouerture <lb/>
+            were made to our kinge he would find it exceeding <lb/>
+            rediculous. / .
+         </p>
+         <p>
+            For the <hi rend="italic">Frenche Kinges</hi> and the <hi rend="italic">Kinges of Spa=<lb break="no"/>
+            ine </hi>who have oftene quarreled, <hi rend="italic">Italij</hi>,<hi rend="italic"> Naples</hi>, <hi rend="italic">&amp; <lb/>
+            Millan</hi>, and who are like hearafter so to to doe, have <lb/>
+            greate reason to make the <hi rend="italic">Dukes of Sauoy </hi>theirs, <lb/>
+            france in respecte of a passage into <hi rend="italic">Italij</hi>, <hi rend="italic">Spaine</hi> <lb/>
+            in respecte of a bulwarke againste <hi rend="italic">France</hi>, but our <lb/>
+            kinges of England who have no busenes ouere <lb/>
+            the <hi rend="italic">Alpes</hi>, who pretend no tytle to <hi rend="italic">Millain</hi>, nor  <lb/>
+            to <hi rend="italic">Naples</hi> but as kinges of <hi rend="italic">France</hi>, (w<ex>hi</ex>ch yf evere <lb/>
+            god shall restore vnto them, they shall as easely  <lb/>
+            beate the <hi rend="italic">Sauoyan</hi> as the french hath done) can <lb/>
+            make no manere of vse of that alliance, othere <lb/>
+            then to drawe them in to a warre for the defence <lb/>
+            of those <hi rend="italic">Dukes</hi>. / .
+         </p>
+         <p>
+            But lett vs nowe somwhat amongeste theise other <lb/>
+            respect<ex>es</ex>. enter into the due Consideration of the per=<lb break="no"/>
+            sone of this exelent yonge Princes the onely dau=<lb break="no"/>
+            ghter of our Soueraigne the deare beloued sister <lb/>
+            of our <hi rend="italic">Prince</hi> and one of the Pretiouse Iueles of  <lb/>
+            this kingdome; lett vs I saye but indifferently exa=<lb break="no"/>
+            mine what encrease of Honor &amp; dignetye, or what <lb/>
+            greate Comforte and Contentemente she Can expecte <lb/>
+            or hope for by the benefite of this match. / .
+         </p>
+         <p>
+            For the <add place="above">first to witt</add> <del rend="strikethrough">w<ex>hi</ex>ch</del> honore and dignetie as she is borne the <lb/>
+            eldeste a nd nowe onely daughter of one of the Might=<lb break="no"/>
+            ieste kinges of Christendome, so is she therby of <del rend="strikethrough">place</del> <lb/>
+            highere place and state then the Wife of a <hi rend="italic">Duke of <lb/>
+            Sauoy</hi>. Besides in her birthe and bloud bothe of <lb/>
+            father and mother dissended of such royall races as <lb/>
+            <hi rend="italic">Sauoye</hi> Cannot add any greater grace or glorye <lb/>
+            vnto and by Nature and Educatione endued w<ex>i</ex>th <lb/>
+            suche Princely perfectyones bothe of bodie and mi=<lb break="no"/>
+            nde as maye well deserve to be reputed a worthie <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="italic">Spouse.</hi>
+                </fw>
+            <pb n="191v" facs="/bl/add_ms_4149_part/add_ms_4149_f191v/add_ms_4149_f191v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobj</hi>
+                </add> <lb/>
+            <hi rend="italic">Spouse</hi> for the greateste monarch in the Christendome <lb/>
+            espesially consideringe the possebyllyties of the da=<lb break="no"/>
+            ughteres of Englande wherof wee have had <lb/>
+            many presidentes and at this tyme is happely <lb/>
+            manifested in the kinges ma<ex>jes</ex>tie our Soueraigne, be=<lb break="no"/>
+            inge descended of a daughter of England wher=<lb break="no"/>
+            by the whole Ilande formorly devided is againe <lb/>
+            nowe made one greate <hi rend="italic">Brittaine</hi> to the mutuall <lb/>
+            strength of either. / .
+         </p>
+         <p>
+            Nowe to conferre the possebillitie of such a fortune <lb/>
+            vpon a poore Popishe <hi rend="italic">Duke of Sauoye</hi>, that  <lb/>
+            Can returne no recompence nor benefite to this <lb/>
+            State, were greately for his glorye though litle <lb/>
+            for the Aduancemente of this Noble princes, and <lb/>
+            lese for the safetie of this kingdome Consideringe <ex>th</ex>e <lb/>
+            dangeres that it may drawe vpon our Worthie <lb/>
+            magnamineouse <hi rend="italic">Prince</hi>, and the Noble duke of <lb/>
+            Yorke yf the ambitione of this match should tikle  <lb/>
+            the <hi rend="italic">Sauoyan </hi>to looke after possebillities wherin <lb/>
+            ther would want neither meanes, perswasyons, <lb/>
+            nor pardones from Rome to practice any villanye <lb/>
+            in that behalfe, wherby to benefite or strengthene <lb/>
+            an appendex of <hi rend="italic">Spaine, </hi>and so denoted a sonne <lb/>
+            to the <hi rend="italic">Romish see</hi>. / .
+         </p>
+         <p>
+            For the Seconde namly the Comforte and Content=<lb break="no"/>
+            mente of this worthie yonge ladye by this <hi rend="italic">Match</hi>, <lb/>
+            as ther is litle in apparance presently, So is <lb/>
+            there lese to be hoped for in the future. for as first <lb/>
+            she <unclear>
+                    <del rend="strikethrough">if to</del>
+                </unclear> <add place="above">must</add> be remoued farre of from her Natiue soile, <lb/>
+            farre from her  Neereste bloude bothe by father &amp;  <lb/>
+            mother, in to a Countrey asmuche estranged from <lb/>
+            our Natione as any paarte of Christendom, ans <lb/>
+            as farre differing frome vs in Religione as in <lb/>
+            Climate and what true Correspondencie or ma=<lb break="no"/>
+            trimoniall affectione ther Can be maintainede <lb/>
+            betweene those persones whose mindes are diffe=<lb break="no"/>
+            rent and opposite in the religeous points. of their <lb/>
+            <fw type="catch" place="bot-right">Christian</fw>
+            <pb n="192r" facs="/bl/add_ms_4149_part/add_ms_4149_f192r/add_ms_4149_f192r.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add> 
+            Christian faith, is greately to be doubted. / .
+         </p>
+         <p>
+            Moreouere it is <add place="above">no lese</add> to be feared w<ex>i</ex>th what safetie and <lb/>
+            and securetie she can longe liue free from secrete <lb/>
+            practises and treacheries in a Contrey so neare <ex>th</ex>e <lb/>
+            <hi rend="italic">Popes </hi>Iurisdiction invironed w<ex>i</ex>th the plottes of the <lb/>
+            Iesuites, who wee see doe dayly trafique the liues <lb/>
+            and fortunes of all <hi rend="italic">Princes</hi> that are not wholie <lb/>
+            devoted to the Romishe obedience and therfore howe <lb/>
+            they will entertayne or tollorate any of the Race of o<ex>u</ex>r <lb/>
+            kinge, were too greate an errour and presumptyo<ex>n</ex> <lb/>
+            to truste vnto. / .
+         </p>
+         <p>
+            So as when the worth is Ladie hearafter by her  <lb/>
+            Children or otherwise hath furnished their desire <lb/>
+            and fully served their turne; she shalbe then either <lb/>
+            enforced to wound her Conscience by forsakinge her <lb/>
+            faithe, or else to vndergoe the Scornes &amp; dangeres <lb/>
+            w<ex>hi</ex>ch shalbe daily Caste vpon her and her famelye <lb/>
+            for the exercise of their Religeon. / .
+         </p>
+         <p>
+            And this also wee may be well assured of, that <lb/>
+            yf she should have any Issue by the <hi rend="italic">Prince of Pi=<lb break="no"/>
+            emont</hi>, they muste be all bredd and broughte vppe <lb/>
+            contrary to her Conscience, w<ex>hi</ex>ch can be no smalle <lb/>
+            greife to a vertuous and naturall mother, and <lb/>
+            as litle Comforte to our iuste religeouse kinge their <lb/>
+            Grandfather. / .
+         </p>
+         <p>
+            Lastely the verie bindinge cause of <hi rend="italic">Amitie</hi> between <lb/>
+            all <hi rend="italic">Kinges, Princes &amp; states</hi> is their trade &amp; <lb/>
+            entercourse of their Subiect<ex>es</ex>. / . <lb/>
+            Nowe ther is not any <hi rend="italic">Prince</hi> or state of <hi rend="italic">Europe <lb/>
+            </hi>(the greate I<ex>n</ex>land Countreyes of <hi rend="italic">Hungarie &amp; Tran=<lb break="no"/>
+            siluania</hi> excepted) but the English have trade w<ex>i</ex>th=<lb break="no"/>
+            all. Yea evene w<ex>i</ex>th the <hi rend="italic">Turke, Barbarian, Pe=<lb break="no"/>
+            rcian &amp; Indianes</hi>; only w<ex>i</ex>th the Subiect<ex>es</ex> of <hi rend="italic">Sa=<lb break="no"/>
+            uoye</hi>, I doe not knowe that wee have any medl=<lb break="no"/>
+            inge or enterchange at all, for the <hi rend="italic">Duke</hi> hath <lb/>
+            no porte, (his diche of <hi rend="italic">Villefrancks</hi> excepted w<ex>hi</ex>ch <lb/>
+            <fw type="catch" place="bot-right">is onelie</fw>
+            <pb n="192v" facs="/bl/add_ms_4149_part/add_ms_4149_f192v/add_ms_4149_f192v.jpg"/>
+            <add place="header" rend="align-right">
+                    <hi rend="italic">An<ex>n</ex>o .9. Iacobi</hi>
+                </add>
+            is onelye Capable of a fewe Galleyes) either to fur=<lb break="no"/>
+            nishe shippes from, or to receave them beinge Stran=<lb break="no"/>
+            geres. / .
+         </p>
+         <p>
+            And therfor for his ma<ex>jes</ex>tie of England to matche his <lb/>
+            eldeste and onely daughter w<ex>i</ex>th a prince w<ex>hi</ex>ch hath <lb/>
+            his dependancie one other kinges, a Prince Iesu=<lb break="no"/>
+            ited, w<ex>hi</ex>ch Can Neither stead vs in tyme of warre, <lb/>
+            nor trade w<ex>i</ex>th vs in tyme of Peace. A Prince  <lb/>
+            by the Cituatione of his Countreye every waye <lb/>
+            vnproffytable vnto us, <del rend="strikethrough">vnto</del> and no lese perelous <lb/>
+            for his Childe to liue in, I seolue my selfe that <lb/>
+            his Ma<ex>jes</ex>tie is of too <del rend="strikethrough">ele</del> exelent a Iudgemente <lb/>
+            <del rend="strikethrough">Iudge</del>  euer to accepte of it, and his Honorable <lb/>
+            Counsell too wise and prouidente to aduise the <lb/>
+            prosecution therof. / .
+         </p>
+         <p>
+            Nowe yf his Highnes should be pleased to aske <lb/>
+            my opinione w<ex>i</ex>th what Christian prince hee <lb/>
+            should match his sister, were it in his owne <lb/>
+            powre and Choyse to make election. I hum=<lb break="no"/>
+            lie desire to be Excused therin, for would it be=<lb break="no"/>
+            come me to presume so farre. It is true that <lb/>
+            I have heard it that some ouertures hath bene <lb/>
+            made for the  <hi rend="italic">Princ Pallatine of the Rhine</hi>, <lb/>
+            certenly he is aswell borne as the <hi rend="italic">Duke of sa=<lb break="no"/>
+            voy</hi>, and as free a Prince as he is, The <lb/>
+            Natione is Faithfull, he is of our Religeon, <lb/>
+            and by him wee shall greately fasten vnto vs  <lb/>
+            the <hi rend="italic">Netherlandes</hi> &amp; for the litle Iudgement <lb/>
+            that god hath givene me; I doe Prise the al=<lb break="no"/>
+            liance of the <hi rend="italic">Pallatine of the Rhine</hi>, and of <lb/>
+            the House of <hi rend="italic">Nassaw</hi> more then I doe <del rend="strikethrough">of</del> the <lb/>
+            alliance of Tenne <hi rend="italic">Dukes of Sauoye</hi>. / .<lb/>
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">. Finis . /</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_4149_part/add_ms_4149_f184r/add_ms_4149_f184r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_4149_part/add_ms_4149_f184v/add_ms_4149_f184v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_4149_part/add_ms_4149_f185r/add_ms_4149_f185r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_4149_part/add_ms_4149_f185v/add_ms_4149_f185v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_4149_part/add_ms_4149_f186r/add_ms_4149_f186r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_4149_part/add_ms_4149_f186v/add_ms_4149_f186v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_4149_part/add_ms_4149_f187r/add_ms_4149_f187r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_4149_part/add_ms_4149_f187v/add_ms_4149_f187v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_4149_part/add_ms_4149_f188r/add_ms_4149_f188r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_4149_part/add_ms_4149_f188v/add_ms_4149_f188v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_4149_part/add_ms_4149_f189r/add_ms_4149_f189r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_4149_part/add_ms_4149_f189v/add_ms_4149_f189v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_4149_part/add_ms_4149_f190r/add_ms_4149_f190r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_4149_part/add_ms_4149_f190v/add_ms_4149_f190v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_4149_part/add_ms_4149_f191r/add_ms_4149_f191r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_4149_part/add_ms_4149_f191v/add_ms_4149_f191v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_4149_part/add_ms_4149_f192r/add_ms_4149_f192r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_4149_part/add_ms_4149_f192v/add_ms_4149_f192v.jpg"/>
+   </facsimile>
+</TEI>

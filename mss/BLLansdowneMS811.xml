@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>BL Lansdown MS 811</title>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Manuscript Description is provided in the body.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <msDesc>
+                <msIdentifier xml:id="BL_Lansdowne_MS_811">
+                    <country>United Kingdom</country>
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Lansdowne</collection>
+                    <idno>MS 811</idno>
+                    <msName/>
+                </msIdentifier>
+                <msContents>
+                    <msItem n="1">
+                        <locus>133x-139x</locus>
+                        <title>Book of Observations</title>
+                        <author>
+                            <persName corresp="../people/people.xml#P0185">John Keymer</persName>
+                        </author>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <note/>
+                        <link target="../texts/KeymerBookObservations.xml" type="witness"/>
+                        <msDesc>
+                            <msIdentifier/>
+                            <history>
+                                <summary/>
+                                <origin/>
+                                <provenance/>
+                            </history>
+                        </msDesc>
+                    </msItem>
+                    <msItem n="2">
+                        <locus>133x-139x</locus>
+                        <title when="1624-04-27">A Relation of the Proceedings against Ambassadors who have Miscarried Themselves</title>
+                        <author>
+                            <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                        </author>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <note/>
+                        <link target="../texts/CottonProceedingsAgainstAmbassadors1624.xml" type="witness"/>
+                        <msDesc>
+                            <msIdentifier/>
+                            <history>
+                                <summary/>
+                                <origin/>
+                                <provenance/>
+                            </history>
+                        </msDesc>
+                    </msItem>
+                    <msItem n="3">
+                        <locus>140r-156x</locus>
+                        <title when="1626">Opinion Touching the Alteration of Coin</title>
+                        <author>
+                            <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                        </author>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <note>Here dated 6 April</note>
+                        <link target="../texts/CottonCoin1626.xml" type="witness"/>
+                        <msDesc>
+                            <msIdentifier/>
+                            <history>
+                                <summary/>
+                                <origin/>
+                                <provenance/>
+                            </history>
+                        </msDesc>
+                    </msItem>
+                    <msItem n="4">
+                        <locus>158x-175*x</locus>
+                        <title>That the Sovereign's Person Is Required in the Great Councils or Assemblies of the State, as well the Consultations as at the Conclusionss</title>
+                        <author>
+                            <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                        </author>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <note/>
+                        <link target="../texts/CottonSovereignsPersonState.xml" type="witness"/>
+                        <msDesc>
+                            <msIdentifier/>
+                            <history>
+                                <summary/>
+                                <origin/>
+                                <provenance/>
+                            </history>
+                        </msDesc>
+                    </msItem>
+                    
+                </msContents>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc>
+                            <foliation/>
+                            
+                        </supportDesc>
+                    </objectDesc>
+                    <handDesc>
+                        <handNote n="1">
+                            <p/>
+                        </handNote>
+                        
+                    </handDesc>
+                </physDesc>
+                <history>
+                    <origin/>
+                    <provenance/>
+                </history>
+            </msDesc>
+        </body>
+    </text>
+</TEI>

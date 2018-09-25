@@ -1,0 +1,1187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to a Pamphlet Slandering Queen Elizabeth</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1600">1600?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <handNotes>
+            <handNote xml:id="h1">Main hand.</handNote>
+            <handNote xml:id="h2">Provides emendations, most probably pre-1642. In places, it notes not just individual words but incorporates missing phrases which are presumably drawn from another version of the text.</handNote>
+            <handNote xml:id="h3">Later hand, likely eighteenth-century.</handNote>
+            <handNote xml:id="h4">Another seemingly contemporary hand.</handNote>
+         </handNotes>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-16" who="#SV" status="proofread"/>
+            <change when="2018-04-09" who="#RB" status="draft"/>
+            <change when="2018-02-22" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="44r" facs="/bl/add_ms_11600/add_ms_11600_f044r/add_ms_11600_f044r.jpg"/>
+         <head rend="align-centre" hand="#h3">
+            An Ans<ex>we</ex>r to a Pamplet Slandering Q<ex>ueen</ex> Eliz<ex>abeth</ex> <lb/>
+         </head>
+         <p>
+            There is an idle Pamphlett suffered w<ex>i</ex>th as little discre<ex>cio</ex>n <lb/>
+            to be put in prynt vnder the name of an Englishman, <lb/>
+            inventing more spitefully <add place="above" hand="#h2">against</add> the <del rend="strikethrough">
+                    <unclear>rem</unclear>
+                </del> Netherland<add place="above">e</add>
+                <ex>es</ex> then w<ex>i</ex>th <lb/>
+            any sence of reason, and so basely barking at the name <lb/>
+            of a glorious Queene as therein a malicious hvmo<ex>u</ex>r mij appeare/ <lb/>
+            And the Workeman you maij Marke hym bij so vild   <lb/>
+            a Worke Indeed of a Corrupt stomacke that belcheth for <lb/>
+            the vnsavorij stuffe not fearing the blasting of the <lb/>
+            displeasvre of the highest.
+         </p>
+         <p>
+            This maketh me to Call to mind a mischeivous <lb/>
+            pamphlett long sithence sett forth in the French <lb/>
+            tonge, after the Massacre in <hi rend="italic">france</hi> Where to make  <lb/>
+            svch a peece of Worke more svtable bij the entitled <lb/>
+            Avtho<ex>u</ex>r it bare in the Fore front the name of <ex>th</ex>e <lb/>
+            English Catholique Insynuateing therbij that <lb/>
+            a Revolted Englishman is a fitt Instrument  <lb/>
+            for anij evill matter.
+         </p>
+         <p>
+            As there is nothing more Comelij then the visage <lb/>
+            of a man in health &amp; in good plight, So there <lb/>
+            is no shape more deformed then the face of <lb/>
+            a man disfigured So surelij a true Englishma<add place="above">n</add> <lb/>
+            will borne bredd and retayneing his true faith <lb/>
+            and naturall allegance is a worthij Creature, <lb/>
+            But fallen from his originall integritij into <lb/>
+            Treason or <del rend="strikethrough">so</del> <del rend="strikethrough">vn</del>
+                <add place="above">
+                    <unclear reason="check hand">vnn</unclear>
+                </add>aturall Recusance is indeed a  <lb/>
+            a base &amp; unwrthy person, as vglij to be Consi <lb/>
+            dre<unclear>dr</unclear>ed in himselfe as vnmeete to teach others <lb/>
+            and whij: their preaching is of Cvrseing and lyes <lb/>
+            That great Emp<ex>er</ex>or Father to king <hi rend="italic">Philip the <lb/>
+            Second</hi> would saij he liked the Treson well to <lb/>
+            make vse of it but never Could awaij w<ex>i</ex>th the <lb/>
+            <fw type="catch" place="bot-right">p<ex>er</ex>son</fw>
+            <pb n="44v" facs="/bl/add_ms_11600/add_ms_11600_f044v/add_ms_11600_f044v.jpg"/>
+            p<ex>er</ex>son of a Traitor Neither did either of <lb/>
+            them boeth greatlij respect anij Fugitives <lb/>
+            but onlij to serve there owne tvrne. / <lb/>
+         </p>
+         <p>
+            For the belchinges in his Pamphlett breathed <lb/>
+            out against the Netherlandes thovgth there is <lb/>
+            nothing but frothe and Fome I will <add place="above" hand="#h2">not</add> doe <lb/>
+            that nac<ex>i</ex>on wrong to forestall the Answeareinge <lb/>
+            the same bij them that will doe it w<ex>i</ex>th the <lb/>
+            penn and knowledge as they have defended <lb/>
+            there Cuntreij w<ex>i</ex>th the<del rend="strikethrough">r</del> swords &amp; great Cvr<add place="above">r</add>age  <add place="LM" hand="#h2">Courage</add> <lb/>
+            But where so lavish tongues attempt malisiouslij <lb/>
+            to touch the sacred <add place="LM" hand="#h2">sacred</add> name of that glorious  <lb/>
+            Queene whose memorij &amp; fame doth more &amp; <lb/>
+            more increase &amp; never will be forgotten. <lb/>
+            Trulij there hardlij Can bee found anij <lb/>
+            but this Counterfeit English, that durst <lb/>
+            adventure to Cast vp such foule aspersions <lb/>
+            against her Cleere renowne: And I <lb/>
+            doe thinke theire heartes trembled w<ex>i</ex>thin <lb/>
+            them that handled that blurring penn, vnto <lb/>
+            whome when shee was alive theij did <lb/>
+            bend dissembling knees w<ex>i</ex>th great <unclear>ease</unclear>, they <lb/>
+            Cannot assuredlij unspeake of her nowe shee is <lb/>
+            dead w<ex>i</ex>thout a guiltij Conscience But as theij  <lb/>
+            did bij a Contynu<add place="above">a</add>ll trayve of mischeivous plotts <lb/>
+            seeke to take awaij her deare life, whose blood <lb/>
+            was precious in the sight of the most highest, <lb/>
+            and to vexe and disquiet her w<ex>i</ex>th p<ex>er</ex>nicious Iterated <lb/>
+            practises, to disturbe &amp; trouble the quiet Calm<ex>m</ex>e <lb/>
+            of her estate, that for manij yeares she stood <lb/>
+            vpon her Centynell &amp; Contynuall watche
+            <pb n="45r" facs="/bl/add_ms_11600/add_ms_11600_f045r/add_ms_11600_f045r.jpg"/>
+            haveing her trust in the tender mercye of God for <lb/>
+            ever. Wherein the lord that Careth for his Chosen <lb/>
+            did hyde her precious life in his presence from <lb/>
+            the provoking of all men. God was her refuge <lb/>
+            and defence in the d<del rend="strikethrough">utij</del>
+                <add place="above">aij</add> of trouble &amp; sett her on a <lb/>
+            Rocke too high for them. Hee was her <del rend="strikethrough">help</del> hope <lb/>
+            and a strong Tower against the Enemye. So  <lb/>
+            their malice being the more inflamed the lesse it <lb/>
+            did prevaile After he de<del>s</del>c<hi rend="underline">ea</hi>se <add place="LM" hand="#h2">decease</add> theij still p<ex>er</ex>secute <lb/>
+            her fame and good name, w<ex>i</ex>th vyld &amp; dailij new devi <lb/>
+            sed slanders. Their practises Could not tuch <lb/>
+            her princlij life, nor their slaunders shall be able  <lb/>
+            to taijnt her glorious name. /
+         </p>
+         <p>
+            Some soyle and dust maij bee Cast on the cleerest <lb/>
+            Christall but quickelij shaked off &amp; wiped off the <hi rend="underline">pristinat<add place="above">e</add>
+                </hi> <add place="LM" hand="#h2">pristinate</add> <lb/>
+            beautij will appeare. / This is the Ancient <lb/>
+            Enmitij and deadlij fewde which the feynd hath <lb/>
+            taken vp even at the Creac<ex>i</ex>on of <hi rend="italic">Adam</hi> The trace <lb/>
+            is followed bij his hellhoundes, houndes of blvd, that <lb/>
+            hunt after the sweet scent of the memorable fame <lb/>
+            of Gods Chosen. But like madd enraged Cvrres  <lb/>
+            after barking snarleing and hauling, Choller <lb/>
+            boyling w<ex>i</ex>thin them, theij Cast up their lothsome <lb/>
+            stomacke and sluring over it, theij licke it vp <lb/>
+            againe w<ex>i</ex>th ther slavering tongues. /
+         </p>
+         <p>
+            Lett them bee confounded o lord, Lett the lying lippes bee pvt to <lb/>
+            Confvsion, <del rend="strikethrough">wich</del> which Crvelly disdaynefullij and despightfullij speake <lb/>
+            against the Righteous. The Lord shall keepe his C<add place="above">h</add>osen secretlij <lb/>
+            in his Tabernac<del rend="strikethrough">kel</del>
+                <add place="above">le</add> from the strife of tovg<del rend="strikethrough">g</del>
+                <add place="above">n</add>es.
+         </p>
+         <p>
+            Yea happij are they <add place="above" hand="#h2">when</add> men revyle them and p<ex>er</ex>secvte them and <lb/>
+            saij all manner of evill against them for his sake, falsly
+            <pb n="45v" facs="/bl/add_ms_11600/add_ms_11600_f045v/add_ms_11600_f045v.jpg"/>
+            Theij taxe her w<ex>i</ex>th a pvrpose to leave her Realme <lb/>
+            in vncertaintij, so to fall into Confusion. That indeed <lb/>
+            is the point that such Companions did hope after &amp; long <lb/>
+            for, and this is their greife, that the sacred Ma<ex>jes</ex>ty of o<ex>u</ex>r <lb/>
+            most Noble king was so generallij acknowledged w<ex>i</ex>th <lb/>
+            svch fvll and vniforme applavse. As afterwardes <lb/>
+            <del rend="strikethrough">theirs</del> theis and their like had resort to wicked <lb/>
+            Tresons the like <del rend="strikethrough">befor</del> whereof weare never heard in <lb/>
+            former tyme And I shall never hold them for more <lb/>
+            <add place="LM" hand="#h4" rend="italic">Herbert Croftes</add> then svspect that weare so well thought of bij the <lb/>
+            Powder Traito<ex>u</ex>rs howe to bee spared, and theij to bee <lb/>
+            warned not to bee at the Parlyament hovse when <lb/>
+            the blowe was to bee given. and at that tyme held <lb/>
+            their peace. Of whome some are nowe in <hi rend="underline">chose</hi> <add place="LM" hand="#h2">choyse</add> partes. <lb/>
+            Thovgh a wortheij noble p<ex>er</ex>son started at svch suddaine <lb/>
+            and Clowdye warning &amp; theire by Gods p<ex>ro</ex>vidence <lb/>
+            and to his ever worthy praise Intymac<ex>i</ex>on was <lb/>
+            taken and well followed euen by the inspired  <lb/>
+            wisedome of o<ex>u</ex>r most prvdent King to the fvll <lb/>
+            discou<ex>er</ex>y of this vncouth Treason. /
+         </p>
+         <p>
+            Concerning that Asserc<ex>i</ex>on of the Qveenes Irresoluc<ex>i</ex>on <lb/>
+            I showld doe that worthy Ladye great wrong to bee <lb/>
+            silent in that slaunder, my selfe w<ex>i</ex>th many other <lb/>
+            being able to saij the Contrary, that shee in tended  <lb/>
+            the svccession whereof right it did descend, Which <lb/>
+            a worthij and most Noble Earle yet alive the <lb/>
+            Auncientest Counsellor in Christendome is able to <lb/>
+            affirme, And a great Counsellor sonne of a great <lb/>
+            and worthy Covnsello<ex>u</ex>r decesed, hath trvly confirmed <lb/>
+            But whether theis and their like had a squint <lb/>
+            Eye to looke ascue on a fayned title, theire bookes <lb/>
+            extant <del rend="strikethrough">This is the Ancent Enmity &amp; deadly fewde <lb/>
+            w<ex>i</ex>thich the feynd hath taken vp even at the Creac<ex>i</ex>on <lb/>
+            of <hi rend="italic">Adam</hi>. The trace is followed by his hellhoundes, <lb/>
+            houndes of bloud that hunt after <ex>th</ex>e sweet sent of the</del>
+            <pb n="46r" facs="/bl/add_ms_11600/add_ms_11600_f046r/add_ms_11600_f046r.jpg"/>
+            Doe shewe and some of their secrett letters are yet to bee seene <lb/>
+            For the manner of her death. Her sicknes was a kind of <lb/>
+            sleepynes, relaxac<ex>i</ex>on and stillnes of the sences But what shee <lb/>
+            saiid of the succession of the Crowne was evident. <hi rend="italic">None <lb/>
+            should weare her crowne but he<del rend="strikethrough">r</del> that bore a crowne.</hi> And how <lb/>
+            <add place="LM" hand="#h2">when</add> the Archbishop of <hi rend="italic">Canterbury</hi> Doctor <hi rend="italic">Whitgift</hi> praying bij <lb/>
+            her <add place="LM" hand="#h2">
+                    <unclear>an</unclear>d she holding <unclear>hi</unclear>m by the hand <unclear>sh</unclear>e lifted vp <unclear>h</unclear>er eyes w<ex>i</ex>th g</add> w<ex>i</ex>th great <lb/>
+            Contynuall and settled devoc<ex>i</ex>on and wovld <lb/>
+            not let his hand goe by any meanes So leaving the world <lb/>
+            in great peace &amp; sueetly yeilding up w<ex>i</ex>thovt any disquietnes <lb/>
+            her<del rend="strikethrough">
+                    <unclear/>e</del> last breath, and her soule to God, shee Changed this <lb/>
+            life for a better. <hi rend="italic">For a good life hath her dayes numbred</hi> but <lb/>
+            a good name endvreth for ever. /
+         </p>
+         <p>
+            For that other <del rend="strikethrough">Engli</del> slaunder (against soe great &amp; gracious a <lb/>
+            Qveene) of this English Observer as hee termeth himselfe <lb/>
+            borne p<ex>er</ex>haps in this land, but Cast out as the <hi rend="underline">foame</hi> <add place="LM" hand="#h2">foame</add> out of <lb/>
+            Cleere water: Hee had p<ex>er</ex>haps read the saying of the  <lb/>
+            <hi rend="italic">Luwis <unclear>Castrocany</unclear>
+                </hi> that governed that Cittye and territorye  <lb/>
+            w<ex>i</ex>th Tyrany and vsed such desp<ex>er</ex>ate wordes when he <lb/>
+            dyed <hi rend="italic">Her body was buried in peace</hi> and <hi rend="italic">her name <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">Liueth for euermore</hi> The Aspersion that is layd on<del rend="strikethrough">t</del> <lb/>
+            that Qveene in this <hi rend="italic">libel</hi> for staing of the monaij sent bij <lb/>
+            sea into the Lowe Countries so manij yeares sithence. <lb/>
+            <add place="LM" hand="#h2">pertayned</add>Itt is most apparent that the monaij p<ex>er</ex>teyned to some <lb/>
+            Merchantes of <hi rend="italic">Ornaa</hi> and the Qveene being advertised of the <lb/>
+            same by the Cardynall <hi rend="italic">Chatillion</hi> and afterwardes w<ex>i</ex>th more <lb/>
+            Certainty, shee tooke that Discreete Covrse which anij <lb/>
+            Prynce may lawfvlly doe and shee <del rend="strikethrough">vndrst</del> had great <lb/>
+            reason to doe it, vnderstanding that the same was partly <lb/>
+            destinated to bee employed against her in the Rebelion  <lb/>
+            of the <hi rend="italic">North</hi>, broken forth a litle before &amp; indede before  <lb/>
+            the appointed tyme,
+         </p>
+         <p>
+            Whereby the Cheifest svpply was broken likewise for the <lb/>
+            assistance of the <hi rend="italic">Rebells</hi>. Which wisely that Queene <lb/>
+            did not forbeare to tell vnto <hi rend="italic">Chiapin Vitelle</hi> Marynes <lb/>
+            of <hi rend="italic">Cetona</hi>. when hee was sent to the Qveene from the <lb/>
+            dvke of <hi rend="italic">Alua</hi>. Hee having some infermitij in his feete  <lb/>
+            vsed a staffe to staij him.
+         </p>
+         <fw type="catch" place="bot-right">
+                <del rend="strikethrough">vsed</del>
+            </fw>
+         <pb n="46v" facs="/bl/add_ms_11600/add_ms_11600_f046v/add_ms_11600_f046v.jpg"/>
+         <p>
+            The Qveene told hym hee came to her as a Captaine <lb/>
+            and leader of men w<ex>i</ex>th his Trvncheon, not as an <lb/>
+            Embassador For that indeed was the part hee was  <lb/>
+            appointed to play in the Rebellion.
+         </p>
+         <p>
+            Many yet alive have seene the gent<ex>leman</ex> of Genoa <add place="LM" hand="#h2">Genoa</add> that <lb/>
+            was sent vnto her Ma<ex>jes</ex>ty at the house of <hi rend="italic">Benedict <lb/>
+            Spinola</hi> in Favchurch streete, who was expressely sent <lb/>
+            hyther to demand that moneij &amp; to take order w<ex>i</ex>th <lb/>
+            her Ma<ex>jes</ex>ty for the repayment of the same to the <lb/>
+            Contentment of the Owners. And it is most Certaine	<lb/>
+            had not the providence of that Qveene taken order for <lb/>
+            the safetye of that Messe of money, it was in apparent <lb/>
+            danger to haue fallen into the handes of those that <lb/>
+            wovld haue kept it from the Duke of <hi rend="italic">Alua</hi>, &amp; p<ex>er</ex>haps <lb/>
+            kept him good game w<ex>i</ex>th it. By the meanes of the <lb/>
+            Qveene, the money was saved from intercepting &amp; <lb/>
+            noe wrong done or Ca<add place="above" hand="#h2">v</add>se of Complaint to any but to <lb/>
+            those that had hope to have gotten the same to <lb/>
+            have employed it even against the Duke of <hi rend="italic">Alua</hi>. For it is <lb/>
+            Most Certayne that <hi rend="italic">S<ex>i</ex>r William Winter</hi> did rescue one of <ex>th</ex>e <lb/>
+            shipps out of the handes of the French Pirattes that were redij <lb/>
+            to boord her &amp; Carry her away, So as the Genowaies weare <lb/>
+            beholding to her Ma<ex>jes</ex>ty princely Care.
+         </p>
+         <p>
+            Where in this treatise large menc<ex>i</ex>on is made of the favor the <lb/>
+            king of <hi rend="italic">Spaine</hi> king <hi rend="italic">Philipp</hi> did shewe to her then the ladij <lb/>
+            <hi rend="italic">Elizabeth</hi> in the tyme of Qveene <hi rend="italic">Marie</hi>. This gratefull <lb/>
+            Qveene never did Conceale the same, Yea, I mij selfe have <lb/>
+            heard her make ample acknowledgement thereof And I <lb/>
+            may adde that which in the historie of her life is sett downe <lb/>
+            that the affecc<ex>i</ex>on of that king was soe great towardes her, <lb/>
+            as hee desired after the disease of her sister to marrye her. <lb/>
+            But that the king stood so stifflij for the redeliu<ex>er</ex>ye of Calice <lb/>
+            the Case is mvch mistaken. For no man knewe the passages <lb/>
+            better then the lord <hi rend="italic">Burleigh</hi> Secretary to her Ma<ex>jes</ex>ty at that time <lb/>
+            who ever Constantly Devyed the same. And it was given in <lb/>
+            the Instrucc<ex>i</ex>on &amp; in a declaration to a servant of hers she
+            <pb n="47r" facs="/bl/add_ms_11600/add_ms_11600_f047r/add_ms_11600_f047r.jpg"/>
+            sent vnto the king of <hi rend="italic">Spaine</hi>, amongst other his vnfrendlij <lb/>
+            dealinges to put him in mynd howe vnkyndlij hee had Carryed  <lb/>
+            hymselfe in that treatye. The Declarac<ex>i</ex>on which was <lb/>
+            warranted w<ex>i</ex>th her owne hand is extant amongst other <lb/>
+            things passed in her Raigen in those Monumentes kept <lb/>
+            nowe in <hi rend="italic">Whitehall</hi> in theis very wordes.
+         </p>
+         <p>
+            First wee may Call to mind that peace very well knowne <lb/>
+            which was made by his Catholique <add place="LM" hand="#h2">
+                    <unclear>M</unclear>a<ex>jes</ex>tie w<ex>i</ex>th the <unclear>F</unclear>rench king not <lb/>
+            <unclear>l</unclear>ong after the decease of his &amp;c</add> Decease of his Royall <lb/>
+            Spose Queene <hi rend="italic">Marie</hi> &amp; her Royall Ma<ex>jes</ex>tys sister. Which <lb/>
+            peace was greatly advantagious to hym in the Recou<ex>er</ex>eing <lb/>
+            of many townes: But to her Ma<ex>jes</ex>ty and the Crowne of <lb/>
+            <hi rend="italic">England</hi> of exceeding damage and losse, for neglecting the <lb/>
+            Restituc<ex>i</ex>on of <hi rend="italic">Calice</hi>. Which hee ought to have regarded <lb/>
+            for the late Remembrance of the benifitt bij the Auxiliary <lb/>
+            forces which hee had receved from her Ma<ex>jes</ex>ty sister And <lb/>
+            that not only at his intreaty &amp; motion the Crowne of <hi rend="italic">England</hi> was <lb/>
+            engaged in the French warre. Wherevpon ensved the <lb/>
+            taking away of that towne out of the handes of the English <lb/>
+            after the most famous king of <hi rend="italic">England</hi> had heald the same <lb/>
+            in great honnor for the space of many yeares.
+         </p>
+         <p>
+            It may <del rend="strikethrough">bee</del> likewise bee added that when the Crowne of <lb/>
+            <hi rend="italic">England</hi> had Contynued in great tranquilyty &amp; peace w<ex>i</ex>th <lb/>
+            her neighbor Nac<ex>i</ex>on &amp; indeed w<ex>i</ex>th all the Prynces of <lb/>
+            Christendome. Neu<ex>er</ex>theles for the Catholiques kings sake <lb/>
+            only shee fell at varyance w<ex>i</ex>th the French king &amp;c where <lb/>
+            by that warre was kyndled which presently ensved w<ex>i</ex>th the <lb/>
+            French &amp; o<ex>u</ex>r Neighbor Nac<ex>i</ex>on, The Realme of <hi rend="italic">England</hi> <lb/>
+            at one and the same tyme svsteyning the envasions of bothe <lb/>
+            Which notw<ex>i</ex>thstanding being so besett on eu<ex>er</ex>y side for <lb/>
+            his only Cavse, the Catholique king was so farre from <lb/>
+            asisting vs, as Contrariewise hee embraced peace w<ex>i</ex>th ovr <lb/>
+            Adversaries &amp;c.
+         </p>
+         <p>
+            The Catholique king likewise refused to renewe the treatij <lb/>
+            betweene the hovse of <hi rend="italic">Burgundie</hi> &amp; <hi rend="italic">England</hi>, Wonderfull <lb/>
+            thinges might be declared that the Realme of <hi rend="italic">England</hi> hath <lb/>
+            well deserved of the Catholique king as wee incurred the
+            <pb n="47v" facs="/bl/add_ms_11600/add_ms_11600_f047v/add_ms_11600_f047v.jpg"/>
+            ill will both of the French and Scottes, then vnder <lb/>
+            the French by reson of the inte<add place="above">r</add>marringe betweene the <lb/>
+            French &amp; them. By those warres shee had brovght <lb/>
+            her selfe into those trobles. And then to bee forsaken <lb/>
+            What was it? but to testfie a plaijne deserc<ex>i</ex>on &amp; <lb/>
+            determenation to embrace freindship w<ex>i</ex>th others. <lb/>
+            Further to shewe his adverse mann<ex>er</ex> both to the Que<ex>en</ex> <lb/>
+            and the Realme, hee sent backe to her Ma<ex>jes</ex>ty the <lb/>
+            Order of the Garter.
+         </p>
+         <p>
+            In the same declarac<ex>i</ex>on afterward is handled at <lb/>
+            large the Iustifieing of her Ma<ex>jes</ex>ty touching the <lb/>
+            taking into her handes the money of the <hi rend="italic">Genowaies</hi> <lb/>
+            There are sundry other declarac<ex>i</ex>on sett forth at <lb/>
+            those tymes that doe fully answeare all the obiecc<ex>i</ex>on <lb/>
+            nowe raked out of the ashes after so many yeares <lb/>
+            past by theis Observers, Who as it seemes would <lb/>
+            spend all there breath to blowe the Coales to rayse <lb/>
+            a newe fier out of those Cynders if they may bee  <lb/>
+            able to doe it.
+         </p>
+         <p>
+            But to Cleeare this poynt, true it is the king of <lb/>
+            <hi rend="italic">Spaine</hi> stood stiffly at the first vpon the restituc<ex>i</ex>on <lb/>
+            of <hi rend="italic">Calice</hi> but for an other end &amp; purpose. The <lb/>
+            French did shewe in that treaty they made svch <lb/>
+            accompt of that towne as they Condisended sooner to <lb/>
+            the kinges demavnds to yeild vp aboue 100 townes <lb/>
+            rather then to forgoe <hi rend="italic">Calice</hi>.
+         </p>
+         <p>
+            The king that made the demavnd of <hi rend="italic">Calice</hi> to make <lb/>
+            his bargaine, soe to gett the possession by that means <lb/>
+            of the places hee desired, when the French Condisiended <lb/>
+            to that hee Cheiflij fovght, hee easilij left of to <lb/>
+            insist vpon the restituc<ex>i</ex>on of <hi rend="italic">Calice</hi>, &amp; made his peace <lb/>
+            w<ex>i</ex>th the French king Which the Frinch do remember <lb/>
+            to bee the most dishonorable &amp; vnproffitable peace that <lb/>
+            euer <hi rend="italic">France</hi> did make. <add place="above" hand="#h1">And therefore <ex>th</ex>e Queene had great reason to make</add> menc<ex>i</ex>on to the king of <hi rend="italic">Spaine</hi> <lb/>
+            amongst other vnkyndnesses of the losse of this Towne <lb/>
+            in the tyme of the intermarriage w<ex>i</ex>th her sister, who <lb/>
+            was drawne into opne warres w<ex>i</ex>th the French king
+            <pb n="48r" facs="/bl/add_ms_11600/add_ms_11600_f048r/add_ms_11600_f048r.jpg"/>
+            for his quarrell, and by whose ayd and healpe of her <lb/>
+            people he gott <hi rend="italic">St Quintins</hi> Wherefore in honnor hee <lb/>
+            showld have endeavoured effectually the restituc<ex>i</ex>on there <lb/>
+            of, and not to leave svch a blott vpon his name, that <lb/>
+            <hi rend="italic">Calice</hi> being of many yeares kept in o<ex>u</ex>r possession from the <lb/>
+            tyme of <hi rend="italic">Edward</hi> the <hi rend="italic">Third</hi> shovld bee lost in the Raign<add place="above">e</add> <lb/>
+            of that Potent king.
+         </p>
+         <p>
+            Trve it is indeed when the Qveene did discover <lb/>
+            that the king vsed this pretence to another <del rend="strikethrough">end</del> <add place="above" hand="#h2">end and</add> to make <lb/>
+            thereby his one advantage; p<ex>er</ex>ceiving the Frinch to <lb/>
+            drive hym from that demand, would yeild to what <lb/>
+            els hee Could wishe, hee had his desier, &amp; shee treate<add place="above">d</add> <lb/>
+            for her selfe as an absolvte Prynce that would not <lb/>
+            march vnder his banner. For this treaty was begunne <lb/>
+            in the tyme of her sister at <hi rend="italic">Cambray</hi>. And some <lb/>
+            svch proposic<ex>i</ex>ons weare made as in a Pryncly mind <lb/>
+            shee had reason to neglect, saying shee would not <lb/>
+            buy a Fishertowne w<ex>i</ex>th svch a baite.
+         </p>
+         <p>
+            To what end is it heere sett downe that Queene <lb/>
+            <hi rend="italic">Elizabeth</hi> went ordynaryly to Masse in her sister <lb/>
+            Queene <hi rend="italic">Maries</hi> tyme, &amp; had Masse in her Chappell <lb/>
+            after shee Came to the Crowne, and that the <lb/>
+            same was vsed in the Realme a long season, when <lb/>
+            many living vntell this day Can<del>e</del> averre the <lb/>
+            Contrarie. But what was left out and what <lb/>
+            was read in English, and what rust was <del rend="strikethrough">wyshed</del> <lb/>
+            wyped away, either <add place="above" hand="#h2">he</add> listeth not to mention or is <lb/>
+            not quoted in his Observac<ex>i</ex>on. To more pvrpose <lb/>
+            it weare to tell hym that all o<ex>u</ex>r Papistes for manij <lb/>
+            yeares went duely to heare divine service in her <lb/>
+            Ma<ex>jes</ex>ty tyme in the English tongve vntill of late <lb/>
+            yeares. But hee hath no mynd to sett downe howe <lb/>
+            Queene <hi rend="italic">Marie</hi> did in her stile which is to be  <lb/>
+            seene vnder the great seale of England tearme <lb/>
+            her selfe Supreame Head of the Church in <lb/>
+            <hi rend="italic">England</hi> and <hi rend="italic">Ireland</hi>, which the Queen neuer <lb/>
+            <fw type="catch" place="bot-right">did</fw>
+            <pb n="48v" facs="/bl/add_ms_11600/add_ms_11600_f048v/add_ms_11600_f048v.jpg"/>
+            Neither will hee acknowledge that the pope <lb/>
+            did offer to Queene <hi rend="italic">Elizabeth</hi> to allowe the <lb/>
+            <hi rend="italic">Leturgie</hi> wee had in English if shee would <lb/>
+            acknowledge his Supremacy But for the <lb/>
+            word Supremacy, shee neuer assumed  <lb/>
+            it nor did like it to bee applyed to her title <lb/>
+            Where most impudently it is set downe <lb/>
+            in the Pamphlett, that the troubles of the <lb/>
+            Lady <hi rend="italic">Elizabeth</hi> weare for sundry offences <lb/>
+            against Queene <hi rend="italic">Marie</hi> her sister, which <lb/>
+            being found to be svch might p<ex>er</ex>haps have <lb/>
+            Cost her her life if they had Come to <lb/>
+            publique tryall of Iustice, I may say as he <lb/>
+            saith of that industrious p<ex>er</ex>son <hi rend="italic">Mr Fox</hi>, If <lb/>
+            any such had beene you should have seene <lb/>
+            them sett downe in Capitall letters. And <lb/>
+            soe farre is it from truthe as this Libell <lb/>
+            Author or Authors Could not tell what to in <lb/>
+            vent, wherein is made true in themselues <lb/>
+            that saing. <hi rend="italic">That such as dispence with there <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">allegence make withall shipwracke of all <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">consciene</hi>. Theis men turne Good into <unclear>s</unclear>oyll <lb/>
+            and where no spott <add place="LM" hand="#h2">spott</add> is fynd defectes.
+         </p>
+         <p>
+            But such was the Innocencye of that ladye as <lb/>
+            shee wrote in the wyndowes of her lodgeing in <lb/>
+            the tower yet <add place="above">to</add> bee seene and other places w<ex>i</ex>th <lb/>
+            a dyamond <hi rend="italic">Many thinges haue <del rend="strikethrough">
+                        <unclear>beea</unclear>
+                    </del> beine <lb/>
+            obiected against mee, but nothing proued can bee.</hi> <lb/>
+            So shee gave for her devyse a Sive For <lb/>
+            shee had beene sifted and fanned w<ex>i</ex>th all <lb/>
+            Curious devyses but no Chaffe found. Her <lb/>
+            Posie was <hi rend="italic">Semper eadem</hi>. w<ex>i</ex>th that severity <lb/>
+            weare those of the Conspiracye of <hi rend="italic">Wiatt</hi> <lb/>
+            exa<ex>m</ex>y<ex>n</ex>ed. some of her servantes imprisoned and
+            <pb n="49r" facs="/bl/add_ms_11600/add_ms_11600_f049r/add_ms_11600_f049r.jpg"/>
+            racked but nothing found to touch her. Howe vnrespec <lb/>
+            tiuely did <hi rend="italic">Benefeild</hi> the lieten<add place="above">a</add>nt of the Tower behave hy<ex>m</ex>selfe <lb/>
+            before her and towards her to <del rend="strikethrough">blow</del> whome after shee Came <lb/>
+            to the Crowne shee only sayd. Wen shee had any that <lb/>
+            weare to bee straytly kept shee would appoint hym to  <lb/>
+            haue the Charge of them.
+         </p>
+         <p>
+            Indeede there weare some of the Clergye at that tyme <lb/>
+            who did vehemently pushe at the desracc<ex>i</ex>on of this <lb/>
+            Innocent Ladie. But the Lord God did manifestly <lb/>
+            shewe his favor and power both to her the Realme, <lb/>
+            and for the Good of all Christendome in her deliu<ex>er</ex>ye <lb/>
+            They weare inflamed w<ex>i</ex>th rage like Blood suckers <lb/>
+            so as they pressed heresye or Conspiracye, whereinto <lb/>
+            neither the king nor the lordes thovght it fitt to offend <lb/>
+            the world, a young ladie, nor their co<add place="above">n</add>sciences so farre. <lb/>
+            Blessed bee the lord God that hath pleasvre  in the  <lb/>
+            prosperity of his seruant, hee remayneth a victorious  <lb/>
+            king for ever.
+         </p>
+         <p>
+            The great respect king <hi rend="italic">Edward</hi> the <hi rend="italic">Sixth</hi> did  <lb/>
+            beare to the ladie <hi rend="italic">Marie</hi> was in another manner <lb/>
+            very gratious, as is to bee seene by those thinges <lb/>
+            which are yet extant of that tyme sent by <lb/>
+            Messages and Letters vnto her, and her Carriag<add place="above">e</add> <lb/>
+            and answeares very stout <add place="LM" hand="#h2">stout</add> and to say truthe <lb/>
+            shewing a great and Princely mynd. Neverthe <lb/>
+            les it Canot bee de<add place="above">n</add>yed but shee yeilded furder <lb/>
+            in king <hi rend="italic">Edwardes</hi> tyme, then ever the Queene did <lb/>
+            in  her tyme.
+         </p>
+         <p>
+            But these kind of men whose heartes are in ther <lb/>
+            mouthes shewing in theire writinges svch spight= <lb break="no"/>
+            full spirittes towardes her that was theire Sou<ex>er</ex> <lb/>
+            aigne, soe many yeares, after her decease, <lb/>
+            discouer their hollowe hearttes towardes them alive <lb/>
+            and soe shewe what race they are of, and
+            <pb n="49v" facs="/bl/add_ms_11600/add_ms_11600_f049v/add_ms_11600_f049v.jpg"/>
+            howe such p<ex>er</ex>sons may bee accounted of. Some <lb/>
+            of them desended from those that weare <lb/>
+            highly bound to her Ma<ex>jes</ex>ty and euen themselues <lb/>
+            to his Royall Ma<ex>jes</ex>ty
+         </p>
+         <p>
+            What showld I say of them tell them The <lb/>
+            wordes of ther mouth are full of deceat. their <lb/>
+            inward partes burne altogether w<ex>i</ex>th mischeife. <lb/>
+            They ioij therein they goe beyond all modestye <lb/>
+            in their vyld Invenc<ex>i</ex>ons And as on of them <lb/>
+            said long sithence, being by Another of their <lb/>
+            society told that hee had sett downe so vnlikely <lb/>
+            an vntruthe that might have beene forborne, <lb/>
+            Itt is all the better so long as svch Ingred= <lb break="no"/>
+            yentes haue op<ex>er</ex>ac<ex>i</ex>on and wyll worke. <unclear>q<ex>ue</ex> he</unclear>.      <lb/>
+            Men that are accustomed to opprobrious wordes <lb/>
+            and vse the trade of lyeing and slaundering, <lb/>
+            thougth none doe beleeue them, yet they take <lb/>
+            such a habite therein by Custome as they <lb/>
+            beleeue theire owne invenc<ex>i</ex>ons.
+         </p>
+         <p>
+            Breifly at the same Poste<add place="above">r</add>ne where due <lb/>
+            allegeance goeth forth rusheth in a pestilent <lb/>
+            Corrupc<ex>i</ex>on that infecteth all the spirittes. <lb/>
+            Treasons &amp; false Accusac<ex>i</ex>ons are their Familiars <lb/>
+            True Englishmen keepe yo<ex>u</ex>r naturall tincture. <lb/>
+            Itt is an hon<ex>ora</ex>ble marke and repentac<ex>i</ex>on, a noble <lb/>
+            Character, to bee a loyall Subiect, a True <lb/>
+            Englishman.
+         </p>
+         <p>
+            Bee Resident vpon that stay and be not  <lb/>
+            like vagrant p<ex>er</ex>sons to alter &amp; Waver in the  <lb/>
+            reght course of true obedience and native <lb/>
+            fidelity, as theis landleppers who, <hi rend="italic">Cum esto <unclear>mutare</unclear> <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">animum</hi> as an old English Poet saijeth.
+            <pb n="50r" facs="/bl/add_ms_11600/add_ms_11600_f050r/add_ms_11600_f050r.jpg"/>
+            As <unclear>Renyed</unclear> Caitiffes wretchles runne about, <lb/>
+            and thincke they proffitt not vnles they Chainge <lb/>
+            both their faith and fidelity.
+         </p>
+         <p>
+            Thes are the first fruit<ex>es</ex> they must yeild of ther <lb/>
+            Conversion, Indeed easily learned when the other <lb/>
+            is cast off. to slander boldly <hi rend="italic">Machiauell</hi> is nowe <lb/>
+            quite put downe since theis newe schoolemen <lb/>
+            haue sett vp shop For <unclear>witt</unclear> policy is no more in  <lb/>
+            request that dare not looke vp to heaven, wher <lb/>
+            they bend themselues to followe their badd purposes: <lb/>
+            Men are nowe tought by the Rules and <lb/>
+            Rudymentes of <del rend="strikethrough">are</del> theis new Fathers, to be Confir=<lb break="no"/>
+            med in theis horrible Prynciples, and that by <lb/>
+            <hi rend="underline">Reigion</hi> <add place="LM" hand="#h2">
+                    <hi rend="underline">religion</hi>
+                </add> <del rend="strikethrough">to</del>: Never has theire Impiety so impious <lb/>
+            that durst prophane holy sacred Religion, <lb/>
+            to mayntaine theis p<ex>er</ex>nicious and prophane posic<ex>i</ex>ons, to thinke <lb/>
+            to doe service to God, and to merritt by abandoneing <lb/>
+            faith and fidelity, by Comitting treacherye &amp; Treason, <lb/>
+            They are a renewed Generation of <hi rend="italic">Assassines</hi> <hi rend="underline">thought</hi> <add place="LM" hand="#h2">
+                    <hi rend="underline">taught</hi>
+                </add> <lb/>
+            in this prophane <hi rend="italic">Alcoran</hi>. And first as Children <lb/>
+            beginne to learne to speakk, so they must mispeake <lb/>
+            misreport and slander, and the more boldlij <lb/>
+            impudently and scandalously they doe it, they are <lb/>
+            the better schollers, and lickely to proue p<ex>ro</ex>fessed <lb/>
+            Maisters. Ile goe no further. but let not the <lb/>
+            sereine of a blazing tongue terrify you. Shall  <lb/>
+            Rayling and despightfull speeches daunt or dull  <lb/>
+            the edge of any well affected mynd. Assure you <lb/>
+            there is a reward for the Righteous, doubtles ther <lb/>
+            is a God that Iudgeth the earth.
+         </p>
+         <p>
+            Thus theis Observaciones passe to the offer that <del rend="strikethrough">as</del> was <lb/>
+            made to her Ma<ex>jes</ex>ty of the lowe Countries.
+         </p>
+         <pb n="50v" facs="/bl/add_ms_11600/add_ms_11600_f050v/add_ms_11600_f050v.jpg"/>
+         <p>
+            Att that season it is Certayne there weare <lb/>
+            many yo<del rend="strikethrough">o</del>ung and hott sperittes in the Court <lb/>
+            that did vse large and liberall discourse <lb/>
+            in that Case That the Qveene showld doe <lb/>
+            well to t<del rend="strikethrough">h</del>ake the offer and opportunity Which <lb/>
+            Came to the Queenes eare and even at that <lb/>
+            tyme I heard her say that shee was not <lb/>
+            ignorant of the speeches which weare vsed, <lb/>
+            that if king <hi rend="italic">Henry</hi> the <hi rend="italic">Eight</hi> had beene <lb/>
+            then aliue, hee would not have lett psse that <lb/>
+            oppertunity, but have taken hold thereof to <lb/>
+            assure his estate and augment his dominions. <lb/>
+            But that her sexe was not fitt for those <lb/>
+            Acc<ex>i</ex>ons nor for such Courses. I thancke god <lb/>
+            said shee I shall neuer want the Royall <lb/>
+            spiritt of my father to defend my honnor &amp; State, <lb/>
+            and such pusillanimity shall neuer harbor in  <lb/>
+            my brest, but that mynd a Royall <del rend="strikethrough">King</del> <lb/>
+            Queene ought to beare.
+         </p>
+         <p>
+            What king <hi rend="italic">Henry</hi> my Father would have  <lb/>
+            done in this Case is an imp<ex>er</ex>tynent reasoning. <lb/>
+            For my owne part I will doe that which I <lb/>
+            may answeare to all the world and before <lb/>
+            God, that my conscience and a good Conscience <lb/>
+            shall warrant mee, which in all these great Cases <lb/>
+            shall overway w<ex>i</ex>th mee. But this Pamphlett <lb/>
+            dis<hi rend="underline">cou<del rend="strikethrough">r</del>
+                    <add place="above">e</add>ses</hi> <add place="LM" hand="#h2">
+                    <hi rend="underline">discourses</hi>
+                </add> indeed Came out of a shallowe brayne. <lb/>
+            For those thinges therein so sillilij handeled  <lb/>
+            haue beene better hammered then their <lb/>
+            Capacity is able to reache vnto, or wthin the <lb/>
+            compasse of their knowledge. And though  <lb/>
+            they knowe little yet as the Proverbe sayth <lb/>
+            ther is Craft in daubing The daubing is very <lb/>
+            rougth.
+         </p>
+         <pb n="51r" facs="/bl/add_ms_11600/add_ms_11600_f051r/add_ms_11600_f051r.jpg"/>
+         <p>
+            and the Craft more malicious then workemanlike <lb/>
+            or <hi rend="underline">trewly</hi> done <add place="RM" hand="#h2">
+                    <hi rend="underline">truely </hi>don</add>
+         </p>
+         <p>
+            For looke into the passages of that tyme theij will <lb/>
+            shewe them, howe when the French weare purposed <lb/>
+            to accept the like offer, the Queene sent word to <lb/>
+            the French  king, that if hee did embrace that offer <lb/>
+            shee would ioyne w<ex>i</ex>th the king of <hi rend="italic">Spaine</hi> against <lb/>
+            hym, and diverted hym quite from giving eare  <lb/>
+            to those proposic<ex>i</ex>ons. <hi rend="underline">Read</hi> <add place="above" hand="#h2">read</add> in the History of the lowe <lb/>
+            Countries the treating of that Negociac<ex>i</ex>on Observe <lb/>
+            I say those occurrentes it will bee mayntayned that <lb/>
+            the Queene preserved those countries for the <lb/>
+            king of <hi rend="italic">Spaine</hi> if the vnsupportable Cariage <lb/>
+            of his Governor had not made the breach to loose <lb/>
+            them quite. But theis thinges were handeled so <lb/>
+            at large as it is to litle purpose to revive <ex>th</ex>e same, <lb/>
+            the king of <hi rend="italic">Spaine</hi> having treated w<ex>i</ex>th them in <lb/>
+            those termes hee hath done, and the direcc<ex>i</ex>ons <lb/>
+            given to her Ma<ex>jes</ex>ty Embassador, his treating <lb/>
+            accordingly w<ex>i</ex>th the French king at larg are yet all <lb/>
+            extant and to bee seene, and the occasions of <lb/>
+            sending Mr <hi rend="italic">Wilk<ex>es</ex>
+                </hi> at that <del rend="strikethrough">thym</del> tyme vnto <hi rend="italic">Spaine</hi> <lb/>
+            Therefore if this pretended English fewe ar <lb/>
+            more bee able to doe the king of <hi rend="italic">Spaine</hi> no <lb/>
+            better service w<ex>i</ex>th the<del rend="strikethrough">r</del> sword then w<ex>i</ex>th their <lb/>
+            penn and observac<ex>i</ex>ons, they doe this wayes begge <lb/>
+            tha<del rend="strikethrough">i</del>nkes undeservedly and hee will <unclear>Conne</unclear> them <lb/>
+            but small <hi rend="italic">
+                    <unclear>mercedes</unclear>
+                </hi>./
+         </p>
+         <p>
+            Where he taxeth that worthy Queene of laying <lb/>
+            more taxac<ex>i</ex>ons on her Subiectes, then her <lb/>
+            Auncestors since the Conquest, they are not so <lb/>
+            Conversant in histories of this Realme, as they <lb/>
+            <add place="LM" hand="#h2">or</add> hee might have beene,
+         </p>
+         <pb n="51v" facs="/bl/add_ms_11600/add_ms_11600_f051v/add_ms_11600_f051v.jpg"/>
+         <p>
+            if thay had applijed themselves to read only the life <lb/>
+            of <hi rend="italic">Edward</hi> the <hi rend="italic">Third</hi>, who raysed more to atcheive <lb/>
+            his Conquestes, then euer the Queene did for <lb/>
+            the defence of her Relmes. Neither will they bee <lb/>
+            a knowne when shee had not those vrgent occasions, <lb/>
+            shee remitted a Subsidy granted bij Parliament <lb/>
+            saying, Itt was as ready in the handes of her Subiectes <lb/>
+            as her Coffers, who might in the meane season make <lb/>
+            vse of it to their proffitt and shee when there showld <lb/>
+            bee necessary employment for the good of the Realme <lb/>
+            But by her provident Care God bee thancked that <lb/>
+            great masse of money was stayd w<add place="above" hand="#h2">it</add>hin the Realme <lb/>
+            which in former tymes was Carryed to <hi rend="italic">Rome</hi> to <lb/>
+            farre greater som<ex>m</ex>es euen for trashe &amp; trump<ex>er</ex>ye <lb/>
+            and to mayntayne their pryde and pompe &amp; division <lb/>
+            and warres amongst Christian Prynces.
+         </p>
+         <p>
+            Here the Observator make a Note out of a former <lb/>
+            libell of that vild <hi rend="italic">Parson</hi> of leavying and sending <lb/>
+            soe many seuldiers forth of the Realme to assist other <lb/>
+            Nac<ex>i</ex>ons which was Fathered vpon the lord Cheife <lb/>
+            <hi rend="italic">Baron Manwood</hi>, who being there w<ex>i</ex>thall Charged  <lb/>
+            before the lordes of her Ma<ex>jes</ex>ty Counsell by her Ma<ex>jes</ex>ty <lb/>
+            expresse dyrecc<ex>i</ex>on, vtterly denyed the matter and <lb/>
+            that opnion.
+         </p>
+         <p>
+            This Observer setteth downe the Iniuries done <lb/>
+            by the Netherlanders to the subiectes of this Realme <lb/>
+            not for any Good that may appeare is wished to vs <lb/>
+            by this treatise, wherein hee doth so unworthily <lb/>
+            deprave that worthy ladije <add place="LM" hand="#h2">Lady</add> sometymes their Sou<ex>er</ex>aigne <lb/>
+            but to followe his purpose, to make them seeme an <lb/>
+            vnworthy people, in shewing their provoking cariages <lb/>
+            towards vs.
+         </p>
+         <p>
+            Wherein hee doth also doe his endeavoures to defame <lb/>
+            the late Earle of <hi rend="italic">Leister</hi>, a Noble man of better <lb/>
+            worth then this Wryter will acknowledge who did <lb/>
+            seruice to the king of <hi rend="italic">Spaine</hi> at the seige of <hi rend="italic">St</hi> <lb/>
+            <hi rend="italic">Quintins</hi>.
+         </p>
+         <pb n="52r" facs="/bl/add_ms_11600/add_ms_11600_f052r/add_ms_11600_f052r.jpg"/>
+         <p>
+            The Earle of <hi rend="italic">Leister</hi> was a gente of that temp<ex>er</ex>ate <lb/>
+            dyett in his youth and vsed all Comendable exercise for <lb/>
+            a Nobleman w<ex>i</ex>th as great grace and comelynes as <lb/>
+            any of his tyme. And surely Envy did labor more to <lb/>
+            obscure his fame &amp; reputac<ex>i</ex>on then any other misdemeanor. <lb/>
+            Towards the later end of his yeares hee had learned <lb/>
+            att great feastes in the loue Countries to feed more largly <lb/>
+            especially of fishe at supper &amp; to drinke variety of wynes, <lb/>
+            And yet when he was abr<add place="above" hand="#h2">o</add>ade did Contynue to ryse <lb/>
+            so early, as he gave not that tyme to rest and sleepe <lb/>
+            as his stomacke might make disgestion (by reason where <lb/>
+            of he fell into a great surfett and thervpon dyed <lb/>
+            But what private grudge some of them have to that  <lb/>
+            Noble p<ex>er</ex>son is not vnknowne.
+         </p>
+         <p>
+            The Observer likewise no<add place="above">e</add>th the end of the Prync<add place="above">e</add> <lb/>
+            of <hi rend="italic">Orange</hi> and others who in what sortt he was slayne <lb/>
+            is elsewhere sett downe.
+         </p>
+         <p>
+            For the Countes <hi rend="italic">Egmont</hi> and <hi rend="italic">Horne</hi>, they had  <lb/>
+            deserved well of the king of <hi rend="italic">Spaine</hi> at the said <lb/>
+            seige of <hi rend="italic">St. Quintins</hi>. Those heads of <hi rend="italic">Salmons</hi> the <lb/>
+            kings great Warrier sayd weare more worth then may <lb/>
+            Frye.
+         </p>
+         <p>
+            That Act deserved not neither then nor in the  <lb/>
+            sequell the erecting of his tryumphall <hi rend="italic">Statue</hi> in <lb/>
+            <add place="above">
+                    <unclear>Br<ex>us</ex>
+                    </unclear>
+                </add> a module whereof is to bee seene in print, and might <lb/>
+            well have beene for borne by them to have beene  <lb/>
+            menc<ex>i</ex>oned.
+         </p>
+         <p>
+            From the Earle of <hi rend="italic">Leister</hi> hee skipps w<ex>i</ex>th a great <lb/>
+            stride to taxe <hi rend="italic">S<ex>i</ex>r Frances Drake</hi> a brave seaman of <lb/>
+            that worthe as the Duke of <hi rend="italic">Florence</hi> placed him <lb/>
+            in his Gallery amongst the Princes of that tyme. <lb/>
+            Indeed hee did so beestirre hym as hee frighted  <lb/>
+            manij in his passages on the sea Coast.
+         </p>
+         <p>
+            Insomuch as the Women when their Children <lb/>
+            Crijed, to still them thay wovld say. howld yo<ex>u</ex>r peace <lb/>
+            <hi rend="italic">Drake</hi> comes <hi rend="italic">Drake</hi> comes. <hi rend="italic">Non bene tibi deuisa sunt <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">tempora</hi>. But hee followeth <hi rend="italic">Drake</hi> no furder being <lb/>
+            too great a Circuit round about the whole world,
+            <pb n="52v" facs="/bl/add_ms_11600/add_ms_11600_f052v/add_ms_11600_f052v.jpg"/>
+            neither doth hee menc<ex>i</ex>on or note it in his observac<ex>i</ex>ons <lb/>
+            that the Queene did knight hym at this day <lb/>
+            as a memorable monument of his veiages and <lb/>
+            travells, w<ex>i</ex>th the sword of the French Ambassador.
+         </p>
+         <p>
+            Then as it weare in an Almond leape hee <lb/>
+            falleth <del rend="strikethrough">Then as it weare</del> vpon <hi rend="italic">S<ex>i</ex>r Raphe <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">Winwood</hi> for the redeliu<ex>er</ex>y of <hi rend="italic">Flushing</hi> and <hi rend="italic">Brill</hi>. <lb/>
+            What offence hee had geiven to those Observers <lb/>
+            I knowe not. Neither doe they shewe what <lb/>
+            the excepc<ex>i</ex>on be that they Can<del rend="strikethrough">e</del> iustly take against <lb/>
+            hym in that treatye he being at that tyme <lb/>
+            his Ma<ex>jes</ex>t<ex>ies</ex> <del rend="strikethrough">and done w<ex>i</ex>th that</del> Ambassador w<ex>i</ex>th <lb/>
+            the States of the vnyted Provinces.
+         </p>
+         <p>
+            And the acc<ex>i</ex>ons of his royall Ma<ex>jes</ex>ty are done w<ex>i</ex>th <lb/>
+            that Iudgement, that no excepc<ex>i</ex>ons Can be taken <lb/>
+            against them by any whosoeuer much lesse <lb/>
+            by Fugitives and his Disloyall Subiectes. <lb/>
+            Neither tis that hee speakes of to any pvrpose <lb/>
+            wherein hee doth as Blyndman Buffe strik <lb/>
+            at them hee first meetes w<ex>i</ex>thall thoug<del rend="strikethrough">t</del>h <lb/>
+            p<ex>er</ex>haps newly Come into the feild to looke on <lb/>
+            These bee strange <add place="LM" hand="#h2">strange</add> rakeing vp of sundry peeces <lb/>
+            made by such observac<ex>i</ex>ons as theis men collect <lb/>
+            to patch vp their <sic>dformed</sic> peece of worke, <lb/>
+            and make themselues bugges theirby to <lb/>
+            terrifye and fright such as may assist  <lb/>
+            the Lowe Countrymen that there is intended <lb/>
+            mischeife against them. There is no doubt <lb/>
+            of there mischeivous driftes, and this warning <lb/>
+            is enough to make vs &amp; them more vigilant, <lb/>
+            and to Remember that the Righteous lord <lb/>
+            will have <add place="LM" hand="#h2">haue</add> the snares of <ex>th</ex>e ungodly in peices. <lb/>
+            And allthough theis reportes of the manner of the <lb/>
+            decease<del rend="strikethrough">s</del> of this greate p<ex>er</ex>sons menc<ex>i</ex>oned a litle before <lb/>
+            is most vntrue and slaunderous, yet <ex>th</ex>e argument <lb/>
+            inferred therevpon is no Consequent either <del rend="strikethrough">
+                    <unclear/>
+                </del> <lb/>
+            amongst Divines or humanistes, and I amsware
+            <pb n="53r" facs="/bl/add_ms_11600/add_ms_11600_f053r/add_ms_11600_f053r.jpg"/>
+            Condemned by o<ex>u</ex>r Savior Jesus Crist, Where hee <lb/>
+            said. Suppose you that those <hi rend="italic">Caldeans</hi> weare greater <lb/>
+            synners whose bloud Pilates had myngled w<ex>i</ex>th there <lb/>
+            owne sacrifices then all the other <hi rend="italic">Galileans</hi>, or thinke you <lb/>
+            that those Eighteene vpon whome the Tower of <lb/>
+            <hi rend="italic">Siloam</hi> fell &amp; slewe them weare siners aboue all <lb/>
+            men that dwell at <hi rend="italic">Ierusalem</hi>, I tell you may &amp;c <lb/>
+            Itt is an odious Course to lay slander on any Nac<ex>i</ex>on <lb/>
+            as this lybell most irreligiously doth one the Nether= <lb break="no"/>
+            landes, In which Country there are as many Goodly <lb/>
+            Citties, faire rich Townes, Wniversities Gent, <lb/>
+            Noblemen of great Antiquity and Revenues, and <lb/>
+            liue in as good sort as in any Country of <hi rend="italic">Europe</hi>. <lb/>
+            The booke sayeth theij weare once Sea, then the <lb/>
+            Elementes agrreed amongst themselues in this Surely <lb/>
+            their Industry hath beene worthy of Comendac<ex>i</ex>ons that <lb/>
+            have thus <hi rend="underline">beinfeed</hi> <add place="LM" hand="#h2">
+                    <hi rend="underline">beautified</hi>
+                </add> this peice of grownd, and their Courag<add place="above">e</add> <lb/>
+            remarkeable, that haue so valyantly defended their Countrij <lb/>
+            and Estates euen w<ex>i</ex>th admirac<ex>i</ex>on. And it may bee sayd in all <lb/>
+            thinges the lord hath glorified his people &amp; hath not <lb/>
+            denyed to <del rend="strikethrough">asst</del> assiste them. His owne hee brought againe <lb/>
+            as he did from the deepe of the Sea.
+         </p>
+         <p>
+            Potent indeed they are by sea the lyon Comeing out of <lb/>
+            the sea waves extendes their iourneys to farre Countries. <lb/>
+            And surely the ages to Come will admire at the  <lb/>
+            wisedome Courage and Industry of this Nac<ex>i</ex>on. I <lb/>
+            doubt not but theis Observers haue read of this man <lb/>
+            that Came forth of the sea Itt maij bee <add place="above" hand="#h2">by</add> the troubles <lb/>
+            they haue so long endured <del rend="strikethrough">they haue so long endured</del> <lb/>
+            they are growne into debtes. yet it Cannot bee sayd of <lb/>
+            them that they weare driven by their necessities to have  <lb/>
+            recourse to the authority of anij Pope, to obtayne p<ex>ar</ex>don <lb/>
+            of hym to abate the greate som<ex>m</ex>e of their debtes. Cut <lb/>
+            off the Interest and retrench a great part of the <lb/>
+            Principall. A shift not knowne in former tymes. <lb/>
+            Indeed their beleefe reacheth not so farre to acknowledge  <lb/>
+            any such omnipotency in the Pope, nor is their Conscience <lb/>
+            large to haue recourse to such extraordynary meanes.
+            <pb n="53v" facs="/bl/add_ms_11600/add_ms_11600_f053v/add_ms_11600_f053v.jpg"/>
+            The Invectiue in his different varyety of observac<ex>i</ex>ons <lb/>
+            doth find a great fault in the loue Country men <lb/>
+            in that they Cannot abyde to heare of the inquisic<ex>i</ex>on <lb/>
+            &amp; leaveth to speake of the Counsell of <hi rend="italic">Trent</hi> the <lb/>
+            bringing in of which two Twynnes as two great <lb/>
+            state poyntes haue Cost much blood. /
+         </p>
+         <p>
+            I doubt not but that hee or they doe see or have <lb/>
+            heard. what hath beene vngaynesayable sett <lb/>
+            downe of the Counsell of <hi rend="italic">Trent</hi> to give satisfacc<ex>i</ex>on <lb/>
+            to all the world, And therefore w<ex>i</ex>th good discrec<ex>i</ex>on <lb/>
+            was omytted to be spoken of in this Observac<ex>i</ex>on. <lb/>
+            For the inquisic<ex>i</ex>on it doth best agree w<ex>i</ex>th the ayre <lb/>
+            of that Clymate where it was first hatcht. <lb/>
+            And if more vse weare not made of that <lb/>
+            stratageme in state, then for <hi rend="italic">Religion</hi>. it would  <lb/>
+            never haue beene so vehemently vrged.
+         </p>
+         <p>
+            Then this Pamphlett in this Rapsodye doth <lb/>
+            taxe them w<ex>i</ex>th diversity of <hi rend="italic">Religions</hi> tollerated <lb/>
+            amongst them.
+         </p>
+         <p>
+            Itt <del rend="strikethrough">Tth</del> is a hard Case they are in by the Infinite <lb/>
+            troubles they have beene plunged into that this <lb/>
+            Inconvenyence hath taken hold amongst them <lb/>
+            And yet this discovrse doth not recken a dangerous <lb/>
+            sect sprung forth from <hi rend="italic">Loalla</hi>, which god bee <lb/>
+            thancked have not yet entry amongst them. <lb/>
+            The Repetic<ex>i</ex>on made of the wronges offred <lb/>
+            vnto o<ex>u</ex>r Nac<ex>i</ex>on by the Lowe Country men so much <lb/>
+            and so vehementlij vrged is not heare brought <lb/>
+            in in the reckoning for any good as I said <lb/>
+            meant to vs. but to make vp the matter, as <lb/>
+            nothing Cometh puerely from such a Corrupt <lb/>
+            puddle but stinking water. So as I have <lb/>
+            touched they may knowe that o<ex>u</ex>r Noble king as <lb/>
+            hee is of great wisedome Iudgement &amp; royall <lb/>
+            vnderstanding so hee is as sensible of wronges.
+            <pb n="54r" facs="/bl/add_ms_11600/add_ms_11600_f054r/add_ms_11600_f054r.jpg"/>
+            Can rightly weigh the same, and knowes the tyme <lb/>
+            and meanes to make the world understand, that none <lb/>
+            Can<del rend="strikethrough">e</del> Iudge so well of this Iniuryes as the hart <lb/>
+            of a Royall king. In Cuntryes bordering one neare <lb/>
+            the other and that have vicinity oftentymes may <lb/>
+            happen occasion Iarres and Amendes made. and that <lb/>
+            satisfacc<ex>i</ex>on acknowledgement &amp; reconsiliac<ex>i</ex>on as shalbee <lb/>
+            conveny<add place="above">e</add>nt But the drift of this discourse is to <lb/>
+            another end as I saijd. And I feare mee when <lb/>
+            theis Owles fly abroad, they haue hope some <lb/>
+            darke Cloudes are neare and may soone followe. <lb/>
+            Thus by broken Iumpes the discorser falleth into <lb/>
+            a Rugged feild diuers opinions heald in <hi rend="italic">Religion</hi> <lb/>
+            to propound to the Reader as on a Table sundry <lb/>
+            sawces to tast of that may best like his Appetite <lb/>
+            to shewe that in his travell hee hath beene Curiou<ex>s</ex> <lb/>
+            in that which is not so Comendable and to which <lb/>
+            of theis they rest vpon I leave to themselues. <lb/>
+            Neither will I deale w<ex>i</ex>th their Religion being <add place="LM" hand="#h2">being</add> <lb/>
+            p<ex>er</ex>haps as little as their Allegeance But I am <lb/>
+            sure they haue bene greatly bound both to the <lb/>
+            late Queene and to his excellent Ma<ex>jes</ex>ty <lb/>
+            Neither doe I mislike of being where they are and <lb/>
+            for mij owne part I Could wishe all <del rend="strikethrough">for</del> of their <lb/>
+            myndes weare w<ex>i</ex>th them in p<ex>er</ex>son where they are. <lb/>
+            Wee acknowledge and euen in all humble acknowledg<add place="above">ment</add> <lb/>
+            of the gracious mercy of God, the service of God <lb/>
+            vsed in this Realme of <hi rend="italic">England</hi> to bee most agerable <lb/>
+            to the word of God, of decent order &amp; religious <lb/>
+            Reverence aboue any vsed in Christendome, and I <lb/>
+            may truly say as great a number of learned <lb/>
+            Reuerend <del rend="strikethrough">greate</del> graue worthy Clergie &amp; excellent <lb/>
+            Preachers as eure any tyme <del rend="strikethrough">age</del> age or Country <lb/>
+            weare blest w<ex>i</ex>thall.
+         </p>
+         <pb n="54v" facs="/bl/add_ms_11600/add_ms_11600_f054v/add_ms_11600_f054v.jpg"/>
+         <p>
+            And hearein the discoursist maketh all them <lb/>
+            Puritans that have more <del rend="strikethrough">th</del> true zeale to Religion <lb/>
+            &amp; fidelity to their Prynce then themselues euer <lb/>
+            seened to haue ha<del rend="strikethrough">
+                    <unclear/>
+                </del>d, For the needles Quotac<ex>i</ex>ons  <lb/>
+            of sundry opinions and poyntes in <hi rend="italic">Religon</hi> I leaue <lb/>
+            them to learned deuines. and those bookes which <lb/>
+            haue beene sett forth in those controversies  <lb/>
+            wherein surely there are <del rend="strikethrough">of great</del> some of <lb/>
+            great larning published &amp; prynted in this Realme. <lb/>
+            Neither will I enter into a Confused Chaos <lb/>
+            of strange opinions &amp; newe posic<ex>i</ex>ons propounded <lb/>
+            by diuers of theire late Schoolemen, well Collected <lb/>
+            by some heare. and sett forth to the Infamie of <lb/>
+            the Wryters of such vpstart opinions. Their <lb/>
+            Equivocac<ex>i</ex>ons mentall reservac<ex>i</ex>ons such evasions <lb/>
+            and divellish posic<ex>i</ex>ons indeed odious to bee menc<ex>i</ex>oned <lb/>
+            derogateing from the authority of Sou<ex>er</ex>aigne <lb/>
+            Kinges &amp; that supreame power giuen them by <lb/>
+            God, as the Prynces that will endure the <lb/>
+            same soe to bee defaced deserve not to havne <lb/>
+            the sword boren beefore them, And which none <lb/>
+            of those schismatickes they menc<ex>i</ex>on are so <lb/>
+            desperate to mayntayne.
+         </p>
+         <p>
+            Neither Can they taxe any of those fewe <lb/>
+            amon<add place="above">g</add>st vs that haue beene fooleshly misledd <lb/>
+            to mislike of the excellent decent and religious <lb/>
+            establisht order and goverment of o<ex>u</ex>r Church, <lb/>
+            that they are fallen in such sort from their <lb/>
+            allegence &amp; so desperately miscarryed as the
+            <pb n="55r" facs="/bl/add_ms_11600/add_ms_11600_f055r/add_ms_11600_f055r.jpg"/>
+            Cheifest Idolls amongst them whose wrkes &amp; <lb/>
+            and fragmentes sett out by them in print <lb/>
+            will to all posterities beway and beray them and <lb/>
+            their wicked devises and practises as <hi rend="italic">Parsons <lb/>
+            <hi rend="italic"/>
+                </hi>
+                <hi rend="italic">Dolman</hi> and other their not so much Machiavellion <lb/>
+            as Atheisticall posic<ex>i</ex>ons. Those Bulles which <lb/>
+            that Arch traitor <hi rend="italic">Garnet</hi> had against o<ex>u</ex>r dread <lb/>
+            &amp; royall Sou<ex>er</ex>aigne which any true Christion <lb/>
+            any true Subiect, or any that hath the feare <lb/>
+            of God doth abhorre to thincke of, yet is their <lb/>
+            facc<ex>i</ex>on growne to that Impudencye as they make <lb/>
+            hym <add place="above" hand="#h2">a</add> Saynte.
+         </p>
+         <p>
+            What opinion haue they of true Martirs and <lb/>
+            holy Sayntes, when they range detestable <lb/>
+            Traitor<ex>s</ex> into their membor and Societye. <lb/>
+            Theis Observacioners p<ex>er</ex>haps haue seene <lb/>
+            the Indulgences granted by <hi rend="italic">Gregorye</hi> the <lb/>
+            <hi rend="italic">Thirteenth</hi> to Certayne hallowed graynes or <lb/>
+            beades for the Earle of <hi rend="italic">Westmerland </hi>that <lb/>
+            was in the Northerne Rebellion the 3d <lb/>
+            of July 1582 in this manner.
+         </p>
+         <p>
+            What p<ex>er</ex>son soeuer shall Carry about hym <lb/>
+            one of theis graynes or beades Confessing <lb/>
+            hymselfe and recerving the Sacrvment <lb/>
+            at the first opportunity and praing for <lb/>
+            the health of the Pope and for the <lb/>
+            tranquility of the Church, or for the pros <lb/>
+            perous successe of King <hi rend="italic">Philip</hi> against <lb/>
+            heretiques or other his Rebells, or for the <lb/>
+            Conversion of <hi rend="italic">England Scotland</hi> or <hi rend="italic">Ireland</hi>  <lb/>
+            &amp;c shall purchase plenary Indulgence.
+            <pb n="55v" facs="/bl/add_ms_11600/add_ms_11600_f055v/add_ms_11600_f055v.jpg"/>
+            Then followeth saying in the Article of <lb/>
+            death, <hi rend="italic">Jesus</hi> on his heart being nott able <lb/>
+            to speake it w<ex>i</ex>th his mouth hee shall <lb/>
+            gayne plenary Indulgence &amp;c <lb/>
+            And if by mischance hee should loose  <lb/>
+            one of theis graynes or should bee broken <lb/>
+            hee may put in their place two others <lb/>
+            which shall haue the like Indulgence <lb/>
+            as an old Author sayth.
+         </p>
+         <p>
+            <hi rend="italic">If might of miracle hym faile <lb/>
+            I find not this pardon might lechen a man.
+            </hi>
+         </p>
+         <p>
+            Theis p<ex>er</ex>sons though not so nobly descended <lb/>
+            as the Earle of <hi rend="italic">Westmerland</hi> yet p<ex>er</ex>haps <lb/>
+            haueing as highly offended as hee and <lb/>
+            being aswell qualifyed haue hope <del rend="strikethrough">by</del> <lb/>
+            by theis their Observac<ex>i</ex>ons to attayne <lb/>
+            to the lyke Indulgence. I doe loothe <lb/>
+            to stepp furder into so filthy puddles &amp; <lb/>
+            ame loth to giue the Reader so loathsome <lb/>
+            distastes in greiving his eyes to see such <lb/>
+            Impieties I may say surly they haue <lb/>
+            a fluxe of a foule mouthe as an old <lb/>
+            poet sayeth and grace of guile.
+         </p>
+         <p>
+            Breifely to Conclude I may say w<ex>i</ex>th the <lb/>
+            Psalmist of theis dispightfull shameles <lb/>
+            wrijters <add place="LM" hand="#h2">against whom king dauid did pray <ex>th</ex>e lord to deliuer his soule</add> <lb/>
+            his soule from tyinge lippes &amp; <lb/>
+            undeceitfull tongue.
+         </p>
+         <p>
+            They have gone so fare to whet <lb/>
+            ther tounges like a swoard and <lb/>
+            to shoote out their arrowes <unclear/>
+            <pb n="56r" facs="/bl/add_ms_11600/add_ms_11600_f056r/add_ms_11600_f056r.jpg"/>
+            bitter words, but knowe not that which <lb/>
+            foloweth.
+         </p>
+         <p>
+            God shall strike them w<ex>i</ex>th a swift Arrowe <lb/>
+            They streitch forth their mouth vnto the <lb/>
+            heaven and their toung  goeeth thorugh <lb/>
+            the world.
+         </p>
+         <p>
+            The poison of Aspes is vnder their towngs <lb/>
+            the word<ex>es</ex> of their mouth ar vnrightiounes <lb/>
+            and full of deceict
+         </p>
+         <p>
+            They <del rend="strikethrough">th</del> say o<ex>u</ex>r tounge is oure owne who <lb/>
+            shall let vs.
+         </p>
+         <p>
+            Their mouth is full of Cursing and bitter <lb/>
+            nes
+         </p>
+         <p>
+            Neither knowe they that verse i will vp <lb/>
+            saieth the lord.
+         </p>
+         <p>
+            They shall <del rend="strikethrough">vp</del> doe well to Consedder those <lb/>
+            cursise heaped vpon them in an other place <lb/>
+            wheare of afterwards the reason is givne <lb/>
+            Beecase his delight was in Cvrsing and <lb/>
+            lying it shall happen vnto him hee loued <lb/>
+            not blessing their <unclear>fore</unclear> it shall farre from <lb/>
+            hym./
+         </p>
+         <p rend="align-right">
+            finis 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f044r/add_ms_11600_f044r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f044v/add_ms_11600_f044v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f045r/add_ms_11600_f045r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f045v/add_ms_11600_f045v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f046r/add_ms_11600_f046r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f046v/add_ms_11600_f046v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f047r/add_ms_11600_f047r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f047v/add_ms_11600_f047v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f048r/add_ms_11600_f048r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f048v/add_ms_11600_f048v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f049r/add_ms_11600_f049r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11600/add_ms_11600_f049v/add_ms_11600_f049v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_11600/add_ms_11600_f050r/add_ms_11600_f050r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_11600/add_ms_11600_f050v/add_ms_11600_f050v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_11600/add_ms_11600_f051r/add_ms_11600_f051r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_11600/add_ms_11600_f051v/add_ms_11600_f051v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_11600/add_ms_11600_f052r/add_ms_11600_f052r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_11600/add_ms_11600_f052v/add_ms_11600_f052v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_11600/add_ms_11600_f053r/add_ms_11600_f053r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_11600/add_ms_11600_f053v/add_ms_11600_f053v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_11600/add_ms_11600_f054r/add_ms_11600_f054r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_11600/add_ms_11600_f054v/add_ms_11600_f054v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_11600/add_ms_11600_f055r/add_ms_11600_f055r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_11600/add_ms_11600_f055v/add_ms_11600_f055v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_11600/add_ms_11600_f056r/add_ms_11600_f056r.jpg"/>
+   </facsimile>
+</TEI>

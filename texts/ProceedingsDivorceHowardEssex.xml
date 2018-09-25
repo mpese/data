@@ -1,0 +1,1273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings which Happened Touching the Divorcement between the Lady Frances Howard and Robert, Earl of Essex</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6356">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6356</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_2531">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 2531</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1002">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Sloane</collection>
+               <idno>MS 1002</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1819">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1819</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6447">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6447</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Cotton_MS_Titus_C_VII">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Cotton</collection>
+               <idno>MS Titus C VII</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/AllSoulsOxfordMS117.xml">All Souls College,  MS 117, f. 149r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29587.xml">British Library, Additional MS 29587, ff. 6r–9v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLCottonMSTitusCVII.xml">British Library, Cotton MS Titus C VII, ff. 99r–104v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6356.xml">British Library, Harley MS 6356, ff. 90x–112x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6447.xml">British Library, Harley MS 6447, ff. 1r–15v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1002.xml">British Library, Sloane MS 1002, ff. 1r–13r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1819.xml">British Library, Sloane MS 1819, ff. 1x–8x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1856.xml">British Library, Sloane MS 1856, ff. 47x–50x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS2531.xml">British Library, Sloane MS 2531, ff. 141r–149v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb40.xml">Beinecke Library, Osborn fb40, ff. 433x–493x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ballard_56.xml">Bodleian Library,  MS Ballard 56</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_1227.xml">Harvard Law School,  MS 1227</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Harvard_Law_School_MS_67.xml">Harvard Law School,  MS 67, ff. 3r–22x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_1553.xml">Huntington Library,  HM 1553, ff. 1x–17x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Legal_Papers_Box_1.xml">Huntington Library, Hastings Legal Papers Box 1, Item 16</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Lincolns_Inn_Maynard_MS_59.xml">Lincoln's Inn, Maynard MS 59, ff. 154r–163v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_313.xml">Senate House, University of London,  MS 313</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UCL_Ogden_MS_7_42.xml">UCL, Ogden MS 7/42</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UTAustinMSBLM751PhillipsMS12341.xml">UT Austin MS, BL Microfilm 751 Phillips MS 12341, pp123–204</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1615">c.1615</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>examination</term>
+               <term>legal report</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Overbury Affair</term>
+               <term>divorce</term>
+               <term>Tower of London</term>
+               <term>assassination</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04" who="#RB" status="draft"/>
+            <change when="2018-02" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10r" facs="/bl/add_ms_11600/add_ms_11600_f010r/add_ms_11600_f010r.jpg"/>
+         <head>
+            The proceeding which happened <lb/>
+            touching the diuorse betweene <lb/>
+            the Lady Frances Howard &amp; Robert <lb/>
+            Earle of Essex &amp; also the p<ex>ro</ex>ceeding <lb/>
+            against S<ex>i</ex>r Jaruis Haluash k<ex>nigh</ex>t <lb/>
+            Liuetenant of the tower: S<ex>i</ex>r Thomas <lb/>
+            Mounson k<ex>nigh</ex>t Richard Weston &amp; Turner <lb/>
+            Widdow Iames Franckling touching y<hi rend="superscript">e</hi> <lb/>
+            poysoning of S<ex>i</ex>r Thomas Ouerbury <lb/>
+            k<ex>nigh</ex>t his Ma<ex>jes</ex>ties prisoner in the tower./
+         </head>
+         <p>
+            The lady Frances Howard before the kinges deligates <lb/>
+            Greoge lo<ex>rd</ex> B<ex>isho</ex>p of Canterbury Iohn B<ex>isho</ex>p of London Launcelot <lb/>
+            B<ex>isho</ex>p of Ely Richard B<ex>isho</ex>p of Litchfeild &amp; Couentry Doctor <lb/>
+            Cesar Thomas Parry Daniell Dan Iohn Bennet Francis <lb/>
+            Iames &amp; Thomas Edmonds k<ex>nigh</ex>ts authorized vnder the <lb/>
+            kinges broad seale: her plaint came in Iuly 1613./
+         </p>
+         <p>
+            That she &amp; Rob<ex>er</ex>t Earle of Essex were married by publique <lb/>
+            rites &amp; ceremonyes of the Church in Janu<ex>ary</ex> 1603 that she <lb/>
+            at that tyme was fully thirteene yeares old and is at <lb/>
+            this tyme to or three &amp; twenty./
+         </p>
+         <p>
+            The the foresaid Rob<ex>er</ex>t at the tyme of the pretended <lb/>
+            mariage was about 14 &amp; is about 22 or 23 at this tyme <lb/>
+            at that tyme &amp; euer since, &amp; at this present is a man <lb/>
+            (as farr forth as a man may iudge) &amp; hath been in good <lb/>
+            health &amp; perfect estate of body, not any way hindred by any <lb/>
+            ague, or sickenes, but that he might haue carnall copulation <lb/>
+            with a woman./
+         </p>
+         <p>
+            That since the pretended mariage, at least by the space <lb/>
+            of whole &amp; continuale 3 yeares, after the said Rob<ex>er</ex>t had <lb/>
+            fully attained the age of 18 yeares, as tyme &amp; place did <lb/>
+            serue, after the fashion of other married folkes, the said <lb/>
+            Frances Howard in hope of lawfull issue &amp; desirous to <lb/>
+            be made a mother +
+            <add place="margin">
+               + <lb/>
+               liued together w<ex>i</ex>th <lb/>
+               the said Rob<ex>er</ex>t at <lb/>
+               bed &amp; bord &amp; lay <lb/>
+               both naked &amp; alone <lb/>
+               in bed. as married <lb/>
+               fokes use. &amp; desirous <lb/>
+               to be made a mother/ <lb/>
+               +
+            </add>
+            from tyme to tyme againe &amp; againe <lb/>
+            yeelded her selfe to his power &amp; as much as lay in her <lb/>
+            offered her selfe &amp; her body to be knowne. &amp; earnestly <lb/>
+            desired coniunction &amp; copulation &amp; also the said Earle the
+            <fw type="catch" place="bot-right">same tyme</fw>
+            <pb n="10v" facs="/bl/add_ms_11600/add_ms_11600_f010v/add_ms_11600_f010v.jpg"/> 
+            same tyme very often againe &amp; againe did try to haue <lb/>
+            coppulation as w<ex>i</ex>th his lawfull wife which she refused not <lb/>
+            but vsed the best meanes she could, notw<ex>i</ex>thstanding all <lb/>
+            this the said Earle could neuer carnally know her, nor <lb/>
+            haue that copulation in any sort which the marriag bed <lb/>
+            alloweth: yet before the said pretended mariage and <lb/>
+            since the said Earle hath had &amp; hath power &amp; <lb/>
+            ability of body to deale w<ex>i</ex>th other women but perad=<lb break="no"/>
+            uenture by perpetuall a naturall impediment hath <lb/>
+            been hindred all the former tyme &amp; is at this pr<ex>e</ex>sent <lb/>
+            that he can haue noe copulation w<ex>i</ex>th the said lady <lb/>
+            Frances furthermore the said lady Frances <del rend="strikethrough">is</del> <lb/>
+            hath been &amp; is a woman fitt &amp; able to haue <lb/>
+            copulation w<ex>i</ex>th a man &amp; such a one as may bee <lb/>
+            carnally knowne neither hath in this regard any <lb/>
+            impediment Moreouer the said lady Frances re=<lb break="no"/>
+            mayneth &amp; is at this present a virgin also at the <lb/>
+            tyme of her pretended mariage the said lady <lb/>
+            Frances was vnacquainted w<ex>i</ex>th the Earls wont of <lb/>
+            ability &amp; impediment formerly mentioned &amp; further=<lb break="no"/>
+            more, the said Earle long before the sute com<ex>m</ex>ensed <lb/>
+            hath uery often &amp; at sundry tymes confessed in <lb/>
+            good earnest before wittnesses of good creditt &amp; <lb/>
+            his freinds &amp; kinsfolks that although he did his <lb/>
+            best indeauor, yet he neuer could nor at this tyme can <lb/>
+            haue copulation w<ex>i</ex>th the said lady Frances no not once <lb/>
+            &amp; lately in regard of womanish modesty the said <lb/>
+            lady Frances hath concealed the former matters <lb/>
+            &amp; had a purpose euer to conceale it if she had <lb/>
+            not been forced through false rumours of disobedience <lb/>
+            to the said Earle to reueale them./
+         </p>
+         <p>
+            Shee requireth since this pretended matrimony is <lb/>
+            but a fact &amp; not in right it may be pronounced de=<lb break="no"/>
+            clared &amp; adiudged as none <add place="below">&amp;</add> of none effect &amp; she may <lb/>
+            be quitt &amp; free from all knots &amp; bonds of the same <lb/>
+            by your sentence &amp; authority./
+         </p>
+         <fw type="catch" place="bot-right">The earle./</fw>
+         <pb n="11r" facs="/bl/add_ms_11600/add_ms_11600_f011r/add_ms_11600_f011r.jpg"/>
+         <p>
+            The Earle of Essex replyeth 5 Junij 1614/
+         </p>
+         <p>
+            To the first &amp; second he answereth affirmatiuely./
+         </p>
+         <p>
+            To the 3, he thinketh that at the tyme of his marriage <lb/>
+            he was full fourteene yeares old &amp; is now 22 &amp; vpwardes. <lb/>
+            neither since hath had or hath any sicknes or impediment <lb/>
+            to hinder him but that he might haue had copulation of <lb/>
+            a woman saueing in the tyme of his sickenes of the <lb/>
+            small pockes, for to or 3 yeares after the said marriage <lb/>
+            which continued for a month or six weekes &amp; at another <lb/>
+            tyme, when he had a few fitts of an ague;/
+         </p>
+         <p>
+            To the 4 he affirmeth that for one yeare he diuerse <lb/>
+            tymes attempted, that the 2 other yeares he did lye in <lb/>
+            bed most com<ex>m</ex>only w<ex>i</ex>th her but felt noe motion or p<ex>ro</ex>uocation, <lb/>
+            &amp; therefore attempted the first yeare when he was willing <lb/>
+            she showed her selfe sometymes willing but other <lb/>
+            tymes refused./
+         </p>
+         <p>
+            To the 5 he answereth that he neuer carnally <lb/>
+            knew her, but found not any defect at all in himselfe, <lb/>
+            yet was not able to penetrat into her womb nor enioy her./
+         </p>
+         <p>
+            To the 6 he beleeueth that before &amp; after marriage, <lb/>
+            he hath found an ability of body to know any other women, <lb/>
+            &amp; hath often tymes felt motions &amp; prouocations of the <lb/>
+            flesh tending to carnall copulation, but for perpetuall &amp; <lb/>
+            naturall impediment he knoweth not what the wordes <lb/>
+            meaneth, but that he hath layne by the lady Frances <lb/>
+            to or 3 yeares last past &amp; had noe motion to know her &amp; <lb/>
+            he beleeueth he neuer shall./
+         </p>
+         <p>
+            To the 7 he beleeueth not that the said lady Frances <lb/>
+            is a woman apt &amp; fitt for carnall copulation because he <lb/>
+            hath not found it./
+         </p>
+         <p>
+            To the 8 &amp; 9 he beleeueth them both to be true &amp; thinketh
+            <fw type="catch" place="bot-right">that once.</fw>
+            <pb n="11v" facs="/bl/add_ms_11600/add_ms_11600_f011v/add_ms_11600_f011v.jpg"/>
+            that once before. some wittnesses of credit he did speake to <lb/>
+            this purpose that he oftentymes had endeauored carnally <lb/>
+            to know her but that he did not nor could not./
+         </p>
+         <p rend="indent">
+            The Arch B<ex>isho</ex>p speech to his Ma<ex>jes</ex>tie./
+         </p>
+         <p>
+            In asmuch as we firmly beleeue that the scripture <lb/>
+            directly or by consequence doth conteyne in it sufficient <lb/>
+            matter to deside all controuersies especially in things <lb/>
+            apperteyning to the church &amp; that marriage amongst <lb/>
+            christians can be no lesse accompted then a sacred thinge <lb/>
+            as being instituted by god himsele in paradise, honoured <lb/>
+            by the pr<ex>e</ex>sence of o<ex>u</ex>r sauio<ex>u</ex>r himselfe declared by St Paul <lb/>
+            to be a signe of the spirituall coniunction betweene Christ <lb/>
+            &amp; his church./
+         </p>
+         <p>
+            I would be glad to know by what text or scripture, either <lb/>
+            by the old or new Testament a man may haue a warrant <lb/>
+            to make anullitie for a marriage solemly celebrated, <lb/>
+            <foreign xml:lang="la">propter maleficiam versus hanc./</foreign>
+         </p>
+         <p>
+            The like demaund touching auntient counsells either <lb/>
+            generall or prouinciall &amp; concerning storyes eclesiasticall, <lb/>
+            whether any such matter be to be found in them./
+         </p>
+         <p>
+            If for ought that appeareth neuer mention was made <lb/>
+            of this untill <hi rend="italic">
+                    <foreign xml:lang="la">Hircanus Rhemisis Ep<ex>iscop</ex>us</foreign>
+                </hi>, who liued 400 <lb/>
+            yeares after Christ, it may welbe conceavid that this was <lb/>
+            a concomitant of darkenes &amp; popish superstition which <lb/>
+            about that tyme grew to soe great a height &amp; god <lb/>
+            permitting them, that punishment might fall uppon <lb/>
+            the children of unbeleife./
+         </p>
+         <p>
+            But since the light of the gospell is now in soe <lb/>
+            great a measure broken forth againe, why should not <lb/>
+            I hope that those who haue embraced the ghospell shold <lb/>
+            be free from this <foreign xml:lang="la">maleficium</foreign>? especially since amongst <lb/>
+            a million of men in our age there is not one found who <lb/>
+            is clearly &amp; euidently knowne to be trobled with the <lb/>
+            same &amp; if there should be any which should seeme to <lb/>
+            be molested, we are taught to vse 2 remedyes the one <lb/>
+            spirituall phisicke &amp; the other corporall./
+         </p>
+         <fw type="catch" place="bot-right">For the./</fw>
+         <pb n="12r" facs="/bl/add_ms_11600/add_ms_11600_f012r/add_ms_11600_f012r.jpg"/>
+         <p>
+            For the first o<ex>u</ex> Sauio<ex>u</ex>r said <foreign xml:lang="la">hoc genus demoniorum non <lb/>
+            eicitur nisi per orationem ete ieiunium.</foreign> &amp; St Peter <lb/>
+            speaking of the diuell <foreign xml:lang="la">cui resistite firmi in fide</foreign> &amp; the <lb/>
+            canonists themselues prescribe, almes, fasting &amp; prayer <lb/>
+            to be vsed in that case, but that they ioyne supplica=<lb break="no"/>
+            tions and theire exorcismes thereunto, &amp; for corporall <lb/>
+            medicine to be applyed therewith as against a disease, <lb/>
+            so is the iudgement of our late deuines whether they <lb/>
+            speake of maleficium or not./
+         </p>
+         <p>
+            Now admitt the Earle of Essex might be imagined to <lb/>
+            be trobled with <foreign xml:lang="la">maleficium uersus hanc</foreign> I demaund <lb/>
+            what almes hath been giuen? what fasting hath been <lb/>
+            vsed? &amp; what prayers hath been powred forth to <lb/>
+            appease the wrath of god towards him or his wife? or <lb/>
+            what phisicke hath been taken or medicine hath been <lb/>
+            applyed for 3 yeares together? not one of these things, <lb/>
+            but the first hearing must be to pronounce a nullitie <lb/>
+            in the marriage of which declaration we know the <lb/>
+            begining, but noe mortall mans witt can foresee the <lb/>
+            ende either in his p<ex>er</ex>son or in the'xample./
+         </p>
+         <p>
+            Then the Arch B<ex>isho</ex>p for confirmation of his opinion <lb/>
+            showed the testimonye of Beza Melancthon Perillus <lb/>
+            Hemingus Pollanus Ferritorius &amp; Ganius./
+         </p>
+         <p rend="indent">
+            The kings answere./
+         </p>
+         <p>
+            To the first article that the scripture doth derectly <lb/>
+            <del rend="strikethrough">cont</del> or by conseqeunce conteyne in it sufficient matter <lb/>
+            to deside all controuersies in poynts of faith &amp; saluation <lb/>
+            that I confesse for the Orthodoxe proposition is that <lb/>
+            the scripture doth directly or by consequence conteyne in it <lb/>
+            sufficient matter to deside all controuersies in poynts <lb/>
+            of faith &amp; saluation of which sort annullitye in mariage <lb/>            
+            cannot be accompted for one &amp; therefore your consequence <lb/>
+            vpon the former proposition must fayle, for you say that <lb/>
+            the scripture doth directly or by consequence conteyne <lb/>
+            sufficient matter to disside all controuersies especially
+            <fw type="catch" place="bot-right">in things./</fw>
+            <pb n="12v" facs="/bl/add_ms_11600/add_ms_11600_f012v/add_ms_11600_f012v.jpg"/>
+            in things apperteyning to the church. this in myne <lb/>
+            opinion is proposits &amp; one of the Puritans arguments <lb/>
+            w<ex>i</ex>thout a better distinction or explanations.
+         </p>
+         <p>
+            For further satisfaction to your following question I <lb/>
+            say your one to questions doth answer it. for if there <lb/>
+            be a warrant in scripture for pronouncing of anullity <lb/>
+            <foreign xml:lang="la">propter frigiditatem</foreign> then all the meanes which <lb/>
+            may make him, <foreign xml:lang="la">frigidus versus hanc</foreign> must be com=<lb break="no"/>
+            prehended therein. for why doth our church iustly <lb/>
+            condemne as incestuous the mariag of man with <lb/>
+            his sisters daughter. or the mariag of 2 sisters <lb/>
+            but <foreign xml:lang="la">aparitate rationis</foreign> for if it be not lawfull <lb/>
+            to marry your fathers wife because thereby you <lb/>
+            discouer your fathers shame nor his sister be=<lb break="no"/>
+            cause she is is his kinswoman nor your owne sister <lb/>
+            because thereby you discouer your father and <lb/>
+            mothers shame it can be noe more lawfull to marry <lb/>
+            your sisters daughter for thereby also you discouer <lb/>
+            <sic>you</sic> owne shame as also the same reason serues <lb/>
+            for asending or desending in poynts of consangui=<lb break="no"/>
+            nity <foreign xml:lang="la">quia par est ratio</foreign> the like is this cause for <lb/>
+            although Christ speakes only of three sorts of <lb/>
+            Eunuches yet <foreign xml:lang="la">ratio est quia non potest copula <lb/>
+            inter Eunuchum et mulierem</foreign> &amp; therefore St <lb/>
+            Paule in the first of the Corinths 7 Chapter <lb/>
+            telleth vs clearly it is noe <foreign xml:lang="la">coningium sine copula</foreign> <lb/>
+            I conclude therefore <foreign xml:lang="la">aparitate rationis</foreign> that <lb/>
+            Christ did Comprehend vnder those 3 sorts of <lb/>
+            Eunuches all in ability which doth perpetually <lb/>
+            hinder copulation <foreign xml:lang="la">versus hanc</foreign> whether it were <lb/>
+            naturall or accidentall for what difference is <lb/>
+            there betweene cutting the hand of &amp; beinge <lb/>
+            made impotent therefore amputation <foreign xml:lang="la">et mutilacio <lb/>
+            membri</foreign> is all one in the ciuell law &amp; it is a like
+            <fw type="catch" place="bot-right">defrauding of</fw>
+            <pb n="13r" facs="/bl/add_ms_11600/add_ms_11600_f013r/add_ms_11600_f013r.jpg"/>
+            defrauding of the woman when he who is to be her <lb/>
+            husband is either guelded when the use of that member <lb/>
+            towards her is by any vnlawfull meanes taken from <lb/>
+            him neither is it any way needfull to craue the per=<lb break="no"/>
+            ticuler warrant of anullitye <foreign xml:lang="la">propter maleficium</foreign> out <lb/>
+            of the scriptures noe more then it is for there warrant <lb/>
+            in that place for any anullitye at all. for christ doth <lb/>
+            not directly say that a marriage soe made shalbe nullified. <lb/>
+            neither doth he teach us what forms of processe shold <lb/>
+            be vsed in it neither makes hee mention of a trienniall <lb/>
+            probation no more then the forbidden marriage in the <lb/>
+            4 degrees without leaue of the B<ex>isho</ex>p of the diocesse, <lb/>
+            it is then sufficient for all moderate christians to be <lb/>
+            taugh out of the word that marriage is <foreign xml:lang="la">nulla sine copula</foreign> <lb/>
+            &amp; that word <foreign xml:lang="la">quod deus conmuxit</foreign> is neuer in the scrip=<lb break="no"/>
+            tures where <foreign xml:lang="la">erunt enion in carna vna</foreign> doth not proceede. <lb/>
+            <hi rend="overline">vizt</hi> they shalbe but one flesh. but whether the im=<lb break="no"/>
+            pediment bee vniuersall, or <foreign xml:lang="la">versus hanc</foreign> only or whether <lb/>
+            the fault hath been borne with him or done to him by <lb/>
+            violence or fallen to him by disease or by disproportion <lb/>
+            or ineptitude betweene the partyes or by unlawfull <lb/>
+            &amp; vnnaturall practises it is euer <foreign xml:lang="la">par ratio</foreign> he is <foreign xml:lang="la">Eunuchus <lb/>
+            versus hanc</foreign> neither doth it matter whether he bee <lb/>
+            <foreign xml:lang="la">Eunuchus versus alias</foreign> seeing to her only he was mar=<lb break="no"/>
+            ried then <foreign xml:lang="la">paritate rationis</foreign> such nullityes are grounded <lb/>
+            vpon the former warrant of scripture. neither had Christ <lb/>
+            any occasion to speake then to the Iewes concerning <lb/>
+            <foreign xml:lang="la">maleficium</foreign> for although it be apparent that god <lb/>
+            made king Abilmilech &amp; his family vnable to abuse <lb/>
+            Sarah Abrahams wife &amp; was made by god <foreign xml:lang="la">Eunuchus <lb/>
+            versus hanc</foreign> &amp; that it be not improbable that the diue<supplied reason="damage">l</supplied> <lb/>
+            who is gods ape should imitate gods workes by his filthy <lb/>
+            witchcraft by making such as god will permitt him unable <lb/>
+            <foreign xml:lang="la">versus hanc</foreign>, yet it was long after that tyme before the diuell <lb/>
+            put that tricke in practise and vse vppon the earth./
+         </p>
+         <p>
+            As for the 3 &amp; 4 questions, what mension the fathers &amp; councellors
+            <fw type="catch" place="bot-right">make of</fw>
+            <pb n="13v" facs="/bl/add_ms_11600/add_ms_11600_f013v/add_ms_11600_f013v.jpg"/>
+            make of maleficiu<ex>m</ex> I answer if they be well searched either <lb/>
+            there is some things to this purpose in them or at least <foreign xml:lang="la">aliquid <lb/>
+            anologon</foreign> with a <foreign xml:lang="la">partitate rationis</foreign> or by consequence may <lb/>
+            serue to decide this question: but leauinge this to search <lb/>
+            my mayne answer is that we must distinguish of tymes <lb/>
+            for in the first age as long as persecution lay heauy <lb/>
+            vpon the church and before that the Empyre became <lb/>
+            Christian the church did not meddle with questions of <lb/>
+            marriage for the ciuell Iudges determined them who <lb/>
+            would not suffer the church to medle with any thinge that <lb/>
+            drew a consequence after it of possession &amp; inheritance as <lb/>
+            marriage doth. nay euen diuers hundred yeares after the <lb/>
+            conuersion of the emperor the iudgement &amp; descission of <lb/>
+            all such questions did still remayne <foreign xml:lang="la">in foro ciuili</foreign>. till the <lb/>
+            Popedum began to wax great &amp; assume or rather vsurpe <lb/>
+            to her selfe a supreme &amp; independent iudicature in all <lb/>
+            eclesiasticall causes. &amp; therefore the fathers &amp; councellors <lb/>
+            had noe occasion to make mension of that which was not <foreign xml:lang="la">eorum <lb/>
+            fore</foreign> at that tyme. &amp; besides it is <choice>
+                    <sic>auill</sic>
+                    <corr>an evill</corr>
+                </choice> argument to say <lb/>
+            such a thing is unlawfull because the fathers &amp; councellors <lb/>
+            make noe mention of it: for you know much better then I that <lb/>
+            diuers &amp; many poynts betwixt the Papists &amp; vs are neuer <lb/>
+            mentioned in the fathers because they would neuer haue <lb/>
+            dreamed that such questions would arise &amp; therefore the <lb/>
+            fathers were only exact in such questions as were agita<lb break="no"/>
+            ted and vsed vpon the staige in there tymes as <foreign xml:lang="la">de trinita=<lb break="no"/>
+            te et duabus in Christo naturis</foreign> and such like. it is there=<lb break="no"/>
+            fore sufficient that there can be found nothing in them w<ex>hi</ex>ch <lb/>
+            may iustly be understood to contradict this opinion and it is <lb/>
+            uery probable as I sayd before that this tricke of male=<lb break="no"/>
+            ficium had not been put in practise in the world and there<lb break="no"/>
+            fore not knowne to be mentioned by them for why may not <lb/>
+            the diuill as well finde out new trickes of witchcraft <lb/>
+            when god will permitt him as he doth dailye new sorts of <lb/>
+            heresyes for his malice can neuer end vntill the end <lb/>
+            of tymes./
+         </p>
+         <p>
+            The fift argument my former answere doth also serue <lb/>
+            for till the nine hundred yeares of god it may be that <lb/>
+            diuilish trickes came neuer to be discouered and you <lb/>
+            know the old prouerbe <foreign xml:lang="la">ex malis moribus bona legis</foreign> and <lb/>
+            it is not unlikely that that tymes of darkenes gaue the <lb/>
+            diuell occasion of deuising such new tricks. looke my <lb/>
+            demonoligye and yet was that law for which you cite <lb/>
+            <foreign xml:lang="la">hinc manis Rhemesis Ep<ex>iscop</ex>us</foreign> made by Charles the great
+            <fw type="catch" place="bot-right">who in</fw>
+            <pb n="14r" facs="/bl/add_ms_11600/add_ms_11600_f014r/add_ms_11600_f014r.jpg"/>
+            who in many <add place="above">greate</add> poynts as you know had soe greate light as I <lb/>
+            doe scarcely terme his tyme a tyme of <del rend="strikethrough">dar</del> blindenes but <lb/>
+            how great so euer and palpable that darknes was in <lb/>
+            poynts of superstition I will still maintayne it as I <lb/>
+            haue euer done that for matter of order and pollicy <lb/>
+            all the world shall neuer be able to finde out any <lb/>
+            other soe good and old order of gouernement to be put <lb/>
+            in the place of it in signe whereof there is noe well <lb/>
+            gouern'd com<ex>m</ex>onwealth in the christian world where the <lb/>
+            com<ex>m</ex>on law is not receaued to iudge in questions of <lb/>
+            that nature and it is certaine that this question now <lb/>
+            in hand is only a question of order and pollicy, for the <lb/>
+            ground of this question that the essentiall poynt of <lb/>
+            matrimony cannot be accomplished <foreign xml:lang="la">sine copula</foreign> is war=<lb break="no"/>
+            ranted by expresse scripture and confessed by your <lb/>
+            self./
+         </p>
+         <p>
+            To the 6 argument or rather hope I feare that <lb/>
+            hope will proue contrary to faith for as sure as god <lb/>
+            is there are diuells and diuells must haue some power <lb/>
+            and theire power is in this world for Sathan is the <lb/>
+            prince of darkenes neither are the elect exempted from <lb/>
+            his power. Iob was nott, St Paule was not, Christ <lb/>
+            sayth to all his disciples <foreign xml:lang="la">crobrauit uos Satanus</foreign> and <lb/>
+            if the diuell haue any power ouer the'lect it is ouer <lb/>
+            theire fleshlyist and most sinfull part theire or where <lb/>
+            unto originall sinn is soe tyed as god before and vnder <lb/>
+            the law to show the difficultie of purefying mans ori=<lb break="no"/>
+            ginall sinn caused the Amputation of the foreskinn <lb/>
+            of that member and exempte this of our proffession <lb/>
+            from the power of witchcrafte it is a paradox euer <lb/>
+            yet maintainde of any learned or wise man that the <lb/>
+            diuells power is not vniuersall amongst vs, that I <lb/>
+            freelye confesse but that it is vtterly restrayned <lb/>
+            <foreign xml:lang="la">quo ad nos</foreign> how was then a Minister of Geneua be=<lb break="no"/>
+            witched to death and how are the witches dayly punished <lb/>
+            by our law surely they can harme none. but the Papish
+            <fw type="catch" place="bot-right">were too</fw>
+            <pb n="14v" facs="/bl/add_ms_11600/add_ms_11600_f014v/add_ms_11600_f014v.jpg"/> 
+            were too charitable to labor so for auenging of <lb/>
+            them only Satan is permitted to punish man aswell <lb/>
+            for the breach of the second as first table and <lb/>
+            therfore we are noe lesse guilty  then papists are <lb/>
+            and if the powre of witchcraft may reach to our <lb/>
+            liues much more to a member so governed by the <lb/>
+            fancy wherin the diuell hath his principall opera=<lb break="no"/>
+            tion and he may soe estrainge the husbands <lb/>
+            affection from his wife as that he cannot bee <lb/>
+            able to performe that duty vnto her. for it is <lb/>
+            a com<ex>m</ex>on thinge in many mans natures that they <lb/>
+            cannot doe that act but where they loue nor fight <lb/>
+            but where they are angry god keepe vs therefore <lb/>
+            from puttinge the tryall of our proffessions vpon <lb/>
+            miracles loe the miracle mongers liue by theire <lb/>
+            owne trade./
+         </p>
+         <p>
+            To the 7th argument touching the remedyes, what <lb/>
+            doe you know whether both partyes or either of them <lb/>
+            haue vsed both these remedyes or not, and that those <lb/>
+            spetiall remedyes should be vsed publiquely of <lb/>
+            them I can see noe necessitye for <foreign xml:lang="la">non interest <lb/>
+            reipub<ex>lica</ex> nee ecclesiæ</foreign>. and priuat persons are <lb/>
+            com<ex>m</ex>anded to vse theire fastings and almes se=<lb break="no"/>
+            cretly and in priuate besides noe such cure <lb/>
+            is like to succeed well except the parties <sic>one</sic> <lb/>
+            heart and desire be sett vppon it: and as for <lb/>
+            your conclusion vpon the incomodity either vpon <lb/>
+            his person or the'xsample I can see none in either <lb/>
+            for as to this couple betweene whome marriage <lb/>
+            was neuer truly accomplished they will both of <lb/>
+            them peraduenture by the declaration of this <lb/>
+            nullity be capeable to accomplish marriage with <lb/>
+            others wherein they may liue to the satisfaction of <lb/>
+            theire hearts and enioy the blessing of procreation <lb/>
+            of children and to the example the law shalbe <lb/>
+            fulfilled with due administration of Iustice which <lb/>
+            cannot serue for any example or presidente of
+            <fw type="catch" place="bot-right">nullities</fw>
+            <pb n="15r" facs="/bl/add_ms_11600/add_ms_11600_f015r/add_ms_11600_f015r.jpg"/> 
+            nullities hereafter for <foreign xml:lang="la">Notorietus facti</foreign>, or rather <foreign xml:lang="la">non facti</foreign> <lb/>
+            in this case <add place="above">is</add> <foreign xml:lang="la">luce clarior</foreign> besides the many legall probations &amp; <lb/>
+            confessions of both parties which haue been taken in this <lb/>
+            processe whereas <sic>one</sic> the contrary if they shalbe forcibly <lb/>
+            kept togeather theire names &amp; shaddowes may be kept <lb/>
+            togeather but neuer theire p<ex>er</ex>sons or affections &amp; they <lb/>
+            shalbe forced to liue in perpetuall misery &amp; scandall <lb/>
+            or both &amp; what such forced continencye can auoyde the <lb/>
+            Monk continency can teach vs &amp; for a president in <lb/>
+            tyme to come it can reach noe further then to open a <lb/>
+            way of lawfull releife for such parties as shall <lb/>
+            chaunce to be distressed in this sort: &amp; as your extract <lb/>
+            of your late deuines opinions vpon this question I confesse <lb/>
+            I cannot guesse what your intent was by sending them <lb/>
+            vnto me for they all agree in termes with my opinion <lb/>
+            but that there is such a thinge all maleficiats versus <lb/>
+            hanc &amp; your very interlyned passages proue it clearlyest <lb/>
+            &amp; for theire aduice concerning the remedyes that it <lb/>
+            is <foreign xml:lang="la">consillium non ius nec decretum</foreign> not imposing a necessity <lb/>
+            but it is to be vsed by discretion as occasion shall serue <lb/>
+            to require it: &amp;. as for the legall doubts of formality they <lb/>
+            concerne none of your callinge. if your conscience bee <lb/>
+            resolued in poynte of deuinity it is your part to giue your <lb/>
+            consent to the nullitye &amp; let the Loyers take the <lb/>
+            burthen in making it formall: &amp; as for the tryenniall <lb/>
+            probation I hope noe man can be soe blynded as to <lb/>
+            make a doubt whether it be taken afore or after the <lb/>
+            suit began &amp; in conclusion our deuines solution of this <lb/>
+            question proues clearly that this resolution vpon this <lb/>
+            doubt howeuer it was in blindenes (as you thinke) <lb/>
+            yet it is now approued in tyme of greatest light &amp; <lb/>
+            purity of the profession of the ghospell./
+         </p>
+         <p>
+            To conclude then if this may satisfie your doubts I <lb/>
+            will ende with our Sauiors wordes to St Peter <foreign xml:lang="la">et <lb/>
+            cum conuersus fueris confirma fratres tuos</foreign> for <lb/>
+            one my conscience all the doubts I haue yet seene <lb/>
+            made in this busines are nothing but nodum in scyrpo <lb/>
+            querere./
+         </p>
+         <fw type="catch" place="bot-right">The oath</fw>
+         <pb n="15v" facs="/bl/add_ms_11600/add_ms_11600_f015v/add_ms_11600_f015v.jpg"/>
+         <p rend="indent">
+            The oath taken by the Lady Frances Howard
+         </p>
+         <p>
+            That since the Earle of Essex was eighteen yeares of <lb/>
+            age he &amp; I for the space of three yeares haue diuerse <lb/>
+            &amp; sundry tymes lyne togeather in naked bed all night <lb/>
+            &amp; at sundry <del rend="strikethrough">other</del> of the said tymes the said Earle <lb/>
+            hath endeauored to accomplish to consumat mariage <lb/>
+            with me &amp; to haue carnall copulation with me for <lb/>
+            the procreation of children &amp; at such tymes as <lb/>
+            the said Earle hath attempted me so to doe yeelded <lb/>
+            my selfe willinge to the said purpose all which <lb/>
+            notwithstandinge I say &amp; affirme vpon my oath <lb/>
+            that the said Earle had neuer carnall copulation <lb/>
+            with me. <space extent="5" unit="chars"/> <hi rend="italic">Frances Howard</hi>./
+         </p>
+         <p rend="indent">
+            The arraingment of Rich<ex>ard</ex> Weston at Yeeldhall in <lb/>
+            London the 19th of October 1615 concerning S<ex>i</ex>r Tho<ex>mas</ex> Ouerbury <lb/>
+            who was poysoned in the Tower of London.
+         </p>
+         <p>
+            The Com<ex>m</ex>issioners being sett who were the lo<ex>rd</ex> cheife Iustice <lb/>
+            of England the lo<ex>rd</ex> Maior Iudge Crook Iudge Doderidge Iudge <lb/>
+            Howton Sariant Randall Crew the Recorder &amp; others the <lb/>
+            comission was read &amp; the iury of the Graine. In list weare <lb/>
+            called &amp; sworne./
+         </p>
+         <p>
+            Then the Lo<ex>rd</ex> Chiefe Iustice gaue the Chardge to <lb/>
+            the iury wherein he most of all insisted vpon the poynte <lb/>
+            of murder &amp; poysoning the hainousnes of that cryme <lb/>
+            and of the vengeance &amp; iustice of god in punishing the <lb/>
+            offendors he alleaged the first of Genises verse the 6 <lb/>
+            he also tooke occasion to repeate the murder of Vrias <lb/>
+            by David and therein obserued how adultery is most <lb/>
+            often the begining of that sinn. then he declared how <lb/>
+            of all fellonyes murther was the most detestable <lb/>
+            and of all murders poysoninge is the most horriblest <lb/>
+            and of all poysoninge the linguering poyson: he <lb/>
+            showed by an acte of Parliament made in the 22th of
+            <fw type="catch" place="bot-right">Henry the 8.</fw>
+            <pb n="16r" facs="/bl/add_ms_11600/add_ms_11600_f016r/add_ms_11600_f016r.jpg"/>
+            Henry the 8 chapt<ex>er</ex> the 9th it was made high treason and that <lb/>
+            wisefull poysonings should be boyld to death rehearsing for <lb/>
+            example the death of one Richard Rowse that he had poisoned <lb/>
+            a man &amp; a woman &amp; was <sic>thefore</sic> scalded to death. thence <lb/>
+            layd open the basenesse &amp; cowardlynes of poysoners who <lb/>
+            attempted that secretly agaynst which there is noe meanes <lb/>
+            of preuention or defence of a man self also how rare a <lb/>
+            thinge it was in o<ex>u</ex>r nation but since the diuell hath taught <lb/>
+            diuers to be very cunning in it so that they can in what <lb/>
+            space soeuer or distance of tyme they please by consuming <lb/>
+            in a month or two or three or more at the least they haue <lb/>
+            fower manner of wayes vizt first gustu secund astu <lb/>
+            third odore forth concastu he finished his charge with a <lb/>
+            serious exhortation to the iury to doe iustice in presenting <lb/>
+            the truth notw<ex>i</ex>thstanding the greatnes of any p<ex>er</ex>son that <lb/>
+            vpon theire euidence should appeare to them to be guilty <lb/>
+            of the same offence comforting both iudge &amp; iury with <lb/>
+            scriptures in the psalme for thou o lord wilt blesse <lb/>
+            the righteous w<ex>i</ex>th fauor wilt thou comfort him as w<ex>i</ex>th a <lb/>
+            sheild./
+         </p>
+         <p>
+            Then the charge being ended the iury w<ex>i</ex>thdrew themselues <lb/>
+            into a priuate roome where they receaued theire euidence <lb/>
+            from Mr Fanshaw his Ma<ex>jes</ex>t<ex>y'</ex>s Orowner &amp; his Ma<ex>jes</ex>ties Counsell <lb/>
+            prepared &amp; instituted for that purpose with examinac<ex>i</ex>ons <lb/>
+            &amp; confessions aswell of the prisoner himselfe as of diu<ex>er</ex>se <lb/>
+            other wittnesses before that tyme taken before the lord <lb/>
+            cheife Iustice of England &amp; others his Ma<ex>jes</ex>ties Counsell. <lb/>
+            in the meane tyme the Sheriffe of London Mr William <lb/>
+            Gore was com<ex>m</ex>aunded to fetch his prisoner remayning at <lb/>
+            his howse to be ready in Court for the Arraignement <lb/>
+            so a certein tyme after the Graun iury returned to <lb/>
+            the lords &amp; deliuered in the bill of Inditement signed <lb/>
+            billa vera where vppon the prisoner was sett vp to the <lb/>
+            barr &amp; the inditement read by Mr Fanshaw which in=<lb break="no"/>
+            ditement conteyned in effect that Weston not hauing <lb/>
+            the feare of god before his eyes but instigated and 
+            <fw type="catch" place="bot-right">seduced by</fw>
+            <pb n="16v" facs="/bl/add_ms_11600/add_ms_11600_f016v/add_ms_11600_f016v.jpg"/>
+            seduced by the diuell deuising &amp; consulting not only to <lb/>
+            bring vpon the body of S<ex>i</ex>r Thomas Ouerbury great <lb/>
+            sicknes &amp; diseases but also to depriue him of life to <lb/>
+            bring this to passe vpon the Ninth of May in the 11th <lb/>
+            yeare of his Ma<ex>jes</ex>ties reyne at the towre of London did <lb/>
+            obteyne &amp; get into his handes a certeyne poyson of <lb/>
+            green &amp; yellow color called roseacre knowing the <lb/>
+            same to be deadly poyson &amp; the same he did maliciously <lb/>
+            &amp; feloniously mingle &amp; compound the same with a <lb/>
+            kinde of broath powred into a dish &amp; the same broth <lb/>
+            so infected &amp; poysoned did giue vnto the said S<ex>i</ex>r Tho<ex>mas</ex> <lb/>
+            as wholsom good broath to the intent to kill &amp; <lb/>
+            poyson the said S<ex>i</ex>r Thomas which broath he tooke &amp; <lb/>
+            eate also the said Weston vpon the first of Iuly in <lb/>
+            the eleauenth yeare aforesaid did in like manner <lb/>
+            get another poyson or poysoned powder called arsnicke <lb/>
+            &amp; knowing the same to be deadly poyson did giue it <lb/>
+            vnto the said S<ex>i</ex>r Thomas as good medicineable <lb/>
+            powder to eate who in like manner did eate the same <lb/>
+            also the said Weston vpon the tenth of Iuly did <lb/>
+            gett another poyson called Mercu<add place="above">r</add>y sollinate knowing <lb/>
+            the same to be mortall poyson &amp; did put the same <lb/>
+            into tarts to eate who in like manner did take <lb/>
+            the tarts &amp; eate them &amp; also the said Weston <lb/>
+            &amp; another man vnknowne being Apothecaryes <lb/>
+            afterwards vpon the fourteenth of September <lb/>
+            following did gett a certeyne poyson called Mercury <lb/>
+            sollinnet knowing the same to be mortall poyson <lb/>
+            did put the same into a glister &amp; the said glister <lb/>
+            mingled with the said poyson the said Apothecary <lb/>
+            for a reward of 20 pounds promised to him did <lb/>
+            put &amp; minister it as good &amp; wholsome into the gutts <lb/>
+            of the said S<ex>i</ex>r Thomas &amp; that Weston was pr<ex>e</ex>sent <lb/>
+            with the same Apothecary &amp; that imediatly after <lb/>
+            as well the taking &amp; eating poysoned meats as <lb/>
+            ministring the said glister the said S<ex>i</ex>r Thomas did <lb/>
+            languish into diseases &amp; distempers &amp; from the afore-<lb break="no"/>
+            said tyme of taking &amp; eating the said poyson &amp; glister <lb/>
+            did languish vntill the fifteenth of September <lb/>
+            following vpon which he Dyed. so the iury gaue vp <lb/>
+            there verditt that Weston in this manner had kild
+            <fw type="catch" place="bot-right">poysoned</fw>
+            <pb n="17r" facs="/bl/add_ms_11600/add_ms_11600_f017r/add_ms_11600_f017r.jpg"/> 
+            poysoned &amp; murdered S<ex>i</ex>r Thomas Ouerbury against <lb/>
+            the kings Maiestyes peace crowne &amp; dignitye./
+         </p>
+         <p>
+            Which indictement being read he was comaunded to speake <lb/>
+            whether he were guilty of the same fellony murder &amp; poysonin<supplied reason="damage">g</supplied> <lb/>
+            aforesaid ye or noe, to the which he answered lord haue <lb/>
+            mercy on me, but being demaunded againe he answered <lb/>
+            not guilty being demaunded how he would be tryed he answe<lb break="no"/>
+            red he would referr himselfe to god. &amp; would be tryed <lb/>
+            by god refusing to put himselfe &amp; his cause vpon the <lb/>
+            iury or cuntry according to the law &amp; custome, then the <lb/>
+            lord cheife Iustice declared vnto him the dainger he ran <lb/>
+            into by refusing his ordinary course of tryall being the <lb/>
+            meanes ordeyned by god for his deliuerance if he <lb/>
+            were innocent &amp; how by that meanes he should make <lb/>
+            himselfe the authour of his one death euen as he should <lb/>
+            with a knife or dagger slay or kill himselfe exhorting <lb/>
+            him very earnestly either with repentance to confesse his <lb/>
+            faults or els in all humility submitt himselfe to his <lb/>
+            ordinary tryall whereunto he stubbernely answered <lb/>
+            welcome by the grace of god &amp; referred himselfe to god <lb/>
+            but utterly refused his cuntry wherevpon after seuerall <lb/>
+            perswasions &amp; exhortations made vnto him by Iudge Crooke <lb/>
+            Iudge Doderidge Iudge Hawton Mr Recorder &amp; Seriant <lb/>
+            Crew nothing auayling with him the lord cheife Iustice <lb/>
+            plainely declared his opinion that he was perswaded <lb/>
+            that Weston had been delt w<ex>i</ex>thall by some great ones <lb/>
+            guilty of the same fact accessary to stand free whereby <lb/>
+            they might escape punishment &amp; therfore was resolued <lb/>
+            &amp; comaunded for satisfacc<ex>i</ex>on of the world the queenes <lb/>
+            Attorney theire present should declare &amp; sett forth the <lb/>
+            whole euidence without any parciality And yet notw<ex>i</ex>th-<lb break="no"/>
+            standing he once more vsed much perswasions to the pri=<lb break="no"/>
+            soner to consider the dainger he brought himselfe to by <lb/>
+            this contempt &amp; declared to him how great his said offence <lb/>
+            was of contempt in refusing his triall &amp; how the lawes <lb/>
+            of the land had prouided a more seuere punishment to <lb/>
+            such offenders then vnto those who were guilty of high <lb/>
+            treason &amp; so the lord cheife Iustice repeated the same
+            <fw type="catch" place="bot-right">Iudgement</fw>
+            <pb n="17v" facs="/bl/add_ms_11600/add_ms_11600_f017v/add_ms_11600_f017v.jpg"/> 
+            Iudgement giuen against such the rigour whereof he expressed <lb/>
+            in three wordes vizt onore rigore, famæ for the first that <lb/>
+            he who was to receaue the punishment was by the law to be <lb/>
+            extended and stretched out at length &amp; to haue a stone under <lb/>
+            the ridge bone of his backe and then to haue a weight layd <lb/>
+            vppon him noe more then he was able to bare which were by <lb/>
+            little &amp; little encreased. for the second that he was to be ex=<lb break="no"/>
+            posed in some one place next to the prisone in the could ayre <lb/>
+            being naked &amp; for the bread which he was to be fed w<ex>i</ex>thall <lb/>
+            the coursest which was to be gotten &amp; the water of the next <lb/>
+            sinke to the place of execuc<ex>i</ex>on &amp; that day he had bread he <lb/>
+            was to haue noe water &amp; that day he had water he was <lb/>
+            to haue no bread, &amp; in this torment he was to linger <lb/>
+            till nature could possible hould out soe that they liued in <lb/>
+            this extremity eight or nine dayes &amp; so he required y<hi rend="superscript">e</hi> <lb/>
+            prisoner vppon due considerac<ex>i</ex>on of these reasons to aduise <lb/>
+            himselfe &amp; to plead to the contrary who notw<ex>i</ex>thstanding ob=<lb break="no"/>
+            stinately refused. whereupon the queenes Attorney <lb/>
+            at the com<ex>m</ex>andment of the lord cheife Iustice p<ex>ro</ex>ceeded <lb/>
+            to the opening &amp; setting forth of the euidence against <lb/>
+            the prisoner, &amp; hauing for his entrance into the case re=<lb break="no"/>
+            peated the effect of the bill of Indictement formed by <lb/>
+            the grand inquest he showed that not only this Weston <lb/>
+            but diuers others were guilty of this murder wherefore <lb/>
+            he declared that S<ex>i</ex>r Thomas Ouerbury being a gent <lb/>
+            of good disent some tymes studient of the middle temple <lb/>
+            a man of exceeding seuerall &amp; uertuous conuersac<ex>i</ex>on <lb/>
+            after his retourne from trauaile he was uery familier <lb/>
+            w<ex>i</ex>th a great lord whom saith he I must needes name the <lb/>
+            lord of Sum<ex>m</ex>ersett vnto whom he gaue honest &amp; good <lb/>
+            counsell finding him lusting after a lady not his wife <lb/>
+            but the Earle of Essex for which he often aduised and <lb/>
+            reproued priuatly putting in his minde the fauors &amp; <lb/>
+            honors his Ma<ex>jes</ex>tie had bestowed vpon him all w<ex>hi</ex>ch by this <lb/>
+            meanes should be hated &amp; disgraced. Which good counsell <lb/>
+            &amp; other speeches which he vsed to disswade the said Sum<ex>m</ex>erset <lb/>
+            from the company of the lady of Essex &amp; calling her uile <lb/>
+            &amp; base woman stirred vp the anger &amp; displeasure of <lb/>
+            Somersett &amp; also the extreme malice of the Countesse <lb/>
+            whom Somersett had acquainted therew<ex>i</ex>th &amp; here Mr <lb/>
+            Attorney obserued her frightfull malice being the <lb/>
+            malice of a woman how still it increaseth more &amp; more
+            <fw type="catch" place="bot-right">then they</fw>
+            <pb n="18r" facs="/bl/add_ms_11600/add_ms_11600_f018r/add_ms_11600_f018r.jpg"/> 
+            then they <del rend="strikethrough">w</del>how to atteine there weke desire the better there <lb/>
+            must be a deuorse of marriage betweene the lord of Essex and <lb/>
+            the Countesse and soe a marriage w<ex>i</ex>th somersett to make the <lb/>
+            lust lawfull to which S<ex>i</ex>r Thomas was a great rubb Somerse<supplied reason="damage">t</supplied> <lb/>
+            also declared how his Ma<ex>jes</ex>tie vpon the knowledge of the worthy <lb/>
+            discretion of S<ex>i</ex>r Thomas Ouerbury intended to pr<ex>e</ex>ferre <lb/>
+            him in Ambassage whom Somersett secretly delt w<ex>i</ex>thall to <lb/>
+            w<ex>i</ex>thstand the direcc<ex>i</ex>ons of the king and lords of the Councell, <lb/>
+            ashuring him that if he were com<ex>m</ex>itted yet he would bare <lb/>
+            him out &amp; how for his contempt he was com<ex>m</ex>itted to the <lb/>
+            towre the 21th of Aprill 1615 S<ex>i</ex>r William Wade <lb/>
+            being then Liuetenant &amp; yet w<ex>i</ex>thin short space after w<ex>hi</ex>ch <lb/>
+            was the sixt of may 1615 S<ex>i</ex>r William Wade was re=<lb break="no"/>
+            moued &amp; S<ex>i</ex>r Iaruis Heluish was put in his place <lb/>
+            then the uery next day after Weston S<ex>i</ex>r Thomas his <lb/>
+            mortall enemy was pr<ex>e</ex>ferrd by the meanes of the Countes <lb/>
+            to serue the Liuetenant &amp; was made the keep<ex>er</ex> of S<ex>i</ex>r <lb/>
+            Thomas &amp; heere he layes open the basse condic<ex>i</ex>on of <lb/>
+            Weston as being a Pander &amp; how he was the carryer of <lb/>
+            l<ex>ett</ex>res betweene the Countesse &amp; Somersett whereby <lb/>
+            diuers meetings were appoynted at Mrs Turners howse <lb/>
+            at Hamersmith &amp; other places &amp; that S<ex>i</ex>r Thomas Maunson <lb/>
+            was the man w<ex>i</ex>th whom the lady delt to be a meanes to <lb/>
+            place Weston in the towre then he did declare how the <lb/>
+            Countesse did perswade Weston to giue to S<ex>i</ex>r Thomas <lb/>
+            a certeyne water for the w<ex>hi</ex>ch he should haue a greate <lb/>
+            rewarde &amp; that accordingly the Countesse deliuered the <lb/>
+            water to Weston his sonne a boy that serued a haberdas=<lb break="no"/>
+            her in a little glasse w<ex>hi</ex>ch he deliuered to his father this <lb/>
+            Weston in the towre &amp; that Weston showed the water to <lb/>
+            teh Liuetenant &amp; asked him if he should giue it him &amp; the <lb/>
+            next day Weston confessed to Mrs Turner he had giuen <lb/>
+            him the water &amp; that it made him very sicke &amp; caused <lb/>
+            him to vomitt demaunding his reward but had none. then <lb/>
+            also that the lord of Somersett sent him a letter w<ex>i</ex>th certein <lb/>
+            powder wishing him to eate it &amp; feare nothing although <lb/>
+            it made him sicke for his being sick should be a ground to <lb/>
+            moue the king for his deliuerance &amp; thus he declared the <lb/>
+            matter of indictement &amp; diuers circumstances vntill the <lb/>
+            Death of S<ex>i</ex>r Tho<ex>mas</ex> where he obserued the excellent consti=<lb break="no"/>
+            tuc<ex>i</ex>on of his body when he liued &amp; clearnes of skine
+            <fw type="catch" place="bot-right">&amp; w<ex>i</ex>th</fw>
+            <pb n="18v" facs="/bl/add_ms_11600/add_ms_11600_f018v/add_ms_11600_f018v.jpg"/> 
+            and w<ex>i</ex>th what strange blisters &amp; botches it was fild after <lb/>
+            his death also he sayd that the customes of any prisoner <lb/>
+            dying in the tower his body is to be ueiwed &amp; an Inquisic<ex>i</ex>on <lb/>
+            to be taken by the Crowner. but that S<ex>i</ex>r Tho<ex>mas</ex> ouerburyes <lb/>
+            freinds and others might by no meanes be suffered to <lb/>
+            see his body and although it was reported there was <lb/>
+            an Inquisition taken but could by noe meanes be found <lb/>
+            he tould also how dishonorably they buried him and gaue <lb/>
+            it out he died of the pox. after Mr Attorney had ended <lb/>
+            his speech Mr Ware also of the counsell for the kinge <lb/>
+            declared the familiarity that he had w<ex>i</ex>th S<ex>i</ex>r Tho<ex>mas</ex> both of <lb/>
+            the temple much com<ex>m</ex>ending his singuler honesty and <lb/>
+            vertuous conuersation affirming he was addicted to no <lb/>
+            dishonest actions and from this he proceeded soe vizt <lb/>
+            his hard vsage in the tower when he might haue noe <lb/>
+            company but the Apothecary and a villaine he spake <lb/>
+            of diuerse cakes pr<ex>e</ex>pared by the Countesse &amp; sent S<ex>i</ex>r <lb/>
+            Thomas in the Earle of Sumersets name with other <lb/>
+            circumstances. Then by com<ex>m</ex>andement of the Courte <lb/>
+            was read by Mr Fanshaw the seuerall examinac<ex>i</ex>ons <lb/>
+            of diuerss wittnesses taken before the lord cheife <lb/>
+            Iustice and others which in effect was as followeth./
+         </p>
+         <p rend="indent">
+            Lawrence Dauis seruant to S<ex>i</ex>r Tho<ex>mas</ex> exami=<lb break="no"/>
+            ned 13th of October 1615 corum Cook et Crew.
+         </p>
+         <p>
+            He sayth he serued S<ex>i</ex>r Tho<ex>mas</ex> Ouerbury 8 or 9 yeares <lb/>
+            in all which tyme he was uery healthfull and neuer <lb/>
+            kept his bead for any sickenes only sometymes tro=<lb break="no"/>
+            bled w<ex>i</ex>th the spleene for ease thereof he had by the <lb/>
+            aduice of his doctors an issue made in his left <lb/>
+            arme but before his imprisonment he had noe sores <lb/>
+            nor blisters or other diseases in all his body and yt <lb/>
+            S<ex>i</ex>r Tho<ex>mas</ex> would haue gon one the Embassage but he was <lb/>
+            disswaded by Somersett who promised to bare him <lb/>
+            out: he complayned he neede not be in prison if Somerset <lb/>
+            would and that if he dyed his blood would be required <lb/>
+            at his handes that Somersett was as good as his word <lb/>
+            hauing told him at Newmarkett he would be euen w<ex>i</ex>th <lb/>
+            him./
+         </p>
+         <p rend="indent">
+            The examinac<ex>i</ex>on of Henry Panten an <lb/>
+            other seruant of S<ex>i</ex>r Thomas examined
+            <fw type="catch" place="bot-right">the 15</fw>
+            <pb n="19r" facs="/bl/add_ms_11600/add_ms_11600_f019r/add_ms_11600_f019r.jpg"/>the 15th of October 1615./
+         </p>
+         <p>
+            He affirmeth that S<ex>i</ex>r Tho<ex>mas</ex> was a man of an excellent consti=<lb break="no"/>
+            tution that he vsed sometymes to run and play at poyles and <lb/>
+            such like that he was of a moderate dyett neuer had any sore <lb/>
+            sauing the said issue in his arme and that S<ex>i</ex>r Thomas wrote <lb/>
+            letters to Somerset si<del rend="strikethrough">n</del>gnifieng that he need not to be <lb/>
+            in prison if Somersett would and if he dyed there his <lb/>
+            blood should be requyred at his handes. that S<ex>i</ex>r Tho<ex>mas</ex> <lb/>
+            meeting Somersett at one of the clocke at night vpon <lb/>
+            the gallery at Whitehall had speeches with him about <lb/>
+            the countesse whom he called base woman and told him <lb/>
+            he would ouerthrow all the kings fauo<ex>u</ex>rs and hono<ex>u</ex>rs and <lb/>
+            vpon displeasures betweene them at this conference <lb/>
+            S<ex>i</ex>r Tho<ex>mas</ex> desired that he might haue his pencion &amp; <lb/>
+            he would shift for himselfe whereunto Somersett <lb/>
+            replyed and <del rend="strikethrough">if</del> my leggs were strong enough to carr<supplied reason="damage">y</supplied> <lb/>
+            me and so flung away in anger all which this exami=<lb break="no"/>
+            nate heard being in a chamber in the gallery then S<supplied>i</supplied>r <lb/>
+            Dudley Diggs being pr<ex>e</ex>sent in Courte and sworne de=<lb break="no"/>
+            clared <foreign xml:lang="la">uiua uoce</foreign> that he was sent by a priuy Councell<supplied reason="damage">or</supplied> <lb/>
+            a great man to S<ex>i</ex>r Tho<ex>mas</ex> to bring him to this greate <lb/>
+            man which he did and com<ex>m</ex>ing back ouer the water S<ex>i</ex>r <lb/>
+            Tho<ex>mas</ex> much discontented the reason whereof he sayd <lb/>
+            was that he was perswaded by that great man to w<ex>i</ex>th=<lb break="no"/>
+            draw himselfe from the Courte for some reasons which he <lb/>
+            disclosed not and that S<ex>i</ex>r Dudley afterwards being <lb/>
+            sent by the lords of the Councell to know the resolution <lb/>
+            of S<ex>i</ex>r Tho<ex>mas</ex> touching the ambassage he found him to <lb/>
+            relye vpon Somersett to be excused. therefore. saying <lb/>
+            my pretious cheife knowes the kings mynde better <lb/>
+            then any one and I the mynde of my pretious cheife
+         </p>
+         <p rend="indent">
+            The examinac<ex>i</ex>on of Rich<ex>ard</ex> Weston prisoner <lb/>
+            taken the 6th of October 1615 coram Cooke <lb/>
+            et Crew.
+         </p>
+         <p>
+            He confesseth before S<ex>i</ex>r Tho<ex>mas</ex> was prisoner in the tower <lb/>
+            he this examinate carryed three letters from Somerset
+            <fw type="catch" place="bot-right">to the lady</fw>
+            <pb n="19v" facs="/bl/add_ms_11600/add_ms_11600_f019v/add_ms_11600_f019v.jpg"/> 
+            for the lady of essex to Roystone Newmarkett and Hampton <lb/>
+            Courte and deliuered them to Mrs Turner and that vpon the <lb/>
+            letter to Hampton Courte he had answer by word of mouth <lb/>
+            only that the lord would come and com<ex>m</ex>ing backe the same <lb/>
+            way in a coatch met the Countesse and Mrs Turner whom <lb/>
+            he told that his lo<ex>rd</ex> answered so whereuppon the countesse <lb/>
+            strooke out of the way to a farmers howse hard by whether <lb/>
+            within short space Somersett came and that afterwards <lb/>
+            in the night they mett at Mrs Turners howse in Pater<lb break="no"/>
+            noster Rowe he confesseth that of one yeare before S<ex>i</ex>r <lb/>
+            Tho<ex>mas</ex> imprisonament none carryed letters but he./
+         </p>
+         <p rend="indent">
+            S<ex>i</ex>r Tho<ex>mas</ex> Mounson examined the 15 of <lb/>
+            <sic>Octobe</sic> coram Cooke et Crew./
+         </p>
+         <p>
+            He sayth he knew not Weston vntil S<ex>i</ex>r Tho<ex>mas</ex> <lb/>
+            was prisoner in the tower and that he preferd him to <lb/>
+            the Liuetenant to be the keep<ex>er</ex> of S<ex>i</ex>r Tho<ex>mas</ex> at the <lb/>
+            request of the Countesse of Essex and denyed that euer <lb/>
+            Mrs Turner spake with him./
+         </p>
+         <p rend="indent">
+            Ann Turner examined the 1 of October cor<ex>am</ex> <lb/>
+            Cooke et Crew./
+         </p>
+         <p>
+            Shee sayth that Weston was her auncient seruant <lb/>
+            and her husbands Bayliffe in the Cuntry she denyed to <lb/>
+            haue any thing to doe in placeing of Weston in the <lb/>
+            tower but sayth the Countesse of Somersett did <lb/>
+            effect it when she was Essexs wife and vsed the <lb/>
+            helpe of S<ex>i</ex>r Tho<ex>mas</ex> Mounson./
+         </p>
+         <p rend="indent">
+            S<ex>i</ex>r Jaruis Helwish examined the 30st <lb/>
+            October coram Cooke &amp; Crew./
+         </p>
+         <p>            
+            He sayth he had a letter from S<ex>i</ex>r Tho<ex>mas</ex> Mounson re<lb break="no"/>
+            questing him that Weston might be keeper of S<ex>i</ex>r Tho<ex>mas</ex> <lb/>
+            Ouerbury and that he did p<ex>er</ex>forme it afterwards hauing <lb/>
+            conference with S<ex>i</ex>r Tho<ex>mas</ex> Munson S<ex>i</ex>r Tho<ex>mas</ex> tould him <lb/>
+            that his keeper was not to suffer any letter or token <lb/>
+            or other thing to be deliuered him./
+         </p>
+         <fw type="catch" place="bot-right">Richard Weston.</fw>
+         <pb n="20r" facs="/bl/add_ms_11600/add_ms_11600_f020r/add_ms_11600_f020r.jpg"/>
+         <p rend="indent">
+            Richard Weston againe examined./
+         </p>
+         <p>
+            He confesseth he showed the glasse which was deliuered <lb/>
+            him by his sonne from the Countesse to the Liuetennante <lb/>
+            and told him it came from the countesse of Essex and <lb/>
+            that he perswaded him not to giue it to S<ex>i</ex>r Tho<ex>mas</ex> also he <lb/>
+            sayth that he had diuerse tarts from the Countesse to giue <lb/>
+            unto S<ex>i</ex>r Tho<ex>mas</ex> with com<ex>m</ex>aundement that himselfe should <lb/>
+            not taste of them and confesseth that he thinketh they were <lb/>
+            poysoned he sayth Mrs Turner appoynted him to come to <lb/>
+            White hall to the Countesse and that they delt w<ex>i</ex>th him to <lb/>
+            giue S<ex>i</ex>r Tho<ex>mas</ex> a water and bad him he should not drinke <lb/>
+            thereof and was promised a great reward and he suspected <lb/>
+            it was poyson his sonne afterward deliuered the glasse w<ex>hi</ex>ch <lb/>
+            he showed the liuetennaunt who rebuked him and so he sett <lb/>
+            the glasse in a study by S<ex>i</ex>r Tho<ex>mas</ex> but gaue it him not althoug<supplied reason="damage">h</supplied> <lb/>
+            he <del rend="strikethrough">had</del> tould Mrs Turner he had giuen the water which <lb/>
+            made S<ex>i</ex>r Tho<ex>mas</ex> uomitt often and be exceeding sicke he sayth <lb/>
+            Mr Iames and Mr Rawlings seruants to the Countesse came <lb/>
+            often to know of his easment how S<ex>i</ex>r Tho<ex>mas</ex> did and what he <lb/>
+            did eate and that they deliuered him diuerse tymes tarts <lb/>
+            and iellyes which he gaue to S<ex>i</ex>r Tho<ex>mas</ex> who did eate thereof <lb/>
+            he sayth he demaunded his reward of Mrs Turner who answered <lb/>
+            he was to haue none vntill S<ex>i</ex>r Tho<ex>mas</ex> was deade and that he <lb/>
+            was promised a purseuants place and confesseth that after <lb/>
+            wardes at to seuerall tymes he receaued secretly after the <lb/>
+            death of S<ex>i</ex>r Tho<ex>mas</ex> of Mrs Turner from the Countesse for a <lb/>
+            rewarde 180ld./
+         </p>
+         <p rend="indent">
+            Will<ex>iam</ex> Weston the sonne of the Prisoner <lb/>
+            examined coram Cooke et Crew./
+         </p>
+         <p>
+            He confesseth he receaued a glasse from the Countesse by her <lb/>
+            seruant 2 ynches longe being wrapped in a paper which he <lb/>
+            deliuered to his Father in the tower./
+         </p>
+         <p>
+            Then was read the confession of the Liuetenant to the kinge yt <lb/>
+            he mett with Weston carrying S<ex>i</ex>r Tho<ex>mas</ex> his supper in one hand <lb/>
+            and a glasse in the other and demaunded of him thus S<ex>i</ex>r shall <lb/>
+            I giue it him now whereat the Liuetenant stopt &amp; asked what
+            <fw type="catch" place="bot-right">to which Weston</fw>
+            <pb n="20v" facs="/bl/add_ms_11600/add_ms_11600_f020v/add_ms_11600_f020v.jpg"/> 
+            too which Weston sayd know you not what is to be done and <lb/>
+            soe the Liuetenant hauing made him to confesse the matter <lb/>
+            diswaded him and he seemed to be resolued not to doe it and <lb/>
+            afterwards this Weston confessed to the Liuetenant that <lb/>
+            an apothecary had 20ld for ministring a glister to S<ex>i</ex>r Tho<ex>mas</ex>/
+         </p>
+         <p rend="indent">
+            Weston before the Lo<ex>rd</ex> Souch.
+         </p>
+         <p>
+            He confesseth that S<ex>i</ex>r Tho<ex>mas</ex> had a glister which gaue him foure <lb/>
+            stooles and vomits also being found w<ex>i</ex>th the wrightings of S<ex>i</ex>r <lb/>
+            Iaruis Heluish and charged therewith confesseth the same to <lb/>
+            be true./
+         </p>
+         <p rend="indent">
+            Symon Marston musitian examined.
+         </p>
+         <p>
+            He sayth he serued S<ex>i</ex>r Tho<ex>mas</ex> Mounson 6 yeares past and <lb/>
+            is by him preferd to the kings seruice, but waiteth sometymes <lb/>
+            on S<ex>i</ex>r Tho<ex>mas</ex> Mounson. he sayth he carryed diuers tarts and <lb/>
+            Iellies from the Countesse of Essex to the Liuetenant of the <lb/>
+            tower to be deliuered to S<ex>i</ex>r Tho<ex>mas</ex> Ouerbury./
+         </p>
+         <p rend="indent">
+            Paule Delable an apothecary ex<ex>amined</ex> cora<ex>m</ex> Cook et Crew.
+         </p>
+         <p>
+            He sayth the 3d of Iuly he made S<ex>i</ex>r Tho<ex>mas</ex> a broath by d<ex>octo</ex>r May=<lb break="no"/>
+            hernes aduice to coole his body, and that he saw his body was <lb/>
+            fayre and exceeding cleare and he saw his body being deade <lb/>
+            which was full of yellow blisters, and so consum'd away that <lb/>
+            he neuer saw the like body./
+         </p>
+         <p rend="indent">
+            Gyles Rawling ex<ex>amined</ex> who was kinsman to S<ex>i</ex>r Tho<ex>mas</ex> <lb/>
+            Ouerbury./
+         </p>
+         <p>
+            He sayth that vppon the bruite of the murther of S<ex>i</ex>r Tho<ex>mas</ex> <lb/>
+            being taxed by some why he made no petition to the kinge that y<hi rend="superscript">e</hi> <lb/>
+            examinac<ex>i</ex>on of the cause might be referd to the Iudges of the <lb/>
+            law &amp; denieth that he was perswaded by any to the contrary he <lb/>
+            sayth that he com<ex>m</ex>inge oftentymes to the tower to see S<ex>i</ex>r Tho<ex>mas</ex> he <lb/>
+            could not be permitted to see him so much as at a window &amp; <lb/>
+            Weston told it was the com<ex>m</ex>andment of the counsell &amp; of the <lb/>
+            Liuetenant./
+         </p>
+         <p rend="indent">
+            The Liuetenant ex<ex>amined</ex> y<hi rend="superscript">e</hi> 2d of october 1615 coram <lb/>
+            cooke et Crew./
+         </p>
+         <p>
+            He sayth that after the death of S<ex>i</ex>r Tho<ex>mas</ex> Weston came to him <lb/>
+            and tould him that he was much neglected and slighted by <lb/>
+            the Countesse and could gett noe reward but afterwards <lb/>
+            he confesseth he receaued a 100ld and should receaue more <lb/>
+            the Liuetenant also sayd that S<ex>i</ex>r Tho<ex>mas</ex> was uery angry w<ex>i</ex>th his
+            <fw type="catch" place="bot-right">apothecary.</fw>
+            <pb n="21r" facs="/bl/add_ms_11600/add_ms_11600_f021r/add_ms_11600_f021r.jpg"/>
+            apothecary at certeine vomits which he had and alsoe that the tarts <lb/>
+            and iellys would be furred with in a day or two standing and that nobod<supplied reason="damage">y</supplied> <lb/>
+            eate of them but S<ex>i</ex>r Tho<ex>mas</ex> and Weston confessed to him that the apotho<lb break="no"/>
+            cary 20ld for giuing the glister./
+         </p>
+         <p>
+            These examinac<ex>i</ex>ons being read and applyed to theire purpose <lb/>
+            the lord cheife Iustice sayd he would discharge his duty first <lb/>
+            to god almighty in giuing him all glory for reuealing and bringi<supplied reason="damage">ng</supplied> <lb/>
+            to light of so horrible &amp; wicked a fault and next to his greate <lb/>
+            Master which in chardge of the like nature as in the cause of Sanc<lb break="no"/>
+            ker and Turner soe especially in this had giuen straight <lb/>
+            charge of a due and iust examinac<ex>i</ex>on to be had w<ex>i</ex>thout any <lb/>
+            manner of parcialtye or feare in the world to the intent as <lb/>
+            well the innocent might be freed as the guilty seuearly <lb/>
+            punished and for this purpose his Ma<ex>jes</ex>tie hath w<ex>i</ex>th his owne hand <lb/>
+            written to sheets of paper on both sydes conteyning interoga=<lb break="no"/>
+            tiues to be ministred to Diuers partyes which were to be ex=<lb break="no"/>
+            amined which Interogatiues the lord Cooke showed the lord <lb/>
+            Maior and the rest of the Comissioners and when he had showed <lb/>
+            the kings Iustice who alleaged the many fauours and honors <lb/>
+            which the king had bestowed vpon the Earle of Somersett <lb/>
+            and his neernes to his Ma<ex>jes</ex>tie by reason of his office yet hath <lb/>
+            com<ex>m</ex>itted him prisoner to the tower and also hath com<ex>m</ex>itted his <lb/>
+            lady to safe keeping and so hauing last of all demaunded of <lb/>
+            the prisoner if he would be tryed by his Cuntry which he <lb/>
+            refused the court was reiurned till Munday next following <lb/>
+            in the after noone at too of the clock./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f010r/add_ms_11600_f010r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f010v/add_ms_11600_f010v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f011r/add_ms_11600_f011r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f011v/add_ms_11600_f011v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f012r/add_ms_11600_f012r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f012v/add_ms_11600_f012v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f013r/add_ms_11600_f013r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f013v/add_ms_11600_f013v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f014r/add_ms_11600_f014r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f014v/add_ms_11600_f014v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f015r/add_ms_11600_f015r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_11600/add_ms_11600_f015v/add_ms_11600_f015v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_11600/add_ms_11600_f016r/add_ms_11600_f016r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_11600/add_ms_11600_f016v/add_ms_11600_f016v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_11600/add_ms_11600_f017r/add_ms_11600_f017r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_11600/add_ms_11600_f017v/add_ms_11600_f017v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_11600/add_ms_11600_f018r/add_ms_11600_f018r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_11600/add_ms_11600_f018v/add_ms_11600_f018v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_11600/add_ms_11600_f019r/add_ms_11600_f019r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_11600/add_ms_11600_f019v/add_ms_11600_f019v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_11600/add_ms_11600_f020r/add_ms_11600_f020r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_11600/add_ms_11600_f020v/add_ms_11600_f020v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_11600/add_ms_11600_f021r/add_ms_11600_f021r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Folger MS V.a.116</title>
+                <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+                <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+                <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Manuscript Description is provided in the body.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <msDesc>
+                <msIdentifier xml:id="Folger_MS_V_a_116">
+                    <country>USA</country>
+                    <settlement>Washington D.C.</settlement>
+                    <repository>Folger Shakespeare Library</repository>
+                    <collection/>
+                    <idno>MS V.a.116</idno>
+                    <msName/>
+                </msIdentifier>
+                <msContents>
+                    <msItem n="1">
+                        <locus>70r-71r, 82r, 83r-118v</locus>
+                        <title when="1628">The Case of Sir John Eliot</title>
+                        <author>
+                            <persName corresp="../people/people.xml#P0030">Walter Yonge</persName>
+                        </author>
+                        <author>
+                            <persName corresp="../people/people.xml#0044">Sir John Eliot</persName>
+                        </author>
+                        <author>
+                            <persName corresp="../people/people.xml#0045">Sir Miles Hobart</persName>
+                        </author>
+                        <author>
+                            <persName corresp="../people/people.xml#0046">Sir Peter Heyman</persName>
+                        </author>
+                        <author>
+                            <persName corresp="../people/people.xml#0047">Denzil Holles</persName>
+                        </author>
+                        <author>
+                            <persName corresp="../people/people.xml#0007">Charles I</persName>
+                        </author>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <note/>
+                        <link target="../texts/EliotCase1629.xml" type="witness"/>
+                        <msDesc>
+                                <msIdentifier/>
+                                <history>
+                                    <summary/>
+                                    <origin when="1630"/>
+                                    <provenance/>
+                                </history>
+                            </msDesc>
+                    </msItem>
+                    
+                </msContents>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc>
+                            <foliation/>
+                            
+                        </supportDesc>
+                    </objectDesc>
+                    <handDesc>
+                        <handNote n="1">
+                            <p/>
+                        </handNote>
+                        
+                    </handDesc>
+                </physDesc>
+                <history>
+                    <origin/>
+                    <provenance/>
+                </history>
+            </msDesc>
+        </body>
+    </text>
+</TEI>

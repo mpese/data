@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Summary of a letter from a Jesuit to the Father Rector in Brussels</title>
+            <author>
+               <persName corresp="../people/people.xml#0035">John Maynard</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6799">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6799</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4289">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 4289</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1323">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1323</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3786">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3786</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_30926">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 30926</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_33469">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 33469</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_152">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 152</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_494">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 494</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_225">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 225</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_495">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 495</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_286">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 286</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier> 
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="MaynardLetterJesuit1628v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, ff. 14r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 153v–155r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 92r–97r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6799.xml">British Library, Harley MS 6799, ff. 359v–361v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS494.xml">British Library, Lansdowne MS 494, ff. 40r–43v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS495.xml">British Library, Lansdowne MS 495, ff. 1r–6r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1628-03-19">19 March 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+               <term>summary</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>anti-catholicism</term>
+               <term>Jesuits</term>
+               <term>confessional conflict</term>
+               <term>Palatinate</term>
+               <term>conspiracy</term>
+               <term>Spanish Match</term>
+               <term>puritanism</term>
+               <term>Arminianism</term>
+               <term>projectors</term>
+               <term>Gondomar</term>
+               <term>diplomacy</term>
+               <term>Dutch Republic</term>
+               <term>foreign affairs</term>
+               <term>Pope</term>
+               <term>excise</term>
+               <term>soldiers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="143r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f143r/harley_ms_4931_f143r.jpg"/>
+         <head>
+            A Copy of a Letter <ex>tha</ex>t was found among those <lb/>
+            Iesuits <ex>tha</ex>t were taken at Clarkenwell in London, <lb/>
+            &amp; addressed to the Rector of Bruxells, March, 1628. 
+         </head>
+         <p>
+            Father Rector,
+         </p>
+         <p>
+            Let not the damp of astonishm<ex>en</ex>t seiz upon yo<ex>u</ex>r most dear, &amp; zealous soul,<lb/>
+            in appr<ex>e</ex>hending the sudden, &amp; unexpected calling of this Parli<ex>amen</ex>t; we haue not<lb/>
+            opposed, but rather farthered it; for <ex>tha</ex>t we hope as much in this Parl<ex>iamen</ex>t,<lb/>
+            as ever we feared one in Q. Eliz. days; You must know the Councell <lb/>
+            is engaged to assist the King by way of pr<ex>e</ex>rogatiue, in case the Parli-<lb break="no"/>
+            am<ex>en</ex>t shold fail. You shall see this Parliam<ex>en</ex>t resembl the Pelican, w<ex>hi</ex>ch <lb/>
+            takes pleasure with her beak to digg out her owne bowalls.
+         </p>
+         <p>
+            The elections of the Kn<ex>igh</ex>ts, &amp; Burgesses haue been in such confusion,<lb/>
+            &amp; by such apparent faction, as <ex>tha</ex>t w<ex>hi</ex>ch we w<ex>e</ex>r<ex>e</ex> wont to procure heretofore with<lb/>
+            much art, &amp; industry (w<ex>he</ex>n the Spanish match was in treaty) now it breaks<lb/>
+            out naturally, as a botch or boyl, &amp; spitts out, &amp; shows it own rancour, &amp; <lb/>
+            venome.
+         </p>
+         <p>
+            You may remember how <ex>tha</ex>t famous, &amp; im<ex>m</ex>ortall Statesman the Conde of <lb/>
+            Gundamor fed K. Iames his fansy, &amp; rocked him asleep w<ex>i</ex>th <ex>th</ex>e soft, &amp; sweet sound<lb/>
+            of peace, to keep up <ex>th</ex>e Spanish Treaty; likewise we w<ex>e</ex>r<ex>e</ex> bound to some emi-<lb break="no"/>
+            nent Statesemen of o<ex>u</ex>r own Country to gaine time, in p<ex>ro</ex>curing <ex>th</ex>o<ex>e</ex> advantage-<lb break="no"/>
+            ous cessations of Armes<del rend="strikethrough">es</del> in the Palatinate; &amp; in admiring the worth <lb/>
+            &amp; honor of the Spanish Nac<ex>i</ex>on, &amp; vilifying the Hollanders; Remonstrating <lb/>
+            to K. Iames that, <ex>tha</ex>t <ex>th</ex>e States w<ex>e</ex>r<ex>e</ex> most ungrat<add place="above">e</add>full to his pr<ex>e</ex>decessor Q. Eliz. <lb/>
+            &amp; to his most sacred Ma<ex>jes</ex>ty; <ex>tha</ex>t <ex>th</ex>e States w<ex>e</ex>r<ex>e</ex> more obnoxious <ex>the</ex>n <ex>th</ex>e Turk; <lb/>
+            &amp; p<ex>er</ex>petually iniured his Ma<ex>jes</ex>tyes Sub<ex>jec</ex>ts in the East Indies; as likewise they<lb/>
+            had usurped from his Ma<ex>jes</ex>ty the Regality of the Narrow-seas in fishing <lb/>
+            upon the English Coasts:
+         </p>
+         <p>
+            Had <th>e</th> Spanish match taken effecte (w<ex>hi</ex>ch was broken by the heate, &amp; violence of <lb/>
+            o<ex>u</ex>r furious enemy the Duke of Bucks, certenly K. Iames had deserted <ex>th</ex>e Hol-<lb break="no"/>
+            landers. These great Statesmen had but one principall meane to further their <lb/>
+            great &amp; good designes, w<ex>hi</ex>ch was, To make K. Iames belieue <ex>tha</ex>t none but the <lb/>
+            Puritan facc<ex>i</ex>on (w<ex>hi</ex>ch plotted nothing but Anarchy, &amp; his confusion) w<ex>e</ex>r<ex>e</ex> averse <lb/>
+            to this most happy union. We steer the same cours, &amp; make great use <lb/>
+            of this Anarchicall election, &amp; haue pr<ex>e</ex>iudicated, &amp; anticipated <ex>th</ex>e greate one, <lb/>
+            That none but the Kings enemies &amp; his, are chosen of this Parliam<ex>en</ex>t; &amp; y<ex>a</ex>t this <lb/>
+            Parliam<ex>en</ex>t vowes to begin where they left, &amp; will never giue over, till <lb/>
+            they haue extirpated him &amp; his posterity. On the other side the same <lb/>
+            parties incessantly foment (who are to be admired for their indefatigabl in-<lb break="no"/>
+            dustry) Revenge, &amp; Iealousies in most of the Parliam<ex>en</ex>t men; And especially they <lb/>
+            work upon the Pride &amp; Vain-glory of such as haue been imprisoned, posses<lb break="no"/>
+            <fw type="catch" place="bot-right">sing</fw>
+            <pb n="143v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f143v/harley_ms_4931_f143v.jpg"/> 
+            sing y<ex>e</ex>m, y<ex>a</ex>t they are y<hi rend="superscript">e</hi> only Martyrs, &amp; worthies of their Country
+         </p>
+         <p>
+            London is as much distempered as ever Florence was; for y<hi rend="superscript">e</hi> Companies are <lb/>
+            at odds; &amp; y<hi rend="superscript">e</hi> Com<ex>m</ex>on Counsell haue opposed the Magistrates ag<ex>ains</ex>t y<hi rend="superscript">e</hi> usuall customs <lb/>
+            in the election<ex>es</ex> of their Kn<ex>igh</ex>ts; w<ex>hi</ex>ch hath bred a g<ex>rea</ex>t heart-burning in y<ex>a</ex>t City is <lb/>
+            so y<ex>a</ex>t twice a day we can divulg w<ex>ha</ex>t we list in Pauls, &amp; upon the Exchange. <lb/>
+            And we haue already rendred o<ex>u</ex>r irreconciliabl enemy the D. of Bucks, as <lb/>
+            odious as a toad; for the peopl are apt to belieue any thing ag<ex>ains</ex>t him. We <lb/>
+            hope to be revenged on y<ex>a</ex>t ball of wild-fire the D. &amp; to quench his fury; <lb/>
+            you shall see y<ex>a</ex>t same sword y<ex>a</ex>t wounded us, being drawn upon y<hi rend="superscript">e</hi> wound <lb/>
+            with an oile y<ex>a</ex>t we haue, shall make us whole; and yus it shalbe don.
+         </p>
+         <p>
+            The Parliam<ex>en</ex>t, as a g<ex>rea</ex>t ship, hath dashed twice ag<ex>ains</ex>t y<hi rend="superscript">e</hi> same rock; &amp; we haue <lb/>
+            so wrought upon the severall complexions of Parliam<ex>en</ex>t men, In Charming y<hi rend="superscript">e</hi> <lb/>
+            most temperat &amp; wisest, y<ex>a</ex>t y<hi rend="superscript">e</hi> best way to overthrow y<hi rend="superscript">e</hi> D. is By humbl pe-<lb break="no"/>
+            tic<ex>i</ex>on to his Ma<ex>jes</ex>ty; W<ex>i</ex>th y<hi rend="superscript">e</hi> Violent, we haue taken a quite contrary cours, <lb/>
+            by working upon their passions, &amp; inebriating their fancyes, w<ex>i</ex>th p<ex>ro</ex>babilities &amp; <lb/>
+            pr<ex>e</ex>sidents y<ex>a</ex>t w<ex>e</ex>r<ex>e</ex> never heard of, That favourites w<ex>e</ex>r<ex>e</ex> never Parliam<ex>en</ex>t-proof; <lb/>
+            they may wrestle for a time, but at last the parl<ex>iament</ex> hath ov<ex>e</ex>rthrown y<ex>e</ex>m. We <lb/>
+            encourage y<ex>e</ex>m, w<ex>i</ex>th all the witt we haue to fall upon the D. &amp; p<ex>er</ex>suade <lb/>
+            y<eg>e</eg>m now is y<hi rend="superscript">e</hi> time or never, the K. being in such necessity; insomuch, y<ex>a</ex>t we assure <lb/>
+            o<ex>u</ex>rselus y<ex>a</ex>t God hath forsaken &amp; infatuated y<ex>e</ex>m, y<ex>a</ex>t they not only strike, &amp; dash upon <lb/>
+            y<ex>a</ex>t rock again, but sink, &amp; wrack in y<hi rend="superscript">e</hi> bottomles sea of distruction.
+         </p>
+         <p>
+            We haue now many strings to o<ex>u</ex>r bow, &amp; haue strongly fortified o<ex>u</ex>r factions, &amp; <lb/>
+            haue made 2 bulworks more; for w<ex>he</ex>n K. Iames lived, you know he was very <lb/>
+            violent ag<ex>ains</ex>t Arminianism, &amp; interupted by his pestilent wit &amp; deep learning <lb/>
+            o<ex>u</ex>r strong designs in Holland, &amp; was a g<ex>rea</ex>t fr<ex>ien</ex>d to y<ex>a</ex>t Arch-rebæll, &amp; old Heretique <lb/>
+            the Pr. of Orange; now we haue planted y<ex>a</ex>t soveraing drug Arminianism, <lb/>
+            w<ex>hi</ex>ch we hope will purge the Protestants of their Heresy; &amp; it flourisheth, &amp; <lb/>
+            will beare fruit in du season.
+         </p>
+         <p>
+            The Materialls w<ex>hi</ex>ch build up o<ex>u</ex>r 2d Bullwork, are The Proiecto<ex>u</ex>rs, &amp; Beggars <lb/>
+            of all ranks &amp; qualities w<ex>ha</ex>tsoever; both these factions operate to destroy this <lb/>
+            Parliam<ex>en</ex>t, &amp; introduce a new species &amp; form of goverm<ex>en</ex>t, w<ex>hi</ex>ch is Oligarchy. These <lb/>
+            factions serue as divers meanes &amp; instrum<ex>en</ex>ts to o<ex>u</ex>r end, w<ex>hi</ex>ch is, The Univ<ex>er</ex>sall Ca-<lb break="no"/>
+            tholique Monarchy. O<ex>u</ex>r foundac<ex>i</ex>on must be Mutac<ex>i</ex>on, this mutac<ex>i</ex>on will cause <lb/>
+            reluctac<ex>i</ex>on, w<ex>hi</ex>ch will seem as so many violent diseases; as y<hi rend="superscript">e</hi> Stone &amp; Gout, &amp; <lb/>
+            the to the speedy destrucc<ex>i</ex>on, or p<ex>er</ex>petuall &amp; insufferabl languish of the body, w<ex>hi</ex>ch is <lb/>
+            wors y<ex>e</ex>n death itself, well to p<ex>ro</ex>ceed by Counsell, &amp; Mature Deliberac<ex>i</ex>on, w<ex>he</ex>n <lb/>
+            &amp; how to work upon the Dukes iealousy, &amp; revenge; &amp; in this, we giue y<hi rend="superscript">e</hi> <lb/>
+            hono<ex>u</ex>r to those y<ex>a</ex>t meritt it, y<ex>a</ex>t is, the Church-catholiques.
+         </p>
+         <p>
+            There is another matter of consequence, w<ex>hi</ex>ch we take much into o<ex>u</ex>r conside-<lb break="no"/>
+            rac<ex>i</ex>ons &amp; tender care, w<ex>hi</ex>ch is, to staue off y<hi rend="superscript">e</hi> Puritans y<ex>a</ex>t they hang not on <lb/>
+            the Dukes eares; they are an impudent, &amp; subtle people &amp; it is to be <lb/>
+            feared least they shold negotiate a reconciliac<ex>i</ex>on between y<hi rend="superscript">e</hi> Duke &amp; <lb/>
+            the Paliam<ex>en</ex>t. Certenly the duke wold gladly haue reconciled hims<ex>elf</ex> <lb/>
+            to the Parliam<ex>en</ex>t at Oxford, &amp; Westminster, but now we assure o<sic>u</sic>rselues
+            <pb n="144r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f144r/harley_ms_4931_f144r.jpg"/>
+            we haue so handled the matter, y<ex>a</ex>t the D. &amp; the Parl. are irreconcile-<lb break="no"/>
+            able; for the better pr<ex>e</ex>venc<ex>i</ex>on of the Puritans, the Arminians haue all-<lb break="no"/>
+            ready blocked up the Dukes eares, &amp; we haue those of o<ex>u</ex>r religion, who <lb/>
+            stand continually at the Dukes chamber to see who goes in &amp; out; <lb/>
+            we cannot be too circumspect &amp; carefull in this regard. I cannot choose <lb/>
+            but laugh to see how some of o<ex>u</ex>r coat haue accoutred themselus, you <lb/>
+            wold scarce know y<ex>e</ex>m if you saw y<ex>e</ex>m; &amp; it is admirabl how in speech &amp; ge-<lb break="no"/>
+            sture they can act the Puritans; The Cambridg schollers to their wofull <lb/>
+            experience shall see that we can act the Puritan a little better <sic>they <lb/>
+               they</sic> haue don the Iesuite; they abused o<sic>u</sic>r sacred Patron Ignatius in iest, but <lb/>
+            we will make y<sic>e</sic>m smart for it in earnest. I hope you will excuse my <lb/>
+            merry digression, for I confess I am at this instant transported w<ex>i</ex>th ioy, to <lb/>
+            see how happily all instrum<sic>en</sic>ts, &amp; meanes, as well g<ex>rea</ex>t, as less, cooperate to our <lb/>
+            purpose. But to return to the main fabrick of o<ex>u</ex>r foundac<ex>i</ex>on, Arminianism. <lb/>
+            The Arminians, &amp; Projecto<ex>u</ex>rs (as appeares by their devises) affect Mutac<ex>i</ex>on, <lb/>
+            this we second &amp; inforce by probabl arg<ex>umen</ex>ts; In the 1st place we take into con-<lb break="no"/>
+            siderac<ex>i</ex>on The Kings hono<ex>u</ex>r &amp; pr<ex>e</ex>sent necessity; &amp; we show how the K. may free <lb/>
+            hims<ex>elf</ex> of the his pr<ex>e</ex>sent Wardshipp, as K. Lewis 11th of france, did; &amp; for his splendo<ex>u</ex>r <lb/>
+            &amp; lustre he may raise vast summs of mony &amp; not be beholding to his Subj<ex>ec</ex>ts, <lb/>
+            w<ex>hi</ex>ch is By way of Imposic<ex>i</ex>ons, &amp; Excise; we instance The Low-countries, &amp; show <lb/>
+            What a vast sum of mony they raise to pay their armies by sea &amp; land, <lb/>
+            merely by excise. Then o<ex>u</ex>r Church-catholique p<ex>ro</ex>ceeds to show the meane how <lb/>
+            to settle this excise, w<ex>hi</ex>ch must be By a mercinary Army of Horse, &amp; foot; for <lb/>
+            the Hors, we haue made it sure y<ex>a</ex>t they shalbe forreners, &amp; Germans, who <lb/>
+            will eate the Kings Revenue, &amp; spoile the Country wheresoever they come, <lb/>
+            though they shold be well paid; w<ex>ha</ex>t havock will they make y<ex>e</ex>n, w<ex>he</ex>n they haue not <lb/>
+            pay, or be not duly paid? surely they will do much more mischief y<ex>e</ex>n we <lb/>
+            hope the Catholiques Army will doe. We are provident y<ex>a</ex>t this Mercanary Army <lb/>
+            of 2000 Hors, &amp; 20000 foot shalbe taken into pay before the excise shalbe <lb/>
+            setled. In forcing the excise, the Country is most likely to rise; if the Merci-<lb break="no"/>
+            nary Army subiugate the Country, y<ex>e</ex>n y<hi rend="superscript">e</hi> Soldiers, &amp; Proiecto<ex>u</ex>rs shalbe paid out of <lb/>
+            the Confiscations; if the Country be too hard for the Soldiers, y<ex>e</ex>n they must <lb/>
+            consequently mutiny, w<ex>hi</ex>ch is equally advantageous to us.
+         </p>
+         <p>
+            Our sup<ex>er</ex>latiue desires are, To work the Protestants, as well as y<hi rend="superscript">e</hi> Papists to <lb/>
+            welcom in a Conquero<ex>u</ex>r; &amp; this is by this meane; We hope instantly to <lb/>
+            dissolue Trading, &amp; hinder Building of Ships, &amp; devise probabl designes, &amp; putting <lb/>
+            the State upon Expedic<ex>i</ex>ons, as that of Cales, for w<ex>hi</ex>ch we must take away <lb/>
+            the marchants Ships; or Putt y<ex>e</ex>m in hope to take the West-Indian fleet, <lb/>
+            w<ex>hi</ex>ch is, to seek a needle in a bottle of hay; His Catholick Ma<ex>jes</ex>ty shall not want <lb/>
+            o<ex>u</ex>r best intelligence; besides, he hath Puttaches, &amp; Carvalls abroad to discover, so <lb/>
+            you cannot be surprized in any Harbo<ex>u</ex>r. When trading is ruined, &amp; shipping <lb/>
+            decayed, w<ex>ha</ex>t will becom of Excises? nay w<ex>ha</ex>t will become of Noblemens, &amp; Gentle 
+            <pb n="144v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f144v/harley_ms_4931_f144v.jpg"/>
+            mens Revenues? the yeomen, &amp; <unclear>farmors</unclear> (in w<ex>ho</ex>m consists the glory of <lb/>
+            this Kingdom) will turn Rogues, &amp; will resemble abiecte <del rend="strikethrough">fellowes</del> Peasants, <lb/>
+            w<ex>hi</ex>ch are little better y<ex>e</ex>n slaves. Trade, &amp; Shipping are so much decayed all-<lb break="no"/>
+            ready, y<ex>a</ex>t London is as it w<ex>e</ex>r<ex>e</ex> besieged already for want of fewell, for sea-coales <lb/>
+            are at 3li a Chalder.
+         </p>
+         <p>
+            When thinges are brought to p<ex>er</ex>fection (w<ex>hi</ex>ch we hope wilbe by y<ex>a</ex>t time his <lb/>
+            sacred Ma<ex>jes</ex>ty hath setled his affaires in Germany) all the people in generall <lb/>
+            will <unclear>hunger</unclear> for a Conquero<ex>u</ex>r, missinge their severall ranks &amp; qualities. Then we are <lb/>
+            sure y<ex>a</ex>t the Lands that w<ex>e</ex>r<ex>e</ex> rent &amp; torn from the Church by y<ex>a</ex>t ravenous <lb/>
+            monster K. H. 8. shalbe reassumed &amp; restored by o<ex>u</ex>r mighty Protecto<ex>u</ex>r his <lb/>
+            Catholique Ma<ex>jes</ex>ty. to the recalling of those w<ex>hi</ex>ch are exiled, &amp; delivering of 1000's <lb/>
+            of soules w<ex>hi</ex>ch suffer p<ex>er</ex>secuc<ex>i</ex>on for the testimony of a good conscience.
+         </p>
+         <p>
+            Ioyn yo<ex>u</ex>r prayers w<ex>i</ex>th o<ex>u</ex>rs, in importuning the blessed Virgin, &amp; all the Host of <lb/>
+            Angells, &amp; Holy Martyrs for to intercede for us, &amp; no question but God will make <lb/>
+            hast to help us.
+         </p>
+         <p>
+            Thus hoping to see Conde de Tilly, &amp; Marquis Spinola here about Iuly <lb/>
+            come twelue-month, I rest. In the meane time we pray for the happy <lb/>
+            success of his Catholique Ma<ex>jes</ex>ty in Germany, &amp; the Low-countryes.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f143r/harley_ms_4931_f143r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f143v/harley_ms_4931_f143v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_4931_part/harley_ms_4931_f144r/harley_ms_4931_f144r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_4931_part/harley_ms_4931_f144v/harley_ms_4931_f144v.jpg"/>
+   </facsimile>
+</TEI>

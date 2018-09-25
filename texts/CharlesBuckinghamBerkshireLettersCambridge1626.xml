@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters to the Heads of Cambridge Colleges</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0008">Thomas Howard, 1st Earl of Berkshire</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0009">George Villiers, 1st Duke of Buckingham</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS390.xml">
+               <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 390</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_743">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 743</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1479">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1479</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_160">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 160</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_25707">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 25707</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72372">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72372</idno>
+               <msName>Trumbull Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72407">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72407</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 208v–217v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1479.xml">British Library, Sloane MS 1479, ff. 17r–21v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_25707.xml">British Library, Additional MS 25707, ff. 144x–145x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72372.xml">British Library, Additional MS 72372, ff. 25r–28v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_160.xml">British Library, Harley MS 160, ff. 96r–97r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_743.xml">British Library, Stowe MS 743, ff. 68r–69r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 431r–432r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 277r–281v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ii59.xml">Cambridge University Library,  MS Ii.5.9, f. 202r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Mm438.xml">Cambridge University Library,  MS Mm.4.38, ff. 118v–119v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVb50.xml">Folger Shakespeare Library,  MS V.b.50, pp476–481</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_291.xml">Folger Shakespeare Library,  MS V.b.291, ivr</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_143193.xml">Gonville &amp; Caius College,  MS 143/193, pp166–167</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 567–586</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, ff. 230–231</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page" from="214" to="222">214-222</biblScope>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="373" to="374">373-374</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               
+            </p>
+         </abstract>
+         <creation>
+            <date when="1626-06">June 1626</date>
+            <placeName corresp="../places/places.xml#0005">Trinity College, Cambridge</placeName>
+            <placeName corresp="../places/places.xml#0006">St James's Palace</placeName>
+            <placeName corresp="../places/places.xml#0007">Palace of Westminster</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>University of Cambridge</term>
+               <term>patronage</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-29" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb n="70r" facs="/bl/harley_ms_390_part/harley_ms_390_f070r/harley_ms_390_f070r.jpg"/>
+         <head>
+            The Earle of Barkshires l<ex>ett</ex>re <lb/>
+            to Mr Chester of Trin<ex>ity</ex> Coll<ex>ege</ex> <lb/>
+            2 June 1626
+         </head>
+         <p>
+            Mr Chester /
+         </p>
+         <p>
+            The infinte obligation which I owe to the <lb/>
+            Vniversity of Cambridge for the late most ample testimony <lb/>
+            of their great love &amp; affection towards me, emboldens me <lb/>
+            to borrow your help, to make known vnto them my vnfained <lb/>
+            thankfullnes; wherein I confesse, that the love and favour <lb/>
+            which they have expressed vnto me, joined with the fashion <lb/>
+            of it, doth farre exceed the weak expressions of so feeble <lb/>
+            a style as mine is: For they have bin pleased out of their <lb/>
+            aboundant affection, to name me to one of the greatest Ho=<lb break="no"/>
+            nours of this Kingdome, without any suit or meanes of mine, <lb/>
+            which was the Chancellourship of the Vniversity; the voting <lb/>
+            whereof in this noble fashion I account as much, as could befall <lb/>
+            me, &amp; receiue it with as much thankfullnes, as if I were <lb/>
+            in full possession of the place. I must therefore intreat <lb/>
+            you to disperse this my thankfull acknowledgment to all <lb/>
+            my worthie freinds there, who have so freely bestowed their <lb/>
+            voices &amp; unsought for favours upon me: and this labour <lb/>
+            I do the rather lay vpon you, because you know I put you <lb/>
+            to none in making meanes for me; which I should vndoubtedly <lb/>
+            have done, if I had preconceived any intention of standing <lb/>
+            for this Dignitie so often wedded by men of high places <lb/>
+            &amp; noble families of this Realme, whereof my honoured Father <lb/>
+            deceased enjoyed the late testimonie, &amp; my unkle before him, <lb/>
+            &amp; not ceasing there, but expressed vnto me now by an hae=<lb break="no"/>
+            reditary affection. Thus much I pray you, to make knowne <lb/>
+            for me, with this farther assurance, that as I had my first <lb/>
+            breeding to my great honour in Cambridge, so I will live <lb/>
+            &amp; die the
+         </p>
+         <closer>
+            <signed rend="align-right">
+               True Servant of <lb/>
+               the Vniversitie <lb/>
+               Barkshire
+            </signed>
+            <seg rend="align-left">
+               St James <lb/>
+               2. Junij 1626
+            </seg>
+         </closer>
+         <pb n="70v"/>
+         
+      </body>
+   </text>
+   <text>
+      <body>
+         <pb n="71r" facs="/bl/harley_ms_390_part/harley_ms_390_f071r/harley_ms_390_f071r.jpg"/>
+         <head>
+            The Duke of Buckinghams letter. <lb/>
+            June 1626
+         </head>
+         <p>
+            Mr Vicechancellor, &amp; Gentlemen the Senate of the <lb/>
+            Vniviersity of Cambridge, <space unit="chars" quantity="4"/> There is no one thing, that <lb/>
+            concernes me in this life, I hold more deere, then the good opinion <lb/>
+            of Learned &amp; Honest men; amongst which number, as you haue <lb/>
+            euer held first rank in the estimation of the Com<ex>m</ex>on Wealth, &amp; <lb/>
+            fame of the Christian World: so in conferring this honour of your <lb/>
+            Chancellorship vpon me, I must confesse, you have satisfyed <lb/>
+            an ambition of mine owne (which I hope will never forsake <lb/>
+            me) and that is, to be well thought of by men that deserve <lb/>
+            well, &amp; men of your profession: yet I cannot attribute this honour <lb/>
+            to any desert in me, but to a respect you beare the sacred <lb/>
+            memorie of my dead Master the King of Schollers, who loved <lb/>
+            you, &amp; honoured you often with his presence; &amp; to my Gracious <lb/>
+            Master now living, who inherits with his blessed Fathers <lb/>
+            vertues, the affetions he beare your Vniverstitie. I beseech <lb/>
+            you, as you have now made your choise with so many kind <lb/>
+            &amp; noble circumstances, as the manner is to me as much as the <lb/>
+            matter: so to assure your selves, that you have cast your votes <lb/>
+            vpon your Servant, who is as apprehensive of the time you <lb/>
+            have shewed your affections in, as of the honour you have given <lb/>
+            him. And I earnestly request you all, that you would be <lb/>
+            pleased not to judge me comparatively, by the successe and <lb/>
+            happines you have had in your former choise of Chancellors, <lb/>
+            who as they knew better (perhaps by an advantage of education <lb/>
+            in your Vniversity) how to value the desert of men of your <lb/>
+            qualities &amp; degrees: so could they not be more willing to cherish <lb/>
+            them then my selfe, who will make amends for my want of <lb/>
+            Schollership, in my love vnto the Professors of it, &amp; to the <lb/>
+            <add place="margin">
+               * more cheerfully <lb/>
+               to imploy my vttermost <lb/>
+               endeavours
+            </add>
+            source from whence it comes; having now just cause<hi rend="superscript">*</hi> (with <lb/>
+            that favour I enjoy from a Royall Master) to the maintaining <lb/>
+            of the Charters, priviledges &amp; Immunities of your Universitie <lb/>
+            in generall, &amp; to the advancing of the particular meritts of <lb/>
+            the Students therein. And since I am so farre engaged <lb/>
+            vnto you, I will presume vpon a further courtesie; which is, <lb/>
+            that you would be pleased to supplie me with your advise, <lb/>
+            &amp; suggest a way vnto me (as my selfe shall not likewise faile <lb/>
+            to think vpon some meanes) how we may make Posteritie remember <lb/>
+            <fw type="catch" place="bot-right">you</fw>
+            <pb n="71v" facs="/bl/harley_ms_390_part/harley_ms_390_f071v/harley_ms_390_f071v.jpg"/>
+            <add place="header">
+               June 1626
+            </add>
+            you had a thankfull Chancellor, &amp; one that really both <lb/>
+            loved you &amp; your Vniversitie: which is a resolution <lb/>
+            writt in an honest heart by him that wants much to <lb/>
+            expresse his affection vnto you, who will ever be <lb/>
+         </p>
+         <closer rend="align-right">
+            <signed>
+               Your faithfull freind &amp; humble servant <lb/>
+               Buckingham.
+            </signed>
+         </closer>
+      </body>
+   </text>
+   <text>
+      <body>
+         <pb n="72r" facs="/bl/harley_ms_390_part/harley_ms_390_f072r/harley_ms_390_f072r.jpg"/>
+         <head>
+            5 June 1626 <lb/>
+            The Kings Letter
+         </head>
+         <p>
+            Trustie &amp; <sic>Welbelooved</sic>, We greet you well. <lb/>
+            Whereas vpon our pleasure intimated vnto you by the <lb/>
+            B<ex>isho</ex>p of Durham for the choise of your Chancellor; you have <lb/>
+            with such a dutie, as we expected, highly satisfyed vs in <lb/>
+            your election: We cannot in our owne Princely nature (who <lb/>
+            are much possessed with this testimonie of your loyall &amp; ready <lb/>
+            affections) forbeare to let you know, how much you are made <lb/>
+            therein partakers of our Royall approbation; and we shall <lb/>
+            ever conceive, that an honour done to a person we favour <lb/>
+            is out of a loyall respect had vnto our selfe: And as we shall <lb/>
+            ever testifie Buckingham worthie of this your election, so shall <lb/>
+            you find the fruit of it. For we that have found him a faithfull <lb/>
+            servant to our deere Father of blessed memorie, and our <lb/>
+            selfe, can best vndertake, that he will prove such a one vnto <lb/>
+            you, and shall assist him with a gracious willingnes in any <lb/>
+            thing, that may concerne the good of your Vniversitie in <lb/>
+            generall, &amp; the particular merits of any students therein.
+         </p>
+         <closer>
+            Given under our signet at our Pallace at Westminster <lb/>
+            the 5th day of Iune in the second yeare of our Raigne/
+         </closer>
+      </body>
+   </text>
+   
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_390_part/harley_ms_390_f070r/harley_ms_390_f070r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_390_part/harley_ms_390_f071r/harley_ms_390_f071r.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_390_part/harley_ms_390_f071v/harley_ms_390_f071v.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_390_part/harley_ms_390_f072r/harley_ms_390_f072r.jpg"/>
+   </facsimile>
+</TEI>

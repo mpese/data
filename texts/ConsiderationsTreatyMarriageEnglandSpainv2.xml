@@ -1,0 +1,551 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations upon the Treaty of Marriage between England and Spain</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+                <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72392">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72392</idno>
+               <msName>Trumbull Papers, Vol. 151</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                   <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6865">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6865</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4888">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4888</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72286">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72286</idno>
+               <msName>Trumbull Papers, Vol. 45</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_b_50">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.b.50</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="ConsiderationsTreatyMarriageEnglandSpainv1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS4149.xml">British Library, Additional MS 4149, ff. 218r–225v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72286.xml">British Library, Additional MS 72286, ff. 125r–128v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72392.xml">British Library, Additional MS 72392, ff. 1r–7r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4888.xml">British Library, Harley MS 4888, ff. 259x–260x</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0124">
+                        <forename>William</forename>
+                        <surname>Wood?</surname>
+                     </persName>
+                  </author>
+                  <title>Considerations upon the treaty of marriage between England and Spain</title>
+                  <date when="1623" type="attributed">[1623?]</date>
+                  <idno type="STC">10003</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1622">1622?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>royal marriage</term>
+               <term>diplomacy</term>
+               <term>confessional conflict</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-31" who="#RB" status="proofread"/>
+            <change when="2018-05-30" who="#RB" status="draft"/>
+            <change when="2018-04-17" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="175r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f175r/hargrave_ms_311_f175r.jpg"/>
+         <head rend="align-centre">
+            <add place="LM">
+                <hi rend="underline">Anno 1618.</hi>
+            </add>
+            Marriadge bet<supplied reason="damage">weene Engl</supplied>and and Spaine./
+         </head>
+         <p>
+            The essentiall points thereof seeme to be the advantages and dissaduantages of such an alliance <lb/>
+            and whether both weighed in equall ballance the one will not oversway the other./
+         </p>
+         <p rend="align-centre">
+            The aduantages that England may pr<ex>e</ex>tend are these
+         </p>
+         <list rend="numbered">
+            <item n="1">
+                A great Kings daughter
+            </item>
+            <item n="2">
+                Much money
+            </item>
+            <item n="3">
+                Safetye
+            </item>
+            <item n="4">
+                <sic>Contnuance</sic> of trade
+            </item>
+            <item n="5">
+                The bridling of the growing greatnes of States
+            </item>
+            <item n="6">
+                The Subiects of Spaine will not be burdenous to England being more remote, as those of <lb/>
+                France would be that are neerer neighbours.
+            </item>
+            <item n="7">
+                The hindering of the Scottish Faction for strenthening it selfe by the alliaunce of France, <lb/>
+                which though it be not publikelye taken knowledge of, yet hath his place amongst the reasons <lb/>
+                that further the match w<ex>i</ex>th Spaine
+            </item>
+          </list>
+        <p>
+            These and the like benefitts and aduantages, some promise to them selves, by running the Course of <lb/>
+            Spaine, but of God or of o<ex>u</ex>r Cause hitherto noe menc<ex>i</ex>on at all and yett vnlesse the Lord build <lb/>
+           the house the builders labour in vaine. <lb/>
+        </p>
+        <p>
+           	Answere
+        </p>
+         <p>
+            1 The meanest of the houshold of faith are much greater then the greatest of those that are w<ex>i</ex>thout <lb/>
+            for they are borne to a greate inheritaunce, These are the promises, God is their god, and w<ex>i</ex>th <lb/>
+            them hath he made a Covenaunte, nor ought it to be forgotten that the house of Spaine is <lb/>
+            Stained w<ex>i</ex>th incest in the match betweene the last King and his sisters daughter <lb/>
+            w<ex>hi</ex>ch cannot be but very loathsome to euery true Christian hart, and yet to speake according <lb/>
+            to the world, the house of England is great enough of it selfe match it where it will, as it <lb/>
+            hath done in times past and as other great Monarches haue led the way, and the allian<supplied reason="damage">ce</supplied> <lb/>
+            of france a lesse dangerous euill and that hath noe ill aspect (vppon England) as <lb/>
+            honorable as that of Spaine it will not proue so beneficiall and so neither so <lb/>
+            dangerous nor preiudiciall /
+         </p>
+         <p>
+            2 Money will soone be wasted and melt away, but the price of it will abide still, lett not any <lb/>
+            deceave, of flatter them selues, Spaine giveth nothing, but for something, and where <lb/>
+            he giveth much he will looke for a greate returne, examine well their acc<ex>i</ex>ons and p<ex>ro</ex>ceeding<add place="above">s</add> <lb/>
+            and make vse of Experience, neither cann or ought money to be any essentiall considera<add place="above">c<ex>i</ex>on</add> <lb/>
+            to sway the weigh of so important an alliance. /
+         </p>
+         <p>
+            3 Is not England stronger at this pr<ex>e</ex>sent and Spaine weaker then heretofore; whence then <lb/>
+            any Cause of feare, but alow that the state of England, stood in feare of any daunger <lb/>
+            from Spaine, will this alliance secure them; the feare is Idle, and the remedie Idler <lb/>
+            vnlesse any Could make it good, that the loue of Spaine to England be a match going
+            <pb n="175v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f175v/hargrave_ms_311_f175v.jpg"/>
+            Forward would p<ex>ro</ex>cure the predominate humor in him that should sway his ambition, whererof <del rend="strikethrough">the</del> <lb/>
+            the world so much experience hath on the Contrary, Charles the first giue his owne sister <lb/>
+            in Marriadge to francis the first, was Francis euer a whit the safer, for such an alliance <lb/>
+            Savoy hath married w<ex>i</ex>th Spaines sister who neuerthelesse doth what he cann to swallow <lb/>
+            him vp France and Spaine haue lately made a double match, let it be examined whether <lb/>
+            Spaine haue laboured most to quench or kindle the fire in France, &amp; yet they were both of one <lb/>
+          <hi rend="align-right underline">Religion</hi> 
+         </p>
+        <p>
+           	They err who thinke there is any thing to be had from a papist for love rather then for feare <lb/>
+           	or that Spaine will ever absolutely desist from aspiring at the vniuersall monarchie of <lb/>
+           	Christendome, and p<ex>ar</ex>ticulerly the recouery of the vnited prouinces, for though he often str<supplied reason="damage">ike</supplied> <lb/>
+           	saile and put into harbour in foule wather, yet he doth not neglect to weigh ancor againe, <lb/>
+           	follow his intended Course when the season is fitt for it; England doth hinder his designes <lb/>
+           	therefore he would match w<ex>i</ex>th England, to haue the free passage for them, and if he were in <lb/>
+           quiet <add place="above">possession</add> of all the 17 prouinces then would they be made a staple and storehouse for all things <lb/>
+           necessarie in so plentifull and well fitted a scituac<ex>i</ex>on for the invading the parts neere adioy<lb break="no"/>
+           ning, whereof the plotts are not new if England give way to him, then disappointed <lb/>
+           of their defences and Bulwarkes that will stand as it were at his mercye, and lie open <lb/>
+           to all manner of Batteries, As on the other side if he be crossed, then will things be <lb/>
+           but where they were, both for Continuance of trade and assurance against feare of <lb/>
+           invasion, Nay rather in somuch the worse termes, because he shall faile of his expectac<ex>i</ex>on <lb/>
+           which comonlie doth breed much harshnesse euen amongst the dearest frends. /
+        </p>
+        <p>
+           Let not any cast a mist in others eies though Spaine had laid asside his wonted ambition <lb/>
+           (which none cann sufficientlie assure) yet will he neuer loose his hope, or relent in <lb/>
+           his resoluc<ex>i</ex>on of recouering the united prouinces wherein his honor and reputac<ex>i</ex>on <lb/>
+           are so deeply interessed./
+        </p>
+        <p>
+           Nor cann such a great scattered bodye that hath soe many Irons in the fire be but continually <lb/>
+           armed, and still in acc<ex>i</ex>on, to daunger both of freinds and foes, as he shall finde his best aduanta<lb break="no"/>
+           ges and opportunities./
+        </p>
+        <p>
+           If England feare Spaine, their safetie therefore, will rather stand in keping him at the staues <lb/>
+           end then receauing such an ambitious new reconcyled enemie, and doubfull freind in their bosom <lb/>
+           corrupting of the subiects, then he cann otherwise by open hostilitie which he will be wary <lb/>
+           enough not to attempt, lest they ioyning their forces by Sea, with those of the vnited <lb/>
+           prouinces should giue him to great a Shocke./
+        </p>
+        <p>
+           Straight <sic>intellgigence</sic>, and Correspondencye w<ex>i</ex>th neighbour Princes, and Allies will alwais <lb/>
+           prooue a safer refuge, for England against Spaine, then the marriadge with Spaine, <lb/>
+           because all haue a com<ex>m</ex>on quarrell to his ambition and greatnes, which in him will neuer giue <lb/>
+           way to any other Considerac<ex>i</ex>on whatsoeuer, for there hath euen been and will still continue in Spaine <lb/>
+           <hi rend="italic">
+                    <foreign xml:lang="la">Constans et perpetua voluntas suum <unclear reason="scribal">vnicuiq<ex>ue</ex>
+                        </unclear> auferendi</foreign>
+                </hi>, whereof a great part of Christendom <lb/>
+           doth yet beare the scarres and feele the stripes. /
+        </p>
+        <pb n="176r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f176r/hargrave_ms_311_f176r.jpg"/>
+        <p>
+            4 Trade will be allowed to Continue, and as safe w<ex>i</ex>th the alliance of marriadge, as w<ex>i</ex>th<del rend="strikethrough">ith</del> it, for <lb/>
+            Spaine doth not onely reape a benefitt by it, but will also be afraid to scare or discontent <lb/>
+            England, by the ill vsage of the marchantes, else why haue they so baselie, and abiectly <lb/>
+            begged a peace, but whensoeuer he seeth his opportunitie and shall find a greater aduan<lb break="no"/>
+            tage to breake then to Continue in good termes with England the alliance will secure <lb/>
+            the marchantes noe more then if it were not at all./
+         </p>
+         <p>
+            The States may in time grow greate, and their greatnesse dangerous, but Spaine <lb/>
+            is both the one and the other allreadie and this alliance will add much vnto him, <lb/>
+            there may also grow iealousie and vnkindnesse and thence open enmitie betweene <lb/>
+            England and them, And so on the otherside things may be so discreetlie carried, as <lb/>
+            they two may entertaine good amitie and correspondencye one w<ex>i</ex>th another for common defence <lb/>
+            for they both professe the same religion and their estate and Condition, seeme to vnite them <lb/>
+            togeather in a necessitie of putting out their hands one to another for mutuall pr<ex>e</ex>servac<ex>i</ex>on <lb/>
+            doe they carrye themselves now vnkindlie or somewhat vnrespectfullie that doth not soe <lb/>
+            vrgentlie prooue, that they may become enemies hereafter, as therevpon to ground a <lb/>
+            necessitie of making an alliance, w<ex>i</ex>th a knowne enemie, w<ex>hi</ex>ch were noe other then to runn <lb/>
+            into a pr<ex>e</ex>sent mischeefe, for feare of a future inconvenience, that take an alarme at <lb/>
+            Englands ioyning w<ex>i</ex>th Spaine to their hurt, w<ex>hi</ex>ch though it be not so ment by England <lb/>
+            yet it is the scope that Spaine aimeth att, and that p<ex>er</ex>happs may make them somewhat <lb/>
+            to neglect England, but remove the Cause and the effect will cease, let them be <lb/>
+            assured of their freindshipp, and they will be found true and respectfull freinds, if <lb/>
+            they prosper and grow great, who knoweth whether it be not of god by such weake <lb/>
+            meanes to pull downe the loftinesse of Spaine, and then to w<ex>i</ex>thstand them, were <lb/>
+            to runne against a Rock. the very first occac<ex>i</ex>on of their libertie was the deriving of <lb/>
+            them to despaire, which made them to take hart and resoluc<ex>i</ex>on to resist, the violence <lb/>
+            that was offered wherein being encouraged with good successe, and feeling their owne <lb/>
+            <sic>strenght</sic> they haue in time made such further progresse, as is this day to be seene, <lb/>
+            Better then for England to make <add place="above">vse of</add> a necessarie euill, and runn a Course with them <lb/>
+            whereby they may haue a part in their well speeding, then to ioyne with Spaine <lb/>
+            a religion and state enemie, who allieth himselfe vnto England but for his owne <lb/>
+            ends, and must needs draw after them the ouerthrow of the Cause of religion <lb/>
+            and ruinne of the state, and will neuer prooue but a secret enemie and doubtfull <lb/>
+            freind, and it must not in this place be forgotton, that if true professors, be iustly <lb/>
+            reproued for going to law before heathen Iudges, much lesse may they side themselues <lb/>
+            w<ex>i</ex>th any of those that arr without to the hurt one of another./
+         </p>
+         <p>
+            6 If England and France should match together, yt doth not therefore consequentlie <lb/>
+           	follow, that the french should be burthenous to the state by reason of their neernesse, <lb/>
+           	The lawes of England allow noe offices, nor pr<ex>e</ex>ferment to Aliens, The French will
+            <pb n="176v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f176v/hargrave_ms_311_f176v.jpg"/>
+            haue more hope in their owne Countrey, where there is without Comparison much more to <lb/>
+           	be given then in England. The English seeke not to make any fortunes in Scotland, but <lb/>
+           	if the French should be importunate, they are alsoe impatient, let them finde Visage de Boy, <lb/>
+           	and yo<ex>u</ex>r Coldenesse shall were out their earnestnesse!/
+        </p>
+        <p>
+            7 The strength w<ex>hi</ex>ch the Scottish faction may gather by the alliance, of france, is but a p<ex>ar</ex>ticuler <lb/>
+           	considerac<ex>i</ex>on against w<ex>hi</ex>ch may be opposed the greatnesse that the Spanish faction will <lb/>
+           	grow vnto by a match with Spaine to the daunger of the state./
+        </p>
+        <p>
+           	This answere doth greatlie lay open the value of such aduantages, as England doth <lb/>
+           	promise him selfe by matching w<ex>i</ex>th Spaine, w<ex>hi</ex>ch how deerely they would notw<ex>i</ex>thstanding <lb/>
+           	be bought, will more p<ex>ar</ex>ticularlye appeare, if knowledge be also taken for the inconveniences <lb/>
+           	and mischeefs, would follow, for the better conceauing whereof his ends are seriouslie <lb/>
+           	to be examined, for it is not likelye that Spaine <sic>ariged</sic> and State Catholique, who <lb/>
+           	hath both religion and state quarrels against England, will yeild to giue his daughter in <lb/>
+           	marriage to England, Nay rather doth offer great sommes for the Compassing thereof <lb/>
+           	but that he looketh for a great returne, <hi rend="italic">
+                    <foreign xml:lang="la">Timeo Danaos &amp;c sic notus vlisses</foreign>
+                </hi>-/
+        </p>
+        <p>
+           	The price of this alliance therefore willbe the breaking of the match w<ex>i</ex>th france, to the <lb/>
+           	weakning both of England and france wherby he may haue the greater footing, in <lb/>
+           	either deuiding England from his Allies especially from the states of the vinited <hi rend="italic">Prouinces</hi> <lb/>
+           	the making way for another match, betweene his second sonne (whom he hath  plott to set <lb/>
+           	in the low Countries, and from thence to promote him if he cann to the Crowne Imperiall <lb/>
+           	and another daughter of France, w<ex>hi</ex>ch would giue so greate an alarme to the whole side <lb/>
+           	of those of the religion if the pr<ex>e</ex>tended match w<ex>i</ex>th England come not betweene, And <lb/>
+           	altering in time the state of religion in England, whereof if hee had noe hope, neither <lb/>
+           	would he euer harken to the match, for none must thinke that he will treate such an alliance <lb/>
+           	without the priuitie and Aduises of his deuines, or that they will not give their consent <lb/>
+           	to it, but vpon greate probabitie, that it shall tend to the furtherance of their Catholique faith <lb/>
+           	The supposed Catholique religion is knowne to be in Spaine one of the fundamentall <lb/>
+           	lawes of their estate, and not doubte but Spaine is himselfe a very regid Romish <lb/>
+           	Catholique, the further therefore he speedeth his religion the more satisfaction it is vnto <lb/>
+           	his conscience, and the more doth he propp and increase his greatnesse, namely <lb/>
+           	because those of that religion that are most deuout but especiallie the greater part of the <lb/>
+           	Clergie throughout Christendome, haue their eyes fixed vppon him, as vppon the greatest stay and <lb/>
+            piller of their Catholique faith, who therefore he should match w<ex>i</ex>th an heretique (so they terme in England) <lb/>
+            but w<ex>i</ex>th a setled purpose by such meanes to roote out heresie, would both wrong his one Conscience <lb/>
+            and loose his reputac<ex>i</ex>on, amongst all these of his beleefe to the ouer greate weakening of <lb/>
+            his estate, w<ex>hi</ex>ch errour none of sound iudgment, that knoweth Spaine well, cann easily <lb/>
+            beleeue that he will euer Committ. /
+        </p>
+         <pb n="177r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f177r/hargrave_ms_311_f177r.jpg"/>
+        <p>
+           That a Change or tollerac<ex>i</ex>on of religion should happen in England by meanes of the intended <lb/>
+           match is more to be feared then any cann warrant to be impossible, wherein that were well <lb/>
+           worth the labour to find out what hopes Spaine doth ground vppon, and what possibilitie <lb/>
+           there is, that the same may be disappointed, in the meane time very likelie that it is in generall <lb/>
+           that there will be no meanes vnattempted, be left on his side to bring his purpose to passe./
+        </p>
+        <p>
+           And then it must in this place be remembred, first whatsoeuer is not of faith is sinn<del rend="strikethrough">
+                    <gap unit="chars" extent="1"/>
+                </del>e, and that <lb/>
+           sinne hath noe promise of blessing, nor is this a worke of faith &amp;c. Next that England <lb/>
+           hath too much experience alreadie of the increasing of <hi rend="italic">Poperie</hi>, w<ex>i</ex>thin these few yeares, for <lb/>
+           want of due execuc<ex>i</ex>on of the lawes, which hath bred exceeding great boldnes in the papists <lb/>
+           aswell at home as abroad, if the marriage goe forward they will take much the more hart <lb/>
+           and greater incouragement no small number of Subiects want teaching, and so <lb/>
+           the easier shaken, many waver, and many are new fangled, the more prepared for a <lb/>
+           Change, and therefore will accordinglie be wrought vppon, The old serpent will seduce <lb/>
+           many Eues, and <add place="above">Pistolls will haue</add> free passage euery where, The worst is yet, And there must needs be <lb/>
+           p<ex>ar</ex>tie Children, for the mother will giue her selfe noe rest, vntill he hath nusled some <lb/>
+           them in her owne religion, which would make the way very plaine, and easie for a Change <lb/>
+           because the head once Corrupted, the infection will in short time spread itselfe over <lb/>
+           all the bodye, and true religion is vnsatiable sorte it w<ex>i</ex>th selfe worshipp, and it will <lb/>
+           soone forsake his dwelling place./
+        </p>
+        <p>
+           If Spaine can proue a tollerac<ex>i</ex>on of religion (w<ex>hi</ex>ch must needs be followed w<ex>i</ex>th the <lb/>
+           ruine of the state) he may then assure himselfe of a side w<ex>hi</ex>ch will allwaies be able either <lb/>
+           directlie or indirectlie to divert the state from hinderinge his designes aswell in the low <lb/>
+           Countries as wheresoeuer else.
+        </p>
+        <p>
+           	And though he should not pr<ex>e</ex>vaile at the first by practise to p<ex>ro</ex>cure a tolleration of Religion (w<ex>hi</ex>ch <lb/>
+           	neuerthelesse the very increasing of the number of papists will of it selfe effect in <lb/>
+           	processe of time) yet when he hath once a faction on foote, and that many of the Subiects are <lb/>
+           	p<ex>er</ex>verted in religion he will notwithstanding be in good hope, that the state may be stayed and <lb/>
+           	hindered from opposing it selfe against his designes, by the working of his faction, and the <lb/>
+           	iealousie, that wilbe conceaved of the papists within the realme./
+        </p>
+         <p>
+            And whether his hopes may faile him or noe yet if he should vppon such ground make any <lb/>
+           attempt, against those of the vnited prouinces, it would not but fall out, to the greate trouble <lb/>
+           annoyance, and daunger of the state, especiall if he send his forces by Sea, for then must <lb/>
+           England vppon such occac<ex>i</ex>on either rigg out their nauie to see that he keepe his Course <lb/>
+           which will alwaies be a matter of greate burthen &amp; Charge or otherwise abide the hazard <del rend="strikethrough">of</del> <lb/>
+           of his landing vppon their owne Coasts if he haue intelligence w<ex>i</ex>th the papists whereof <lb/>
+           it will in such Cases alwaies be safer to be somewhat iealous then too securre./
+        </p>
+        <p>
+           Now the alliance w<ex>i</ex>th Spaine will not onelie scare and discourage in generall the <lb/>
+           whole side of those of the religion abroad to the great weakning, of the state of England
+           <pb n="177v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f177v/hargrave_ms_311_f177v.jpg"/>
+           But also breed a p<ex>ar</ex>ticuler iealousie in those of the vnited Prouinces when they shall see both <lb/>
+           that poperie increaseth, or that Spaine hath a part or faction within the realme, whereof one <lb/>
+           of these two Mischeefs must consequentlie follow, either that they will make their peace w<ex>i</ex>th <lb/>
+           Spaine, if they mistrust their owne strength or else stand Continually vppon their Guard <lb/>
+           against England and Spaine in the narrow <del rend="strikethrough">seas</del>  Seas, if they be able to hold out, especially <lb/>
+           vppon the comming of any supplies by Sea to the Archduke during the truce (which <lb/>
+           as they are a people iealous and suspitious enough by nature) may at one time or other by <lb/>
+           occasions happening grow to some dangerous inconuenience./
+        </p>
+        <p>
+           For betweene too so neere neighbours, both potent at Sea, if there be not straight amitie kept <lb/>
+           things cannot long stand without breaking forth into termes of open hostilitie./
+        </p>
+        <p>
+           And for the state of those prouinces though strong by Sea, alliance and scituac<ex>i</ex>on, yet are not <lb/>
+           the foundations thereof so sure that England may w<ex>i</ex>th safetie leave them to themselves for the <lb/>
+           later sects and questions about matters of religion threatens their disvnion, and Spaine <lb/>
+           that lieth Continuallie in waite for their libertie hath his penc<ex>i</ex>oners, and dailie practises <lb/>
+           among them, who therefore once freed, from the daunger of the enemies (this tricke is <lb/>
+           weake &amp; the Empire like to be continued still in the house of Austria) If he be able to sett <lb/>
+           to puissant armies on foote, one to keepe the feild, and another to kepe the townes may in <lb/>
+           time put them to great distresse./
+        </p>
+        <p>
+           It is also verie considerable, that if by meanes of this treatie Spaine cann breake that <lb/>
+           of Fraunce, he will then thinke to haue the better end of the staffe, when England shall <lb/>
+           haue noe other aduantageable alliance, at his owne Choyce, And so be p<ex>er</ex>happs encouraged to <lb/>
+           stand vppon so great termes, as may be cause of breaking off w<ex>i</ex>th them to the losse still of <lb/>
+           the reputac<ex>i</ex>on of England that would consent to treat w<ex>i</ex>th a professed enemie, and <lb/>
+           p<ex>er</ex>secutor of his religion, and yet shall not reape and benefitt or aduantage to Counteruaile the same <lb/>
+           Some doe noyse much the ancient amitie w<ex>i</ex>th the house of Burgundie, but that house is <lb/>
+           Changed, and hath not kept truce in the Condicons of the alliance, and soe ought the <lb/>
+           Cause to be altered too, it was too weake for France, but now it is to strong, and England <lb/>
+           had then plotts against France, which now it hath not, the greatest vse of leagues and <lb/>
+           alliance is to pr<ex>e</ex>uent mischeefs, or to further some necessarie enterprize, otherwise the <lb/>
+           reason of state and Common experience teacheth vs to sway euer w<ex>i</ex>th the weaker, for the <lb/>
+           briding of the ambition and greatnes of the stronger./
+        </p>
+        <p>
+           They enter feare who to avoyd the obiections made against Spaine, pr<ex>e</ex>tend that <lb/>
+           marriadges are but p<ex>er</ex>sonall amonst princes, for if there be noe realtie, where <lb/>
+           is then the good of England, and if there be any, who so weake, as to thinke  <lb/>
+           that Spaine will easilie quite his interest in it. /
+        </p>
+         <pb n="178r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f178r/hargrave_ms_311_f178r.jpg"/>
+        <p>
+           To alleadge the example of fraunce, that holdeth good Correspondencie still w<ex>i</ex>th other <lb/>
+           Allies and Continueth to assist them against Spaine Notw<ex>i</ex>thstanding his match w<ex>i</ex>th <lb/>
+           Spaine, is to as little purpose in the iudgment, of those who doe alsoe know how <lb/>
+           much Spaine prevaileth in weakning the sinnewes and frustrating the effects <lb/>
+           of such assistance./
+        </p>
+        <p>
+           The some is that Spaine hopeth by reason of this match, so to Charme England, as <lb/>
+           it shall give way to him in his Courses, and England Contrariwise promiseth <lb/>
+           it selfe the honey of the Bee, without daunger of being stung, whether of both <lb/>
+           may come short, of their reckoning is at the least disputable, for Spaine on the <lb/>
+           one side will spare noe trauaile nor Chardge, but will vse all the meanes and practi<lb break="no"/>
+           ses he cann, and take the benefitt of all occasions, and aduantages that shalbe offered, <lb/>
+           to bring his purpose to passe, as it may be supposed that England for his part will alsoe <lb/>
+           stand vppon his watch preuent the mischeefe that shall threaten the state, Spaine may by <lb/>
+           a vigilant Care, and good foresight be disappointed, soe may England by the Contrarie <lb/>
+           be overtaken, for death will weare away these Watchmen that are now, and others may <lb/>
+           succeed in their places that will not be so watchfull, nay watchfullnesse it selfe ouer watched <lb/>
+           will in time wax drowsie, and overwearied Carefulnesse, will grow carelesse, the very <lb/>
+           best Cautions and Caveats must relent and wax old in time, in all strifes and Contentions <lb/>
+            as well of the bodie as of the mind, if one side get ground the other looseth it, Time will <lb/>
+            bring forth many accidents, which may fall out, as to the good, soe to the hurt of England, who <lb/>
+            it may (w<ex>i</ex>th good reason) be feared will not be watchfull, and haue his spirits alwaies in cense <lb/>
+            enough to pr<ex>e</ex>uent the practises of Spaine after so straight alliance, that cannot now so much as <lb/>
+            foresee them, or resolue to keepe out Spaine, wherevpon the question ariseth whether it <lb/>
+            be a sound Course for England not Constrained by any vrgent necessitie to putt the Cause <lb/>
+            of religion, and their owne well doing, and safetie, to so greate an aduenture, in a matter <lb/>
+            that stands vppon so many Contingents, for it is not new in experience, that euen those <lb/>
+            things w<ex>hi</ex>ch wee thinke euen impossible, and therefore feare them least, doe neuerthelesse <lb/>
+            often come to passe, because neglected, and so not hindered by opposition, they creepe <lb/>
+            vnawares vppon vs through the mists of Our securitie, well said the Italian therefore <lb/>
+           <hi rend="italic">Qualle che non volette che scia non fatis cosa per che auuenga</hi>. / 
+        </p>
+        <p>
+           To Conclude Spaine who of late was thought to decline, <del rend="strikethrough">and</del> weake in the head, and <lb/>
+           wounded in his reputac<ex>i</ex>on by those of the vnited prouinces, yet w<ex>i</ex>thall neuer more weakely <lb/>
+           ballanced otherwise then at this pr<ex>e</ex>sent, beginns now resume his spirits, and w<ex>i</ex>thout timlie <lb/>
+           and strong opposic<ex>i</ex>on, will take so deepe a roote, and spredd his branches so farr as to over=<lb break="no"/>
+           shaddow all his neighbours, and deadlie dangerous it will be for anyone to sleepe in such a shade./
+        </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f175r/hargrave_ms_311_f175r.jpg"/>
+      <graphic n="2" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f175v/hargrave_ms_311_f175v.jpg"/>
+      <graphic n="3" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f176r/hargrave_ms_311_f176r.jpg"/>
+      <graphic n="4" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f176v/hargrave_ms_311_f176v.jpg"/>
+      <graphic n="5" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f177r/hargrave_ms_311_f177r.jpg"/>
+      <graphic n="6" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f177v/hargrave_ms_311_f177v.jpg"/>
+      <graphic n="7" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f178r/hargrave_ms_311_f178r.jpg"/>
+      <graphic n="8" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f178v/hargrave_ms_311_f178v.jpg"/>
+   </facsimile>
+</TEI>

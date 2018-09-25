@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to the Marquess of Buckingham</title>
+            <author>
+               <persName corresp="../people/people.xml#P0014">Thomas Alured</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_11049">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 11049</idno>
+                  <msName/>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_18201">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 18201</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22473">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22473</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72387">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72387</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1455">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1455</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1710">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1710</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_498">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 498</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_2882">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Egerton</collection>
+                <idno>MS 2882</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6021">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6021</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4289">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 4289</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34217">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34217</idno>
+               <msName>Sir Francis Fane's book</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_37999">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 37999</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_40629">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 40629</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48044">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 48044</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72358">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72358</idno>
+                <msName>Trumbull Miscellany</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72329">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72329</idno>
+                <msName>Trumbull miscellany</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_G_b_7">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS G.b.7</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="AluredLetterBuckingham1620v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS11049.xml">British Library, Additional MS 11049, ff. 25r–28v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS18201.xml">British Library, Additional MS 18201, ff. 20v–28r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22473.xml">British Library, Additional MS 22473, ff. 74r–79r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS36444.xml">British Library, Additional MS 36444, f. 157v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS37999.xml">British Library, Additional MS 37999, ff. 52r–54v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS40629.xml">British Library, Additional MS 40629, ff. 117r–123v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="AluredLetterBuckingham1620v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS4149.xml">British Library, Additional MS 4149, ff. 158r–162v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 131v–138v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS48044.xml">British Library, Additional MS 48044, ff. 223r–226v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72329.xml">British Library, Additional MS 72329, f. 143v, 145r, 147r, 149r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72358.xml">British Library, Additional MS 72358, ff. 9r–11r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS72387.xml">British Library, Additional MS 72387, ff. 71r–74v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS2882.xml">British Library, Egerton MS 2882, ff. 208x–209x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 32v–39v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6021.xml">British Library, Harley MS 6021, ff. 133r–137v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS498.xml">British Library, Lansdowne MS 498, ff. 136r–139v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1455.xml">British Library, Sloane MS 1455, ff. 20r–23v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1710.xml">British Library, Sloane MS 1710, ff. 25r–28v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title>Collectanea Curiosa</title>
+                  <editor>John Gutch</editor>
+                  <pubPlace>Oxford</pubPlace>
+                  <publisher>Clarendon Press</publisher>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="170" to="180">170-180</biblScope>
+                  <date when="1781">1781</date>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1620-06">June 1620</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term xml:id="letter">letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Spanish Match</term>
+               <term>royal favourites</term>
+               <term>nepotism</term>
+               <term>corruption</term>
+               <term>court</term>
+               <term>diplomacy</term>
+               <term>royal marriage</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-31" who="#RB" status="proofread"/>
+            <change when="2018-07-30" who="#RB" status="draft"/>
+            <change when="2018-04-28" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="90r" facs="/bl/add_ms_28640/add_ms_28640_f090r/add_ms_28640_f090r.jpg"/>
+         <p>
+            why may we not thinke of you as Mordecai said of Esther who knowes <lb/>
+            whether you are come to the kingdome for such a time) endeavour both <lb/>
+            to prevent &amp; to provide that there ensue not any famine or dearthe <lb/>
+            of spirituall breade in this land, neither that this we haue be ever   <lb/>
+            mingled or made vnsavoury with the Romish leaven. We doe not <lb/>
+            reade of any servant almost better respected of his Lord &amp; Maister <lb/>
+            then Eleazar of Damascus whom Abraham had meante, had he died <lb/>
+            childles to haue made his heire, &amp; we reade not of any service he <lb/>
+            did Abraham more, at least greater, then in the choice of a wife for <lb/>
+            his sonne Isaac. Among the servants of our Patriarke (the defen=<lb break="no"/>
+            der of our faith) we observe none better respected then your selfe <lb/>
+            for the king hath manifested that he loves not your person only, but <lb/>
+            takes care for your soule, &amp; labours to make you as good as greate, <lb/>
+            &amp; as happie in another world as high in this. Yet we knowe not <lb/>
+            wherein you can doe him better service then with Eleazer to helpe <lb/>
+            to choose a <hi rend="italic">Rebecca</hi> for our princely Isaac. Abrahams instruction is <lb/>
+            a good direction not to take her among the spirituall Canaanites. <lb/>
+            Princes in respecte of theire happines &amp; other mens miseries seeme <lb/>
+            placed in an earthly paradise having power to taste of every tree <lb/>
+            in the garden, where having also so many royall branches &amp; prin=<lb break="no"/>
+            cipall stockes to graffe on, if they shall only meddle with the forbidden <lb/>
+            fruite, howe dangerous &amp; wofull is theire condition, For the serpent <lb/>
+            will not only beguile the woman, but the Philistins will entreate <lb/>
+            Dalilah &amp; she will betray Sampson, so while they plough with our <lb/>
+            heifer they will vnfolde all our riddles, &amp; vndoe all our State. Be=<lb break="no"/>
+            sides whatsoever language the father speaketh, the birth doth vsuallie <lb/>
+            followe the bellie, &amp; children commonly speake the mother tongue, &amp; <lb/>
+            wheresoever there is this Babell, there is confusion not of tongues <lb/>
+            only but of States; whereas Christes church is like his coate, closely <lb/>
+            woven &amp; at vnitie within it selfe; though some ignorant itching sepa=<lb break="no"/>
+            ratists seeke to finde, or rather labour to make a hole in our coate &amp; <lb/>
+            Church, which the Papist lyes in waite to make the rente worse, &amp; <lb/>
+            the desperate Iesuite if he can will make paste mending, for where=<lb break="no"/>
+            soever they come they turne Christs coate <hi rend="italic">Deianiraes</hi> garment. As <lb/>
+            it set Hercules on <del rend="strikethrough">a</del> fire: so they set others in Combustio<ex>n</ex>, the reason <lb/>
+            is theire first founder was a Soldier &amp; ever since the way of peace <lb/>
+            they haue not knowne, at least not loved. To instance in a particuler <lb/>
+            not vnfitte for the present purpose, We have not hearde of any Pro=<lb break="no"/>
+            testant king that ever matched with a Contrary religion, saue the late <lb/>
+            Henry of Navarre with the late Margaret of France, which marri=<lb break="no"/>
+            age so vnfortunate to the parties having never issue &amp; being afterward <lb/>
+            divorced was also so fatall to our religion, that there was more bloud
+            <pb n="90v" facs="/bl/add_ms_28640/add_ms_28640_f090v/add_ms_28640_f090v.jpg"/>
+            spilte at those Nuptialles then there was <hi rend="underline">coine</hi> <add place="above">wine</add> spente, For while the <lb/>
+            Protestants dreamed of the glory &amp; security they should haue by that <lb/>
+            matche, they were most miserably massacred. And who doubtes that <lb/>
+            what the French Papists committed in theire owne country vpon that <lb/>
+            colour &amp; occasion, the Spanish Papists would <del rend="strikethrough">not</del> be gladde to see <lb/>
+            done in this kingdome vpon the like, for without breach of Charity <lb/>
+            we may doubte of theire meaning. Though there be a Treatie of <lb/>
+            peace, theire Armada came against vs. <space unit="chars" extent="10"/> If therefore we <lb/>
+            either liue or <add place="above">be</add> ledde by precept or example, we shall find it was for=<lb break="no"/>
+            bidden the best people in the worlde, to marry with a differing religio<ex>n</ex>. <lb/>
+            <add place="LM">Deut.7.3.</add>
+            The Injunction the reason &amp; the effecte are layd downe in Deuterono=<lb break="no"/>
+            mie, to the Iewes, that they should not take any daughters of the neigh=<lb break="no"/>
+            boring nations (though greater &amp; mightier then themselues) to be wives <lb/>
+            to theire sonnes, for they will cause theire sonnes to turne from God, <lb/>
+            &amp; will serve other gods, then will the Lord &amp;c. All which are veri=<lb break="no"/>
+            fyed in Salomon the wisest king that ever was, who married one of <lb/>
+            <add place="LM">
+               Eccles.47. <lb/>
+               13-24.
+            </add>
+            the greatest kings daughters that then was, yet we see the weakest <lb/>
+            sexe withdrewe the wisest man, For Salomon became an Idolater, his <lb/>
+            sonne a foole, his subjects rebelles, &amp; the best parte of the kingdome was <lb/>
+            rente from his posteritie for ever. Though Israell sinne yet let not <lb/>
+            Iudah transgresse, though Salomon (even one of the sonnes of David) <lb/>
+            married &amp; miscarried with Pharaohs daughter, yet let not Isaac (the  <lb/>
+            only sonne of our Abraham) doe as some of the sonnes of god haue done  <lb/>
+            who because they <del rend="strikethrough">sawe</del> <add place="above">see</add> that the daughters of men <del rend="strikethrough">were </del> <add place="above">be</add> for outwarde &amp; <lb/>
+            publike respecte fayre, take themselues wives of them, from whence <lb/>
+            come monstrous enormities, which like the ould Giants fight against god <lb/>
+            &amp; godlines. But as God hath doubtles made his covenante with the king <lb/>
+            as he did with Abraham, as he hath brought him out of his owne country <lb/>
+            into a better, as he did Abraham, &amp; put into the kings hearte to take a <lb/>
+            late iourney as Abraham did, from the South to the place where his <lb/>
+            Courte had beene at the beginning, to giue thankes to the Lorde The <lb/>
+            same god put into the king the same minde he put into Abraham, to choose <lb/>
+            a Rebecca among those of the same spirituall kinred, who call only vpo<ex>n</ex> <lb/>
+            one god theire father, &amp; acknowledge one &amp; the same Church to be theire <lb/>
+            mother, that so it may be with the Prince as in other respects, so in this, <lb/>
+            as it was with Isaac who tooke Rebecca to wife &amp;c &amp; was comforted <lb/>
+            <add place="LM">Gen.24.67</add>
+            after his mothers death. <space extent="4" unit="chars"/> Now if from the booke of God which settes <lb/>
+            downe the vnlawfulnes of these marriages, we descend to our owne Chro=<lb break="no"/>
+            nicles we shall find that god hath crossed if not cursed, our alliance &amp; <lb/>
+            association particulerly with the Spanish Natio<ex>n</ex>. The position of that Coun=<lb break="no"/>
+            try and dispositio<ex>n</ex> of that people being as it were so malignant &amp; evill <lb/>
+            agreeing with vs. The Prince of the greatest performance that ever
+            <pb n="91r" facs="/bl/add_ms_28640/add_ms_28640_f091r/add_ms_28640_f091r.jpg"/>
+            this kingdome or Christiandome had was the blacke Prince, yet our <lb/>
+            Chronicles recorde that going into Spayne to settle <hi rend="italic">Don Pedro</hi> in that <lb/>
+            kingdome (besides monstrous ingratitudes &amp; perfidiousnes of that Span=<lb break="no"/>
+            yard, who fayled the <del rend="strikethrough">f</del> performance of those Conditions he had promised, <lb/>
+            which caused that miserable revolte in France to the losse of our inheritance) <lb/>
+            the Prince was so poysened in that iourney that he never had his <lb/>
+            healthe after. But to come neerer our purpose &amp; to our times which <lb/>
+            are little better, For our Spanish frendship I beseech your Lordship <lb/>
+            observe, that all the marriages which the heires &amp; princes of the Crowne <lb/>
+            haue made in England for these 6 score yeeres (except the severall <lb/>
+            second matches of <hi rend="italic">Henry 8</hi>) haue beene only &amp; no where else but with <lb/>
+            Spaine, which how litle god hath blessed, the successe shewes.
+         </p>
+         <p>
+            Prince Arthur married the Spanish kings daughter, we knowe god <lb/>
+            tooke him away suddenly within a small time, &amp; without any issue. In  <lb/>
+            a politike respecte we would <del rend="strikethrough">make</del> yet make a second matche; for <lb/>
+            Prince Henry afterwards king married the same daughter, but <lb/>
+            doubtlesse god was lesse pleased with that matche, which was lesse <lb/>
+            lawfull, &amp; therefore god tooke away all the male children of it, &amp; lefte <lb/>
+            only a daughter, in whose shorte reigne was shedde more bloud for <lb/>
+            the true religion in 6 yeeres, then for the false in these succeeding 60 <lb/>
+            yeeres. We made then a thirde adventure &amp; marriage with Spaine <lb/>
+            Qu<ex>een</ex> Mary with k<ex>ing</ex> Philip which was so discontenting to the people <lb/>
+            that it caused Wiets rebellion, so discomfortable to the Qu<ex>een</ex> that it <lb/>
+            broke her hearte, being left &amp; neglected of her husband, &amp; so disho=<lb break="no"/>
+            nourable &amp; prejudiciall to this kingdome, that meerely for the Span=<lb break="no"/>
+            yards sake we haue no difference at all with the French, we lost Callis      <lb/>
+            <add place="LM">Calice</add>
+            in 6 dayes which had beene aboue 200 yeeres in our possession. Nowe  <lb/>
+            if I make boulde to adde rather then applie, &amp; for observacion of <lb/>
+            the contrary, rather then for imitatio<ex>n</ex> in the present (for though I <lb/>
+            haue not so much iudgment, nor so litle witte to presume to advise <lb/>
+            where to matche, I assume so much as to thinke a matche at home <lb/>
+            cannot be helde any way inconvenient) we finde the first &amp; laste of o<ex>u</ex>r <lb/>
+            kings that ever matched with theire subjects were Edward the 4th <lb/>
+            &amp; Henry the 8th from which two matches God (as it were / to <lb/>
+            shewe, that the lesse we relie vpon others abroade, the more he will <lb/>
+            helpe vs himselfe at home) gaue two daughters two Elizabeths, two <lb/>
+            such Queenes then the which there were never two such blessed instru=<lb break="no"/>
+            ments of gods glory &amp; this kingdomes good, by establishing peace in <lb/>
+            the land &amp; religion in the Church vntill his Majesties happie <lb/>
+            comming who brought both with him. <space unit="chars" extent="6"/> Thus my Lo<ex>rd</ex> haue I <lb/>
+            made bould to lay my pore single mite at yo<ex>u</ex>r feete. The many <lb/>
+            talents you haue cannot be better employed then thus to make you <lb/>
+            here &amp; ever hereafter a good faithfull servant to both yo<ex>u</ex>r Maisters <lb/>
+            For if you wolde lay in waite for any opportunitie which is <del rend="strikethrough">hop=</del>
+            <fw type="catch" place="bot-right">happily</fw>
+            <pb n="91v" facs="/bl/add_ms_28640/add_ms_28640_f091v/add_ms_28640_f091v.jpg"/>
+            happily purposedly offered you, for advancing gods glory &amp; your <lb/>
+            honour, you cannot finde or invent any occasion more pleasing <lb/>
+            to god, or more plausible to the best &amp; most men; then in dissua=<lb break="no"/>
+            ding privatelie by humble entreatie &amp; opposing publikelie  <lb/>
+            by your solide reasons this Spanish matche, since whatsoever <lb/>
+            the occasions &amp; necessities of the Crowne be, it may find more <lb/>
+            supporte by casting it selfe into the armes of the subjects, which <lb/>
+            are the two houses of the Parliament, then by seeking to any <lb/>
+            forraine frowning foe, or envious enemie, wherevnto whenso=<lb break="no"/>
+            ever we leane or truste we shall find them Egiptian reeds <lb/>
+            &amp; theire intentions bent rather to supplant vs then supply vs./
+         </p>
+         <p rend="indent curly-brackets-LR">
+            By him that is not ambitious <lb/>
+            because not worthy, nor yet <lb/>
+            afraide because not ashamed <lb/>
+            to be knowne vnto yo<ex>u</ex>r Hon<ex>o</ex>r <lb/>
+            in this busines. <lb/>
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">Tho. Alured.</hi>	  
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f090r/add_ms_28640_f090r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f090v/add_ms_28640_f090v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_28640/add_ms_28640_f091r/add_ms_28640_f091r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_28640/add_ms_28640_f091v/add_ms_28640_f091v.jpg"/>
+   </facsimile>
+</TEI>

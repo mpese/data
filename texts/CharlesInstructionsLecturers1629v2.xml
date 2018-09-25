@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions Concerning Lecturers and Ministers</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+               <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1775">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1775</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29975">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 29975</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="CharlesInstructionsLecturers1629v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 40r–40v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29975.xml">British Library, Additional MS 29975, ff. 119r–120v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 194r–195v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1775.xml">British Library, Sloane MS 1775, ff. 74r–75r</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page">193</biblScope>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="30" to="31">30-31</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1629">1629</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+               <term>royal instructions</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>liturgy</term>
+               <term>prayer book</term>
+               <term>church government</term>
+               <term>ministers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-15" who="#RB" status="proofread"/>
+            <change when="2018-03-15" who="#RB" status="draft"/>
+            <change when="2010" who="#NM" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="209r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f209r/hargrave_ms_311_f209r.jpg"/>
+         <head rend="align-centre">
+            Carolus Rex
+         </head>
+         <p>
+            Instructions for the most Reuerend fathe<supplied reason="damage">r</supplied> <lb/>
+            in God our right trusty, &amp; right entyrely <lb/>
+            beloued Councellor George Lord ArchB<ex>ishop</ex> <lb/>
+            of Canterbury, concerning certaine Orde<supplied reason="damage">rs</supplied> <lb/>
+            to be obserued, &amp; put in excecution <supplied reason="damage">by</supplied> <lb/>
+            the seuerall Bishops in his Prouince
+         </p>
+         <p>
+            <add place="LM">1</add>
+            That the Lords the Bishops be comanded to <lb/>
+            their seuerall seas to keepe residence exc<supplied reason="damage">ep</supplied>
+                <lb break="no"/>
+            ting those w<ex>hi</ex>ch are in necessary attendance <lb/>
+            at Court
+         </p>
+         <p>
+            <add place="LM">2</add>
+            That none of them resyde upon his land or <lb/>
+            lease, that he hath purchased nor on his <lb/>
+            Comendam (if he hold any) but in one of his <lb/>
+            episcopall house (if he haue any) &amp; that he <lb/>
+            wast not the woods where any are left
+         </p>
+         <p>
+            <add place="LM">3</add>
+            That they giue Charge in ther trienniall <lb/>
+            visitations, &amp; at other <add place="above">convenient</add> times, both by themselue<supplied reason="damage">s</supplied> <lb/>
+            &amp; the Arch Deacons, that the Declaration <lb/>
+            for setling all Questions in difference <lb/>
+            be strictly obserued by all parties
+         </p>
+         <p>
+            <add place="LM">4</add>
+            That there be aspeciall care taken by them <lb/>
+            all that the <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>Ordinations <del rend="strikethrough">
+                    <gap reason="illegible" quantity="6" unit="chars"/>
+                </del> be solemne <lb/>
+            &amp; not of unworthy persons,
+         </p>
+         <p>
+            <add place="LM">5</add>
+            That they take great care concerning the <lb/>
+            Lecturers in there seuerall Diocæsses, for <lb/>
+            whom we giue these seuerall directions <lb/>
+            following viz:
+         </p>
+         <p>
+            <add place="LM">1</add>
+            That in all parishes the after noones sermons <lb/>
+            may be turned into catechising by Question <lb/>
+            &amp; Answere, where, &amp; whensoeuer there is not <lb/>
+            some great cause apparent to breake this <lb/>
+            ancient, &amp; profitable Order
+         </p>
+         <p>
+            <add place="LM">2</add>
+            That euery Bishop ordaine in his diocæsse <lb/>
+            that euery lecturer doe reade diuine seruice <lb/>
+            according to the <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>liturgie printed by Author<supplied reason="damage">i</supplied>
+                <lb break="no"/>
+            ty in his surplice, &amp; Hood before the lecture
+         </p>
+         <p>
+            <add place="LM">3</add>
+            That where a lecture is set up in a market <lb/>
+            towne it may be read by a Company of grau<supplied reason="damage">e</supplied> <lb/>
+            &amp; Orthodox deuines neare adjoyning &amp; in the <lb/>
+            same diocæsse, &amp; that the preach gownes &amp; <lb/>
+            not in Cloakes as too many doe use
+         </p>
+         <p> 
+            <add place="LM">4</add>
+            That if a Corporation <add place="above">doe</add> maintaine <del rend="strikethrough">doe</del> a single <lb/>
+            lecturer he be not suffered to preach till <lb/>
+            he professe his willingnes to take upon him <lb/>
+            a liueing w<ex>i</ex>th care of soules w<ex>i</ex>thin that
+            <pb n="209v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f209v/hargrave_ms_311_f209v.jpg"/>
+            Incorporation, &amp; that he actually take <lb/>
+            such benifice or cure soe soone as it shall <lb/>
+            be fairely procured for him
+         </p>
+         <p>
+            <add place="LM">5</add>
+            That the Bishop doe countenance, &amp; encou<del rend="strikethrough">rag</del>
+                <lb break="no"/>
+            rage the graue, &amp; Orthodox deuines of their <lb/>
+            &amp; that they use meanes by some of the Cleargy <lb/>
+            or others, that they may haue kno<add place="above">w</add>ledge <lb/>
+            how both lecturers, &amp; preachers behaue <lb/>
+            themselues in there sermons, that soe they <lb/>
+            mayy take Order for any abuse accordingly
+         </p>
+         <p>
+            <add place="LM">6</add>
+            That the Bishops suffer none under Noble <lb/>
+            men, &amp; men quallified by law to haue any <lb/>
+            priuate Chaplayne in his house
+         </p>
+         <p>
+            <add place="LM">7</add>
+            That they take speciall care that diuine <lb/>
+            seruice be dilligently frequented aswell <lb/>
+            for prayers &amp; Catechising, as sermons, &amp; <lb/>
+            take particular note of all such as absent <lb/>
+            themselues Recusants, or otherwise
+         </p>
+         <p>
+            <add place="LM">8</add>
+            That euery Bishop that by our grace &amp; <lb/>
+            fauour, &amp; good opinion of his seruice, shall <lb/>
+            be nominated by us to another Bishop<del rend="strikethrough">ric</del>
+                <lb break="no"/>
+            ricke, shall from that day of nomination <lb/>
+            not presume to make any lease for three <lb/>
+            liues or one, &amp; twenty yeares, nor any <lb/>
+            Concurrent lease, or any way renew any <lb/>
+            estate or cut any wood or tymber, but <lb/>
+            meerely receiue the Rent due, &amp; quit <lb/>
+            the place; For we thinke it an hatefull <lb/>
+            thing that any mans leauing the Bishop<lb break="no"/>
+            ricke should almost undoe his successors <lb/>
+            And if any man shall presume this Order <lb/>
+            we will refuse all our royall assent, &amp; keep <lb/>
+            him at the place w<ex>hi</ex>ch he hath soe abused
+         </p>
+         <p>
+            <add place="LM">9</add>
+            We comand you to giue us an Accompt <lb/>
+            euery yeare the 2d day of Ianuary of <lb/>
+            the performance of these our Comands
+         </p>
+         <p rend="align-right">
+            <hi rend="underline">Dorchester/</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f209r/hargrave_ms_311_f209r.jpg"/>
+      <graphic n="2" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f209v/hargrave_ms_311_f209v.jpg"/>
+   </facsimile>
+</TEI>

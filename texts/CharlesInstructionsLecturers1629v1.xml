@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions Concerning Lecturers and Ministers</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1775">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1775</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29975">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 29975</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29975.xml">British Library, Additional MS 29975, ff. 119r–120v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 194r–195v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="CharlesInstructionsLecturers1629v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHargraveMS311.xml">British Library, Hargrave MS 311, ff. 209r–209v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1775.xml">British Library, Sloane MS 1775, ff. 74r–75r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72418.xml">British Library, Additional MS 72418, ff. 1r–2v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_1153.xml">Bodleian Library,  MS Ashmole 1153, item 6, 60–61</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 435r–436x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_674.xml">Bodleian Library,  MS Rawlinson C 674, ff. 66v–67v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_114.xml">Bodleian Library,  MS Tanner 114, f. 158r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_71.xml">Bodleian Library,  MS Tanner 71, ff. 28r–29r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 261r–262v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_27.xml">Cambridge University Library, Additional MS 27, ff. 88r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Correspondence_Box_13.xml">Huntington Library, Hastings Correspondence Box 13, HA 1346</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Stowe_Temple_Religious_Box.xml">Huntington Library, Stowe Temple Religious Box, item 10</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_MS_943.xml">Lambeth Palace Library,  MS 943, ff. 103–104</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_15_42.xml">The National Archives,  SP 15/42, /88 [ff.140r–141r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_153.xml">The National Archives,  SP 16/153, /100 I. [f.186r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_153.xml">The National Archives,  SP 16/153, /101 [ff.187r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_153.xml">The National Archives,  SP 16/153, ff. 102 [ff.189r–190r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_153.xml">The National Archives,  SP 16/153, /103 [ff.191r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_36.xml">The National Archives,  SP 16/36, /88 [ff.140r–141r]</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page">193</biblScope>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="30" to="31">30-31</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1629">1629</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>articles</term>
+               <term>royal instructions</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>liturgy</term>
+               <term>prayer book</term>
+               <term>church government</term>
+               <term>ministers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-29" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="40r" facs="/bl/add_ms_22959/add_ms_22959_f040r/add_ms_22959_f040r.jpg"/>
+         <head>
+            <add place="header">1630</add>
+                <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">Apr.</tei:add>At the Generall of Swafham we receiued Articles Thus <lb/>
+            Directions for the Ministers &amp; churchwardens of <lb/>
+            the seuerall Parishes of the Archdeaconry of Norff<ex>olk</ex>.
+         </head>
+         <p>
+            1. His Majesties declaratio<ex>n</ex> published <foreign xml:lang="la">Anno Domini</foreign> 1628 before <lb/>
+            the Articles of Religion for setling all questions in difference must <lb/>
+            be strictly obserued.
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">Articles.</tei:add>
+         </p>
+         <p>
+            2 Speciall care must be had concerning Lecturers in euery parish <lb/>
+            for whom these directions ensuing are to be obserued.
+         </p>
+         <p rend="indent">
+            1 In all parishes the afternoon sermons must be turned into <lb/>
+            catechising by question &amp; answer, where &amp; whensoeuer there <lb/>
+            is no great cause apparent to breake this ancient &amp; pro=<lb break="no"/>
+            fitable order.
+         </p>
+         <p rend="indent">
+            2 Euery Lecturer shall read Diuine seruice, according to <lb/>
+            the Liturgie printed by authority in his surplice &amp; hood <lb/>
+            before the Lecture.
+         </p>
+         <p rend="indent">
+            3 Where any Lecture is set up in a Market towne the <lb/>
+            same shall be read by a Company of graue &amp; Orthodox <lb/>
+            Diuines neere adjoyning in the same Diocesse &amp; they are <lb/>
+            to preach in gownes &amp; not in cloakes as many use to doe.
+         </p>
+         <p rend="indent">
+            If a Corporatio<ex>n</ex> doe mainteine a single Lecturer he <lb/>
+            must not be suffered to preach till he professe his willingnes <lb/>
+            to take upon him a liuing with cure of soules within that <lb/>
+            Incorporatio<ex>n</ex>; &amp; he must actually take such benefice or Cure <lb/>
+            so soone as it shall be fairely procured for him.
+         </p>
+         <p>
+            3 The Ministers &amp; Churchw<ex>arden</ex> in euery parish or one of them, are at <lb/>
+            these Generals &amp; at euery Gen<ex>eral</ex> hereafter to certifie in theire verdicts <lb/>
+            the Christian names &amp; surnames of euery Lecturer in theire Parish <lb/>
+            &amp; the place where he preacheth together with his quality &amp; degree.
+         </p>
+         <p>
+            4 They are in like manner to certifie the names of such men as <lb/>
+            being not qualified by lawe doe keepe Chaplens in theire houses.
+         </p>
+         <p>
+            5 They are further to certifie the names of all such as absent <lb/>
+            themselues from or are negligent in comming to Diuine seruice <lb/>
+            aswell prayers as Catechisings &amp; sermons.
+         </p>
+         <pb n="40v" facs="/bl/add_ms_22959/add_ms_22959_f040v/add_ms_22959_f040v.jpg"/>
+         <p>
+            6. The Min<ex>iste</ex>r &amp; Churchw<ex>arden</ex>s of euery parish successiuely are <lb/>
+            to keepe a seuerall copie of these instructions by them where=<lb break="no"/>
+            by they may be the better informed of theire duty; &amp; the said <lb/>
+            copies are to be shewed at euery Generall when they shall pre<lb break="no"/>
+            sent all such persons as haue disobeyed these instructions, <lb/>
+            that according to his Majesties pleasure such as doe conforme may <lb/>
+            be encouraged &amp; such as are refractory may be punished.
+         </p>
+         <p rend="indent">
+            <seg rend="curly-bracket-LR">
+               These Articles thus receiued in one halfe <lb/>
+               sheete, printed we knowe not where, seeme <lb/>
+               to come from the king, in what sorte we <lb/>
+               knowe not; only this is knowne that they <lb/>
+               want the ordinary ratificatio<ex>n</ex> <hi rend="italic">By the King</hi>
+            </seg>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f040r/add_ms_22959_f040r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22959/add_ms_22959_f040v/add_ms_22959_f040v.jpg"/>
+   </facsimile>
+</TEI>

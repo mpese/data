@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information Against Cotton et al.</title>
+            <author>
+               <persName corresp="../people/people.xml#P0029">Sir Robert Heath</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLHargraveMS311.xml">
+               <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Hargrave MS 311</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1323.xml">British Library, Harley MS 1323, ff. 57r–67r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3791.xml">British Library, Harley MS 3791, ff. 123r–125r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1199.xml">British Library, Sloane MS 1199</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_23967.xml">British Library, Additional MS 23967, ff. 24r–33r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_69909.xml">British Library, Additional MS 69909, ff. 50r–51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72421.xml">British Library, Additional MS 72421, ff. 140r–147v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_489.xml">British Library, Hargrave MS 489, ff. 17r–25r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_489.xml">British Library, Hargrave MS 489, ff. 26r–41v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Hargrave_MS_489.xml">British Library, Hargrave MS 489, ff. 42r–57v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, ff. 102r–106r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_597.xml">British Library, Harley MS 597, ff. 178r–184r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_1200.xml">British Library, Sloane MS 1200, ff. 77x–85x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_152.xml">British Library, Stowe MS 152, ff. 40x–43x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_153.xml">British Library, Stowe MS 153, ff. 41x–46x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_159.xml">British Library, Stowe MS 159, ff. 16r–27x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb150.xml">Beinecke Library, Osborn fb150, ff. 55r–64v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 304r–309v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_A_127.xml">Bodleian Library,  MS Rawlinson A 127, ff. 55r–68v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_674.xml">Bodleian Library,  MS Rawlinson C 674, ff. 68r–74r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Gg413.xml">Cambridge University Library,  MS Gg.4.13, pp129–130</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_121.xml">Folger Shakespeare Library,  MS V.a.121, ff. 123r–141v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_277.xml">Folger Shakespeare Library,  MS V.b.277, ff. 232r–240v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_XIIB30.xml">Hertfordshire Archives and Local Studies,  XII.B.30</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HALS_XIIB4.xml">Hertfordshire Archives and Local Studies,  XII.B.4</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_977.xml">Houghton Library,  fMS Eng 977, ff. 1r–14v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_Hastings_Legal_Papers_Box_4.xml">Huntington Library, Hastings Legal Papers Box 4, ff10</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_39.xml">Inner Temple Library, Petyt MS 538/39, ff. 356r–366x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH2825.xml">Northamptonshire Record Office,  FH2825, ff6</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IL_3405.xml">Northamptonshire Record Office, IL 3405</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 344–351</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_151.xml">The National Archives,  SP 16/151, /69 [ff.96r–100r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_33.xml">Woburn Abbey,  MS 33, ff. 1r–21v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1629-11-16">16 November 1629</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-07" who="#RB" status="draft"/>
+            <change when="2018-05-14" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="210r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f210r/hargrave_ms_311_f210r.jpg"/>
+         <p rend="align-centre">
+            <hi rend="italic">
+               Lunæ 16.to die Nouembris <lb/>
+               A<ex>nn</ex>o 5.to Caroli Regis
+            </hi>
+            <add place="RM">
+               <hi rend="italic">M. Godde,</hi>
+            </add>
+            <add place="LM">
+               <hi rend="italic">
+                  Rob<ex>er</ex>t Heath <lb/>
+                  Rich<ex>ard</ex> Shelton,
+                  Thomas Crewe, <lb/>
+                  Humf<ex>rey</ex> Dauenport <lb/>
+                  Rich<ex>ard</ex> Barkley, <lb/>
+                  Heneage Finch,
+               </hi>
+            </add>
+         </p>
+         <p rend="align-centre">
+            To the kings most excell<ex>en</ex>t Ma<ex>jes</ex>tie
+         </p> 
+         <p>
+            Humbly Informeth yo<ex>u</ex>r most excell<ex>en</ex>t Ma<ex>jes</ex>ti<ex>e</ex> S<ex>i</ex>r Robert	 <lb/>
+            Heath kn<ex>igh</ex>t yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> Attorney generall, That where=<lb break="no"/>
+            as yo<ex>u</ex>r Sacred Ma<ex>jes</ex>ti<ex>e</ex> euer since yo<ex>u</ex>r happy accesse to the <lb/>
+            Imperiall Crowne of this realme hath gouerned yo<ex>u</ex>r people <lb/>
+            with so much justice &amp; moderation that all yo<ex>u</ex>r good subj<ex>ec</ex>tes <lb/>
+            doo beare <ex>tha</ex>t reuerence &amp; loue vnto yo<ex>u</ex>r Sacred person as is <lb/>
+            justly due to so gratious a Soueraigne And yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> next to <lb/>
+            <ex>th</ex>e seruice of Almighty God &amp; the mayntenau<ex>n</ex>ce of his true religion <lb/>
+            hath preserued &amp; mayntayned <ex>th</ex>e auntient &amp; fundamentall lawes of this <lb/>
+            kingdome w<ex>i</ex>thout Innouac<ex>i</ex>on/.
+         </p>
+         <p>
+            Yet so it is may it please yo<ex>u</ex>r most excellent Ma<ex>jes</ex>tie that som<ex>m</ex>e <lb/>
+            malicious persons who are as yet vnknowne to yo<ex>u</ex>r sayd Attorney <lb/>
+            being ill affected to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> &amp; to yo<ex>u</ex>r happy gou<ex>er</ex>m<ex>e</ex>nt &amp; intending to <lb/>
+            raise false scandalous &amp; seditious rumors ag<ex>ains</ex>t yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> &amp; yo<ex>u</ex>r graci=<lb break="no"/>
+            ous gouernment, &amp; intending to raise false scandalous &amp; seditious <lb/>
+            rumors against yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> &amp; yo<ex>u</ex>r gracious gou<ex>er</ex>nm<ex>en</ex>t haue of late <lb/>
+            wickedly &amp; seditiously framed contriued &amp; written a false <lb/>
+            seditious &amp; pestilent discourse in these words followinge / .
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               The Propositions for yo<ex>u</ex>r Maj<ex>es</ex>t<ex>ies</ex> seruice conteineth Two parts <lb/>
+               The one to secure yo<ex>u</ex>r State &amp; to bridle <ex>th</ex>e p<ex>er</ex>tinacy of p<ex>ar</ex>liam<ex>en</ex>tes <lb/>
+               The other to increase yo<ex>u</ex>r Reuenue much more then it is./ <lb/>
+            </hi>
+         </p>
+         <p>
+            Touching the First haueing considered diuers meanes I find non<ex>n</ex>e <lb/>
+            so important to strengthen yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> regall Authoritie ag<ex>ains</ex>tt all opposic<ex>i</ex>ones <lb/>
+            or practises of troublesome Spirites &amp; to bridle them then to fortifye yo<ex>u</ex>r <lb/>
+            kingdome by haueing a Fortresse in euery cheife Towne &amp; imp<ex>or</ex>tant place <lb/>
+            thereof furnished with Ordinance munic<ex>i</ex>on &amp; faithfull men as they <lb/>
+            ought to bee with all other Circumstances fitt to be digested in a busines <lb/>
+            of this nature, Ordering withall <ex>th</ex>e trayned soldiers of <ex>th</ex>e Countie to bee <lb/>
+            vnited in one dependancy with the said Fortes, aswell to secure their <lb/>
+            beginning, as to succour them in occasion of suspect And allso to re=<lb break="no"/>
+            teine &amp; keepe their Armes for more security: Whereby <ex>th</ex>e Countries <lb/>
+            are no lesse to be brought into subjecc<ex>i</ex>on, then <ex>th</ex>e Cities themselues <lb/>
+            &amp; Consequently <ex>th</ex>e whole kingdome Yo<ex>u</ex>r Ma<ex>jes</ex>ty haueing by this Course <lb/>
+            <ex>th</ex>e power thereof in yo<ex>u</ex>r owne handes.
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               The Reasons of these Suggests are these/.
+            </hi>
+         </p>
+         <p>
+            That in policy it is a greater Tye of <ex>th</ex>e people by force &amp; necessity <lb/>
+            then merely by loue &amp; affecc<ex>i</ex>on; For by the one <ex>th</ex>e gou<ex>er</ex>nent resteth alwaies <lb/>
+            <fw type="catch" place="bot-right">(sure</fw>
+            <pb n="210v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f210v/hargrave_ms_311_f210v.jpg"/>
+            sure, but by the other noe longer then the people are well contented/ .
+         </p>
+         <p>
+            <add place="LM">2</add>
+            It forceth obstinate subjectes to be no more presumptuous then	 <lb/>
+            it pleaseth yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> to p<ex>er</ex>mitt them / .
+         </p>
+         <p>
+            <add place="LM">3</add>
+            That to leaue a State vnfurnished is to giue <ex>th</ex>e bridle thereof <lb/>
+            to <ex>th</ex>e Subject when by the contrary it resteth onely in the Princes <lb/>
+            hands /.        	    
+         </p>
+         <p>
+            <add place="LM">4</add>
+            That moderne Fortresses take long tyme in wynning w<ex>i</ex>th such <lb/>
+            charge &amp; difficulty as no Subjectes in these tymes haue meanes <lb/>
+            probable to attempt them /.
+         </p>
+         <p>
+            <add place="LM">5</add>
+            That it is a sure remedye against rebellions &amp; popular mutinyes <lb/>
+            or against forrayne powers because they cannot well succeede <lb/>
+            when by this Course the apparent meanes is taken away to force <ex>th</ex>e <lb/>
+            kinge &amp; State vpon a doubtfull fortune of a sett battell as<hi rend="underline"> <lb/>
+            </hi>was the cause <ex>tha</ex>t mooued <ex>th</ex>e pretended Invasion against <ex>th</ex>e land <lb/>
+            attempted by <ex>th</ex>e kinge of Spaine in  the yeare <hi rend="underline">1588</hi>.
+         </p>
+         <p>
+            <add place="LM">6</add>
+            That yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> gou<ex>er</ex>nment is <ex>th</ex>e more secure by <ex>th</ex>e peoples more <lb/>
+            subjection &amp; by their Subjection <ex>th</ex>e Gentrye or Parliam<ex>en</ex>tes <lb/>
+            must be forced to alter their Stile &amp; to be conformable to yo<ex>u</ex>r <lb/>
+            will &amp; pleasure for their wordes &amp; opposition importeth nothing <lb/>
+            where <ex>th</ex>e power is in yo<ex>u</ex>r Ma<ex>jes</ex>ties owne hands to doe w<ex>i</ex>th them <lb/>
+            what you please, being indeed <ex>th</ex>e cheife purpose of his dis=<lb break="no"/>
+            course &amp; <ex>th</ex>e Secret intent thereof fitt to be concealed from <lb/>
+            any English att all either councellor of State or other for <lb/>
+            these &amp; diuers other Waighty reasons.
+         </p>
+         <p>
+            It may be considered in this place to make yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> more <lb/>
+            powerfull &amp; strong some orders to be obserued that are vsed <lb/>
+            in fortifyed Countryes, The gouernm<ex>en</ex>t whereof importes as <lb/>
+            much as <ex>th</ex>e States them selues I meane in tymes of doubt or <lb/>
+            suspect, w<ex>hi</ex>ch  are these/.   
+         </p>
+         <p>
+            <add place="LM">1</add>
+            Imprimis that none weare armes or weapons at all either in <lb/>
+            Citty or Countrye but such as yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> may thinke fitt to <lb/>
+            priuiledge &amp; they to be enrolled /.
+         </p>
+         <p>
+            <add place="LM">2</add>
+            That as many high wayes as conveniently may be done bee <lb/>
+            made passable through those Cittyes &amp; townes fortifyed to <lb/>
+            constrayne the passengers to trauell through them / .
+         </p>
+         <p>
+            <add place="LM">3</add>
+            That <ex>th</ex>e Soldjers of fortresses are sometymes chosen of <lb/>
+            another Nation (if Subjectes to <ex>th</ex>e same Prince) but howsoeu<ex>er</ex> <lb/>
+            not to be borne in <ex>th</ex>e same Prouince or within 40. or 50. <lb/>
+            Myles of <ex>th</ex>e Fortresses &amp; not to haue freindes or correspon=	 <lb/>
+            dencye neere it /
+         </p>
+         <fw type="catch" place="bot-right">4 That</fw>
+         <pb n="211r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f211r/hargrave_ms_311_f211r.jpg"/>
+         <p>
+            <add place="LM">4</add>
+            That at <ex>th</ex>e gates of each walled towne be appoynted officers not to <lb/>
+            suffer any unknowen passenger to passe without a Tickett shewing <lb/>
+            from whence hee cam<ex>m</ex>e &amp; whether to goe &amp; that <ex>th</ex>e gates of each <lb/>
+            Citty be shutt all night &amp; the keyes kepte by the Major or Go=<lb break="no"/>
+            uernor, Also the Inkeepers to deliuer the names of all <lb/>
+            vnknowen passengers that lodge in their houses &amp; if they stay <lb/>
+            suspitiously att any tyme to present them to <ex>th</ex>e Gouernors whereby <lb/>
+            dangerous p<ex>er</ex>sons seeing these strict courses will be more wary <lb/>
+            of their acc<ex>i</ex>ons &amp; thereby mischeiuous attemptes will be preuented /
+         </p>
+         <p>
+            Both w<ex>hi</ex>ch doubts are resolued in one &amp; <ex>th</ex>e same reason in <lb/>
+            respect <ex>tha</ex>t in England each cheife towne com<ex>m</ex>only a hath a ruynated <lb/>
+            castell well seated for strength whose foundac<ex>i</ex>on &amp; stones <lb/>
+            remayning may be both quickly repayred for his vse &amp; with little <lb/>
+            change &amp; made strong enough I hope for this purpose w<ex>i</ex>thin <lb/>
+            <ex>th</ex>e space of one yeare by adding w<ex>i</ex>thall Bulwarkes &amp; Rampires for <lb/>
+            <ex>th</ex>e ordinance according to <ex>th</ex>e rules of Fortificac<ex>i</ex>on /
+         </p>
+         <p>
+            The ordanau<ex>n</ex>ce of these fortes may be of Iron not to disfur=<lb break="no"/>
+            =nish your ma<ex>jes</ex>t<ex>ies</ex> nauy or to be a greater charge <ex>th</ex>en is needfull /
+         </p>
+         <p>
+            To mayntayne yearely these Fortes I make accompt in ordinary <lb/>
+            pay 3000 men will be sufficient &amp; will require 40000 li. charge p<ex>er</ex> <lb/>
+            annu<ex>m</ex> or thereaboutes being an expence that Inferior Princes vndergo <lb/>
+            for their necessary saffety /.
+         </p>
+         <p>
+            All which pretention added to <ex>th</ex>e Invincible sea force yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            hath already &amp; may haue will make you <ex>th</ex>e most powerfull &amp; obeyed <lb/>
+            king of <ex>th</ex>e world, w<ex>hi</ex>ch I could likewise confirme by many Examples <lb/>
+            but I omitt <ex>th</ex>em for breuitye. 
+         </p>
+         <p>
+            And not to confuse yo<ex>u</ex>r Ma<ex>jes</ex>ty with twoo much matter yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            may find by <ex>th</ex>e scope of this discourse <ex>th</ex>e meanes shewed in generall <lb/>
+            to bridle yo<ex>u</ex>r Subjects <ex>tha</ex>t may be either discontent or obstinate, So <lb/>
+            am I likewise to conclude <ex>th</ex>e same intent p<ex>ar</ex>ticularly against <ex>th</ex>e p<ex>er</ex>vers=<lb break="no"/>
+            =nesse of yo<ex>u</ex>r p<ex>ar</ex>liamentes aswell to suppresse <ex>tha</ex>t p<ex>er</ex>nitious humor as to <lb/>
+            avoyd their oppositions against yo<ex>u</ex>r profitt being <ex>th</ex>e Second p<ex>ar</ex>t to be <lb/>
+            discoursed of /.
+         </p>
+         <p>
+            And therefore haue first thought fitt for better preuention <ex>th</ex>ereof <lb/>
+            to make knowen to yo<ex>u</ex>r Ma<ex>jes</ex>ty <ex>th</ex>e purpose of a gen<ex>er</ex>all oath w<ex>hi</ex>ch yo<ex>u</ex>r Subj<ex>ec</ex>ts <lb/>
+            may take for sure avoyding of all rubbes <ex>tha</ex>t may hinder <ex>th</ex>e conclusion <lb/>
+            of these busynesses /.
+         </p>
+         <fw type="catch" place="bot-right">It is</fw>
+         <pb n="211v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f211v/hargrave_ms_311_f211v.jpg"/>
+         <p>
+            It is further meant that no subject vpon payne of high Treason	<lb/>
+            may refuse the same oath contayning onely matter of Alleageance <lb/>
+            &amp; not scruples of poyntes of Conscience that may giue pretence <lb/>
+            to be denyed.
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               The effect of the oath is this 
+            </hi>
+         </p>
+         <p>
+            That all yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> subjects doo acknowledge you to bee as <lb/>
+            absolute a kinge &amp; <hi rend="italic">Monarch</hi> w<ex>i</ex>thin yo<ex>u</ex>r dominions as is amongst <lb/>
+            <ex>th</ex>e <hi rend="italic">Christian Princes </hi>&amp; yo<ex>u</ex>r <del rend="strikethrough">dominions</del> <add place="above">
+                    <hi rend="italic">Prerogatiue</hi>
+                </add> as greate /.
+         </p>
+         <p>
+            Whereby you may &amp; shall for yo<ex>u</ex>r selfe by yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> pro=<lb break="no"/>
+            =clamac<ex>i</ex>on aswell as other <hi rend="italic">Soueraigne Princes</hi> dooing the like <lb/>
+            either make lawes or reuers any made w<ex>i</ex>th any other acte so <lb/>
+            great a Monarch as yo<ex>u</ex>r selfe  may doo &amp; that without further <lb/>
+            consent of a p<ex>ar</ex>liam<ex>en</ex>t or need to recall <ex>th</ex>em att all in such <lb/>
+            cases / .
+         </p>
+         <p>
+            Confirming <ex>tha</ex>t <ex>th</ex>e p<ex>ar</ex>iam<ex>en</ex>t in all matters (excepting cases to <lb/>
+            be sentenced as <ex>th</ex>e highest Court) ought to submitt to yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> <lb/>
+            will to giue the Negatiue or affirmatiue conclusion &amp; not to be <lb/>
+            constrayned by his Impertinencyes to any Inconvenience appur <lb/>
+            =tayning to yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> regall authority /.
+         </p>
+         <p>
+            And this notwithstanding any bad pretence or custome to <ex>th</ex>e <lb/>
+            contrary in practise w<ex>hi</ex>ch indeed were fitter to be offered to a <lb/>
+            Prince Elected w<ex>i</ex>thout other right then to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> borne suc=<lb break="no"/>
+            cessiuely king of England Scotland Fraunce &amp; Ireland &amp; yo<ex>u</ex>r <lb/>
+            heyres for euer &amp; so resumed not onely of yo<ex>u</ex>r Subjectes but <lb/>
+            also of the whole world /.      
+         </p>
+         <p>
+            Howe necessary <ex>th</ex>e dangerous supremacy of p<ex>ar</ex>liam<ex>en</ex>tes vsur=<lb break="no"/>
+            pac<ex>i</ex>on is to be preuenteed <ex>th</ex>e Example of Lewes <ex>th</ex>e 11th kinge of   	 <lb/>
+            Fraunce doth manifest who found  <ex>th</ex>e like opposition as yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            doth &amp; by his wisedome suppressed it &amp; <ex>tha</ex>t to <ex>th</ex>e purpose here
+         </p>
+         <p>
+            Which is not to be put downe altogether Parliam<ex>en</ex>tes and <lb/>
+            their authority being in many cases very necessary &amp; fitt, but <lb/>
+            to abridge <ex>th</ex>em as darr as they seeke to derogate from yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> <lb/>
+            regall authority or advancem<ex>en</ex>t of greatnesse /.
+         </p>
+         <p>
+            The caution in offring <ex>th</ex>e sayd oath may require some <lb/>
+            pollicy for <ex>th</ex>e easijer passage at first either by singular or <lb/>
+            p<ex>ar</ex>ticular tractac<ex>i</ex>on &amp; <ex>tha</ex>t so neere about one tyme ouer <ex>th</ex>e land <lb/>
+            as one gou<ex>er</ex>nm<ex>en</ex>t may not knowe what <ex>th</ex>e other intendeth, So it <lb/>
+            may passe <ex>th</ex>e easijer by hauing no tyme of combynac<ex>i</ex>on or <lb/>
+            opposition/.
+         </p>
+         <fw type="catch" place="bot-right">There is</fw>
+         <pb n="212r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f212r/hargrave_ms_311_f212r.jpg"/>
+         <p>
+            There is another course also more certayne then his to bringe to <lb/>
+            passe his oath easily as also yo<ex>u</ex>r profitt &amp; what els is pretended <lb/>
+            w<ex>hi</ex>ch here I omitt for breuity by requiring a long discourse by it <lb/>
+            selfe &amp; haue sett it downe in p<ex>ar</ex>ticular Instrucc<ex>i</ex>ons to <lb/>
+            to informe yo<ex>u</ex>r Ma<ex>jes</ex>tie /
+         </p>
+         <p>
+            The Second p<ex>ar</ex>te of this discourse is touching yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> p<ex>ro</ex>fitt <lb/>
+            after yo<ex>u</ex>r State is secured wherein I shall obserue both some <lb/>
+            reasonable content to <ex>th</ex>e people as also consider the great expences <lb/>
+            <ex>tha</ex>t Princes haue noewadayes more then in tymes past to mayntayne thei<supplied reason="damage">r</supplied> <lb/>
+            owne greatnesse &amp; saffty of their Subjectes who if they haue not witt and <lb/>
+            will to consider theire owne Interest so much indifferently, yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            must repayre their defectes &amp; force <ex>th</ex>em to it by compulsion, but I hope <lb/>
+            there shall be no such cause in poyntes so reasonable to encrease yo<ex>ur</ex> <lb/>
+            Ma<ex>jes</ex>t<ex>ies</ex> revenue, wherein I sett downe diuers meanes for yo<ex>u</ex>r gracious <lb/>
+            Execuc<ex>i</ex>on by such degrees &amp; cautions as yo<ex>u</ex>r greate wisedomes shall <lb/>
+            thinke fitt in a busynes of this Nature/.
+         </p>
+         <p>
+            <add place="LM">1</add>
+            <hi rend="italic">Imprimis</hi> the first meanes &amp; course intended to encrease yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> <lb/>
+            Reuenues or p<ex>ro</ex>fitt withall is of greatest consequence &amp; I call it a <hi rend="italic">Decima</hi> <lb/>
+            being so termed in Italy where in some p<ex>ar</ex>tes it is in vse ymporting the <lb/>
+            Tenth p<ex>ar</ex>te of all Subjectes estates to be payd as a yearely rent to <ex>th</ex>eir Prince <lb/>
+            &amp; aswell monyed men in townes as landed in <ex>th</ex>e Countryes their values &amp; <lb/>
+            estates esteemed justly as it is to <ex>th</ex>e true value yet w<ex>i</ex>th reason to pay it <lb/>
+            &amp; this is payd yearely in money, w<ex>hi</ex>ch course applyed in England for yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> <lb/>
+            seruice may serue in stead of subsidyes fifteenes &amp; such like w<ex>hi</ex>ch in <lb/>
+            this case are fitt to be released for <ex>th</ex>e Subjectes benefitt &amp; content in <del rend="strikethrough">the</del> <lb/>
+            recompence of <ex>th</ex>e said <hi rend="italic">Decima</hi> w<ex>hi</ex>ch will yeild yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> more in certainty <lb/>
+            then they doe casually by fiue hundred thousand pounds p<ex>er</ex> annu<ex>m</ex> att <lb/>
+            the least. /
+         </p>
+         <p>
+            <add place="LM">2</add>
+            <hi rend="italic">Item</hi> <ex>tha</ex>t when yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> hath gotten money into yo<ex>u</ex>r hands by som<ex>m</ex>e <lb/>
+            courses to be sett downe it would bee a p<ex>ro</ex>fitable course to encrease <lb/>
+            yo<ex>u</ex>r Entrate to buy out all Estates &amp; leases vpon yo<ex>u</ex>r owne landes in such <lb/>
+            sort as they be made no loosers whererby hauing yo<ex>u</ex>r land free &amp; renting <lb/>
+            it out to <ex>th</ex>e true value as it is most in vse &amp; not imployed as heretofore <lb/>
+            att an old rent &amp; small fynes you may then rent it out for at least <lb/>
+            fowre or fiue tymes more money then <ex>th</ex>e old rent com<ex>m</ex>es vnto, So as if <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> landes be already but 60000 li. p<ex>er</ex> annum by this meanes it will <lb/>
+            be augm<ex>en</ex>ted at least twoo hundred thousand poundes p<ex>er</ex> annu<ex>m</ex> &amp; to buy <lb/>
+            out <ex>th</ex>e tennantes Estates will com<ex>m</ex>e to a small matter by <ex>th</ex>e course to make <lb/>
+            <ex>th</ex>em no loosers considering <ex>th</ex>e gayne they haue already made vpon <ex>th</ex>e land &amp; <lb/>
+            this is <ex>th</ex>e rather to be don<ex>n</ex>e &amp; <ex>th</ex>e present course changed because it hath <lb/>
+            bene a custome vsed meerely to cosen <ex>th</ex>e kinge /
+         </p>
+         <fw type="catch" place="bot-right">3 Item</fw>
+         <pb n="212v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f212v/hargrave_ms_311_f212v.jpg"/>
+         <p>
+            <add place="LM">3</add>
+            Item whereas most Princes doe receiue <ex>th</ex>e benefitt of Salt in their <lb/>
+            owne handes as a matter of greate profitt because they receiue it <lb/>
+            at <ex>th</ex>e lowest price possible &amp; vent it, doth gayne yearely. / The <lb/>
+            same course vsed by yo<ex>u</ex>r Ma<ex>jes</ex>tie were worth at least one hundred <lb/>
+            &amp; Fifty thousand pounds p<ex>er</ex> annu<ex>m</ex>/.
+         </p>
+         <p>
+            <add place="LM">4.</add>
+            Item it is likewise vsed in other p<ex>ar</ex>ts <ex>tha</ex>t all waightes &amp; measures <lb/>
+            either in priuate houses shopps or publiq<ex>ue</ex> markett<ex>s</ex> should bee <lb/>
+            viewed to be just &amp; sealed once a yeare paying to <ex>th</ex>e Prince for <lb/>
+            it w<ex>hi</ex>ch in England applyed to yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> vse w<ex>i</ex>th order to pay vj d. <lb/>
+            for sealing each waight or measure would yeild neere Sixtye <lb/>
+            thousand pounds p<ex>er</ex> annu<ex>m</ex>
+         </p>
+         <p>
+            <add place="LM">5.</add>
+            Item though all Countryes pay a Gabella for transportac<ex>i</ex>on &amp; <lb/>
+            so likewise in England yet in Spayne there is impost vpon <ex>th</ex>e woolls <lb/>
+            w<ex>hi</ex>ch in England is so greate a wealth &amp; benefitt to <ex>th</ex>e SheepM<ex>aste</ex>rs <lb/>
+            as they may well pay you 5 li. p<ex>er</ex> cent<ex>um</ex> of <ex>th</ex>e true value at <ex>th</ex>e sheer=<lb break="no"/>
+            =inge w<ex>hi</ex>ch I conceiue may be worth one hundred &amp; Forty thousand <lb/>
+            poundes p<ex>er</ex> aannu<ex>m</ex> /
+         </p>
+         <p>
+            <add place="LM">6</add>
+            Item whereas <ex>th</ex>e Lawyers fees &amp; gaynes in England are ex=<lb break="no"/>
+            cessiue to yo<ex>u</ex>r Subjectes p<ex>re</ex>judice it were better for yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> to <lb/>
+            make vse thereof &amp; impose on all causes sentenced w<ex>i</ex>th <ex>th</ex>e p<ex>ar</ex>tie <lb/>
+            to pay 5 li. p<ex>er</ex> cent<ex>um</ex>  of <ex>th</ex>e true value <ex>tha</ex>t <ex>th</ex>e cause hath gayned him. <lb/>
+            And for recompence thereof to lymitt all Lawyers fees and <lb/>
+            gettinges whereby <ex>th</ex>e Subject shall saue more in fees &amp; charges <lb/>
+            then he giueth to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> in <ex>th</ex>e Gabella w<ex>hi</ex>ch I beleeue may bee <lb/>
+            worth one yeare with another Fiftyy thousand poundes /.
+         </p>
+         <p>
+            <add place="LM">7</add>
+            Item whereas <ex>th</ex>e Innes &amp; victualing houses in England are more <lb/>
+            chargeable to <ex>th</ex>e trauellers then in other Countryes It were good <lb/>
+            for yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> to lymitt <ex>th</ex>em to certayne ordinaryes &amp; raise besides <lb/>
+            a large imposition as is vsed in Tuscany &amp; other p<ex>ar</ex>tes that is a <lb/>
+            prohibiting of all Inns &amp; victualing houses but such as shall <lb/>
+            pay it &amp; to impose vpon <ex>th</ex>e cheife Inns &amp; tavernes to pay 10 li. <lb/>
+            a yeare to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> &amp; <ex>th</ex>e worst 5 li. p<ex>er</ex> annu<ex>m</ex>, &amp; all alehouses xx s. <lb/>
+            p<ex>er</ex> annu<ex>m</ex> more or lesse as they bee in custome, Of all sortes there <lb/>
+            are so many in England that this impost may well yeild one <lb/>
+            hundred thousand pounds p<ex>er</ex> annu<ex>m</ex> to yo<ex>u</ex>r Ma<ex>jes</ex>tie /
+         </p>
+         <p>
+            <add place="LM">8.</add>
+            Item in Tuscany &amp; other p<ex>ar</ex>tes there is a Gabella of all <lb/>
+            cattell or flesh &amp; horses sold in markettes paying 3 or 4. p<ex>er</ex> <lb/>
+            cent<ex>um</ex> of what they are sold for which by conjecture may be <lb/>
+            <fw type="catch" place="bot-right">worth</fw>
+            <pb n="213r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f213r/hargrave_ms_311_f213r.jpg"/>
+            worth in England twoo hundred thousand pounds p<ex>er</ex> annu<ex>m</ex> vsing <ex>th</ex>e like <lb/>
+            custome vpon Fish &amp; other victuals (bread excepted) And for this <lb/>
+            cause all flesh &amp; fish &amp; victualls in <ex>th</ex>e Markett to be prised and <lb/>
+            sold by waight whereby <ex>th</ex>e Subject saueth more in not being <del rend="strikethrough">co//</del> <lb/>
+            cosened <ex>th</ex>en <ex>th</ex>e Imposition importeth <ex>th</ex>em/.
+         </p>
+         <p>
+            <add place="LM">
+               <supplied reason="guttering">9</supplied>
+            </add>
+            Item in Tuscany is vsed a taxac<ex>i</ex>on of 7 p<ex>er</ex> cent<ex>um</ex> vpon all <lb/>
+            alienac<ex>i</ex>on of landes to <ex>th</ex>e true value &amp; also 7 p<ex>er</ex> cent<ex>um</ex> vpon all <lb/>
+            dowryes &amp; marriage moneys, the like if it were justly vsed in <lb/>
+            England were worth at least one hundred thousand poundes p<ex>er</ex> <lb/>
+            annu<ex>m</ex> w<ex>i</ex>th many other taxac<ex>i</ex>ons vpon meale &amp; other marchandises <lb/>
+            in all townes aswell as port townes w<ex>hi</ex>ch here I omitt w<ex>i</ex>th diuers <lb/>
+            others as not so fitt for England /.
+         </p>
+         <p>
+            And in satisfacc<ex>i</ex>on of <ex>th</ex>e Subject for these taxes yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> may bee <lb/>
+            pleased to release <ex>th</ex>em of Wardships &amp; to enjoy all their estates at <lb/>
+            eighteene yeares old &amp; in <ex>th</ex>e meane tyme their p<ex>ro</ex>fites to be p<ex>re</ex>serued <lb/>
+            for their owne benefitt /  
+         </p>
+         <p>
+            And also in forfeitures of estates by condemnac<ex>i</ex>ons yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            may release yo<ex>u</ex>r Subject as not to take <ex>th</ex>e forfeiture of <ex>th</ex>eir lands <lb/>
+            but <ex>th</ex>eir goodes high treason onely excepted /.
+         </p>
+         <p>
+            And to allowe <ex>th</ex>e councell of Lawyers in case of life and <lb/>
+            death as also not to see condemned w<ex>i</ex>thout ij witnesses with such <lb/>
+            like benefittes w<ex>hi</ex>ch importeth more their good then all <ex>th</ex>e taxac<ex>i</ex>ons named <lb/>
+            can prejudice them /.
+         </p>
+         <p>
+            <add place="LM">
+               <supplied reason="guttering">1</supplied>0.
+            </add>
+            Item <ex>tha</ex>t som<ex>m</ex>e of <ex>th</ex>e former taxac<ex>i</ex>ons vsed in Ireland &amp; Scotland <lb/>
+            as may easely be brought about by <ex>th</ex>e first example thereof vsed in <lb/>
+            England may very well be made increase yo<ex>u</ex>r revenue there more <lb/>
+            then it is by twoo hundred thousand poundes p<ex>er</ex> annu<ex>m</ex> /.
+         </p>
+         <p>
+            <add place="LM">
+               11
+            </add>
+            Item all offices in <ex>th</ex>e land greate &amp; small in yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> grant <lb/>
+            may be granted w<ex>i</ex>th condic<ex>i</ex>on to pay yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> a p<ex>ar</ex>te yearely according <lb/>
+            to the value this in tyme maye be worth as I conceiue one hundred <lb/>
+            thousand poundes p<ex>er</ex> annu<ex>m</ex> Adding also Notaryes Attorneys and <lb/>
+            such like to pay some proporc<ex>i</ex>on yearely towardes it for beinge <lb/>
+            allowed by yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> to practise &amp; prohibiting els any to <lb/>
+            practise in such places /
+         </p>
+         <p>
+            <add place="LM">
+               12
+            </add>
+            Item to reduce yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex>s houshold to bord wages as most <lb/>
+            other princes doo reseruing som<ex>m</ex>e fewe tables, this will saue yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>ti<ex>e</ex> Sixty thousand poundes p<ex>er</ex> annu<ex>m</ex> &amp; ease greatly <ex>th</ex>e Subject be=<lb break="no"/>
+            =sides both to carriages &amp; prouision w<ex>hi</ex>ch is a good reason <ex>tha</ex>t yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            in honer might doe it / .
+         </p>
+         <p>
+            <add place="LM">
+               13.	
+            </add>   
+            Item I knowe an assured course in yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> navy w<ex>hi</ex>ch maye <lb/>
+            <fw type="catch" place="bot-right">saue at</fw>
+            <pb n="213v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f213v/hargrave_ms_311_f213v.jpg"/>
+            saue at least Fifty thousand pounds p<ex>er</ex> annu<ex>m</ex> w<ex>hi</ex>ch requiring a whole <lb/>
+            discourse by it selfe I omitt onely doo promise to doo it when=<lb break="no"/>
+            soever you comand /.
+         </p>
+         <p>
+            <add place="LM">14</add>
+            Item whereas yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> lawes doo com<ex>m</ex>and <ex>th</ex>e strickt keepinge <lb/>
+            of fasting dayes you may also p<ex>ro</ex>hibit those dayes to eate egges <lb/>
+            cheese of whitmeates, onely to such as are contented to pay xviij d. <lb/>
+            a yeare for <ex>th</ex>e liberty to eate <ex>th</ex>em &amp; <ex>th</ex>e better sort x s. The im=<lb break="no"/>
+            =ployment of this mony bee for <ex>th</ex>e defence of <ex>th</ex>e land in mayntayn=<lb break="no"/>
+            inge <ex>th</ex>e Navy Garrisons &amp; such like much after <ex>th</ex>e fashion of <lb/>
+            Crusado in Spayne as yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> knoweth being first begunne <lb/>
+            there vnder <ex>th</ex>e pretence to defend the land against <ex>th</ex>e Moores And <lb/>
+            <ex>th</ex>e same vsed in England may yeild one yeare w<ex>i</ex>th another one <lb/>
+            hundred thousand poundes w<ex>i</ex>thout any disgust to any because <lb/>
+            it is at euery ones choyce to giue ir or noe /.
+         </p>
+         <p>
+            <add place="LM">15</add>
+            Lastly I haue a course vpon <ex>th</ex>e Catholiques &amp; very saffe for <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> being w<ex>i</ex>th their good liking as it may be wrought <lb/>
+            to yeild yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> at least twoo hundred thousand poundes per <lb/>
+            annu<ex>m</ex> by raising a certayne value vpon their landes &amp; som<ex>m</ex>e <lb/>
+            other impositions w<ex>hi</ex>ch requiring a long discourse by it <lb/>
+            selfe selfe I will omitt it here setting it downe in my <lb/>
+            Instrucc<ex>i</ex>ons /.   	
+         </p>
+         <p>
+            It will saue yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> at least one hundred thousandes per <lb/>
+            annu<ex>m</ex> to make it payne of death &amp; confiscac<ex>i</ex>on of goodes &amp; landes <lb/>
+            for any of <ex>th</ex>e officers to cosen you w<ex>hi</ex>ch nowe is much to be feared <lb/>
+            they doo else they could not be so rich And herein to allowe a <lb/>
+            Fourth p<ex>ar</ex>te of <ex>th</ex>e benefitt to him <ex>tha</ex>t shall find out <ex>th</ex>e cosinage <lb/>
+            Here is not meant officers of State as <ex>th</ex>e Lord Treasorer <lb/>
+            &amp;ces  being Officers of the Crowne /.
+         </p>
+         <p>
+            The sum<ex>m</ex>e of all this accompt amounteth to twoo Millions <lb/>
+            &amp; Two hundred thousand poundes p<ex>er</ex> annu<ex>m</ex>, Suppose it be but <lb/>
+            one Million &amp; on halfe as assuredly yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> may make <lb/>
+            by these courses sett downe yet it is much more then I <lb/>
+            p<ex>ro</ex>mised in my letter for yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> seruice besides som<ex>m</ex>e <lb/>
+            sum<ex>m</ex>es of money in the present by the Courses followinge /.
+         </p>
+         <p>
+            <add place="LM">1</add>
+            Imprimis by the Princes marriage to make all <ex>th</ex>e Earles <lb/>
+            in England, Grandees of Spayne &amp; <hi rend="italic">Principi</hi> w<ex>i</ex>th such like <lb/>
+            priuileges &amp; to pay Twenty thousand poundes a peece <lb/>
+            for it /.
+         </p>
+         <fw type="catch" place="bot-right">2. As also</fw>
+         <pb n="214r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f214r/hargrave_ms_311_f214r.jpg"/>
+         <p>
+            <add place="LM">
+               <supplied reason="guttering">2</supplied>
+            </add>
+            As also if you make them feuditaryes of <ex>th</ex>e townes belonging to their <lb/>
+            Earledomes if they will pay for it besides as they doo to the kinge of <lb/>
+            Spayne in the kingdome of Naples /.
+         </p>
+         <p>
+            <add place="LM">3</add>
+            And so likewise Barons to be made Earles &amp; Peeres to pay ten <lb/>
+            thousand poundes a peece I thinke might yeild fiue hundred thousand <lb/>
+            pounds &amp; oblige them sure to yo<ex>u</ex>r Ma<ex>jes</ex>ty.
+         </p>
+         <p>
+            <add place="LM">4.</add>
+            To make choyce of 200 of the richest men of England in Estate <lb/>
+            <ex>tha</ex>t be not noble men &amp; make <ex>th</ex>em <hi rend="italic">Titulati </hi>as is vsed in Naples &amp; paying <lb/>
+            for it <ex>tha</ex>t is a Duke 30000 li. a Marquesse 15000 li. an Earle 1000 li. a <lb/>
+            Baron or viscount 5000 li.
+         </p>
+         <p>
+            It is to be vnderstood <ex>tha</ex>t <ex>th</ex>e Auntient Nobility of Barons made <lb/>
+            Earles are to precede these as Peeres though these be made Dukes <lb/>
+            or Marquesses /
+         </p>
+         <p>
+            This may raise a Million of poundes or more vnto yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            To make gentlemen of lowe quality &amp; Francklyns &amp; Fermors Esq<ex>ui</ex>res <lb/>
+            to p<ex>re</ex>cede them would also yeild yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> a great sum<ex>m</ex>e of money <lb/>
+            in present /
+         </p>
+         <p>
+            I haue another course to yeild yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> at least three hundred <lb/>
+            Thousand poundes in money w<ex>hi</ex>ch as yet tyme serueth not to discouer <lb/>
+            vntill yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> be resolued to p<ex>ro</ex>ceede in some of <ex>th</ex>e former courses <lb/>
+            w<ex>hi</ex>ch till then I omitt /.
+         </p>
+         <p>
+            Other courses also that may make present money I shall study <lb/>
+            for yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> seruice &amp; as I fynd <ex>th</ex>em out acquaynt you w<ex>i</ex>thall /.
+         </p>
+         <p>
+            Lastly to conclude all this discourse, By the applicac<ex>i</ex>on of <lb/>
+            this course vsed for yo<ex>u</ex>r profitt It is not onely to make you <ex>th</ex>e richest <lb/>
+            king <ex>tha</ex>t euer England but also the saffety augmented thereby to bee <lb/>
+            most secure besides what is shewed in the first parte of this <lb/>
+            discourse I meane by the occasion of these taxac<ex>i</ex>ons &amp; raising <lb/>
+            of moneys, yo<ex>u</ex>r Ma<ex>jes</ex>ty shall haue cause &amp; meanes to employ in all <lb/>
+            places of <ex>th</ex>e land So many offices &amp; Ministers to be obliged to <lb/>
+            you for their owne good &amp; Interest us nothing can be attempted <lb/>
+            against yo<ex>u</ex>r p<ex>er</ex>son or royall Estate over land but som<ex>m</ex>e of these shall <lb/>
+            in all probability haue meanes to fynd it out &amp; hinder it, Besides <lb/>
+            this course will represse many disorders &amp; abuses in the publique <lb/>
+            gouernm<ex>en</ex>t w<ex>hi</ex>ch were hard to be discouered by men Indifferent.
+         </p>
+         <p>
+            To prohibite gorgeous &amp; costly apparell to be worne but by <lb/>
+            p<ex>er</ex>sons of good quality shall Saue the Gentry of <ex>th</ex>e kingdome much more <lb/>
+            money then they shall be taxed to pay to yo<ex>u</ex>r Ma<ex>jes</ex>ty. /
+         </p>
+         <p>
+            Thus w<ex>i</ex>th all humility I take my leaue &amp; kisse yo<ex>u</ex>r gracious <lb/>
+            hand desiring pardon for my error I may com<ex>m</ex>itt herein /.
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="214v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f214v/hargrave_ms_311_f214v.jpg"/>
+         <p>
+            The w<ex>hi</ex>ch false seditious &amp; malitious discourse &amp; writinge so <lb/>
+            framed contriued &amp; written as aforesayd the authors thereof <lb/>
+            intended should be diuulged &amp; dispersed as if the same had <lb/>
+            bene entertayned by yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> with purpose to be putt in <lb/>
+            execuc<ex>i</ex>on, thereby to raise feares &amp; jealousyes in the myndes <lb/>
+            of yo<ex>u</ex>r good Subjectes <ex>tha</ex>t yo<ex>u</ex>r sacred Ma<ex>jes</ex>ty had a purpose <lb/>
+            to alter &amp; innovate <ex>th</ex>e auntient lawes of this kingdome &amp; <ex>th</ex>e <lb/>
+            auntient manner &amp; forme of <ex>th</ex>e governm<ex>en</ex>t thereof and to <lb/>
+            drawe all thinges to be disposed of at yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> absolute <lb/>
+            will &amp; pleasure &amp; to comand &amp; dispose of the Estates goodes <lb/>
+            &amp; reuenues of yo<ex>u</ex>r subjectes or such p<ex>ar</ex>te or porc<ex>i</ex>on thereof <lb/>
+            as yo<ex>u</ex>r selfe pleased w<ex>i</ex>thout <ex>th</ex>e consent of yo<ex>u</ex>r subjectes and <lb/>
+            to make &amp; repeale lawes &amp; statutes by yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> proclamac<ex>i</ex>on <lb/>
+            onely w<ex>i</ex>thout consent of p<ex>ar</ex>liam<ex>en</ex>t And that to ouerawe &amp; <lb/>
+            oppresse yo<ex>u</ex>r subj<ex>ec</ex>tes you purposed to plant and mayntayne <lb/>
+            garrisons &amp; fortfyed castells &amp; places in a warlike <lb/>
+            manner in all the principall Cittyes &amp; townes in this yo<ex>u</ex>r <lb/>
+            kingdome /.
+         </p>
+         <p>
+            Which if it should be beleeued by yo<ex>u</ex>r people <lb/>
+            could not but raise infynite discontentm<ex>en</ex>tes  amongst them <lb/>
+            The consequences whereof might be of extreame &amp; almost <lb/>
+            inevitable danger to yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> p<ex>er</ex>son &amp; State &amp; to <ex>th</ex>e whole <lb/>
+            frame of this kingdome &amp; to <ex>th</ex>e greate dishonor of yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            w<ex>hi</ex>ch all &amp; eu<ex>er</ex>y yo<ex>u</ex>r good &amp; loyall subj<ex>ec</ex>tes are in their duty <lb/>
+            &amp; alleigeau<ex>n</ex>ce to yo<ex>u</ex>r Ma<ex>jes</ex>ty bound to preuent to <ex>th</ex>e vtter=<lb break="no"/>
+            =most of their powers &amp; to discouer to yo<ex>u</ex>r Ma<ex>jes</ex>tie or som<ex>m</ex>e <lb/>
+            of yo<ex>u</ex>r priuy Councell or other Majestrate all such false <lb/>
+            &amp; seditious discourses &amp; Writinges whensoeu<ex>er</ex> they shall <lb/>
+            com<ex>m</ex>e to their handes or knowledge /.
+         </p>
+         <p>
+            Neuerthlesse Francis Earle of Bedford Rob<ex>er</ex>t <lb/>
+            Earle of Somersett John Earle of Clare S<ex>i</ex>r Rob<ex>er</ex>t <lb/>
+            Cotton kn<ex>igh</ex>t &amp; Baronett John Selden Esquire &amp; Gilbert <lb/>
+            Barrell gent<ex>leman</ex> forgetting the duty w<ex>hi</ex>ch they owe to yo<ex>u</ex>r <lb/>
+            gracious Ma<ex>jes</ex>tie their leige Lord &amp; intending to further <lb/>
+            &amp; cherish those false scandalous &amp; seditious rumors <lb/>
+            whereby matter of discord &amp; sclaunder might growe <lb/>
+            betweene yo<ex>u</ex>r Ma<ex>jes</ex>tie the greate men of this kingdome <lb/>
+            &amp; yo<ex>u</ex>r people &amp; not regarding <ex>th</ex>e greate dangers &amp; euill <lb/>
+            <fw type="catch" place="bot-right">consequences</fw>
+            <pb n="215r" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f215r/hargrave_ms_311_f215r.jpg"/>
+            consequences thereof hauing gotten the sayd discourse or <lb/>
+            writing or som<ex>m</ex>e copy or copyes thereof into their handes, <lb/>
+            Every of them the sayd S<ex>ir</ex> Robert Cotton John Earle <lb/>
+            of Clare Robert Earle of Somersett &amp; Francis Earle <lb/>
+            of Bedford John Selden &amp; Gilbert Barrell at seu<ex>er</ex>all <lb/>
+            tymes w<ex>i</ex>thin the space of Eight moneths nowe last past <lb/>
+            did make or write or caused to be made or written <lb/>
+            seu<ex>er</ex>all Copyes thereof &amp; amongst themselues &amp; also to &amp; <lb/>
+            amongst many others haue published diuulged and <lb/>
+            dispersed the same to the greate &amp; insufferable <lb/>
+            scandall &amp; dishonor of yo<ex>u</ex>r Ma<ex>jes</ex>tie &amp; of all yo<ex>u</ex>r most just &amp; <lb/>
+            gracious gou<ex>er</ex>nm<ex>en</ex>t  And non<ex>n</ex>e of them before such publi=<lb break="no"/>
+            cac<ex>i</ex>on thereof did make <ex>th</ex>e same knowen to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> or <lb/>
+            any of yo<ex>u</ex>r priuy councell or any other lawfull Maje=<lb break="no"/>
+            =strate as in duty they and euery of them ought to haue <lb/>
+            don<ex>n</ex>e /. 
+         </p>
+         <p>
+            <hi rend="italic">In consideration</hi> of all w<ex>hi</ex>ch premisses Forasmuch as <ex>th</ex>e sayd <lb/>
+            spreading publishing &amp; diuulging of all such scandalous and <lb/>
+            malicious tales newes &amp; rumors &amp; not making the same knowen <lb/>
+            to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> or yo<ex>u</ex>r priuy Councell or other Majestrate is <lb/>
+            contrary to <ex>th</ex>e good lawes &amp; Statutes of this yo<ex>u</ex>r realme and <lb/>
+            contrary to <ex>th</ex>e duty &amp; alleaigeau<ex>n</ex>ce that they owe to yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> <lb/>
+            And for that <ex>th</ex>e venome thereof may be this vndue meanes <lb/>
+            be dispersed &amp; infused in &amp; vnto many others in &amp; through <lb/>
+            whose handes those false seditious &amp; malitious papers or <lb/>
+            writinges haue or may com<ex>m</ex>e And for <ex>tha</ex>t <ex>th</ex>e danger thereof <lb/>
+            is exceeding greate &amp; may be of infinite ill consequence <lb/>
+            if in tyme <ex>th</ex>e same be not preuented &amp; for example and <lb/>
+            terror to all others be not seuerely punished /.
+         </p>
+         <p>
+            May it therefore please yo<ex>u</ex>r most excell<ex>en</ex>t Ma<ex>jes</ex>ti<ex>e</ex> to <lb/>
+            grant vnto yo<ex>u</ex>r sayd Attorney yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> most gracious <lb/>
+            writtes of Subpena to be directed to the sayd S<ex>i</ex>r Robert <lb/>
+            Cotton kn<ex>igh</ex>te &amp; Baronett John Selden Esquire  &amp; Gilbert <lb/>
+            Barrell gent<ex>leman</ex> &amp; also to signifye yo<ex>u</ex>r highnes Royall <lb/>
+            pleasure according as is vsuall in such cases to the sayd <lb/>
+            John Earle of Clare Robert Earle of Somersett and <lb/>
+            <fw type="catch" place="bot-right">Francis</fw>
+            <pb n="215v" facs="/bl/hargrave_ms_311_part/hargrave_ms_311_f215v/hargrave_ms_311_f215v.jpg"/>
+            Francis Earle of Bedford Comanding them &amp; eu<ex>er</ex>y of <lb/>
+            them att a certayne day &amp; under a certayne payne there=<lb break="no"/>
+            =in to be contayned p<ex>er</ex>sonally to bee &amp; appeare before <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> &amp; the right ho<ex>no</ex>r<ex>a</ex>ble the Lordes &amp; others of <lb/>
+            yo<ex>u</ex>r highnes most ho<ex>no</ex>r<ex>a</ex>ble priuy Councell in yo<ex>u</ex>r <lb/>
+            highnes Court of Starchamber then &amp; there <lb/>
+            to answere to the premisses &amp; to stand to &amp; abide <lb/>
+            such order direcc<ex>i</ex>on sentence &amp; decree therein as to <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>e</ex> &amp; the sayd Lordes &amp; others shall be thought <lb/>
+            most meete &amp; agreeable to justice
+         </p>
+         <p>
+            And yo<ex>u</ex>r <add place="above">said</add> Attorney shall &amp;ces
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f210r/hargrave_ms_311_f210r.jpg"/>
+      <graphic n="2" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f210v/hargrave_ms_311_f210v.jpg"/>
+      <graphic n="3" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f211r/hargrave_ms_311_f211r.jpg"/>
+      <graphic n="4" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f211v/hargrave_ms_311_f211v.jpg"/>
+      <graphic n="5" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f212r/hargrave_ms_311_f212r.jpg"/>
+      <graphic n="6" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f212v/hargrave_ms_311_f212v.jpg"/>
+      <graphic n="7" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f213r/hargrave_ms_311_f213r.jpg"/>
+      <graphic n="8" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f213v/hargrave_ms_311_f213v.jpg"/>
+      <graphic n="9" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f214r/hargrave_ms_311_f214r.jpg"/>
+      <graphic n="10" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f214v/hargrave_ms_311_f214v.jpg"/>
+      <graphic n="11" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f215r/hargrave_ms_311_f215r.jpg"/>
+      <graphic n="12" url="/bl/hargrave_ms_311_part/hargrave_ms_311_f215v/hargrave_ms_311_f215v.jpg"/>
+   </facsimile>
+</TEI>

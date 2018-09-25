@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to James I Before his Trial</title>
+            <author>
+               <persName corresp="../people/people.xml#P0017">
+                  Sir Walter Raleigh
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_3520">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 3520</idno>
+                <msName>Divers Letters wrytten by Sir Walter Rawleigh</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_3876">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 3876</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6242">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6242</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4108">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 4108</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_25707">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 25707</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_40838">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 40838</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_69394">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 69394</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_73087">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73087</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS40838.xml">British Library, Additional MS 40838, ff. 31v–32r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS4108.xml">British Library, Additional MS 4108, f. 114r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 166r–166v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS69394.xml">British Library, Additional MS 69394, ff. 64r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS73087.xml">British Library, Additional MS 73087, ff. 24v–25v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3876.xml">British Library, Egerton MS 3876, f. 215r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, f. 209v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, f. 212v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 353r–353v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 18r–19r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6242.xml">British Library, Harley MS 6242, ff. 88v–89r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS3520.xml">British Library, Sloane MS 3520, ff. 10v–12r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb243.xml">Beinecke Library, Osborn fb243</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, f. 92</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, f. 113</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_217.xml">Bodleian Library,  MS Tanner 217, ff. 5r–6r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 240v–241v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, pp436–437</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 136v–137v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_7340.xml">Gonville &amp; Caius College,  MS 73/40, f. 215r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Hatfield_House_CP_102.xml">Hatfield House,  CP 102, item 67</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_HM_36836.xml">Huntington Library,  HM 36836, ff. 118–120</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_36.xml">Inner Temple Library, Petyt MS 538/36, ff. 78r–79v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LSA_MS_291.xml">London Society of Antiquaries,  MS 291, ff. 35r–36r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, f. 500</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, ff. 139–140</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, ff. 16v–17r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/University_College_Oxford_MS_152.xml">University College,  MS 152 [on deposit at the Bodleian], ff. 43–45</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1603">1603</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>execution</term>
+               <term>law</term>
+               <term>Roman history</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-04"/>
+            <change status="proofread" who="#NM" when="2018-06-08"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="22r" facs="/bl/add_ms_11600/add_ms_11600_f022r/add_ms_11600_f022r.jpg"/>
+         <head>
+            S<ex>i</ex>r Walter Rawleigh to his Ma<ex>jes</ex>tie before <lb/>
+            his tryall./
+         </head>
+         <p>
+            It is one part of the office of a iust &amp; worthy prince to <lb/>
+            heare the complaints of his uassals, especially of such as <lb/>
+            are in greate misery I knowing it among many other pr<ex>e</ex>sump=<lb break="no"/>
+            sions gathered against me your Ma<ex>jes</ex>tie hath beene perswaded <lb/>
+            that I was one of them who were greate and therefore the <lb/>
+            more likely to proue disloyall but the great god so releiue <lb/>
+            me in both worlds as I was the contrary &amp; I tooke as <lb/>
+            great comforte to behould your Ma<ex>jes</ex>tie &amp; alwayes learning <lb/>
+            some good &amp; bettring my knowledge by hearing your Ma<ex>jes</ex>ties <lb/>
+            discourse. I doe therefore humbly beseech your souerayne <lb/>
+            Ma<ex>jes</ex>ties not to beleeue any of those in perticular who under <lb/>
+            pretence of offences to the king doe easily worke there <lb/>
+            perticular revenges. I trust noe man vnder the color <lb/>
+            of making examples shall perswade your Ma<ex>jes</ex>tie to leaue the <lb/>
+            word mercifull out of your stile for it will noe lesse profitt <lb/>
+            your Ma<ex>jes</ex>tie and become your greatnes then the word inuincible <lb/>
+            it is true that the lawes of England are noe lesse iealous <lb/>
+            of the kinge then <hi rend="italic">Cæsar</hi> was of <hi rend="italic">Pompeia</hi> his wife for not=<lb break="no"/>
+            w<ex>i</ex>thstanding that she was cleared of hauing accompanied <lb/>
+            w<ex>i</ex>th <hi rend="italic">Clodias</hi> yet for being suspected he condemned her. <lb/>
+            for my selfe I protest before the euer liuing god, and I <lb/>
+            speake it to my M<ex>aste</ex>r &amp; soueraigne that I neuer inuented <lb/>
+            treason concented to treason nor performed treason against <lb/>
+            him, and yet I know I shall fall <foreign xml:lang="la">in manibus eorum a quibus
+            <fw type="catch" place="bot-right">non possu<ex>m</ex> euadere</fw>
+            <pb n="22v" facs="/bl/add_ms_11600/add_ms_11600_f022v/add_ms_11600_f022v.jpg"/> 
+            non possum euadere</foreign> unlesse by your Ma<ex>jes</ex>ties great compassion <lb/>
+            I be susteyned o<ex>u</ex>r lawe therefore (most mercifull Prince) knowing <lb/>
+            her owne crueltie and knowing that she is wonte to compound <lb/>
+            treasons out of presumptions and circumstances, doth giue <lb/>
+            this charitable aduice to the king her superior: <foreign xml:lang="la">non solum <lb/>
+            sapiens esse rex sed et misericors, vt cum sapientia misericor=<lb break="no"/>
+            detur quam iudicij</foreign>: I doe therefore one the knees of my heart <lb/>
+            beseech your Ma<ex>jes</ex>tie to take counsell from your owne sweet &amp; <lb/>
+            comfortable disposition and remember I haue serued <lb/>
+            your Ma<ex>jes</ex>tie 20 yeares for w<ex>hi</ex>ch your Ma<ex>jes</ex>tie hath giuen mee <lb/>
+            noe rewarde and it is more fitt I should be in debted vnto <lb/>
+            my soueraigne lord then the king vnto his poore vassall <lb/>
+            saue me therefore (most mercifull prince) that I may <lb/>
+            owe your Ma<ex>jes</ex>tie my life it selfe then w<ex>hi</ex>ch there cannot <lb/>
+            be a greater debte lend it me at least (soueraigne <lb/>
+            lord) that I may pay it for your seruice when your <lb/>
+            Ma<ex>jes</ex>tie shall please if the law destroy mee you Ma<ex>jes</ex>tie <lb/>
+            shall put me out of your power and I shall haue <lb/>
+            none to feare but the king of kings./ 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f022r/add_ms_11600_f022r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f022v/add_ms_11600_f022v.jpg"/>
+   </facsimile>
+</TEI>

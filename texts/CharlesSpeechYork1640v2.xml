@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to the Lords at York</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_2651">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 2651</idno>
+               <msName>Barrington family papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_7162">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 7162</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3791">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3791</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2111">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2111</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_57929">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 57929</idno>
+               <msName>Register of Business for the Scots Commissioners at Ripon</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70082">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70082</idno>
+               <msName>Portland Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="CharlesSpeechYork1640v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS11045.xml">British Library, Additional MS 11045, f. 119r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS7162.xml">British Library, Harley MS 7162, ff. 57x–60**x</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="part">2</biblScope>
+                  <biblScope unit="page" from="1275" to="1286">1275-1286</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Nalson</surname>
+                     </persName>
+                  </author>
+                  <title>Impartiall Collection of the Great Affairs of State</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1682" from="1682" to="1683">1682-1683</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="4542" to="4543">4[5]42-4[5]43</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1640-09-24">24 September 1640</date>
+            <placeName corresp="../places/places.xml#PL0015">York</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Personal Rule</term>
+               <term>Bishops' Wars</term>
+               <term>parliament</term>
+               <term>revenue</term>
+               <term>army</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-22" who="#NM" status="proofread"/>
+            <change when="2017-11-29" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="119r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f068r/harley_ms_4931_f068r.jpg"/>
+         <head>
+            His Ma<ex>jes</ex>tyes speech to the Lords
+            <seg rend="curly-bracket-L">
+               Sept. 24. 1640. <lb/>
+               At the meeting of the <lb/>
+               Peares at Yorke.
+            </seg>
+         </head>
+         <p>
+            My Lords,
+         </p>
+         <p>
+            Vpon sudden incursions w<ex>he</ex>n the dangers are neare, &amp; instant, it hath beene the custome <lb/>
+            of my pr<ex>e</ex>decessours to assemble the g<ex>rea</ex>t Councill of y<hi rend="superscript">e</hi> Peeres, &amp; by their advice, &amp; <lb/>
+            assistance to giue a timely remedy to such evills, as could not admitt a delay so long <lb/>
+            as must of necessity be allowed, for the assembling of the Parliam<ex>en</ex>t, this being o<ex>u</ex>r con-<lb break="no"/>
+            dition at this time; &amp; an army of <del rend="strikethrough">Rebles</del> Rebells lodged w<ex>i</ex>thin this K<ex>ing</ex>dome, I <lb/>
+            thought it most fitt to conforme my selfe to the practise of my Predecessours in <lb/>
+            like cases, <ex>tha</ex>t w<ex>i</ex>th yo<ex>u</ex>r advise, &amp; assistance we might ioyntly proceed to the chastisem<ex>en</ex>t <lb/>
+            of these insolencies &amp; the securing of my good Subj<ex>ec</ex>ts.
+         </p>
+         <p>
+            In the 1st place I must let yo<ex>u</ex> know <ex>tha</ex>t I desire nothing more <ex>tha</ex>n to be rightly <lb/>
+            und<ex>e</ex>rstood by my people, &amp; to that end I haue of my selfe resolved to call a par-<lb break="no"/>
+            liam<ex>en</ex>t, having allready given order to my L<ex>or</ex>d Keep<ex>er</ex> to issue the writts instantly, so <ex>tha</ex>t <lb/>
+            the Parliam<ex>en</ex>t may be assembled by y<hi rend="superscript">e</hi> 3d of Nov. next, whether if my subiects bring <lb/>
+            <ex>th</ex>os<ex>e</ex> good affections w<ex>hi</ex>ch becomes <ex>the</ex>m towards me, it shall not fayle on my p<ex>ar</ex>t to make <lb/>
+            it an happy meeting.
+         </p>
+         <p>
+            In the meane time <ex>the</ex>r<ex>e</ex> are 2 points wherin I shall desire yo<ex>u</ex>r advise, w<ex>hi</ex>ch indeed w<ex>e</ex>r<ex>e</ex> <lb/>
+            the chiefe causes of yo<ex>u</ex>r meeting.
+         </p>
+         <p>
+            First w<ex>ha</ex>t answeare to giue to the Petition of the Rebells, &amp; in w<ex>ha</ex>t manner to treate w<ex>i</ex>th <lb/>
+            them, of w<ex>hi</ex>ch that yo<ex>u</ex> may giue a surer iudgm<ex>en</ex>t, I haue ordered <ex>yha</ex>t yo<ex>u</ex>r Lor<ex>dshi</ex>pps shalbe <lb/>
+            clearly informed of y<hi rend="superscript">e</hi> state of the whole businesse, &amp; upon w<ex>ha</ex>t reasons y<hi rend="superscript">e</hi> advise <ex>tha</ex>t my <lb/>
+            privy councell unanimously gaue me, w<ex>e</ex>r<ex>e</ex> grounded
+         </p>
+         <p>
+            The 2d is, How my army shalbe kept on foot, &amp; maintained, untill the supplies of a <lb/>
+            parliam<ex>en</ex>t may be had, for so long as the Scotts Army remaines in England, I think <lb/>
+            no man will councell me to disband mine, for <ex>tha</ex>t wold be an unspeakeable losse <lb/>
+            to all this p<ex>ar</ex>t of the K<ex>ing</ex>dome, by subiecting <ex>the</ex>m to y<hi rend="superscript">e</hi> greedy appetite of the Rebells; be-<lb break="no"/>
+            sides y<hi rend="superscript">e</hi> unspeakable dishono<ex>u</ex>r <ex>tha</ex>t wold <ex>the</ex>r<ex>e</ex>by fall upon this Nation.
+         </p>
+         <p rend="align-centre">
+            Lords appointed to treate <lb/>
+            <cb/>
+            <seg rend="curly-bracket-L">
+               Hartford <lb/>
+               Bedford <lb/>
+               <add place="LM">
+                  Earles
+               </add>
+               Essex <lb/>
+               Bristoll <lb/>
+               Holland <lb/>
+               Berks <lb/>
+               Sulisbury <lb/>
+               Warwicke
+            </seg>
+            <cb/>
+            <seg rend="curly-bracket-L">
+               Maundevile <lb/>
+               Pagett <lb/>
+               Savill <lb/>
+               <add place="LM">
+                  Lords
+               </add>
+               Dunsmore <lb/>
+               Howard <lb/>
+               Brooke <lb/>
+               Paulett <lb/>
+               Wharton
+            </seg>
+         </p>
+         <p>
+            Mr <del rend="strikethrough">Wha</del> Belloses the Messenger to goe to gett the <lb/>
+            Scottish Lords to meete these English at North-allarton, or Rippon. <lb/>
+            on Septemb. 29.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f068r/harley_ms_4931_f068r.jpg"/>
+   </facsimile>
+</TEI>

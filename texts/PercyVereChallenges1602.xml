@@ -1,0 +1,555 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Challenges</title>
+            <author>
+               <persName corresp="../people/people.xml#P0127">Henry Percy, 9th Earl of Northumberland</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0128">Sir Francis Vere</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="PH">
+               <name>Peter Hammond</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_11308">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11308</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_2592">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 2592</idno>
+               <msName>Papers of James Hay, Viscount Doncaster and Earl of Carlisle</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34218">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34218</idno>
+               <msName>Sir Francis Fane's book</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS11308.xml">British Library, Additional MS 11308, ff. 86r–96v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 270r–276r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_34218.xml">British Library, Additional MS 34218, ff. 33r–34v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_2592.xml">British Library, Egerton MS 2592, ff. 1r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_532.xml">British Library, Harley MS 532, ff. 6r–9v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1206.xml">Houghton Library,  fMS Eng 1206</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Huntington_EL_404.xml">Huntington Library,  EL 404</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDAH511.xml">Somerset Archives,  DD\AH/51/1, item 6</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1602-04">c.April 1602</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>challenges</term>
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>duelling</term>
+               <term>honour</term>
+               <term>court</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-27" who="#RB" status="proofread"/>
+            <change when="2018-04-27" who="#RB" status="draft"/>
+            <change when="2018-04-26" who="#PH" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="96r" facs="/bl/add_ms_22591/add_ms_22591_f096r/add_ms_22591_f096r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               The Coppy <lb/>
+               of the Challenge, sent by the Earle of Northu<ex>m</ex>b<ex>e</ex>rland <lb/>
+               to Sir <lb/>
+               Frauncis Veere, on St Georges daye, the last yeare <lb/>
+               Queene <lb/>
+               Eliz: An<ex>n</ex>o 1602, and S<ex>i</ex>r Frauncis his Aunswere
+            </hi>
+         </head>
+         <p>
+            <hi rend="bold">The</hi> right hono<ex>ra</ex>ble the Earle of Northu<ex>m</ex>berland, hauing iust <lb/>
+            Cause / to Call S<ex>i</ex>r Frauncis Veere in question/ For divers wro<ex>n</ex>ges <lb/>
+            done vnto him/ As by the Reporte of Sundrye men of good credit <lb/>
+            hee was infformed/ on Saterdaye the Foure and twentith of Ap<ex>ril</ex> <lb/>
+            sent him / by Captayne Whittlocke A letter, w<ex>i</ex>th this Sup<ex>er</ex>scripti<ex>on</ex> <lb/>
+            one the Out Syde /
+         </p>
+         <p rend="align-centre">
+            To the Vallorous and Worthie Captaine S<ex>i</ex>r <lb/>
+            Frauncis Veere, Lord Governor of <ex>th</ex>e Brill/ <lb/>
+            and Comaunder of <ex>th</ex>e Eng<ex>lish</ex> vnder <ex>th</ex>e States/
+         </p>
+         <p>
+            I tould you at Ostend, that then was noe fitt Tyme to expostu=<lb break="no"/>
+            late matters / Nowe I hould it proper to call you to an acco<ex>m</ex>pt <lb/>
+            For those wronges you haue done mee/ you love to take the Ayre <lb/>
+            and to Ryde abroade / appointe therefore A Place/ and Tyme to <lb/>
+            yo<ex>u</ex>r likeing / that I maye meete you / Bringe you A Freind w<ex>i</ex>th you, <lb/>
+            I wilbe accompanyd w<ex>i</ex>th another, that shall be wittnesse / of the <lb/>
+            Thinges I will laye to yo<ex>u</ex>r Charge / you <sic>you</sic> Satisfie mee wee <lb/>
+            will returne good Freindes / yf not, Wee shall doe/ as God shall <lb/>
+            putt in our Myndes/ I will eschewe all bitter words/ as vnfitt <lb/>
+            For men of our Occupation / Seeke not by Frivelous Shifftes to <lb/>
+            divert this Course of Satisfacc<ex>i</ex>on For all other meanes then this, <lb/>
+            that I haue pr<ex>e</ex>scribed/ I shall call as an Affirmac<ex>i</ex>on of that I <lb/>
+            haue heard/ w<ex>hi</ex>ch will Cause mee to p<ex>ro</ex>ceed in writting in my Selfe, <lb/>
+            as the wronge requires/ make noe Replies by Letter/ but send <lb/>
+            mee your will by this bearer directlie that you will/ or you will <lb/>
+            not, For, From mee you shall noe more / give noe Cause of noyses <lb/>
+            in the world/ to hinder this Cou<ex>r</ex>se / least you baffle your owne  <lb/>
+            reputac<ex>i</ex>on/ w<ex>ha</ex>tsoever ells I shall doe in this Iust Cause of offenc<ex>e</ex> <lb/>
+            Fewer wordes/ I would not haue vsed/ to haue expressed my mynd
+         </p>
+         <p>
+            <hi rend="bold">After</hi> he had Receyved and read this Letter/ hee asked Cap<lb break="no"/>
+            tayne Whitlocke / yf he had nothing to deliver him/ by worde of <lb/>
+            Mouthe/ Hee replyed that in Case S<ex>i</ex>r Frau<ex>n</ex>cis Veere, should offer <lb/>
+            to write an Au<ex>n</ex>swere by him / then the Earle of Northu<ex>m</ex>b<ex>e</ex>rland <lb/>
+            gaue him Chardge to saye/ that, hee was Forbidden to take any <lb/>
+            Letter, but to Crave A direct Answere by worde of mouthe/ <lb/>
+            w<ex>hi</ex>ch the Earle did Assure himselfe S<ex>i</ex>r Frauncis Veere would <lb/>
+            not refuse to send
+         </p>
+         <p>
+            <hi rend="bold">Then</hi> S<ex>i</ex>r Frau<ex>n</ex>cis Reading the Letter once againe/ he willed <lb/>
+            Captaine Whittlocke/ to Signifie vnto the Earle of Northu<ex>m</ex>b<ex>e</ex>rl<ex>and</ex> <lb/>
+            that vpon such A Sub<ex>jec</ex>te as that was / hee could not soe soddainely
+            <fw type="catch" place="bot-right">giue</fw>
+            <pb n="96v" facs="/bl/add_ms_22591/add_ms_22591_f096v/add_ms_22591_f096v.jpg"/>
+            giue any Answere, either by word/ or writting/ but that he would <lb/>
+            thincke of itt/ and send it by one/ Wherevpon Captaine Whitlocke <lb/>
+            asked him / yf hee should not name to the Earle of Northu<ex>m</ex>b<ex>e</ex>rland <lb/>
+            anye p<ex>re</ex>ffixed Tyme, Hee tould him againe/ in theis expresse words, <lb/>
+            that he would not name the Tyme pr<ex>e</ex>ciselye/ For in his resoluc<ex>i</ex>ons, <lb/>
+            when he tooke, then hee was Suddaine, and therefore hee knewe <lb/>
+            not howe soone he should be readye to au<ex>n</ex>swere him / Thus Captay<ex>n</ex>e <lb/>
+            Whittlocke parted w<ex>i</ex>th him
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Sundaye Morning the xxvth Captayne Ogle / came to  <lb/>
+            the Earle of Northu<ex>m</ex>berlandes Lodging / and tould his Lordship <lb/>
+            that S<ex>i</ex>r Frauncis Veere/ vpon the Receipt of his Letter/ had noe <lb/>
+            disposition to laye himselfe open to the bearer thereof, As to lett <lb/>
+            him vnderstand his mynde / For that he had advised since w<ex>i</ex>th him <lb/>
+            selfe/ and sent him an Answere of his Letter in another / w<ex>hi</ex>ch Capt <lb/>
+            Ogle intreated his Lo<ex>rdshi</ex>pp to receyve
+         </p>
+         <p>
+            <hi rend="bold">To</hi> this/ the Earle of Northumb<ex>e</ex>rland Replyed, that hee was <lb/>
+            Resolved to stand to that, hee had sett downe in his Letter sente <lb/>
+            by Captaine Whittlocke/ that he would receyve noe letter, but a <lb/>
+            direct Answere/ appointing the Tyme/ and place/ where they should <lb/>
+            meete/ and bring either of them A Freinde/ to be witnesses of <ex>tha</ex>t <lb/>
+            should be sayde betwixt then both/ His Lo<ex>rdshi</ex>pp asked him w<ex>i</ex>thall whe=<lb break="no"/>
+            ther hee had anye thinge to saye by worde of Mouth/ He Answerd <lb/>
+            that S<ex>i</ex>r Fraunces Veere/ willed him to saye / that his Lo<ex>rdshi</ex>pp tyed <lb/>
+            him to Conditions / that were over harde / by calling him / to any such <lb/>
+            place abroade / To w<ex>hi</ex>ch the Earle of Northu<ex>m</ex>b<ex>e</ex>rland/ aunswered <ex>tha</ex>t <lb/>
+            it was noe disparagem<ex>en</ex>t to S<ex>i</ex>r Frauncis Veere/ to saye A Truth <lb/>
+            in anye place/ or in anye Mans p<ex>re</ex>sence/ And if he would iustifie <lb/>
+            himselfe in anye thinge that should bee layde to his chardg, there <lb/>
+            was noe place Fitter, then such as hee required/
+         </p>
+         <p>
+            <hi rend="bold">Captayne</hi> Ogle Answered, that S<ex>i</ex>r Frau<ex>n</ex>cis Veere, woulde  <lb/>
+            bringe noe Bodye w<ex>i</ex>th him/ But was desirous to meet his Lo<ex>rdshi</ex>pp <lb/>
+            alone/ Soe that it might bee in Place/ For the respect where of <lb/>
+            there ought to bee noe Scuffelling / or drawing of Swordes /
+         </p>
+         <p>
+            <hi rend="bold">To</hi> this the Earle of Northu<ex>m</ex>berland replyed/ that he would  <lb/>
+            not sticke w<ex>i</ex>th him / to meete him alone/ but to stand vppon anye <lb/>
+            respecte of place/ it was to noe purpose; For neither his owne <lb/>
+            house/ nor S<ex>i</ex>r Frau<ex>n</ex>cis Veere, nor the Courte/ nor the M<ex>ar</ex>ket place  <lb/>
+            were fitt/ For the deciding their Controversies / and that he might <lb/>
+            be sure wheresoever hee should meete him/ he would not goe w<ex>i</ex>thout <lb/>
+            the Weapons he did ordinarilye weare, neith<ex>e</ex>r would barre <ex>th</ex>e vse of <lb/>
+            them / yf it were requisite/ W<ex>i</ex>th this/ Captaine Ogle being vppon <lb/>
+            his departe / Offered to deliver his Letter the Seconde Tyme, <lb/>
+            saying hee knewe not howe to acquite himselfe of his duty towards <lb/>
+            S<ex>i</ex>r Frauncis Veere/ if he did not deliver itt/ accordinge/ as hee <lb/>
+            gaue him in Charge.
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle of Northumberland asked him/ whether hee badd <lb/>
+            him leave <add place="above">the letter</add> it in his Chamber / yf in Case, hee would not receyve it, <lb/>
+            Hee au<ex>n</ex>swered yes/ that hee badd him expresslye leave it/ The <lb/>
+            Earle of Northumberland badd him laye it downe vpo<ex>n</ex> <ex>th</ex>e Table <lb/>
+            w<ex>hi</ex>ch hee had noe sooner done / But the sayd Earle/ stepping to his <lb/>
+            Sworde/ that was hanging vpon the Wall/ Hee drue it halfe out, <lb/>
+            and badd Captaine Ogle/ carrye backe the Letter / saying with <lb/>
+            his hand/ vpon his Sworde/ this is sufficient for yo<ex>u</ex>r discharg  of <lb/>
+            duetie towards S<ex>i</ex>r Frauncis/ Captaine Ogle tooke <ex>th</ex>e Lett<ex>e</ex>r <lb/>
+            vpp againe/ and went downe, when he was gone soe farre as in <lb/>
+            to the Streete/ the Earle of Northu<ex>m</ex>b<ex>e</ex>rland made him to be called <lb/>
+            backe againe/ and badd him tell S<ex>i</ex>r Frau<ex>n</ex>cis/ that hee stayed <lb/>
+            in London expresslye fro<ex>m</ex> his Busines/ els where to haue an
+            <fw type="catch" place="bot-right">Answere/</fw>
+            <pb n="97r" facs="/bl/add_ms_22591/add_ms_22591_f097r/add_ms_22591_f097r.jpg"/>
+            Answere/ whether he would appointe A Tyme/ &amp; place / or nott; <lb/>
+            Captaine Ogle/ made yett the Third Tyme / an Offer to deliver Sir <lb/>
+            Frau<ex>n</ex>cis his letter / The Earle badd him/ hee should not offer itt <lb/>
+            anye more/ vnlesse he had A Fantasie that they two should haue <lb/>
+            A Thrust togither/ And thus Captaine Ogle p<ex>ar</ex>ted/ with <ex>th</ex>e Earle  <lb/>
+            the Sundaye Morning/
+         </p>
+         <p>
+            <hi rend="bold">The</hi> same Sundaye/ after dynner Captayne Ogle came to  <lb/>
+            the Earle of Northu<ex>m</ex>b<ex>e</ex>rland with A newe discourse / that S<ex>i</ex>r Franu<ex>n</ex>cis <lb/>
+            Veere was willing to Satisfye his Lo<ex>rdshi</ex>pp But/ that he was desirous <lb/>
+            to meet him in some place in London/ each of them accompayned <lb/>
+            w<ex>i</ex>th A man of gravitie / and of some Rancke in the State/ And <lb/>
+            named for his choise S<ex>i</ex>r Edward Stafford/ or some such like, To this <lb/>
+            the Earle of Northu<ex>m</ex>b<ex>e</ex>rland replyed/ <ex>tha</ex>t he thought it noe fit Cou<ex>r</ex>se, <lb/>
+            to trouble such men/ For that knight/ and another his equall were <lb/>
+            men like enoughe to acquainte the Queene/ and Councell/ yf they <lb/>
+            sawe anye difference betwixt them that might breed further Con=<lb break="no"/>
+            tenc<ex>i</ex>on / and bringe them both vnder the power of hir ma<ex>jes</ex>tes Comau<ex>n</ex>dm<ex>en</ex>t, <lb/>
+            by theire Infformac<ex>i</ex>on/ Agayne if they should not doe this/ att <lb/>
+            the least they would hinder them, From goinge togither into <lb/>
+            the Feilde / yf either p<ex>ar</ex>tie should haue Iust Cause soe to doe/ A <lb/>
+            p<ex>ro</ex>ceeding/ Flatt against his meaning / Because hee desired no noyse, <lb/>
+            but privatelye to be satisfyed / as in his L<ex>ett</ex>res did appeare // And <lb/>
+            because he held S<ex>i</ex>r Frau<ex>n</ex>cis For A gallant Gent &amp; A Worthie <lb/>
+            Com<ex>m</ex>aunder / hee was resolved to deale w<ex>i</ex>th him in the Stile of <lb/>
+            A Soldier/ And to bee Shorte/ Least S<ex>i</ex>r Frau<ex>n</ex>cis shoulde in his <lb/>
+            Scoffing waye saye / that he knew howe to handle A Lord/ he would <lb/>
+            not accept of States men/ But willed Captaine Ogle/ to tell <lb/>
+            him that he would be sted fast to his First designe/ to bringe him <lb/>
+            A Gent and A Soldier/ over whose Sworde hee was assured, <lb/>
+            hee had absolute Aucthoritie For this Tyme/ and in this matter, <lb/>
+            betwixt them two/ and could Comaund him in hono<ex>ra</ex>ble Cou<ex>r</ex>tisy, <lb/>
+            not to drawe/ but onelye to be wittnesse<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> of their Confere<ex>n</ex>ce/ &amp; <lb/>
+            appointm<ex>en</ex>tes/ least S<ex>i</ex>r Frau<ex>n</ex>cis/ or himselfe/ after they were <lb/>
+            p<ex>ar</ex>ted, should saye / more/ or lesse/ of each other/ then indeed/ had <lb/>
+            beene sayde / Such another he willed S<ex>i</ex>r Frau<ex>n</ex>cis to bring w<ex>i</ex>th him, <lb/>
+            <del rend="strikethrough">such another</del> that hee should remember once agayne <ex>th</ex>e Co<ex>n</ex>tents <lb/>
+            of his letter / to send him an absolute au<ex>n</ex>swere/ wheth<ex>e</ex>r he would do it or no/
+         </p>
+         <p>
+            <hi rend="bold">The</hi> same Sundaye toward Evening/ For/ the last Tyme <ex>tha</ex>t Capt <lb/>
+            Ogle came to the Earle of Northu<ex>m</ex>b<ex>e</ex>rland/ hee brought worde <lb/>
+            that S<ex>i</ex>r Frau<ex>n</ex>cis thought it not reasonable/ to satisfye him/ after <lb/>
+            the Manner he did appointe / and therefore hee would not doe it, <lb/>
+            But/ desired <add place="above">to</add> haue vnder his hand / the p<ex>ar</ex>ticuler Causes/ For w<ex>hi</ex>ch <lb/>
+            he Found himselfe agreived/ The Earle of Northu<ex>m</ex>b<ex>e</ex>rland replyed <lb/>
+            that to writte would bee tedyous/ &amp; against his p<ex>ro</ex>mise/ &amp; his L<ex>ett</ex>res/ and <lb/>
+            that he would not make his wronges knowne / vnlesse he might <lb/>
+            be assured of Satisfacc<ex>i</ex>on/ either by worde or Sworde/ in such place/ <lb/>
+            as was fitt For A noble man/ that p<ex>ro</ex>fest Armes to receyve it in <lb/>
+            That he should tell S<ex>i</ex>r Frau<ex>n</ex>cis how by this refussall/ hee was <lb/>
+            throughlye perswaded/ he had done him those wrongs/ w<ex>hi</ex>ch hee <lb/>
+            meant to laye to his Chardge/ that he would laye vpp this <lb/>
+            Iniuriouslye dealing in his harte/ and right himselfe thereaft<ex>e</ex>r, <lb/>
+            as he shall thinke fit
+         </p>
+         <p>
+            <hi rend="bold">The</hi> matter resting thus/ after three dayes/ on Thirsday <lb/>
+            following / S<ex>i</ex>r Noell Caroone/ Agent/ For the States/ &amp; cheife <lb/>
+            dealer For the Businesse/ S<ex>i</ex>r Frauncis Veere hath now in hand,  <lb/>
+            did acquainte the Queene/ and Cou<ex>n</ex>cell/ w<ex>i</ex>th theis differences
+            <fw type="catch" place="bot-right">and</fw>
+            <pb n="97v" facs="/bl/add_ms_22591/add_ms_22591_f097v/add_ms_22591_f097v.jpg"/>
+            and Suddainelye it pleased hir hig<ex>h</ex>nes/ to send an honorable <lb/>
+            person to the Earle of No<ex>rt</ex>humb<ex>e</ex>rland/ and to laye A Comaund <lb/>
+            vpon him/ to Forbeare anye Acc<ex>i</ex>on against S<ex>i</ex>r Frau<ex>n</ex>cis Veere, <lb/>
+            at that Instant imployed in her Service/ w<ex>hi</ex>ch hee in all humility <lb/>
+            did accept/ of making noe Reckoning of anye thinge touching his <lb/>
+            owne p<ex>ar</ex>ticuler/ in respect of her Ma<ex>jes</ex>tes Service/ and Com<ex>m</ex>au<ex>n</ex>dem<ex>en</ex>t <lb/>
+            Hee onelye made the Companye there present to vnderstand, <lb/>
+            that hee referred himselfe to all men of Iudgment, that made <lb/>
+            p<ex>ro</ex>fession of honor And that he hoped they would not blame him/ <lb/>
+            yf that in Attending his Satisfacc<ex>i</ex>on/ hee p<ex>ro</ex>tested that S<ex>i</ex>r Frau<ex>n</ex>cis <lb/>
+            Veere was A knave/ and Coward/ that in Flearing &amp; gearinge <lb/>
+            like A Com<ex>m</ex>on Baffoone would wrong men of all Condic<ex>i</ex>ons  <lb/>
+            and had neither the honestie / nor the Courage to satisffy anye
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">
+               Sir <lb/>
+               Fra: Veere his Answere to <ex>th</ex>e Earle of Northu<ex>m</ex>b<ex>e</ex>rla<ex>n</ex>ds <lb/>
+               Challendge
+            </hi>
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle of Northumberland/ making Profession/ to haue S<ex>i</ex>r <lb/>
+            Frau<ex>n</ex>cis Veere vpo<ex>n</ex> divers Sinister Reportes/ made by base and <lb/>
+            Factious Persons / where hee might haue drawne from S<ex>i</ex>r Frau<ex>n</ex>cis  <lb/>
+            Veere/ Satisfacc<ex>i</ex>on in the matters hee were to obiect/ either by word <lb/>
+            or Sworde/ w<ex>i</ex>thout anye hinderance/ or daunger/ of the Lawes/ neu<ex>er</ex> <lb/>
+            called him to Accompte / or Charged him directlye w<ex>i</ex>th any matter/ <lb/>
+            thoughe S<ex>i</ex>r Frau<ex>n</ex>cis Veere did offer to giue him Satisfacc<ex>i</ex>on / know-<lb break="no"/>
+            inge him selfe Cleere From wronging the Earle/ in his Reputaci<ex>on</ex>, <lb/>
+            thoughe hee must, and will Confesse / vpon the Certayne knowledg <lb/>
+            hee had of the Contynuau<ex>n</ex>ce and Favour, the Earle shewed to <lb/>
+            certaine meane p<ex>er</ex>sons / And the Contentment hee tooke in <ex>th</ex>e bitt<ex>e</ex>rnes <lb/>
+            of theire Backbitting of S<ex>i</ex>r Frau<ex>n</ex>cis Veere, <ex>tha</ex>t he grew into Con=<lb break="no"/>
+            tempte of this humor of <ex>th</ex>e Earles / &amp; afforded him litle respecte/ <lb/>
+            Their First meetinge in England was in the Cou<ex>r</ex>te/ the 13: Aprill, <lb/>
+            Sir Frau<ex>n</ex>cis Veere being sent to her Ma<ex>jes</ex>tye by the States as a <lb/>
+            publique p<ex>er</ex>son/ vpon verye waightie/ and important Affayres <lb/>
+            where the Earle passing by S<ex>i</ex>r Frau<ex>n</ex>cis Veere/ asked softlye if <lb/>
+            hee went to London that night/ Wherevnto S<ex>i</ex>r Frau<ex>n</ex>cis Veere <lb/>
+            answered he knewe not it being knowne to A Gent of greate <lb/>
+            Worthe in Courte / that S<ex>i</ex>r Frau<ex>n</ex>cis Veere, attended <ex>th</ex>e Com<ex>m</ex>inge <lb/>
+            of A Cou<ex>n</ex>cellor to Courte/ throughe whose handes his busynes <lb/>
+            must passe/ And was determined if he came Earlye, after  <lb/>
+            Speech w<ex>i</ex>th him / to goe to Londo<ex>n</ex> yf late to haue stayd in Cou<ex>r</ex>t <ex>tha</ex>t night
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle made noe Replye/ but passed/ Wherevpon<ex>n</ex> Sir <lb/>
+            Frau<ex>n</ex>cis Veere followed him/ asking him / if he would Com<ex>m</ex>au<ex>n</ex>d <lb/>
+            him anye Servece/ if he went to London / To w<ex>hi</ex>ch the Earle made <lb/>
+            noe au<ex>n</ex>swere at all / S<ex>i</ex>r Frau<ex>n</ex>cis Veere/ whoe tooke this/ as the <lb/>
+            Earle meante/ whoe Since confessed to Captayne Ogle / <ex>tha</ex>t hee <lb/>
+            purposed to sett vpon S<ex>i</ex>r Frauncis Veere vpon <ex>th</ex>e Waye/ For <lb/>
+            sakinge his Former Resoluc<ex>i</ex>on of Attending the Arryvall of <lb/>
+            the honorable parsonage/ passed towards his Lodginge/ And on <lb/>
+            the Greene/ before the Courte/ hee sawe the Earle/ And soe soone <lb/>
+            as his Coache was made readye/ S<ex>i</ex>r Frau<ex>n</ex>cis Went to London <lb/>
+            and Found noe Encou<ex>n</ex>ter/ Here vppon A Rumo<ex>u</ex>r was spred, 
+            <fw type="catch" place="bot-right">both</fw>
+            <pb n="98r" facs="/bl/add_ms_22591/add_ms_22591_f098r/add_ms_22591_f098r.jpg"/>
+            both in Courte and Cittie/ that the Earle had Challendged Sir <lb/>
+            Frau<ex>n</ex>cis Veere / the 24: Aprill in the Evening/ about sixe of the  <lb/>
+            Clocke/ One Captayne Whitlocke came vnto S<ex>i</ex> Frau<ex>n</ex>cis Veeres <lb/>
+            Chamber, and after some Speeches of other Matters/ hee drew a <lb/>
+            L<ex>ett</ex>re out of his Pockett / and sayd the Earle sent it to him/ Sir <lb/>
+            Frau<ex>n</ex>cis Veere tooke the same, and read it twise/ Whitlocke <lb/>
+            required an Answere/ S<ex>i</ex>r Frau<ex>n</ex>cis told him/ the matter was of <lb/>
+            a greate Moement / to be suddainelye au<ex>n</ex>swered / Hee asked <lb/>
+            when the Earle might Expect an au<ex>n</ex>swere/ S<ex>i</ex>r Frau<ex>n</ex>cis Replyed, <lb/>
+            that his Speede would be more then ordinarye / The same Evening <lb/>
+            he Framed his Au<ex>n</ex>swere/ but wanting A Convenient Messing<ex>e</ex>r, <lb/>
+            For he was to choose one/ to whom hee might Comunicate his L<ex>ett</ex>re, <lb/>
+            it was not sent vntill the next morning / and then he gave the <lb/>
+            same to Captaine Ogle his Leivten<ex>an</ex>t Collonell/ willinge him, <lb/>
+            yf the Earle refused the L<ex>ette</ex>re, to deliver by worde/ the co<ex>n</ex>tents <lb/>
+            thereof w<ex>hi</ex>ch was as Followeth
+         </p>
+         <p>
+            <hi rend="bold">Your</hi> Lo<ex>rdshi</ex>pp required in the L<ex>ette</ex>re sent mee by Captayne <lb/>
+            Whittlocke/ that I should retourne A direct au<ex>n</ex>swere by word <lb/>
+            of Mouthe/ to the Contents/ w<ex>hi</ex>ch at the Instant I forbore/ the  <lb/>
+            matter being of Moement/ and not to be resolved of soe sud<lb break="no"/>
+            dainelye/ and nowe For good respects I Chose rather to let <lb/>
+            yo<ex>u</ex>r Lo<ex>rdshi</ex>pp knowe my Mynde / by writting/ then by anye Mans <lb/>
+            reporte/ yf yo<ex>u</ex>r Lo<ex>rdshi</ex>pps meaning bee/ yf your Lo<ex>rdshi</ex>pp meaninge be <lb/>
+            by the meeting you appoynte, to drawe A Verball satisfac<ex>i</ex>o<ex>n</ex> <lb/>
+            From mee/ in the obiections you are to make / The manner of <lb/>
+            the Meeting in my opinion is not the best/ in regard that Truth <lb/>
+            delivered/ where Swordes might bee drawne / is subiect to <lb/>
+            harde Construction/ w<ex>hi</ex>ch I desire to avoyde/ yo<ex>u</ex>r Lo<ex>rdshi</ex>pp shall <lb/>
+            therefore be pleased to nominate some Fitt place, for com<ex>m</ex>unica<lb break="no"/>
+            c<ex>i</ex>on whether I will repayre/ w<ex>i</ex>th much willingnes to Cleere <lb/>
+            my Selfe / of haueing given yo<ex>u</ex>r Lo<ex>rdshi</ex>pp the First Cause of Offe<ex>n</ex>ce <lb/>
+            For Truthes Sake/ For the respect of yo<ex>u</ex>r greatnes required &amp; <lb/>
+            for that/ I dispise private Combatinge/ especiallye at this <lb/>
+            Tyme, <ex>tha</ex>t I am ingaged &amp; in soe gr<ex>ea</ex>t, &amp; importa<ex>n</ex>t an Actio<ex>n</ex> as yo<ex>u</ex>r Lo<ex>rdshi</ex>p knoweth
+         </p>
+         <p>
+            <hi rend="bold">This</hi> Cou<ex>r</ex>se reiected by yo<ex>u</ex>r Lo<ex>rdshi</ex>pp I shall not leave to follow, <lb/>
+            the occasio<ex>n</ex> <ex>tha</ex>t drew mee w<ex>i</ex>th the poore Trayne attending mee/ ordina=<lb break="no"/>
+            rilye / Confident, that yo<ex>u</ex>r Lo<ex>rdshi</ex>pp will attempt noething vnfitting <lb/>
+            yo<ex>u</ex>r Selfe vppo<ex>n</ex> mee/ that haue allwayes lived in good reputa=<lb break="no"/>
+            c<ex>i</ex>on/ and am discended From A Graund Father of your Owne <lb/>
+            Rancke/ Fro<ex>m</ex> my Lodging in Aldersgate Street 25: of Aprill
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Frauncis Veere/</hi>
+         </p>
+         <p rend="align-right">
+            Where of the Superscription was/ To <lb/>
+            the right hono<ex>ur</ex>able The Earle of Northu<ex>m</ex>b<ex>er</ex>land <lb/>
+            k<ex>nig</ex>t of <ex>th</ex>e most Noble order of the Garter / 
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle refused the L<ex>ett</ex>re, And Captaine Ogle/ layeing  <lb/>
+            the same/ On the Boord / The Earle tooke his Sworde &amp;c And Capt <lb/>
+            Ogle/ as I had instructed him / tooke the L<ex>ett</ex>re/ and delivered the <lb/>
+            Contents by worde / The Earle replyed that there was no place  <lb/>
+            pr<ex>i</ex>viledged From drawing of Swordes/ But the greene Cha<ex>m</ex>b<ex>e</ex>r <lb/>
+            of pr<ex>e</ex>sence/ the Garden; or the Markett place / and that theis were <lb/>
+            noe places to Speake in/ And w<ex>i</ex>th this Captayne Ogle Retu<ex>r</ex>=<lb break="no"/>
+            ned to S<ex>i</ex>r Frau<ex>n</ex>cis Veere/ whoe said to Captaine Ogle/ that <lb/>
+            to him / all places were alike / yf the distinction then / was 
+            <fw type="catch" place="bot-right">proper</fw>
+            <pb n="98v" facs="/bl/add_ms_22591/add_ms_22591_f098v/add_ms_22591_f098v.jpg"/>
+            proper For Treatie/ and expostulac<ex>i</ex>on/ and that it was In=<lb break="no"/>
+            different to him/ where it were/ and what Companye on the <lb/>
+            Earles parte were pr<ex>e</ex>sent/ Soe/ hee might heere some Gent <lb/>
+            quallifyed/ Such as S<ex>i</ex>r Edward Stafford/ to be A wittnes <lb/>
+            what should passe/ W<ex>i</ex>th this Answere Captaine Ogle retorned <lb/>
+            to the Earle/ the Third Tyme / to Signifie vnto him / that since <lb/>
+            his Lordshipp would accept of Noe in different &amp; Co<ex>n</ex>venient <lb/>
+            place of meeting / For Comunicac<ex>i</ex>on / that S<ex>i</ex>r Frau<ex>n</ex>cis was reso=<lb break="no"/>
+            ved/ not to satisfye in the manner hee required/ And moreov<ex>e</ex>r <lb/>
+            to lett him vnderstand / that where / and wheresoever <ex>th</ex>e Earle should <lb/>
+            meete w<ex>i</ex>th S<ex>i</ex>r Frau<ex>n</ex>cis Veere / where there were noe priviledge <lb/>
+            of drawing of Swordes/ and should expostulate w<ex>i</ex>th S<ex>i</ex>r Frauncis, <lb/>
+            hee would never au<ex>n</ex>swere him to his demaundes/ but willinglie <lb/>
+            laye his hande on his Sworde/ And Soe this Negotiac<ex>i</ex>on of Capt <lb/>
+            Ogle bracke of.
+         </p>
+         <p>
+            <hi rend="bold">With</hi> in some Fewe dayes/ her ma<ex>jes</ex>tye had knowledge/ w<ex>ha</ex>t had <lb/>
+            passed <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> it being divulged by the Earles Followers/ that he had <lb/>
+            sent S<ex>i</ex>r Frau<ex>n</ex>is Veere A Challenge/ Wherevpon the 30: of the <lb/>
+            Foresayde Monthe/ her Ma<ex>jes</ex>tye sent Comau<ex>n</ex>dem<ex>en</ex>t vnto the Earle/ not <lb/>
+            to haue to doe w<ex>i</ex>th S<ex>i</ex>r Frau<ex>n</ex>is Veere/ Then the Earle as by Cir=<lb break="no"/>
+            cumstances appeare/ haueing brought Matters to the passe hee <lb/>
+            desired published the manner of his p<ex>ro</ex>ceedings/ in the Englishe <lb/>
+            Frenche/ and Italian/ whereof S<ex>i</ex>r Frau<ex>n</ex>is Veere could nott <lb/>
+            procure anye Coppe/ till some Fewe days before his dep<ex>ar</ex>ture, <lb/>
+            nor Answere the same soe pr<ex>e</ex>sentlye / as/ hee willinglye would for <lb/>
+            his Affayres otherwise/ And For that in the same/ the Earle <lb/>
+            went beyond the true groundes of Iudgment and honour/ Sir <lb/>
+            Frau<ex>n</ex>cis Veere / thought it necessarye to send to the Earle / This <lb/>
+            L<ex>ett</ex>re Following/ w<ex>hi</ex>ch he offered to the world / w<ex>i</ex>th the reste of his <lb/>
+            Proceedings to be Iudged of /
+         </p>
+         <p>
+            <hi rend="bold">Because</hi> I refused to meete you / vppon yo<ex>u</ex>r p<ex>er</ex>emtorye <lb/>
+            and Foolish Sum<ex>m</ex>ons/ you Conclude mee/ in A discourse sente <lb/>
+            abroade vnder yo<ex>u</ex>r Name/ to be A knave/ A Coward/ and A <lb/>
+            Baffoone/ wherein you haue p<ex>ro</ex>voked mee/ to sett asyde all respect <lb/>
+            to you p<ex>er</ex>son / and to saye / that <del rend="strikethrough">ar</del> you are a most lyinge/ &amp; vnwoethie <lb/>
+            Lord/ you are bounde, by her Ma<ex>jes</ex>tes Comaundem<ex>en</ex>t not to assayle <lb/>
+            mee, And I by the Busynes Com<ex>m</ex>itted to mee/ not to seeke you/  <lb/>
+            when you shall be Free / as God shall make vs meete/ I will mayne<lb break="no"/>
+            tayne it/ w<ex>i</ex>th my Sworde /
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Frauncis Veere/</hi>
+         </p>
+         <p>
+            <hi rend="bold">Examined</hi> w<ex>i</ex>th the Coppye, w<ex>hi</ex>ch Sir Frauncis Veere <lb/>
+            Sent vnto mee/ at the verye First daye / taken Forthe of it, w<ex>hi</ex>ch <lb/>
+            was even vpon his dep<ex>ar</ex>ture/ out of London/ For <ex>th</ex>e Lowe Cou<ex>n</ex>=<lb break="no"/>
+            tryes/ Soe went, all the Waye by Land/ From Londo<ex>n</ex> to Thames/ <lb/>
+            where hee tooke Shipping/ Mr White his man brought it vnto <lb/>
+            mee/
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f096r/add_ms_22591_f096r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f096v/add_ms_22591_f096v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f097r/add_ms_22591_f097r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f097v/add_ms_22591_f097v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f098r/add_ms_22591_f098r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f098v/add_ms_22591_f098v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to London</title>
+            <author>
+               <persName corresp="../people/people.xml#P0007">Charles I</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11045.xml">
+               <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11045</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_C_132.xml">Bodleian Library,  MS Add. C 132, ff. 33v–34r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1640">1640</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>City of London</term>
+               <term>state finance</term>
+               <term>revenue</term>
+               <term>army</term>
+               <term>Bishops' Wars</term>
+               <term>Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-29" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="130v" facs="/bl/add_ms_11045_part/add_ms_11045_f130v/add_ms_11045_f130v.jpg"/>
+         <p>
+            The Kings letter w<ex>hi</ex>ch the Lords of the Great Counsell sub=<lb break="no"/>
+            scribed at Yorke to the Citty of London, is comen to them, it being <lb/>
+            brought to the Guildhall by my Lord Privy Seale, and my Lord <lb/>
+            Goring, The letter was publiquely read, and it was to this purpose, <lb/>
+            To require the Citty to prouide those two remayning Som<ex>m</ex>es of <lb/>
+            Money to be payd in to his Ma<ex>jes</ex>ties Officers by the dayes appoin=<lb break="no"/>
+            ted in the former letter namely one hundred Thousand pounds the <lb/>
+            fifteenth day of November, and the other fifty thousand <lb/>
+            poundes the moneth after, And vnlesse the Citty did supply his <lb/>
+            Ma<ex>jes</ex>ty w<ex>i</ex>th those moneyes, hee should be forced for lacke of <lb/>
+            money to disband his Army, w<ex>hi</ex>ch would neyther be safe nor <lb/>
+            hono<ex>ura</ex>ble for the Kingdome to disband the Army soe long as y<hi rend="superscript">e</hi> <lb/>
+            Scotch Armye lye at Newcastle: This letter being read, my <lb/>
+            Lord Privy Seale vsed all gentle perswasions to procure the <lb/>
+            Citty to provide the money, but w<ex>i</ex>thall hee produced his pri=<lb break="no"/>
+            vate Instrucc<ex>i</ex>ons not to presse the Citty further then hee <lb/>
+            should find them ready to Comply, and w<ex>i</ex>thall to giue them 14. <lb/>
+            or 15. dayes longer tyme then was sett downe in the Lords <lb/>
+            first Letter to the Citty to prouide the money; <add place="above">They have nowe till the last of November to prouide the money:</add> The Lords being <lb/>
+            retyred, and the Citizens being all together, my Lord Maior <lb/>
+            not fynding that forwardnes that <add place="above">hee</add> desyred in the Commoners <lb/>
+            and w<ex>i</ex>thall being very vnwilling that there should bee any deny=<lb break="no"/>
+            all proposeth to the Commoners, that since they had 15 dayes <lb/>
+            longer tyme giuen to prouide this Money, they should at this <lb/>
+            tyme forbeare to giue any Answer to this Letter, but seeing <lb/>
+            the Parliam<ex>en</ex>t was soe neere at hand, Hee desyred, they would <lb/>
+            suspend their Answers, till the Parliam<ex>en</ex>t had sitten 14. or 15./ <lb/>
+            dayes, and by that tyme they might better resolue vpon it, 
+            <milestone unit="section" type="LM"/>
+            <seg style="transform:rotateZ(90deg)">
+               and soe that Assembly broke vp.//
+            </seg>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11045_part/add_ms_11045_f130r/add_ms_11045_f130r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11045_part/add_ms_11045_f130v/add_ms_11045_f130v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11045_part/add_ms_11045_f131r/add_ms_11045_f131r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11045_part/add_ms_11045_f131v/add_ms_11045_f131v.jpg"/>
+   </facsimile>
+</TEI>

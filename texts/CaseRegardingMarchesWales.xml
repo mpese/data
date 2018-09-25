@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Case Regarding the Marches of Wales</title>
+            <author>
+               <persName corresp="../people/people.xml#P0012">Sir Francis Bacon</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0141">Serjeant Hutton</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0142">Serjeant Harris</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS41613.xml">British Library, Additional MS 41613, ff. 78v–81r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 214r–219r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1853.xml">British Library, Harley MS 1853, ff. 1*r–38r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6797.xml">British Library, Harley MS 6797, ff. 111x–121x, 168x–169x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Clarendon_19.xml">Bodleian Library,  MS Clarendon 19, ff. 191r–194v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_917.xml">Bodleian Library,  MS Rawlinson C 917, ff. 383–539</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_369.xml">Bodleian Library,  MS Rawlinson D 369, ff. 126r–157r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Lincolns_Inn_Maynard_MS_59.xml">Lincoln's Inn, Maynard MS 59, ff. 197r–224v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_4E60.xml">Woburn Abbey,  MS 4E-60, ff. 48r–60v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="selected_criticism">
+               <bibl type="book">
+                  <author>
+                     <persName>Carolin A. J. Skeel</persName>
+                  </author>
+                  <title>The council in the Marches of Wales; a study in local government during the sixteenth and seventeenth centuries</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Hugh Rees Ltd.</publisher>
+                  <date>1904</date>
+                  <biblScope from="138" to="139">138-139</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1608"/>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

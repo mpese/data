@@ -1,0 +1,668 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisements of a Loyal Subject to his Gracious Soveraign Drawn from Observations of the People's Speeches</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22601.xml">
+               <msIdentifier xml:id="BL_Add_MS_22601">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22601</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22601</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Cotton_MS_Faustina_C_II">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Cotton</collection>
+               <idno>MS Faustina C II</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_35">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 35</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_5191">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 5191</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_145">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 145</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_158">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 158</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3787">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 3787</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1583">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1583</idno>
+               <msName>Villiers papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_2877">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Egerton</collection>
+               <idno>MS 2877</idno>
+               <msName>Commonplace Book of Gilbert Frevile of Bishop Middleham, Durham</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1130">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1130</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_677">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 677</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29546">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 29546</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_155">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 155</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_G_b_9">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS G.b.9</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Add.xml">Bodleian Library,  MS Add. D. 109, ff. 148r–149v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/All_Souls_College_MS_155.xml">All Souls College,  MS 155, ff. 15v–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_556.xml">Alnwick Castle,  MS 556, pp67–71</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 54r–55v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="AdvertisementsLoyalSubject1603v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLCottonMSFaustinaCII.xml">British Library, Cotton MS Faustina C II, ff. 63r–64v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS35.xml">British Library, Harley MS 35, ff. 460r–462v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3787.xml">British Library, Harley MS 3787, ff. 163r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS5191.xml">British Library, Harley MS 5191, ff. 3r–5r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS677.xml">British Library, Harley MS 677, ff. 33r–36v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_29546.xml">British Library, Additional MS 29546, ff. 73r–74v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Egerton_MS_2877.xml">British Library, Egerton MS 2877, ff. 180v–r, reversing volume</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1130.xml">British Library, Harley MS 1130, ff. 73v–75v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1583.xml">British Library, Harley MS 1583, ff. 60r–61v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_145.xml">British Library, Stowe MS 145, ff. 34v–39v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_158.xml">British Library, Stowe MS 158, ff. 40r–41x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 17r–20v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb236.xml">Beinecke Library, Osborn fb236</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_D_109.xml">Bodleian Library,  MS Add. D 109, ff. 148r–149v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_105.xml">Bodleian Library,  MS Carte 105, ff. 93r–95r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_c_272.xml">Bodleian Library,  MS Eng. hist. c. 272, ff. 62v–67</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_160.xml">Bodleian Library,  MS Rawlinson D 160, ff. 6r–10r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_335.xml">Cambridge University Library, Additional MS 335, ff. 59v–61r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee232.xml">Cambridge University Library,  MS Ee.2.32, ff. 75r–78v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSGb9.xml">Folger Shakespeare Library,  MS G.b.9, ff. 141r–145r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_7340.xml">Gonville &amp; Caius College,  MS 73/40, ff. 159r–160r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_36.xml">Inner Temple Library, Petyt MS 538/36, ff. 20r–22v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U951O10.xml">Kent Archives,  U951/O10, item 19</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_R512.xml">Trinity College,  MS R.5.12, ff. 183v–186r</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="144" to="148">144-148</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>
+               
+            </p>
+         </abstract>
+         <creation>
+            <date when="1603" notAfter="1603-09">1603</date>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>Vox Populi</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-02" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>      
+      </revisionDesc>
+     </teiHeader>
+   <text>
+      <body>
+         <pb n="12r" facs="/bl/add_ms_22601_part/add_ms_22601_f012r/add_ms_22601_f012r.jpg"/>
+         <head>
+            <add place="header">1603. Sept.</add>
+            Aduertism<ex>en</ex>ts of a loyall Subiect <lb/>
+            to his Soueraigne drawne from <lb/>
+            an obseruation of the peoples <lb/>
+            speaches./
+         </head>
+         <p>
+            It is said that yo<ex>u</ex>r Ma<ex>jes</ex>tie will not continue <lb/>
+            the protection of the Low Countries, they <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">.1.</tei:add>be y<hi rend="superscript">e</hi> only yokefellows (as it were) of yo<ex>u</ex>r <lb/>
+            Religion, and although doubtles yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            high wisedom<ex>m</ex>e will forsee all inconue=<lb break="no"/>
+            =niences, yet y<hi rend="superscript">e</hi> simple Gospellers mourns <lb/>
+            for yo<ex>u</ex>r resolution: for if y<hi rend="superscript">e</hi> Spaniard <lb/>
+            preuaile against theis poore forsaken <lb/>
+            men, his forces by Sea are more then <lb/>
+            trebled; peace will quickly enriche him;
+            wealth will add to his pride; his pride <lb/>
+            will increase his hatred to yo<ex>u</ex>r Religion <lb/>
+            &amp; people; and the Pope euen y<hi rend="superscript">e</hi> fire=<lb break="no"/>
+            =brand of <del rend="underline strikethrough">sedition,</del>
+                <add place="above">dissention</add> euen when you are <lb/>
+            dispoiled of yo<ex>u</ex>r <add place="above">best</add> aydsman by Sea in y<hi rend="superscript">e</hi> <lb/>
+            worlde will discouer his wonted <lb/>
+            malice against vs
+         </p>
+         <p>
+            The pretended title of the Infantha is <lb/>
+            not unknowne to yo<ex>u</ex>r Ma<ex>jes</ex>tie: yt shall <lb/>
+            not want y<hi rend="superscript">e</hi> Antichristian furthe=<lb break="no"/>
+            =rance: the Spaniard is his dearest <lb/>
+            Childe: Your Kingdom<ex>m</ex>e shalbe by his
+            <pb n="12v" facs="/bl/add_ms_22601_part/add_ms_22601_f013v/add_ms_22601_f013v.jpg"/>
+            vnholy holiness giuen <hi rend="italic">
+                    <foreign xml:lang="la">fortiori</foreign>
+                </hi>. Alas <lb/>
+            they shall haue <add place="above">no</add> worke at home it <lb/>
+            will be but sport for them to warre <lb/>
+            upon you. <hi rend="italic">
+                    <foreign xml:lang="la">Principijs obsta sero <lb/>
+            medicina paratur.</foreign>
+                </hi>
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">2</tei:add>It is sayd yt if yo<ex>u</ex>r Ma<ex>jes</ex>tie discontinue <lb/>
+            y<hi rend="superscript">e</hi> league with y<hi rend="superscript">e</hi> States, the Frenche <lb/>
+            are ready to entertayne y<hi rend="superscript">e</hi> bargaine. <lb/>
+            There is a certaine Antipathy be=<lb break="no"/>
+            =tweene them and vs, and it is hard <lb/>
+            to iudge whither y<hi rend="superscript">e</hi> Spaniarde or <lb/>
+            the Frenche will proue worse neigh=<lb break="no"/>
+            =bours unto you; your true Subiects <lb/>
+            therefore pray you keepe them <lb/>
+            both at the shaftes ende./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">3.</tei:add>It is sayd that yo<ex>u</ex>r Ma<ex>jes</ex>tie doth receiue <lb/>
+            infinite nomber of Peticions; and the <lb/>
+            poore foolishe people think, y<hi rend="superscript">e</hi> Kinge <lb/>
+            hath leisure to <del rend="strikethrough">at</del>
+                <add place="above">in</add>tend euery poore <lb/>
+            mans buisines. Rid yo<ex>u</ex>r handes be=<lb break="no"/>
+            =times of suche importunacies, and <lb/>
+            except yo<ex>u</ex>r Ma<ex>jes</ex>tie see great cause to <lb/>
+            y<hi rend="superscript">e</hi> contrarie, referr them to y<hi rend="superscript">e</hi> ordi=<lb break="no"/>
+            =nary Courts of iustice ordeyned for
+            <pb n="13r" facs="/bl/add_ms_22601_part/add_ms_22601_f013r/add_ms_22601_f013r.jpg"/>
+            the endinge of all differences, But <lb/>
+            if any complayne truly against y<hi rend="superscript">e</hi> chiefe <lb/>
+            Officers of what place or dignity so euer <lb/>
+            he be, heare him yo<ex>u</ex>rselfe (gratious Soue=<lb break="no"/>
+            =raigne) make but one or .2. examples <lb/>
+            of Iustice and we shall finde a gol=<lb break="no"/>
+            =den chaunge soodainly; but yet the <lb/>
+            Lawe <hi rend="italic">
+                    <foreign xml:lang="la">Talionis</foreign>
+                </hi> must be put in <sic>vre</sic>; yt <lb/>
+            y<hi rend="superscript">e</hi> vniust accuser be seuerely punished. <lb/>
+            Least the Magistrate be broughte into <lb/>
+            contempt./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">4.</tei:add>It's sayd yo<ex>u</ex>r Ma<ex>jes</ex>tie giueth muche; Li=<lb break="no"/>
+            =berality in a Prince is a necessarie <lb/>
+            uertue, but yo<ex>u</ex>r Coffers are not sayd to <lb/>
+            be so full as yt they neede emptyinge, <lb/>
+            nor yo<ex>u</ex>r Estate in so great securitie, <lb/>
+            as yt it may endure a leane trea=<lb break="no"/>
+            =surie, after .2. or .3. yeares triall <lb/>
+            of yo<ex>u</ex>r neighbo<ex>u</ex>r confederates &amp; their <lb/>
+            affections, and the better vnderstan=<lb break="no"/>
+            dinge of yo<ex>u</ex>r owne fortunes &amp; occasions, <lb/>
+            your Ma<ex>jes</ex>tie shall better discerne out <lb/>
+            of what plenty, in what man<ex>n</ex>er, and <lb/>
+            to whome to giue. Your Subiectes <lb/>
+            haue byn of late yeares troubled w<ex>i</ex>th <lb/>
+            many Subsidies, and without 
+            <pb n="13v" facs="/bl/add_ms_22601_part/add_ms_22601_f014v/add_ms_22601_f014v.jpg"/>
+            doubt the Com<ex>m</ex>ons are poore needy and <lb/>
+            in debt: They desire som<ex>m</ex>e ease, they <lb/>
+            wonder that yo<ex>u</ex>r Highnes doth not re=<lb break="no"/>
+            =mitt y<hi rend="superscript">e</hi> remainder of the taxes &amp; Sub=<lb break="no"/>
+            =sidies yet behinde. they say it hath <lb/>
+            byn the Custom<ex>m</ex>e of Kinges at yeir first <lb/>
+            entrau<ex>n</ex>ce to y<hi rend="superscript">e</hi> Crowne so to do, and <lb/>
+            their hope in yt case is deceiued./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">5.</tei:add> They pray you not to follow the opinion <lb/>
+            of Rehoboams yonge Cou<ex>n</ex>sello<ex>u</ex>rs, nor to <lb/>
+            suffer y<hi rend="superscript">e</hi> longe vse of taxes &amp; subsi=<lb break="no"/>
+            =dies to turne to a habite: for they <lb/>
+            uowe in defence of yo<ex>u</ex>r Ma<ex>jes</ex>tie, y<hi rend="superscript">e</hi> Gos=<lb break="no"/>
+            =pell and the state, they wilbe prodi=<lb break="no"/>
+            =gall of their liues and liuinges./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">6.</tei:add>They say that som<ex>m</ex>e be aduanced to <lb/>
+            places of Iustice altogether unfitt <lb/>
+            for them in that they are ignorant <lb/>
+            of our Lawes &amp; customes.
+         </p>
+         <p>
+            Our aduancem<ex>en</ex>ts to those of y<hi rend="superscript">e</hi> Gowne <lb/>
+            were wont to be as of those of the <lb/>
+            fielde fro<ex>m</ex> an old Souldio<ex>u</ex>r to a lieute=<lb break="no"/>
+            =naunt, from a Lieut<ex>enant</ex> to a Capteyn, <lb/>
+            and so orderly to every place in y<hi rend="superscript">e</hi> <lb/>
+            Campe though indeede in y<hi rend="superscript">e</hi> dau<ex>n</ex>ger
+            <pb n="14r" facs="/bl/add_ms_22601_part/add_ms_22601_f014r/add_ms_22601_f014r.jpg"/>
+            there is som<ex>m</ex>e difference, for an vnskil=<lb break="no"/>
+            =full Generall can seldom<ex>m</ex>e offende <lb/>
+            more then once, and then his life &amp; <lb/>
+            all pay for it, but suche a Magistrat may <lb/>
+            peraduenture through 1000. ignorances, <lb/>
+            enritche himselfe and wronge an in=<lb break="no"/>
+            =finite nomber of poore people./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">7.</tei:add>It's sayd that the office of y<hi rend="superscript">e</hi> M<ex>aste</ex>rshipp <lb/>
+            of y<hi rend="superscript">e</hi> Rolles shalbe executed by a Depu=<lb break="no"/>
+            =tye; the Patentie is helde for a wise <lb/>
+            and hono<ex>urable</ex> Gentleman, but y<hi rend="superscript">e</hi> Deputye <lb/>
+            now spoken of is of no honest fame, <lb/>
+            and God forbidd that so good a Kinge <lb/>
+            should make so badd a president as <lb/>
+            to suffer a chiefe place of Iustice to <lb/>
+            be performed or rather abused by a <lb/>
+            Deputy, Or the Patentie should make <lb/>
+            sale of yo<ex>u</ex>r Ma<ex>jes</ex>ties free guifte: The <lb/>
+            place was in a manner executed by <lb/>
+            Deputies <del rend="strikethrough">be</del>
+                <add place="above">a</add>fore, Suche were y<hi rend="superscript">e</hi> Iudges <lb/>
+            w<ex>hi</ex>ch <hi rend="italic">
+                    <foreign xml:lang="la">pro tempore</foreign>
+                </hi> were Com<ex>m</ex>issioners <lb/>
+            but the due vse of the afternoone w<ex>hi</ex>ch <lb/>
+            the M<ex>aste</ex>r of the Rolles, did vsually spend <lb/>
+            to heare &amp; <add place="above">end</add> many causes, was a chiefe <lb/>
+            want whereof the Client complained. <lb/>
+            which course it is sayd the M<ex>aste</ex>r nowe
+            <pb n="14v" facs="/bl/add_ms_22601_part/add_ms_22601_f015v/add_ms_22601_f015v.jpg"/>
+            beinge can<ex>n</ex>ot follow by reason of his <lb/>
+            more neere and necessary employm<ex>en</ex>ts <lb/>
+            about yo<ex>u</ex>r Ma<ex>jes</ex>tie./
+         </p>
+         <p>
+            It's said the respect at the Courte <lb/>
+            of y<hi rend="superscript">e</hi> Scott by all the attendant officers <lb/>
+            there, is so partiall, as the Englishe <lb/>
+            finde them selues muche disgraced, the <lb/>
+            meanest of yt Country may enter the <lb/>
+            Prseence, and where not without <lb/>
+            controlment. But the English very <lb/>
+            vnseasonable (I wiss) are kept out, <lb/>
+            the fault is not said to be in yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            it is in y<hi rend="superscript">e</hi> foolishe gross clawinge of som<ex>m</ex>e <lb/>
+            of the English. But yo<ex>u</ex>r Ma<ex>jes</ex>tie must <lb/>
+            prouide that this indiscretion breede <lb/>
+            not a discreete emulation betwixt vs, <lb/>
+            who ought as we nowe profess but <lb/>
+            one God and one Kinge, so to haue <lb/>
+            but one hart; and yo<ex>u</ex>r English Sub=<lb break="no"/>
+            iects not to be disgraced: for it <lb/>
+            must be confessed (Right Noble Kinge) <lb/>
+            that y<hi rend="superscript">e</hi> Kingdom<ex>m</ex>e and people of Eng=<lb break="no"/>
+            land made you great: Many Offices <lb/>
+            hau ebyn taken fro<ex>m</ex> y<hi rend="superscript">e</hi> Englishe and <lb/>
+            giuen to y<hi rend="superscript">e</hi> Scott, and some yt serued <lb/>
+            the State with good Com<ex>m</ex>endation (w<ex>hi</ex>ch 
+            <pb n="15r" facs="/bl/add_ms_22601_part/add_ms_22601_f015r/add_ms_22601_f015r.jpg"/>
+            now yo<ex>u</ex>r Ma<ex>jes</ex>tie must esteeme don<ex>n</ex>e to yo<ex>u</ex>r <lb/>
+            selfe) remaine unthought of, and <lb/>
+            vnrewarded./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">.9.</tei:add>It is sayd that yo<ex>u</ex>r Ma<ex>jes</ex>tie purposeth to alter <lb/>
+            the man<ex>n</ex>er of our Gouernm<ex>en</ex>t; and fault <lb/>
+            is founde at o<ex>u</ex>r Com<ex>m</ex>on Lawes &amp; customes <lb/>
+            of England, and spetially o<ex>u</ex>r triall by <lb/>
+            the oathes of .12. men w<ex>hi</ex>ch is without <lb/>
+            doubt the best and equallest course, &amp; <lb/>
+            in it selfe least capable of Corruption. <lb/>
+            Euery alteration euen in a priuate <lb/>
+            family muche more in a Kingdom<ex>m</ex>e <lb/>
+            breedeth  hurlie burly. Doubtless there <lb/>
+            be abuses in the Courts of Westminster, <lb/>
+            and chiefly in the Arbitrarie Courts, <lb/>
+            but if yo<ex>u</ex>r Ma<ex>jes</ex>tie had but once purified <lb/>
+            a fewe of the chiefest Officers, howe <lb/>
+            soodainly would yo<ex>u</ex>r Ma<ex>jes</ex>ties owne expe=<lb break="no"/>
+            =rience giue allowan<ex>n</ex>ce to our Com<ex>m</ex>on <lb/>
+            Lawes and Statutes w<ex>hi</ex>ch be euen fit=<lb break="no"/>
+            =tinge to the occurrents and natures <lb/>
+            of the People and Kingdom<ex>m</ex>e./
+         </p>
+         <p> 
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">10</tei:add>It's said that yo<ex>u</ex>r Ma<ex>jes</ex>tie of an ingeni=<lb break="no"/>
+            =ous &amp; Royall nature not deligh=<lb break="no"/>
+            =tinge in popular salutacions doth
+            <pb n="15v" facs="/bl/add_ms_22601_part/add_ms_22601_f016v/add_ms_22601_f016v.jpg"/>
+            pass by great troupes of y<hi rend="superscript">e</hi> Com<ex>m</ex>ons <lb/>
+            w<ex>i</ex>th a kinde of kingly negligence, nei=<lb break="no"/>
+            =ther speakinge nor lookinge vpon <lb/>
+            them. The poorer sort of People are <lb/>
+            bold with yo<ex>u</ex>r Ma<ex>jes</ex>tie, they prate of y<hi rend="superscript">e</hi> <lb/>
+            name of their late Queene, when she <lb/>
+            was seene publiquely abroade would <lb/>
+            often speake kindely to y<hi rend="superscript">e</hi> Multitude <lb/>
+            discoueringe hir Royall acceptance <lb/>
+            of their ioyfull acclamations, many <lb/>
+            times also sayinge that hir Subiects <lb/>
+            hungry eies might haue their fill in <lb/>
+            beholdinge their Soueraigne. your <lb/>
+            Ma<ex>jes</ex>tie must in som<ex>m</ex>e sorte therefore <lb/>
+            satisfy their iealous affections, or=<lb break="no"/>
+            =els the poore Rascalls so farr as <lb/>
+            they dare wilbe angrie with you./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">11</tei:add>It is sayd that yo<ex>u</ex>r Ma<ex>jes</ex>ties followers as <lb/>
+            well Englishe as Scotts proclaime <lb/>
+            open sale of y<hi rend="superscript">e</hi> moste an<ex>n</ex>cient and <lb/>
+            noble Order of Knighthoode, whereby <lb/>
+            som<ex>m</ex>e contrary to yo<ex>u</ex>r Highnes intent <lb/>
+            of vnworthy condition for bribes haue <lb/>
+            byn vnworthily made Knightes to the
+            <pb n="16r" facs="/bl/add_ms_22601_part/add_ms_22601_f016r/add_ms_22601_f016r.jpg"/>
+            dishono<ex>u</ex>r of yo<ex>u</ex>r Royall pallace, and y<hi rend="superscript">e</hi> <lb/>
+            disgrace of other Noble &amp; vertuous <lb/>
+            Knightes./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">12.</tei:add>
+                <hi rend="italic">
+                    <foreign xml:lang="la">Fax Plebis</foreign>
+                </hi> I wott not what to call <lb/>
+            them, but som<ex>m</ex>e there be who moste <lb/>
+            un<ex>n</ex>aturally and vnreuerently by <lb/>
+            egregious lyes, wou<del rend="strikethrough">l</del>
+                <ex>n</ex>d the hono<ex>u</ex>r and <lb/>
+            good fame of our deceassed Soueraigne <lb/>
+            not only taxinge hir good gouernm<ex>en</ex>t <lb/>
+            but hir Person with sundrie mani=<lb break="no"/>
+            =fest vntruthes, and y<hi rend="superscript">e</hi> foolish indi=<lb break="no"/>
+            gesta moles yo<ex>u</ex>r Com<ex>m</ex>ons of London <lb/>
+            (I should say som<ex>m</ex>e of them for doubt=<lb break="no"/>
+            =les all are not so lewd) haue put <lb/>
+            out hir name, where it was engra=<lb break="no"/>
+            uen &amp; painted vnder the armes of <lb/>
+            y<hi rend="superscript">e</hi> Kingdom<ex>m</ex>e. And it is said they <lb/>
+            are about to alter certaine Monu=<lb break="no"/>
+            =ments once dedicated to hir, as beinge <lb/>
+            lothe belike to be at any new cost <lb/>
+            with yo<ex>u</ex>r Ma<ex>jes</ex>tie. Surely theis <lb/>
+            slaunders be the deuises of y<hi rend="superscript">e</hi> Pa=<lb break="no"/>
+            =pistes, arguinge thereby at the de=<lb break="no"/>
+            =famation of the gospell, it will <lb/>
+            proue therefore your Ma<ex>jes</ex>tie trulie
+            <pb n="16v" facs="/bl/add_ms_22601_part/add_ms_22601_f017v/add_ms_22601_f017v.jpg"/>
+            magnanimious, to prouide for y<hi rend="superscript">e</hi> preser=<lb break="no"/>
+            uation of hir famous memorie by all <lb/>
+            meanes./
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">13.</tei:add>It is said yt many ancient and poore <lb/>
+            Officers at Court be displaced, and y<hi rend="superscript">e</hi> <lb/>
+            place giuen to yo<ex>u</ex>r Countrymen the <lb/>
+            Scottishe, indeede to say true, it is <lb/>
+            meet that yo<ex>u</ex>r Ma<ex>jes</ex>ties knowne Seruants <lb/>
+            should be for yo<ex>u</ex>r Ma<ex>jes</ex>ties neerest imploy=<lb break="no"/>
+            =ment, nor is it any dishono<ex>u</ex>r to the <lb/>
+            English Nation, that yo<ex>u</ex>r good Seruants <lb/>
+            be preferred, so that yo<ex>u</ex>r Ma<ex>jes</ex>tie leaue <lb/>
+            not the well deseruinge disgraced. <lb/>
+            The people are rightly termed a <lb/>
+            Beaste of many heads; so many men <lb/>
+            so manie mindes; yet which is the <lb/>
+            worke of God I heare euery man <lb/>
+            loueth and reuerenceth yo<ex>u</ex>r Ma<ex>jes</ex>tie. <lb/>
+            Let therefore y<hi rend="superscript">e</hi> admirable man<ex>n</ex>er of yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>ties com<ex>m</ex>inge to so opulent a Kingdom<ex>m</ex> <lb/>
+            be euer before yo<ex>u</ex>r eies. God is chiefly <lb/>
+            to be honored, true Religion to bee <lb/>
+            more &amp; more aduanced, the Com<ex>m</ex>on <lb/>
+            wealth to be cherished w<ex>hi</ex>ch consisteth
+            <pb n="17r" facs="/bl/add_ms_22601_part/add_ms_22601_f017r/add_ms_22601_f017r.jpg"/>
+            chiefly of home-borne men. It were <lb/>
+            good we could forgett all difference <lb/>
+            of Nations, and repaire <add place="above">the</add> almoste de=<lb break="no"/>
+            =cayed name of great Britayne./
+         </p>
+         <p>
+            Doubtless vnto so wise a Prince a <lb/>
+            worde is inough: and therefore poore <lb/>
+            I, who haue alwaies in my priuate <lb/>
+            conferrence, mainteyned yo<ex>u</ex>r Ma<ex>jes</ex>ties iust <lb/>
+            Title so farr as I durst, will here ende. <lb/>
+            Blessinge my God that I see the happy <lb/>
+            daye, wherein the Kingdomes soe <lb/>
+            longe disioyned be nowe vnited in <lb/>
+            one Royall person, whose posterity <lb/>
+            I hope will so obey God as they may <lb/>
+            Continue Kinges of this Lande, vn=<lb break="no"/>
+            =till y<hi rend="superscript">e</hi> dissolution of y<hi rend="superscript">e</hi> Uniuersall./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22601_part/add_ms_22601_f012r/add_ms_22601_f012r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22601_part/add_ms_22601_f013v/add_ms_22601_f013v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22601_part/add_ms_22601_f013r/add_ms_22601_f013r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22601_part/add_ms_22601_f014v/add_ms_22601_f014v.jpg"/> 
+      <graphic n="5" url="/bl/add_ms_22601_part/add_ms_22601_f014r/add_ms_22601_f014r.jpg"/>       
+      <graphic n="6" url="/bl/add_ms_22601_part/add_ms_22601_f015v/add_ms_22601_f015v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22601_part/add_ms_22601_f015r/add_ms_22601_f015r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22601_part/add_ms_22601_f016v/add_ms_22601_f016v.jpg"/>     
+      <graphic n="9" url="/bl/add_ms_22601_part/add_ms_22601_f016r/add_ms_22601_f016r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22601_part/add_ms_22601_f017v/add_ms_22601_f017v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22601_part/add_ms_22601_f017r/add_ms_22601_f017r.jpg"/>
+   </facsimile>
+</TEI>

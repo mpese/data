@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to James I on His Return from Guiana</title>
+            <author>
+               <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22587.xml">British Library, Additional MS 22587, ff. 3r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS40838.xml">British Library, Additional MS 40838, ff. 35v–36r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS69394.xml">British Library, Additional MS 69394, ff. 68v–69r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3786.xml">British Library, Harley MS 3786, f. 60r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 359v–360r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, f. 100</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 41r–42r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_d_138.xml">Bodleian Library,  MS Eng. hist. d. 138, ff. 41r–43v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, p446</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_b_303.xml">Folger Shakespeare Library,  MS V.b.303, p229</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_X_d_241.xml">Folger Shakespeare Library,  MS X.d.241, ff. 3v–4r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U2691Oo147.xml">Kent Archives,  U269/1/Oo147</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 510–511</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_130.xml">Queen's College,  MS 130, ff. 149–150</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, f. 12v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Sir Walter Raleigh's Sceptick</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1651">1651</date>
+                  <idno type="Wing">R186</idno>
+                  <biblScope unit="page" from="113" to="118">113-118</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1657">1657</date>
+                  <idno type="Wing">R180</idno>
+                  <biblScope unit="page" from="182" to="184">182-184</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1661">1661</date>
+                  <idno type="Wing">R181</idno>
+                  <biblScope unit="page" from="244" to="246">244-246</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace corresp="../places/places.xml#PL0001">London</pubPlace>
+                  <date when="1664">1664</date>
+                  <idno type="Wing">R182</idno>
+                  <biblScope unit="page" from="244" to="246">244-246</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1669">1669</date>
+                  <idno type="Wing">R183</idno>
+                  <biblScope unit="page" from="244" to="246">244-246</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1675">1675</date>
+                  <idno type="Wing">R184</idno>
+                  <biblScope unit="page" from="244" to="246">244-246</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0017">Sir Walter Raleigh</persName>
+                  </author>
+                  <title>Remains of Sir Walter Raleigh</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1681">1681</date>
+                  <idno type="Wing">R185</idno>
+                  <biblScope unit="page" from="244" to="246">244-246</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1618">1618</date>
+            <placeName/>
+         </creation>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-07-05" who="#RB" status="placeholder"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

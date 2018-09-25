@@ -1,0 +1,652 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Canvas of Cambridge</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="EB">
+               <name>Susan Ward</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 201r–208r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_161.xml">British Library, Harley MS 161, ff. 132r–136v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 268r–276v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ii59.xml">Cambridge University Library,  MS Ii.5.9, ff. 194r–201r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVb50.xml">Folger Shakespeare Library,  MS V.b.50, pp451–476</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266.xml">Houghton Library,  fMS Eng 1266, volume II, ff.257r–273x</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1626-06">June 1626</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-24" who="#RB" status="draft"/>
+            <change when="2018-08-20" who="#SW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="316r" facs="/bl/add_ms_22591/add_ms_22591_f316r/add_ms_22591_f316r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               Certaine <lb/>
+               considerac<ex>i</ex>ons vpon the choyse of <ex>th</ex>e Duke of <lb/>
+               Bucking<ex>ham</ex> <lb/>
+               for chau<ex>n</ex>cellor of <ex>th</ex>e vniu<ex>er</ex>s<ex>ity</ex> of cambridge June <lb/>
+               1: 1626:
+            </hi>
+         </head>
+         <p>
+            <hi rend="bold">It</hi> cannot but be expected, that this Choyce should ingender much <lb/>
+            p<ex>re</ex>iudice in the hartes of all men, against everye man in p<ex>ar</ex>ticule<ex>r</ex> who <lb/>
+            haue A voyce in the Election, and that because this elecc<ex>i</ex>on of this our <lb/>
+            Supreame magistrate (not tituler onlye but if p<ex>re</ex>sent, the locke and <lb/>
+            keye to all Businesses, as hauinge the cheiffe swayeing of thinges Soe <lb/>
+            as nothing passeth w<ex>i</ex>thout his propounding) is of all thinges in the dis- <lb/>
+            posall of the Vniversitye most freelye and indeterminatlye lesse <lb/>
+            to the Bodye, Viz, everye M<ex>aste</ex>r of Arts and vpwards, havinge as <lb/>
+            much power to nominate and chuse whom he pleaseth, w<ex>hi</ex>ch but in <lb/>
+            the Orators place is found allsoe in nothing els,
+         </p>
+         <p>
+            <hi rend="bold">It</hi> being thought fitt by our Founders wee should chuse our owne <lb/>
+            head, and loving our selves soe that as this is our honorablest <lb/>
+            testimonye w<ex>hi</ex>ch wee can giue of the worthe and integritie of <lb/>
+            anye, Soe allsoe considering our multitud, and the worthy Iudgem<ex>en</ex>t <lb/>
+            and wisedome that is esteemed, and ought to be in the Electors, It <lb/>
+            is one of the honarablest Testimonyes w<ex>hi</ex>ch this kingedome cann <lb/>
+            afforde (except that of the Parlyam<ex>en</ex>t) w<ex>hi</ex>ch hauing heapt vpo<ex>n</ex> <ex>th</ex>e duke <lb/>
+            before hand as manye greivous accusacons as he hath honarable <lb/>
+            Tytles allreadye, The Vniu<ex>er</ex>sitie by this Acte hath seemed to thwart <lb/>
+            and disparage as muche as in them lyes, w<ex>hi</ex>ch is the rep<ex>re</ex>sentatiue <lb/>
+            bodye not onlye of the whole Kingdome but even of themselves in <lb/>
+            theire Burgesses, this therefore cannot but bringe the Odium and <lb/>
+            hatred of the whole Kingdome vpon vs, yea and of the whole <lb/>
+            world allsoe, if these Accusacons be p<ex>ro</ex>ved true, yea and of God <lb/>
+            himselfe, Considering that hee being yett unlearned wee haue <lb/>
+            wript our selves in the guilt of all his Crymes obiected, And <lb/>
+            this the rather allsoe because it maye be vsed in Favor &amp; Cou<ex>n</ex>ten<ex>an</ex>ce <lb/>
+            of him, and where as his other honors, doth but rather helpe to <lb/>
+            sincke him w<ex>i</ex>th their waight, this alone maye seeme to should<ex>e</ex>r and <lb/>
+            prop him vpp, and <ex>tha</ex>t by emboldning as nowe to appeare for him <lb/>
+            w<ex>i</ex>th more Confidence and lesse diffidence of the peoples hatred <lb/>
+            wee being nowe put as A Siren betwixt him and them, And this <lb/>
+            as maye seeme was purposelye intended by the Ministers, whoe <lb/>
+            ymployed themselfes in it, whoe therefore hastened the effecting <lb/>
+            of it, as vpon Thirsday before the Lords were to meete And this <lb/>
+            notw<ex>i</ex>thstanding it might haue layen voyde by Statut<ex>e</ex> 14 dayes <lb/>
+            w<ex>hi</ex>ch some allsoe much desired, that they might first see the issue <lb/>
+            in Parlyam<ex>en</ex>t, The Lord Thomas Howard our Late Chau<ex>n</ex>cellor <lb/>
+            dying but on Wensdaye the 28: Maye. 1626:
+         </p>
+         <p>
+            <hi rend="bold">Nowe</hi> the First great enginers that sett to their Shoulders <lb/>
+            to this greate designe to move mens harts that before seemed <lb/>
+            as im<ex>m</ex>oveable as the Earthe, wer First Doctor <del rend="strikethrough">White</del> Wilson the <lb/>
+            Bishopp of Londons Chaplane, whoe vpon Mundaye came post <lb/>
+            w<ex>i</ex>th this message to the head<ex>es</ex>, that it was the Kings expresse <lb/>
+            will and pleasure, that the Duke should be chosen Chauncellor, <lb/>
+            w<ex>hi</ex>ch report of his was seconded by the Bishopp of Durhams <lb/>
+            L<ex>ett</ex>res brought on Tewsdaye by <unclear>do send</unclear>, as allsoe by <ex>th</ex>e p<ex>er</ex>sonall <lb/>
+            Com<ex>m</ex>ing downe of the Bishopp of London, as allsoe of Doctor <lb/>
+            Owen the Kings Chaplayne, and Doctor Pasch the Dukes/ To <lb/>
+            <fw type="catch" place="bot-right">whom</fw>
+            <pb n="316v" facs="/bl/add_ms_22591/add_ms_22591_f316v/add_ms_22591_f316v.jpg"/>
+            whom ioyned him selfe Doctor Mawe his Ma<ex>s</ex>t<ex>er</ex>s Chapleyne <lb/>
+            whoe w<ex>i</ex>th <unclear>Renn</unclear> was in Spaine, These having alltogith<ex>e</ex>r possessed <lb/>
+            the Heades, that it was the Kings pleasure (allthoughe as wee <lb/>
+            heare it was A Word cast out on Whit Sundaye at nighte at <lb/>
+            supper (I would Bucking<ex>ham</ex> were Chau<ex>n</ex>cellor) and maye seeme <lb/>
+            to haue bine litle more by a Passage in the Lord of Durhams <lb/>
+            L<ex>ett</ex>re, related by one that hea<add place="above">r</add>d it, that in his opinion it was <ex>th</ex>e Kings <lb/>
+            pleasure, The Heades therefore wyned w<ex>i</ex>th him to putt to <ex>the</ex>ir <lb/>
+            vttmost Assistance and power to effect it, as knowing that hee <lb/>
+            being thus brought vpon the Stage, if they pr<ex>e</ex>vayled not, the <lb/>
+            blame would lye onlye o<ex>n</ex> them, if they did  they should haue all <lb/>
+            the Thankes, And that soe much the more by howe muche this <lb/>
+            Testimonye might stand the Duke in more steed, But espetially <lb/>
+            Doct<ex>ors</ex> Mawe, Wren, and Pasch, three M<ex>aste</ex>rs of Collages, bestirred <lb/>
+            themselves in their p<ex>ar</ex>ticuler Societies, as by the sequele ap <lb/>
+            peareth they being most interessed in it hauing most depe<ex>n</ex>da<ex>n</ex>ce <lb/>
+            at pr<ex>e</ex>sent vpon the Courte, being quickned allsoe by: 2: B<ex>isho</ex>prich <lb/>
+            w<ex>hi</ex>ch nowe lye actuallye voyde, and two more in Expectat<ex>i</ex>on <lb/>
+            Winchester; and Exeter as we here being dau<ex>n</ex>gerous sicke/
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Engines they sett to mens heart<ex>es</ex> to wrest the co<ex>n</ex>trarye <lb/>
+            to that Bent w<ex>hi</ex>ch these late Parlyamentarye Passages had <lb/>
+            wrought them vnto were manye and divers, according as they <lb/>
+            had severall p<ex>er</ex>sons to deale w<ex>i</ex>th/
+         </p>
+         <p>
+            <hi rend="bold">First </hi>the Foundac<ex>i</ex>on and ground worke they placed all <lb/>
+            vppon was, the assurance that the Duke would stand, D<ex>octor</ex> Wilson <lb/>
+            confirming it w<ex>i</ex>th this, that he had himselfe seene severall an=<lb break="no"/>
+            sweres to the Articles obiected, w<ex>hi</ex>ch would assuredlye satisfe, <lb/>
+            Doctor Mawe allsoe p<ex>re</ex>ferring himselfe to satisfie anye man that <lb/>
+            had anye Scruple about him / 
+         </p>
+         <p>
+            <hi rend="bold">Then</hi> Secondlye they vrged and inforced men w<ex>hi</ex>ch the Kings <lb/>
+            expresse pleasure and Comaund as even the Vice Chau<ex>n</ex>cellor <lb/>
+            in his Speeche, before the Election, affirmed that it was the <lb/>
+            Kings pleasure, and that to haue it made knowne vnto vs, he there <lb/>
+            fore advising men that they  should take heed that the king might <lb/>
+            not here that there was the least murmuring against it, And <lb/>
+            before the Congregac<ex>i</ex>on in their pr<ex>i</ex>vate visitings they vrged, &amp; <lb/>
+            pressed men w<ex>i</ex>th theis on the like termes, Are you for the <lb/>
+            Kinge, will you doe the Kinge anye Service, howe dare anye of <lb/>
+            you contradicte it, as even the Vice Chau<ex>n</ex>cellor allsoe said to the <lb/>
+            Junior Proctor when he gaue the First contrary Voyce, that <lb/>
+            seeing their Voyces to the Contrarye would doe now good there <lb/>
+            fore either not to appeare at all, among a fewe other <unclear>factionests</unclear> <lb/>
+            w<ex>hi</ex>ch therefore must needs be noted, and this appr<ex>e</ex>hension did <lb/>
+            rune the more Currant in mens my<ex>n</ex>des by reason of that <ex>the</ex>ir <lb/>
+            Confidence and assurance of victory manifested &amp; co<ex>n</ex>firmed <lb/>
+            by Calling A Congregatio<ex>n</ex> for the Choyce, next day: <ex>i</ex>mediatly <lb/>
+            vpon the Dissolving their meetinge, w<ex>hi</ex>ch yett they would not with <lb/>
+            soe small A Troope as then they had, but wonne to them selves (as <lb/>
+            Evidentlye maye be made to appeare) soe desp<ex>er</ex>atlye haue ventured <lb/>
+            on, had they not had A fifte Tricke aboue all, w<ex>hi</ex>ch thoughe for <lb/>
+            the <unclear>___________</unclear> of it, and what it was <unclear>is is</unclear> still concealed, yett for <lb/>
+            the <unclear>___________</unclear> of it, that such an one they had was deceyved by twooe <lb/>
+            privye to their practises, and that was that of the adverse p<ex>ar</ex>ty <lb/>
+            had prevayled against the Duke, they would by some hidden <lb/>
+            Acte or other that laye readye in Ambushm<ex>en</ex>t haue defeated &amp; <lb/>
+            overthrowne the Election, this was discovered by D<ex>octor</ex> Wilson <lb/>
+            and M<ex>aste</ex>r Readding the Bedalls sonne &amp; <ex>tha</ex>t openly in S<ex>ain</ex>t Johns hall <lb/>
+            <hi rend="bold">In</hi> soe much as men would in the house haue crost eache <lb/>
+            other, whoe are you for, are you loyall Subiects, Nowe this  <lb/>
+            <fw type="catch" place="bot-right">besyds</fw>
+            <pb n="317r" facs="/bl/add_ms_22591/add_ms_22591_f317r/add_ms_22591_f317r.jpg"/>
+            besydes the Comon and generallitye of Subiects w<ex>i</ex>thall, must <lb/>
+            needes pr<ex>e</ex>vayle w<ex>i</ex>thall the Chaplaynes in the Vniversitie or such <lb/>
+            as haue anye reference or Dependance vpon the Courte or that <lb/>
+            looke for pr<ex>e</ex>ferrm<ex>en</ex>t thence, as manye doe, each p<ex>ar</ex>ticluler man of <lb/>
+            such beinge, threatned that notice would be taken of them, This was <lb/>
+            A greate Argum<ex>en</ex>t (if beleeved that those that respected by vphol=<lb break="no"/>
+            ding the pr<ex>i</ex>viledges and libertie of the Vniversitie, &amp; was soe <lb/>
+            pressed by them, <ex>tha</ex>t it was <ex>th</ex>e Kinge to whom wee must stand or fall,
+         </p>
+         <p>
+            <hi rend="bold">And</hi> yett notw<ex>i</ex>thstanding they did beare themselves thus bold <lb/>
+            lye vpon the Kinge's name w<ex>hi</ex>ch they soe much vsed pr<ex>e</ex>senting one <lb/>
+            while (to assertaine men that the Kings L<ex>ett</ex>res should come) another <lb/>
+            while that they were come and should be openlye read to the discou<ex>r</ex>a <lb/>
+            gem<ex>en</ex>t of all opposers, whoe then might thinke it would be in vayne <lb/>
+            for them to appeare, for none were p<ex>ro</ex>duced for indeede allthoughe <lb/>
+            the p<ex>re</ex>tence of Lettrs served namelye thus to effecte it, yett the <lb/>
+            haueing and p<ex>ro</ex>duceing of them would haue p<ex>re</ex>diudiced the mayne <lb/>
+            intendm<ex>en</ex>t of that Ellection, namelye the honor of the Testimony in <lb/>
+            it, w<ex>hi</ex>ch cheifflye lying in the Freenes of the voting of it by l<ex>ett</ex>res <lb/>
+            had bine cutt of, soe that nowe all the Comission in veiw w<ex>i</ex>th they <lb/>
+            could shewe for this  p<ex>er</ex>emtorye vsing of the Kinges name, and <lb/>
+            authoritie royall, was reserved at the length into the Bare <lb/>
+            testimonyes and Conceipts of men /
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> then Thirdlye manye m<ex>aste</ex>rs of houses Being thus stirred <lb/>
+            and deepelye Interesed in it for the reasons above named, &amp; some <lb/>
+            more deepelye then the Rest, vsed, besydes all this their private <lb/>
+            interests sett to their owne power, w<ex>hi</ex>ch eache of their fellowes vn=<lb break="no"/>
+            der them in their severall Societies /
+         </p>
+         <p>
+            <hi rend="bold">And</hi> all the world knowes what strange ingagem<ex>en</ex>ts corres=<lb break="no"/>
+            pondencies and dependancye betweene them and their Creatur<ex>es</ex> <lb/>
+            w<ex>hi</ex>ch are manye, <del rend="strikethrough">Betweene them and their Creatures</del> and w<ex>ha</ex>t adva<ex>n</ex>tag <lb/>
+            allsoe over most others, whoe otherwise would be Free enough &amp; <lb/>
+            ingenious and not <foreign xml:lang="la">
+                    <hi rend="italic">Iurare in uerba</hi>
+                </foreign>, As their haueinge the dis=<lb break="no"/>
+            posing allmost of all Chambers, in most of the Colledges for <lb/>
+            Schollers and Fellowes Negative voyces in all ellections what <lb/>
+            soever in Schollers and Fellowes etc w<ex>hi</ex>ch not seldome (though not <lb/>
+            in open manner) the doe vse against such and their pupills, whoe <lb/>
+            will not be slaves to them, and at their Becks in all Businesses, <lb/>
+            Some of them not sticking to p<ex>ro</ex>fesse they take theise things as their <lb/>
+            Favours, And soe they need not, they will not bestowe them but <lb/>
+            to those that please them, Soe that of all others this was the forcible <lb/>
+            wrenche, w<ex>hi</ex>ch if they would vse in anye busynes thoughe nev<ex>e</ex>r soe <lb/>
+            ymprobable to compasse, they are able to effecte /
+         </p>
+         <p>
+            <hi rend="bold">It</hi> was seene in this, w<ex>hi</ex>ch was one of <ex>th</ex>e difficultest they ever <lb/>
+            vndertooke, And by this wyned w<ex>i</ex>th the inforcem<ex>en</ex>tof <ex>th</ex>e former 43: <lb/>
+            voyces of .50: (w<ex>hi</ex>ch were all that were at hand, were obteyned in <lb/>
+            Trinitie Colledge by Doc<ex>tor</ex> Mawe, the m<ex>aste</ex>r thereof whoe went as <lb/>
+            is saide himselfe vnto everye m<ex>aste</ex>r of Art<ex>es</ex> and fellowes Chamb<ex>e</ex>r <lb/>
+            A Thinge vnusuall and vnheard of for A m<ex>aste</ex>r to doe) and at the <lb/>
+            tyme of Election told the Bell, brought them all out togither w<ex>i</ex>th <lb/>
+            him, making allsoe A Speech to them, and this he did least any should <lb/>
+            giue him the Slipp or straye behinde
+         </p>
+         <p>
+            <hi rend="bold">And</hi> by this waye allsoe <hi rend="italic">Clare Hall</hi>, whollye drawne to the <lb/>
+            Duke, by Docter Paske the m<ex>aste</ex>r there <del rend="strikethrough">for</del> of, who made it as a suite <lb/>
+            by himselfe to his fellowes, and soe had nailed as appeares in <lb/>
+            that 4: of them saide if their m<ex>aste</ex>r had not come they had bine against <lb/>
+            the Duke. Another that their m<ex>aste</ex>r was a coming, and they must bee <lb/>
+            for the Duke: and when they had chosen him, he tooke it as a p<ex>ar</ex>ti <lb/>
+            culer kindnes to himselfe, and to gratifie them made them ex <lb/>
+            ceed both night and noone in everye Messe, and therefore allso <lb/>
+            challenged another of his fellowes, whose suffrage by .A. <lb/>
+            <fw type="catch" place="bot-right">Mistake</fw>
+            <pb n="317v" facs="/bl/add_ms_22591/add_ms_22591_f317v/add_ms_22591_f317v.jpg"/>
+            mistate was read against the Duke, haueing first promised <lb/>
+            his voyce for him, he challenged him that he had oposed him <lb/>
+            in all thinges, he allsoe enforced one to come that was sicke of <lb/>
+            an ague, and then in his fitt, another that had taking A Purge, <lb/>
+            w<ex>hi</ex>ch wrought ere he gott home, and A Third much maymed in the <lb/>
+            Face w<ex>i</ex>th A Fall of A horse brought he out all mufled vp bring <lb/>
+            ing two Ministers out of the Countrye, and to authorice theire <lb/>
+            voyces put their Names in the Butterye that Morning scraping <lb/>
+            them out againe at night
+         </p>
+         <p>
+            <hi rend="bold">Doctor</hi> Wrenn vsing his the like Interest w<ex>i</ex>th those of his <lb/>
+            house, whoe in Peter house went generallye w<ex>i</ex>th the Duke to <lb/>
+            gratifie him, some of them since making that the Cause as many <lb/>
+            other allsoe in the forenamed Colledge
+         </p>
+         <p>
+            <hi rend="bold">Nowe</hi> thse three m<ex>aste</ex>rs as their p<ex>ar</ex>ticuler Interest was grea <lb/>
+            ter then all the rest, both in that they were Chapleynes to the <lb/>
+            Kinge and the Duke, One of them soe indeared (as wee haue herd  <lb/>
+            they should saye) he would spend his best bloud for the Duke, &amp; <lb/>
+            they allsoe had shewed themselves as Agents in it, and first set <lb/>
+            the designe A Foote, And therefore their vehemencye and Dilli <lb/>
+            gencye was greatest, it soe meerelye concerning their p<ex>ar</ex>ticuler <lb/>
+            Neither were other m<ex>aste</ex>rs wantinge in the like Assistance in the <lb/>
+            rest, it being nowe made A Como<ex>n</ex> Engagem<ex>en</ex>t of the all it appears <lb/>
+            in that in some other Colledges the Favourites &amp; dependents <lb/>
+            of the m<ex>aste</ex>rs were observed to giue, not anye scarce, over whom <lb/>
+            anye greate advantages they had that escaped <ex>the</ex>ir Sollicitac<ex>i</ex>ons <lb/>
+            and importunities, and manye of such either wrought to giue <lb/>
+            with the Duke or to sett downe, and what some of them notwith <lb/>
+            standing their sure p<ex>ro</ex>mise given and fixed resoluc<ex>i</ex>on exp<ex>re</ex>ssed <lb/>
+            to the Contrarye, w<ex>hi</ex>ch had they not more Magisteriallie then <lb/>
+            ordinarye dealt w<ex>i</ex>th all they would never haue done, yea One <lb/>
+            m<ex>aste</ex>r of A Colledge Doct<ex>or</ex> Smithe, did openlye in the Rege<ex>n</ex>t house <lb/>
+            in the Face of the whole Vniversitie, call vp one of his fellowes <lb/>
+            w<ex>i</ex>th his voyse for Andover in his hand intreating, rewarding <lb/>
+            threatning, Comaunding him to sit downe And it is likelye <ex>tha</ex>t <lb/>
+            private dealings w<ex>i</ex>th men were more violet
+         </p>
+         <p>
+            <hi rend="bold">4ly</hi> Then hauing thus severallie plaide their parts at home <lb/>
+            there were an assemblye of others called to giue an account <lb/>
+            of their Severall Forces for the Duke, w<ex>hi</ex>ch they had rather  <lb/>
+            pressed as it maye be saide, then entertayned as voluntaries <lb/>
+            and herein they had an Acte and Practise w<ex>hi</ex>ch di as much ad=<lb break="no"/>
+            vance this disigne as anye of the Former, And that was after this <lb/>
+            their muster A False alaru<ex>m</ex> of more voyces then. indeed they <lb/>
+            had, giving it out w<ex>i</ex>th Confidence the Victorye was theirs by 40 <lb/>
+            and soe discouraged the rest, whoe haue since professed that <lb/>
+            had they thought the opposic<ex>i</ex>on soe stronge as it was found to <lb/>
+            bee they would never haue sett downe, or haue given with <ex>th</ex>e <lb/>
+            Duke as by this meanes many were easilye p<ex>er</ex>swaded to doe, it <lb/>
+            being made by this an Easie request
+         </p>
+         <p>
+            <hi rend="bold">And</hi> lastlye notw<ex>i</ex>thstanding all those inforceme<ex>en</ex>ts Acts and <lb/>
+            Practises in the Vppshott of all they had obteyned it in thus <lb/>
+            Promiscuous electon but by .5: voyces according to their owne <lb/>
+            but by .3: according to A right Scutiny as will appeare aft<ex>e</ex>r <lb/>
+            yett nowe to obtayne the Vniversitye Seale w<ex>hi</ex>ch is another <lb/>
+            difficultie as being to passe  the Ordinarye waye of passinge, <lb/>
+            all Grace els, namelye throughe the approbat<ex>i</ex>on of <ex>th</ex>e Heades <lb/>
+            of Our Senate chosen each yeere by the Bodye each of which <lb/>
+            haue negatiue voyces to stopp anye thinge, and w<ex>hi</ex>ch allsoe <lb/>
+            is to passe throughe both houses, for soe it seemed good to o<ex>u</ex>r <lb/>
+            Freindes that the approbac<ex>i</ex>on of him that was chosen and co<ex>n</ex> <lb/>
+            firmed in this honour shall every way be manifested and <lb/>
+            throughlye be sifted ere he be confirmed in it And <unclear>thence</unclear> <lb/>
+            <fw type="catch" place="bot-right">beinge</fw>
+            <pb n="318r" facs="/bl/add_ms_22591/add_ms_22591_f318r/add_ms_22591_f318r.jpg"/>
+            being one of theise heades, whoe onlye of all the Doctors was <lb/>
+            against the Duke, whoe had he knowne it to haue bine carryed <lb/>
+            by soe Fewe, would haue stopt the Seale, till the granting of the <lb/>
+            voyces had bine further examined, to pr<ex>e</ex>vent this, therefore <lb/>
+            Doctor Wilson one of the Scantators whoe should haue bine <lb/>
+            sworne gave it out to him that it was carryed by .27. Voyces, <lb/>
+            he then supposing now mistake or for foule dealing could bee <lb/>
+            suspected in soe greate an over plus, willinglye passed the <lb/>
+            Seale, w<ex>hi</ex>ch els he would not haue done, for that all  theise <lb/>
+            thinges well weighed, the wonder is that there should be soe <lb/>
+            Stronge and ioyne an opposition, A wonder rather <ex>tha</ex>t theis <lb/>
+            potent men w<ex>i</ex>th their Long Tayles, and serpentine practises <lb/>
+            should not haue secuded and drawne awaye their p<ex>ar</ex>ts of this <lb/>
+            Vniversitie, one man pr<ex>e</ex>vayling soe in one Colledge, as to <lb/>
+            drawe 43. after him, w<ex>hi</ex>ch number made aboue A third part <lb/>
+            of them w<ex>hi</ex>ch gave w<ex>i</ex>th the Doctor, in all being 108: voyces, as <lb/>
+            allsoe two other m<ex>aste</ex>rs in their Colledges, did whollye carrye <lb/>
+            them their waye w<ex>i</ex>th greate defection arising to the no<ex>m</ex>ber <lb/>
+            of aboue 70: must needes discourage all the rest, who could <lb/>
+            not but be assured that their m<ex>aste</ex>rs bestirred themselves as <lb/>
+            well as they espetiallye seeing the Adverse p<ex>ar</ex>tie said noe <lb/>
+            noble man that did appeare, or that they knewe durst <del rend="strikethrough">not</del> <lb/>
+            appeare as A Corrivall w<ex>i</ex>th the Duke to soe greate An <lb/>
+            honor, and therefore must needes be dishasted according to <lb/>
+            mens severall good opynions of noble men eligible, as in=<lb break="no"/>
+            deed at the First they were Severed into small severall Co<ex>m</ex> <lb/>
+            panyes, and at least when they begann more neerely to <unclear>wy<ex>n</ex>e</unclear> <lb/>
+            and vnite their Force, yet still they made two Companyes &amp; <lb/>
+            besydes the Dukes, some being for the pr<ex>e</ex>sent Lord Keep<ex>er</ex>, whose <lb/>
+            Suite some Chaplynes and Freindes of his p<ex>ro</ex>secuted w<ex>i</ex>th <lb/>
+            muche heate to the verye Night late, before the Electio<ex>n</ex>, w<ex>hi</ex>ch <lb/>
+            was to be the next daye Morning at 9: of the Clocke, Which <lb/>
+            distracc<ex>i</ex>on and late uniting must need<ex>es</ex> disadvantage the p<ex>ar</ex>tie <lb/>
+            against the Duke, For both the dukes agents in the intermyn <lb/>
+            of this distracc<ex>i</ex>on supposing the Lord Keper might easilye by <lb/>
+            the D<ex>octor</ex> in regard of the Dependaunce of his Office be wroughte <lb/>
+            to sett downe, therefore visited men in the <unclear>Sec<unclear/>
+                </unclear> Place for the <lb/>
+            D<ex>octor</ex> <ex>i</ex>f soe bee the Lord Keeper did not stand at leastwise that <lb/>
+            the would sett downe, w<ex>hi</ex>ch manye yeelded Vnto as an easye <lb/>
+            request, Besydes this soe late disadvantaged them allso in <lb/>
+            that nowe they had but next Morning before 9: to pitch gen<ex>er</ex>=<lb break="no"/>
+            allye one on Man And this allsoe was to be done before they <lb/>
+            came to the Congragatio<ex>n</ex> for the Elecc<ex>i</ex>on, for that the Election <lb/>
+            being to be carryed by Suffrage written naminge the<ex>m</ex>selves <lb/>
+            the Choosers, and p<ex>ar</ex>ties Chosen by their  owne handes, this was to <lb/>
+            be done before, as allsoe because it is ordered by Stat<ex>ute</ex> which <lb/>
+            is vrged by this Vice Chau<ex>n</ex>cellor that men should not pro=<lb break="no"/>
+            miscuouslye, or tumultuouslye talke w<ex>i</ex>th one another in <ex>th</ex>e house, <lb/>
+            yett soe deligent were some the next morning and men Soe <lb/>
+            resolute as that they <unclear>wyntlye</unclear> pitched vpo<ex>n</ex> the Lord Tho<ex>mas</ex> Howard <lb/>
+            second Sonne to our late deceased Chau<ex>n</ex>cellor E<ex>arl</ex> of Barksheir <lb/>
+            and this allthoughe they had noe head appearing for him, not <lb/>
+            one man in the Vniversitie that had any reference to him, or <lb/>
+            pr<ex>i</ex>vate Interest in him, he having but one m<ex>aste</ex>r Clester <add place="above">either</add> his  <lb/>
+            Chaplayne, or otherwise interested to him wee heard of and <lb/>
+            <fw type="catch" place="bot-right">hee</fw>
+            <pb n="318v" facs="/bl/add_ms_22591/add_ms_22591_f318v/add_ms_22591_f318v.jpg"/>
+            hee then absent, soe as men could haue noe private ende in <lb/>
+            choosing him, but the publique Good, and yett notw<ex>i</ex>thstandinge <lb/>
+            all theise disadvantanges it is wonderfull to consider howe <lb/>
+            narrowlye this Election of the Lord Barksheire was disapointed <lb/>
+            and howe manye wayes otherwise it had over ballanced the <lb/>
+            other, God therein manefesting his ymediate hand that he had <ex>th</ex>e <lb/>
+            Casting voyce, for <ex>th</ex>e Duke had but 108: voyces the other 103 
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> of the Dukes 2 were absolutlye voyde according to <lb/>
+            Statute, they being given the vice Chau<ex>n</ex>cellors but by Co<ex>m</ex>p<ex>ro</ex>mise <lb/>
+            to hime to dispose of, he casting them vpon the Duke, w<ex>hi</ex>ch Statute <lb/>
+            allowed not, soe the number exceeds but three, And before that <lb/>
+            one of o<ex>u</ex>rs had bine falslye accepted against for that the vot<ex>e</ex>r came <lb/>
+            in his Boots, w<ex>hi</ex>ch thoughe punishable in the Purse, yett not w<ex>i</ex>th <lb/>
+            the Forfeiture of his voyce, w<ex>hi</ex>ch yet Doctor Paske accepted against <lb/>
+            in English and was refused by the Vice Chau<ex>n</ex>cellor, <ex>th</ex>e Statute <lb/>
+            laying more hold on<del rend="strikethrough">e</del> the one for speaking English then the other, <lb/>
+            Soe as nowe there is right and Equallitie w<ex>i</ex>thin 2: voyces, Nowe <lb/>
+            First A more reall acception and w<ex>hi</ex>ch the Statute will beare out <lb/>
+            might be had (<ex>i</ex>f thinges were not nowe done) against 6: or 7: of <lb/>
+            the Suffrage for the Duke, Now mentioning either his <hi rend="italic">Surname</hi>  <lb/>
+            or forname as the Statut<ex>e</ex> expresslye requires. There is one <lb/>
+            Waye, two there were, three wee could Challendge, <ex>tha</ex>t absolutly <lb/>
+            p<ex>ro</ex>mised over Night, and were wrested to giue w<ex>i</ex>th him the next <lb/>
+            daye, w<ex>hi</ex>ch was the losse of three to the opposite p<ex>ar</ex>tie and gaine <lb/>
+            of three to him, Besides others that had fixedlye resolved ag<ex>ain</ex>st <lb/>
+            him were intreated to ryde fourth of Towne, besydes two oth<ex>e</ex>rs <lb/>
+            through that streight of Tyme things were cast into were not <lb/>
+            visitied that morninge and soe came not fourth, and when called <lb/>
+            came to late, that would haue given Besydes 7: in one Colledge <lb/>
+            that would haue bene ferme against the Duke were that Weeke <lb/>
+            absent vpon sett occasions, Besydes three others that had engaged <lb/>
+            themselves against the Duke. vpon the Mundaye were drawne <lb/>
+            awaye by busines A daye or two before, twoe of w<ex>hi</ex>ch retou<ex>r</ex>ned <lb/>
+            that weeke/
+         </p>
+         <p>
+            <hi rend="bold">M<ex>aste</ex>r</hi> Chester allsoe A man gratious especiallye in that <lb/>
+            Colledge where the greatest Blowe was given whoe mighte <lb/>
+            easilye haue obtayned two or three voyces, there, or in the Towne <lb/>
+            for his Lord was allsoe then awaye
+         </p>
+         <p>
+            <hi rend="bold">Lastlye</hi> three horses being sent severall wayes in to the <lb/>
+            Countrye one for Ministers as fearing the Duke p<ex>ar</ex>tie would doe <lb/>
+            the like, those to whom two of those were sent were vnexpected <lb/>
+            lye Sicke and the thire p<ex>ro</ex>curing 3 to come that morning 20: myles <lb/>
+            whoe thoughe they came tyme enoughe, yett missing the Time when <lb/>
+            they should haue gownes and instrucc<ex>i</ex>on whom to giue w<ex>hi</ex>ch w<ex>i</ex>th <lb/>
+            they were appointed to come to theire voyces were lost
+         </p>
+         <p>
+            <hi rend="bold">Thus</hi> and thus hardlye was this greate busines effected <lb/>
+            and carryed throughe by the heads of Colledges and Doctors <lb/>
+            whose act it maye be more p<ex>ro</ex>perlye Said then of the Bodye of <lb/>
+            the Vniversitye, of w<ex>hi</ex>ch the greater p<ex>ar</ex>te appeared against <ex>th</ex>e <lb/>
+            Duke, for there were 17: doctors for him, and one onlye against <lb/>
+            him, allsoe of the Bodye the younger sorte namelye <ex>tha</ex>t Regents <lb/>
+            whoe are M<ex>aste</ex>rs of Art<ex>es</ex> of 5: yeeres and vnder were stronge <lb/>
+            and Resolute against the Duke there being 30: voyces Con=<lb break="no"/>
+            sisting in the Doctors and non Regents in w<ex>hi</ex>ch he exceeded Three <lb/>
+            were allsoe 4: entire Colledges against him notw<ex>i</ex>thstanding <lb/>
+            all the meanes made by their M<ex>aste</ex>rs But in other Colledges <ex>th</ex>e m<ex>aste</ex>rs <lb/>
+            Swaied the  most p<ex>ar</ex>te or all, or manye to giue w<ex>i</ex>th the Duke or <lb/>
+            <fw type="catch" place="bot-right">sett</fw>
+            <pb n="319r" facs="/bl/add_ms_22591/add_ms_22591_f319r/add_ms_22591_f319r.jpg"/>
+            sett downe, And soe Potent are they in what thing soever <lb/>
+            so they lift to sett themselves about, that the thinge is scarslye <lb/>
+            to be ymagined w<ex>hi</ex>ch they cannot effecte, if they will through <lb/>
+            lye interest themselves in it, And to this purpose it was not <lb/>
+            to be forgotten that about a Fortnight before the death of <lb/>
+            the Earle of Suffolke our late Chau<ex>n</ex>cellor some freindes <lb/>
+            being togither in A Colledge in Cambridge discou<ex>r</ex>sing of <lb/>
+            the greate Powers of the Heades theire <del rend="strikethrough">op</del> omnipotency to do <lb/>
+            anye thinge, Instance was made by one, whoe chaunced to <lb/>
+            saye he durst laye A Wager that if the Chancellor should dy <lb/>
+            they could and would if put vpon it by the Courte choose the <lb/>
+            Duke notw<ex>i</ex>thistanding what the Parlyam<ex>en</ex>t had done, w<ex>hi</ex>ch speech <lb/>
+            at once pointed at their exorbitant power and p<ex>ro</ex>clivitie and <lb/>
+            readines to sett themselves in grace by anye practise this <lb/>
+            was scarce gainsiad by those that were pr<ex>e</ex>sent though estee=<lb break="no"/>
+            med the highest <hi rend="italic">Hiperbole</hi> of speeche that men could reach <lb/>
+            to, And yett nowe they haue brought it about, and allthough <lb/>
+            it be effected, yet w<ex>i</ex>th noe great Ioye of anye but <ex>th</ex>e cheiffe <lb/>
+            stirrers in it, as appeared at the casting of it in soe great A <lb/>
+            Canvas, w<ex>hi</ex>ch vsed to be exprest in the Tryumphe of the over <lb/>
+            comminge Syde, but all was Lasht and muld as if noe Bodye <lb/>
+            were pleased, and nowe most excuse themselves, some <ex>tha</ex>t sate <lb/>
+            downe nowe vex and frett, <ex>tha</ex>t they it should misse soe neerelye <lb/>
+            by their suspending, and the Streame of mens harts, but forced <lb/>
+            vp A Contrarye waye to their free Course, by A prevaylinge <lb/>
+            Tyde of powerfull	nowe the Tyde is runne and spent, the <lb/>
+            streame turned backe againe, Repent and rayle at the<ex>m</ex>selves <lb/>
+            some of them for what they haue done /
+         </p>
+         <p rend="indent">
+            <foreign xml:lang="la">
+               <hi rend="italic">
+                  Pudet hac opprobia nobis <lb/>
+                  Et dici potuisse, et non potuisse refelli
+               </hi>
+            </foreign>
+         </p>
+         <p>
+            <hi rend="bold">Where</hi> as his ma<ex>ies</ex>ty in theise l<ex>ett</ex>res following ownes this to <lb/>
+            haue bene his pleasure, the Reason was for that the Parlyam<ex>en</ex>t <lb/>
+            attempted to call the heades in question for it, w<ex>hi</ex>ch to pr<ex>e</ex>vent <lb/>
+            and salve them hee acknowledgeth it to haue bine his pleasure <lb/>
+            yett but onlye intimated (as the l<ex>ett</ex>re hath it) And that but by an <lb/>
+            other the Bishopp of Durhams ground slender enouogh to be soe <lb/>
+            violent and beare themselves vpo<ex>n</ex> it as they did
+         </p>
+         <p>
+            <hi rend="bold">M<ex>aste</ex>r Chau<ex>n</ex>cellor</hi>
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Infinite obligac<ex>i</ex>on w<ex>hi</ex>ch I owe to the Vniu<ex>er</ex>sie of <lb/>
+            Cambridge for the late most ample Testimonye of their gr<ex>ea</ex>t <lb/>
+            loave and Affection towards me Emboldens me to borrowe <lb/>
+            yo<ex>u</ex>rselfe to make knowne vnto them my vnfayned thankfullnes, <lb/>
+            where in I confesse that the Love and Favours they haue ex <lb/>
+            pressed to mee wyned w<ex>i</ex>th the fashion of it doth farr exceede <lb/>
+            the weake expression of the soe simple A Stile as myne is, <lb/>
+            for they haue bine pleased out of their aboundant affection, <lb/>
+            to name mee to one of <ex>th</ex>e greatest honors of this Kingedome, <lb/>
+            without anye Suite or meanes of myne, w<ex>hi</ex>ch was <ex>th</ex>e Chau<ex>n</ex>=<lb break="no"/>
+            cellorshipp of the Vniversitie, the voting whereof in this <lb/>
+            noble Fashion, I account as much as could be fall mee, and <lb/>
+            receive it w<ex>i</ex>th as much thankfullnes as if it were in full <lb/>
+            possession of the Place, I must inreate you to disperse this <lb/>
+            my thankfull acknowledgm<ex>en</ex>t to all worthie Freinds there, <lb/>
+            whoe haue soe freelye bestowed theire voyces &amp; vnsought <lb/>
+            favourd vpon mee, And this labor. I doe the rather lay vpo<ex>n</ex> <lb/>
+            you, because you knowe I put you to none in making meanes <lb/>
+            for mee, w<ex>hi</ex>ch I should vndoubtedlye haue done if I had pr<ex>e</ex> <lb/>
+            conceived anie intenc<ex>i</ex>on of Standing for this dignitie so often <lb/>
+            <fw type="catch" place="bot-right">wedded</fw>
+            <pb n="319v" facs="/bl/add_ms_22591/add_ms_22591_f319v/add_ms_22591_f319v.jpg"/>
+            wedded by men of highe places and noble Families of <lb/>
+            his Realme, where of my honored Father deceased enioyed <lb/>
+            the late Testimonye, and my vncle before him, &amp; not ceasing <lb/>
+            there but expr<ex>e</ex>ssed vnto mee Now by hereditarye Affection <lb/>
+            Thus much I praye you make knowne for me w<ex>i</ex>th fu<ex>r</ex>th<ex>e</ex>r Assura<ex>n</ex>ce <lb/>
+            that as  I had my First breedinge to my greate honor in Ca<ex>m</ex>bridg <lb/>
+            Soe I will alive and dye.
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">
+               True seruant of the Vniu<ex>er</ex>sitye <lb/>
+               Barksheire
+            </hi>
+         </p>
+         <p>
+            <add place="LM">
+               S<ex>ain</ex>t James .20 of <lb/>
+               June . 1636
+            </add>
+            <hi rend="bold">M<ex>aste</ex>r</hi> Vice Chancellor and Gent<ex>lemen</ex> of the Vniversitie of Ca<ex>m</ex> <lb/>
+            bridge there is noe one thinge that concerneth mee more deare <lb/>
+            then good opinion of learned and honest men, among which <lb/>
+            Nomber as you haue ever held first ranke in the Estimac<ex>i</ex>on <lb/>
+            of the Comon Wealthe and Fame of the Christian world so in <lb/>
+            Conferring the honor of yo<ex>u</ex>r Chancellorshipp vpon mee, I must <lb/>
+            Confesse you haue satisfied A great Ambition of mine owne, <lb/>
+            w<ex>hi</ex>ch I hope will never forsake mee and that is to be thought well <lb/>
+            of by men that deserue well and men of yo<ex>u</ex>r Profession, yett I <lb/>
+            Cannott attribute this honor to anye deserte in mee but to A <lb/>
+            respect you beare to the sacred memorye of my dead m<ex>aste</ex>r <ex>th</ex>e King <lb/>
+            of Schollers, whoe loved you and honoured you often w<ex>i</ex>th his <lb/>
+            pr<ex>e</ex>sence, and to my gratious m<ex>aste</ex>r nowe living, whoe inheritts w<ex>i</ex>th <lb/>
+            his blessed Fathers vertues the Affection he bare yo<ex>u</ex>r Vniu<ex>er</ex>sity <lb/>
+            I beseech you as you haue nowe made yo<ex>u</ex>r Choise w<ex>i</ex>th soe manye <lb/>
+            kinde and Noble Circu<ex>m</ex>stances, as <ex>th</ex>e Mannor is to me asmuch <lb/>
+            as the Matter Soe to assure yo<ex>u</ex>r selves that you haue cast your <lb/>
+            Votes vpo<ex>n</ex> yo<ex>u</ex>r servant, whoe is as appr<ex>e</ex>hensiue of the tyme you <lb/>
+            haue shewed yo<ex>u</ex>r Affection in as of the honor you gaue him And <lb/>
+            I earnestlie request you all that you would be pleased not to <lb/>
+            <unclear>iude</unclear> me comparativelye by the successe and happynes you <lb/>
+            haue had in yo<ex>u</ex>r former choise of Chancellors: where as they <lb/>
+            knowe better p<ex>er</ex>haps by advantage of educac<ex>i</ex>on in yo<ex>u</ex>r Vniu<ex>er</ex>=<lb break="no"/>
+            sitie how to vallue the deserts of men of  yo<ex>u</ex>r quallities and <lb/>
+            degrees soe could they not be more willing<del rend="strikethrough">lye</del> to cherrishe <lb/>
+            then my selfe, whoe will make amends for want of  Schollership <lb/>
+            in my Love vnto the p<ex>ro</ex>fessors of it and vnto the <unclear>Scourse</unclear> from <lb/>
+            whence it cometh, hauing nowe most iust Cause more cheifflye <lb/>
+            to ymploye my vtmost Indeavors w<ex>i</ex>th that Favor I enioy from <lb/>
+            A Royall m<ex>aste</ex>r to the Maineteyning of their Charters, Pr<ex>i</ex>viledg<ex>es</ex> <lb/>
+            and immunities of the Vniversities in generall, and to the <lb/>
+            Advau<ex>n</ex>cinge of the p<ex>ar</ex>ticuler merritts of the Students there in <lb/>
+            And since I am soe farre ingaged vnto you I will presume <lb/>
+            vppon A Further Curtesye, w<ex>hi</ex>ch is that you would be pleased <lb/>
+            to supplye me w<ex>i</ex>th yo<ex>u</ex>r Advise, and <unclear/> A waye vnto <lb/>
+            mee (as my selfe likewise shall not fayle to thinke vpo<ex>n</ex> some <lb/>
+            meanes) howe wee maye make posteritie remember you had <lb/>
+            A Thankfull Chau<ex>n</ex>cellor, and one that both reallye loved you <lb/>
+            and yo<ex>u</ex>r Vniversitye w<ex>hi</ex>ch is A Resolution writt in an honest <lb/>
+            harte, by him that wanteth much to expresse his Affecc<ex>i</ex>on <lb/>
+            to you, whoe will ever bee
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">yo<ex>u</ex>r faithfull freind &amp; hu<ex>m</ex>ble serv<ex>an</ex>t</hi> <lb/>
+            <hi rend="italic">Georg<ex>e</ex> Buckingha<ex>m</ex> /</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f316r/add_ms_22591_f316r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f316v/add_ms_22591_f316v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f317r/add_ms_22591_f317r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f317v/add_ms_22591_f317v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f318r/add_ms_22591_f318r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f318v/add_ms_22591_f318v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f319r/add_ms_22591_f319r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f319v/add_ms_22591_f319v.jpg"/>
+   </facsimile>
+</TEI>

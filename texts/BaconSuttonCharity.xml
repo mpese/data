@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opinion on Sutton's Charity</title>
+            <author>
+               <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+            <respStmt xml:id="PH">
+               <name>Peter Hammond</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_830">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 830</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS830.xml">British Library, Harley MS 830, ff. 53r–60v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b50.xml">Beinecke Library, Osborn b50, ff. 17r–30v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UCL_Ogden_MS_7_45.xml">UCL, Ogden MS 7/45, ff. 3r–5r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1618">1618?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>discourse</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>charity</term>
+               <term>hospitals</term>
+               <term>Sutton Hospital</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-18" who="#TW" status="proofread"/>
+            <change when="2018-04-12" who="#RB" status="draft"/>
+            <change when="2018-03-22" who="#PH" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="265v" facs="/bl/add_ms_22591/add_ms_22591_f265v/add_ms_22591_f265v.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               A <lb/>
+               discourse to king James touching Sucto<ex>n</ex>s <lb/>
+               hospitall
+            </hi>
+         </head>
+         <p>
+            <hi rend="bold">Maye it please your Ma<ex>jes</ex>ty</hi>
+         </p>
+         <p>
+            I finde A possitiue precept of the Old Lawe/ That there shal <lb/>
+            bee noe Sacrifice w<ex>i</ex>th out Salt, The Morall whereof besides <ex>th</ex>e <lb/>
+            Ceremonye, maye be, that God is not pleased w<ex>i</ex>th the Bodye of <lb/>
+            A good intention, except it be seasoned w<ex>i</ex>th that Spirrituall wise<lb break="no"/>
+            dome and Iudgment, as it be not easilye Subiect to be corrupted <lb/>
+            and perverted, For Salt in the Scripture is A Figure bothe of <lb/>
+            Wisdome and learning. This Cometh into my Mynde vpo<ex>n</ex> this Act <lb/>
+            of Mr Sutton, w<ex>hi</ex>ch seemeth to  mee as A Sacrifice w<ex>i</ex>th out salt,	 <lb/>
+            being the Matterialls of A good intencion, but not powdered <lb/>
+            w<ex>i</ex>th  anye suche Ordinances and Sustituc<ex>i</ex>ons as maye p<ex>re</ex>serue the <lb/>
+            same from turning Corrupt, or at least fro<ex>m</ex> becoming vnsaverye <lb/>
+            and of little vse, For though the Choice of the Feoffees be of the <lb/>
+            best, yet neither can they allwayes liue, and the verye Nature <lb/>
+            of the worke it selfe, in the Vast &amp; vnfitt p<ex>ro</ex>porc<ex>i</ex>ons thereof, being <lb/>
+            apt to  provoce an Imploym<ex>en</ex>t It is noe diligence of theirs (except <lb/>
+            there be A digression fro<ex>m</ex> that Modell) that can excuse it from <lb/>
+            runinge some waye, That guifts of like condic<ex>i</ex>on haue heretofore <lb/>
+            donne, For to designe the Charterhouse, A building fitt for Princes <lb/>
+            habitac<ex>i</ex>on for an hospitall, is all one, as if one should giue in <lb/>
+            Almes A Riche imbrodered cloake to A Bagger, And certain<lb break="no"/>
+            lye A man maye see (<foreign xml:lang="la">
+                    <hi rend="italics">tanquam quæ oculis cernunter</hi>
+                </foreign>) that if <lb/>
+            such an Edifice w<ex>i</ex>th Sixe thousand poundes revenue; be erected <lb/>
+            into one Hospital, it will in A small tyme degenerate and made <lb/>
+            A p<ex>re</ex>ferrm<ex>en</ex>t of some greate p<ex>er</ex>son to be m<ex>aste</ex>r, and he to take all the <lb/>
+            sweete, and the Poore to be stinted, and take but the Cru<ex>m</ex>mes as it <lb/>
+            cometh to passe in divers Hospitalls of this Realme, w<ex>hi</ex>ch haue <lb/>
+            but the names of Hospitalls, and are but wealthy Benefices in <lb/>
+            respecte of the Maist<ex>e</ex>rshipp, but the poore w<ex>hi</ex>ch is the <foreign xml:lang="la">
+                    <hi rend="italic">Propter <lb/>
+            quid</hi>
+                </foreign>, little releeved. And the like hath bine <ex>th</ex>e Fortune of much of <lb/>
+            the Almes of the Roman Religion in their great Foundacons, w<ex>hi</ex>ch <lb/>
+            being begunn in Vaine glorye and ostentac<ex>i</ex>on, haue had theire <lb/>
+            Iudgement vpon them to end in Corrupc<ex>i</ex>on and abuse This Me=<lb break="no"/>
+            ditac<ex>i</ex>on hath made mee p<ex>re</ex>sume, to writt theis few Lynes to yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tye, being noe better then good wishes, w<ex>hi</ex>ch  yo<ex>u</ex>r ma<ex>jes</ex>tyes great <lb/>
+            wisedome, maye make something or Nothing of 
+         </p>
+         <p>
+            <hi rend="bold">Wherein</hi> I desire to be thus vnderstood. That if the Fou<ex>n</ex>dac<ex>i</ex>on <lb/>
+            (such as it is) be p<ex>er</ex>fecte and good in Lawe, then I am to well acqain<lb break="no"/>
+            ted w<ex>i</ex>th yo<ex>u</ex>r Ma<ex>jes</ex>tys disposicion to advise any Course of power or <lb/>
+            p<ex>ro</ex>fit, <ex>tha</ex>t is not grou<ex>n</ex>ded vpo<ex>n</ex> A right, Naye further, if the defects <lb/>
+            be such as A Courte of Equitie maye remedye &amp; cure, then I wish <lb/>
+            that as St Peters shawdowe did cure deseases, Soe the very shadowe <lb/>
+            of A good Intentio<ex>n</ex> maye cure defects of that nature
+         </p>
+         <p>
+            <hi rend="bold">But</hi> if there be A right, and Birthright planted in the heire <lb/>
+            and not remediable by the Courte of Equitie, And that right be <lb/>
+            submitted to yo<ex>u</ex>r ma<ex>jes</ex>tye, whereby it is both in yo<ex>u</ex>r Power, &amp; grace <lb/>
+            what to doe, Then I doe wishe that the ende and Chaos of a <lb/>
+            good deede, were directed rather to solide merritt and durable <lb/>
+            Charitie, then to A Blaze of Glorye, that will but crackle a litle <lb/>
+            in talke, and quickelye extinguish, And this maye be done obser<lb break="no"/>
+            vinge the Species of Mr Suttons intent, though varyinge in <lb/>
+            diuidue For it appeares that he had A Notion A triple good <lb/>
+            An Hospitall and A schoole and maintayning of A preacher <lb/>
+            w<ex>hi</ex>ch Individualls resorte to these three generall heads, releefe <lb/>
+            of Poore, Advancem<ex>en</ex>t of Learning, and p<ex>ro</ex>pogation of Religio<ex>n</ex> <lb/>
+            Nowe then if I shall sett forthe before yo<ex>u</ex>r ma<ex>jes</ex>tye in every of <lb/>
+            these three kindes, w<ex>ha</ex>t it is most wanting in the kingdome, and <lb/>
+            what is like to bee most fruitfull &amp; effectuall vse of suche A <lb/>
+            <fw type="catch" place="bot-right">Benefice</fw>
+            <pb n="266r" facs="/bl/add_ms_22591/add_ms_22591_f266r/add_ms_22591_f266r.jpg"/>
+            Benefice, and least like to be perverted
+         </p>
+         <p>
+            <hi rend="bold">That</hi> (I thinke) should be noe ill scope of my Labo<ex>u</ex>r, how meanly <lb/>
+            soever p<ex>er</ex>formed For out of varietie repr<ex>e</ex>sented elecc<ex>i</ex>on maye bee <lb/>
+            best grounded. Concerning the releefe of the Poore I hold some <lb/>
+            number of Hospitalls w<ex>i</ex>th Competent Endowem<ex>en</ex>tes will doe farre <lb/>
+            more good then one Hospitall of an exhorbitant greatnes, For <lb/>
+            thoughe <ex>th</ex>e one Course wilbe more seene, yet the other wilbe more felt <lb/>
+            for if yo<ex>u</ex>r ma<ex>jes</ex>tye erect manye, besydes observing the ordinarye <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Maxime Bonum quo Comunius eo melius</hi>
+                </foreign>; Choise maye be made of <lb/>
+            tho<del rend="strikethrough">
+                    <gap reason="illegible" quantity="2" unit="chars"/>
+                </del> Townes and places where there is most neede, and soe <ex>th</ex>e reme<lb break="no"/>
+            dye maye be distributed, as the desease is dispersed, Againe gre<ex>a</ex>t<lb break="no"/>
+            nes of releefe accumelate in one place doth rather invite A <lb/>
+            swarme and surcharge of poore, then releeve those <ex>tha</ex>t are naturally <lb/>
+            bredd in that place, like to ill tempored Medicines <ex>tha</ex>t draw more <lb/>
+            humor to the  p<ex>ar</ex>te, then they evacuate from it, But cheifely I relye <lb/>
+            vpon the Reason, that I touched in the begin<ex>n</ex>ing That in these great <lb/>
+            Hospitalls, the Revenue will drawe <ex>th</ex>e vse &amp; not the vse <ex>th</ex>e Reuen<add place="above">u</add>es <lb/>
+            And soe though the masse of their wealth they will swiftly tu<ex>m</ex>ble <lb/>
+            downe to A misimploym<ex>en</ex>t And if the man saye, that in the twoe <lb/>
+            Hospitalls of London, there is A pr<ex>e</ex>sident of greatnes, co<ex>n</ex>cerning <lb/>
+            w<ex>i</ex>th good imploym<ex>en</ex>t, let him consider that those Hospitalls haue a manual <lb/>
+            governo<ex>r</ex>s That they are vnder the Superior care, and pollicye of <del rend="strikethrough">a</del> <lb/>
+            such A state, as the Cittie of London, and cheiffelye <ex>tha</ex>t <ex>the</ex>ir reueneus <lb/>
+            consist, not vpon certentyes, but casualties, and free guiftes, w<ex>hi</ex>ch quickly <lb/>
+            would be w<ex>i</ex>thheld, if they appeared once to be perverted, Soe <ex>tha</ex>t <lb/>
+            it keepeth them in A continuall good behauiour, and awe to ymploye <lb/>
+            them right, none of w<ex>hi</ex>ch points doe match w<ex>i</ex>th <ex>th</ex>e p<ex>re</ex>sent Case
+         </p>
+         <p>
+            <hi rend="bold">The</hi> next consierac<ex>i</ex>on maye be, whether this intended Hospitall <lb/>
+            as it hath A more ample Endowem<ex>en</ex>t then oth<ex>e</ex>r Hospitalls should not <lb/>
+            likewise worke vpo<ex>n</ex> A better Subiect then other poore ones, And <ex>tha</ex>t <lb/>
+            it should be converted to the releefe of mamed Soldiers, decayed <lb/>
+            Marchants, and householders Aged, and destutate Churchman, and <lb/>
+            the like, whose condit<ex>i</ex>on, being of A better sorte, then loose people &amp; <lb/>
+            beggars, deserveth both A more liberall Stipend and allowance &amp; <lb/>
+            some p<ex>ro</ex>per place of releefe, not intermingled or coupled w<ex>i</ex>th the <lb/>
+            basest sorte of Poore, w<ex>hi</ex>ch proiect thoughe spacious, yet in my Iudg=<lb break="no"/>
+            ment, will not au<ex>n</ex>swere the disignem<ex>en</ex>t in the Event in thos our tymes <lb/>
+            For certainlye few men in any vocacion, w<ex>hi</ex>ch have bine some body <lb/>
+            and beare A mynde some w<ex>ha</ex>t according to the Conscience &amp; rem<ex>m</ex>ebra<ex>n</ex>ce <lb/>
+            of that they haue bene will ever descend to that Condic<ex>i</ex>on, as to p<ex>ro</ex>= <lb break="no"/>
+            fesse to liue vpon Almes, and to become a Corporac<ex>i</ex>on of declared <lb/>
+            Beggars, but rather will chuse to liue obscurelye, and as it were to <lb/>
+            hide them selves w<ex>i</ex>th some private Freinds, Soe that the End will bee <lb/>
+            of suche an Instituc<ex>i</ex>on, that it will make the place a receptacle of <lb/>
+            the worst, idlest and  most dissolute p<ex>er</ex>sons of everye p<ex>ro</ex>fession, and <lb/>
+            become A Cell of Loyterers, and Crost serving men &amp; dru<ex>n</ex>kerds <lb/>
+            w<ex>i</ex>th scandall rather then Fruite to Com<ex>m</ex>o<ex>n</ex> wealthe, And of this kind <lb/>
+            I can finde but one Example w<ex>i</ex>th vs, w<ex>hi</ex>ch is the Almes knights of <lb/>
+            Windsore, w<ex>hi</ex>ch p<ex>ar</ex>ticuler would giue small encouragem<ex>en</ex>t to follow <lb/>
+            that pe<ex>e</ex>sident
+         </p>
+         <p>
+            <hi rend="bold">Therefore</hi> the best effecte of Hospitalls, is to make <ex>th</ex>e Kingdome <lb/>
+            of it were possible, Capable of that Lawe, That there be no Begg<ex>e</ex>rs <lb/>
+            in Israell For it is that kinde of people, that is A burthen, an Eye <lb/>
+            sore, a Scandall and A seed of perrill, and tumult in A State But <lb/>
+            cheiflye it were to be wished, that such A Benefice are towards the <lb/>
+            Releefe, were soe bestowed, as not onlye mere and naked poore should <lb/>
+            be sustained but allsoe that the honest person w<ex>hi</ex>ch hath heard meanes <lb/>
+            to liue, vpon whom the poore are nowe charged, should be in some <lb/>
+            Sorte Eased; For that were A worke generallie acceptable to <lb/>
+            the kingdome, if the publique hand of Almes might spare idle <lb/>
+            Landes of Taxe. And therefore of all other ymploym<ex>en</ex>tes of this kind <lb/>
+            I commend most houses of releefe and Correction w<ex>hi</ex>ch are mixte <lb/>
+            Hospitalls, where the impotent person is releeved/ &amp; <ex>th</ex>e sturdy <lb/>
+            Beggar buckled to worke/ and the vnable p<ex>er</ex>son allsoe nott <lb/>
+            <fw type="catch" place="bot-right">mainetayned</fw>
+            <pb n="266v" facs="/bl/add_ms_22591/add_ms_22591_f266v/add_ms_22591_f266v.jpg"/>
+            mainetayned to be idle, w<ex>hi</ex>ch is ever ioyned w<ex>i</ex>th dronkenesse &amp; <lb/>
+            impuritie, but is sorted w<ex>i</ex>th such worke as he cann manage and p<ex>er</ex>
+                <lb break="no"/>
+            forme And where the vse are not distinguished, as in oth<ex>e</ex>r Hospitalls <lb/>
+            where of some are for aged and impotentes, some for Children, <lb/>
+            and some for Correction of Vagabonds, but are generall &amp; pro= <lb break="no"/>
+            miscuous, that maye take of Poore of everye sorte fro<ex>m</ex> <ex>th</ex>e Cou<ex>n</ex>try <lb/>
+            breeds them, And thus the Poore themselves shall finde <ex>th</ex>e p<ex>ro</ex>uision <lb/>
+            and other good people the Sweetnes of <ex>th</ex>e abatem<ex>en</ex>t of the Taxe
+         </p>
+         <p>
+            <hi rend="bold">And</hi> nowe if it be obiected, that houses of Correction in all <lb/>
+            places have not done the good expected (as it cannot be denyed, <lb/>
+            but in most places they haue done muche good) It must be reme<ex>m</ex>
+                <lb break="no"/>
+            bred that there is greate difference between that w<ex>hi</ex>ch is donne <lb/>
+            by the distracted goverm<ex>en</ex>t of Iustices of Peace/ and that w<ex>hi</ex>ch maye <lb/>
+            be done by A setled ordinance subiect raguler visitec<ex>i</ex>on as this may <lb/>
+            be And besydes the want hath bene Comonlye in houses of correctio<ex>n</ex> <lb/>
+            of A Competent and certain meanes for the materialls of the <lb/>
+            labour, w<ex>hi</ex>ch in this Case maye be likewise supplyed/
+         </p>
+         <p>
+            <hi rend="bold">Concerning</hi> the Advance<ex>m</ex>ent of learning. I doe subscribe to <lb/>
+            the opynion of one of the wisest and gravest men of our kingdome, <lb/>
+            That for Grammer Schooles, there are allreadye to many And <lb/>
+            therefore noe p<ex>ro</ex>vidence to add where there is excesse, For the <lb/>
+            Number of Schooles, w<ex>i</ex>thin yo<ex>u</ex>r highnes Realme doth cause A <lb/>
+            want, and Doth cause likewise an over<del rend="italic">th</del>flowe, both of the<ex>m</ex> incon=<lb break="no"/>
+            venient, and one of them dau<ex>n</ex>gerous, For by meanes thereof they <lb/>
+            finde want in the Cou<ex>n</ex>trye and Townes, both of Servants for hus= <lb break="no"/>
+            bandrye, and apprentices, and for trade, and one the other syde <lb/>
+            there being more schollers breed then the State can p<ex>re</ex>ferre &amp; <lb/>
+            imploye, And the Actiue parte of that liffe not bearing a p<ex>ro</ex>porc<ex>i</ex>on <lb/>
+            to the pr<ex>e</ex>paratiue, it must needs fall, that manye p<ex>er</ex>sons will bee <lb/>
+            breed vnfitt for other vocations, and vnprofitable for that in w<ex>hi</ex>ch <lb/>
+            they are brought vpp, w<ex>hi</ex>ch fills the Realme full of indigent, idle <lb/>
+            and wanton persons, w<ex>hi</ex>ch are but <foreign xml:lang="la">
+                    <hi rend="italic">materia cerum nouarum</hi>
+                </foreign>.
+         </p>
+         <p>
+            <hi rend="bold">Therefore</hi> in this poynt I wish Mr Suttons intention were <lb/>
+            exhibited  A degree, that, that w<ex>hi</ex>ch he ment for teachers of Chil=<lb break="no"/>
+            dren, yo<ex>u</ex>r ma<ex>jes</ex>tye would make for teachers of men, wherein it <lb/>
+            hathe bine my au<ex>n</ex>tient opinion and observation, that in <ex>th</ex>e Vni=<lb break="no"/>
+            versities of this Realme, w<ex>hi</ex>ch I take to be both of the best polliced, <lb/>
+            and of the best endowed vniversitye of Europe, there is nothing <lb/>
+            more wanting towards the florishing state of learning, then the <lb/>
+            honorable and plentifull Sallaryes of readers in Arts &amp; p<ex>ro</ex>fes=<lb break="no"/>
+            sions/ In w<ex>hi</ex>ch pointe as yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ies</ex> bountye all readye hath made a <lb/>
+            begin<ex>n</ex>ing, soe this occasion is offered of God to make A p<ex>ro</ex>ceedinge, <lb/>
+            Surelye Readers in the Chaire, are as Parents in Sciences, and <lb/>
+            deserve to enioye A Condic<ex>i</ex>on not inferior to the Children <ex>tha</ex>t imbrace <lb/>
+            the practicall parte, els one man will sit noe longer in <ex>th</ex>e chayre <lb/>
+            then till he can walke to A better p<ex>re</ex>ferrm<ex>en</ex>t, and it will come <lb/>
+            to passe as Virgile said, <foreign xml:lang="la">
+                    <hi rend="italic">vt patru<ex>m</ex> invalidi referant irenia nati</hi>
+                </foreign> <lb/>
+            For if the principall readers though the meanes of their enter<lb break="no"/>
+            taynem<ex>en</ex>t, be but men of superficiall learning, and that they shall <lb/>
+            take their Place, but in passage, it will make the Masse of Scien=<lb break="no"/>
+            ces want the Cheiffe and sollide diminsion w<ex>hi</ex>ch is depth, and to <lb/>
+            become but pettye and Compendious habitts of practise, There<lb break="no"/>
+            fore I could wishe that in both the Vniu<ex>er</ex>sityes the Lectarers, aswell <lb/>
+            of the three p<ex>ro</ex>ffessions, divinitie, Lawe, and Phisicke as of the <lb/>
+            three heades of Science Philosoplye, Arts of Speeche, and the <lb/>
+            Mathematiques were raised in theire  Penc<ex>i</ex>ons vnto 100 £  p<ex>er</ex> anu<ex>m</ex> <lb/>
+            A Peece; w<ex>hi</ex>ch though it be not neere soe greate as they are in some <lb/>
+            other places, where the greatnes doth whistle for the ablest men <lb/>
+            out of forraine  p<ex>ar</ex>ts to supplye the Chayre, yet it maye be a porc<ex>i</ex>on <lb/>
+            to content A worthie and able man, if he be likewise co<ex>n</ex>te<ex>m</ex>platiue <lb/>
+            in Nature, as those spirritts are that are fittest for Lectures <lb/>
+         </p>
+         <p>
+            <hi rend="bold">Thus</hi> maye learning in yo<ex>u</ex>r kingdome be advanced to A further <lb/>
+            hight, Learning I saye w<ex>hi</ex>ch vnder yo<ex>u</ex>r ma<ex>jes</ex>ty the most learned of <lb/>
+            kings, maye claime some degree<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> of Elevac<ex>i</ex>on
+         </p>
+         <fw type="catch" place="bot-right">
+                <hi rend="bold">Con</hi>
+            </fw>
+         <pb n="267r" facs="/bl/add_ms_22591/add_ms_22591_f267r/add_ms_22591_f267r.jpg"/>
+         <p>
+            <hi rend="bold">Conc</hi>erning p<ex>ro</ex>pogac<ex>i</ex>on of Religion I shall in fewe wordes <lb/>
+            sett before yo<ex>u</ex>r Ma<ex>jes</ex>ty  three p<ex>ro</ex>positions, none of them devises of <lb/>
+            myne owne / otherwise then as I ever approved them /  Twoe of <lb/>
+            w<ex>hi</ex>ch haue bene in agitac<ex>i</ex>on of speech / and the third Acted
+         </p>
+         <p>
+            <hi rend="bold">The</hi> First A Colledg of Controversies whereby we shall <lb/>
+            not still p<ex>ro</ex>ceed single / but shall as it were double our fyles, w<ex>hi</ex>ch <lb/>
+            certainelye wilbe found in the Encou<ex>n</ex>ter 
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Second A receipt (for I like not the word Seminarye, <lb/>
+            in respect of the vaine vowes and implicit obedience and other <lb/>
+            thinges tending to the p<ex>er</ex>turbac<ex>i</ex>on of States, and involved in that <lb/>
+            forme) of Converts to the reformed religion, either of youthe <lb/>
+            or otherwise, For I doubt but there in Spaine Italye, and in other <lb/>
+            Cou<ex>n</ex>tryes of the Papists, manye whose hearts are touched w<ex>i</ex>th <lb/>
+            A sence of those Corruptions and an acknowledgem<ex>en</ex>t of a bett<ex>e</ex>r <lb/>
+            waye, w<ex>hi</ex>ch grace is manye Tymes smothered and Choaked through <lb/>
+            A worldlye considerac<ex>i</ex>on of necessitie / men not knowing where <lb/>
+            to have Favo<ex>u</ex>r or refuge. This I hold A worke of great pyetie <lb/>
+            and A worke of greate Consequence, that wee allsoe maye be <lb/>
+            wise in our generac<ex>i</ex>on / and that the watchfull, and silent night <lb/>
+            maye be vsed aswell for sowing good seed as of Tares
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Third is, the Imitac<ex>i</ex>on of A Memorable &amp; religious <lb/>
+            Acte of Queene Elizabeth / whoe finding A Part in La<ex>n</ex>casheire <lb/>
+            to be extreamlye Backward in Religion &amp; the Benefices <lb/>
+            swallowed vpp in Impropriac<ex>i</ex>ons did by decree in <ex>th</ex>e dutchey <lb/>
+            erect Foure Stypends of 100 £ p<ex>er</ex> ann<ex>um</ex> A peece / for Preachers <lb/>
+            well chose to helpe the hartyest w<ex>hi</ex>ch haue done A greate deale <lb/>
+            of good in the p<ex>ar</ex>ts where they haue laboured / Neither doe there w<ex>an</ex>t <lb/>
+            other Corners in the Realme <ex>tha</ex>t would require for A Tyme the <lb/>
+            like extraordynarie helpes
+         </p>
+         <p>
+            <hi rend="bold">Thus</hi> haue I deliverd breifflye vnto yo<ex>u</ex>r Ma<ex>jes</ex>ty my opynio<ex>n</ex> <lb/>
+            touching the imploym<ex>en</ex>t of this Charitye, whoe by that Masse of <lb/>
+            wealthe, that was in the owner litle better then A stacke or <lb/>
+            heape of Mucke / maye be spread over the kingdome to manye <lb/>
+            fruitfull purposes / yo<ex>u</ex>r Ma<ex>jes</ex>tye planting and wateringe and <lb/>
+            God givinge the Encrease /
+         </p>
+         <p rend="align-right">
+            Finis
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f265v/add_ms_22591_f265v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f266r/add_ms_22591_f266r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f266v/add_ms_22591_f266v.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f267r/add_ms_22591_f267r.jpg"/>
+   </facsimile>
+</TEI>

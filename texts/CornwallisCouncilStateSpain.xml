@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discourse to the Lords of the Council of State in Spain</title>
+            <author>
+               <persName corresp="../people/people.xml#P0109">Sir Charles Cornwallis</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Bodley_966.xml">Bodleian Library,  MS Bodley 966, ff. 268–270</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 141r–142v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_929.xml">Bodleian Library,  MS Rawlinson C 929, ff. 48r–51v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_265.xml">Bodleian Library,  MS Tanner 265, ff. 7r–8v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1605">1605-1609?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-11" who="#RB" status="draft"/>
+            <change when="2018-02-21" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="271r" facs="/bl/add_ms_11600/add_ms_11600_f271r/add_ms_11600_f271r.jpg"/>
+         <head rend="align-centre">
+            A discourse used by S<ex>ir</ex> Charles Cornewallis knight <lb/>
+            in the tyme of his imployment in Spaine to the <lb/>
+            Lord<ex>es</ex> of the Councell of Estate there, sheweing the <lb/>
+            occasions (that if not p<ex>re</ex>vented) might endainger <lb/>
+            the peace betwixt the king<ex>es</ex> of Greate Brittaine <lb/>
+            &amp; Spayne. /
+         </head>
+         <p>
+            I say that such were my desires to continue the peace &amp; unity <lb/>
+            betwene our king<ex>es</ex>, so much affected by both their Ma<ex>jes</ex>ties <lb/>
+            soe p<ex>ro</ex>fittable to both their estates, &amp; soe much conduceing to <lb/>
+            gen<ex>er</ex>all rest &amp; quiett of all Christendome, as being nowe &amp; <lb/>
+            w<ex>i</ex>thin few weekes as I hoped to leave them &amp; to returne into myne <lb/>
+            owne Country.  I could not but sett before them these stones of <lb/>
+            offence, w<ex>hi</ex>ch being not remoued, would (in my Iudgem<ex>en</ex>t) in tyme <lb/>
+            putt the peace in p<ex>er</ex>ill of a stumble that would hardly be recou<ex>er</ex>ed <lb/>
+            w<ex>i</ex>thout a daingerous fall, if not an utter enmity betweene o<ex>u</ex>r king<ex>es</ex> <lb/>
+            and nations, I tould them I would not menc<ex>i</ex>on o<ex>u</ex>r gen<ex>er</ex>all difference <lb/>
+            in Religion, for soe wise a Councell haueing laid downe such a maxime <lb/>
+            admitting noe Controversye, that nothing earthly is more p<ex>ro</ex>p<ex>er</ex> &amp; powerfull <lb/>
+            to assure both estates &amp; quiet Christendome, then a faithfull freind= <lb break="no"/>
+            shipp betweene these Monarches, and lykewise not Ignorant <ex>tha</ex>t <lb/>
+            lawfull contract<ex>es</ex>, as well betwene Princes as p<ex>ar</ex>ticulers (though <lb/>
+            different in their faith,) are religiously to be obserued, That <lb/>
+            <hi rend="italic">Josua</hi> (although manifestly beguiled) obserued w<ex>i</ex>th <ex>th</ex>e Eybonites <lb/>
+            (though vnbeleuers) &amp; the same was punished in his posteritye <lb/>
+            for an after breach of what he had capitulated, That Dauid both <lb/>
+            a king &amp; a Prophit playnely p<ex>ro</ex>nounceth, that hee <ex>tha</ex>t desires to in= <lb break="no"/>
+            habitt heaven, is to accomplish his p<ex>ro</ex>misses &amp; contract<ex>es</ex>, although <lb/>
+            they tend to his owne p<ex>re</ex>iudice &amp; disutility. That I hould vnworthy <lb/>
+            to be soe much as though vpon that p<ex>er</ex>fidious &amp; infernall position <lb/>
+            never held by religious &amp; understanding diuines, but by godlesse and <lb/>
+            timerarious and <unclear>partialist<ex>es</ex>
+                </unclear>, That faith is not to be houlden w<ex>i</ex>th heretiques <lb/>
+            And doubted not but that the eares of both Princes ever continue <lb/>
+            stopped from the whisp<ex>er</ex>ing<ex>es</ex> of those fyrye spiritt<ex>es</ex>  of both religions <lb/>
+            that hould it not lawfull to continue amitye w<ex>i</ex>th such as meete not <lb/>
+            in the iust &amp; punctuall p<ex>ro</ex>porc<ex>i</ex>on of their openions, thereby putting <lb/>
+            vs into soe many vehement disputes &amp; doubt<ex>es</ex> what to thinke, as on <lb/>
+            all sydes wee are become irrespectiue &amp; careles of what wee doe. / <lb/>
+            I said <ex>tha</ex>t I would passe vnto those that in my Iudgement were <lb/>
+            most lykely to giue offence &amp; to hould this Tree of grace from <lb/>
+            bringing forth the desired fruite of a faithfull amity. /
+         </p>
+         <fw type="catch" place="bot-right">That</fw>
+         <pb n="270v" facs="/bl/add_ms_11600/add_ms_11600_f270v/add_ms_11600_f270v.jpg"/>
+         <p>
+            That these are in number .3. First the vunexpressed obscure &amp; <lb/>
+            vnlymitted p<ex>ar</ex>t<ex>es</ex>, w<ex>hi</ex>ch this Crew shutt<ex>es</ex> in from the commerce of <lb/>
+            straingers, Secondly the vnchristian &amp; iniurious p<ex>ro</ex>ceeding of his <lb/>
+            Ma<ex>jes</ex>ties officers in his port<ex>es</ex>, ioyned w<ex>i</ex>th the strainge &amp; unnaturall <lb/>
+            advantage  giuen them by being Iudges &amp; informers in causes <lb/>
+            wherein themselues are to haue the greatest p<ex>ar</ex>te of the benefitt. <lb/>
+            Thirdly the dishonourable shift<ex>es</ex> &amp; extremityes of delayes practised <lb/>
+            by the officers of his Treasury in deferring of paym<ex>en</ex>t<ex>es</ex> to such as his Ma<ex>jes</ex>tie <lb/>
+            oweth either for service w<ex>i</ex>th their shipps or for p<ex>ro</ex>visions taken <lb/>
+            for his owne vse &amp; for his Gallyes &amp; Garrysons, Concerneing the <lb/>
+            First <ex>tha</ex>t my purpose was not to dispute tytles, my desire beeing to <lb/>
+            quench fyre, no to kindle it. / That in those p<ex>ar</ex>t<ex>es</ex> wherein his Ma<ex>jes</ex>tie <lb/>
+            heere hath any p<ex>ro</ex>perty or possession, although some diuines, in  <lb/>
+            regard that heavens &amp; Seas are free by the law of nature, haue <lb/>
+            thought that the lyke in the Indyes gaue soundest occasion to <lb/>
+            the Spanish nation in Conscience to vse force vnto, yet reason <lb/>
+            of State may giue some Cullor of restrainte of traffique. / <lb/>
+            But for his Ma<ex>jes</ex>tie to inhabbit it in p<ex>ar</ex>t<ex>es</ex>  wherein there is neither <lb/>
+            fort nor foote w<ex>i</ex>thin his power or possession, vnder the shadowe <lb/>
+            of the authority of the Popes diuision, w<ex>i</ex>th greate reason may be <lb/>
+            controverted &amp; held an Iniury. / That I would not question <lb/>
+            the Popes Iursidicc<ex>i</ex>on, saying it sufficeith that diuines of his owne <lb/>
+            obedyence hould, That one sauiour himselfe under whose authority <lb/>
+            they clayme, disclaymed temp<ex>er</ex>all Iurisdicc<ex>i</ex>on sayeing that his <lb/>
+            kingdome was not of this world and forbad the same to his <lb/>
+            appostles, when he taught them that the Princes of the Gentiles <lb/>
+            exercised their dominion over them, but he would not haue <lb/>
+            it soe in them, And that in affirmeing that all power was giuen <lb/>
+            vnto him in heaven and in earth hee onely intended power of <lb/>
+            Conversion &amp; redemption of their sowles, not authority &amp; dominion <lb/>
+            temp<ex>er</ex>all over thir possessions, himselfe in another place <lb/>
+            saying <hi rend="italic">Quis me constituit Iudicem &amp; devisorem inter vos. / </hi>  <lb/>
+            That I would hould my selfe w<ex>i</ex>thin my owne Element &amp; end <lb/>
+            this poynt w<ex>i</ex>th example &amp; that not forraine but domesticall, &amp; of those <lb/>
+            of whose blood his Ma<ex>jes</ex>tie nowe reigneing is now p<ex>ar</ex>ticipant, &amp; from whome <lb/>
+            are discended divers of those kingdomes w<ex>hi</ex>ch he nowe possesseth. / I <lb/>
+            asked what Country, what Citty did Don <hi rend="italic">Pedro</hi> king of Aarrogon <lb/>
+            yeild vnto Charles, sonne to the French kinge, To whome Pope <lb/>
+            Martyn had giuen by authentique writeing &amp; formall Investiture the <lb/>
+            kingdome of <hi rend="italic">Arragon</hi>, <hi rend="italic">Valentia</hi> &amp; <hi rend="italic">Cataluna</hi>, that w<ex>i</ex>th no reason <lb/>
+            <fw type="catch" place="bot-right">it</fw>
+            <pb n="270r" facs="/bl/add_ms_11600/add_ms_11600_f270r/add_ms_11600_f270r.jpg"/>
+            it could be heere required. / That the king my M<ex>aste</ex>r being <lb/>
+            in forces <add place="above">by Sea</add> inferior to noe Prince upon earth in number of <lb/>
+            Subiect<ex>es</ex> &amp; able bodyes &amp; apt disposic<ex>i</ex>ons for Sea services &amp; <lb/>
+            discoveryes, superior to most, and the aboundance of his p <lb/>
+            people such as necessitates him to seeke both occupac<ex>i</ex>on &amp; <lb/>
+            evacuac<ex>i</ex>on for them, should, in regard of the Popes said <lb/>
+            p<ex>ar</ex>tic<ex>i</ex>on be restrayned from trade or setting on countryes <lb/>
+            neither subiect to his Ma<ex>jes</ex>ties  dominions, nor confined w<ex>i</ex>th his <lb/>
+            other possessed kingdomes . /  That the Outrages offered <lb/>
+            by his Ma<ex>jes</ex>ties ministers in the Port<ex>es</ex>, I might well forbeare to <lb/>
+            relate, being to most p<ex>ar</ex>te of ther Lo<ex>rdshi</ex>ps soe well knowne by the <lb/>
+            reveiwe of their cases in Councells of warr, where soe nobly <lb/>
+            &amp; w<ex>i</ex>th soe greate regard to Iustice they had overthrowne their <lb/>
+            sentence. / That in noe p<ex>ar</ex>te of the world <ex>tha</ex>t ever I read of, <lb/>
+            It hath been seene <ex>tha</ex>t the Iudge of the cause should be a p<ex>ar</ex>ty in <lb/>
+            the prey, and that what succeeds of it well appeareth, vizt. <lb/>
+            all that come before them are adiudged for confiscate, &amp; before <lb/>
+            the graunte of his Ma<ex>jes</ex>ties schedule (that the owners should haue the <lb/>
+            good<ex>es</ex> deliu<ex>er</ex>ed vpon suretyes) were sould &amp; consumed, comonly <lb/>
+            vpon an estimate of the 10th p<ex>ar</ex>te of the value thereof, de= <lb break="no"/>
+            ceiueing his Ma<ex>jes</ex>tie of the most p<ex>ar</ex>te of his p<ex>ar</ex>te, if the sentence <lb/>
+            were found Iust, or the poore m<ex>er</ex>chant of soe much of his good<ex>es</ex> <lb/>
+            if vpon reveiw they were adiudged for free, / That sithence <lb/>
+            the publicac<ex>i</ex>on of the schedule, Iuideing it a bridle to their <lb/>
+            extorting humors, either they obey it not (as in diu<ex>er</ex>s Port<ex>es</ex> is <lb/>
+            manyfest) or if they obey it soe p<ex>ro</ex>tract the dispatch &amp; difficult  <lb/>
+            the busines, as the m<ex>er</ex>chants, loth to loose tyme &amp; consume <lb/>
+            their substance in suit<ex>es</ex>, <ex>tha</ex>t are of soe long a life &amp; soe excessiue <lb/>
+            Charge in this Courte &amp; Kingdome, are enforced to come to <lb/>
+            an vunderhand composic<ex>i</ex>on w<ex>i</ex>th the officers, who, w<ex>i</ex>thout a brybe <lb/>
+            to themselues, will not be drawne to execute his Ma<ex>jes</ex>ties com<ex>m</ex>aund, <lb/>
+            and w<ex>i</ex>th a bribe are content to sett instantly free, that w<ex>hi</ex>ch before <lb/>
+            they pretended iustly to lay their hand<ex>es</ex> on as good<ex>es</ex> to be con= <lb break="no"/>
+            <add place="LM">3</add> fiscate to the use of their sou<ex>er</ex>eigne. / That the delayes of his <lb/>
+            Ma<ex>jes</ex>ties officers of his treasury, if myselfe had not p<ex>ro</ex>fe of I <lb/>
+            never would haue beleeved, that soe many were <ex>th</ex>e shift<ex>es</ex> &amp; <lb/>
+            soe many &amp; infinite the p<ex>ro</ex>tracc<ex>i</ex>ons, as were not the summe greate <lb/>
+            much better were the p<ex>ar</ex>ty to leaue it &amp; loose it, then to loose his <lb/>
+            tyme &amp; consume the rest of his dayes in sueing for it. / <lb/>
+            That those are the thing<ex>es</ex> soe much complayned of by the king  <lb/>
+            <fw type="catch" place="bot-right">my</fw>
+                <pb n="269v" facs="/bl/add_ms_11600/add_ms_11600_f269v/add_ms_11600_f269v.jpg"/>
+            my M<ex>aste</ex>r  and by the enemyes of this Crowne &amp; Kingdome soe much <lb/>
+            Inforced &amp; agravated, vpon these they giue a ground &amp; foundac<ex>i</ex>on <lb/>
+            to what they gen<ex>er</ex>ally reporte or desire of all to be.    vizt <lb/>
+            That this nation covett<ex>es</ex> all <ex>tha</ex>t is to be had, layes hand on all they <lb/>
+            can gett, and will dep<ex>ar</ex>te from nothing that by any meanes  <lb/>
+            they can hould. / That the .2. last, when they should be made knowne <lb/>
+            to his Ma<ex>jes</ex>tie I make noe doubte but he wilbe pleased to redresse them <lb/>
+            either by takeing away the abuses or removeing offices <ex>tha</ex>t shew soe  <lb/>
+            litle regard to his honor or Conscience.  /  That concerneing the  <lb/>
+            first, soe graue &amp; Iudicious a Senate could not be ignorant, that <ex>th</ex>e <lb/>
+            tree that is suffered to nourish to many brainches neither thrives <lb/>
+            in the body, nor fourtifies in the tapp. / That participac<ex>i</ex>on in  p<ex>ro</ex>fitt  <lb/>
+            &amp; pleasure is the most assured meanes to continue freindship &amp; forbidd <lb/>
+            entry to envye, That the p<ex>ar</ex>t<ex>es</ex> of the world already possessed by this monarchy <lb/>
+            for extent &amp; Riches were not to bee paterned by any <ex>tha</ex>t either is or hath <lb/>
+            ben, neither the vnrest &amp; dayly increaseing difficultyes in houlding those it <lb/>
+            hath are hidden to any that cast their eyes upon affaires of State.  / <lb/>
+            That to affect more or to restraine princes consideracon &amp; apt vpon good  <lb/>
+            tearmes to giue by their assistance a setleing to the already possessed, <lb/>
+            some to desire a garment vnproportionable for the bodye and such <lb/>
+            as of necessity must either induce deformityes or draw the whole <lb/>
+            world into dainger. / Condic<ex>i</ex>ons might be thought vpon fitt for neigh= <lb break="no"/>
+            bourhood contrary to contenc<ex>i</ex>on, and such securityes &amp; Cautions mutually <lb/>
+            giuen, as the First opener of the gapp to a breach of the freindshipp &amp; <lb/>
+            contract<ex>es</ex> should enter into a certeyne way to loose what in those new= <lb break="no"/>
+            found p<ex>ar</ex>t<ex>es</ex> hee should be possessed of. / That the king my M<ex>aste</ex>r haueing <lb/>
+            meanes to evacuate his sup<ex>er</ex>fluous people, should not be necessited to im= <lb break="no"/>
+            ploy them in warrs abrode, nor feare the inconveniences of their too much <lb/>
+            abounding att home, and by p<ex>ar</ex>takeing the Riches that now doth noe <lb/>
+            man good, should never enter into temptac<ex>i</ex>on of desireing p<ex>ar</ex>te  of the <lb/>
+            excesse that is possessed by others. / That his Ma<ex>jes</ex>tie heere might p<ex>er</ex>fectly <lb/>
+            setle his owne conquest<ex>es</ex>, make his voyages &amp; returnes of his voyages safe <lb/>
+            as the botes in the waters att his howse of pleasure. / That to this <lb/>
+            soe greate a good could be giuen no other cullor of impedim<ex>en</ex>t then the <lb/>
+            wall of sep<ex>er</ex>ation in our opinions. / I confesse it were to be wished that in <lb/>
+            god<ex>es</ex> worshipp wee were all of one heart in the right, &amp; that nothing in <lb/>
+            earth is more desireable, But sithence for o<ex>u</ex>r synnes soe greate a blessing <lb/>
+            is in these tymes denyed vs, that wee are w<ex>i</ex>th patience to expect god<ex>es</ex> <lb/>
+            good Leysure, That his diuine Ma<ex>jes</ex>tie as S<ex>ain</ex>t Augustine saith <hi rend="italic">disponit <lb/>
+            omnia swauiter</hi> &amp; contrary to the passionate &amp; procipitous nature of <lb/>
+            man, vseth not his owne omnipotency to enforce, but his clementest and <lb/>
+            softest hand to drawe &amp; perswade. / That in the meane tyme sithence no new <lb/>
+            thing is to liue out of the obedyence of the Church of Rome w<ex>hi</ex>ch is <ex>th</ex>e greatest <lb/>
+            of our differences. / The Abissines, Muscouites &amp; Rushians haueing donne <lb/>
+            it never, and the Church of the East for the most p<ex>ar</ex>te sithence the passion of <lb/>
+            our Sauiour being agreed in the most fundamentall p<ex>ar</ex>te of our faith. <lb/>
+            <fw type="catch" place="bot-right">Charity</fw>
+            <pb n="269r" facs="/bl/add_ms_11600/add_ms_11600_f269r/add_ms_11600_f269r.jpg"/>
+            Charity &amp; care of o<ex>u</ex>r mutuall <unclear>conseruac<ex>i</ex>ons</unclear> may iustly move us, for the <lb/>
+            rest to expect the one the other &amp; either p<ex>ar</ex>te  to inuite w<ex>i</ex>th christian softnes <lb/>
+            w<ex>i</ex>th examples of piety &amp; vertue &amp; w<ex>i</ex>th teares &amp; prayers offered to god, <lb/>
+            Not w<ex>i</ex>th fyre &amp; sword the Children of Rumor &amp; mallice, improp<ex>er</ex> &amp; vnnaturall <lb/>
+            teachers of soe sweete &amp; meeke a religion as that of Christ, who in his <lb/>
+            good tyme &amp; when hee shall see it for his glory will p<ex>er</ex>forme what hee <lb/>
+            hath prophicied &amp; p<ex>ro</ex>missed vizt, That before the end of the world  <lb/>
+            wee shalbe one flock vnder one shepherd, In the intrim my desires <lb/>
+            &amp; wishes should never cease that those monarches may vnite in a faithfull  <lb/>
+            &amp; endureing will to conserue &amp; increase the one the other, And <ex>th</ex>e lyke <lb/>
+            I doubted not would be ever found in their Lor<ex>dshi</ex>ps finis. /
+         </p>
+         <p rend="align-centre">
+            The Conclusion of a L<ex>et</ex>re written by <ex>th</ex>e said S<ex>i</ex>r Charles Cornewallis <lb/>
+            k<ex>nigh</ex>t to the Lord<ex>es</ex> of his Ma<ex>jes</ex>ties most honor<ex>a</ex>ble priuie Councell wherein <lb/>
+            was sent inclosed the discourse above written
+         </p>
+         <p>
+            To this purpose was what I said &amp; in this forme I committed it to <lb/>
+            writeing, but w<ex>i</ex>thout meaneing it should passe out of my hand<ex>es</ex> vntill I had <lb/>
+            sent it to yo<ex>u</ex>r honors &amp; should further vnderstand his Ma<ex>jes</ex>ties pleasure: What my  <lb/>
+            reasons herein were I neede not Further p<ex>ar</ex>ticulate vnto yo<ex>u</ex>r Lor<ex>dshi</ex>ps <lb/>
+            who out of a word will understand them. / His Ma<ex>jes</ex>tie haueing rest and <lb/>
+            peace on eu<ex>er</ex>y side as had Solomon in amplitude of dominion, multitude  <lb/>
+            of people, magnificence &amp; splendor of his Courte &amp; aboundance of bread <lb/>
+            &amp; flesh no whitt Inferior, I cannott but wish his Crowne cou<ex>er</ex>ed w<ex>i</ex>th pure <lb/>
+            gould &amp; all the vessells of his howse of the same metle, sithence no Prince <lb/>
+            on earth is better furnished w<ex>i</ex>th a Nauie to fetch Gould from Opher &amp; <lb/>
+            Ceader trees from Libanus, Besides of what consequence it is, that a nation <lb/>
+            of soe haughty a hearte &amp; soe gathering a hand as this should possesse them= <lb break="no"/>
+            selues wholly of the fountayne of that <del rend="strikethrough">metle</del> <add place="above">mettall</add>, that hath power to open <lb/>
+            the gates of Cittyes, disclose the secrett<ex>es</ex> of Princes &amp; undermyne <ex>th</ex>e strength <lb/>
+            of kingdomes, I made noe doubte but his Ma<ex>jes</ex>tie hath well considered, I <lb/>
+            humbly leaue all to his Royall &amp; most aduised Iudgem<ex>en</ex>t attributeing to my <lb/>
+            owne weakenes nothing but the merritt of a sinceere will and earnest <lb/>
+            desire to serue <del rend="strikethrough">his</del> w<ex>i</ex>th all my forces, his Ma<ex>jes</ex>tie &amp; my Country
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f271r/add_ms_11600_f271r.jpg"/>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f270v/add_ms_11600_f270v.jpg"/>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f270r/add_ms_11600_f270r.jpg"/>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f269v/add_ms_11600_f269v.jpg"/>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f269r/add_ms_11600_f269r.jpg"/>
+   </facsimile>
+</TEI>

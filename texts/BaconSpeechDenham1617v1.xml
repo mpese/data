@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to Sir John Denham when he was called to be one of the Barons of the Exchequer</title>
+            <author>
+               <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLSloaneMS3522.xml">
+               <msIdentifier xml:id="BL_Sloane_MS_3522">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Sloane</collection>
+                  <idno>MS 3522</idno>
+                  <msName/>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Sloane MS 3522</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_206">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.206</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_526.xml">Alnwick Castle,  MS 526, ff. 1r–2v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BaconSpeechDenham1617v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 258v–259r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 279r–280r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 58r–60r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb59.xml">Beinecke Library, Osborn fb59</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa206.xml">Folger Shakespeare Library,  MS V.a.206, ff. 19r–20v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH83.xml">Northamptonshire Record Office,  FH83, ff. 4r–5v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_20.xml">Senate House, University of London,  MS 20, ff. 189v–191v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_300.xml">Senate House, University of London,  MS 300, ff. 65x–79x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_92.xml">The National Archives,  SP 14/92, /6 [ff.62r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_192.xml">Woburn Abbey,  MS 192, pp137–140</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1617-12-21">1617</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Court of Exchequer</term>
+               <term>officeholding</term>
+               <term>law</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-08" who="#SV" status="proofread"/>
+            <change when="2018-01-18" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="25r"/>
+         <head rend="indent">
+            S<ex>i</ex>r Fraunces Bacon Lord keep<ex>er</ex> <lb/>
+            of the great Seale of England his <lb/>
+            Speach to S<ex>i</ex>r Iohn Denham knight <lb/>
+            when he receaued his pattent for his <lb/>
+            Succession in Mr Baron Althams <lb/>
+            place 1617./.
+         </head>
+         <p>
+            S<ex>i</ex>r Iohn Denham the kinge of his <lb/>
+            grace and fauor hath made choice of you <lb/>
+            to be one of the Barons of the Exchequor to <lb/>
+            succeede to one of the grauest, and most re=<lb break="no"/>
+            uerend Iudges of this kingdome (For soe I <lb/>
+            hold Baron Altham was) The Kinge takes <lb/>
+            you not upon creditt but upon proof of yo<ex>u</ex>r <lb/>
+            former seruice, and that in both theis <lb/>
+            kindes wherein you are now to serue, for <lb/>
+            as you haue shewed yo<ex>u</ex>rselfe a good Iudge be=<lb break="no"/>
+            tweene partie, and partie, soe you haue <lb/>
+            shewed yo<ex>u</ex>r self a good Administer of the <lb/>
+            kinges Reuenue both when you were cheef <lb/>
+            Baron, and sithence as Councellor of <lb/>
+            Estate there in Ireland, where the Councell <lb/>
+            (as you knowe) doth in great parte Mannage <lb/>
+            the kings Reuenue./.
+         </p>
+         <p>
+            And to both partes I will applie <lb/>
+            some Admonition not vulgar, or discussiue <lb/>
+            but apt for the times, and in few wordes <lb/>
+            for they are the best remembred./.
+         </p>
+         <fw type="catch" place="bot-right">.1. First therefore</fw>
+         <p>
+            First therefore aboue all you are to <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">=</tei:add>
+                <seg rend="LM-line">
+                    <hi rend="underline">mainteine the kinges Prerogatiue, and to <lb/>
+            sett downe with yo<ex>u</ex>r self that the kinges <lb/>
+            prerogatiue, and the lawe are not two thinges</hi>
+                </seg> <lb/>
+            but the kinges prerogatiue is lawe, and <lb/>
+            the principall parte of the lawe, the first <lb/>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">x</tei:add>borne, o<hi rend="underline">r pars Eu</hi>ita of the lawe, and there=<lb break="no"/>
+            fore in Conseruinge, and mainteininge that <lb/>
+            you conserue, and mainteine the Lawe, <lb/>
+            There is not in the bodie of man one <lb/>
+            Lawe of the head, and another of the <lb/>
+            bodie, but all is one entire lawe./.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">.2.</tei:add>The next point that I would Aduise you <lb/>
+            is that you acquaint yo<ex>u</ex>r selfe diligentlie <lb/>
+            with the Reuenue, and antient Reccords, <lb/>
+            and Presidentes of this Courte, when the <lb/>
+            famous Case of the Copper mynes was <lb/>
+            argued in this Courte, and Iudged for the <lb/>
+            kinge, it was not upon the fyne reasons of <lb/>
+            witt, that the kings Prerogatiue drewe <lb/>
+            <del rend="strikethrough">it</del> to <add place="above">it</add> the cheef (in quaque specie) The <lb/>
+            Lyons the cheef of Beasts; the Eagles, <lb/>
+            the cheef of Birds, the whale the chief <lb/>
+            of Fishes, and soe the cheef of Myneralls, <lb/>
+            <fw type="catch" place="bot-right">For theis</fw>
+            <pb n="26r"/>
+            For theis are but Dalliances of lawe, and <lb/>
+            Ornamentes, but it wa<hi rend="underline">s the graue reccordes, and <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="RM">=</tei:add> <lb/>
+            </hi>
+                <seg rend="LMRM-line">
+                    <hi rend="underline">Presidentes that grounded the Iudgement of the <lb/>
+            Cause, And the</hi>refore I would haue you both <lb/>
+            guide, and Arme yo<ex>u</ex>rself with them against</seg> <lb/>
+            theis vapors, and Fumes of lawe which <lb/>
+            are Extracted out of mens Inuentions, and <lb/>
+            Conceiptes./.
+         </p>
+         <p>
+            The third Aduise I will giue you hath <lb/>
+            a large extent It is that you doe yo<ex>u</ex>r endeauo<ex>u</ex>r <lb/>
+            in yo<ex>u</ex>r place soe to mannage the kinges <lb/>
+            Iustice, and Reuenewe as the kinge may <lb/>
+            haue most profitt, and the subiect least vex=<lb break="no"/>
+            ac<ex>i</ex>on, for when there is much vexac<ex>i</ex>on to <lb/>
+            the subiect, and little benefitt to the kinge <lb/>
+            then the Exchequo<ex>u</ex>r is sick, and when there <lb/>
+            is much benefitt to the kinge with lesse <lb/>
+            trouble, and vexac<ex>i</ex>on to the subiect then the <lb/>
+            Exchequo<ex>u</ex>r is sounde./.
+         </p>
+         <p>
+            As for Example if there shalbe much ra=<lb break="no"/>
+            kinge for the kinges ould debtes, and the <lb/>
+            more fresh, and late debtes, shalbe either <lb/>
+            more negligentlie called upon, or ouer ea=<lb break="no"/>
+            silie discharged, or ouer Indulgentlie In=<lb break="no"/>
+            stalled, or If the nomber of Informac<ex>i</ex>ons be <lb/>
+            <fw type="catch" place="bot-right">manie</fw>
+            <pb n="26v"/>
+            manie, And the kinges parte for Fynes <lb/>
+            for Composic<ex>i</ex>ons, a Tryfle; or If there much <lb/>
+            a doe to gett the kinge more landes upon <lb/>
+            Concealementes, and that w<ex>hi</ex>ch he hath all=<lb break="no"/>
+            readie bee not well knowne, and sur=<lb break="no"/>
+            uayed, nor the woodes preserued (I could <lb/>
+            putt you many other Cases.) This falles <lb/>
+            within that which I sayed, was the desease <lb/>
+            of the Exchequo<ex>u</ex>r./. And this is that w<ex>hi</ex>ch <lb/>
+            makes euery man readie with their <lb/>
+            vndertakings, and their Proiectes to disturbe <lb/>
+            the antient Frame of the Exchequo<ex>u</ex>r (then <lb/>
+            the w<ex>hi</ex>ch I am perswaded there is not a <lb/>
+            better) Sure I am that besides your owne <lb/>
+            Associates the Barons, you serue with <lb/>
+            two superio<ex>u</ex>r great officers then the w<ex>hi</ex>ch neuer <lb/>
+            any were, that haue had more hono<ex>ura</ex>ble <lb/>
+            and true endes, and desires to serue the kinge <lb/>
+            and right the subiect./.
+         </p>
+         <p rend="indent">
+            There resteth that I deliuer you <lb/>
+            yo<ex>u</ex>r Pattent./.
+         </p>
+         <p>
+            This beinge the burthen of the songe that <lb/>
+            much goeth out of the subiectes Pursse, and <lb/>
+            little cometh to the kinges, therefore giue <lb/>
+            <fw type="catch" place="bot-right">them not</fw>
+            <pb n="27r"/>
+            them not that Aduantage soe to saye./.
+         </p>
+      </body>
+   </text>
+</TEI>

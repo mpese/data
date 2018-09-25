@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of An Hieroglyphical Watch or Clock</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS852.xml">British Library, Harley MS 852, ff. 32v–33v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee556.xml">Cambridge University Library,  MS Ee.5.56, ff. 4r–5r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1622">1622</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>prophecy</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>foreign affairs</term>
+               <term>prophecy</term>
+               <term>diplomacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-02" who="#RB" status="proofread"/>
+            <change when="2018-08-02" who="#RB" status="draft"/>
+            <change when="2018-04-30" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="127v" facs="/bl/add_ms_28640/add_ms_28640_f127v/add_ms_28640_f127v.jpg"/>
+         <head rend="align-centre">
+            <add place="LM">
+               This I had of Mr Lam=<lb break="no"/>
+               mas in the latter end of <lb/>
+               the yeare 1622.
+            </add>
+            <hi rend="italic">
+               A Description of an Hieroglyphicall Watch <lb/>
+               or Clocke found in the Library of Prague <lb/>
+               in Bohemia, at the taking of the Citie <lb/>
+               in the forme of a square clocke standing upon fower <lb/>
+               globes or balles in height halfe a foote.
+            </hi>        
+         </head>
+         <list rend="numbered">
+            <item n="1">
+               Vpon the Clocke in the top was a <hi rend="italic">Diall</hi> hauing sixe <lb/>
+               houres, the hande standing at one. <space unit="chars" extent="6"/> In a Circle round <lb/>
+               about it were written these words <foreign xml:lang="la">
+                        <hi rend="italic">Me non audies sed uidebis</hi>
+                    </foreign> <lb/>
+               And in the fower empty corners the <hi rend="italic">Pictures</hi> of the 4 <hi rend="italic">Monar=<lb break="no"/>
+                  chies</hi> in <hi rend="italic">Daniell</hi>. <space unit="chars" extent="6"/> Vpon the foreparte of the watche <lb/>
+               these wordes <foreign xml:lang="la">
+                        <hi rend="italic">Viua manus Hussiana me pr<ex>a</ex>eparauit.</hi>
+                    </foreign> <lb/>
+               Vpon the right side these <foreign xml:lang="la">
+                        <hi rend="italic">Fatum non pondus me mouet.</hi>
+                    </foreign> <lb/>
+               Vpon the lefte side these <foreign xml:lang="la">
+                        <hi rend="italic">Motus meus finietur periodo sexta.</hi>
+                    </foreign> <lb/>
+               Vpon the backside these <foreign xml:lang="la">
+                        <hi rend="italic">Genio Hussiano rediuiuo reuelor.</hi>
+                    </foreign>
+            </item>
+            <item n="2">
+               And vnder the bottome in the 4 corners 4 <hi rend="italic">Escocheons</hi>. <lb/>
+               In the 2 corners next the backe, First an <del rend="strikethrough">(</del>
+                    <hi rend="italic">Eagle displayed</hi> <lb/>
+               &amp; then  <hi rend="italic">A white Lyon rampant with a forked taile</hi>, / the Armes <lb/>
+               of Bohemia. <space unit="chars" extent="10"/> On the other 2 Corners First a <lb/>
+               <hi rend="italic">
+                        <del rend="strikethrough">Lyon</del> Lyon sable</hi> the A<add place="above">r</add>mes of Flanders &amp; Burgundie; then <lb/>
+               <hi rend="italic">a double white Crosse</hi> / the Armes of Hungary in parte. <lb/>
+               In the Centre or middle of the bottome, these wordes, <foreign xml:lang="la">
+                        <hi rend="italic">Deus <lb/>
+                  pr<ex>a</ex>edestinauit Tempus demonstrabit <space unit="chars" extent="5"/> Vigilans non dormiens me <lb/>
+                  intelliget</hi>
+                    </foreign>.
+            </item>
+            <item n="3">
+               Within the watche, when the Curious screwes were turned <lb/>
+               nothing was founde but <del rend="strikethrough">a booke gilded</del> a <hi rend="italic">Booke gilded</hi> consis=<lb break="no"/>
+               ting of 8 virgin parchement leaves. <space unit="chars" extent="12"/> The first <lb/>
+               leafe being the Title leafe had these wordes <space unit="chars" extent="4"/>	<foreign xml:lang="la">
+                        <hi rend="italic">Periodus Roma<supplied reason="guttering">e</supplied> <lb/>
+                  in Imperij per sex Mansiones partita Diuina Reuelatione annota<supplied reason="guttering">e</supplied>
+                        </hi>
+                    </foreign> <lb/>
+               &amp; belowe at the bottome <foreign xml:lang="la">
+                        <hi rend="italic">Homine uili suppresso.</hi>
+                    </foreign> <space unit="chars" extent="10"/> The <lb/>
+               <seg rend="curley-bracket-L">last leafe v<ex>i</ex>z the Conclusion leafe had on the <hi rend="italic">
+                            <del rend="strikethrough">MDCXXVI</del>
+                        </hi> top <lb/>
+               <add place="LM">1626.</add>
+               these numerall letters <hi rend="italic">MDCXXVI</hi> &amp; in the middest of the leafe &amp; <lb/>
+               downwardes <foreign xml:lang="la">
+                            <hi rend="italic">Vnus Pastor vnum ouile.</hi>
+                        </foreign>
+                    </seg>
+            </item>
+            <item n="4">
+               The 6 leaves <del rend="strikethrough">conteined</del> <add place="above">included</add> within these 2, conteined in Hieroglyph<supplied reason="guttering">i</supplied>
+                    <lb break="no"/>
+               call expressions the 6 <hi rend="italic">motions of the Clocke to be accomplished in <lb/>
+               so many yeeres</hi>.	The Hieroglyphickes are called <hi rend="italic">Mansion<supplied reason="guttering">s</supplied>
+                    </hi> <lb/>
+               In the top of every one the yeere of <del rend="strikethrough">l</del>our Lorde <hi rend="italic">in numerall <lb/>
+                  letters.	<space unit="chars" extent="4"/> MDCXX. MDCXXI. &amp;c.</hi>
+            </item>
+         </list>
+         <pb n="128r" facs="/bl/add_ms_28640/add_ms_28640_f128r/add_ms_28640_f128r.jpg"/>
+         <list rend="numbered">
+            <item n="5">
+               The Hieroglyphicke of the <hi rend="italic">Mansion 1620</hi> is <hi rend="italic">A Lyon lying <lb/>
+               	all along on the grounde, his forehalfe White, his hinder blacke, On <lb/>
+                  his heade<del rend="strikethrough">s</del> standes an Eagle displayed with 2 heades treading him <lb/>
+                  downe with the Armes of Austria on his brest</hi>. On his hindermost <lb/>
+               parte standes ranging over him a <hi rend="italic">Sable Lyon with a staffe or <lb/>
+                  speare thrusting him thorough</hi>.
+            </item>
+            <item n="6">
+               In the second <hi rend="italic">Mansion <del rend="strikethrough">1621</del>
+                    </hi> for <hi rend="italic">1621</hi> is on the right side an <hi rend="italic">E=<lb break="no"/>
+               	scocheon with 7 White towers in a Redd fielde</hi> the Armes of <ex>th</ex>e <lb/>
+               Prince of Transiluania / On the Lefte side another <hi rend="italic">Escocheon <lb/>
+                  with a double Crosse</hi> the Armes of Hungary. <space unit="chars" extent="5"/> <hi rend="italic">These 2 joyne <lb/>
+                  hands, ouer which ioyning of handes is a Laurall Crowne</hi> &amp; through <lb/>
+               <hi rend="italic">it towards the sides ij Palme branches.</hi>
+            </item>
+            <item n="7">
+               In the <hi rend="italic">Mansion 1622</hi> is <hi rend="italic">A Woman standing on a winged globe <lb/>
+                  flying</hi> <space unit="chars" extent="3"/> / in her right hande <hi rend="italic">An Oliue branche of Peace</hi> / but  <lb/>
+               looking to her <hi rend="italic">Laurall garland in her Lefte hande.</hi>
+            </item>
+            <item n="8">
+               In the <hi rend="italic">Mansion</hi> for <hi rend="italic">1623</hi> is <hi rend="italic">The Globe of Earth eleuated accor=<lb break="no"/>
+               	ding to the Latitude of Germany</hi> vpon the top of which stands <lb/>
+               <hi rend="italic">a Sworde with the pointe up to the Heauen</hi> &amp; vnder the bottome <lb/>
+               <hi rend="italic">a Dead mans skull</hi>. <space unit="chars" extent="4"/> Vpon the <hi rend="italic">East-side</hi> or towards the <lb/>
+               right hand <hi rend="italic">
+                        <foreign xml:lang="la">Trisulcum fulmen</foreign> a theefold wrigling thunder &amp; <lb/>
+               	lightning with fire breaking out of the globe</hi> / &amp; vpon the <lb/>
+               west side a <hi rend="italic">fayer Roman <hi rend="bold">F</hi>.</hi>
+            </item>
+            <item n="9">
+               In the <hi rend="italic">Mansion</hi> for <hi rend="italic">1624</hi> is the <hi rend="italic">Globe of the earth all blacke <lb/>
+               	and couered with darknes</hi> yet in the Center or middle thereof <lb/>
+               <hi rend="italic">A litle candle or light twinckling.</hi>
+            </item>
+            <item n="10">
+               In the <hi rend="italic">Mansion</hi> for <hi rend="italic">1625</hi> are <hi rend="italic">4 Escocheons tyed together.</hi> <lb/>
+               In the first &amp; chiefe place standes the <del rend="strikethrough">Armes of Hungary</del> <lb/>
+               whole <hi rend="italic">Armes of Hungary empaled</hi>. On the right hande<del rend="strikethrough">s</del> some=<lb break="no"/>
+            	what belowe hang the <hi rend="italic">Imperiall Eagle with the Armes of <lb/>
+               	Austria on her breste</hi> / On the lefte side hangs <hi rend="italic">one parte / or <lb/>
+                  the single Armes of Hungary</hi> v<ex>i</ex>z <hi rend="italic">the double white Crosse.</hi> but <lb/>
+               just vnderneath the foresaide empaled armes, is the <hi rend="italic">White <lb/>
+                  Lyon</hi> the Armes of <hi rend="italic">Bohemia</hi>. <space unit="chars" extent="8"/> According to the position are <lb/>
+               these <hi rend="italic">4 tyed together</hi>, &amp; through the middest of theire knotte <lb/>
+               thrust crosse-wise 2 longe palme branches. <space unit="chars" extent="8"/> This is the <lb/>
+               <add place="LM">
+                  <hi rend="italic">Mansio<ex>n</ex>
+                        </hi>
+               </add>
+               laste Motion or <hi rend="italic">Hieroglyphicke</hi>. After which followes the Con=<lb break="no"/>
+               clusion before 1626 as before.
+            </item>
+         </list>
+         <p rend="align-right">Finis.</p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f127v/add_ms_28640_f127v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f128r/add_ms_28640_f128r.jpg"/>
+   </facsimile>
+</TEI>

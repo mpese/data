@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 6845</title>
+            <respStmt xml:id="NM">
+                <name>Noah Millstone</name>
+                <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+                <name>Sebastiaan Verweij</name>
+                <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+                <name>Richard Bell</name>
+                <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                <name>Mike Jones</name>
+                <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+        </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_6845">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6845</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                 <msItem n="1">
+                     <locus>136r</locus>
+                     <title when="1627">List of Officers Slain at the Ile De Re</title>
+                     <author/>
+                     <respStmt>
+                         <resp/>
+                         <name/>
+                     </respStmt>
+                     <note/>
+                     <link target="../texts/ListOfficersSlainIleDeRe1627.xml" type="t_witness"/>
+                     <msDesc>
+                         <msIdentifier/>
+                         <history>
+                             <summary/>
+                             <origin>folio; fragment</origin>
+                             <provenance/>
+                         </history>
+                     </msDesc>
+                 </msItem>
+                <msItem n="2">
+                    <locus>218x-226x</locus>
+                    <title when="1625-01-03">A Relation of the Carriage of the Marriages that Should Have Been Made</title>
+                    <author>
+                        <persName corresp="../people/people.xml#P0122">John Digby, 1st Earl of Bristol</persName>
+                    </author>
+                    <respStmt>
+                        <resp/>
+                        <name/>
+                    </respStmt>
+                    <note/>
+                    <link target="../texts/DigbyRelationCarriageMarriage1625.xml" type="t_witness"/>
+                    <msDesc>
+                        <msIdentifier/>
+                        <history>
+                            <summary/>
+                            <origin/>
+                            <provenance/>
+                        </history>
+                    </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

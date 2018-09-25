@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to the King of France</title>
+            <author>
+               <persName corresp="../people/people.xml#P0115">Nicolas Brulart de Sillery</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="EB">
+               <name>Elaine Brown</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_180">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 180</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3638">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3638</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1877">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1877</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29587">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 29587</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS29587.xml">British Library, Additional MS 29587, ff. 47r–48r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 253r–256r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1877.xml">British Library, Harley MS 1877, ff. 67x–68r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3638.xml">British Library, Harley MS 3638, ff. 138r–139v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_180.xml">British Library, Stowe MS 180, f. 36x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_781.xml">Bodleian Library,  MS Ashmole 781, ff. 63–66</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 338v–341v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Ee523.xml">Cambridge University Library,  MS Ee.5.23, pp468–470</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Hatfield_House_CP_98.xml">Hatfield House,  CP 98, ff. 96r–97r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_1266_2.xml">Houghton Library,  fMS Eng 1266.2, ff. 110r–111r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/KA_U269O293.xml">Kent Archives,  U269/O293, item 8</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LSA_MS_291.xml">London Society of Antiquaries,  MS 291, ff. 46r–48v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, ff. 20v–21v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_300.xml">Senate House, University of London,  MS 300, ff. 32x–33x</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page" from="193" to="196">193-196</biblScope>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl/>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1616">1616?</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>France</term>
+               <term>diplomacy</term>
+               <term>statecraft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-07" who="#RB" status="proofread"/>
+            <change when="2018-02-16" who="#RB" status="draft"/>
+            <change when="2018-02-15" who="#EB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="29r" facs="/bl/add_ms_22591/add_ms_22591_f029r/add_ms_22591_f029r.jpg"/>
+            <head rend="align-centre">
+               <hi rend="bold">
+                  To <lb/>
+                  the kings Maiestie of <lb/>
+                  France
+               </hi>
+            </head>
+            <p>
+               <hi rend="bold">Louing</hi> Sir I willinglye resigne into yo<ex>u</ex>r handes the Charge, with <lb/>
+               w<ex>hi</ex>ch yo<ex>u</ex>r were pleased to honor mee, and w<ex>i</ex>th the same countena<ex>u</ex>nce/ I <unclear>haue</unclear> <lb/>
+               receaued it, w<ex>i</ex>thout seeking for it, I leave it w<ex>i</ex>thout greiving for it, the <lb/>
+               Lawes had sufficentlye taught mee to obeye yo<ex>u</ex>r ma<ex>jes</ex>ty, soe that I needed not to <lb/>
+               haue bine sent for, by A Captaine of the Guard and xxty Archers: First <lb/>
+               Violence should onlye be vsed against those that resist, and not against thos<ex>e</ex> <lb/>
+               that knowe howe to obeye, and that haue ever esteemed this honor A heavye <lb/>
+               burthen/ rather then A dignitye/ w<ex>hi</ex>ch yet I had receaved for the good of yo<ex>u</ex>r <lb/>
+               service / because everye able man, owes his cares and yeeres to <ex>th</ex>e publique <lb/>
+               good/ and because it had bene A shame for mee to dye w<ex>i</ex>th <ex>th</ex>e Steyne in <lb/>
+               my hand/ and being able to hinder (at least to delaye) the Shipwracke that <lb/>
+               threatnes vs/ God graunt I be the greatest looser in this disfavour, and <lb/>
+               that you &amp; yo<ex>u</ex>r State be the least touched in it, this accident hath not take<ex>n</ex> me on <lb/>
+               the Soddaine/ having ever well foreseene, that as I followed as much as I could, <lb/>
+               the integritie of Mou<ex>n</ex>sier Villeroye, &amp; <ex>th</ex>e Preside<ex>n</ex>t Jainnin. Soe I oughte <lb/>
+               to expect like fortune to theirs, yo<ex>u</ex>r Com<ex>m</ex>an<ex>d</ex>m<ex>en</ex>t in this/ agreed w<ex>i</ex>th the Choise <lb/>
+               my selfe had made/ if I had beene at full libertie/ for I loue a great deale <lb/>
+               better to be A companion in their disgrace/ if I ought soe to stile my selfe <lb/>
+               thus being disburdned of Affaires, then to be ymployed in managing of <lb/>
+               the Estate w<ex>i</ex>th them that there remaine/ since in tyme I might haue take<ex>n</ex> an ill <lb/>
+               Eye, by the Companye of such people/ to whom I noe whatt envye the e<ex>n</ex>crease <lb/>
+               of Authoritie/ w<ex>hi</ex>ch is given them at my Cost/ for I haue not vsed to giue <lb/>
+               accompt of my Act<ex>i</ex>ons everye Morning by Stealth/ neither will I be pr<ex>e</ex>=<lb break="no"/>
+               scribed, what I ought to doe/ if the States good/ and reason doe not cou<ex>n</ex>sell <lb/>
+               mee to it; This is much more hono<ex>ra</ex>ble for mee/ then to haue betrayed yo<ex>u</ex>r <lb/>
+               Ma<ex>jes</ex>tye in sealing A discharge to an Accompt for 80000l in the <unclear>greastise</unclear> <lb/>
+               pouertie of the treasurie/ and <ex>tha</ex>t to further the good of A man/ <ex>tha</ex>t blushes <lb/>
+               not (besydes this) to demaund the Dutches of Canzon by way of mortgage, <lb/>
+               w<ex>hi</ex>ch is the Porc<ex>i</ex>on of the Kings Sonnes, and to pr<ex>e</ex>tend to the office of <lb/>
+               Co<ex>n</ex>stable w<ex>hi</ex>ch the late Kings will expresselye was should be supp<ex>re</ex>sed <lb/>
+               after the deathe of the late Lord Mount Morvery/ Thinke not Sir/ <ex>tha</ex>t in <lb/>
+               not giving my Consent to this/ I desire to oppose my selfe against your <lb/>
+               Authoritie/ I knowe well/ <ex>tha</ex>t that hath noe bonds/ but thos<ex>e</ex> of yo<ex>u</ex>r will/ but <lb/>
+               yett are you bound to rule yo<ex>u</ex>r selfe according to reason, and to follow <lb/>
+               the Counsell of those/ w<ex>hi</ex>ch haue entred into <ex>th</ex>e managing of yo<ex>u</ex>r State, by <lb/>
+               the Choise w<ex>hi</ex>ch the late king had made of them/ as being more able to giue it yo<add place="above">u</add> <lb/>
+               then certaine newe com<ex>m</ex>ers downe out of <ex>th</ex>e dreggs of businesses/ &amp; of <ex>th</ex>e people/ <lb/>
+               this exchange is made fro<ex>m</ex> vs to the<ex>m</ex>, the tricke of <ex>th</ex>e Woules w<ex>i</ex>th <ex>th</ex>e Sheepe when <lb/>
+               they ta<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>ke their doggs from them/ doth not yo<ex>u</ex>r Ma<ex>jes</ex>ty p<ex>er</ex>ceave <del rend="superstrike">them</del> it/ or dare  <lb/>
+               you not redresse it, for Feare of dissobedience/ Sir you owe obedyence <lb/>
+               by nature to thos<ex>e</ex> <ex>tha</ex>t preache it to you/ but they themselves owe it, to you by <lb/>
+               devine and humaine right/ and thoughe you should yeild them lesse they haue <lb/>
+               given you to manye Examples soe to doe/ Reme<ex>m</ex>b<ex>e</ex>r if it please you/ <ex>tha</ex>t you <lb/>
+               are past 15: yeeres Old/ and Kings are at Age at 14:/ Isaack followed <lb/>
+               his Father Abraham to be sacrificed/ because he was not old enough <lb/>
+               and knewe not anye thinge, I beleeve if he had beene A man growne <lb/>
+               and had forseene the daunger, he would not him selfe haue carryed <lb/>
+               the Stickes vpon his Shoulders, he was the apparance of the sacrifice  <lb/>
+               I praye God in these actions to keepe you, fro<ex>m</ex> the Effecte/ For when I see <lb/>
+               men move the Authoritie of the Courte, when they will that men sett <lb/>
+               to sale/ and dispose of the Offices of the Courte, w<ex>i</ex>thout beinge once <lb/>
+               hindred by anye: The Princes of the bloud hauing bene some y<ex>m</ex>pr<ex>i</ex>soned, <lb/>
+               and the other Princes having retyred themselves/ for the secu<ex>r</ex>ity of <lb/>
+               theire p<ex>er</ex>sons/ when I see that amongst the greate ones they <lb/>
+               that are made <sic>hir Som<ex>m</ex>er</sic> Shaddow of better fortune/ are same to lend 
+               <fw type="catch" place="bot-right">their</fw>
+               <pb n="29v" facs="/bl/add_ms_22591/add_ms_22591_f029v/add_ms_22591_f029v.jpg"/>
+               theire handes to bringe themselves into bondage:  That they that haue  <lb/>
+               attained some settlednes in this alterac<ex>i</ex>on: mayntayne it onlye, for feare <lb/>
+               of returning to the miserye of their former Condit<ex>i</ex>on, Besydes it <lb/>
+               seemes allsoe that the people and the Princes p<ex>ar</ex>take of this Change, <lb/>
+               after the Example of the greater, and seeing the helpe of the Lawe <lb/>
+               is vnprofitable everyethinge out of order/  by canvasing/ by violence, <lb/>
+               and by corrupc<ex>i</ex>on/ the Lawe it selfe hath put in A newe <del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> face/ aswell <lb/>
+               as the affaires of the kingdome; there remaines nothing of the old Cou<ex>r</ex>t <lb/>
+               but the walles, and even the vse of them haue bene changed, For they <lb/>
+               were wonte to serue for the safegard of Princes/ and now they serue <lb/>
+               fore their Prison/ and for yo<ex>ur</ex>s/ it maye be (if it be lawfull to saye soe) <lb/>
+               for it is not w<ex>i</ex>thout Some end, that when you goe abroade/ you have A <lb/>
+               Companye of light horse to attend you/ chosen by A suspected hande, <lb/>
+               that is yo<ex>u</ex>r Gaurd after the fashion of Bastile/ This distrust cou<ex>n</ex>sels <lb/>
+               you well enoughe what you ought <del rend="strikethrough">doe</del> to doe/ you need noe oth<ex>e</ex>r advise, <lb/>
+               I am hyst at/ I am scofte at/ and my discou<ex>r</ex>se/ and soe was Cassander vsed <lb/>
+               when shee told the distructio<ex>n</ex> of Troye. S<ex>i</ex>r I haue nothing left to serue <lb/>
+               you with/ w<ex>hi</ex>ch if I were soe happye as to drawe you out of the Error/ in <lb/>
+               w<ex>hi</ex>ch you are setled/ I would blesse 10000: tymes my disgrace for hauing <lb/>
+               emboldned me to speake freelye in A tyme wherein even wordes are <lb/>
+               punished/ The falsenes of the Alcaron/ is onlye authorised/ by <ex>tha</ex>t it is <lb/>
+               forbidden vnder the paine of deathe/ to speake of it/ The yncroachm<ex>en</ex>t <lb/>
+               w<ex>hi</ex>ch is made vpo<ex>n</ex> yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ie</ex>s authoritie takes footing only by the dau<ex>n</ex>ger <lb/>
+               there is/ in telling of it, you maye freelye co<ex>n</ex>sider/ yf it please you that <lb/>
+               those w<ex>hi</ex>ch vsurpe power ou<ex>er</ex> you/ are of A Cou<ex>n</ex>trye where eu<ex>er</ex>y body would raig<ex>n</ex>e, <lb/>
+               there it is, that there is not A Cittie ov<ex>e</ex>r the oth<ex>e</ex>r syde of the Alpes <lb/>
+               that hath not her republique, or her petty King/ &amp; if yo<ex>u</ex>r ma<ex>jes</ex>ty had but a little tasted <lb/>
+               the historye of yo<ex>u</ex>r owne Kingdome/ you would haue learned <ex>tha</ex>t <ex>th</ex>e most bloudy Tragedys <lb/>
+               that ever were seene in France/ haue come from that Syde <lb/>
+               the last vpo<ex>n</ex> occacion of A little Booke/ w<ex>hi</ex>ch I published touching cons=<lb break="no"/>
+               tancye and co<ex>m</ex>forte in publique calamityes/ I fear much <ex>tha</ex>t to my disigne <lb/>
+               this is A worke for yo<ex>u</ex>r Raigne/ yf <ex>th</ex>e goodnes of God take not pittye on vs <lb/>
+               Thinke not Sir; that the greiffe to see my selfe removed from <lb/>
+               the State affaires/ breedes soe bould A discourse, as I felt my greife <lb/>
+               for it/ ti<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del>s but as newe marryed wives weepe to leave the Subiection  <lb/>
+               of her Father, to enter into the quallitye of marriage, It is true/ <ex>tha</ex>t <lb/>
+               owing you my service/ I should w<ex>i</ex>th more co<ex>n</ex>tentm<ex>en</ex>t haue ymployed it, <lb/>
+               in yo<ex>u</ex>r Cou<ex>n</ex>sels of States, then in yo<ex>u</ex>r Parlyam<ex>en</ex>t/ where the matt<ex>e</ex>rs are <lb/>
+               of lesse importance, For I suppose/ that if the Carpenter w<ex>hi</ex>ch made  <lb/>
+               the Frame of the Admirall/ wherein Don Iohn de Austria/ comau<ex>n</ex>ded at <lb/>
+               the Battaile of Lepanta/ had knowne he would serue in soe ymporta<ex>n</ex>t  <lb/>
+               an Occasion/ wherein depended the safetie of the rest of Europe. he <lb/>
+               would haue taking more pleasure in the making her/ then <add place="above">if</add> he had <lb/>
+               made A Vessell dishonoured onlye for trafique; Notw<ex>i</ex>thstandinge <lb/>
+               Since yo<ex>u</ex>r Ma<ex>jes</ex>ty com<ex>m</ex>andes mee to retire my selfe, in A good houre be <lb/>
+               it the lesser Starrs beare A Parte in the p<ex>er</ex>fection of the vniu<ex>er</ex>se <lb/>
+               thoughe they contribute lesse to it, then the Sun and Moone: In w<ex>ha</ex>t <lb/>
+               Condit<ex>i</ex>on soe Ever I liue/ I will ever bring all I shalbe able to <lb/>
+               the good of yo<ex>u</ex>r service/ and if there be anye of those, <ex>tha</ex>t are neere you, <lb/>
+               that lament my absence, for my owne sake I would willingly saye to <lb/>
+               them/ weepe for your Selves/ Children of Ierusalem, <lb/>
+               that for want of Courage see yo<ex>u</ex>r m<ex>aste</ex>r to be betrayed/ &amp; not for me <lb/>
+               that haue noe other fault, then <ex>tha</ex>t I am an honest man: S<ex>i</ex>r I take leave <lb/>
+               therefore of you/ praying God to take pittye of yo<ex>u</ex>r estate, and <lb/>
+               care of yo<ex>u</ex>r breedinge/
+            </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f029r/add_ms_22591_f029r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f029v/add_ms_22591_f029v.jpg"/>
+   </facsimile>
+</TEI>

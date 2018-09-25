@@ -1,0 +1,761 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Danger Wherein the Kingdom Now Standeth and the Remedy</title>
+            <author>
+               <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11600</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_8827">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 8827</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_78277">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 78277</idno>
+               <msName>Evelyn Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_160">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 160</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_145">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 145</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_156">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 156</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_757">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 757</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_826">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 826</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1455">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1455</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_2531">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 2531</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_254">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 254</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6799">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6799</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6356">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6356</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6255">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 6255</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_305">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 305</idno>
+               <msName>Simonds D'Ewes manuscript collection</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_33469">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 33469</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_34312">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 34312</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2305">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 2305</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_293">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 293</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_390">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Harley</collection>
+                  <idno>MS 390</idno>
+                  <msName>Newsletters from Joseph Meade to Sir M Stuteville, vol. II, 1626-1631</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_125">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 125</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="CottonDanger1626v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 16r–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6356.xml">British Library, Harley MS 6356, ff. 198r–202r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6799.xml">British Library, Harley MS 6799, ff. 353x–356x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1455.xml">British Library, Sloane MS 1455, ff. 16r–19v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS2531.xml">British Library, Sloane MS 2531, ff. 98r–104v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS757.xml">British Library, Sloane MS 757, ff. 1r–4v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS826.xml">British Library, Sloane MS 826, ff. 34r–37v</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>The Danger Wherein the Kingdome now standeth, &amp; the remedie</title>
+                  <pubPlace>[London]</pubPlace>
+                  <date when="1629">1629</date>
+                  <idno type="STC">5863.2</idno>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>The Danger Wherein the Kingdom of England now Standeth; and the Remedy for the Present Safety thereof</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1643">1643</date>
+                  <idno type="Wing">C6487A</idno>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Cottoni Posthuma</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1651">1651</date>
+                  <idno type="Wing">C6500</idno>
+                  <biblScope unit="page" from="308" to="320">308-320</biblScope>
+                  <biblScope unit="sigs" from="X2v" to="X8v">X2v-X8v</biblScope> 
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Cottoni Posthuma</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1672">1672</date>
+                  <idno type="Wing">C6486</idno>
+                  <biblScope unit="page" from="308" to="320">308-320</biblScope>
+                  <biblScope unit="sigs" from="X2v" to="X8v">X2v-X8v</biblScope> 
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName corresp="../people/people.xml#P0001">
+                        <forename>Robert</forename>
+                        <surname>Cotton</surname>
+                     </persName>
+                  </author>
+                  <title>Cottoni Posthuma</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1679">1679</date>
+                  <idno type="Wing">C6487aA</idno>
+                  <biblScope unit="page" from="309" to="322">308-322</biblScope>
+                  <biblScope unit="sigs" from="X2r" to="X8v">X2r-X8v</biblScope> 
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="page" from="100" to="104">100-104</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628">1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>commentary</term>
+               <term>treatise</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>war</term>
+               <term>diplomacy</term>
+               <term>Spanish Match</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2018-08-16"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="102r" facs="/bl/add_ms_11600/add_ms_11600_f102r/add_ms_11600_f102r.jpg"/>
+         <head rend="align-centre">
+            The danger wherein <ex>th</ex>e Kingdome now standeth <lb/>
+            &amp; the remedie
+         </head>
+         <p>
+            As soone as the howse of <hi rend="italic">Austria</hi> had incorporated itselfe with <lb/>
+            <hi rend="italic">Spayne</hi> and by theire newe discoveries gotten to them selues the <lb/>
+            wealthe of the Indies they began to affect and eu<ex>er</ex> since haue pursued <lb/>
+            a fift Monarchy. The <hi rend="italic">Emperour Charles</hi> would first haue layed <lb/>
+            the foundac<ex>i</ex>on in <hi rend="italic">Italy</hi> by surprisinge <hi rend="italic">Rome</hi>. But from this he <lb/>
+            was thrust by force and respect of Religion: <hi rend="italic">Henry the viij.th</hi> being <lb/>
+            made <foreign xml:lang="la">
+                    <hi rend="italic">Caput federis</hi>
+                </foreign>. against him hee then attempted it in high <lb/>
+            <hi rend="italic">Germany</hi> practizinge by faction and force to reduce them first <lb/>
+            to petty States and soe to his absolute powers. In this Henry the <lb/>
+            eight againe pr<ex>e</ex>vented him by tyenge the Lutherane Princes vnder <lb/>
+            his confederacy and assistance./. His sonne the second <lb/>
+            <hi rend="italic">Phillipp</hi> pursued the same ambic<ex>i</ex>on in the <hi rend="italic">Netherlands of <lb/>
+               Germany</hi> by reduc<ex>i</ex>on whereof hee intended <del rend="strikethrough">his way</del> to make his <lb/>
+            way further into the other. This the late <hi rend="italic">Queene of England</hi>
+            <pb n="102v" facs="/bl/add_ms_11600/add_ms_11600_f102v/add_ms_11600_f102v.jpg"/>
+            interrupted by sidinge w<ex>i</ex>th the afflicted people one the parte <lb/>
+            and makinge her selfe head of theire protestant league w<ex>i</ex>th the Princes of the other, drawing in as a secrete of state <lb/>
+            the Counten<add place="above">a</add>nce of Fraunce to gyue the more reputac<ex>i</ex>on <lb/>
+            and assistance to them and securety to it selfe. <hi rend="italic">Spayne</hi> <lb/>
+            seing his hopes thus fruitless by theis vnion and sleights <lb/>
+            began to breake yf he might the amity of France and <lb/>
+            England. but findinge the Comon danger to be as fast <lb/>
+            a tye. hee raiseth vp a partie in that kingdome of his <lb/>
+            owne. by w<ex>hi</ex>ch the French kinge was soe distressed. <lb/>
+            that had not the English Councell and assistance releeued <lb/>
+            him. <hi rend="italic">Spayne</hi> had then removed that next and greatest <lb/>
+            obstacle of his ambition ./. His Counsell nowe tells <lb/>
+            him from these examples that the way to his greate <lb/>
+            worke is impassable soe longe as England laye a lett in <lb/>
+            his way (and aduiseth him that the remoue of that obstacle <lb/>
+            be the first of his intents this drewe on these often secrett <lb/>
+            practizes against the p<ex>er</ex>son of the Queene and his open fury <lb/>
+            against the body of the state in 88. w<ex>hi</ex>ch shee by followinge <lb/>
+            a free Counsell would neu<ex>er</ex> after admitt of peace wininge <lb/>
+            <del rend="strikethrough">by</del> theire by the hearts of a louinge people whoe eu<ex>er</ex> found <lb/>
+            hands and money for occasions at home and keepinge secretly <lb/>
+            her alliances abroad securinge to her Confederates all her <lb/>
+            tyme freedome for feare of spanish slauery and soe ended <lb/>
+            her old and happy dayes in glory: <hi rend="italic">Spayne</hi> then by <lb/>
+            the wisdome and power of that greate <hi rend="italic">Lady</hi> soe dispoyled <lb/>
+            of his meanes to hurt though not of his desires makes vp <lb/>
+            w<ex>i</ex>th her peacefull successor of happy memory, that <lb/>
+            golden league that disarminge vs at home by opinion <lb/>
+            of securety and gyvinge them a power in our Counsell by <lb/>
+            beleeuinge theire freindshipps and pretended marriage gaue <lb/>
+            them way to cherrish amongest vs a partie of theire owne.
+            <pb n="103r" facs="/bl/add_ms_11600/add_ms_11600_f103r/add_ms_11600_f103r.jpg"/>
+            and bereft of power abroad to lead in ielousie and sowe diuision betweene <lb/>
+            vs and our confederates. By w<ex>hi</ex>ch wee see they haue swalloed vpp the <lb/>
+            fortune of our M<ex>aste</ex>rs Brother w<ex>i</ex>th the rest of <hi rend="italic">Imperiall</hi> states <lb/>
+            distressed the kinge of <hi rend="italic">Denmarke</hi> by that quarrell, diverted Swedons <lb/>
+            assistance by the warres of the Pole and movinge them nowe w<ex>i</ex>th the <lb/>
+            offer of the danish Crowne. And now whether from the plott or o<ex>u</ex>r <lb/>
+            fattality it hath cast such a bone betweene France and vs, as hath <lb/>
+            gotten them selues by o<ex>u</ex>r quarrell of religion a fast Confederate, and <lb/>
+            vs a dangerous Enemie. Soe that now wee are left noe other assurance <lb/>
+            against theire malice and ambic<ex>i</ex>on. but the Netherlanders where the <lb/>
+            tye of mutuall safty is weakned by daylie discontents bred and fede <lb/>
+            betweene vs by some ill affected to both o<ex>u</ex>r secureties that from the <lb/>
+            dowbtfullnes of freindship as wee nowe stand wee may rather <lb/>
+            suspect from o<ex>u</ex>r owne domestique facc<ex>i</ex>on yf they grewe to furious <lb/>
+            they will rather followe the example of <hi rend="italic">Rome</hi> in her growinge that <lb/>
+            held it equally safty honorable and more easy aswell <foreign xml:lang="la">
+                    <hi rend="italic">dare regem</hi>
+                </foreign> as <lb/> <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">subiugare prouinciam</hi>
+                </foreign> consideringe the power the haue in theire <lb/>
+            handes then to giue any freindly assistance to serue the present <lb/>
+            condic<ex>i</ex>on of o<ex>u</ex>r state / You may therefore see in what tearme wee <lb/>
+            stand abroad, and I feare me at home for resistance in noe better <lb/>
+            state / There must be to w<ex>i</ex>thstand a forrain invasion a proportion <lb/>
+            both of sea and land forces for to gyue an enemy an easy passage <lb/>
+            and a port to releiue him in is noe lesse then to hazard all at one <lb/>
+            stake. And it is to be considered that noe march by land can be of <lb/>
+            that speed to make head against the landinge of an enemye. then <lb/>
+            it followeth that there is noe such pr<ex>e</ex>uention as to be master of the <lb/>
+            Sea. To this point of necessary defence there can be noe lesse <lb/>
+            then 240000l. For the and forces yf it were for an offensiue <lb/>
+            warre the men of lesse liuelihod were the best spared and were <lb/>
+            vsed <sic>vsed</sic> formerly to make such warr <foreign xml:lang="la">
+                    <hi rend="italtic">purgamento reipublica.</hi>
+                </foreign> <lb/>
+            yf wee made noe farther purchase by it. But for the safety of <lb/>
+            a Comon wealth the wesdome of all tymes did neu<ex>er</ex> interest the <lb/>
+            publique cause to any other then such as had a portion in the 
+            <pb n="103v" facs="/bl/add_ms_11600/add_ms_11600_f103v/add_ms_11600_f103v.jpg"/>
+            publique adventure. And that wee sawe in <hi rend="underline">88.</hi> when the care <lb/>
+            of the Queene and of the Counsell did make the body of that <lb/>
+            large army noe other then of the trayned bandes w<ex>hi</ex>ch w<ex>i</ex>th the <lb/>
+            auxilliaries of the whole realme amounted to noe lesse <lb/>
+            then 2400 men. Neyther were any of theise drawen <lb/>
+            out from forth there Countreis and proper habitac<ex>i</ex>ons before <lb/>
+            the end of May. that there might be noe longe agreieuance <lb/>
+            to he publique such discontentments being even to vs a <lb/>
+            more fatall enemy then any forreine forece./. The <lb/>
+            carefull distribuc<ex>i</ex>on of these sea and land forces beinge <lb/>
+            more fittinge for a Counsell of warre then a pryvate <lb/>
+            man to aduise of. I pass ou<ex>er</ex>: yett shall eu<ex>er</ex> be willinge <lb/>
+            and readie when I shalbe called humbly to offer vp such <lb/>
+            observac<ex>i</ex>ons as I haue form<ex>er</ex>lie gathered by the former <lb/>
+            like occasions in this Realme to make vp this proportion. <lb/>
+            there are requisite twoe things money and affecc<ex>i</ex>ons <lb/>
+            for they cannot be properlie seu<ex>er</ex>ed. It was and wisely <lb/>
+            sayd of that great and graue Counsellor the lo<ex>rd</ex> Burg<add place="above">h</add>ley <lb/>
+            in like case to the late Queene. winne harts and you haue <lb/>
+            theire hands and purses, And I thincke finde that of late <lb/>
+            diffidence having bene a defect in the one it hath vnhappely <lb/>
+            produced the others./. In gatheringe then of money for this <lb/>
+            present need there are requisite three things speed assurance <lb/>
+            and satisfacc<ex>i</ex>on And the way to gather as other in like cases <lb/>
+            haue done must be by that path w<ex>hi</ex>ch hath beene formerly <lb/>
+            called <foreign xml:lang="la">
+                    <hi rend="italic">Via vegiæ,</hi>
+                </foreign> beinge more secure and speedy. For <lb/>
+            by vnknowen and vntrodden pathes it is bothe rougher <lb/>
+            and tedious and seldome succedeth. This last way althoughe <lb/>
+            it tooke place as it were by a supply at first and receyued <lb/>
+            noe gen<ex>er</ex>all deniall. yet since it hath drawen in any to <lb/>
+            consult w<ex>i</ex>th themselues and others in the Consequence, and is <lb/>
+            nowe conceyued a pr<ex>e</ex>ssure, on their liberties and against lawe
+            <pb n="104r" facs="/bl/add_ms_11600/add_ms_11600_f104r/add_ms_11600_f104r.jpg"/>
+            I much feare, yf that nowe againe either offered either in the same face or by <lb/>
+            pryuie Seale, it wilbe refused wholly neither finde I yett that the restraint <lb/>
+            of those recusants hath produced any other effect then a striffe resoluc<ex>i</ex>on <lb/>
+            in them and others to forbeare./. Besides although it went at first w<ex>i</ex>th <lb/>
+            some assurance yett when wee consider the Comissions and other formes <lb/>
+            incident to such like seria<ex>n</ex>tes as that how longe it hangs in hand and the <lb/>
+            many delaies that were, wee may easely<del rend="strikethrough">ly</del> see what such a som<ex>m</ex>e <lb/>
+            by parliament granted is farr soener and more easely gathered <lb/>
+            yf any will make the successions of tymes to produce an invetible <lb/>
+            necessitie to inforce it, yf denied, whether in gen<ex>er</ex>all by excise or <lb/>
+            imposic<ex>i</ex>on or particuler on some select p<ex>er</ex>sons w<ex>hi</ex>ch is the custome <lb/>
+            of some Countreis, and soe conclude it as there for the publique State <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Supre ma lege</hi>
+                </foreign>. hee must looke for this to be tould him that seinge <lb/>
+            necessitie must conclude alwaies to gather money as lesse speedy or <lb/>
+            assured, then that soe practized w<ex>hi</ex>ch cannot be fitter then by parliament <lb/>
+            the success attendeth the humor of the heedless multitude that are full <lb/>
+            of iealosie and distrust and soe vnlike to Comply to any vnusuall <lb/>
+            course of leuie but by force, w<ex>hi</ex>ch yf vsed the effect is fearefull <lb/>
+            and hath beene fatall to the State, whereas <ex>tha</ex>t by parliament <lb/>
+            resteth principally on the regall p<ex>er</ex>son whoe may w<ex>i</ex>th ease &amp; safety <lb/>
+            mold them to his fitt desires by a gratious yealdinge to there iust <lb/>
+            petic<ex>i</ex>ons./. If a parliament, then booth speedy assurance and a <lb/>
+            safe way it is fitt to conceyue what is the fairest way to act and worke <lb/>
+            it to the present need./. First for the tyme of <sic>vusuall</sic> Summons <lb/>
+            reputed to be fortie dayes, to be to large for this present necessitie <lb/>
+            it may be by datinge the writt lessened, since it is noe possitive <lb/>
+            lawe, Soe that a care be had that there may be a County day <lb/>
+            after the Shereeffe hath receyued the writt before the tyme of <lb/>
+            sittinge. If then the som<ex>m</ex>e to be leuied be once agreed of, for the <lb/>
+            tyme there may be in the body of the gra<ex>u</ex>nt an assignem<ex>en</ex>t made <lb/>
+            to the knights of eu<ex>er</ex>y Countie respectiuely whoe vnder suche <lb/>
+            assurance may safely gyve securety proportinably to <ex>th</ex>e receipts
+            <pb n="104v" facs="/bl/add_ms_11600/add_ms_11600_f104v/add_ms_11600_f104v.jpg"/>
+            to such as shall aduance in present for the publique seruice <lb/>
+            any som<ex>m</ex>es of money. The last and waightest considerac<ex>i</ex>on <lb/>
+            (yf a parliament be thought fitt) is, howe to remove or <lb/>
+            Compli the differences betweene the kinge and Subiects and <lb/>
+            there mutuall demandes./. And what I haue learned <lb/>
+            amongest the better parte of the multitude I will freely <lb/>
+            declare that yo<ex>e</ex>r lo<ex>rdshi</ex>ps may be the more enabled to remove <lb/>
+            and answere these distrusts, that either conceyue Religion <lb/>
+            publique Safty of the kinge and state the iust libertye <lb/>
+            of the Comonwealth ./. For Religion a matter that <lb/>
+            they lay the nearest theire Consciences, and they are ledd <lb/>
+            by this ground of Ielously to doubt some practize against <lb/>
+            First for that the Spanish match w<ex>hi</ex>ch was broken by the <lb/>
+            gratefull industrie of my lo<ex>rd</ex> Buckingham out of <lb/>
+            his religious care (as he there declared) that the articles <lb/>
+            there demaunded might lead in some such sufferance (as <lb/>
+            might endanger the quiet yf not the State of the reformed <lb/>
+            religion heere. yett there haue, when he was an actor <lb/>
+            principle in the Condic<ex>i</ex>ons of Fraunce as hard if not <lb/>
+            worse to the preseruac<ex>i</ex>on of o<ex>u</ex>r Religion passed there <lb/>
+            <del rend="strikethrough">those</del> close keepinge of this agreem<ex>en</ex>t in that point there <lb/>
+            concluded. / It is noe lesse an argum<ex>en</ex>t of doubt <lb/>
+            to them of his affecc<ex>i</ex>ons in that his mother and others many <lb/>
+            his ministers of neere imploym<ex>en</ex>t about him are soe affected <lb/>
+            they talke much of his advancinge men popishly devoted <lb/>
+            some placed in the Campe of neerest seruice and cheife <lb/>
+            Commaunde. and that the recusants haue gott these last <lb/>
+            yeares by this power more of courage and assurance <lb/>
+            then before./. If to cleare these doubts w<ex>hi</ex>ch p<ex>er</ex>happes are <lb/>
+            worsse in feare then in trueth, hee took a course, it <add place="above">might</add> muche <lb/>
+            advance the publique seruice against the squemish humors
+            <pb n="105r" facs="/bl/add_ms_11600/add_ms_11600_f105r/add_ms_11600_f105r.jpg"/>
+            that haue more of violent passion then setled iudgem<ex>en</ex>t, and are not the least of <lb/>
+            the opposite nomber in the Com<ex>m</ex>on wealth./. The next is the late mis=<lb break="no"/>
+            fortune and loss of men and munic<ex>i</ex>on and honor in o<ex>u</ex>r late <sic>wnderstandings</sic> <lb/>
+            abroade, w<ex>hi</ex>ch the more temporate spiritts impute to want of Consall and <lb/>
+            the more sublime wittes to practise./. They began<ex>n</ex>e w<ex>i</ex>th the <hi rend="italic">Palatinate</hi> <lb/>
+            and lay the faulte of the loss there one the improued creditt of <hi rend="italic">Gundemare</hi> <lb/>
+            distrustinge him for the <sic>stainge</sic> of supplies to <hi rend="italic">S<ex>i</ex>r Horrace Vere</hi> <lb/>
+            when <hi rend="italic">Collonell Cecill</hi> was cast on that imploym<ex>en</ex>t, by w<ex>hi</ex>ch the <hi rend="italic">Kinge <lb/>
+            of Spayne</hi> became the master of the kings Childrens inheritance./.
+         </p>
+         <p>
+            And when Count <hi rend="italic">Mansfeild</hi> had a royall supplie of forces to assist <lb/>
+            the princes of p<ex>ar</ex>tie for the recou<ex>er</ex>y thereof either plott or error defeated <lb/>
+            the <del rend="strikethrough">
+                    <unclear reason="deletion">recourie</unclear>
+                </del> <add place="above">enterprize</add> thereof, from vs to <hi rend="italic">Spaynes</hi> advantage./.
+         </p>
+         <p>
+            That <hi rend="italic">S<ex>i</ex>r Robert Manesfeilds</hi> <del rend="strikethrough">
+                    <gap reason="illegible" quantity="35" unit="chars"/>
+                </del> <lb/>
+            expedic<ex>i</ex>on to <hi rend="italic">Argeirs</hi> should purchase only the securitie and guard <lb/>
+            of the Spanish Coasts./.
+         </p>
+         <p>
+            To spend 100000l in the <hi rend="italic">Cales</hi> voyage against the aduice of <lb/>
+            parliam<ex>en</ex>t only to warrant the kinge of <hi rend="italic">Spayne</hi> to be in a readines <lb/>
+            and soe weaken o<ex>u</ex>r selues is taken for a signe of ill affecc<ex>i</ex>on to him <lb/>
+            amongest the multitude./
+         </p>
+         <p>
+            The spendinge of soe much munition victuall and money in my lorde <lb/>
+            <hi rend="italic">Willougbies</hi> iourney is conceyued an vnthriftie error in the <unclear>derector</unclear> <lb/>
+            of it to disarme o<ex>u</ex>r selues in fruitless voyages may to som<ex>m</ex>e ou<ex>er</ex> <lb/>
+            curious seemes a plott of danger to turne the quarrell of <hi rend="italic">Spayne</hi> <lb/>
+            o<ex>u</ex>r antient enemye (that the parliam<ex>en</ex>t petic<ex>i</ex>oned and gaue supplies <lb/>
+            to support) vpon o<ex>u</ex>r allye of Fraunce and soone after a newe and <lb/>
+            happie tye gaue much talke that wee were not soe doubtfull of <lb/>
+            <hi rend="italic">Spayne</hi> as many wish since ./.
+         </p>
+         <p>
+            It was held not longe agoo a fundamentall rule of theire and our <lb/>
+            secureties by the old lo<ex>rd</ex> Burgleigh that nothinge can preuent <lb/>
+            the <hi rend="italic">Spanish Monarchie</hi> but a fastnes of the twoe <hi rend="italic">Princes</hi> <lb/>
+            whose amity gaue Counten<ex>a</ex>nce and courage to the <hi rend="italic">Netherlands</hi> <lb/>
+            and <hi rend="italic">Germane Princes</hi> to make head against his ambic<ex>i</ex>on./
+         </p>
+         <pb n="105v" facs="/bl/add_ms_11600/add_ms_11600_f105v/add_ms_11600_f105v.jpg"/>
+         <p>
+            And wee see by this disvnion a fearefull defeat hath happened to <lb/>
+            <hi rend="italic">Denmarke</hi> and that partie to the advantage of the <hi rend="italic">Austrian</hi> <lb/>
+            family./ And this waste of publique treasure in <lb/>
+            fruitless expedic<ex>i</ex>ons wilbe an important cause to hinder <lb/>
+            any newe supplie in parliament./.
+         </p>
+         <p>
+            Another feare that may disturbe the smoeth and speedy <lb/>
+            passage of the kings desires in parliam<ex>en</ex>t is the vast wast of <lb/>
+            the kings liuelihood, whereby is like as in form<ex>er</ex> tymes to arise <lb/>
+            this ielousie and feare, that when hee hath not of his owne <lb/>
+            to support his ordinary charge (for w<ex>hi</ex>ch the lands of the Crowne <lb/>
+            were setled vnalterable and called <foreign xml:lang="la">
+                    <hi rend="italic">Sacru<ex>m</ex> Patrimonium <lb/>
+               Principis</hi>
+                </foreign> that then hee must of necessitie rest one those <lb/>
+            assistants of the people w<ex>hi</ex>cheu<ex>er</ex> were only collected and <lb/>
+            consigned for the Comon wealth from whence it is like there <lb/>
+            wilbe noe greate labor and Stiffnes to induce his Ma<ex>jes</ex>tie to <lb/>
+            an act of resumption since such desires of the State haue <lb/>
+            found an easy way in the will of all the <hi rend="italic">Princes</hi>, from the <lb/>
+            third <hi rend="italic">Henry</hi> to the last./.
+         </p>
+         <p>
+            But <add place="above">
+                    <ex>tha</ex>t</add> w<ex>hi</ex>ch is like to pass the deeper into theire disputes and care is <lb/>
+            the late pr<ex>e</ex>ssures, they suppose to haue beene done vpon the <lb/>
+            <del rend="strikethrough">like</del> publique libertie and freedome of the subiect in com<ex>m</ex>andinge <lb/>
+            theire goods w<ex>i</ex>thout assent by parliam<ex>en</ex>t confininge theere p<ex>er</ex>sons <lb/>
+            w<ex>i</ex>thout especiall cause declared and that made good against <lb/>
+            them by the Iudges lately. And pretending a writt to <lb/>
+            Comaund theire  attendance in a forraine warr all w<ex>hi</ex>ch they <lb/>
+            are like to inforce as repugnant to many possitiue <lb/>
+            lawes and custumary immunities of this Comon wealth. <lb/>
+            And these dangerous distastes to the people are not a litle <lb/>
+            improued by this <unclear>vnex<ex>am</ex>pled</unclear> cause (as they conceiue) of <lb/>
+            retaininge an inland army in winter season, when former <lb/>
+            tymes of greate feare (as <hi rend="underline">88</hi>) produced none such, and make <lb/>
+            them in theire distracted feares <del rend="strikethrough">and</del> to coniecture<del rend="strikethrough">
+                    <gap reason="illegible" quantity="1" unit="chars"/>
+                </del> idely. it was
+            <pb n="106r" facs="/bl/add_ms_11600/add_ms_11600_f106r/add_ms_11600_f106r.jpg"/>
+            raised wholly to subuert to the will rather of power then of lawe <lb/>
+            and soe make good some farther breache vpon theire liberties and freedome <lb/>
+            at home rather than defend vs from any force abroade, Howe farr such <lb/>
+            iealousees yf they meete w<ex>i</ex>th any vnusuall disorder of lawles soildiers <lb/>
+            are an apte distemper of the loose and needie multitude w<ex>hi</ex>ch will eu<ex>er</ex> <lb/>
+            turne away vpon any occasion in the state that they can side w<ex>i</ex>thall <lb/>
+            to a glorious pretence of Religion and publique saftye when theere <lb/>
+            true end wilbe only rapine of the rich and ruine of all is worthy of <lb/>
+            a prouident and pr<ex>e</ex>ventinge care/.
+         </p>
+         <p>
+            I haue thus farre deliuered w<ex>i</ex>th that freedome you pleased to admitt suche <lb/>
+            difficulties as I haue taken vpp amongest the multitud as may arrest <lb/>
+            if not remoue impedim<ex>en</ex>ts to any speedy supplie in parliam<ex>en</ex>t at this tyme <lb/>
+            w<ex>hi</ex>ch how to faciletate may better become the care of yo<ex>u</ex>r lo<ex>rdshi</ex>ps iudgem<ex>en</ex>ts <lb/>
+            then my ignorance only I could wish that to remoue away a p<ex>er</ex>sonall <lb/>
+            distast of my lo<ex>rd</ex>of <hi rend="italic">Buckingham</hi> amongest the people. hee <lb/>
+            might be pleased (yf there be a necessitie of parliament) to appeare <lb/>
+            first aduise therevnto/.
+         </p>
+         <p>
+            And what satesfacc<ex>i</ex>on it shall please his Ma<ex>jes</ex>tie of grace to giue at suche <lb/>
+            tyme to his people (w<ex>hi</ex>ch I would wish to be graunted by pr<ex>e</ex>sident of <lb/>
+            his best and fortunate progenitors) and w<ex>hi</ex>ch I conceyue will largely <lb/>
+            satisfie the desires and hopes of all if it may appeare in som<ex>m</ex>e sorte <lb/>
+            to be drawen doune from him to the people by the zealous care and <lb/>
+            industry that my lo<ex>rd</ex> <hi rend="italic">Buckingham</hi> hath of the publique vnitie <lb/>
+            and content, by w<ex>hi</ex>ch there is noe dowbt but hee may remaine not <lb/>
+            only secure from any further quarrell w<ex>i</ex>th them but merrit a <lb/>
+            happie memory amongest them of a zealous <hi rend="italic">Patriott</hi>./
+         </p>
+         <p>
+            For to expiat the passion of the people at such tymes w<ex>i</ex>th the <lb/>
+            Sacrifice of anie his Ma<ex>jes</ex>tes servants. I haue eu<ex>er</ex> found it (as in <lb/>
+            <del rend="strikethrough">the</del> E.2. R.2. and H.6.) noe lesse fatall to the Master then <lb/>
+            to the minister in the end./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f102r/add_ms_11600_f102r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f102v/add_ms_11600_f102v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f103r/add_ms_11600_f103r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f103v/add_ms_11600_f103v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f104r/add_ms_11600_f104r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f104v/add_ms_11600_f104v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f105r/add_ms_11600_f105r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f105v/add_ms_11600_f105v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f106r/add_ms_11600_f106r.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to King Charles I</title>
+            <author>
+               <persName corresp="../people/people.xml#P0113">Mohammed esh-Sheikh es-Seghir, Sultan of Morocco</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="PA">
+               <name>Pam Abbott</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_93">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 93</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_226">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 226</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Egerton_MS_2716">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Egerton</collection>
+                <idno>MS 2716</idno>
+                <msName>Gawdy Letters</msName>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_2104">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 2104</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS2716.xml">British Library, Egerton MS 2716, f. 289r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHargraveMS226.xml">British Library, Hargrave MS 226, ff. 233v–235r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS2104.xml">British Library, Harley MS 2104, ff. 35r–35v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 48r–49r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS93.xml">British Library, Lansdowne MS 93, ff. 152r–152v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_Add_MS_22.xml">Cambridge University Library, Additional MS 22, ff. 99r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_Z_e_1.xml">Folger Shakespeare Library,  MS Z.e.1, item 26</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HRO_44M69G12116B.xml">Hampshire Record Office,  44M69/G12/116B</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_K56.xml">St John's College,  MS K.56, item 48</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1637">1637</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>diplomacy</term>
+               <term>piracy</term>
+               <term>trade</term>
+               <term>Tunisia</term>
+               <term>Algeria</term>
+               <term>Morocco</term>
+               <term>statecraft</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-03-07" who="#RB" status="proofread"/>
+            <change when="2018-01-30" who="#RB" status="draft"/>
+            <change when="2018-01-30" who="#PA" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="216v" facs="/bl/add_ms_22591/add_ms_22591_f216v/add_ms_22591_f216v.jpg"/>
+         <head>
+            <hi rend="bold">
+               The <lb/>
+               Kinge of Morocco's letter to Kinge <lb/>
+               Charls <lb/>
+               Kinge of Great Brittane &amp;c 
+            </hi>
+         </head>
+         <p>
+            <hi rend="bold">When</hi> <lb/>
+            Theise our <del rend="strikethrough">Lynes</del> Letters shalbe happye to come to your <lb/>
+            Ma<ex>jes</ex>t<ex>ies</ex> sight, I wish the Spirritt of the righteous god maye soe <lb/>
+            direct the powers of yo<ex>u</ex>r Mynde, That you maye ioyfullye <lb/>
+            imbrace the Message I send, pr<ex>e</ex>senting to you the meanes of <lb/>
+            exalting the Ma<ex>jes</ex>tye of God, and yo<ex>u</ex>r owne renowne amongst <lb/>
+            men, The regall power allotted to our Charge makes vs first <lb/>
+            Comon Servant<ex>es</ex> to our Creator/ then to those whome we gou<ex>er</ex>ne <lb/>
+            (the people) Soe that in the observing the duetie to our God, that we <lb/>
+            owe wee deliver blessings to the world, and in p<ex>ro</ex>viding for the <lb/>
+            publique good of our States we magnifye the honor of God, like <lb/>
+            the Celestiall Bodyes/ that though they haue much venerac<ex>i</ex>on serve <lb/>
+            onlye to yield Benefitts to the world/ It is the Excellencye of <lb/>
+            our Office, to be the Instrum<ex>en</ex>t<ex>es</ex> whereby greate happynes is deliu<ex>ere</ex>d <lb/>
+            to the Nations/ pardon mee, this is not to instruct, for I knowe I <lb/>
+            speake to one of A Clearer and quicker Sight then myself/ but <lb/>
+            I speake this/ because god bine pleased to graunt mee an happy <lb/>
+            victorye one some parte of those rebelling Pyrats/ <ex>tha</ex>t haue soe long <lb/>
+            molested/ <ex>th</ex>e peacefull Trade of Europe/ &amp; haue p<ex>re</ex>sent furth<ex>e</ex>r occasio<ex>n</ex> <lb/>
+            to route out <ex>th</ex>e generac<ex>i</ex>ons of those that haue bine soe p<ex>er</ex>nitious to the <lb/>
+            good of our Nations. I meane that since itt hath pleased God, to bee <lb/>
+            soe auspicious to our begin<ex>n</ex>ing in the Conquest of Salley/ wee might <lb/>
+            ioye and p<ex>ro</ex>ceed w<ex>i</ex>th hope of like Successe of Warr against Tunnis <lb/>
+            Argiere and other places, dens and res<add place="above">e</add>ptacles for the inhumame <lb/>
+            Villanies of those that abhore rule &amp; gou<ex>ern</ex>m<ex>en</ex>t, herein while wee extir=<lb break="no"/>
+            pate <ex>th</ex>e corruptions, and Malignant Spirrits of the world, we shall <lb/>
+            gloryfie <ex>th</ex>e great God/ &amp; p<ex>er</ex>fect A great dutye/ <ex>tha</ex>t will shine as glorious <lb/>
+            as <ex>th</ex>e sonne &amp; Moone/ w<ex>hi</ex>ch all <ex>th</ex>e Earth will see &amp; reverence A worke <ex>tha</ex>t <lb/>
+            shall assend sweet as the p<ex>er</ex>fume of <ex>th</ex>e most p<ex>re</ex>tious Odours in <ex>th</ex>e Nostrills <lb/>
+            of the Lord/ A worke gratefull &amp; happye to men, A worke whose me=<lb break="no"/>
+            morye shalbe reverenced, as long as there shalbe anye remayning A=<lb break="no"/>
+            mongst men/ <ex>tha</ex>t loue &amp; honor the pietye and vertue of noble Myndes, <lb/>
+            This action I willinglye present to you/ whose pious vetues are equall to <lb/>
+            the dignitye of your power/ that wee that are both Servantes to <lb/>
+            the great and mightie God/ maye hand in hand tryumph in <ex>th</ex>e glory <lb/>
+            this actio<ex>n</ex> pr<ex>e</ex>sents to vs/ Now because <ex>th</ex>e Ilands w<ex>hi</ex>ch you gou<ex>er</ex>ne haue bene eu<ex>er</ex> famous <lb/>
+            for the vnconquered strength of yo<ex>u</ex>r Shipping/ I haue sent these my trustye <lb/>
+            Servants &amp; Ambassadors to know whether in yo<ex>u</ex>r princelye wisedome/ you <lb/>
+            shall thincke fitt to assist mee w<ex>i</ex>th such Forces by Seas/ as shalbe au<ex>n</ex>swerable <lb/>
+            to those that I p<ex>ro</ex>vide by Land/ w<ex>hi</ex>ch if you please to Graunt I doubt not but <lb/>
+            the Lord of Hosts will p<ex>ro</ex>tect and assist those <ex>tha</ex>t fight in soe glorious a cause <lb/>
+            nor ought you to thinke it strange/ That I whoe soe much reu<ex>er</ex>ence the peace and accord of na=<lb break="no"/>
+            tions/ should first exhort to A warr/ your great prophett Christ Iesus/ was <ex>th</ex>e Lyon of the <lb/>
+            Tribe of Iudah/ as well as <ex>th</ex>e Lord &amp; giver of Grace/ w<ex>hi</ex>ch maye signifie to you/ <ex>tha</ex>t he that is A <lb/>
+            Lover &amp; mayntayner of Peace/ must appeare w<ex>i</ex>th the Terror of the Sword/ &amp; wading throughe <lb/>
+            Seas of bloud, must arrive to tranquillitie/ This made Iames yo<ex>u</ex>r Father of glorious memorye, soe <lb/>
+            happylie renownd of all Nations It was <ex>th</ex>e noble fame of yo<ex>u</ex>r princelye virtues, w<ex>hi</ex>ch resoundeth to <lb/>
+            the vtermost Corners of the Earthe/ <ex>tha</ex>t p<ex>er</ex>swaded mee to intreate you to p<ex>ar</ex>take of the Blessinge <lb/>
+            wherein I boast my selfe most happy; I wish god may heape <ex>th</ex>e riches of his blessings on you, increase yo<ex>u</ex>r <lb/>
+            happynes w<ex>i</ex>th yo<ex>u</ex>r dayes/ &amp; hereaft<ex>e</ex>r p<ex>er</ex>petrate <ex>th</ex>e greatnes of yo<ex>u</ex>r name to all ages
+         </p>
+         <p rend="align-right">
+         / <hi rend="bold">Finis</hi>
+         </p>
+      </body>
+      <facsimile>
+         <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f216v/add_ms_22591_f216v.jpg"/>
+      </facsimile>
+   </text>
+</TEI>

@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 4103</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_4103">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4103</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>1r-6r</locus>
+                   <title when="1627">Before the Lords, For Refusing to Pay the Forced Loan</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0147">William Coryton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                                <persName corresp="../people/people.xml#P0107">Scribe A</persName>
+                            </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CorytonBeforeLords1627.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>6r-9v</locus>
+                   <title when="1627-11">Petition from the Gatehouse</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0044">Sir John Eliot</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                                <persName corresp="../people/people.xml#P0107">Scribe A</persName>
+                            </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/EliotPetitionGatehouse1627.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>10r-96v</locus>
+                   <title when="1627">Habeas Corpus Case</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                                <persName corresp="../people/people.xml#P0107">Scribe A</persName>
+                            </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/HabeasCorpus1627.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin>folio</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

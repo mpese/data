@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters</title>
+            <author>
+               <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0183">Frederick V, King of Bohemia</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_B_151.xml">Bodleian Library,  MS Rawlinson B 151, ff. 54v–56r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_924.xml">Bodleian Library,  MS Rawlinson D 924, f. 93r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_82.xml">Bodleian Library,  MS Tanner 82, ff. 168v–177r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Dd1428.xml">Cambridge University Library,  MS Dd.14.28, Part II, item 3, 33r–48v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_RO_1_10.xml">Parliamentary Archives,  HL/PO/RO/1/10, ff. 15v–26r?</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1622">c.1622-1623</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>diplomacy</term>
+               <term>foreign policy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-01" who="#RB" status="draft"/>
+            <change when="2018-04-30" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="132r" facs="/bl/add_ms_28640/add_ms_28640_f132r/add_ms_28640_f132r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="italic">A Copy of the Palsgraue his letter to our King 1623.</hi>
+         </head>
+         <p>
+            S<ex>i</ex>r I take yo<ex>u</ex>r Ma<ex>jes</ex>ties letter of the 19 of Nov<ex>ember</ex> for a <lb/>
+            greate honour &amp; favour which when Mr Car<del rend="strikethrough">e</del>leton yo<ex>u</ex>r Em=<lb break="no"/>
+            bassadour deliuered me some fewe dayes agoe he shewed <lb/>
+            me withall yo<ex>u</ex>r Ma<ex>jes</ex>ties intent concerning my restitutio<ex>n</ex> to <lb/>
+            mine honours and patrimony that it is still the same &amp; doth <lb/>
+            continue firme &amp; constant according to yo<ex>u</ex>r Maj<ex>es</ex>ties promises <lb/>
+            to labour &amp; effecte by one way or other that the restitutio<ex>n</ex> <lb/>
+            may be whole &amp; totall, as well in what belongeth to the Elec=<lb break="no"/>
+            torall dignity as the Pallatinate  And that the proportion <lb/>
+            which yo<ex>u</ex>r Maj<ex>es</ex>tie makes in your letter (that I should be contente <lb/>
+            with the administratiue of my sonne, &amp; he with <hi rend="underline">the aspectiue</hi> <lb/>
+            <add place="LM">
+               to haue it after <lb/>
+               <ex>th</ex>e Duke of Ba=<lb break="no"/>
+               var<ex>ia</ex> his death
+            </add>
+            <hi rend="underline">of the Electorate</hi> together with the present possession of the <lb/>
+            Pallatinate) is but on all adventures; if perhaps your <lb/>
+            Maj<ex>es</ex>ties intent be frustrated of the effecte in the totall resti=<lb break="no"/>
+            tution leaving me otherwayes to my full libertie to chuse the <lb/>
+            lesse of these ij evills (if I may so call the<ex>m</ex>) one is a totall resti=<lb break="no"/>
+            tution of my estate &amp; patrimony but with diminutio<ex>n</ex> or rather <lb/>
+            annihilation &amp; bringing to nought (for so it is in effecte as <lb/>
+            touching mine owne person) of my Electorall dignity: the other <lb/>
+            of the recouery of both the one &amp; the other by a warre, the <lb/>
+            event &amp; issue whereof is doubtfull   First of all <del rend="strikethrough">all</del> I <add place="above">hu<ex>m</ex>bly</add> thanke <lb/>
+            yo<ex>u</ex>r Majestie for the Fatherly care it is pleased to continue <lb/>
+            &amp; shewe in this case, which doth more comfort me &amp; my <lb/>
+            deere wife the<ex>n</ex> any feare of humane accidents can make vs <lb/>
+            sad, or then it ca<ex>n</ex> contente vs to recouer the losse of goods &amp; <lb/>
+            meanes by the losse our honour  Wherefore I will take <lb/>
+            the liberty which yo<ex>u</ex>r Majestie giueth me in my answere to <lb/>
+            every particuler  of yo<ex>u</ex>r Maj<ex>est</ex>ies letter.		The first I
+            <pb n="132v" facs="/bl/add_ms_28640/add_ms_28640_f132v/add_ms_28640_f132v.jpg"/>
+            perceiue proceedeth from mine enemies, which is a demande of <lb/>
+            personall submission vnder the Emperors safe-conducte &amp; this they <lb/>
+            would haue performed before all other things   But by the order of <lb/>
+            nature &amp; that which is vsuall in like cases this being but a pointe <lb/>
+            of Ceremony the other a pointe of restitution which is materiall ought <lb/>
+            in reason to goe before   At the least it is necessary that all things <lb/>
+            be first agreed &amp; concluded ratifyed with assurance &amp; such asse=<lb break="no"/>
+            curation as shall be thought convenient &amp; sufficient. And then if <lb/>
+            the meaning be reall &amp; sincere on the Emperors side without any <lb/>
+            desire to take advantage of my person (as did Charles the 5 of <lb/>
+            the person of the Lantgraue of Hessen vpon the subtill distinctio<ex>n</ex> <lb/>
+            of a sillable of his safe conducte <hi rend="italic">Einig</hi> or <hi rend="italic">Enig</hi>) my submission <lb/>
+            may as well be made by a Deputie as otherwayes  And so shall <lb/>
+            I be deliuered fro<ex>m</ex> those feares which the bloudy executio<ex>n</ex> of <lb/>
+            Prague &amp; other Cruelties exercised by the Imperialists might <lb/>
+            haue imprinted in his fancie who is not willing to loose himselfe <lb/>
+            willfully &amp; on a bravery /		Besides my single consent to <lb/>
+            such a Submission with the Condition to yeeld the Electorate <lb/>
+            to the Duke of Bavaria were enough to overthrowe my <lb/>
+            cause for ever forasmuch as the 2 Electors of Saxon &amp; <lb/>
+            Brandenburgh who haue alwayes protested against the <lb/>
+            transferring of the Electorate / &amp; the other Princes of <lb/>
+            Germany that are of the same minde would quickly goe <lb/>
+            from the protestation which was made on the behalfe of him <lb/>
+            who forsakes his owne right &amp; giues ouer his claime, &amp; in <lb/>
+            steade of favouring me they would become my opposites &amp; <lb/>
+            enemies. Further the experience of what is paste may <lb/>
+            teache vs what to looke for hereafter &amp; what the issue will <lb/>
+            be of such like conditions if we should agree to them – The <lb/>
+            Emperor hving taken his advantage &amp; made vse of two in <lb/>
+            the sight of the worlde  <hi rend="underline">One was the Instrument of my Con <lb/>
+               ditionall renunciation of the Crowne of Bohemia which I sea=<lb break="no"/>
+               led in the yeere 1622</hi>  The other my Ratificatio<ex>n</ex> of my cessati<unclear>on</unclear>
+            <pb n="133r" facs="/bl/add_ms_28640/add_ms_28640_f133r/add_ms_28640_f133r.jpg"/>
+            of Armes this last Summer.			The First served him to <lb/>
+            hasten to a Conclusion the treaty of peace which was on foote <lb/>
+            with Bethlehem Gabor./  The second to discourage &amp; disharte<ex>n</ex> <lb/>
+            the Electors of Saxony &amp; Brandenburgh with the Princes <lb/>
+            of the lower Saxony that they might not enterprise any <lb/>
+            thing against him / Both the one &amp; the other were divulged <lb/>
+            by him for these endes according as he had notice of theire <lb/>
+            p<ex>ro</ex>jects before any thing was concluded or ratifyed. And in <lb/>
+            all likelihood he meanes to make the same vse of this propositio<ex>n</ex> <lb/>
+            of submission (if we should yeeld to the same) to stoppe 2 gaps <lb/>
+            with i bush, to hinder Bethlehem<del rend="strikethrough">s</del> Gabors proceeding on the <lb/>
+            one side &amp; to intimidate &amp; feare the Princes of Germany <lb/>
+            on the other, who may lawfully excuse themselues for relin=<lb break="no"/>
+            quishing him who is bound hand &amp; foote by his Consent to a <lb/>
+            submission, wwhich if it be agreed vnto the Emperor hath it <lb/>
+            alwayes in his power to breake it, or to goe on as he shall <lb/>
+            thinke it expedient for himselfe.	I assure my selfe also that <lb/>
+            your Maj<ex>es</ex>tie will haue regard that by this submission &amp; treaty <lb/>
+            my proscription &amp; banditing be not approved as being done <lb/>
+            contrary to the Constitutions of the Empire &amp; so helde for <lb/>
+            nulle of the Elect<ex>or</ex> of Sax<ex>ony</ex> &amp; Brandenb<ex>urg</ex> &amp; by that meanes a <lb/>
+            brande of infamy be not set vpon me &amp; my posteritie.	Second=<lb break="no"/>
+            ly touching the 2d pointe your Maj<ex>esty</ex> will be pleased to remember <lb/>
+            that Spaine hath alwaies from the first beginning put me in <lb/>
+            hope of a totall restitution in mine owne person / &amp; the Earle <lb/>
+            of Bristowe wrote to me from Madrid in Nov. 1622 when the <lb/>
+            matche was not so farre gone on as nowe it is, that the k<ex>ing</ex> of <lb/>
+            Sp<ex>ain</ex> in case that a totall restitution were denyed would joyne <lb/>
+            his forces to yo<ex>u</ex>r Maj<ex>es</ex>t<ex>ie</ex>s to constraine the Emperor to doe it. In <lb/>
+            steade of this restitution they haue congratulate fro<ex>m</ex> Bruxels <lb/>
+            the translation of my Electorate to the Duke of Bavaria at <lb/>
+            Ratisbone.		They haue dismembred the lower Pallatinate by <lb/>
+            giuing Bergstrate one of the best pieces thereof to the B<ex>ishop</ex> of <lb/>
+            Mentz &amp; the vpper Pallatinate by giuing diverse Territories
+            <pb n="133v" facs="/bl/add_ms_28640/add_ms_28640_f133v/add_ms_28640_f133v.jpg"/>
+            &amp; Lordships in it, to the D<ex>uke</ex> of <hi rend="italic">Newburgh</hi> to ingage them the dee=<lb break="no"/>
+            per in the quarrell that theire particuler interests in mainteyning <lb/>
+            theire owne may drawe the<ex>m</ex> to joyne in the generall defense of all <lb/>
+            that the Imperialists haue vsurped of mine.		They confiscate <ex>th</ex>e <lb/>
+            goods of my subjects &amp; of those that followe my party sparing <lb/>
+            neither widowe nor orphane.  It seemes therefore necessary <lb/>
+            that first of all sufficient suerty &amp; security be had of the totall rest<unclear>i</unclear> <lb/>
+            tutio<ex>n</ex> of my Electorate &amp; Pallatinate before we goe on to newe <lb/>
+            propositions &amp; treaties of Marriages which (as they are ordinarily <lb/>
+            handled by the house of Austria) are drawne at length &amp; spunne <lb/>
+            out with delayes they hauing no other ayme but the augmentatio<ex>n</ex> <lb/>
+            &amp; increasing of theire owne greatnes without respecte of Civill <lb/>
+            honestie or of theire word &amp; promise. I haue the dolefull expe <lb/>
+            rience thereof in mine owne house in the person of one of my pr<unclear>e</unclear> <lb/>
+            descessours <hi rend="italic">Frederick 2</hi> who did contribute more to the laying of <ex>th</ex>
+                <unclear>e</unclear> <lb/>
+            first foundations of the greatnes of that house of Austria then any <lb/>
+            Prince in Germ<ex>any</ex>   &amp; for a rewarde of his good offices he was <lb/>
+            kept in hope &amp; draawne along for the space of many yeeres by <lb/>
+            treaties &amp; promises of marriage without any true &amp; reall intent<unclear>e</unclear> <lb/>
+            (as appeared by the effects) of performing <del rend="strikethrough">so</del>: so that seeing he <lb/>
+            who deserved so well of that house &amp; whome in outward shewe they <lb/>
+            helde in as greate esteeme as any other Prince in Germany <lb/>
+            was vsed so vnworthely in matter of marriage, I, (hauing beene <lb/>
+            vnlawfully proscribed by the Imperiall Bandite &amp; despoiled of <lb/>
+            my dignities &amp; goods by the bitter hatred &amp; unjust vsurpatio<ex>n</ex> of the <lb/>
+            Emp<ex>eror</ex> (the matching with whose daughter is nowe in question) know <lb/>
+            not what to promise to my selfe of such treaties other then the sam<unclear>e</unclear> <lb/>
+            effects of fraud &amp; deceite of which my Predecessor abouen<unclear>
+                    <ex>amed</ex>
+                </unclear>  did <lb/>
+            feele the smacke &amp; repente him when it was too late to remedie <lb/>
+            it. The Emp<ex>eror</ex> wants only 2 or 3 yeeres space which he would <lb/>
+            gladly gaine by a treaty of marriage to the end that he hight in <unclear>
+                    <ex>th</ex>e</unclear> <lb/>
+            meane time establish in Germ<ex>any</ex> the translation of my Elect<ex>oral</ex> dignity &amp; <lb/>
+            patrimoniall estate without feare that I should ever recover the l<unclear>  </unclear> <lb/>
+            opportunity that nowe I haue, whilste my claime is not prejudice<unclear>d</unclear>
+            <pb n="134r" facs="/bl/add_ms_28640/add_ms_28640_f134r/add_ms_28640_f134r.jpg"/>
+            by the interposition of too greate an intervalle &amp; while as the memo=<lb break="no"/>
+            ry of the vnlawfull proceeding in the publication of bandite ag<ex>ainst</ex> mmy <lb/>
+            person in the transl<ex>ation</ex> of my Elect<ex>oral</ex> dignity &amp; occupation of my patrimony <lb/>
+            &amp; estate is yet recent in the minds &amp; hearts of the Germ<ex>an</ex> Princes <lb/>
+            who doe nowe compassionate the fresh bleeding woundes of my <lb/>
+            miseries &amp; doe fervently &amp; passionately desire to cure the<ex>m</ex> considering <lb/>
+            theire owne interests &amp; howe it may be theire owne case.
+         </p>
+         <p>
+            And here I will answ<ex>er</ex> the last p. of yo<ex>u</ex>r Maj<ex>esty</ex>s letter where yo<ex>u</ex>r <lb/>
+            Maj<ex>esty</ex> commands me to consider what probable &amp; peaceable meanes <lb/>
+            there are to reduce my estate to the former condition &amp; to poize <lb/>
+            yo<ex>u</ex>r Maj<ex>esty</ex>s forces together with those of yo<ex>u</ex>r confederates &amp; those which <lb/>
+            yo<ex>u</ex>r Maj<ex>esty</ex> may assuredly hope or loke for.  If yo<ex>u</ex>r Maj<ex>esty</ex> hope for <lb/>
+            my restitution as an effecte of the Sp<ex>anish</ex> matche there is nothing <lb/>
+            else to be done but to expecte the evente with patience / &amp; if yo<ex>u</ex>r <lb/>
+            Maj<ex>esty</ex> will still distinguish &amp; make a difference betwixt Sp<ex>ain</ex> &amp; the <lb/>
+            Imperialists there is no more to be said of that subjecte but that <lb/>
+            they did many monthes conspire to my ruine with the same forces <lb/>
+            the same councelles the same designes    If it would please your <lb/>
+            Maj<ex>esty</ex> to lifte vp the Spanyards visard of faier shewes &amp; beholde <lb/>
+            his hidden malice as well as yo<ex>u</ex>r Maj<ex>esty</ex> hath in the ende found the <lb/>
+            open violence &amp; professed hostilitie of the Imperialists who besie=<lb break="no"/>
+            ged yo<ex>u</ex>r garrisons within my townes which were taken into your <lb/>
+            Maj<ex>esty</ex>s protection .		I will vse the libertie which <lb/>
+            yo<ex>u</ex>r Maj<ex>esty</ex> is pleased to giue me in discoursing of yo<ex>u</ex>r Maj<ex>esty</ex>s forces <lb/>
+            of the forces of yo<ex>u</ex>r confederates &amp; what may be in reason &amp; proba=<lb break="no"/>
+            bility expected of other<del rend="strikethrough">s</del> frends &amp; well-wishers.			1. I will <lb/>
+            beginne with the laste In which ranke I put the Princes of Germ<ex>any</ex> <lb/>
+            (to witte the 2 Elect<ex>ors</ex> Sax<ex>ony</ex> &amp; Brand<ex>enburg</ex> &amp; in effecte all the rest <del rend="strikethrough">of</del> <lb/>
+            except those of the Cathol<ex>ic</ex> league) who haue sufficiently declared th<ex>eir</ex> <lb/>
+            disavowing of the proceed<ex>ings</ex> of the Imper<ex>ialist</ex>s ag<ex>ainst</ex> vs &amp; made knowne <lb/>
+            th<ex>eir</ex> judgm<ex>ent</ex> &amp; opinio<ex>n</ex> / that the peace of Germ<ex>aany</ex> doth depend on my <lb/>
+            restitution.  Further the leavies of men which they made in the <lb/>
+            beginning of last Summer howsoever they were shortly after <lb/>
+            dismissed by occasion of that vnhappie misfortune which befell Chr<ex>istian</ex> <lb/>
+            D<ex>uke</ex> of Brunswicke) had not fayled without all doubt to haue beene <lb/>
+            employed for my aide if they had had the Countenance &amp; helpe
+            <pb n="134v" facs="/bl/add_ms_28640/add_ms_28640_f134v/add_ms_28640_f134v.jpg"/>
+            of some greate <del rend="strikethrough">Pope</del> Potentate to vpholde them &amp; to oppose ag<ex>aainst</ex> the <lb/>
+            house of Austria. The same affection doth remaine still &amp; the same re=<lb break="no"/>
+            solution to lay holde on the first good occasion that shall offer it selfe <lb/>
+            for the libertie of Germ<ex>any</ex>.   Neither will there be wanting handes e=<lb break="no"/>
+            nough to accomplish such a worke when it shall once be vndertaken <lb/>
+            openly &amp; seriously seeing the nu<ex>m</ex>ber is greate &amp; mighty of those who <lb/>
+            haue theire interests joyned with mine. Yea the most parte of the <lb/>
+            soldiers both horse &amp; foote that marche vnder the banner of the Cath<ex>olic</ex> <lb/>
+            league are of a contrary relig<ex>ion</ex> to theires &amp; theire affections (as all <lb/>
+            the world knowes) are more inclined to the ruine of those Leagues<unclear>s</unclear> <lb/>
+            then theire preservatio<ex>n</ex>.    		But both the Princes &amp; the people doe <lb/>
+            wante (as we sawe this last yeere) some greate &amp; puissant Prince t<unclear>o</unclear> <lb/>
+            be theire leader.	The k<ex>ing</ex> of Denmarke is he on whom all men <lb/>
+            caste theire eyes, but he being full of Cicu<ex>m</ex>spection &amp; wary is not <lb/>
+            willing to enter alone into the quarrell but maketh answ<ex>er</ex> to all re <lb/>
+            quests that are made to him / That as other Princes haue theire ey<unclear>es</unclear> <lb/>
+            <add place="LM">2</add> on him so he hath his eyes on yo<ex>u</ex>r Majestie	     2    As <lb/>
+            for yo<ex>u</ex>r Maj<ex>esty</ex>s forces it doth not belong to me to judge of them, but see <lb/>
+            ing yo<ex>u</ex>r Maj<ex>esty</ex> doth command me I will poize them in the ballance o<unclear>f</unclear> <lb/>
+            Commo<ex>n</ex> judgment  That God hauing blessed yo<ex>u</ex>r Maj<ex>esty</ex> in the happy <lb/>
+            vnion of the 3 kingd<ex>oms</ex> Engl<ex>and</ex> Scotl<ex>and</ex> &amp; Ireland vnder one heade your your ro<unclear>y</unclear> <lb/>
+            all person, the power of one of which 3  hath alone done so greate <lb/>
+            matters heretofore in the affaires of Christendome on this side the <lb/>
+            sea (&amp; that even when it was Counterpoised by others) it may easil<unclear>y</unclear> <lb/>
+            appeere what yo<ex>u</ex>r Maj<ex>esty</ex> is able to doe with the jointe forces of al<unclear>l</unclear> <lb/>
+            these 3 together when yo<ex>u</ex>r Maj<ex>esty</ex> shall please to take such resolution <lb/>
+            Chiefly when the matter toucheth yo<ex>u</ex>r owne proper children  Who o<unclear>f</unclear> <lb/>
+            the voluntary Contributio<ex>n</ex> which we haue alreadie had for our su<unclear>p</unclear> <lb/>
+            porte from yo<unclear>u</unclear>r Maj<ex>estys</ex> subjects may easily conjecture what may be <unclear>ex</unclear> <lb/>
+            pected from them, when your Maj<ex>esty</ex>s publike authority shall ioyned wi<unclear>th</unclear> <lb/>
+            theire private affections; there being no Prince in the world mor<unclear>e</unclear> <lb/>
+            beloued &amp; reverenced of his subjects nor that hath greater power to <lb/>
+            command theire willes &amp; meanes for the service of yo<ex>u</ex>r Majesties <lb/>
+            <add place="LM">3</add> person &amp; children			3. Touching your Confedera<unclear>tes</unclear> 
+            <pb n="135r" facs="/bl/add_ms_28640/add_ms_28640_f135r/add_ms_28640_f135r.jpg"/>
+            I can<del rend="strikethrough">not</del> <add place="above">can</add>  but regrate that the hardnes of these vnhappie times hath <lb/>
+            separated a greate parte of them (the Princes of the vnion in Germ<ex>any</ex>) <lb/>
+            that did professe that Relig<ex>ion</ex> of which they did acknowledge yo<ex>u</ex>r Maj<ex>esty</ex> <lb/>
+            for defender &amp; protector; but theire willes are no whit altered <lb/>
+            but still the same, howbeit they haue beene forced to giue way to <lb/>
+            the present necessity of theire affayres &amp; when occasion shall offer <lb/>
+            yo<ex>u</ex>r Maj<ex>esty</ex> may make full accompte that they will shewe themselues <lb/>
+            such.			There remayneyth only the States of the Vnited <lb/>
+            Provinces (whether we haue had our refuge in the time of our <lb/>
+            afflictions) who doe mainteine theire right by the helpe of God, <lb/>
+            the Scituation of th<ex>eir</ex> Country &amp; the strength of theire soldiers, all <lb/>
+            alone as yet against the power of the k<ex>ing</ex> of Sp<ex>ain</ex> vnderpropped <lb/>
+            &amp; seconded by the Imperialists. And in steade of fainting vnder <lb/>
+            such a burden &amp; listening to any overture of submission which is <lb/>
+            presented &amp; offered to them every houre, they doe nowe pre=<lb break="no"/>
+            pare themselues for an offensiue warre having made readie a <lb/>
+            brave fleete which is on the pointe to set saile for the Weste <lb/>
+            Indies, to breake of &amp; interrupt at leaste the yeerly <del rend="strikethrough">returnes</del> <lb/>
+            &amp; peaceable returnes &amp; transportatio<ex>n</ex> of siluer &amp; golde from <lb/>
+            those partes by which the house of <hi rend="italic">Austria</hi> doth continuallie ad=<lb break="no"/>
+            vance &amp; increase her greatnes.			This designe is <lb/>
+            praysed of all honest men &amp; such as loue publike libertie as <lb/>
+            being the sole &amp; only meane to make the fearfull greatnes &amp; <lb/>
+            puissance of Spaine fall to the ground like a greate &amp; farre <lb/>
+            spreading tree cutte at the roote, which was thought too harde <lb/>
+            a taske for so small a spotte of ground as this is, but will <lb/>
+            prove easie or at leaste f<del rend="strikethrough">e</del>acible by forces competent for such an <lb/>
+            enterprise   For if it please your Maj<ex>esty</ex> to make vse of the <lb/>
+            forces &amp; meanes of this State by sea or lande to oppose theirs <lb/>
+            &amp; by consequence my enemies  Theire profession of a loyall &amp; <lb/>
+            sincere affection (even to the hazard of theire liues &amp; goods) tow<ex>ards</ex> <lb/>
+            yo<ex>u</ex>r Maj<ex>es</ex>ties service grounded vpon by-past experience, theire <lb/>
+            present interests, &amp; that which may be foreseene &amp; judged of things <lb/>
+            to come, doe assure me that yo<ex>u</ex>r Maj<ex>esty</ex> may absolutely dispose of <lb/>
+            them, &amp; by them being firmely &amp; strongly vnited &amp; joyned to yo<ex>u</ex>r
+            <pb n="135v" facs="/bl/add_ms_28640/add_ms_28640_f135v/add_ms_28640_f135v.jpg"/>
+            Maj<ex>esty</ex> may commande &amp; controlle all Europe at yo<ex>u</ex>r pleasure.
+         </p>
+         <p>
+            It is in obedience to you<ex>u</ex>r Maj<ex>esty</ex>s commande that I haue so <lb/>
+            farre inlarged this discourse which I will ende with the reiteratio<ex>n</ex> <lb/>
+            of most humble thankes for the continuance of yo<ex>u</ex>r Maj<ex>esty</ex>s gratiou<unclear>s</unclear> <lb/>
+            &amp; fatherly bounty particulerly demonstrated in the care which i<unclear>s</unclear> <lb/>
+            hath of bringing vp my eldest sonne at yo<ex>u</ex>r Maj<ex>es</ex>t<ex>ie</ex>s courte who to <lb/>
+            gether with all the reste are at yo<ex>u</ex>r Maj<ex>es</ex>t<ex>ie</ex>s disposing, &amp; we hope t<unclear>o</unclear> <lb/>
+            liue (notwithstanding our harde &amp; sad condition) &amp; see the day wh<unclear>en</unclear> <lb/>
+            we shall be able to pay yo<ex>u</ex>r Maj<ex>esty</ex> the fruite of a devout &amp; filial <lb/>
+            gratitude / &amp; I will remaine to the last day of my life
+         </p>
+         <p>
+            From the Hage the 20 of <lb/>
+            Decemb. 1623.
+         </p>
+         <p>
+            
+         </p>
+         <p>
+            Post-script<ex>um</ex> <lb/>
+            S<ex>i</ex>r I am aduertised by my Welwillers that the Bish<ex>op</ex> of Ment. <lb/>
+            &amp; the other Princes of the Papisticall league are very instant wi<unclear>th</unclear> <lb/>
+            the Electors of Sax<ex>ony</ex> &amp; Brand<ex>enburg</ex> to bring them to acknowledge th<unclear>e</unclear> <lb/>
+            D<ex>uke</ex> of Bavaria for Elector of the Empire, which if they effecte <lb/>
+            is easie to judge howe much it will prejudice my affayres &amp; the <unclear>com</unclear> <lb/>
+            mon cause of the Empire: Wherefore I beseech yo<ex>u</ex>r Maj<ex>esty</ex> most h<unclear>u<ex>m</ex>
+                </unclear> <lb/>
+            bly that it would be pleased to prevent &amp; hinder theire designe<unclear>s</unclear> <lb/>
+            by interposing yo<ex>u</ex>r Maj<ex>esty</ex>s good offices &amp; exhortations to the 2 secul<unclear>ar</unclear> <lb/>
+            <del rend="strikethrough">Princes</del> Electors, either by an Embassage or Letters or some su<unclear>ch</unclear> <lb/>
+            way as yo<ex>u</ex>r Maj<ex>esty</ex> shall thinke meete &amp; convenient for so importan<unclear>t</unclear> <lb/>
+            a busines, which aboue all requires speciall hast &amp; dilligent Celerit<unclear>y</unclear>
+         </p>
+         <p>
+            Your Maj<ex>esty</ex> shall so heape vpon me more &amp; more &amp; increase not <lb/>
+            only my Obligations, but also the Obligations of the publike <lb/>
+            State of all Germany. /
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f132r/add_ms_28640_f132r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f132v/add_ms_28640_f132v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_28640/add_ms_28640_f133r/add_ms_28640_f133r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_28640/add_ms_28640_f133v/add_ms_28640_f133v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_28640/add_ms_28640_f134r/add_ms_28640_f134r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_28640/add_ms_28640_f134v/add_ms_28640_f134v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_28640/add_ms_28640_f135r/add_ms_28640_f135r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_28640/add_ms_28640_f135v/add_ms_28640_f135v.jpg"/>
+   </facsimile>
+</TEI>

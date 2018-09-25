@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Catholics of England</title>
+            <author>
+               <persName corresp="../people/people.xml#P0103">Queen Henrietta Maria</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11045.xml">
+               <msIdentifier xml:id="BL_Add_MS_11045">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11045</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 11045</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_181">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 181</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_5108">
+                    <country>United Kingdom</country>
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Harley</collection>
+                    <idno>MS 5108</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="John_Rylands_Eng_MS_737">
+                    <country>United Kingdom</country>
+                    <settlement>Manchester</settlement>
+                    <repository>John Rylands Library</repository>
+                    <collection>Eng</collection>
+                    <idno>MS 737</idno>
+                    <msName/>
+                </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS5108.xml">British Library, Harley MS 5108, ff. 129r–130r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Carte_77.xml">Bodleian Library,  MS Carte 77, ff. 474r–477r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/JohnRylandsEngMS737.xml">John Rylands Library, Eng MS 737</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>A Coppy of 1. The letter sent by the Queenes Majestie</title>
+                  <date when="1641">1641</date>
+                  <idno type="Wing">C6196 and C6196A</idno>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Rushworth</surname>
+                     </persName>
+                  </author>
+                  <title>Historical Collections</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1721">1721</date>
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="820" to="822">820-822</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <persName>
+                        <forename>John</forename>
+                        <surname>Nalson</surname>
+                     </persName>
+                  </author>
+                  <title>Impartiall Collection of the Great Affairs of State</title>
+                  <pubPlace>London</pubPlace>
+                  <date when="1682" from="1682" to="1683">1682-1683</date>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="page" from="741" to="744">741-744</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1639-04-17">17 April 1639</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholics</term>
+               <term>state finance</term>
+               <term>revenue</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change status="draft" who="#RB" when="2017-10-04"/>
+            <change status="proofread" who="#NM" when="2018-06-22"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="20r" facs="/bl/add_ms_11045_part/add_ms_11045_f020r/add_ms_11045_f020r.jpg"/>
+         <p>
+            By vertue of this letter followeing doe Collectors in all Counties re=<lb break="no"/>
+            paire to the Catholiques for such sommes of mony, as <unclear reason="handwriting" cert="low">are</unclear> to bee raised <lb/>
+            by their liberall contribution to bee presented to her Ma<ex>jes</ex>tie, and by <lb/>
+            her Ma<ex>jes</ex>tie to bee presented to the kinge in their behalfe: Henrietta <lb/>
+            Maria R: wee haue soe good a beleife of the loyalty and affection <lb/>
+            of his Ma<ex>jes</ex>t<ex>y's</ex>s Catholique subiects, as wee doubt not, but vppon this <lb/>
+            occasion, that hath called his Ma<ex>jes</ex>tie into the northerne parts for the <lb/>
+            defence of his honour, and dominions, they will expresse themselves <lb/>
+            soe affected, as wee haue alwayes represented them to his Ma<ex>jes</ex>tie <lb/>
+            soe in this common consent which hath appeard in the nobillitie, <lb/>
+            Iudges, gentrie, and others to forward his Ma<ex>jes</ex>ties service by their <lb/>
+            persons, and estates, wee haue made noe difficultie to answeare <lb/>
+            for the same correspondencie in his Catholiques, not withstanding <lb/>
+            they haue already concurrd to his Ma<ex>jes</ex>t<ex>y's</ex>s service, according to the <lb/>
+            quallities where of they are, when others of the same quallity <lb/>
+            were calld vppon: for wee beleived it became vs, whoe haue <lb/>
+            bine soe often interessed in the sollic<add place="above">itation</add>
+                <del rend="strikethrough">tated</del> of their benifitts, to <lb/>
+            shewe our selve nowe in the perswation of their gratitudes: <lb/>
+            Therefore haveing by other meanes already recommended to <lb/>
+            them, this earnest desire of ours, to assist and serve his Ma<ex>jes</ex>tie <lb/>
+            by some considerable sommes of money freely, and cheerefully <lb/>
+            presented, wee haue thought fitt (to the end that this our desire <lb/>
+            maye bee the more publique, and the more authorized) hereby <lb/>
+            to give you Commission, and direction to distribute coppies <lb/>
+            vnder your hand of the <del rend="strikethrough">satisfaction</del>
+                <add place="above">testification</add> there of vnto those, that haue <lb/>
+            mett in london by our direction about this businesse, and vnto the <lb/>
+            severall Collectors of every Countie: And as wee presume <lb/>
+            the summe they will raise will not bee vnworthy our presenting <lb/>
+            to the kinge, soe wee shall bee ever sensible of it, as a p<ex>ar</ex>ticuler <lb/>
+            respect to our selfe, and will indeavour in the most efficati=<lb break="no"/>
+            ous manner wee can, to improve the merritt of yt, and (to re=<lb break="no"/>
+            move any apprehention of preiudice, that any whoe shall imploye <lb/>
+            them selves towards the successe of this businesse maye conceive <lb/>
+            by this, they maye bee assured that wee will secure <add place="above">them</add> from all <lb/>
+            such obiected inconvenience: And wee are verie confident, <lb/>
+            that this our first recommendation will bee soe complyed w<ex>i</ex>th all, <lb/>
+            as it maye not onely afford vs p<ex>ar</ex>ticuler satisfaction, but alsoe <lb/>
+            facillitation to their owne advantage: Given under our signett at <lb/>
+            white Hall this 17th of Aprill 1639.
+         </p>
+         <p rend="indent">
+            To our right trusty, and welbeloved Chaunsellour S<ex>i</ex>r Iohn <lb/>
+            Winter kn<ex>igh</ex>t our principall secretarie, &amp; Master of Requests:
+         </p>
+         <p>
+            The Catholiques about the towne haue p<ex>er</ex>vsd the contents of this <lb/>
+            letter, and many of them haue contributed largely the eight p<ex>ar</ex>te of the <lb/>
+            true value of their estates; the Catholiques which are not conuict <lb/>
+            are required to paie according to that proportion; but the conuict <lb/>
+            Catholiques paye onely the 10. p<ex>ar</ex>te of their estates, according to the <lb/>
+            rackt rents, because the kinge hath 2. thirds <del rend="strikethrough">p<gap reason="illegible" quantity="1" unit="chars"/>
+                </del> of their estates <del rend="strikethrough">
+                    <gap reason="illegible" quantity="5" unit="chars"/>
+                </del> <lb/>
+            <del rend="strikethrough">
+                    <gap reason="illegible" quantity="6" unit="chars"/>
+                </del>
+                <add place="above">but</add> at a very lowe value: Twoe things trouble the Catholiques verie <lb/>
+            <milestone unit="section" type="LM"/>
+            <seg style="transform:rotateZ(90deg)">
+               much, one is, That their estates are given in to the true value, which they suppose maye <del rend="strikethrough">
+                        <gap reason="illegible" quantity="3" unit="chars"/>
+                    </del> breede them greate inconveniences in tyme to <lb/>
+               come; the other is, that notwithstanding this large contribution, which is required from them, Mr. Putfords Commission is putt <lb/>
+               in execution, which is, to indighte all Recusants throughout the kingdome: Putford hath such a Commission lately graunted to <lb/>
+               him, w<ex>hi</ex>ch Com<ex>m</ex>ission hee hath sent downe into some Counties, since the Queene hath required the Catholiques benevolence: these <lb/>
+               twoe p<ex>ar</ex>rtciulers hath soe much disordered the Catholiques, as the Queenes required benevolence receaves many rubbes, It <lb/>
+               passeth not soe currantly, as other wise it would haue done, if these foresaid inconveniences had bine remydyed:<lb/>
+            </seg>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11045_part/add_ms_11045_f020r/add_ms_11045_f020r.jpg"/>
+   </facsimile>
+</TEI>

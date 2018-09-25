@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Military Oath Offered at York and Refused</title>
+            <author>
+               <persName corresp="../people/people.xml#P0050" type="respondent">Robert Greville, Lord Brooke</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0051" type="respondent">William Fiennes, Viscount Saye &amp; Sele</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_12191">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 12191</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="MilitaryOath1639v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS35331.xml">British Library, Additional MS 35331, ff. 72v–73r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1639-08">August 1639</date>
+            <placeName corresp="..places/places.xml#PL0015">York</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>oath</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Bishops' Wars</term>
+               <term>Military</term>
+               <term>oaths</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-14" who="#SV" status="proofread"/>
+            <change when="2018-01-25" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="38r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f038r/harley_ms_4931_f038r.jpg"/>
+         <head rend="indent">
+            A Military Oath. An<ex>no</ex> 1639. Aug.
+         </head>
+         <p>
+            I doe sweare before the Allmighty, &amp; Everlasting <lb/>
+            God, that I will beare a faithfull Allegiance to <lb/>
+            my true, &amp; undoubted Soveraigne Lord King <lb/>
+            Charles, who is lawfull King of this Iland, &amp; other <lb/>
+            his Kingdomes, &amp; Dominions both by Sea, &amp; Land, both <lb/>
+            by the Lawes of God, &amp; man, &amp; by lawfull Succes-<lb break="no"/>
+            sion. And that I will most constantly, &amp; cheerfully <lb/>
+            even to the uttmost hazard of my life, &amp; fortunes <lb/>
+            constantly oppose all Seditions, Rebellions, Conspiracies, <lb/>
+            Covenants, Conjurations, &amp; Treasons whatsoever against <lb/>
+            his royall dignity, Crowne, or Person, raised, or sett <lb/>
+            up under what pretense, or colour soever, And if it <lb/>
+            shall come vailed under pr<ex>e</ex>tense of Religion I hold <lb/>
+            it more abominable before God, &amp; men. And this <lb/>
+            Oath I take voluntarily in the true faith of a good <lb/>
+            Christian, &amp; Loyall Subject w<ex>i</ex>thout any Equivocation, <lb/>
+            or mentall reservation whatsoever. From w<ex>hi</ex>ch I hold no <lb/>
+            power on earth can absolve me in any <hi rend="underline">part./.</hi>
+         </p>
+         <p>
+            <handShift medium="darker ink" script="smaller"/>
+            This Oath was putt upon all the Nobles of England, who were in <lb/>
+            the North (Anno 1639) attending the king, when he went against the <lb/>
+            Scotts; And my Lord Say, &amp; my Lord Brookes only refused this <lb/>
+            Oath at first, whose example drew on others.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f038r/harley_ms_4931_f038r.jpg"/>
+   </facsimile>
+</TEI>

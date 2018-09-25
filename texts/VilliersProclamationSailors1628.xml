@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation to the Sailors</title>
+            <author>
+               <persName corresp="../people/people.xml#0009">George Villiers, 1st Duke of Buckingham</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_8827">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 8827</idno>
+               <msName/>
+            </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_48059">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 48059</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72373">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72373</idno>
+               <msName>Trumbull Papers</msName>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_540B.xml">Alnwick Castle,  MS 540B, ff. 199–200</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_48059.xml">British Library, Additional MS 48059, ff. 407r–408r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72373.xml">British Library, Additional MS 72373, f. 31r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_8827.xml">British Library, Additional MS 8827, f. 379r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_161.xml">British Library, Harley MS 161, f. 253r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, f. 32r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2217.xml">British Library, Harley MS 2217, f. 49r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_2305.xml">British Library, Harley MS 2305, f. 281r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_4264.xml">British Library, Harley MS 4264, ff. 197v–198r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6800.xml">British Library, Harley MS 6800, f. 285r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb166.xml">Beinecke Library, Osborn fb166, f. 239r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_C_186.xml">Bodleian Library,  MS Add. C 186, ff. 329r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Add_C_187.xml">Bodleian Library,  MS Add. C 187, ff. 255r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_276.xml">Bodleian Library,  MS Tanner 276, f. 114r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HRO_44M69L2320.xml">Hampshire Record Office,  44M69/L23/20</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/LPL_Sion_College_MS_ARC_L_40_2_E10.xml">Lambeth Palace Library, Sion College MS ARC L.40.2/E10, ff. 58x–59x</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1628-05-14">14 May 1628</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>proclamation</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>state finance</term>
+               <term>protest</term>
+               <term>riot</term>
+               <term>navy</term>
+               <term>arrears</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-04" who="#SV" status="proofread"/>
+            <change when="2018-01-26" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="18r" facs="/bl/add_ms_35331/add_ms_35331_f018r/add_ms_35331_f018r.jpg"/>
+         <head>
+            The Lo<ex>rd</ex> dukes message to the marryners, clapt upp on sondry <lb/>
+            postes by <unclear>Lakies laques</unclear>, beinge taken in the very dispersinge <lb/>
+            but it was as followes w<ex>i</ex>thout any sup<ex>er</ex>scription or name unto <lb/>
+            <add place="LM">
+               may:14:th
+            </add>
+            yt. .
+         </head>
+         <p>
+            I haue done more for you then ever my p<ex>re</ex>dicessors have done, I haue <lb/>
+            procured the increase of yo<ex>u</ex>r paye to be a thirde parte more then it was: <lb/>
+            I haue parted w<ex>i</ex>th my owne money to paye you, and engaged all my
+            <fw type="catch" place="bot-right">owne estate</fw>
+            <pb n="18v" facs="/bl/add_ms_35331/add_ms_35331_f018v/add_ms_35331_f018v.jpg"/>
+            <add place="header">
+               <hi rend="underline">
+                  An<ex>n</ex>o Domini 1628.
+               </hi>
+            </add>
+            owne estate for your satisfaction, albeyt yt belonges not to my place to p<ex>ro</ex>vide for yo<ex>u</ex>r paym<ex>en</ex>t <lb/>
+            nor was yt expected from my pr<ex>e</ex>decessors./ Before I wente the laste voyage, by my <lb/>
+            often sollicitac<ex>i</ex>ons I p<ex>ro</ex>cured assignm<ex>en</ex>t for money, to paye you att your retourne, <lb/>
+            but yt was diverted in my absence for other occasions: and soe my selfe &amp; you <lb/>
+            suffered by forgetfulnesse and neglecte when I was absente, in the service. Your <lb/>
+            selues well knowe the kinge hath noe meanes to paye you till the p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            giue yt, or that by the breache of yt, his ma<ex>jes</ex>tie maye raise money other <lb/>
+            waies./ As for your threatninge to pull downe the walles of my howse <lb/>
+            aboute my eares, when I shall see you come, w<ex>i</ex>th any such intention, I will <lb/>
+            lett you knowe, that I cann and will correcte you as sharpely for your <lb/>
+            insolencye and disorder as I have bynn forwarde to p<ex>ro</ex>cure you satisfaction, <lb/>
+            and have bynn sencible of your sufferinges./ 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f018r/add_ms_35331_f018r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f018v/add_ms_35331_f018v.jpg"/>
+   </facsimile>
+</TEI>

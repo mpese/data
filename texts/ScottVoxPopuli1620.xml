@@ -1,0 +1,1112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox Populi</title>
+            <author>
+               <persName corresp="../people/people.xml#P0207">Thomas Scott</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS28640.xml">
+               <msIdentifier xml:id="BL_Add_MS_28640">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 28640</idno>
+                <msName>John Rous's diary</msName>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 28640</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLEgertonMS3876.xml">British Library, Egerton MS 3876, ff. 117r–139v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3787.xml">British Library, Harley MS 3787, ff. 141r–150v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS2531.xml">British Library, Sloane MS 2531, ff. 69r–91r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_4214.xml">British Library, Additional MS 4214, ff. 113r–122v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72440.xml">British Library, Additional MS 72440, ff. 2r–16r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_6867.xml">British Library, Harley MS 6867, ff. 79r–97r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_1435.xml">British Library, Sloane MS 1435, ff. 194x–203x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_1770.xml">British Library, Sloane MS 1770, ff. 88r–102*x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_281.xml">British Library, Stowe MS 281</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb138.xml">Beinecke Library, Osborn fb138, folder 13, ff.1r–10r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb243.xml">Beinecke Library, Osborn fb243</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb57.xml">Beinecke Library, Osborn fb57, ff. 1–14</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_1153.xml">Bodleian Library,  MS Ashmole 1153, item II, 1r–29v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_B_151.xml">Bodleian Library,  MS Rawlinson B 151, ff. 10v–30r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_C_878.xml">Bodleian Library,  MS Rawlinson C 878, ff. 19r–47v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_1039.xml">Bodleian Library,  MS Rawlinson D 1039, ff14</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_719.xml">Bodleian Library,  MS Rawlinson D 719, ff. 216r–220v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_D_719.xml">Bodleian Library,  MS Rawlinson D 719, ff. 241r–256r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_111.xml">Bodleian Library,  MS Tanner 111, ff. 187r–204r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Tanner_304.xml">Bodleian Library,  MS Tanner 304, ff. 107r–121v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CRO_EL_MS_6556.xml">Cornwall Record Office,  EL MS 655/6, ff. 156r–168r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Dd384.xml">Cambridge University Library,  MS Dd.3.84, Part I, Item 3, 1r–6v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_363.xml">Folger Shakespeare Library,  MS V.a.363, ff. 12r–34v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_402.xml">Folger Shakespeare Library,  MS V.a.402, ???</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_736248.xml">Gonville &amp; Caius College,  MS 736/248</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Houghton_fMS_Eng_868.xml">Houghton Library,  fMS Eng 868, ff. 31r–42r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NUL_Mi_C_311.xml">Nottingham University Library, Mi C 31/1</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FM_Misc_Vol_45.xml">Northamptonshire Record Office,  F(M) Misc. Vol. 45</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Queens_College_Oxford_MS_32.xml">Queen's College,  MS 32, ff. 33r–45v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_S46.xml">St John's College,  MS S.46, ff. 138r–154v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_S56.xml">St John's College,  MS S.56, ff67</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_118.xml">The National Archives,  SP 14/118, /103 [ff.141r–150r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_R512.xml">Trinity College,  MS R.5.12, ff. 187r–193r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/UTAustinMSBLM751PhillipsMS12341.xml">UT Austin MS, BL Microfilm 751 Phillips MS 12341, pp1–30</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="508" to="523">508-523</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1620">1620</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>vox populi</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>diplomacy</term>
+               <term>foreign policy</term>
+               <term>Spain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-08-01" who="#RB" status="draft"/>
+            <change when="2018-04-30" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="92r" facs="/bl/add_ms_28640/add_ms_28640_f092r/add_ms_28640_f092r.jpg"/>
+         <head rend="align-centre">
+            Vox populi. or. <lb/>
+            Newes from Spaine translated according <lb/>
+            to the Spanish Copie.
+         </head>
+         <p rend="align-centre">
+            author: Tho. Scotte <lb/>
+            of Norwold in Norff<ex>olk</ex>
+         </p>
+         <p>
+            His Catholike Ma<ex>jes</ex>tie had giue<ex>n</ex> commandement, that presently vpon the <lb/>
+            returne of Seigneur Gondomar (his Lieger Embassadour) from England <lb/>
+            1618, a speciall meeting of all the principall States of Spaine (who were <lb/>
+            of his Councell) together with the presidents of the Councell of Castile, <lb/>
+            Arragon, Italy, Portugall, of the Indies, of the Treasure of Warre &amp; <lb/>
+            especially of the holy Inquisition, should be helde at Mouson in Arragon <lb/>
+            the Dule of Lerma being appointed president, who should make de=<lb break="no"/>
+            claration of his Majesties pleasure, take accompte of the Embassadors <lb/>
+            service, &amp; consult touching the State, &amp; Religion, respectiuelie, to giue <lb/>
+            satisfaction to his Holines Nuntio, who was desired to make one in <lb/>
+            this assembly, concerning certaine overtures of peace &amp; amitie with <ex>th</ex>e <lb/>
+            English, &amp; other Catholike projects, which might engender suspition &amp; <lb/>
+            iealousie betwixte the Pope &amp; his Majestie, if the misterie <del rend="strikethrough">of </del>were <lb/>
+            not vnfolded, &amp; the grounde of those Counselles discovered aforehand.
+         </p>
+         <p>
+            This made all men expecte the Embassadors returne, with a kinde of <lb/>
+            longing, that they miught beholde the issue of this meeting, &amp; see what <lb/>
+            good for the Catholike cause, the Embassadors employment had effected <lb/>
+            in England, answerable to the generall opinion conceived of his wise=<lb break="no"/>
+            dome, &amp; what further projecte would be sette on foote to become mat=<lb break="no"/>
+            ter of publike discourse.                                     At length he arrived, &amp; had    <lb/>
+            present notice giue<ex>n</ex> him from hi Ma<ex>jes</ex>tie that before he came to the Courte <lb/>
+            he should give his accompte to this Assemblie, which Commande he <lb/>
+            gladlie received as an earnest of hi acceptable service, &amp; gave thanks <lb/>
+            that for his honour, he might publish himselfe in so iudicious a presence.
+         </p>
+         <p>
+            He upon the daye appointed came First to the Councell chamber <lb/>
+            <add place="LM">Secretarie</add> excepte the Secr<ex>etary</ex> Not long after all the Councell of State, &amp; the Pre=<lb break="no"/>
+            sidents mette. There wanted only the duke of Lerma, &amp; the Popes <lb/>
+            Nuntio, who were to be heade &amp; feete of all the assembly. These two <lb/>
+            stayed long away for diverse respects. The Nuntio that he might ex=<lb break="no"/>
+            presse the greatnes of his Maister, &amp; lose the Sea of Rome no respecte <lb/>
+            by this oversight, but that the benches might be full to observe him at <lb/>
+            his approche. The duke of Lerma to expresse the authoritie &amp; dignity <lb/>
+            of his owne person, &amp; to shewe howe a servant put in place of his Maister <lb/>
+            exacts more service of his fellowe servants then his Masieter himselfe.
+         </p>
+         <p>
+            These twoe, stayed till all the reste were weary of wayting, but at  <lb/>
+            length the Nuntio supposing all the Councell sette, lanced forthe, &amp; came <lb/>
+            to roade in the Councell chamber, where after discharge of mutuall duty <lb/>
+            from the conpany, &amp; blessing from him, he sate downe in solmen silence, <lb/>
+            grieving at his oversight, when he sawe the duke of Lerma absente, <lb/>
+            with whom he strove as a Competitor for Pompe &amp; glorie.  
+         </p>
+         <p>
+            The Duke had sent before, &amp; vnderstoode of the Nuntioes being there, &amp; <lb/>
+            stayed something the longer, thaat his bouldnes might be observed, wherein <lb/>
+            he hd his desire, for the Nuntio having a while patientlie driven away <lb/>
+            <fw type="catch" place="bot-right">the time</fw>
+            <pb n="92v" facs="/bl/add_ms_28640/add_ms_28640_f092v/add_ms_28640_f092v.jpg"/>
+            the time with severall complements, to severall persons, had nowe almost <lb/>
+            runne his Courtship out of breath; but the Duke of Villa Hermosa pre=<lb break="no"/>
+            sident of the Councell of Arragon fedde his humour, by the discharge of <lb/>
+            his owne discontentment, vpon occasion of the Duke <add place="above">of</add> Lerma his absence <lb/>
+            &amp; beckned Segneur Gondomar to him, vsing this speech in the heraing of <lb/>
+            the Nuntio after a sporting manner. 			Howe vnhappie are the<hi rend="italic">  <lb/>
+            </hi>people where you haue beene, first for theire soules (being heretikes) <lb/>
+            then for theire estates, where the name of a Favorite is so familiar. <lb/>
+            How happie is our State, where the keyes of life &amp; death, are so ea=<lb break="no"/>
+            sily come by (pointing at the Nuntio) hanging at every religious girdle, &amp; <lb/>
+            where the dore of Iustice &amp; Mercy stand equallie open to all men, without <lb/>
+            respecte of persons. The Embass<ex>ador</ex> knewe this Ironicall stroke, to be <lb/>
+            entended as a by-blowe at the Nuntio, but fully at the duke of Lerma <lb/>
+            (whose greatnes beganne nowe to waxe heavy towards declension) &amp;  <lb/>
+            therefore he returned this answere. Yo<ex>u</ex>r Excellencie knoweth the <lb/>
+            State is happie, where wise Favorites governe kings, if the kings <lb/>
+            themselues be foolish; or where wise kings are who having Favorites. <lb/>
+            whether foolish or of the wiser sorte, will not yet be governed by them. <lb/>
+            The State of England (howsoever you heare of it in Spaine or Rome) <lb/>
+            is too happie in the laste kinde. They neede not much care what the <lb/>
+            Favorite be (though for the moste parte he be suche as preventes all <lb/>
+            suspition in that kinde, being rather chossen as a Scholler to be taught, <lb/>
+            &amp; trayned vp, then as Tutor to teache) for of this they are sure; No <lb/>
+            prince exceeds theires in personall abilities, so that nothing could be  <lb/>
+            added to him in my wishe, but this one, that he were our vassaile &amp; <lb/>
+            Catholike. 		With that the noyse without gaue notice of the duke    <lb/>
+            of Lermaes entrance, at whose first approche the whole house arose, <lb/>
+            though some later then others. Envie had hung plummettes on them to  <lb/>
+            keepe them downe, the Nuncio only sate vnmoved. The duke cherished <lb/>
+            the observance of the reste, with a familiar kinde of carriage, too high for <lb/>
+            Courtesie, as one not neglecting theire demeanors but expecting it, &amp;  <lb/>
+            after a filiall obeysance to the Popes Nuncio, sate downe as president <lb/>
+            vnder the Clothe of State, but somewhat lower. Then after a space <lb/>
+            given for admiration, preparation &amp; attention he beganne to speake <lb/>
+            in this manner.			The king my Maister (holding it more <lb/>
+            honourable, to doe then to discourse, to take from you the expectation of <lb/>
+            Oratorie, vsed rather in Scholes &amp; Pulpits, then in Councels) hath <lb/>
+            appointed me President in this holy, wise, learned &amp; noble assemblie, a <lb/>
+            man naturallie of a slowe speech, &amp; not <del rend="strikethrough">to</del> desirouss to quicken it by arte <lb/>
+            or industrie, as holding <del rend="strikethrough">it</del> action only p<ex>ro</ex>per to a Spanyard, as I am by <lb/>
+            birth, to a soldier, as I am by profession, to a king, as I am by presen=<lb break="no"/>
+            tation; take this therefore brieflie for declaration both of the cause of the <lb/>
+            meeting and my Maisters further pleasure.
+         </p>
+         <p>
+            There hath beene at all times from the worlds foundation one chiefe Com=<lb break="no"/>
+            mander or Monarche vpon the earthe. This needes no further proofe
+            <pb n="93r" facs="/bl/add_ms_28640/add_ms_28640_f093r/add_ms_28640_f093r.jpg"/>
+            then a looking backe into our owne memories &amp; histories of the worlde: <lb/>
+            neither is there anie question (except among infidels &amp; heretikes) of that <lb/>
+            one chiefe Commander in Spiritualls, in the vnity of whose person, the <lb/>
+            members of the visible Church are encluded; but there is some doubt of <lb/>
+            the chiefe Commander in Temporalles, who as the Moone to the Sunne <lb/>
+            might governe by night, as this by daye, &amp; by the sworde of Iustice com=<lb break="no"/>
+            pell to come in, &amp; cutte of such as infringe the authority of the Keies.
+         </p>
+         <p>
+            This hath beene so well vnderstood long since by the infallible chaire, as <lb/>
+            that thereby vpon the declension of the Romane Emperors, &amp; the encrease <lb/>
+            of Romes spirituall splendor, (who thought it vnnaturall that theire Sunne <lb/>
+            should be Sublunary) our nation was selected by the B<ex>ishop</ex> of Rome before  <lb/>
+            other people, to conquer, &amp; rule the Nations with a rod of iron, &amp; our <lb/>
+            kings to that ende adorned with the Title of Catholike king, as a name <lb/>
+            above all names vnder the sunne (which is) <del rend="strikethrough">vnder</del> Gods vicar generall <lb/>
+            himselfe, the Catholike B<ex>ishop</ex> of soules. To instance this pointe by Com=<lb break="no"/>
+            parison, looke first vpon the grand Signeor the greate Turkem who <lb/>
+            hath a large Title, but not vniu<ex>er</ex>sall; for besides that he is an infidell <lb/>
+            his Commande is confined within his owne Territories, &amp; he stiled <lb/>
+            not Emperor of the world, but of the Turkes &amp; theire vassals only. <lb/>
+            Anong <ex>Christ</ex>ians, the defender of the faith, was a glorious stile while <lb/>
+            the king to whom it was geven by his holines continued worthy of it, <lb/>
+            but he stoode not in the truth, neither those that succeeded him; besides <lb/>
+            it was nothing to be called, what every <ex>Christ</ex>ian ought to be, defendor of <lb/>
+            the faith, no more then to be stiled with France, the most Christia<ex>n</ex> <lb/>
+            King, wherein he hath the greatest parte of his Title common with <lb/>
+            most <ex>Christ</ex>ians. The Emperos of Russia, Rome, Germany, extend not <lb/>
+            theire limits further then theire Stiles, which are locall, onely my <lb/>
+            M<ex>aste</ex>r the most Catholike King is for dominion  of bodies, as the uniu<ex>er</ex>sall <lb/>
+            B<ex>ishop</ex> for dom<ex>inion</ex> of soules, over all that parte of the world which we call <lb/>
+            <hi rend="italic">America</hi> (except where the English entruders vsurpe) &amp; the greateste <lb/>
+            parte of Europe, with some parte of Asia, &amp; Africa, by actuall possessio<ex>n</ex>, <lb/>
+            &amp; over all the reste by reall &amp; indubitable right: yet acknowledgeth this <lb/>
+            right to be derived from the free &amp; fatherly donation of his Holines, <lb/>
+            who as the Sunne to the moone, lends lustre by reflexion to this king=<lb break="no"/>
+            dome, to this king, to this king of kings my M<ex>aste</ex>r what therefore he hath <lb/>
+            (howsoever gotten) he may keepe &amp; houlde. What he can gette from <lb/>
+            any other king, or Commander by any stratageme of warre or pre=<lb break="no"/>
+            tence of peace, he may take, for it is theires only by vsurpation, ex=<lb break="no"/>
+            cept they holde of him, from whom all Civill power is derived as <lb/>
+            eccl<ex>esiastical</ex> from his Hol<ex>iness</ex> what the ignorante call treason, if it be on his <lb/>
+            behalfe, is truth, &amp; what they call truth, if it be against him, is Treason. <lb/>
+            &amp; thus all our peace, our warre, our treaties, marriages, &amp; whatsoe=<lb break="no"/>
+            ver entendement else of ours aimes at this principall ende, to gette <ex>th</ex>e <lb/>
+            whole possession of the world, &amp; to reduce all to vnitie vnder one Tem=<lb break="no"/>
+            porall heade, that our king may truly be what he is stiled, the Catho=<lb break="no"/>
+            like &amp; vniu<ex>er</ex>sall king. As faithe is therefore vniu<ex>er</ex>sall in the Churche
+            <pb n="93v" facs="/bl/add_ms_28640/add_ms_28640_f093v/add_ms_28640_f093v.jpg"/>
+            vniu<ex>er</ex>sall, yet so as it is vnder one heade the Pope whose seate is <lb/>
+            &amp; must necessarily be at Rome where St Peter sate; so must all be <lb/>
+            men be subjecte to our, &amp; theire Catholike king whose particuler seate <lb/>
+            is here in Spaine, his vniu<ex>er</ex>sall, every where. This pointe of State or <lb/>
+            rather of Faith, we see the Rom<ex>an</ex> Cath<ex>olic</ex> religio<ex>n</ex> hath taught every where <lb/>
+            &amp; almost made naturall, so that by a keye of gould, by intelligence, or <lb/>
+            by way of Confession, my M<ex>aste</ex>r is able to vnlocke the secrets of every <lb/>
+            prince, &amp; to withdrawe theire subjects allegiance, as if they knewe <lb/>
+            themselues rather my Maisters subjects in truth, then theires whom <lb/>
+            theire birth hath taught, to miscall Soveraignes. We see this in France <lb/>
+            &amp; in England especiallie, where at once they learne to obey the Ch<ex>urch</ex> of  <lb/>
+            R<ex>ome</ex>. as theire mother, &amp; to acknowledge the Cath<ex>olic</ex> K<ex>ing</ex> as theire father,   <lb/>
+            &amp; to take theire owne king as an heretike, and an vsurper. So we <lb/>
+            see Religion &amp; the <del rend="strikethrough">E</del>state are coupled together, laugh &amp; weepe, flo=<lb break="no"/>
+            rish &amp; fade, &amp; participate of eithers fortune, as growing vpon one <lb/>
+            stocke of policy. I speake this the more bouldlie in this presence <lb/>
+            because I speake here before none but Natives, persons<del rend="strikethrough">,</del> whom (as <lb/>
+            partakers both in themselues &amp; issues of these triumphes aboue all <lb/>
+            those of ancient Rome &amp; therefore such as besides  theire oathes) it con=<lb break="no"/>
+            cernes to be secrette. Neither neede we restraine this freedome of <lb/>
+            speech fro<ex>m</ex> the Nuncio his presence, because that besides he is a Spa<ex>n</ex> <lb/>
+            yard by birth, he is also a Iesuite by profession, an order raysed by <lb/>
+            <ex>th</ex>e providence of God &amp; his Vicar, to accomplish his Monarchie <ex>th</ex>e <lb/>
+            better. All of them be appropriate therevnto, &amp; as publike agents to <lb/>
+            the privy Councellors to this ende, wherein the wisedome of this <lb/>
+            State is to be behelde with admiration, that as in temporall warre <lb/>
+            it imployes or at the leaste trustes none but Natives in Castile Por=<lb break="no"/>
+            tugell, or Arragon; so in Spiritualls it imployes none but the Iesu=<lb break="no"/>
+            ites, &amp; so imployes them that they are generallie reputed how re=<lb break="no"/>
+            mote soever they be from vs, howe much so ever obliged to others, still <lb/>
+            to be ours &amp; still to be of the Spanish faction; though they be Po=<lb break="no"/>
+            lonians English French &amp; residing in those Countries &amp; Courtes; the <lb/>
+            Penitents therefore &amp; all with whom they deale in theire spirituall <lb/>
+            traffique, must needes be so to, &amp; &amp; so our Catholike king must needes <lb/>
+            haue an invisible kingdome, &amp; an unknowne number of subjects in <lb/>
+            all dominions, who will shewe themselues &amp; theire faithes by theire <lb/>
+            workes of disobedience, whensoever we shall haue cause Ie=<lb break="no"/>
+            <add place="LM">theires.</add>
+            suiticall vertue of these. This therefore being the principall ende of     <lb/>
+            all our counselles according to those holy directions of our late pious <lb/>
+            king Philip .2. to his sonne, nowe reviving, to advance the Cath<ex>olic</ex> <lb/>
+            Rom<ex>an</ex> Relig<ex>ion</ex> in the Cath<ex>olic</ex> Span<ex>ish</ex> dominion, together, we are nowe met <lb/>
+            by his M<ex>ajesty’s</ex> command to take accompte of you Seigneur Gondomor <lb/>
+            who haue beene Embass<ex>ador</ex> for Engl<ex>and</ex> to see what good you haue effec=<lb break="no"/>
+            ted there, towardes the advancement of this worke, &amp; what further <lb/>
+            p<ex>ro</ex>jecte shall be thought fitte to be sette on foote to this ende, &amp; this <lb/>
+            is briefly the occasion of our meeting.
+         </p>
+         <pb n="94r" facs="/bl/add_ms_28640/add_ms_28640_f094r/add_ms_28640_f094r.jpg"/>
+         <p>
+            Then <ex>th</ex>e Embass<ex>ador</ex> (who attended bareheaded all the time) with a lowe <lb/>
+            obeisance beganne thus.    This most laudible custome of our kings in <lb/>
+            bringing all officers to such an accompte, where a reviewe &amp; notice is <lb/>
+            <del rend="strikethrough">g</del> taken of good or badde service, vpon the determinatio<ex>n</ex> of theire employ=<lb break="no"/>
+            ments, resembles those Romane triumphes appointed for theire soldiers; <lb/>
+            &amp; as in them ir provoked courage, so in vs it stirres vp to dilligence. <lb/>
+            Our M<ex>aste</ex>r converseth by his agents with all the worlde yet with none of <lb/>
+            more regarde then the English, where matter of such diversitie is often <lb/>
+            presented (through the severall humors of the State, &amp; those of our Rel<ex>igion</ex> <lb/>
+            &amp; Faction) that no instructions can be sufficient for such negotiations, <lb/>
+            but much must be lefte in truste to the discretion, iudgment, &amp; dilligence <lb/>
+            of the incu<ex>m</ex>bent. I speake not this for mine owne glory, I having <lb/>
+            beene restrained, &amp; therefore deserved meanly, but fo forewarne <del rend="strikethrough">others</del> on <lb/>
+            the behalfe of others, that there may be more scope allowed them, to deale <lb/>
+            in, as occasion shall require. Brieflie this rule deliuered by his excellen=<lb break="no"/>
+            cy was the carde &amp; Compasse by which I sayled / To make profite of <lb/>
+            all humors &amp; by all meanes to advance the state of the Rom<ex>an</ex> faith &amp; the <lb/>
+            Sp<ex>anish</ex> factio<ex>n</ex> together vpo<ex>n</ex> all advantage, either of oathes or the breach of <lb/>
+            them; for this is an ould observacion but a trewe that for our pietie to <lb/>
+            Ro<ex>me</ex>, his Hol<ex>iness</ex> did not only giue, but blesse vs in the conquest of the newe <lb/>
+            Worlde, &amp; thus in our pious perseverance we hope still to be conque=<lb break="no"/>
+            rors of the ould. And to this ende whereas his Excell<ex>ency</ex> in his excel=<lb break="no"/>
+            lent discourse, seemes to extende our outwarde forces, &amp; private aymes <lb/>
+            only against heretikes, &amp; restraine them in true amitie with these of <lb/>
+            the Rom<ex>an</ex> Religio<ex>n</ex>.  This I affirme that since there can be no securitie <lb/>
+            but such Princes (though nowe Rom<ex>an</ex> Cath<ex>olic</ex>s) may turne heretikes here=<lb break="no"/>
+            after, my aimes haue beene ever to make p<ex>ro</ex>fite <del rend="strikethrough">all </del>of all &amp; to make <lb/>
+            my M<ex>aste</ex>r M<ex>aste</ex>r of all who is a faythfull, &amp; constante sonne of his Mother <lb/>
+            Ro<ex>me</ex>.  And to this ende I beholde the endeavours of the kings of happy <lb/>
+            memory, howe they haue atchieved kingdomes &amp; conquests by this policy, <lb/>
+            rather then by open hostilitie, &amp; that without difference, <del rend="strikethrough">of </del> aswell fro<ex>m</ex> <lb/>
+            theire allies &amp; kinsfolke, men of the same religio<ex>n</ex> &amp; profession, such as <lb/>
+            were those of Naples France &amp; Navarre (though I doe not mention  <lb/>
+            Portugall nowe vnited to vs nor Savoy that hardly slipte fro<ex>m</ex> vs) <lb/>
+            as of an adverse &amp; hereticall faith. Neither is this rule lefte of <del rend="strikethrough">as <ex>th</ex>e</del> <lb/>
+            as the present country of France, the State of Venice, the Lowe <lb/>
+            countries, Bohemia (nowe all labouring for life vnder our plottes) ap=<lb break="no"/>
+            parantlie manifeste. This way therefore I bente my engins in Engl<ex>and</ex> <lb/>
+            as yo<ex>u</ex>r Ho<ex>no</ex>rs shall particulerly heare, neither shall I neede to repeate <lb/>
+            a Catalogue of all the services, I have there done, because this State <lb/>
+            hath bene acquainted with many of them, heretofore, by the entercourse <lb/>
+            of letters &amp; messengers, those only I will speake of that are of later <lb/>
+            edition, done since the returne of the L<ex>or</ex>d Rosse from hence, &amp; may seeme <lb/>
+            most directlie to tende to those endes formerly propounded by his Exc<ex>ellency</ex> <lb/>
+            that is th’advancement of the Span<ex>ish</ex> State &amp; from Rom<ex>an</ex> Rel<ex>igion</ex> together.
+         </p>
+         <pb n="94v" facs="/bl/add_ms_28640/add_ms_28640_f094v/add_ms_28640_f094v.jpg"/>
+         <p>
+            First it is well observed by the wisedome of our State, that the k<ex>ing</ex> <lb/>
+            of Eng<ex>land</ex> (who otherwise is one of the most accomplishte princes that <lb/>
+            ever reigned) extreamely huntes after peace, &amp; so affects the true <lb/>
+            name of a Peacemaker, as that for it he will doe or suffer any thing: <lb/>
+            &amp; withall they haue behelde the generall bounty &amp; munificence of <lb/>
+            his mind, &amp; the necessity of the state, so exhausted as that it is vnable <lb/>
+            to supplie his desires, who only seekes to haue, that he might giue <lb/>
+            to others. Vpon these advantages they haue giuen out theire di=<lb break="no"/>
+            rections &amp; instructions both to me &amp; others, &amp; I haue observed the<ex>m</ex> <lb/>
+            so farre as I am able.		And for this purpose whereas there <lb/>
+            was a marriage propounded betwixte the<ex>m</ex> &amp; vs, (howsoever I <lb/>
+            suppose our State too devoute to deale with heretikes in this kind <lb/>
+            in good earneste,)  yet I made that a Cover for much intelligence  <lb/>
+            &amp; a meanes to obteine whatsoever I desired, whilste the State <lb/>
+            of England longed after that warr. hoping thereby though vaine=<lb break="no"/>
+            ly to settle peace &amp; fill the <del rend="strikethrough">exchequer </del>Exchequor.		Here  <lb/>
+            the Archb<ex>ishop</ex> of Toledo Inquisitor generall, stept vp, &amp; interrupted Gon=<lb break="no"/>
+            damor, saying, that maarriage was not to be thought vpon.  1. For Re=<lb break="no"/>
+            ligions sake, leaste they should endanger the soule of <add place="above">th</add> younge Ladie, <lb/>
+            &amp; the reste of her company, who might become heretikes.  2 For the <lb/>
+            State, leaste by giving so large a portion to heretikes, they should  <lb/>
+            enriche &amp; enable them, for warre, &amp; impoverish &amp; weaken the Cath<ex>olic</ex>s.
+         </p>
+         <p>
+               To the first objectio<ex>n</ex> the Popes Nuncio answ<ex>ered</ex> <ex>tha</ex>t his Hol<ex>ine</ex>s <lb/>
+            for the Cath<ex>olic</ex> Cause would dispense with the marr<ex>iage</ex> though it were w<ex>i</ex>t<ex>h</ex> <lb/>
+            a Turke or an infidell. &amp; .1. thaat there was no valuable danger <lb/>
+            in hazarding one for the gaine of many, p<ex>er</ex>haps of all. 2 that it was <lb/>
+            no hazarde since women (especiallie young ones) are too obstinate to <lb/>
+            be removed from theire opinions, &amp; abler to worke Salomon to theire <lb/>
+            opinions, then Salomon to worke them to his faithe.  3 that it was <lb/>
+            a greate advantage to matche with such, from whom, they might  <lb/>
+            breake at pleasure, having the Cath<ex>olic</ex> cause for a colour, &amp; besides (if <lb/>
+            neede were) be at libertie in all respects, since there was no faithe <lb/>
+            to be kepte with heretikes. &amp; if his Hol<ex>iness</ex> may dispence with the <lb/>
+            murthers of suche, &amp; dispose of theire Crownes (as what good Cath<ex>olic</ex> <lb/>
+            doubts but he may much more may he &amp; will he in theire marriages <lb/>
+            to prevent the leprous seede of heresie, &amp; settle the Cath<ex>olic</ex> bloud in <lb/>
+            the chayer of State.		To the second obj<ex>ection</ex> the Embass<ex>ador</ex> him=    <lb/>
+            selfe answ<ex>ered</ex> saying that the English generally hated the matche &amp; <lb/>
+            would as he thought buy it of, with halfe theare estates, (hating the <lb/>
+            nation of Spany<ex>ar</ex>ds &amp; theire religion, (as appeered by aan vproare &amp; <lb/>
+            assaulte (a day or two before his departure from London) by the ap=<lb break="no"/>
+            prentices who seemed greedie of such an occasion, to vente theire <lb/>
+            owne splene in doing him or any of his a mischiefe) yet two sortes of <lb/>
+            people vnmeasurablie desire the matche might proceede.  1. The beg=<lb break="no"/>
+            ging &amp; beggerly Courtiers, that they might haue to furnish theire  <lb/>
+            wants.  2 The Rom<ex>an</ex> Catholikes who hope thereby at leaste for a mode=<lb break="no"/>
+            ratio<ex>n</ex> of <del rend="strikethrough">theire</del> Fines &amp; lawes, perhaps a Toleration, yea a totall Re=<lb break="no"/>
+            <fw type="catch" place="bot-right">stauratio<ex>n</ex>
+                </fw>
+            <pb n="95r" facs="/bl/add_ms_28640/add_ms_28640_f095r/add_ms_28640_f095r.jpg"/>
+            stauration of theire Relig<ex>ion</ex> in Engl<ex>and</ex>. In which regarde, quoth he, I haue <lb/>
+            knowne some zealous persons proteste, that if all theire frends &amp; halfe <lb/>
+            th<ex>eir</ex> estates could p<ex>ro</ex>cure them to the service of our Ladie (if she came to <lb/>
+            be married to theire prince) they would freely use the meanes, faithful=<lb break="no"/>
+            lie to fight vnder her colours whe<ex>n</ex> they might doe it safelie. And if it  <lb/>
+            came to portion they would contribute largelie of theire estates to the <lb/>
+            Span<ex>ish</ex> Collector, &amp; make vp halfe the portion, out of themselues, p<ex>er</ex>haps <lb/>
+            more; so that by this marr<ex>iage</ex> it might be so wrought that the State <lb/>
+            should rather be robd’e &amp; weakened (which is our ayme) then strength=<lb break="no"/>
+            ned, as the Engl<ex>ish</ex> vainly hope. Besides in a smalle time, they should <lb/>
+            worke so farre into the bodie of the State by buying offices &amp; the  <lb/>
+            like, whether by Sea or Land, of justice Civill or ecclesiasticall, in <lb/>
+            Church or State (all being for mony exposed to sale) that with the <lb/>
+            helpe of the Iesuites, they would vndermine them with meere witte <lb/>
+            without gun-powlder, &amp; leave the king but a fewe subjects whose <lb/>
+            faithes he might relye vpon, whilste they were of a faithe adverse  <lb/>
+            to his, for what Cath<ex>olic</ex> bodie that is sounde at the hearte can abide a  <lb/>
+            Corrupte &amp; hereticall heade.			With that the duke of <hi rend="italic">Medina <lb/>
+            del <unclear>c</unclear>io Secco </hi>president of the Councell of warre, &amp; one of the Councell <lb/>
+            of State rose vp and said, his predecessors had felte the force &amp; <lb/>
+            witte of the Engl<ex>ish</ex> in 88, &amp; he had cause to doubte that the Cath<ex>olics</ex> the<ex>m</ex>=<lb break="no"/>
+            selues that were English &amp; not fullie Iesuited, vpon any forraine <lb/>
+            invasion, would rather take parte with theire owne king, though an here=<lb break="no"/>
+            tike, then with his Cath<ex>olic</ex> Majestie a stranger.		The Embass<ex>ador</ex> <lb/>
+             desired him to be of another mind since First for the persons, theire <lb/>
+            bodies by long disuse of armes, were disabled &amp; theire mindes effe=<lb break="no"/>
+            minated, by peace &amp; luxury; farre from that they were in 88, whe<ex>n</ex> <lb/>
+            they were fleshte in our bloude, &amp; made heartie by customary con=<lb break="no"/>
+            quests, &amp; for the affectio<ex>n</ex> of those they call recusants (quoth he) I knowe <lb/>
+            the bitternes of theire inveterate malice, &amp; haue seene <del rend="strikethrough">f</del> so farre into <lb/>
+            th<ex>eir</ex> natures, as I dare say they will be for Sp<ex>ain</ex> against all the world. <lb/>
+            Yea (quoth he) I assure your Honors, I could not imagine so basely of <lb/>
+            this k<ex>ing</ex> &amp; State, as I haue hearde them speake; nay theire rage hath so <lb/>
+            perverted th<ex>eir</ex> iudgment, that what I my selfe have seene &amp; hearde p<ex>ro</ex>=<lb break="no"/>
+            ceede from theire king, beyond admiratio<ex>n</ex> even to astonishment, they <lb/>
+            haue slightly misreported, scorned, &amp; perverted, to his disgrace, &amp; my <lb/>
+            rejoicing, I magnifying in the meane time o<ex>u</ex>r defects as graces.
+         </p>
+         <p>
+            Here the Duke <hi rend="italic">Pastrana</hi> presidente of the Councell of Italy steps vp, <lb/>
+            &amp; said he had latelie reade a booke of one Cambden called his <hi rend="italic">Anna=<lb break="no"/>
+            les</hi> where writing of a treatie of marr<ex>iage</ex> long since betwixt the Engl<ex>ish</ex> <lb/>
+            Elizab<ex>eth</ex> &amp; the Fr<ex>ench</ex> Duke of <hi rend="italic">Anjou</hi>, he there observes that the marr<ex>iage</ex> <lb/>
+            was not seriously eentended on either side, but politikely pretended <lb/>
+            by both States, counterchangeablie, that eche might effecte theire owne <lb/>
+            endes. &amp; here quoth he the Engl<ex>ish</ex> had the better, &amp; I haue some <lb/>
+            cause to doubte, since they can dissemble as well as we, that <del rend="strikethrough">he <lb/>
+            </del>they haue theire aimes vnderhand as we haue, &amp; entende the matche <lb/>
+            as litle as we doe, &amp; this quoth he I believe the rather, because th<ex>eir</ex> <lb/>
+            king as he is wise to consulte &amp; consider, so he is a constant maister
+            <pb n="95v" facs="/bl/add_ms_28640/add_ms_28640_f095v/add_ms_28640_f095v.jpg"/>
+            of his worde, &amp; hath written &amp; giuen strong reasons against matches <lb/>
+            made with persons of contrary religion, which reasons no other man <lb/>
+            can answ<ex>er</ex> &amp; therefore doubtles will not goe from, or counsell his son<ex>n</ex>e <lb/>
+            to forsake, those rules laid downe so deliberatelie.		Yo<ex>u</ex>r Excell<ex>ency</ex> <lb/>
+             mistakes (quoth the Embass<ex>ador</ex>) the advantage was then on the side of <ex>th</ex>e <lb/>
+            English, because the Fr<ex>ench</ex> sought the matche, nowe it must be on ours, <lb/>
+            because the Engl<ex>ish</ex> seeke it, who will grante any thing rather then <lb/>
+            breake of, &amp; besides haue no patience to temporise &amp; dissemble in  <lb/>
+            this or in any other <del rend="strikethrough">kind</del> designe, as the French haue long since <lb/>
+            well observed, for theire necessities will giue them neither time <lb/>
+            nor reste, nor hope elsewhere to be supplied. As for this k<ex>ing</ex> I can=<lb break="no"/>
+            not serche into his hearte, I must believe others that presume to <lb/>
+            knowe his mind, heare his wordes, &amp; reade his writings, &amp; these <lb/>
+            relate what I haue deliuered: but for the reste of the people, as  <lb/>
+            the number of them, that be truly religious, are ever the leaste &amp; <lb/>
+            for the most parte of leaste accompte, so it is there, where if an <lb/>
+            equall opposition <add place="above">be made</add> betweene theire truly religious &amp; ours, the re=<lb break="no"/>
+            mainder, which will be the greatest number, will stand indifferent <lb/>
+            &amp; fall to the stronger side, where there is most hope of gaine &amp; glo=<lb break="no"/>
+            ry, for these two are the gods of the magnitude &amp; the multitude. <lb/>
+            Nowe these see apparantlie no certaine supplies of theire wants <lb/>
+            but from vs. 		Yes quoth the Duke for even nowe you said <lb/>
+            the generall state loathing this matche would redeeme the feare <lb/>
+            <add place="LM">halfe of theire estates.</add>
+            thereof with halfe theire goods. It is therefore but calling a Par=<lb break="no"/>
+            liament, &amp; the busines were soone effected.			A Parl<ex>iament</ex> <lb/>
+            quoth the Embass<ex>ador</ex> nay therein lies one of the principall services <lb/>
+            I haue done, in working such dislike betw<ex>een</ex> the k<ex>ing</ex> &amp; the lower house <lb/>
+            by the endeavour of that Ho<ex>norable</ex>  Earle &amp; admirable engine (a sure <lb/>
+            servant to vs &amp; the Cath<ex>olic</ex> cause while he liued) as the k<ex>ing</ex> will never <lb/>
+            endure Parliament againe, but rather suffer absolute wante then re=<lb break="no"/>
+            ceive conditionall <del rend="strikethrough">relife</del> reliefe from his subjects. Beside the mat=<lb break="no"/>
+            ter was so cunningly carried, the last Parl<ex>iament</ex> that as in the powder-<lb break="no"/>
+            plot the fact effected should haue beene imputed to the Puritans <lb/>
+            (the greatest zealots of the <hi rend="italic">Caluinian </hi>secte) so the propositions <lb/>
+            which dammed vp the proceedings of this Parl<ex>iament</ex> howsoever they <lb/>
+            were invented by Rom<ex>an</ex> Cath<ex>olics</ex> &amp; by them intended to disturbe that <lb/>
+            Session, yet were propounded in favour of the Puritans (as if they <lb/>
+            had beene hammered in theire forge, which very name &amp; shadowe <lb/>
+            the k<ex>ing</ex> hates it being a suffficient aspersion to disgrace any person <lb/>
+            to say he is such, &amp; a sufficient barre to stoppe any suite &amp; vtterly <lb/>
+            to crosse it, to say it smelles of, or enclines to, that partie.  Moreover <lb/>
+            there are so many about him, which blowe this coale fearing theire <lb/>
+            owne states, if a Parl<ex>iament</ex> should enquier into theire actions, that they <lb/>
+            vse all theire arte &amp; industrie to withstand such a Councell, persu=<lb break="no"/>
+            ding the k<ex>ing</ex> he may rule by his absolute prerogatiue without a <lb/>
+            Parl<ex>iament</ex> &amp; thus furnish him by marrying with vs, &amp; other domestike
+            <pb n="96r" facs="/bl/add_ms_28640/add_ms_28640_f096r/add_ms_28640_f096r.jpg"/>
+            projects, without Subsidies, when levying of Subsidies &amp; taskes haue <lb/>
+            beene the only vse Princes haue made of such assemblies.  and where=<lb break="no"/>
+            as some free mindes among them ( resembling our Nobilitie who preserve <lb/>
+            the priviledge of Subjects against Soveraigne invasio<ex>n</ex>) call for the course <lb/>
+            of the Common lawe, (a lawe p<ex>ro</ex>per to that natio<ex>n</ex>) these other timeservers <lb/>
+            cry the lawes downe &amp; cry vp the prerogatiue, whereby they pray vpo<ex>n</ex> <lb/>
+            the subjecte, by suites &amp; exactions, milke the State that is pore, procure <lb/>
+            themselues much suspition among the better &amp; more judicious sorte, &amp; <lb/>
+            hate among the oppressed commons. &amp; yet if there should be a Parl<ex>iament</ex> <lb/>
+            such a course is taken, as they shall never choose theire Shire knights <lb/>
+            &amp; burgesses freely, who make the greater parte of the bodie thereof; <lb/>
+            for these being to be elected by most voices of Freeholders in the Cou<ex>n</ex>=<lb break="no"/>
+            try where such election is to be made, are carried which way the <lb/>
+            greate persons who haue lands in those countries please, who by <lb/>
+            theire letters commande theire Tenants, followers, &amp; frends to nomi=<lb break="no"/>
+            nate such as adheare to them, &amp; for the most parte are of our factio<ex>n</ex>, <lb/>
+            &amp; respecte theire owne benefite or grace, rather then theire countries <lb/>
+            good; yea the Country people themselues, will every one stand for  <lb/>
+            the greate man theire Lord or neighbour or Maister, without regard <lb/>
+            of his honestie wisedome or religio<ex>n</ex>. That which they aime at (as I <lb/>
+            am assured, by faithfull intelligence) is to please theire Landlords <lb/>
+            &amp; so renue theire lease; in which regarde they will betray theire <lb/>
+            country &amp; religio<ex>n</ex> too, &amp; electe any ma<ex>n</ex> that may most profite theire <lb/>
+            particuler.		Therefore it <add place="above">is</add> vnlikely there should be a Parliament        <lb/>
+            &amp; <del rend="strikethrough">be</del> impossible the k<ex>ing’s</ex> debts should be payd his wants sufficiently re=<lb break="no"/>
+            payred, &amp; himselfe lefte full handed with such a course, &amp; indeed (w<ex>hi</ex>ch <lb/>
+            is generally thought) by any course but by a marr<ex>iage</ex> with vs; for which <lb/>
+            cause whatsoever p<ex>ro</ex>jecte we liste to attempte, enters safelie at that <lb/>
+            dore, whilste theire policy lyes asleepe, &amp; will not see the danger. <lb/>
+            I haue made triall of these particulers &amp; found fewe exceptions in <lb/>
+            this generall rule.      Thereby I &amp; theire owne wants together haue <lb/>
+            kepte the<ex>m</ex> from furnishing theire Navie, which being the walle of <lb/>
+            theire Iland &amp; once the strongest in Christendome, lies nowe at rode <lb/>
+            vnarmed, &amp; fitte for ruine.         If ever we doubted theire strngth by <lb/>
+            Sea, nowe we neede not; there are but fewe shippes or me<ex>n</ex> able to <lb/>
+            looke abroade, or to liue in a storme, much lesse in a Sea-fight. This <lb/>
+            I effected by bearing them in hande, the furnishing of a Navie bredde <lb/>
+            suspition in my Maister, &amp; so would averte his minde from this matche <lb/>
+            the hope of which rather then they would loose, they would loose almost <lb/>
+            theire hope of heaven. 			Secondlie all the voyages to <ex>th</ex>e  <lb/>
+            Easte Indies I permitte rather with a colourable resistance, then a seri=<lb break="no"/>
+            ous, because I see them not helpefull, but hurtefull to the State in gene=<lb break="no"/>
+            rall, Carrying out gould &amp; siluer, bringing some spice, silkes, feathers <lb/>
+            &amp; the like toies, (an insensible wasting the commo<ex>n</ex> stocke) of coine &amp; of bullio<ex>n</ex> <lb/>
+            whilste it filles the Custome-house &amp; some private purses who thereby <lb/>
+            are inabled to keepe this discommoditie on foote <add place="above">by</add> bribes, especially so many <lb/>
+            greate persons (even Statesme<ex>n</ex>) being venturers &amp; sharers in the gaine. <lb/>
+            besides this wasteth theire marriners, not one of x returning, which I
+            <pb n="96v" facs="/bl/add_ms_28640/add_ms_28640_f096v/add_ms_28640_f096v.jpg"/>
+            am gladde to heare for they are the men we stand in feare of. 
+         </p>
+         <p>
+            Thirdly as for theire West Indian voyages I withstand them in ernest, <lb/>
+            because they beginne to inhabite there, &amp; to fortifie themselues &amp; may in <lb/>
+            time there p<ex>er</ex>haps raise another Engl<ex>and</ex> to withstand our newe Sp<ex>ain</ex> in A=<lb break="no"/>
+            merica, as this ould Engl<ex>and</ex> opposeth our present state &amp; cloudes the glo=<lb break="no"/>
+            rious extent thereof in Europe. Besides there they trade for commodi=<lb break="no"/>
+            ties without waste of theire treasure, &amp; often returne gould for kniues <lb/>
+            glasses or like <del rend="strikethrough">treasures </del>trifles &amp; that without such losse of theire mar=<lb break="no"/>
+            riners as in other places. Therefore I cross’de whatsoever entendments <lb/>
+            were projected for Virginia, or the Bermudaes, because I see they may <lb/>
+            be hereafter reallie helpefull vnto them, as nowe they serve for draines <lb/>
+            to vnloade theire populous state, which else would overflowe its owne <lb/>
+            bankes by continuance of peace, &amp; turne heade vpon it selfe to make <lb/>
+            a bodie fitte for any rebellion. 		And so farre haue I prevailed    <lb/>
+            herein, as I caused most of the Recusants<del rend="strikethrough">,</del> who were sharers, to withdr<ex>aw</ex> <lb/>
+            theire ventures &amp; to discourage the worke; so that besides private p<ex>er</ex>sons <lb/>
+            (vnable to effecte much) nothing was done by the publike purse, &amp; we <lb/>
+            knowe by experience such voyages &amp; plantations are not effected w<ex>i</ex>t<ex>h</ex>out <lb/>
+            greate meanes to susteine greate difficulties, &amp; with an vnwearied re=<lb break="no"/>
+            solution &amp; power, to meete all hazards &amp; disastres, with strong helpes <lb/>
+            &amp; continuall supplies, or else the vndertaking proves idle.		Fourth=<lb break="no"/>
+            ly by this meanes likewise I kepte the voluntarie <del rend="strikethrough">supplies</del> forces fro<ex>m</ex> <lb/>
+            Venice , till it was almoste too late to set out, &amp; had a hope that worke  <lb/>
+            of <del rend="strikethrough">secry</del> secrecy shoud haue broken forthe to actio<ex>n</ex>, before these could haue <lb/>
+            arrived to succour them.    		Fiftly I put harde for the Cautionary <lb/>
+            townes, which our late k<ex>ing</ex> Philip of happie memory so aimed at (ac=<lb break="no"/>
+            compting them the keies of the Lowe-countries) that they might be deli=<lb break="no"/>
+            uered to his Cath<ex>olic</ex> M<ex>ajesty</ex> as to the proper owner, &amp; perhaps <add place="above">had</add> prevailed <lb/>
+            but that the profeste enemie to our State &amp; Church (who died shortlie  <lb/>
+            after) gaue Councell to restore them to the rebellious States, as one <lb/>
+            that knewe populer commonwealths, to be better neighbours, surer frends <lb/>
+            &amp; lesse dangerous enemies, then potent Monarchies, &amp; so by this practise <lb/>
+            rescued them from my hands, &amp; furnished the Exchequor from thence  <lb/>
+            for that time. Neither was I much grieved at this because the dependancy <lb/>
+            <add place="LM">on the Eng<ex>lish</ex>
+                </add> they had before <del rend="strikethrough">seemed to be cutte of</del> with the Eng<ex>lish</ex> seemed to  <lb/>
+            be cutte  <lb/>
+            of, &amp; the interest the English had in the<ex>m</ex> &amp; theire cause to be take<ex>n</ex> away, <lb/>
+            which must be fullie &amp; finally effected, before we can hope either to con=<lb break="no"/>
+            quer them or England, who holding together are too strong for the <lb/>
+            world at Sea, &amp; therefore must be disvnited before they can be over=<lb break="no"/>
+            come: This pointe of State is acknowledged by our most experienced <lb/>
+            pensioner &amp; suer frend Mouns. Barnevelte whose succeeding plotte to <lb/>
+            this ende shall beare witnesse for the depth of his iudgmente.
+         </p>
+         <p>
+            Sixtly the laste service I did for the State was not the leaste, when I <lb/>
+            vnderwrought that admirable engine Rawleigh, &amp; so was the cause his <lb/>
+            voyage (threatning much danger &amp; damage to vs) was overthrowne, &amp; <lb/>
+            himselfe returning in disgrace, I pursued almost to death, neither I hope <lb/>
+            neede I say almost, if all things hitte right &amp; all strings houlde. But the  <lb/>
+            determination of my Commission would not permitte me longer to staye <lb/>
+            to followe him to executio<ex>n</ex>, which I desired the rather, that by Conces-<lb break="no"/>
+            sio<ex>n</ex> I might haue wronge from the inconsiderate Engl<ex>ish</ex> a<ex>nd</ex> acknowledgment
+            <pb n="97r" facs="/bl/add_ms_28640/add_ms_28640_f097r/add_ms_28640_f097r.jpg"/>
+            of my Maisters right in those places, punishing him for attempting there <lb/>
+            though they might prescribe for the first foote.	And this I did to stoppe <lb/>
+            theire mouthes heereafter, &amp; because I would quenche the heate &amp; valour <lb/>
+            of that nation, that none should dare after to take in hand the like or to be <lb/>
+            so hardie, as to looke out at Sea, or breathe vpo<ex>n</ex> our coastes, &amp; lastly be=<lb break="no"/>
+            cause I would bring to an ignominious death that ould Pirate who is <lb/>
+            one of the last nowe living, breade vnder the deceased Engl<ex>ish</ex> Virago <lb/>
+            &amp; by her fleshte in our bloud &amp; ruine.  To doe this I had many agents <lb/>
+            1. Diverse Courtiers who were hungry &amp; gaped wide for Span<ex>ish</ex> gould. <lb/>
+            2  Some that bare him at the hearte for inveterate quarrels.   3. Some <lb/>
+            Forrainers who havinge in vaine sought the <hi rend="italic">Elixar</hi> hitherto, hope to find <lb/>
+            it in his heade..  4  all me<ex>n</ex> of the Rom<ex>an</ex> faith who are of the Span<ex>ish</ex> fac=<lb break="no"/>
+            tio<ex>n</ex>, &amp; would haue beene my bloudhounds to hunte him or any such to death <lb/>
+            willingly as persons hating the prosperitie of theire country &amp; the va=<lb break="no"/>
+            lour, worth &amp; witte of theire owne natio<ex>n</ex>, in respecte of vs &amp; our Cath<ex>olic</ex> <lb/>
+            <add place="LM">*</add> cause.		Lastlie I lefte behinde me such an instrumente  	 <lb/>
+            composed artificially of a seculer vnderstanding &amp; religious profession <lb/>
+            as he is every way adapted, to scrue himselfe into the closet of the hearte <lb/>
+            &amp; worke vpon the Feminine levity, who in that Country haue Masculine <lb/>
+            spirits to command, &amp; pursue theire plottes vnto deathe.		This there=<lb break="no"/>
+            for I accompte as done, &amp; rejoice in it, knowing it will be very p<ex>ro</ex>fitable <lb/>
+            for vs, gratefull to our Faction there, &amp; for the reste what though it be <lb/>
+            a crosse to the people, or the Clergie; we that only negotiate for our <lb/>
+            owne gaine, &amp; treate about this marr<ex>iage</ex> for owr owne endes, can conclude <lb/>
+            or breake of when we see our time, without respecte of such as can <lb/>
+            neither profite vs nor hurte vs.   For I haue certaine knowledge that <lb/>
+            the Commons generallie are so effeminate, &amp; Cowardlie, as that they at <lb/>
+            theire Musters (which are seldome &amp; slighte, only for the benefitte of <lb/>
+            their Mustermaisters) of 1000 soldiers, scarce an 100 dare discharge <lb/>
+            a musket, &amp; of that 100 scarce one, ca<ex>n</ex> vse it like a soldier. &amp; for theire <lb/>
+            armes they are so evill provided, that 1 Corselet serveth many men, <lb/>
+            when such as shewe theire armes vpon one day, in one place, lende  <lb/>
+            them to theire frends in other places, to shewe whe<ex>n</ex> they haue vse; <lb/>
+            &amp; this if it be spied is only punished by a mulcte in the purse, which is <lb/>
+            the officers aime, who for his advantage winkes at the reste, &amp; is  <lb/>
+            gladde to finde &amp; cherish by connivence, profitable faultes, which ex=<lb break="no"/>
+            rease his revenue.           Thus standes the State of that pore misera=<lb break="no"/>
+            ble country, which had never more people &amp; fewer Men: so that if <lb/>
+            my Maister should resolue vpon an invasion, the time never fitted as <lb/>
+            at this present, security of this marr<ex>iage</ex> &amp; the disvse of armes, having <lb/>
+            caste them into a deade sleepe, a strong &amp; weakening faction being <lb/>
+            ever among them, readie to assiste vs, &amp; they being vnprouided of <lb/>
+            ships, &amp; armes, or heartes to fight, an vniu<ex>er</ex>sall discontentment filling <lb/>
+            all men. This I haue from theire mustermaisters &amp; captaines, who are <lb/>
+            many of them of our Religio<ex>n</ex>, or of none, &amp; so ours, readie to be bought <lb/>
+            &amp; sould, &amp; desirous to be my Maisters servants in Fee.		Thus <lb/>
+            much for the State particulerly wherein I haue bente my selfe to weake<ex>n</ex> <lb/>
+            them &amp; strengthe<ex>n</ex> vs, &amp; in all these haue advanced the Cath<ex>olic</ex> cause, but
+            <pb n="97v" facs="/bl/add_ms_28640/add_ms_28640_f097v/add_ms_28640_f097v.jpg"/>
+            specially in p<ex>ro</ex>curing favours for all such as favour <del rend="strikethrough">s</del> that side &amp; crossing <lb/>
+            the other by all means. And this I practise my selfe &amp; giue it out to be <lb/>
+            generallie practised by others, that whatsoever successe I finde, I still <lb/>
+            boaste of the victorie, which I doe to dishearten the heretikes to make <lb/>
+            them suspitious one of another, especiallie of theire prince &amp; best states <lb/>
+            men, &amp; to keepe our owne in Courage, who by this meanes encrease, o=<lb break="no"/>
+            therwise would be in danger to decay.		Nowe for Reli=<lb break="no"/>
+            gion &amp; such designes as fetche theire pretence from thence. I behelde <lb/>
+            the policy of that late B<ex>ishop</ex> of theires Bancrofte, who stirred vp &amp; main=<lb break="no"/>
+            teined a dangerous schisme betweene our Seculer priests &amp; Iesuites, <lb/>
+            by which he discovered much weakenes, to the dishonour of our Clergie <lb/>
+            &amp; prejudice of our cause. This taught me (as it did Barnevelt in <ex>th</ex>e <lb/>
+            Lowe-countries) to worke secretlie, &amp; insensiblie, betweene theire con <lb/>
+            formists &amp; non-conformists, &amp; to caste an eye as farre as the <hi rend="italic">Orcades</hi> <lb/>
+            knowing, that busines might be stirred vp there, that might hinder p<ex>ro</ex>cee=<lb break="no"/>
+            ding in Engl<ex>and</ex> as the French ever vsed Scotland to call home the forces <lb/>
+            of Engl<ex>and</ex> &amp; so to prevente theire conquests. 	The effecte you haue <lb/>
+            partlie seene in the <hi rend="italic">Earle of Argile</hi>, who sometime was captaine <lb/>
+            for the king &amp; Church, against the great <hi rend="italic">Marques Huntlie </hi>&amp; <lb/>
+            nowe fights vnder our banner at Bruxels, leaving the Crosses of <lb/>
+            St George &amp; St Andrewe, for the staffe of St Iames; neither doe <lb/>
+            our hopes end here, but we dayly expecte more revolters, at least <lb/>
+            such a division, as will never admitte solide reconcilement, but <lb/>
+            will sende some to vs, &amp; some to Amsterdam; for the king (a wise &amp; <lb/>
+            Vigilant Prince) labouring for a perfecte Vnion betwixte both <ex>th</ex>e <lb/>
+            kingdomes, which he seeth cannot be effected where <del rend="strikethrough">by </del>the leaste Ce=<lb break="no"/>
+            remonie in Religion is continued, diverse sharpe &amp; bitter brawles <lb/>
+            fro<ex>m</ex> thence arising, whilste some striving for honour more then for <lb/>
+            truth, preferre theire owne way &amp; will before the generall peace <lb/>
+            of the Churche, &amp; the edification of soules; he I say seekes to worke <lb/>
+            both Churches to vniformity, &amp; to this ende, made a <del rend="strikethrough">ioury</del> iourney into <lb/>
+            Scotland, but with no such successe as he expected; for diverse of <lb/>
+            ours attended the traine, who stirred vp humors, &amp; factions, &amp; caste <lb/>
+            in scruples, &amp; doubtes, to hinder &amp; crosse the proceedings. Yea those <ex>tha</ex>t <lb/>
+            seeme most adverse to vs, &amp; our opinions, by theire disobedience &amp; ex=<lb break="no"/>
+            ample helpe forwarde our plottes, &amp; those are encouraged by a  <lb/>
+            factious &amp; headie multitude, by a fainte &amp; irresolute Clergie (many <lb/>
+            false brethren being among theire BB) &amp; by theire prodigall Nobi=<lb break="no"/>
+            lity who mainteine these stirres in the Church, that therby they might <lb/>
+            most sacrilegiously seized vpon, in the time of the first deformation, <lb/>
+            &amp; which they feare would be recovered, by the clergie, if they could <lb/>
+            be brought to brotherly peace, &amp; agreement: for they haue seene <lb/>
+            the k<ex>ing</ex> very bountifull in this kinde, hauing <del rend="strikethrough">latl </del>latelie encreased their <lb/>
+            pensions, &amp; setled to the Clergie a competent maintenance, &amp; besides <lb/>
+            out of his owne meanes, (which in that kingdome is none of the greatest) <lb/>
+            having brought in &amp; restored whole Bishopricks to the Church, which <lb/>
+            were before in Lay-mens hands, a greate parte of the Nobilities  <lb/>
+            estates consisting of spirituall lands, which makes them cherish the
+            <pb n="98r" facs="/bl/add_ms_28640/add_ms_28640_f098r/add_ms_28640_f098r.jpg"/>
+            Puritanicall faction who will be contente to be trencher fedde with <lb/>
+            scrappes &amp; Crumbes, <del rend="strikethrough">&amp;</del> Contributions, &amp; arbitrary benevolences, from their <lb/>
+            Lordes &amp; Lairdes &amp; <del rend="strikethrough">theire</del> Ladies, theire adherents &amp; followers.
+         </p>
+         <p>
+            But (quoth the Inquisitor generall) howe if this acte of the king<del rend="strikethrough">s</del> wherein he <lb/>
+            is most earnest &amp; constant should so farre thrive as to effecte a perfecte <lb/>
+            vnion, both in the Church &amp; Commonwealth. I tell you in my conceipte it <lb/>
+            would be a greate blowe to vs, if by a generall meeting a generall peace <lb/>
+            should be concluded, &amp; all theire forces bente against Rome / &amp; we see this <lb/>
+            politike k<ex>ing</ex> aimes at this.		True qu. Gondamor but he takes     <lb/>
+            his marke amisse, howsoever he vnderstand the people &amp; theire inclinatio<ex>n</ex> <lb/>
+            better then any man, &amp; better knowes howe to temper theire passions &amp; <lb/>
+            affections, for (besides that he is hindered there in Scotland vnderhand for <lb/>
+            the reasons before recited, &amp; by other greate ones of ours, who are in greate <lb/>
+            place &amp; authority among them) he is likewise deluded in this pointe even <lb/>
+            by his owne clergie at home in England, who pretende to be most for=<lb break="no"/>
+            warde in the cause; for they considering if a generall vniformitie were <lb/>
+            wrought, what an invndation would followe, whilste all or moste of theires <lb/>
+            (as they feare) would flocke thither for preferment, as men pressing to=<lb break="no"/>
+            wards the Sunne for light &amp; heate, &amp; so theire owne should be vnprovi=<lb break="no"/>
+            ded. These therefore I say howsoever they beare the king fairely in hand <lb/>
+            and vnderhand against it, &amp; stand stiffely for all ceremonies to be obtruded <lb/>
+            with a kind of absolute necessity, vpon them, when the other will not be al=<lb break="no"/>
+            most drawne to receive any; when if an abatement were made, they might <lb/>
+            be drawne to meete in the middest. But there is no hope of this with <lb/>
+            them, where neither partie deales seriously but only for the present to  <lb/>
+            satisfie the king, &amp; so there is no feare on our side, that affections &amp; opi=<lb break="no"/>
+            nions so diverse will ever be <del rend="strikethrough">made one</del> reconciled &amp; made one.  Theire B<ex>ishop</ex> <lb/>
+            of St Andrewes standes almost alone, in the cause, &amp; pulles on himselfe <lb/>
+            the labour, the losse, &amp; the envy of all, with litle proficiency whilste the <lb/>
+            adverse factio<ex>n</ex>, haue as sure frends, &amp; as good intelligence fro<ex>m</ex> the k<ex>ing</ex> as he <lb/>
+            hath &amp; the same. Those perhaps that bring a packet from the k<ex>ing</ex> to him <lb/>
+            bring another from theire abettors to them, acquainting them with the <lb/>
+            whole p<ex>ro</ex>ceedings, &amp; Counselles, &amp; preparing them aforehand for opposi=<lb break="no"/>
+            tio<ex>n</ex>. This I knowe for <del rend="strikethrough">th</del> truth &amp; this I rejoice in as conducing much to the <lb/>
+            Catholike good.		But (quoth the Nuncio) are there none of  <lb/>
+            the hererticall preachers, busy about this matche? me thinkes, theire fingers <lb/>
+            should itche to be writing, &amp; theire tongues burne to be prating of this bu=<lb break="no"/>
+            sines, especially the Puritanicall sorte, howsoever the most temperate &amp; <lb/>
+            indifferente carry themselues.	            	The truth is (my Lo<ex>rd</ex> quoth the <lb/>
+            Embass<ex>ador</ex> that priuatelie what they can, &amp; publikely what they dare (both  <lb/>
+            in Engl<ex>and</ex> &amp; Scotl<ex>and</ex>) all for the most parte (excepte such as are of our <lb/>
+            faithe) oppose this matche, to the vtmoste, by prayers, Counsels, speeches <lb/>
+            wishes; but if any be found longer-tongued then his fellowes, we haue <lb/>
+            still meanes to charmes theire sawcines, to silence them &amp; expelle them <ex>th</ex>e <lb/>
+            Courte, to disgrace them &amp; crosse theire preferments, (with the imputa=<lb break="no"/>
+            tio<ex>n</ex> <add place="above">of</add> <hi rend="italic">pragmatike puritanisme</hi>. For instance I will relate this one particuler <lb/>
+            A Doctor of theires &amp; a <del rend="strikethrough">Chapleine</del> Chaplan in ordinary to the k<ex>ing</ex> gaue <lb/>
+            many reasons in a letter against this marr<ex>iage</ex> &amp; propounded a way howe <lb/>
+            to supply the k<ex>ing’s</ex> wants otherwise, which I understanding so wrought <lb/>
+            vnderhand that the Doctor was committed, &amp; hardlie escaped <ex>th</ex>e danger
+            <pb n="98v" facs="/bl/add_ms_28640/add_ms_28640_f098v/add_ms_28640_f098v.jpg"/>
+            of his presumptuous admonition, thoughe the State knewe his intente <lb/>
+            was honeste, &amp; his reasons good; wherein we on the other side (both <lb/>
+            here &amp; with the Archd<ex>uke</ex>) haue had bookes penned, &amp; pictures printed di=<lb break="no"/>
+            rectlie against theire k<ex>ing</ex> &amp; State, for which theire Embass<ex>ador</ex> haue sought <lb/>
+            satisfaction of vs in vaine, not being able to staye the printe or to  <lb/>
+            touche so much as the hemme of the authors garment. But we haue <lb/>
+            an evasion which heretikes misse, our Clergie being freed from the <lb/>
+            Temporall sworde, &amp; so not encluded in our treaties &amp; conditions of <lb/>
+            peace, but at libertie to giue any heretike prince the mate, when they <lb/>
+            liste, wheras theires are liable to accompte, &amp; are musled for barking <lb/>
+            when ours may both barke &amp; bite too: The Councell table &amp; Star-<lb break="no"/>
+            chamber, doe so terrifie them, as they dare not ryot but came at <ex>th</ex>e <lb/>
+            stirrop, in excellent command, &amp; come in <del rend="strikethrough">th</del> at the leaste rebuke. They <lb/>
+            call theire preaching in many places (standing vp) but they crouche <lb/>
+            &amp; dare not stande vp, nor queste, behaue themselues like Setters si=<lb break="no"/>
+            lent &amp; creepe in vpon theire bellies, &amp; <del rend="strikethrough">lic</del> licke the duste which our <lb/>
+            priests shake fro<ex>m</ex> theire beutifull feete.			Nowe quoth <lb/>
+            the Duke of Lerma satisfie me about our owne Clergie, howe they <lb/>
+            fare, for there were petitions made to this k<ex>ing</ex> in the name <lb/>
+            of the distressed afflicted persecuted &amp; imprisoned priests, that his <lb/>
+            Maj<ex>es</ex>tie would intercede for them, to free them fro<ex>m</ex> the intollerable bur=<lb break="no"/>
+            thens they groaned vnder, &amp; to procure theire liberties, &amp; letters <lb/>
+            were directed fro<ex>m</ex> vs to that ende, that you should negotiate this com=<lb break="no"/>
+            mand with all speed &amp; dilligence. 		Most excell<ex>ent</ex> Prince   <lb/>
+            replyed Gondamor I did your Commande, with a kind of Commande, <lb/>
+            my selfe not thinking it fitte, to make it a suite in yo<ex>u</ex>r name or my <lb/>
+            Maisters. I obteined them libertie to walke freely vp &amp; downe, to face <lb/>
+            &amp; outface theire accusers, iudges magistrates or BB. &amp; <hi rend="underline">to</hi> exercise <lb/>
+            theire functions almost as freely, altogether as safely as at Rome.  
+         </p>
+         <p>
+            Here the Nuncio objected that he did not well in his iudgm<ex>ent</ex> <lb/>
+            in procuring theire libertie, since they might doe more good in pri=<lb break="no"/>
+            son then abroade, because they seemed to be vnder persecution in <lb/>
+            prison, &amp; so were pitied of others, &amp; pity of the person prepares the <lb/>
+            affectio<ex>n</ex>; besides <del rend="strikethrough">then</del> <add place="above">there</add> they were carefull over theire owne lives to <lb/>
+            giue no offence; but abroade they might be scandalous in theire lives <lb/>
+            as they vse to be in Ro<ex>me</ex> &amp; Sp<ex>ain</ex> &amp; other Cath<ex>olic</ex> Countries, &amp; so the o=<lb break="no"/>
+            pinio<ex>n</ex> of theire holines which vpholds theire credite &amp; cause against <lb/>
+            the married clergie, would soone decay.		But the Embass<ex>ador</ex> <lb/>
+            replyed that he considered the inconveniencies, but besides a superior <lb/>
+            command, he sawe the profite of theire libertie to be more then of their <lb/>
+            restrainte, for nowe they might freely conferre, &amp; were ever <lb/>
+            practising, &amp; would doubtles produce some worke of wonder, &amp; be=<lb break="no"/>
+            sides by reason of theire authority &amp; meanes to change places did <lb/>
+            apply themselues to many persons, whereas in prison they only <lb/>
+            could deale with such as came to be wrought, &amp; were theire owne  <lb/>
+            before, &amp; this quoth he I adde as a secret, that as before they were <lb/>
+            maynteined by private contributions of devout Cath<ex>olics</ex> even to excesse <lb/>
+             so much more nowe shall they be able to gather greate summes to <lb/>
+            weaken the State &amp; furnish them for some high attempte by the
+            <pb n="99r" facs="/bl/add_ms_28640/add_ms_28640_f099r/add_ms_28640_f099r.jpg"/>
+            example of Cardinall Woolsey barrelling vp gould for Rome. &amp;  <lb/>
+            this they may easily doe since all the Cath<ex>olics</ex> robbe the hereticall priests &amp; <lb/>
+            withold tithes from them by fraude or force, to giue to these of theire <lb/>
+            owne to whom it is properly due, &amp; if this be espied it iss an easie <lb/>
+            matter to lay all vpon the Hollander, &amp; say he carryes the coine <lb/>
+            out of the land (who are forward enough indeede in such practises) &amp; <lb/>
+            so ours shall not only be excused, but a flawe made betwixte them, to <lb/>
+            weaken theire amities, &amp; begette suspition, betwixte them of each o=<lb break="no"/>
+            thers love.			But among all the priests (quoth the Inqui=<lb break="no"/>
+            sitor-generall) did you remember that ould revered father <hi rend="italic">Baldwin <lb/>
+            </hi>who had a finger in that admirable attempte<del rend="strikethrough">,</del> against the Parl<ex>iament</ex> house. <lb/>
+            Such as he deserving so highly, adventuring theire lives so resolutely <lb/>
+            for the Cath<ex>olic</ex> cause must not be <del rend="strikethrough">regarded</del> <add place="above">forgotten</add> but extraordinarily regarded <lb/>
+            thereby to encourage others to the like holy vndertakings/.
+         </p>
+         <p>
+            Holy Father quoth Gondamor my principall care was of him, whose <lb/>
+            life &amp; libertie, when I had with much difficultie obteined of the k<ex>ing</ex> I so=<lb break="no"/>
+            lemnly went in person, attended with all my traine &amp; diverse other  <lb/>
+            well-wishers, to fetche him out of the tower, where he was in durance. <lb/>
+            As soone as I came in his sight I behaved my selfe after a lowly &amp;  <lb/>
+            humble manner that our adversaries stood amazed to beholde the reve=<lb break="no"/>
+            rence we giue to our ghostlie fathers. And this I did to confounde the<ex>m</ex> <lb/>
+            &amp; theire contemptuous Clergie, &amp; to begette an extraordinary opinion <lb/>
+            of holines in the person, &amp; pietie in vs, &amp; also to provoke the Engl<ex>ish</ex> Cath<ex>olics</ex> <lb/>
+            to the like devout obedience, that thereby at any time these Iesuites (whose <lb/>
+            authority was somewhat weakened, since the schisme betwixte them &amp; the <lb/>
+            Seculers, &amp; the succeeding powlder-plotte) may worke them to our ends <lb/>
+            as maisters theire sercvants, Tutors theire scholl<ex>ars</ex>, fath<ex>ers</ex> theire child<ex>ren</ex>, kings <lb/>
+            theire subjects. And that they may doe this more bouldly I haue dashte <lb/>
+            the authority of theire high commission, vpon which, whereas there are <lb/>
+            diverse Pursevants (men of the worst kind &amp; Condition resembling our <lb/>
+            Flies &amp; Familiers attending <del rend="strikethrough">at </del>vpon the Inquisitio<ex>n</ex>) whose office &amp; em=<lb break="no"/>
+            ployment is to disturbe the Cath<ex>olics</ex> &amp; searche theire houses for priests, ho=<lb break="no"/>
+            ly vestments, bookes, beades, crucifixes &amp; the like religious appurte=<lb break="no"/>
+            nances, I haue caused the execution of theire office to be slackned, that so <lb/>
+            an open way may be giue<ex>n</ex> to our spirituall instruments for the free <lb/>
+            exercise of theire faculties; &amp; yet when the Pursevants had greatest <lb/>
+            authority a small bribe in the Country would blinde theire eyes, or a litle  <lb/>
+            greater at Courte, or in the Exchequor, frustrate &amp; crosse all theire ac=<lb break="no"/>
+            tions, so that theire malice went of like squibbes, made greater crackes to <lb/>
+            fright children, &amp; new borne babes, but hurte no ould men of Catholike  <lb/>
+            spirits. And this is the effecte of all other theire courses of proceeding <lb/>
+            in this kinde in all theire judiciall Courtes, whither knowne Catholikes  <lb/>
+            (as they stile them) are often summoned, &amp; cited, threatned &amp; bounde over <lb/>
+            but the danger is paste so soone as the officer hath his fee payd to him <lb/>
+            the<ex>n</ex> the execution goeth no further. Nay vpon my conscience they are <lb/>
+            gladde when there are offendors in that kinde, because they are bounti=<lb break="no"/>
+            full, &amp; the officers doe theire best to favour them that they may encrease <lb/>
+            &amp; so theire revenewe &amp; gaine come in freely, &amp; if they should be sent to <lb/>
+            prison even that place for the most parte is made as a Sanctuary to <lb/>
+            them. As the ould Romanes were wont to shutte vp such by way of <del rend="strikethrough">re<unclear>     </unclear>te</del>
+            <fw type="catch" place="bot-right">restrainte</fw>
+            <pb n="99v" facs="/bl/add_ms_28640/add_ms_28640_f099v/add_ms_28640_f099v.jpg"/>
+            restrainte as they meante to preserve fro<ex>m</ex> the peoples fury so they <lb/>
+            liue safe in prison, till we haue time to worke theire liberty &amp; assure <lb/>
+            theire lives, &amp; in the meane time theire place of restrainte is a stu=<lb break="no"/>
+            dy vnto them, where they haue opportunity to conferre together as <lb/>
+            in a Colledge, &amp; to arme themselues in vnity against the single adver=<lb break="no"/>
+            sity abroade. 			But quoth the Inquisitor generall howe      <lb/>
+            doe they for bookes when they haue occasion either to write or dispute?
+         </p>
+         <p>
+            My Lord (replyes Gondamor) all the libraries belonging to <lb/>
+            the Rom<ex>an</ex> Cath<ex>olics</ex> through the lande are at theire command, from whence <lb/>
+            they haue all such Collections, as they can require, gathered to theire <lb/>
+            hande, as well from thence, as from all the libraries in both the vni=<lb break="no"/>
+            versities, &amp; even the bookes themselues if that be requisite.		Besides <lb/>
+            I haue made it a principall parte of mine employment to buy all <lb/>
+            the manuscripts, &amp; other auncient &amp; rare authors out of the handes <lb/>
+            of the heretikes, so that there is no greate scholler dies in the land <lb/>
+            but my agents are dealing with his bookes, in so much that theire <lb/>
+            learned Isaac Causabons librarie, was in election without questio<ex>n</ex> to <lb/>
+            be ours, had not theire vigilant king (who foresees all dangers, &amp; <lb/>
+            hath his eye busie in every place) prevented my plotte, for after <lb/>
+            the death of that greate Scholler I sente to request a viewe &amp; Cata=<lb break="no"/>
+            logue of his bookes with theire price, intending not to be out-weighed <lb/>
+            by any ma<ex>n</ex>, if mony would fetche them, because (besides the damage <lb/>
+            that side should haue received by theire losse, p<ex>ro</ex>secuting the same <lb/>
+            <add place="LM">*</add>
+            story against Cardin<ex>al</ex> Baronius) we might haue good advantage by <lb/>
+            <del rend="strikethrough">
+                    <unclear>b</unclear>
+                </del> his notes, collections, castigations, censures &amp; Criticismes, for our <lb/>
+            owne partie, &amp; framed &amp; put out others vnder his name at our <lb/>
+            pleasure.  But this was foreseene by theire <hi rend="italic">Prometheus</hi> who sent <lb/>
+            that Torturer of ours (the Bishop of Winchester) to searche &amp; sorte <lb/>
+            the papers, &amp; to seale vp the Studie giving a large &amp; princelie al=<lb break="no"/>
+            lowance, for them, to the relicte of Causabon, together with a boun=<lb break="no"/>
+            tifull pension &amp; provision for her &amp; hers. But this plotte fayling <lb/>
+            at that time, hath not ever done so, nor had the Vniu<ex>er</ex>sitie of Oxford <lb/>
+            so triumphed in theire many manuscripts giue<ex>n</ex> by that famous kn<ex>ight</ex> <lb/>
+            S<ex>i</ex>r Tho. Bodly if either I had beene then imployed, or this course <lb/>
+            of mine then thought vpon, for I would labour this way or any other <lb/>
+            way to disarme them, &amp; either to translate theire best authors hither <lb/>
+            or at leaste to leave none in the hands of any but Rom<ex>an</ex> Catholikes <lb/>
+            who are assuredlie ours. (&amp; to this ende, an especiall eye would be <lb/>
+            had to the library of one S<ex>i</ex>r Rob. Cotton, an engrocer of antiqui=<lb break="no"/>
+            ties, that whensoever it come to be broken vp (either before his <lb/>
+            death or after) the most choice &amp; singuler pieces might be gleaned <lb/>
+            &amp; gathered vp by a Cath<ex>olic</ex> hande: neither let any man thinke that <lb/>
+            descending thus lowe to pety-particulers, is vnworthy an Embass<ex>ador</ex> <lb/>
+            or of small availe for the endes we aime at, since we see every <lb/>
+            mounteine consistes of severall sandes, &amp; there is no more profitable  <lb/>
+            conversing for Statesmen, then amongst schollers &amp; theire bookes, e=<lb break="no"/>
+            specially when the king for whom we watche, is the k<ex>ing</ex> of schollers <lb/>
+            &amp; loves to liue almost altogether in theire element.  Besides if we
+            <pb n="100r" facs="/bl/add_ms_28640/add_ms_28640_f100r/add_ms_28640_f100r.jpg"/>
+            ca<ex>n</ex> by any meanes continue differences in theire Church to make them <lb/>
+            wider, or begette distaste betweene theire clergie &amp; Common lawyers <lb/>
+            (who are men of greatest power, in the lande) the benefite will be ours <lb/>
+            the consequence greate, opening a way for vs to come in betweene, for <lb/>
+            personall quarrelles produce reall questions.			As he was    <lb/>
+            prosecuting this discourse one of the Secretaries (who <del rend="strikethrough">worth</del> waited <lb/>
+            without the Chamber) desired entrance, &amp; being admitted deliuered l<ex>ett</ex>res <lb/>
+            which he had newly received from a Poste directed to the President <lb/>
+            &amp; the reste of the Councell from his Cath<ex>olic</ex> Maister, the contentes where=<lb break="no"/>
+            of were to this effecte.			<hi rend="italic">Right trusty &amp; wellbeloued Cosens  <lb/>
+            &amp; Counsellors, we greete you well, wheras we had a hope of our agents in <lb/>
+            England &amp; Germany to effecte that greate worke of the Westerne Empire <lb/>
+            &amp; likewise on the <del rend="strikethrough">of </del> other side to surprise Venice, &amp; so encircling Europe <lb/>
+            at one instant &amp; enfolding it in our armes, make the easier roade upon <lb/>
+            the Turke in Asia, &amp; at length to reduce all the worlde to our Catholike <lb/>
+            commande, &amp; whereas to these holy endes, we had secrete &amp; sure plottes on <lb/>
+            foote in all those places &amp; good intelligence in all Courtes.		Knowe ye  <lb/>
+            nowe that we haue receiued late &amp; sadde newes of the apprehension of our <lb/>
+            most trusty &amp; able Pensioner Barneuelte, &amp; of the discouery of other our <lb/>
+            intendments, so that our hopes are for the presente adjourned till some <lb/>
+            other more conuenient &amp; auspicious time; We therefore will you presentlie <lb/>
+            upon sight hereof to breake of your consultation, &amp; repaire streighte to our <lb/>
+            presence, there to take further direction, &amp; proceede as necessity of time &amp; <lb/>
+            cause shall require.</hi>		With this <del rend="strikethrough">Excellency</del> his Excellencie &amp; the whole <lb/>
+            house stroke with amazement crossed theire foreheades, rose vp in sad <lb/>
+            silence, &amp; brake of this treatie abruptelie, &amp; without tarrying tooke <lb/>
+            horse, &amp; posted to the Courte, fro<ex>m</ex> whence expecte newes the nexte <lb/>
+            fayer winde.					In the meane time let not <lb/>
+            those be secure whom it concernes to be rowsed vp, knowing that this <lb/>
+            aspiring Nebuchadnezzar, will not loose the glorie of his greatnes <lb/>
+            (who continueth still to magnifie himselfe in his greate Babell) vntill <lb/>
+            it be spoken thy kingdome is departed from the ./ <hi rend="italic">Dan. 4.      Finis.</hi>
+         </p>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            This booke came forth <del rend="strikethrough">about </del>
+                <add place="above">in</add> Nov. <del rend="strikethrough">30</del>. 1620 about the time of the <lb/>
+            proclamatio<ex>n</ex> for the Parliament to followe in Ian. or Feb. next after  <lb/>
+             						       Ian. 30
+         </p>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            The truth of those things that are here intimated concerninge Spaine <lb/>
+            &amp; Gondamor must be defended by the Title of the booke <hi rend="italic">Vox populi</hi>. <lb/>
+            But who so doth well vnderstand the Spanish aime, the Condition of <lb/>
+            our Papists, with the estate of many things as they lately haue <del rend="strikethrough">be <lb/>
+            </del>beene &amp; nowe are amo<ex>n</ex>gste <add place="above">vs</add>, may say that the authour hath for the <lb/>
+            most parte, fitted eche p<ex>er</ex>son &amp; related truth, in likelyhoode, although <lb/>
+            in <del rend="strikethrough">many</del> <add place="above">some</add> things he may haue missed, &amp; done weakely in others. /    
+         </p>
+         <milestone type="separator" unit="nonstructural" rend="horizontal-line"/>
+         <p>
+            Of the matche with Spaine I alwaies said that I should never believe it <lb/>
+            <del rend="strikethrough">should</del> vntill I did see it effected.
+         </p>
+         <p>
+            See the Interpreter. <del rend="strikethrough">pag. </del>fol. 35.
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_28640/add_ms_28640_f092r/add_ms_28640_f092r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_28640/add_ms_28640_f092v/add_ms_28640_f092v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_28640/add_ms_28640_f093r/add_ms_28640_f093r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_28640/add_ms_28640_f093v/add_ms_28640_f093v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_28640/add_ms_28640_f094r/add_ms_28640_f094r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_28640/add_ms_28640_f094v/add_ms_28640_f094v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_28640/add_ms_28640_f095r/add_ms_28640_f095r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_28640/add_ms_28640_f095v/add_ms_28640_f095v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_28640/add_ms_28640_f096r/add_ms_28640_f096r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_28640/add_ms_28640_f096v/add_ms_28640_f096v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_28640/add_ms_28640_f097r/add_ms_28640_f097r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_28640/add_ms_28640_f097v/add_ms_28640_f097v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_28640/add_ms_28640_f098r/add_ms_28640_f098r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_28640/add_ms_28640_f098v/add_ms_28640_f098v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_28640/add_ms_28640_f099r/add_ms_28640_f099r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_28640/add_ms_28640_f099v/add_ms_28640_f099v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_28640/add_ms_28640_f100r/add_ms_28640_f100r.jpg"/>
+   </facsimile>
+</TEI>

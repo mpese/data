@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petition to the King</title>
+            <author>Grand Jury of Berkshire</author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_24064">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 24064</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_192">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.192</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="BerkshirePetition1640v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 64r–64v</ref>
+                    </bibl>
+                </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="page">133</biblScope>
+               </bibl>
+               <bibl>
+                  <author>
+                     <forename>J.S.</forename>
+                     <surname>Morrill</surname>
+                  </author>
+                  <title>Revolt of the Provinces: Conservatives and Radicals in the English Civil War, 1630-1650</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Allen and Unwin</publisher>
+                  <date when="1976">1976</date>
+                  <biblScope unit="page">148</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1640-07-11">11 July 1640</date>
+            <placeName corresp="../places/places.xml#PL0022">Berkshire</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Petition of Right</term>
+               <term>Ship Money</term>
+               <term>Short Parliament</term>
+               <term>forest laws</term>
+               <term>hunting</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-09" who="#SV" status="proofread"/>
+            <change when="2017-11-27" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="66r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f066r/harley_ms_4931_f066r.jpg"/>
+         <head rend="align-centre">
+            To the Kings most excellent Ma<ex>jes</ex>ty. <lb/>
+            The humble petition of yo<ex>u</ex>r Ma<ex>jes</ex>tyes most loyall Sub<ex>jec</ex>ts y<hi rend="superscript">e</hi> Grand-Iury <lb/>
+            empannelled Iul. 11. 1640. to serue at y<hi rend="superscript">e</hi> generall Assizes holden for y<hi rend="superscript">e</hi>  <lb/>
+            County of Berks, in y<hi rend="superscript">e</hi> behalfe of y<ex>e</ex>mselues, &amp; y<hi rend="superscript">e</hi> rest of y<hi rend="superscript">e</hi> body <lb/>
+            of the County.
+         </head>
+         <p rend="outdent">
+            Sheweth
+         </p>
+         <p>
+            That whereas yo<ex>u</ex>r Petitioners haue beene of late yeares, &amp; still are much burdened <lb/>
+            with sundry grievances of diuers natures, deriving their authority from yo<ex>u</ex>r Ma<ex>jes</ex>ty, <lb/>
+            but being directly contrary to yo<ex>u</ex>r Ma<ex>jes</ex>tyes lawes established in this yo<ex>u</ex>r Kingdome, the <lb/>
+            chiefe of <ex>the</ex>m pr<ex>e</ex>senting <ex>the</ex>mselues in a schedule heereunto annexed, for redresse whereof, <lb/>
+            as yo<ex>u</ex>r Petitioners hoped, yo<ex>u</ex>r Ma<ex>jes</ex>ty was graciously pleased about y<hi rend="superscript">e</hi> middle of Aprill last <lb/>
+            to assemble the g<ex>rea</ex>t Councell, commonly called The High Court of Parliam<ex>en</ex>t, &amp; <lb/>
+            some 3 after to dissolue it, for want (as it seemes to yo<ex>u</ex>r Petitioners) of a good <lb/>
+            agreem<ex>en</ex>t betweene the 2 <sic>housed</sic>, &amp; neverthelesse since the said dissolution to expresse <lb/>
+            such a fatherly care of yo<ex>u</ex>r poore people, <ex>tha</ex>t yo<ex>u</ex>r ma<ex>jes</ex>ty hath vouchsafed by yo<ex>u</ex>r Declara-<lb break="no"/>
+            tion to invite <ex>the</ex>m to <ex>th</ex>
+                <hi rend="superscript">e</hi> powring out of <ex>thei</ex>r<del rend="strikethrough">o</del> complaints into yo<ex>u</ex>r Princely care.
+         </p>
+         <p>
+            May it <ex>the</ex>
+                <hi rend="superscript">r</hi>
+                <ex>e</ex>fore please yo<ex>u</ex>r most excellent ma<ex>jes</ex>ty to take the said p<ex>ar</ex>ticulars into <lb/>
+            tender consideration, &amp; to giue yo<ex>u</ex>r petitioners such ease <ex>the</ex>r<ex>e</ex>in, as in yo<ex>u</ex>r royall wise-<lb break="no"/>
+            dome shalbe fitt, &amp; whereby it may appeare to all yo<ex>u</ex>r ma<ex>jes</ex>tyes Subiects, espe-<lb break="no"/>
+            cially to <ex>th</ex>
+                <hi rend="superscript">os</hi>
+                <ex>e</ex> of yo<ex>u</ex>r Ma<ex>jes</ex>tyes most Hon<ex>oura</ex>ble privy Councell, &amp; yo<ex>u</ex>r other officers, &amp; <lb/>
+            ministers of Iustice, <ex>tha</ex>t yo<ex>u</ex>r ma<ex>jes</ex>ty is resolved to continue unto <ex>the</ex>m all <ex>thei</ex>r rights, <lb/>
+            and liberties, w<ex>hi</ex>ch they desired by the petition of right, &amp; w<ex>e</ex>r<ex>e</ex> confirmed by yo<ex>u</ex>r <lb/>
+            ma<ex>jes</ex>ty in <ex>th</ex>
+                <hi rend="superscript">e</hi> 3d yeare of yo<ex>u</ex>r raigne.
+         </p>
+         <p rend="align-right">
+            And yo<ex>u</ex>r &amp;c.
+         </p>
+         <p rend="align-centre">
+            <add place="LM">
+               Berks.
+            </add>
+            A Schedule of such grievances, as do most oppresse <lb/>
+            this County.
+         </p>
+         <p>
+            <add place="LM">1. </add>
+            The Illegall, &amp; unsupportable charge of Shipp-mony imposed in the 5<hi rend="superscript">t</hi> yeare as <lb/>
+            high as ever, though <ex>th</ex>
+                <hi rend="superscript">e</hi> Sub<ex>jec</ex>t was not able to pay <ex>th</ex>
+                <hi rend="superscript">e</hi> last yeare, being but a 3d.
+         </p>
+         <p>
+            <add place="LM">2. </add>
+            The newe taxe of Coate, &amp; Conduct mony, w<ex>i</ex>th undue meanes used to in-<lb break="no"/>
+            force the paiment of it by messengers from the Councell Table.
+         </p>
+         <p>
+            <add place="LM">3. </add>
+            The compelling some free men by imprisonm<ex>en</ex>t, &amp; threatnings to take presse mony, <lb/>
+            &amp; others for feare of the like imprisonm<ex>en</ex>ts to fosake <ex>thei</ex>r places of habitations, hiding <lb/>
+            <ex>the</ex>mselues in woods, wherby <ex>thei</ex>r families are left to be maintained by <ex>th</ex>
+                <hi rend="superscript">e</hi> parish &amp; har-<lb break="no"/>
+            vest undonn for want of Labourers.
+         </p>
+         <p>
+            <add place="LM">4. </add>
+            The infinite number of monopolies upon allmost every thing <ex>tha</ex>t <ex>th</ex>
+                <hi rend="superscript">e</hi> country-man buyes.
+         </p>
+         <p rend="indent">
+            Besides the Easterne of this County, where yo<ex>u</ex>r Ma<ex>jes</ex>tyes forrest <lb/>
+            of Windsor is particularly burdened. 
+         </p>
+         <p>
+            <add place="LM">1. </add>
+            W<ex>i</ex>th <ex>th</ex>
+                <hi rend="superscript">e</hi> unmeasurable encrease of <ex>th</ex>
+                <hi rend="superscript">e</hi> Deare, w<ex>hi</ex>ch if they shall goe on so for a few <lb/>
+            yeares more, will leaue neither food, nor roome for any other creature in <ex>th</ex>
+                <hi rend="superscript">e</hi> Forrest.
+         </p>
+         <p>
+            <add place="LM">2. </add>
+            W<ex>i</ex>th <ex>th</ex>e rigid execution of Forrest lawes in <ex>thei</ex>r extremity.
+         </p>
+         <p>
+            <add place="LM">3. </add>
+            W<ex>i</ex>th <ex>th</ex>e exaction of the Im<ex>m</ex>oderates Fees for some Officers under the L<ex>or</ex>d chiefe <lb/>
+            Iustice in <hi rend="underline">Eire.</hi>
+         </p>
+         <pb n="66v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f066v/harley_ms_4931_f066v.jpg"/>
+         <p rend="align-right">
+            Berks Petition <lb/>
+            Iul. <hi rend="underline">11. 1640:.</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f066r/harley_ms_4931_f066r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f066v/harley_ms_4931_f066v.jpg"/>
+   </facsimile>
+</TEI>

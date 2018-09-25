@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prognostication of the Emperor’s Principal Astrologers</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22959.xml">
+               <msIdentifier xml:id="BL_Add_MS_22959">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 22959</idno>
+                  <msName>Diary of Reverend John Rous</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22959</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_311">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Hargrave</collection>
+                <idno>MS 311</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_78201">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 78201</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_70001">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 70001</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS70001.xml">British Library, Additional MS 70001, f. 353v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS78201.xml">British Library, Additional MS 78201, ff. 106r–106v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="Prognostication1629v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHargraveMS311.xml">British Library, Hargrave MS 311, f. 192r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_c_272.xml">Bodleian Library,  MS Eng. hist. c. 272, ff. 132–33</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IL_3530.xml">Northamptonshire Record Office, IL 3530, ff. 1r–v</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1629">c.1629</date>
+            <placeName corresp="../places/places.xml#PL0024">Rome</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>prophecy</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>astrology</term>
+               <term>prophecy</term>
+               <term>diplomacy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-19" who="#SV" status="proofread"/>
+            <change when="2018-01-26" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="32v" facs="/bl/add_ms_22959/add_ms_22959_f032v/add_ms_22959_f032v.jpg"/>
+         <gap reason="elision" extent="multiple lines"/>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">1629.</tei:add>In Aprill I receiued a Copy of this Prognosticiation sent <lb/>
+            abroad I believe to busy the heades of the vulgar in this <lb/>
+            troublesome time &amp; to hinder theire talke of state matters.
+         </p>
+         <div rend="curly-bracket-L">
+            <p>
+               A Prognosticatio<ex>n</ex> sent to his Imperiall Majestie &amp; the <lb/>
+               illustrious Prince of Saxonie. <space extent="4" unit="chars"/> 1629 Sunne in Libra <lb/>
+               &amp; all the planets about her p<ex>ro</ex>gnosticate horrible things. <lb/>
+               Tempests by meeting of the 4 Windes / Earthquakes that <lb/>
+               shall cause many for feare to die / Trees &amp; buildings shall <lb/>
+               be cast downe especially neere waters / Horrible eclip=<lb break="no"/>
+               ses / A bloudy rainbowe / Strange bloudy warres / The <lb/>
+               Emperor &amp; his subjects are moved to repentance &amp; he <lb/>
+               to withdrawe himselfe into some convenient place with <lb/>
+               p<ex>ro</ex>uision for xxx dayes. <space extent="3" unit="chars"/> Approued by Armarguers Spa<lb break="no"/>
+               nish &amp; Grecian Astrologers.
+               <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">Prognosti-<lb break="no"/>cation.</tei:add>
+            </p>
+            <p>
+               May 28. greate assembly of men of warre. <lb/>
+               Jun 11. Three greate princes shall die.
+               <space extent="3" unit="chars"/> 12 A Lord shall atteine to greate dignity &amp; hono<ex>u</ex>r
+               <space extent="3" unit="chars"/> 18 A great wind.
+               <space extent="3" unit="chars"/> 19 A banished Prince shall returne to his owne <lb/>
+               <space extent="6" unit="chars"/> Country &amp; receiue his former dignity. <lb/>
+               <space extent="3" unit="chars"/> 28 Greate intollerable heate. <lb/>
+               August 14 Greate preparation for warre by sea &amp; land.
+               <space extent="3" unit="chars"/>17 Greate effusion of bloud.
+               <space extent="3" unit="chars"/>18 Halfe the world shall be drowned.
+               <space extent="3" unit="chars"/>20 <del rend="strikethrough">b</del> Busines of greate importance sent fro<ex>m</ex> many places.
+            </p>
+         </div>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22959/add_ms_22959_f032v/add_ms_22959_f032v.jpg"/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,514 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Challenges</title>
+            <author>
+               <persName corresp="../people/people.xml#P0110">Lord Edward Bruce</persName>
+            </author>
+            <author>
+               <persName corresp="../people/people.xml#P0111">Sir Edward Sackville</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS73087.xml">
+               <msIdentifier xml:id="BL_Add_MS_73087">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 73087</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 73087</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_22587">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22587</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72407">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 72407</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Hargrave_MS_226">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Hargrave</collection>
+               <idno>MS 226</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6854">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6854</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_4149">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 4149</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22587.xml">British Library, Additional MS 22587, f. 25v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v6.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS4149.xml">British Library, Additional MS 4149, ff. 210r–211r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v7.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS44848.xml">British Library, Additional MS 44848, ff. 177r–179v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS72407.xml">British Library, Additional MS 72407, ff. 52r–52v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v3.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHargraveMS226.xml">British Library, Hargrave MS 226, ff. 244r–249v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v5.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 127r–132v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BruceSackvilleChallenges1613v4.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS6854.xml">British Library, Harley MS 6854, ff. 3r–14r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1613-09-06">6 September 1613</date>
+            <placeName corresp="../places/places.xml#PL0030">Leuven, Belgium</placeName>
+            <placeName corresp="../places/places.xml#PL0028">Tregoes, Holland</placeName>
+            <placeName corresp="../places/places.xml#PL0029">Paris, France</placeName>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>challenges</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>duel</term>
+               <term>honour</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-01" who="#RB" status="draft"/>
+            <change when="2017-12" who="#TW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="47v"/>
+            <p>
+               The Combatt betwixt<lb/>
+               the Lord Bruce, and Sr: Edward<lb/>
+               Sackvill
+            </p>
+            <p>
+               A mounseiur mounseiur<lb/>
+               Sackvill<lb/>
+               I: that am<ex>m</ex>e in Fraunce, heare howe much yow<lb/>
+               Attribute to yor: selfe in this tyme, that I<lb/>
+               haue given the world leave to Ringe yor:<lb/>
+               prayses, and ffor mee the truest Alminacke<lb/>
+               to tell yow howe much I sufferr, And yf yow<lb/>
+               call to Memorye, when I gave yow my hand<lb/>
+               last, I tould yow I reserved the harte ffor a<lb/>
+               truer Reconcillyac<ex>i</ex>on, Nowe by that noble<lb/>
+               gentleman my Love once spoke, and com<ex>m</ex>e, and<lb/>
+               doe him Right, that could Recyte the Tryalls<lb/>
+               yow owe yor: Birth, and Countrye, were I <lb/>
+               not Conffident yor. honnor: gives yow the same<lb/>
+               Courage to doe mee Right, that it did to doe<lb/>
+               mee wronge, Bee Mr: of yor: owne weapons,<lb/>
+               and tyme, the place wheresoever I will wayte<lb/>
+               on yow, By doeinge this, yow shall shorten<lb/>
+               Revenge, and cleare the ydle opinyon the<lb/>
+               worlde hath of both our honnors:<lb/>
+               			Edward Bruce<lb/>
+               <fw type="catch" place="bot-right">A Mounseiur</fw>
+               <pb n="48r"/>
+               A mounseiur mounseiur<lb/>
+               Le Baron de Kinlosse:
+            </p>
+            <p>
+               As: it shalbee allwayes ffarre from mee to<lb/>
+               seeke a Quarrell, soe will I bee allwayes readye<lb/>
+               to meete w<ex>i</ex>th any that desire to make Tryall of<lb/>
+               my vallour by soe ffayer a Course as yow Re<lb/>
+               quyer, a meanes whereof yor: selfe shalbee, whoe<lb/>
+               wthin a Moneth shall receyve a stricte Accompte of<lb/>
+               tyme, place, and weapon, where, yow  shall ffinde mee<lb/>
+               Readye disposed to give yow honnoble: satisfacc<ex>i</ex>on, by him<lb/>
+               that shall Conducte yow thether, In the meane tyme,<lb/>
+               bee as secrett of the Appointemte: as it seemes yow<lb/>
+               are desirous of it:<lb/>
+               				Edward Sackvill
+            </p>
+            <p>
+               A mounseiur mounseiur<lb/>
+               Le Baron de Kinlosse
+            </p>
+            <p>
+               I: am<ex>m</ex>e readye att Tergose, a Towne in Zealand, to <lb/>
+               give yow that satisfacc<ex>i</ex>on yor: sworde cann Render<lb/>
+               yow, Accompanyed w<ex>i</ex>th a Worthie gentleman ffor my<lb/>
+               second, in degree a knight, And ffor yor: com<ex>m</ex>einge<lb/>
+               I will not Lymitte yow a peremptorye daye, Butt <lb/>
+               desire yow to make a deffinyte and speedye Repayer,<lb/>
+               ffor yor: owne honnor: and ffeare of prevention, untill<lb/>
+               <fw type="catch" place="bot-right">wch tyme</fw>
+               <pb n="48v"/>
+               untill w<ex>hi</ex>ch tyme yow shall ffinde  mee there, Tergose,<lb/>
+               the, 10th: of August, <hi rend="underline">1613</hi>:<lb/>
+               				Edward Sackvill
+            </p>
+            <p>
+               A mounseiur mounseiur<lb/>
+               Sackvill:<lb/>
+               I haue Receyved yor: L<ex>ett</ex>re, by yo<ex>u</ex>r: Man, and acknowe=<lb break="no"/>
+               ledge yow haue dealte noblye w<ex>i</ex>th mee, And nowe<lb/>
+               I com<ex>m</ex>e w<ex>i</ex>th  possible hast to meete yow:<lb/>
+               				Edward Bruce
+            </p>
+            <p>
+               Sir Edward Sackvill his<lb/>
+               Relac<ex>i</ex>on of the ffight,  Betwene him<lb/>
+               and the Lord Bruce:<lb/>
+               Worthie: Sr: as I ame not ignorante (soe ought<lb/>
+               I to bee sencible) of the Falce Aspertions  Authorlesse<lb/>
+               Toungues haue layde uppon mee, in the Reportes of<lb/>
+               the unffortunate passage, latelye happened, Betwene<lb/>
+               the Lord Bruce, and my selfe, w<ex>hi</ex>ch as they are <lb/>
+               spread heere, soe maye I iustlye ffeare they Raigne<lb/>
+               alsoe where yow are,<lb/>
+               <fw type="catch" place="bot-right">There are</fw>
+               <pb n="49r"/>
+               There: are butt Two wayes to Resolue doubtes,<lb/>
+               of this nature, By oath, or by sworde, The ffirst<lb/>
+               is due to Magistrates, and Communicable to ffrindes,<lb/>
+               Theother to such, as Maliciouslye slaunder, and <lb/>
+               impudentlye deffend their Assertion, yor: Love, not<lb/>
+               my meritt Assures mee, yow hould mee yor: ffrinde,<lb/>
+               wch I esteeme I am<ex>m</ex>e much desirous to Retayne, doe<lb/>
+               thereffore the Right to understand the truth of that,<lb/>
+               and in my behalfe to infforme others, whoe eyther<lb/>
+               are, or maye bee inffected w<ex>i</ex>th sinister Rumors. much<lb/>
+               priudicyall to that ffayer opinyon I desire to hould<lb/>
+               amongst all worthie Person<ex>n</ex>s, And on the ffaith of<lb/>
+               a gentleman the Relac<ex>i</ex>on I shall give, is neyther more nor<lb/>
+               lesse, Then the Bare truth:
+            </p>
+            <p>
+               The: inclosed Contaynes the ffirst Citac<ex>i</ex>on, sent<lb/>
+               mee from Paris, by a Scottishe gent’, whoe delivered<lb/>
+               it me in Darbisheire att my ffather in Lawes howse,
+            </p>
+            <p>
+               After: it ffollowes my then Aunsweare returned him<lb/>
+               by the same Bearer,
+            </p>
+            <p>
+               The: next is, my Accomplishemte: of my ffirst<lb/>
+               promise, beinge a particuler Assignac<ex>i</ex>on of place,<lb/>
+               and weapon, w<ex>hi</ex>ch I sent by a servante of myne by<lb/>
+               Post from Rotterdam, assoone as I landed there:<lb/>
+               The Receipte of wch., ioyned w<ex>i</ex>th an acknoweledgmte:<lb/>
+               <fw type="catch" place="bot-right">of my</fw>
+               <pb n="49v"/>
+               of my to ffayer Carryage to the deceased Lord, is<lb/>
+               Testiffyed by the last, w<ex>hi</ex>ch Periodes the Busines,<lb/>
+               till wee mett at Tergose in Zealand, it beinge a<lb/>
+               place Allotted for Randevous, where hee accompanyed <lb/>
+               wth Mr: Cranfforde an Englishe gentleman, For,<lb/>
+               his second, a Chirurgeon, and a Man, Arryved w<ex>i</ex>th <lb/>
+               all the speede hee could, and there haveinge once Ren=<lb break="no"/>
+               dered himselfe, I Addressed my second, Sr: John Heydon,<lb/>
+               to lett him understand, that nowe all ffollowinge should<lb/>
+               bee don<ex>n</ex>e by Conscent, As Conscerninge the Tearmes<lb/>
+               whereon wee should ffight, As alsoe the place, To<lb/>
+               our secondes wee gave power ffor their Appointemt<ex>es</ex>,<lb/>
+               whoe Agreed wee should goe to Antwerpe, ffrom thence<lb/>
+               to Bargen=<unclear>up</unclear>=zome, where in the middwaye, butt<lb/>
+               a village devides the States Territoryes ffrom<lb/>
+               the Archdukes, and there was the destined stage, to<lb/>
+               the ende that haveinge ended, hee that could might<lb/>
+               prsentlye exempt himselfe ffrom the Justice of the <lb/>
+               Countrye, by Retyreinge into the domynion not offended: 
+            </p>
+            <p>
+               Itt: was ffurther Concluded, that in Case any should<lb/>
+               ffall, or slipp: that then the Combatt should Cease,<lb/>
+               and hee whose yll ffortune had soe subiected him,<lb/>
+               was to acknoweledge his lyfe to haue been in theothers<lb/>
+               handes, Butt in Case one partyes sworde should <lb/>
+               Breake (Because that could onely Chaunce by hazard)<lb/>
+               It was agreed that theother should take noe advaun<lb/>
+               <fw type="catch" place="bot-right">tage</fw>
+               <pb n="50r"/>
+               advauntage, Butt eyther then bee made ffrindes, or els by<lb/>
+               even Tearmes goe to it agayne;
+            </p>
+            <p>
+               Thus: theise Conclusions beinge by each of them<lb/>
+               Related to his partye, were by both of us Approved, and <lb/>
+               Assented to, accordinglye, wee embarcqued, ffor Antwerpe,<lb/>
+               And by reason<ex>n</ex> my Lord (as I Conceyve because hee could <lb/>
+               not handsomelye wthout daunger of discoverye) had<lb/>
+               not payred his sworde, I sent him att Paris, one of the<lb/>
+               same length but twyce as Broade, My second excepted <lb/>
+               against it, and Advised mee to Match  myne owne,<lb/>
+               and sent him the Choyce. w<ex>hi</ex>ch I obayed (it beinge as<lb/>
+               yow knowe the Challengers: privelidge to ellect the<lb/>
+               weapon), Att that deliverye of the swordes (wch was<lb/>
+               p<ex>er</ex>fformed by Sr: John Heydon, It pleased the Lord<lb/>
+               Bruce to Choose myne owne, and then past expectac<ex>i</ex>on,<lb/>
+               hee tould Sr: John Heydon, that hee ffounde himselfe<lb/>
+               soe farre behinde hand, as a little of my Bloode,<lb/>
+               would not serve his turne, And thereffore hee was<lb/>
+               nowe Resolued to haue mee alone, Because hee knewe,<lb/>
+               (ffor I will use his owne wordes) that soe worthie a<lb/>
+               gentleman, and my ffrinde could not endure to stande<lb/>
+               by, and see him doe that hee must to satisfye himselfe,<lb/>
+               and his honnor:
+            </p>
+            <p>
+               Heereunto: Sr: John Heydon Replyed, that such<lb/>
+               intenc<ex>i</ex>ons, weere Bloodye, and Butcherlye, ffarr<lb/>
+               <fw type="catch" place="bot-right">unfittinge</fw>
+               <pb n="50v"/>
+               unfittinge  soe noble a Personage, whoe should desire<lb/>
+               to bleed ffor Reputac<ex>i</ex>on , not ffor lyfe, wthall Addinge<lb/>
+               hee thought himselfe Iniured, beinge com<ex>m</ex>e this<lb/>
+               ffar, nowe to bee prohibited ffrom the executeinge  <lb/>
+               those honnoble: offyces hee came ffor:
+            </p>
+            <p>
+               The: Lord ffor Aunsweare onely Reitterated his<lb/>
+               fformer Resoluc<ex>i</ex>on:
+            </p>
+            <p>
+               Whereuppon: Sr: John leavinge him the<lb/>
+               sworde hee had ellected, delivered mee theother, wth<lb/>
+               his determinac<ex>i</ex>on, The wch, (not matter but manner)<lb/>
+               soe moved mee, Although to my Remembraunce I had   <lb/>
+               not of a longe tyme eaten more Liberallye then att<lb/>
+               dynner, and thereffore unffitt ffor such an Acc<ex>i</ex>on, <lb/>
+               seeinge the Chirurgeons hould a wounde uppon a<lb/>
+               ffull stomacke much more daungerous then otherwise,<lb/>
+               I requested my second to Certiffye him, I would<lb/>
+               presentlye decyde the difference, and thereffore hee<lb/>
+               should ymediatelye meete mee on horsbacke, onely<lb/>
+               wayted on by our Chirurgeons they beinge unarmed:
+            </p>
+            <p>
+               Together: wee Rode, (But one beffore theother<lb/>
+               som<ex>m</ex>e twelve score) aboute some two Englishe Myles,<lb/>
+               and there passion haveinge soe weake an enemye <lb/>
+               to Assayle, as my direction, my passion easely becam<ex>m</ex>e<lb/>
+               victor, and useinge hir power made mee obedyent to<lb/>
+               hir Comaundemte:  I beinge verely madde w<ex>i</ex>th Anger,<lb/>
+               <fw type="catch" place="bot-right">the Lord,</fw>
+               <pb n="51r"/>
+               the Lord Bruce should thirst after my lyfe, w<ex>i</ex>th <lb/>
+               a kind of Assurednes, seeinge I had come soe farr,<lb/>
+               and needleslye to give him leave to Regayne his<lb/>
+               lost Reputac<ex>i</ex>on, I Badd him alight, w<ex>hi</ex>ch w<ex>i</ex>th all<lb/>
+               willingnes hee quicklye graunted, and there in a<lb/>
+               Meadowe (Anckle deepe in water att the least)<lb/>
+               Biddinge ffarewell to our dublett<ex>es</ex>, in our shirtes<lb/>
+               began to Charge each other, haveinge affore Com=<lb break="no"/>
+               maunded our Chirurgeons to wthdrawe themselves a<lb/>
+               prettye distaunce ffrom us, Coniureinge them besides,<lb/>
+               as they respected our favors: or their owne saffetyes,<lb/>
+               not to stirre, Butt sufferr us to execute our pleasures, <lb/>
+               wee beinge fullye resolued, (god fforgive us) to dis=<lb break="no"/>
+               patch  each other by what meanes wee could:
+            </p>
+            <p>
+               I: made a Thrust att <del rend="strikethrough">him</del> myne enemye, But was<lb/>
+               shorte, and in draweinge Backe myne Arme, I<lb/>
+               receyved agreate wounde, w<ex>i</ex>th a Blowe thereon,<lb/>
+               wch I interpreted as a Rewarde ffor my shorte<lb/>
+               shooteinge, Butt in Revenge, I prest it to him, though<lb/>
+               I then mist him alsoe, And then receyvinge a<lb/>
+               wounde in my Right papp, w<ex>hi</ex>ch past levell through<lb/>
+               my Bodye, and almost to my Backe, and there<lb/>
+               wee wrestled ffor the two greatest, and dearest<lb/>
+               prises wee could ever expect, Tryall for honnor:<lb/>
+               and lyfe; In w<ex>hi</ex>ch wrestlinge, my hande haveinge<lb/>
+               butt an ordinarye glove on it) lost one of hir<lb/>
+               <fw type="catch" place="bot-right">Servant<ex>es</ex>
+                </fw>
+               <pb n="51v"/>
+               Servant<ex>es</ex> (though the meanest:) w<ex>hi</ex>ch hunge by the<lb/>
+               skinne, And to sight yett remayneth as beffore, and<lb/>
+               I am<ex>m</ex>e putt in hope, one daye to haue the use  alsoe,<lb/>
+               Butt att last Breathlesse (yett keepinge our houldes)<lb/>
+               there past on both sides  Proposic<ex>i</ex>ons of quittinge each<lb/>
+               others sworde, Butt when Amitye was dead, Con=<lb break="no"/>
+               ffidence could not lyve, and whoe should quitt ffirst,<lb/>
+               was the question, w<ex>hi</ex>ch on neyther parte, eyther<lb/>
+               would perffourme;  Restriveinge a ffresh, w<ex>i</ex>th a<lb/>
+               Kicke, and a Wrinche together, I ffreed my longe<lb/>
+               Captived Weapon, w<ex>hi</ex>ch incontinentlye Levyeinge<lb/>
+               att his throate, (beinge Mr: still of his) I demaunded<lb/>
+               yf hee would Aske his lyfe, or yeild his sworde,<lb/>
+               wch both (though in that emyment daunger) hee<lb/>
+               Bravelye denyed , to doe, My selfe beinge wounded<lb/>
+               and ffeelinge losse of Bloode (haveinge three Con=<lb break="no"/>
+               duites Runninge in mee) Begann to make mee fainte, <lb/>
+               and hee Couragiouslye persistinge not to Accorde<lb/>
+               to eyther of my proposic<ex>i</ex>ons, Remembraunce of his<lb/>
+               fformer Bloodye desire, and ffeelinge my prsent<lb/>
+               estate, I stroke att his harte, Butt w<ex>i</ex>th his avoydinge<lb/>
+               mist him agayne, yett past through the Bodye,<lb/>
+               and draweinge thorough my sworde, Repast it through<lb/>
+               agayne through another place, when he Cryed,<lb/>
+               Oh I am<ex>m</ex>e slayne, secondinge his speech, w<ex>i</ex>th all the<lb/>
+               fforce hee had to cast mee, Butt beinge to weake,<lb/>
+               after I had deffended his Assaulte, I easelye becam<ex>m</ex>e<lb/>
+               <fw type="catch" place="bot-right">Mr:</fw>
+               <pb n="52r"/>
+               Mr: of him, layeinge him on his Backe, when beinge <lb/>
+               over him, I redemaunded yf hee would Request<lb/>
+               his lyfe, Butt it seemed hee prized it not att soe<lb/>
+               deare a Rate, as to bee behouldinge ffor it, Bravely<lb/>
+               Replyeinge hee scorned it, w<ex>hi</ex>ch Aunsweare of his<lb/>
+               was soe noble, and worthie, as I protest, I could<lb/>
+               not ffinde in my harte to offerr him any more vyo=<lb break="no"/>
+               lence, onely keepinge him downe till att length his<lb/>
+               Chirurgeon a ffarr of Cryed out, hee would ymedi=<lb break="no"/>
+               atlye dye, yf his woundes were not stopped, where=<lb break="no"/>
+               uppon I asked, yf hee desired his Chirurgeon<lb/>
+               should com<ex>m</ex>e, w<ex>hi</ex>ch hee Accepted of, and soe beinge<lb/>
+               drawne a waye I never offerred to take his sworde ffrom<lb/>
+               him, Accomptinge it inhumaine to Robb a dead Man<lb/>
+               ffor soe I Counted him to bee)
+            </p>
+            <p>
+               Thus: theis ended, I Retyred to my Chirurgeon, in<lb/>
+               whose Armes, After I had Remayned a while, ffor wante<lb/>
+               of Bloode, I lost my sight, and w<ex>i</ex>th all, (as I then<lb/>
+               thought) my lyfe alsoe; Butt sytronge water, and his<lb/>
+               dilligence quicklye Recovered mee, when I escaped <lb/>
+               a greate daunger, ffor my Lordes Chirurgeon, when<lb/>
+               noe Bodye dreamte of it, Ranne ffull att mee, wth<lb/>
+               his Lordes sworde and had not myne w<ex>i</ex>th my sworde<lb/>
+               interposed himselfe, I had been slayne by those base<lb/>
+               handes, Although the Lord Bruce, welteringe in<lb/>
+               his owne Bloode, and past expectac<ex>i</ex>on of lyfe, Con=<lb/>
+               <fw type="catch" place="bot-right">fformable</fw>
+               <pb n="52v"/>
+               Confformable to his fformer Courage w<ex>hi</ex>ch was un=<lb break="no"/>
+               doubtedlye noble, Cryed out, Rascall hould thie<lb/>
+               handes:
+            </p>
+            <p>
+               Soe: maye I prosper, as I haue dealt sinceerelye<lb/>
+               wth yow in this Relac<ex>i</ex>on, w<ex>hi</ex>ch I praye yow, wth<lb/>
+               the inclosed L<ex>ett</ex>re, deliver to my Lord Chamb<ex>er</ex>leyne,<lb/>
+               And soe, <unclear>&amp;c<ex>es</ex>
+                </unclear>:<lb/>
+               Lovyane the viijth:  of<lb/>
+               September, <hi rend="underline">1613</hi>:
+            </p>
+            <p rend="align-right">
+               Yo<ex>u</ex>rs: <unclear>&amp;c<ex>es</ex>
+                </unclear>
+                <lb/>
+               Edward Sackvill:
+            </p>
+      </body>
+   </text>
+</TEI>

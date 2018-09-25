@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English Catholics' Letter to James I</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="HB">
+               <name>Howard Barlow</name>
+               <resp>BRIHC PhD Scholar</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS44848.xml">
+               <msIdentifier xml:id="BL_Add_MS_44848">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 44848</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 44848</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Sloane_MS_1775">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Sloane</collection>
+                <idno>MS 1775</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4761">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4761</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3791">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 3791</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_180">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 180</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_155">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 155</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS4761.xml">British Library, Harley MS 4761, ff. 10r–13r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLSloaneMS1775.xml">British Library, Sloane MS 1775, ff. 57r–58v</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <title>Scrinia Sacra</title>
+                  <date when="1654">1654</date>
+                  <idno type="Wing">S2110</idno>
+                  <biblScope unit="page" from="82" to="84">82-84</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1603">1603</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Catholicism</term>
+               <term>puritanism</term>
+               <term>confessional conflict</term>
+               <term>toleration</term>
+               <term>Church of England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-04-13" who="#RB" status="draft"/>
+            <change when="2018-03-26" who="#HB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="111v"/>
+         <head>
+            The Catholiques of Englands Letter to Kinge <lb/>
+            James at his first enterance into England <lb/>
+            for approbation and toleration of <lb/>
+            their religion
+         </head>
+         <p>
+            Most puissant prince and Orient Monarch <lb/>
+            Such are the rare p<ex>er</ex>fecc<ex>i</ex>ons and admirable <lb/>
+            guises of wisdome  prudence valor and  <lb/>
+            Justice wherewith the bountifull hands of <lb/>
+            Gods divine Ma<ex>jes</ex>tie hath endued yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            as in the depth of yo<ex>u</ex>r provident Judgement <lb/>
+            wee doubt not but you can foresee what <lb/>
+            Concerneth both the Temporall and Spirituall <lb/>
+            gouerment of all yo<ex>u</ex>r kingdomes and domynions <lb/>
+            notwithstanding yo<ex>u</ex>r ma<ex>jes</ex>t<ex>ie</ex>s most afflicted subjects <lb/>
+            and devoted servants the Catholiks of England <lb/>
+            partly to preuent sinister Informac<ex>i</ex>ons which <lb/>
+            happily may possesse yo<ex>u</ex>r sacred <unclear>daies</unclear> before <lb/>
+            our answer bee heard partly almost as men <lb/>
+            ouerwhelmed with persecuc<ex>i</ex>ons for our Consciences
+            <pb n="112r"/>
+            <add place="header">The Catholiks of England to – K. J: </add>
+            wee are enforced to haue speedy recourse <lb/>
+            and hope of present redresse from your highnes <lb/>
+            and to present those humble lynes unto your <lb/>
+            royall person; to plead for vs some Commiserac<ex>i</ex>on <lb/>
+            and favour. /.  alas what allegiance or dutye <lb/>
+            can any temporall prince desire or expect at <lb/>
+            his vassalls hands which wee are not adressed <lb/>
+            to p<ex>er</ex>forme  how many noblemen and worthy gent. <lb/>
+            most zealous in the Catholike religion haue <lb/>
+            endured some losse of lands and <sic>livenigs</sic> some <lb/>
+            exile, others Imprisonm<ex>en</ex>t some the effusion of blood <lb/>
+            and life for the adwancem<ex>en</ex>t of yo<ex>u</ex>r blessed mothers <lb/>
+            right unto the scepter of Albion nay whose <lb/>
+            finger did euer ake but Catholiks for yo<ex>u</ex>r ma<ex>jes</ex>t<ex>ie</ex>s <lb/>
+            present title and dominions . how many fledd <lb/>
+            to yo<ex>u</ex>r Co<ex>u</ex>rt as offering themselues as hostages <lb/>
+            for yo<ex>u</ex>r frends to liue and dye in yo<ex>u</ex>r <unclear>gratious</unclear> quarrel <lb/>
+            if euer aduersary had oposed himself against  <lb/>
+            the equity of yo<ex>u</ex>r Cause if this they attempted <lb/>
+            with their princes disgrace to obtayne yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>ie</ex>s <lb/>
+            grace what will they doe nay what will they <lb/>
+            not doe to liue without disgrace in yo<ex>u</ex>r graces <lb/>
+            favor the mayne of this realme if wee respect <lb/>
+            religion (setting petty sects aside) consisteth <lb/>
+            uppon fower parts , Protestants who haue <lb/>
+            <unclear>Domynedred</unclear> ouer all the former Queens dayes <lb/>
+            Puritanes who haue crept upp apace amongst them <lb/>
+            Atheists and pollitians who were bredd uppon <lb/>
+            their broyles and <unclear>Conteasion</unclear> in matters of <lb/>
+            Faith and Catholiks who as they are <unclear>opposite</unclear> <lb/>
+            to alle, soe are they detested of all because <lb/>
+            error was euer an enemy to truthe  hardly <lb/>
+            all or any two of the first three can bee <lb/>
+            suppressed, theirfore wee beseech yo<ex>u</ex>r ma<ex>jes</ex>tie <lb/>
+            to yeeld us as much favor as others of Contrary <lb/>
+            Religion  (to that which shall bee publikely
+            <pb n="112v"/>
+            <add place="header">The Catholiks to King James</add>
+            professed in England) shall obtayne at yo<ex>u</ex>r <lb/>
+            hands for if our fault bee Ake lesse or none <lb/>
+            at all in equity our punishment ought to <lb/>
+            bee Ake lesse or none at all; the gates <lb/>
+            Arches and <unclear>Pyramides</unclear> of France p<ex>ro</ex>clamed <lb/>
+            their present king <hi rend="italic">pater patriae et pacis restitutor</hi> <lb/>
+            (that is the father of his Countrey and restorer <lb/>
+            of his peace) because that Kingdome beeing <lb/>
+            well neere torne in peeces with Ciuill warres <lb/>
+            and made a prey to forraigne Foes was <lb/>
+            by his provident <del rend="strikethrough">wis</del> wisdom and valour <lb/>
+            acquitted in it selfe and hostile strangers <lb/>
+            expelled and the which hee principally effected <lb/>
+            <unclear>th<ex>a</ex>t</unclear> by condiscending to tollerate them of an <lb/>
+            adverse religion to that which was openly p<ex>ro</ex>fessed <lb/>
+            <unclear>(questiuneles)</unclear> dread soveraigne the kingdome <lb/>
+            of England through the cruell persecutions of <lb/>
+            Catholiks hath been almost odious to all Christian <lb/>
+            nations trade and traffique is exceedingly <lb/>
+            decayed  warrs and blood hath seldome ceased <lb/>
+            Subsedyes and Taxes neuer so many  discontented <lb/>
+            <unclear>myndds</unclear> Innumerable all which yo<ex>u</ex>r princely <lb/>
+            Ma<ex>jes</ex>t<ex>ie</ex>s Conveyance to yo<ex>u</ex>r humble suppliants the <lb/>
+            afflicted Catholiks will easely addresse at this <lb/>
+            <add place="LM">1 Kings <lb/>12. 17.</add>
+            yo<ex>u</ex>r highness first ingresse, <hi rend="italic">Si loqueris ad nos <lb/>
+            verba levia erunt tibi servi cunctis Diebus</hi> (that <lb/>
+            is you speake comfortable words unto them <lb/>
+            or if you hearken unto them in this thinge <lb/>
+            they will be servants unto you all their dayes) <lb/>
+            saith the sage Councellors of Salomon to <lb/>
+            Ruaboam for <unclear>in largem<ex>en</ex>t</unclear> after affliction <lb/>
+            resembleth a pleasant gale after a vehement <lb/>
+            tempest and a benefit? in distress doublet <lb/>
+            the value there of how gratefull will it bee <lb/>
+            <pb n="113r"/>
+            <add place="header">The Catholiks of England to K. J.</add> <lb/>
+            to all princes abroad and <unclear>hu<ex>nora</ex>ble</unclear> to yo<ex>u</ex>r Ma<ex>jes</ex>t<ex>i</ex>e <lb/>
+            to understand how Queene Elizabeths severity <lb/>
+            is changed into yo<ex>u</ex>r royall Clemency and <lb/>
+            that the lenyty of a man reedified with the <lb/>
+            <unclear>()sin</unclear> formed anger of a woman destroyed <lb/>
+            <unclear>that</unclear> the lyon Rampant is passant whereas the <lb/>
+            passant had been Rampant how acceptable <lb/>
+            shall yo<ex>u</ex>r subjects bee to all Catholike Countryes <lb/>
+            who are now almost abhorred of all when <lb/>
+            they shall <unclear>perre</unclear>and yo<ex>u</ex>r highnes <unclear>repayreth</unclear> <lb/>
+            not pikes or <unclear>p<ex>ro</ex>vis<ex>i</ex>ons</unclear> for the p<ex>ro</ex>fessors of their <lb/>
+            faith but permitteth them Temples and altars <lb/>
+            for the use of their religion then shall wee see <lb/>
+            with our eyes and touch with our Fingers that <lb/>
+            happy benedicc<ex>i</ex>on of Esah: 14.7. In this land <lb/>
+            that swords are turned into mattocks and <add place="above">or</add> <lb/>
+            plowes and Lances into scythes. and all <lb/>
+            nations admiring us will say hi sunt semen cui <lb/>
+            benedixit dominus. (that is these are the seed <lb/>
+            which the lord hath blessed) wee request noe <lb/>
+            more favor at yo<ex>u</ex>r graces hands then that wee <lb/>
+            may securely beleeue and p<ex>ro</ex>fesse that Catholike  <lb/>
+            religion which yo<ex>u</ex>r happy predecessors p<ex>ro</ex>fessed <lb/>
+            from Donaldus the first, the first Converted <lb/>
+            unto yo<ex>u</ex>r late blessed mother Martyred A <lb/>
+            religion venerable for antiquity. maiesticall <lb/>
+            for Amplitude, constant for Continuance <lb/>
+            irreprehensible for doctrine indureing to all <lb/>
+            kinds of virtue and piety diswading from <lb/>
+            all sin and wickednes, a religion belooued by <lb/>
+            all primitive pastors  established by all <lb/>
+            Eccumenicall councells v upholden by antient <lb/>
+            Doctors maintained by the first and best <lb/>
+            Christian Emperors, recorded almost alone <lb/>
+            in all eccle<ex>siasti</ex>call historyes sealed in the blood
+            <pb n="113v"/>
+            <add place="header">The catholiques</add> <lb/>
+            of millions of martyrs adorned with the virtues <lb/>
+            of soe many confessors beautified with the <lb/>
+            purity of thousand of virgins So conformable  <lb/>
+            unto natural sence and reason and finaly <lb/>
+            soe agreeable with the sacred text of gods <lb/>
+            word and the gospell, the free vse of this <lb/>
+            religion wee request if not in publike churches <lb/>
+            yet at the least in priuate houses if not with <lb/>
+            aprobac<ex>i</ex>on yet with tollerac<ex>i</ex>on without molestac<ex>i</ex>on <lb/>
+            assureing yo<ex>u</ex>r grace that howsoeuer some <lb/>
+            p<ex>ro</ex>testants and puritants incited by morall honesty <lb/>
+            of life or innated instinct of nature or for <lb/>
+            feare of some trmporall punishm<ex>en</ex>t pretend <lb/>
+            obedience unto yo<ex>u</ex>r highnes lawes yet certainely <lb/>
+            the onely Catholiks for Conscience sake obserue <lb/>
+            them for they defending that princes <unclear>precepts</unclear> <lb/>
+            and <unclear>stattuts</unclear> oblige noe subjects under the <lb/>
+            penalty of sinn will haue little care in <unclear>Conscienc</unclear> <lb/>
+            to transgress them which principally are <lb/>
+            tormented with the guilte of sin but Catholiks <lb/>
+            Confessing merritt in obeying <del rend="strikethrough">and</del> <add place="above">in</add> merritt <lb/>
+            in transgressing canot but in soule bee greevously<hi rend="bold"> <lb/>
+            </hi>tortured for the least prevarication thereof <lb/>
+            wherefore most mercifull soveraigne wee yo<ex>u</ex>r <lb/>
+            longe afflicted subjects prostrate ou<del rend="strikethrough">t</del>r selues and <lb/>
+            p<ex>ro</ex>test before the ma<ex>jes</ex>tie of god and all his holey <lb/>
+            Angells as loyall obedience and Imaculate <del rend="strikethrough">obedience <lb/>
+            </del>allegiance unto yo<ex>u</ex>r grace as euer did faithfull <lb/>
+            subjects in England or Scotland unto yo<ex>u</ex>r highnes <lb/>
+            p<ex>ro</ex>genitors and intend as sincerely with our goods <lb/>
+            and liues to serue you as euer did the <lb/>
+            loyallest Isaralites king David or the truest <lb/>
+            legions the Romane Emperors and thus expecting <lb/>
+            yo<ex>u</ex>r ma<ex>jes</ex>t<ex>ie</ex>s Customary favor and gratious bounty <lb/>
+            wee rest yo<ex>u</ex>r devoted suppliants to him
+            <pb n="114r"/>
+            whose hands doe manage the harts of kings <lb/>
+            and with reciprocate mercy will acquit <lb/>
+            the mercifull yo<ex>u</ex>r sacred ma<ex>jes</ex>t<ex>ie</ex>s most devoted <lb/>
+            servants the
+         </p>
+         <p rend="align-right">
+            Catholiques of England
+         </p>
+      </body>
+   </text>
+</TEI>

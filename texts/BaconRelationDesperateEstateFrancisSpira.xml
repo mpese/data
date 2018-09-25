@@ -1,0 +1,1306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the Desperate Estate of Francis Spira</title>
+            <author>
+               <persName corresp="../people/people.xml#P0131">Nathaniel Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="EB">
+               <name>Elaine Brown</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22591</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Eng_hist_d_92.xml">Bodleian Library,  MS Eng. hist. d. 92, ff. 38r–59v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_248.xml">Folger Shakespeare Library,  MS V.a.248, ff. 11r–30r</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1635">1635 or earlier</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>treatise</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-19" who="#RB" status="draft"/>
+            <change when="2018-09-19" who="#EB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="280r" facs="/bl/add_ms_22591/add_ms_22591_f280r/add_ms_22591_f280r.jpg"/>
+         <head rend="align-centre">
+            A <lb/>
+            Relacion of <ex>th</ex>e desperate Estate <lb/>
+            of <lb/>
+            Frauncis Spira in <ex>th</ex>e yeere <lb/>
+            1548
+         </head>
+         <p rend="align-centre">
+            The <lb/>
+            Backslider in hart Shalbe filled with his <lb/>
+            owne wayes pro: 14: 14:
+         </p>
+         <p>
+            <add place="RM">
+               <figure>
+                  <figDesc>flower motif</figDesc>
+               </figure>
+               A Preface of <lb/>
+               Natha: Bacon
+            </add>
+            For the Truthe of this ensuinge Relac<ex>i</ex>on / besyde the Circu<ex>m</ex>sta<ex>n</ex>ce <lb/>
+            of Place / Person / Tyme and occasion soe exactlye observed / I reser <lb/>
+            my selfe to the Relac<ex>i</ex>on of those Godlie men / whoe in severall lan= <lb break="no"/>
+            guages haue manifested to the World the severall passages there <lb/>
+            of / And allthoughe I am not ignorant / that at the First they were <lb/>
+            not onlye Credited / but discredited and slaundered by such as <lb/>
+            found them to be A Blurr to the Romane Profession / yet lost they not <lb/>
+            their Lustre thereby / But being acquitted by Compurgato<ex>r</ex>s of Seu<ex>er</ex>al <lb/>
+            Nations / and some of the Romane Religion / being all of the<ex>m</ex> expectato<ex>r</ex>s <lb/>
+            of this Tragedy It occasiones not only A Further <del rend="strikethrough">set</del> manifestac<ex>i</ex>on <lb/>
+            and Confirmac<ex>i</ex>on of the Truthe / But allsoe A more large &amp; frequent <lb/>
+            Confluence / to see that w<ex>hi</ex>ch Formerlye they had onlye heard of This <lb/>
+            maye p<ex>ar</ex>tlye appeare out of the succeeding Storye / but more fullye <lb/>
+            out of all appologie written by Vergerius B<ex>isho</ex>pp of Constantinople <lb/>
+            whoe was abused for spreading the Fame of this Example / to the <lb/>
+            Staine of Poperie / in w<ex>hi</ex>ch Appologie N: Rotta Suffragaine of <lb/>
+            Padua is shortlye and plainelye declared what was done and <lb/>
+            whoe were present
+         </p>
+         <p>
+            It is to be demaunded what moved mee to Compile this <lb/>
+            Treatise Spira telleth him / that it should move Feare &amp; Peu<ex>n</ex>ence <lb/>
+            And indeed amongst all those that came to see him / fewe or none <lb/>
+            returned vnshaken
+         </p>
+         <p>
+            Virgerius in his First Epistle saithe I would faine goe to him <lb/>
+            againe / but I feare and Tremble exceedinglye. And in this Apologie <lb/>
+            it is such a Rare Example / as I would willinglie goe to <ex>th</ex>e farthest <lb/>
+            parte of the Earthe to heare or see the like
+         </p>
+         <p>
+            The Ladye Jane (in her Christian Letter to her Fathers Chap <lb/>
+            laine that had fallen into Spara’s snare) Sayth / remember <ex>th</ex>e lame<ex>n</ex>table <lb/>
+            Estate of Spira / I doe acknowledge that there hath beene form<ex>e</ex>lye <lb/>
+            A Booke published in our Mothers tounge / Conc<ex>er</ex>ning the Subiecte/ <lb/>
+            But as farre as I can learne (for I could never yett obteine to <lb/>
+            anye of them) It was nothinge soe large and various as the <ex>pre</ex>sent <lb/>
+            Treatise / and I haue heard onlye A translac<ex>i</ex>on of one of the <lb/>
+            <fw type="catch" place="bot-right">Tractates</fw>
+            <pb n="280v" facs="/bl/add_ms_22591/add_ms_22591_f280v/add_ms_22591_f280v.jpg"/>
+            Tractates fro<ex>m</ex> where I haue gathered this p<ex>resen</ex>te discourse in p<ex>ar</ex>te
+         </p>
+         <p>
+            Concerning my Care and Fidelitie in this busines / It is such as <lb/>
+            I maye trulye saye w<ex>i</ex>thout change of Collo<ex>r</ex> / That there is not one <lb/>
+            sentence in all this worke attributed to the Pardon of Spira But it <lb/>
+            hath his warrant / either fro<ex>m</ex> the Epistles of Vergerius &amp; Gribaldus <lb/>
+            Professors and doctors in the Lawes of Padua / or fro<ex>m</ex> the discourses <lb/>
+            of Henry Stringer A Scottishman Segismona Gelous A Transil= <lb break="no"/>
+            vanian / and Martine Borha A devine of Basilli /
+         </p>
+         <p>
+            Neither haue I taken anye other Libertie than As a Relator / to <lb/>
+            weaue the aboue saide discourses one w<ex>i</ex>th another / Soe as those which <lb/>
+            vnder severall writters / were before cou<ex>n</ex>ted severall / are nowe by <lb/>
+            mine Endeavo<ex>r</ex>s made into one entire Historye / Connexed by due <lb/>
+            succession of tyme / and occasion as punctuallie as could bee aymed <lb/>
+            at by the Circu<ex>m</ex>stances noted in the writing of those holye &amp; learned <lb/>
+            men before named / Now to the narrac<ex>i</ex>on itselfe /
+         </p>
+         <p>
+            finis of the preface
+         </p>
+         <p>
+            <add place="LM">Entrance to the <lb/>
+            matter</add>
+         </p>
+         <p>
+            In the yeere 1548: when the glorious Sonne of the Gospell was <lb/>
+            but newlye risen in Europe in the dayes of the raigne of k: Edward <lb/>
+            the 6: of that name kinge of England / and in the Territorie and vnder <lb/>
+            the Iurisdict<ex>i</ex>on of the Cittie of Venice / on the border of Italie / in the <lb/>
+            Towne of Citadelle lived one Frau<ex>n</ex>cis Spyra / an Advocate of great <lb/>
+            ranke and esteeme / being of knowne learning and elequence of greate <lb/>
+            experience of Carriage Circu<ex>m</ex>specte / and severe / his Speeche grave <lb/>
+            and composed / his Cou<ex>n</ex>ten<ex>a</ex>nce sharpe and austere / every way befitting <lb/>
+            that authoritie / wherevnto he was endowed w<ex>i</ex>th outward blessinge <lb/>
+            of wiffe and Children / and wealth in abundance / what his worst p<ex>ar</ex>ts <lb/>
+            were I haue none other warrant / than his owne wordes w<ex>i</ex>ch if not <lb/>
+            tainted overmuch with the Bitternesse of A desperate mynde / and <lb/>
+            bearing the Cou<ex>n</ex>tenance rather of passion than of Sober <del rend="strikethrough">Cou<ex>n</ex>tenaunce</del> Co<ex>n</ex>= <lb break="no"/>
+            fession / maye seeme to add a period to all futher Comendac<ex>i</ex>ons / It was <lb/>
+            (saithe hee) excessivelye Covetuous of monyes / and accordinglye I applyed <lb/>
+            my selfe to gett it / by iniustice / Corrupting Iustice by deceipt / in being <lb/>
+            tricked to delude Iustice / Good causes I haue either defended deceipt= <lb break="no"/>
+            fullye / or sould them to the Adversarye p<ex>er</ex>fidiouslye / All Causes I <lb/>
+            defended w<ex>i</ex>th all my might / I willinglye opposed the ope<ex>n</ex> truthe <lb/>
+            and the trust comitted to mee / I either betrayed / or p<ex>er</ex>verted
+         </p>
+         <p>
+            Thus having worne out 44: yeeres or there abouts / the noyse of <lb/>
+            the newe / or rather newlye opynions revived by Luther / coming into <lb/>
+            those parts / rep<ex>re</ex>sented an obiect of Noveltie vnto him who beinge <lb/>
+            as desirous to knowe / as he was famous for knowledge suffered not <lb/>
+            theis wandring opinions to passe vnexamined / but searching into the <lb/>
+            Scriptures / and into all Bookes of Controversie that he could gett <lb/>
+            both old / and newe / and finding more than Fame and opinion he began <lb/>
+            to cast that nature soe well / as he entertayneth / loveth them / &amp; onely <lb/>
+            them at length / and w<ex>i</ex>th such zeale / as he became A p<ex>ro</ex>fesso<ex>r</ex> &amp; teacher <lb/>
+            of them / First to his wiffe / Children / and Familye / and after to his <lb/>
+            Frends / familiar acquaintance / and in Comparison seemed too <lb/>
+            neglect all other Affaires / intending ever to presse <ex>th</ex>e mayne pointe <lb/>
+            <fw type="catch" place="bot-right">that</fw>
+            <pb n="281r" facs="/bl/add_ms_22591/add_ms_22591_f281r/add_ms_22591_f281r.jpg"/>
+            that wee must whollye and onlye depend on the Free &amp; vncha<ex>n</ex>gable <lb/>
+            love of God /in the death of Christ / as the onlye sure waye to salvatio<ex>n</ex> <lb/>
+            and this Continued for the Space of 6: yeeres / or there abouts/ even soe <lb/>
+            longe as the Fire could keepe it selfe in p<ex>ri</ex>vate Walles / But at <ex>th</ex>e <lb/>
+            length it brake Fourthe into publique meetings / soe as the whole <lb/>
+            <del rend="strikethrough">Cler </del>Province of Padua damned by the lustre therof the Clergie <lb/>
+            finding the trade of their Pardons to decaye / and their Purgatorye to <lb/>
+            waxe cold / began to bestirre themselves / glosing their acc<ex>i</ex>ons first <lb/>
+            with Calumnious aspersions vpo<ex>n</ex> the whole p<ex>ro</ex>fession / then more plainly <lb/>
+            stricking at Spira / with greivous accusac<ex>i</ex>ons / and to effect their p<ex>ur</ex>pose <lb/>
+            some p<ex>ro</ex>mise labo<ex>r</ex> / others Favo<ex>r</ex> / some Advice / and others mayntenau<ex>n</ex>ce <lb/>
+            all ioyne to devide either <ex>th</ex>e Soules fro<ex>m</ex> the Bodye / or both from God/
+         </p>
+         <p>
+            Nowe was John Casa the Popes Legate nowe resident at Venice <lb/>
+            being by Birthe A Florentine / and one that never wanted mallice <lb/>
+            against those of this waye / nor craftines to effect his malicious p<ex>ur</ex> <lb/>
+            poses / to him theis men repayre w<ex>i</ex>th outc<ex>r</ex>yes against Spira / that he <lb/>
+            was the man <ex>tha</ex>t Condemned the receaved rights of the Church / deluded <lb/>
+            the Ecclesiasticall Power / and scandalized the pollicie thereof / one of <lb/>
+            noe meane rancke being A man of accompt / and authoritie / etc thereto <lb/>
+            learned in the Scriptures / elegant in Speeche / and in A word a daun= <lb break="no"/>
+            gerous Lutheran having allsoe manye disciples / etc ergo not to be disputed
+         </p>
+         <p>
+            Nowe began the Legate to rest his Eye vpon the terrible alcer<ex>t</ex>ac<ex>i</ex>on <lb/>
+            that latelye had happened in Germanie / where by the meanes of one <lb/>
+            onlye Luther / the Romaine Religio<ex>n</ex> had suffered such A Blowe / as <ex>tha</ex>t <lb/>
+            it could neither be cured by dissimilac<ex>i</ex>on / nor defended by Power / <lb/>
+            but the Clergie must either mend their Mannors / or loose their dignitie /
+         </p>
+         <p>
+            On the other Syde / when he sawe how p<ex>ro</ex>pense the Como<ex>n</ex>wealth inha= <lb break="no"/>
+            bitinge in the bordering Countryes / where to entertaine <ex>th</ex>e new opynio<ex>n</ex> <lb/>
+            hee nowe thought it noe time to dispute or p<ex>er</ex>suade / but w<ex>i</ex>th speed retour<ex>n</ex>s <lb/>
+            to the Senate / and p<ex>e</ex>ruseth authoritie from them to send for Spira /
+         </p>
+         <p>
+            Spira by this tyme / had considered w<ex>i</ex>th himselfe <ex>th</ex>e nature of <lb/>
+            his Carriage / houe evident and notorious it was / and soe subiect to <lb/>
+            be envied by such as neither loved his p<ex>er</ex>son nor Religion / he well proved <lb/>
+            that his opynions were not retyred / nor speculatuie / but suche as <lb/>
+            aymed at the overthrowe of the Romish Hyecarchie and at chang<ex>e</ex> <lb/>
+            of Pollicye / wherein at the best he could expect but A bloody victory <lb/>
+            and that his Enemies wanted neither Power / nor occasion to call <lb/>
+            him to accompt in publique / when he must either Apostalize and <lb/>
+            shamefully give his former liffe / yea his owne Conscience the lye <lb/>
+            or endure the vtmost mallice of his deadlye Enemies / or forsake his <lb/>
+            wiffe / Children / Freinds / Goods / Authoritie / and his deere Cou<ex>n</ex>trye <lb/>
+            and betake himselfe to A Forraine People / there to endure a thousa<ex>n</ex>d <lb/>
+            miseryes <ex>tha</ex>t doe continuallye wayte vpon A Voluntarye Exile /
+         </p>
+         <p>
+            Being thus tossed and distracted in the restlesse waves of <lb/>
+            doubt / w<ex>i</ex>thout guide to trust to or haven to flye to for Succo<ex>r</ex> / on a <lb/>
+            Suddane / the Spirritt assisting hee felt A Calme and began to discou<ex>r</ex>se <lb/>
+            w<ex>i</ex>th himselfe in this manner / whye standest thou in uncertaineties <lb/>
+            thou vnhappie man / cast awaye feares / put on thy Sheild / <ex>th</ex>e Sheild <lb/>
+            of Faithe / where is thy wanted Courage / thy Goodness / thy Co<ex>n</ex>sta<ex>n</ex>cye <lb/>
+            remember <ex>tha</ex>t Christes glorye lies at the stake / suffer thou w<ex>i</ex>thout <lb/>
+            feare / and he will defend thee / he will call thee what thou shalt a<ex>n</ex>swer <lb/>
+            he can beate downe all daunger / bringe thee out of Prison / rayse <lb/>
+            thee fro<ex>m</ex> the dead / Consider Peter in Prison / the martyrs in the <lb/>
+         </p>
+         <fw type="catch" place="bot-right">Fire</fw>
+         <pb n="281v" facs="/bl/add_ms_22591/add_ms_22591_f281v/add_ms_22591_f281v.jpg"/>
+         <p>
+            First / If thou makest a good Confession / thou mayst indeed goe to p<ex>ri</ex>son / <lb/>
+            or deathe / but an eternall reward remaines in heaven for thee / what <lb/>
+            lost thou in the world Comparable to eternall life / to ever(la)sting hap= <lb break="no"/>
+            pines / If thou dost otherwise thinke of the Scandall /Como<ex>n</ex> people liue by <lb/>
+            example / thinking whatsoever is done / is well done/ Feare / <ex>th</ex>e losse of <lb/>
+            Peace / and Ioye / Feare Hell / deathe / and Eternall wrathe / or if <ex>th</ex>e flesh <lb/>
+            be soe stronge / to cause thee to doubt / of <ex>th</ex>e issue / Flye thy Cou<ex>n</ex>trye / gett <lb/>
+            thee awaye thoughe never soe farr rathe<ex>r</ex> than denye <ex>th</ex>e Lorde of Liffe /
+         </p>
+         <p>
+            Now was Spira in Reasonable quiett / being in p<ex>ar</ex>te resolved to yeald <lb/>
+            to those weightie Reaons / yet holdeth it wisdome to examine all thinges /
+         </p>
+         <p>
+            Hee consults allsoe with Flesh and bloud / thus doth the battaile <lb/>
+            renue / and the Flesh beginns in this manner /
+         </p>
+         <p>
+            Bee well advised fond man / Consider the Reasons on both sydes / &amp; <lb/>
+            then Iudge / how thou canst thus overweene thine owne Sufficiencye as <lb/>
+            thou neither regardest the example of thy Progenito<ex>r</ex>s / nor <ex>th</ex>e iudgm<ex>en</ex>t of <lb/>
+            the whole Churche / were thy Fathers inferio<ex>r</ex> to thee / or seest thou more <lb/>
+            than all the world / beside thee / wilt thou redemne thos Soules nowe in eternall <lb/>
+            Rest / and bring them downe to hell / whoe haue ever bene Saints in their <lb/>
+            generac<ex>i</ex>ons / dost thou not consider what miserye this thy rashnes will <lb/>
+            bringe thee too / thou shalt loose all thy substance gotten w<ex>i</ex>th soe much <lb/>
+            care / and travaile / thou shalt vndergoe the most exquisite Torm<ex>en</ex>ts / that <lb/>
+            mallice itself can devise / thou shalt be cou<ex>n</ex>ted an Heretique of all / <lb/>
+            and to close vpp all / thou shalt dye shamefullye / what thinkest thou of <lb/>
+            the loathsome stinking dungeon / the Bloodye Axe / the burning fago<ex>t</ex> <lb/>
+            are they delightfull / Be wise <del rend="strikethrough">thy</del> at length / and keepe thy liffe &amp; hono<ex>r</ex> <lb/>
+            thou mayst live to doe much good / to good men / as God Comau<ex>n</ex>ds thee <lb/>
+            thou mayst bee an <del rend="strikethrough">orate</del> ornament to thy Countrye / <unclear>put Case</unclear> <lb/>
+            thy Country lesse would be of small esteeme with thee wilt <ex>tho</ex>u bringe <lb/>
+            thy Freindes allsoe into daunger / w<ex>i</ex>th thee thou hast begotte<ex>n</ex> childre<ex>n</ex> wilt <lb/>
+            thou cutt their Throats now / &amp; inhumainely butche<ex>r</ex> the<ex>m</ex> w<ex>hi</ex>ch may in tyme bring hono<ex>r</ex> to <lb/>
+            their Cou<ex>n</ex>trye / Glorye to God / hope &amp; furtherau<ex>n</ex>ce to his Church / Goe to <lb/>
+            the Legate weake man freelye / co<ex>n</ex>fesse thy Fault / &amp; help all <ex>th</ex>y miseryes
+         </p>
+         <p>
+            Thus did the Cares of the world / &amp; <ex>th</ex>e deceitfullnes of riches choake <lb/>
+            the good seed <ex>tha</ex>t was foundlye sowen / soe as fearing he faints &amp; yeilds vnto <lb/>
+            the allurementsn of this present worlde / &amp; being thus blinded he goes to the <lb/>
+            legate at Venice / and saluteth him with this newes /
+         </p>
+         <p>
+            Having for these divers yeeres entertained an opinion concerninge <lb/>
+            some Articles of Faithe / Contrarye to the Ordodoxe / and receaved <lb/>
+            iudgem<ex>en</ex>t of the Church / And altered manye thinges / against the <lb/>
+            authoritie of the Church of Rome / and the vniu<ex>er</ex>sall Bishopp I hu<ex>m</ex>blye <lb/>
+            acknowledge my faulte / and erro<ex>r</ex> / and my Follye / in misleadinge othe<ex>r</ex>s <lb/>
+            I therefore humblie yeild myselfe in all obedience to <ex>th</ex>e Supreame <lb/>
+            Bishopp into the Bosome of <ex>th</ex>e Churche of Roome / never to dep<ex>ar</ex>t againe <lb/>
+            fro<ex>m</ex> the traditions / and decrees of the holye Sea / I am hartelye sorry <lb/>
+            for what is past / &amp; I hu<ex>m</ex>blye begg p<ex>ar</ex>do<ex>n</ex> for soe greate an offence/
+         </p>
+         <p>
+            The Legate p<ex>er</ex>ceaving Spira to faint / he pursueche him to <lb/>
+            the vttermost / hee causeth A resitac<ex>i</ex>on of all his Erro<ex>r</ex>s to be drawne <lb/>
+            in writing / together w<ex>i</ex>th the Confession annexed to it / &amp; Comaunds <lb/>
+            Spira to suscribe his name / w<ex>hi</ex>ch accordinglye hee did
+         </p>
+         <p>
+            Then the Legate comaunds him to returne to his owne Towne / and <lb/>
+            there to declare this Confession of his / &amp; to acknowledg <ex>th</ex>e whol doctrine of <lb/>
+            the Church of Rome / to be holye and true / &amp; to abiure the opinions of <lb/>
+            Luther / and other such teachers as false &amp; hereticall /
+         </p>
+         <fw type="catch" place="bot-right">(Man</fw>
+         <pb n="282r" facs="/bl/add_ms_22591/add_ms_22591_f282r/add_ms_22591_f282r.jpg"/>
+         <p>
+            (Man knoweth the beginning of Sinne but he knoweth not the <lb/>
+            yssues there of) Spira hauing once lost footinge / goes downe <lb/>
+            amayne / he cannot staye nor gainesaye the Legate / but p<ex>ro</ex>miseth <lb/>
+            to accomplish his whole will / and pleasure / hee soone addresseth him <lb/>
+            selfe to his Iourney / and being outward on the waye / he thinkes w<ex>i</ex>th him <lb/>
+            selfe what large Spoyles he had brought awaye fro<ex>m</ex> his co<ex>n</ex>flict w<ex>i</ex>th <lb/>
+            the Legate / what A glorious Testimonye hee had given of his gr<ex>ea</ex>t <lb/>
+            Faithe / and constancie / in Christs Cause / and to bee plaine how im= <lb break="no"/>
+            pioslye hee had denyed Christ and his Gospall at Venice / &amp; what <lb/>
+            he p<ex>ro</ex>mised further to doe in his owne Countrye
+         </p>
+         <p>
+            And thus partlye w<ex>i</ex>th Feare / and p<ex>ar</ex>tlye w<ex>i</ex>th shame / being co<ex>n</ex>fou<ex>n</ex>ded <lb/>
+            he thought he heard A Voyce speaking to him in this mauner Spira <lb/>
+            what dost thou heere / whether goest thou vnhappie man / give thy <lb/>
+            hand writting to the Legate at Venice / yett see thou dost not seale it <lb/>
+            in thine owne Cou<ex>n</ex>trye / doest thou indeed thinke eternall life to meane <lb/>
+            as that thou p<ex>re</ex>ferrest this p<ex>resen</ex>te to life before it / dost thou well in pre= <lb break="no"/>
+            ferring Wiffe / and Children / before Christ / is the undye applause <lb/>
+            of the people / better indeed than the glorye of God/ and the possessio<ex>n</ex> <lb/>
+            of this worlds good / dearer to thee / than the Salvation of thine owne <lb/>
+            Soule / is the small vse of A moment of tyme / more desirable than <lb/>
+            eternall wrathe is dreadfull / thinke w<ex>i</ex>th thy selfe what Christ <lb/>
+            endureth for thy sake / is it not equall that thou shouldest suffer for him <lb/>
+            comparable w<ex>i</ex>th the glorye <ex>tha</ex>t shall be revealed / All thou suffer with <lb/>
+            him / thou hast allreadye done / neverthelesse <ex>th</ex>e gate of mercie <lb/>
+            is not quite yett shutt /take heed that thou leapest not since to sinne <lb/>
+            least thou repent when it will be to late /
+         </p>
+         <p>
+            Nowe was Spira in a wildernesse of doubt not knowinge <lb/>
+            w<ex>hi</ex>ch waye to turne himselfe / or what to doe / yett being arrived in <lb/>
+            his owne Cou<ex>n</ex>trye / and amongst his friends / w<ex>i</ex>th shame enoughe hee <lb/>
+            related what he had done / and what he had p<ex>ro</ex>mised to doe futher <lb/>
+            and how the Terro<ex>r</ex>s of God / on the onsyde / and the Terro<ex>r</ex>s of <ex>th</ex>e world <lb/>
+            on the other syde / did continuallye wracke him / and therefore hee <lb/>
+            desired of them advise in this soe doubtfull A Case / his Freindes <lb/>
+            vpo<ex>n</ex> small deliberac<ex>i</ex>on / au<ex>n</ex>swered / that it was requisite <ex>tha</ex>t he should <lb/>
+            take heed that he did not in anye wise betraye his wiffe / his childre<ex>n</ex> <lb/>
+            and all his Freindes into daunger / seeing that by soe small A matter <lb/>
+            as the recitinge of A Schedule / w<ex>hi</ex>ch might be done in lesse space <lb/>
+            than halfe an howre / he might both free himselfe fro<ex>m</ex> p<ex>rese</ex>nte dau<ex>n</ex>ger <lb/>
+            and p<ex>re</ex>serue manye that attended vpon him / adding moreove<ex>r</ex> that <lb/>
+            he could gett noe Creditt in relenting fro<ex>m</ex> that w<ex>hi</ex>ch allreadye in <lb/>
+            greatest p<ex>ar</ex>te he had p<ex>er</ex>formed before the Legate at Venice / &amp; that <lb/>
+            in the p<ex>er</ex>fect accomplishm<ex>en</ex>t thereof little or noe discreeditt could <lb/>
+            could arise / more than what by the former accon<ex>t</ex> he had allready <lb/>
+            sustemed/ on the other syde if he did not p<ex>er</ex>forme his p<ex>ro</ex>mise made <lb/>
+            to the Legate / he could neither discharge himselfe of the ahame / w<ex>hi</ex>ch <lb/>
+            he had allready incurred / nor avoyd farre more heavie &amp; insup= <lb break="no"/>
+            portable miseryes / than p<ex>ro</ex>bablie he should haue endured / if her p<ex>er</ex>= <lb break="no"/>
+            sisted obstinatelye in his former opinions/
+         </p>
+         <p>
+            This was the last blowe of the Battaile / and Spira vtterlye ou<ex>er</ex>= <lb break="no"/>
+            come / goes to the Pretor / and <del rend="strikethrough">pwi </del>prefers to performe his p<ex>ro</ex>mise <lb/>
+            made to the Legate / whoe in the meane thyme had taken order to haue <lb/>
+            all thinges readie / nad had sent the Instrum<ex>en</ex>t of abiurac<ex>i</ex>on to so figured <lb/>
+            by Spira / to the Pretor / by the hand of Certaine Preist / At <ex>th</ex>e tyme <lb/>
+            <fw type="catch" place="bot-right">the</fw>
+            <pb n="282v" facs="/bl/add_ms_22591/add_ms_22591_f282v/add_ms_22591_f282v.jpg"/>
+            the miserable man worne out w<ex>i</ex>th restlesse Cares w<ex>i</ex>thout any minutes <add place="above">of</add> rest <lb/>
+            the next morning being come / he getts vpp / and bbeing readye he desp<ex>er</ex>ately <lb/>
+            entreth into the publique Congregac<ex>i</ex>on / where Masse being finished <lb/>
+            in the pr<ex>esen</ex>ce both of Freindes / and Enemies / and of the whole asse<ex>m</ex>blye ( <lb/>
+            being by Estimac<ex>i</ex>on about 2000: people) yea and of heaven / there hee <lb/>
+            recited that infamous abiurac<ex>i</ex>on word for word / as it was written / <lb/>
+            it being done he was fined at 30: peeces of Gold / w<ex>hi</ex>ch he p<ex>re</ex>sentlye <lb/>
+            paide / five whereof were given to the Preist / that bought <ex>th</ex>e abiurac<ex>i</ex>on <lb/>
+            the other 25: were employed toward the making of A shrine to put <ex>th</ex>e Eucharist in
+         </p>
+         <p>
+            then was he sent home / restored to his goods / dignities / wiffe / and <lb/>
+            Children/ noe sooner was he departed but he heard a dolefull voyce <lb/>
+            Saying to him
+         </p>
+         <p>
+            Thou wicked wretch thou hast renounced the Covenant of thine o= <lb break="no"/>
+            bedience / thou hast broken thy Vowe / hence Apostate / and beare w<ex/>th <lb/>
+            thee the sentence of thine eternall damnation/
+         </p>
+         <p>
+            Hee trembling and quaking in Bodye / fell downe in A Sound / re= <lb break="no"/>
+            leiff was at hand for the Bodye / but fro<ex>m</ex> that time forward / he neu<ex>er</ex> <lb/>
+            found anye peace / or ease of his mynde / but Continuing in vncessau<ex>n</ex>t <lb/>
+            Torments he p<ex>ro</ex>fessed
+         </p>
+         <p>
+            That he was captivated vnder the reve<ex>n</ex>ging hand of <ex>th</ex>e gr<ex>ea</ex>t God / <lb/>
+            that he heard continuallye that fearefull Se<ex>n</ex>tence of <ex>th</ex>e wise Iudge <lb/>
+            that he was Vterlie vndone / that he could neither hope for grace / <lb/>
+            nor Christs Intercession w<ex>i</ex>th God <ex>th</ex>e farther / in his behalfe /
+         </p>
+         <p>
+            Thus was his Fault ever heavye on his heart / and ever his <lb/>
+            Iudgement before his Eyes / nowe began his Freindes some of the<ex>m</ex> <lb/>
+            to repent too late / of their last Councell / others not looking soe <lb/>
+            higher / as the Iudgm<ex>en</ex>ts of God / laid all the blame vpo<ex>n</ex> his mela<ex>n</ex>choly <lb/>
+            Constituc<ex>i</ex>on / that over shadowed his Iudgement / wrought in him a kind <lb/>
+            of madness / everye one censured as his fancie lead him / yett for <lb/>
+            remedie / all agreed in this / To vse both <ex>th</ex>e wholsome helpe of Phi <lb/>
+            sic<ex>i</ex>ons / and pious advice of devines / and therefore thoughte it meete <lb/>
+            to convey him to Padua / where plentie of all manner of things <lb/>
+            were to be had / This they accordinglye did / both w<ex>i</ex>th his wiffe and <lb/>
+            Children / and his whole Familie / and other of his Freindes allso <lb/>
+            accompaning him / and being arrived at the house of one James <lb/>
+            Leanards / they sent for three Phisitions of most note whoe vppon <lb/>
+            due observac<ex>i</ex>on of the Effects / and othe<ex>r</ex> Symptomes of his disease / <lb/>
+            and some p<ex>ri</ex>vate Conference one w<ex>i</ex>th another amongst themselves <lb/>
+            retourned Verdict / in this manner / vi<ex>delic</ex>et
+         </p>
+         <p>
+            That they could not discerne that his Bodye was anye waye <lb/>
+            affected w<ex>i</ex>th any dau<ex>n</ex>ger / or distemp<ex>er</ex> / originallie fro<ex>m</ex> itselfe / <lb/>
+            by reason of overruling of any humor / but that this passion of his <lb/>
+            did arise fro<ex>m</ex> some greiffe of the mynde / w<ex>hi</ex>ch being overburthened / <lb/>
+            did not overpresse the Spiretts / as they wanted free passage stir <lb/>
+            red vp the humors / whereof the Bodye of man is full of / &amp; those <lb/>
+            ascending to the braine / troubled the Fancie / and shadowed <ex>th</ex>e state <lb/>
+            of Iudgment / and soe corrupted it / this was the bodye of his disease / <lb/>
+            and that endeavoured to p<ex>er</ex>forme by purgac<ex>i</ex>on / either to consume / <lb/>
+            or at least to divert the Cou<ex>r</ex>se of these humors from the braine / but <lb/>
+            all their skill effected nothing / w<ex>i</ex>th Spira Nothing saide / alas poore <lb/>
+            man / howe farr wide are you / doe you thinke that this disease is <lb/>
+            to be cured by potions / believe me there must be other manner <lb/>
+            of medicines / it is neither Potions / Plasters / nor druggs / that <lb/>
+            <fw type="catch" place="bot-right">can</fw>
+            <pb n="283r" facs="/bl/add_ms_22591/add_ms_22591_f283r/add_ms_22591_f283r.jpg"/>
+            can helpe a fainting Soule / Cast  downe w<ex>i</ex>th sence of Sinne / and the <lb/>
+            wrathe of God / It is onlye Christ that must be the Phisic<ex>i</ex>on / and the <lb/>
+            Ghospell the onlye Antidote / The Phisicions easelye believed him <lb/>
+            after that they had vnderstood the whole truthe of the matter / and <lb/>
+            therefore they advised him to seeeke for sprirituall Comforts /
+         </p>
+         <p>
+            By this Tyme the fame of this man was spread ou<ex>er</ex>all Padua / &amp; <lb/>
+            the neighbo<ex>r</ex> Cou<ex>n</ex>trie p<ex>ar</ex>tlye for that he was A man of esteeme partlye <lb/>
+            because as the disease was strange / soe the occasio<ex>n</ex> was rem<ex>ar</ex>kable / for <lb/>
+            this done / not in A Corner / soe as daylie there came multitudes <lb/>
+            of all sortes / to see him / some out of Curiositye / onlye to see / &amp; discou<ex>r</ex>se <lb/>
+            some out of A Pious desire / to trye all meanes that might reduce him <lb/>
+            to comforte againe / or at least to benifitt themselves / by such A <lb/>
+            Spectacle of miserie / and of the Iustice of God / amongst theis Paulus <lb/>
+            Vergerius / and Mathew Gribaldus deserue especiallye to be named <lb/>
+            as the most principall labo<ex>er</ex>rs for this mans Comforte / They finde <lb/>
+            him (being nowe about Fiftie yeares of Age) neither affected w<ex>i</ex>th <lb/>
+            the dotage of old Age / nor w<ex>i</ex>th <ex>th</ex>e vncessant headstrong passions of <lb/>
+            youth / But in <ex>th</ex>e strength of his experience and Iudgement / In A <lb/>
+            burning heate calling exte<ex>n</ex>ssively for drinke / yet his vndersta<ex>n</ex>ding <lb/>
+            actiue / qicke of app<ex>re</ex>hension / wittie in discourse / aboue his <del rend="strikethrough">ex </del>ordinary <lb/>
+            manner / and indiciouslye oppositiue
+         </p>
+         <p>
+            His Freindes laboured by all faire meanes to induce him to <lb/>
+            receaue some nourishm<ex>en</ex>t / w<ex>hi</ex>ch he obstinatelye gainesayinge / they <lb/>
+            forciblye infused some liquid thinge / as sustenaunce into his mouth / <lb/>
+            most of w<ex>hi</ex>ch he spitt out againe / exceedinglye chafinge / and in that <lb/>
+            fretting moode saide
+         </p>
+         <p>
+            It is verye true that all thinges worke together for good / for <lb/>
+            those that feare God / soe to <ex>th</ex>e wicked all things are co<ex>n</ex>trarye / For whereas <lb/>
+            A plentifull ofspring is the blessing of God / and his reward / being <lb/>
+            A staye to the weake state of their Parents / being aged / but to mee <lb/>
+            they are Cause of bitterness / and vexatio<ex>n</ex> /
+         </p>
+         <p>
+            They do strive to make me trye out this miserye / I would faine be at <lb/>
+            an end  / I deserue not this dealinge at their hands / Oh that I were <lb/>
+            gone from thence / that some Bodye would lett out this wearye Soule /
+         </p>
+         <p>
+            His Freindes saluted him / and asked what hee Conceiued to bee <lb/>
+            the Cause of his disease / for though he brake out into a lame<ex>n</ex>table discou<ex>r</ex>se of <lb/>
+            the passage he formerlye related / and that w<ex>i</ex>th such a passiolate elocutio<ex>n</ex> <lb/>
+            that he caused manye to weepe / and most to tremble
+         </p>
+         <p>
+            They Contrarilye to comforte him / propounded manye of <lb/>
+            the p<ex>ro</ex>mises recorded in scripture / &amp; many exa<ex>m</ex>ples of Gods mercie /
+         </p>
+         <p>
+            My Sinne is greater / than the mercie of God / Naye au<ex>n</ex>swered they <lb/>
+            the mercie of God is aboue all Sinne / God would haue all men to <lb/>
+            be saved / It is true (quothe hee) he would haue those / that hee hath <lb/>
+            elected to be saved / hee would not haue damned reprobates to <lb/>
+            be saved / I am one of that number I knowe it / For I willinglye &amp; <lb/>
+            ag<ex>ain</ex>st my knowledge denied Christ / and I feele that he hardens <lb/>
+            mee / and will not suffer mee to hope/
+         </p>
+         <p>
+            After some silence / one asked him whether hee did not beleeve <lb/>
+            that doctrine to be true / for the w<ex>hi</ex>ch he was accused before <ex>th</ex>e Legate <lb/>
+            he au<ex>n</ex>swered I did beleeve it when I denied it / But now I neither <lb/>
+            believe <ex>tha</ex>t now the doctine of the Romish Church / I believe nothing / <lb/>
+            noe hope / noe Faithe / noe trust / I am a Reprobate like Caine / <lb/>
+            or Judas / whoo casting awaye all hope of mercie / fell into dispayre <lb/>
+            <fw type="catch" place="bot-right">and</fw>
+            <pb n="283v" facs="/bl/add_ms_22591/add_ms_22591_f283v/add_ms_22591_f283v.jpg"/>
+            and my Freindes doe mee greate wronge / that they suffer mee not to <lb/>
+            goo to the place of misbeleevers / as I iustlye deservue / there they began <lb/>
+            sharpelye to rebuke him / requiring / and charging him in any Case he <lb/>
+            did not violate the mercie of God / To w<ex>hi</ex>ch he saide / the mercie of God <lb/>
+            is exceedinglye large / and extends to all the Heart / but not to mee no<ex>r</ex> <lb/>
+            any like mee whoe are sealed to it I tell you I deserue it mine owne <lb/>
+            Conscience co<ex>n</ex>demneth mee no<ex>r</ex> needeth any other Iudge / Christ came <lb/>
+            (said they) to take away Sinne / and calling for A Booke they read to him <lb/>
+            Conc<ex>er</ex>ning the passion of Christ / and Coming to his nayling on <ex>th</ex>e Cross <lb/>
+            Spira said this indeed is Comfortable to such as are elected / but as for <lb/>
+            mee wretch / nothing but greif and torm<ex>en</ex>ts / because I co<ex>n</ex>temned them /
+         </p>
+         <p>
+            Thus roaring w<ex>i</ex>th Feares / and tossing himselfe vpp and downe <lb/>
+            vpon the bedd / as he laye / intreated them to read noe more /
+         </p>
+         <p>
+            As Gribaldus was coming to see him Vergerius said to Spira <lb/>
+            deare Sir/ heere is docto<ex>r</ex> Gribaldus / a Godlie and Faithfull Freinde <lb/>
+            of yo<ex>ur</ex>s / he is Come to see you / he is wellcome (quoth he) but hee shall <lb/>
+            finde mee ill / Gribaldus replyed S<ex>i</ex>r this is but an illusion of <ex>th</ex>e devill / <lb/>
+            whoe doth what he can to Vexe you / but turne you to God / w<ex>i</ex>th yo<ex>ur</ex> <lb/>
+            whole hearte and he is readye to showe you mercie / The Earthe you <lb/>
+            knowe is full of his mercie / It is hee as hath said / as often as A <lb/>
+            Sinner repents of his Sinne / he will rem<ex>em</ex>ber his Sinnes noe more /
+         </p>
+         <p>
+            Consid<ex>er</ex> his in the Exa<ex>m</ex>ple of Peter / that was Christs Familiar <lb/>
+            and an Apostle / and yett denied him thrice / w<ex>i</ex>th au<ex>n</ex> oathe / and <lb/>
+            yett God was mercifull to him
+         </p>
+         <p>
+            Consider the Theiffe / that spent his whole liffe wickedlye / and <lb/>
+            Yett for all that / did God graciouslie <del rend="strikethrough">accept h</del> respect him in the last <lb/>
+            minute of his life / As <ex>th</ex>e Lords hand now shortened <ex>tha</ex>t it Caunst saue /
+         </p>
+         <p>
+            <add place="LM">Luke: 22: 6: /</add> <lb/>
+            To this Spira au<ex>n</ex>swered / if Peter greiued and repented  / it was <lb/>
+            because Christ had pittie vpo<ex>n</ex> him / and he wept because Christ be= <lb break="no"/>
+            held him w<ex>i</ex>th A mercifull Eye / and in <ex>tha</ex>t hee was p<ex>ar</ex>doned / it was not <lb/>
+            because he wept / but because God was gracious to him / but God wept <lb/>
+            not mee / and soe I am not A whitt moved / neither can I weepe / &amp; <lb/>
+            soe I am a Reprobate / I feele noe Comfort that can enter into my <lb/>
+            harte / there is noe place there / but only for Torm<ex>en</ex>t and vexinge of <lb/>
+            Spiretts / I tell you my Case is p<ex>ro</ex>perlye mine owne / noe man was <lb/>
+            ever in the like plight / and soe myne estate is fearefull /
+         </p>
+         <p>
+            <add place="LM">Heb: 10: 3</add> <lb/>
+            Then roaring out in the bitterness of his Spirritt / he said itt is <lb/>
+            A Fearfull thing to fall into the hands of the living God /
+         </p>
+         <p>
+            <add place="LM">Math: 10: 33: /</add> <lb/>
+            The violence of his passio<ex>n</ex> &amp; actio<ex>n</ex> sutable did amaze manye of <lb/>
+            the beholders / In soe much <ex>tha</ex>t some of the said w<ex>i</ex>th a whisperinge voyce <lb/>
+            that he was possessed / hee overhearing it saide / doe you yett doubt of <lb/>
+            it / I haue A whole Legion of devilles / <ex>tha</ex>t take vpp their dwellings <lb/>
+            in mee / and possesse mee as their owne / and iustlie too / For I haue deny <lb/>
+            ed Christ / whether did you that willinglie / or noe / said they / That is <lb/>
+            nothing to the Purpose / said Spira / Christ said<del rend="strikethrough">d </del>whoe soever denied <lb/>
+            mee before men / him will I denye before my Father
+         </p>
+         <p>
+            Christ will not be denied / noe / not in word / and soe it is enough <lb/>
+            if in harte I never denied him /
+         </p>
+         <p>
+            They obserued much of his distemp<ex>er</ex> / from the horro<ex>r</ex>s / and sense <lb/>
+            of the Paines of Hell / They asked him whether he thought there were <lb/>
+            worse paines than he endured for the p<ex>re</ex>sent / he said that he knewe <lb/>
+            there were farre worse paines than those that he hadd then suffer <lb/>
+            for the wicked shall arise to their Iudgm<ex>en</ex>t  / but they shall not be <lb/>
+            <fw type="catch" place="bot-right">able</fw>
+            <pb n="284r" facs="/bl/add_ms_22591/add_ms_22591_f284r/add_ms_22591_f284r.jpg"/>
+            able to stand in their Iudgm<ex>en</ex>t / this I tremble to thinke of / yet doe I <lb/>
+            desire nothing more than at the length I might come to the place / where <lb/>
+            I might be sure to feele the worst / &amp; soe be freed fro<ex>m</ex> fears of worst to come /
+         </p>
+         <p>
+            Oh / but you ought to consider (said one) that those opinions / for w<ex>hi</ex>ch you <lb/>
+            were accused before the Legate / were impious / and soe you are not to <lb/>
+            thinke <ex>tha</ex>t thereby you denied Christ / but rather that you confessed him <lb/>
+            and acknowledged <del rend="strikethrough">him </del>the infalliable Truth of the Catholique church <lb/>
+            Truelye said he when I denied those opynions / I did thinke them to be <lb/>
+            true / and yett I did deny them / Goe too saide they / now beleeue that <lb/>
+            they are true / Now I cannot (said he) God will not suffer me to beleeve <lb/>
+            them / nor trust in his mercie / what would you haue of me I would faine attaine <lb/>
+            to that power / but cannot / thoughe I should be p<ex>re</ex>sentlye burned for it
+         </p>
+         <p>
+            But whie doe you (said they) esteeme this soe grevious A Sinne / <lb/>
+            when as the learned Legate constrained you to it / w<ex>hi</ex>ch hee surelye <lb/>
+            would never haue do<ex>n</ex>e / if yo<ex>u</ex>r former opynions had not bene erroni= <lb break="no"/>
+            ous / Noe good Frauncis the devine besotted you / lett not the grevi= <lb break="no"/>
+            ousnes of Sinne / if any such bee amaze you /
+         </p>
+         <p>
+            <add place="RM">
+               Rom: 9: 13:
+            </add>
+            You saie right (replyed hee) the divell hath possessed mee/ and <lb/>
+            God hath lett mee to his power / for he said I neither can believe <lb/>
+            the Gospell / nor trust in his mercie / I haue Sinned against the holye <lb/>
+            Ghost and God / by his imutable decree / hath bound mee over to p<ex>er</ex>pe= <lb break="no"/>
+            tuall Punishm<ex>en</ex>t / w<ex>i</ex>thout anye hope of pardon / It is true <ex>tha</ex>t greatnes <lb/>
+            of Sinne / nor the multitude of them / can binde Gods mercyes / for if <lb/>
+            A man be elected / thoughe guiltie of never soe manye Sinnes / hee <lb/>
+            is notw<ex>i</ex>thstanding blessed / and if A man be A Reprobate though <lb/>
+            he comitte fewer Sinnes / yett shall he be damned ever for them / all <lb/>
+            they did not soe much trouble mee / for I trusted <ex>tha</ex>t God would not laye <lb/>
+            tham to my Chardge / but nowe hauing against the holye Ghoste / God <lb/>
+            hath taken awaye from mee / all power of Repentau<ex>n</ex>ce / &amp; now brings <lb/>
+            all my Sinnes  / to my remembrau<ex>n</ex>ce / and thus guiltie of one guiltie <lb/>
+            of all / and therefore / it is noe matter / whether my Sinnes be great <lb/>
+            or small / fewe or manye / they are such as neither Christs bloud <lb/>
+            nor Gods mercie belongs to mee / God will haue mercie on who<ex>m</ex> he <lb/>
+            will haue mercie / and one whom he will / he hardeneth / this is that <lb/>
+            gnawes my harte / he hath hardened / I saye that he doth daylye <lb/>
+            more and more harden mee / and therefore I tell you <ex>tha</ex>t there <lb/>
+            was never such A Monster as I am / never was man soe liue A <lb/>
+            Spectacle or soe exceeding miserye
+         </p>
+         <p>
+            I know the doctrine of Iustificac<ex>i</ex>ion by Christ / and I denyed &amp; <lb/>
+            abiured it to be the Ende that I might keepe this frayle liffe from <lb/>
+            adversitie / and my Children from Povertie / and nowe behold howe <lb/>
+            bitter this life is to mee / and God onlye knowes what shall become of <lb/>
+            this my Familie / but surely noe good is like to betide it / but rather <lb/>
+            daylie worse / and worse / and such A Ruine / as at the lengthe one <lb/>
+            stone shall not be lefte vppon another /
+         </p>
+         <p>
+            But whie should you onlye (said Gribaldus) conceue soe deeply <lb/>
+            of yo<ex>u</ex>r Sinne / seeing you cannot choose but know / that many haue <lb/>
+            denied <del rend="strikethrough">th </del>Christe / yett never fell into dispayre
+         </p>
+         <p>
+            Well (answered hee) I can see noe ground of Comforte for <lb/>
+            <fw type="catch" place="bot-right">such</fw>
+            <pb n="284v" facs="/bl/add_ms_22591/add_ms_22591_f284v/add_ms_22591_f284v.jpg"/>
+            such as neither can I warrant them / from this revenginge wrath <lb/>
+            thoughe it please God yett to suffer such to be in peace / and besydes <lb/>
+            there will A tyme Come of change / and then they shalbee truelye <lb/>
+            tryed / and if it were not thus / yett God is wise in makinge mee an <lb/>
+            example to others / and I cannot iustlye Complaine / for he will haue <lb/>
+            mercye / on whom he will / it is his hidden p<ex>ro</ex>vidence / and whoe can <lb/>
+            oppose it / There is noe punishm<ex>en</ex>t soe greate / but I haue defended it / <lb/>
+            for this soe heynous offence / I assure you it is noe small matter to <lb/>
+            denye Christ /and yett it is more ordinarye and Comon / then men do <lb/>
+            conseyve of it / it is not onlye A denyall / or abiurac<ex>i</ex>on before A <lb/>
+            magistrate as it is w<ex>i</ex>th mee / for as often as A Christian doth but <lb/>
+            dissemble the knowne truthe / soe often as hee approued of false <lb/>
+            worshipp / by p<ex>re</ex>senting himselfe at it / soe often as he doth thinges <lb/>
+            as are vnworthie of his Callinge / Soe often denieth he Christ / thus <lb/>
+            did I / and therefore am I iustlye punished for it
+         </p>
+         <p>
+            yo<ex>u</ex>r Estate (quoth Gribaldus) is not soe strong as you make it / <lb/>
+            Iob was soe farre gone as he complained / that God had sett him as <lb/>
+            A marke to shoote at / and davyd that was A man after Gods owne <lb/>
+            harte / Complained often that God had forsaken him / and was become <lb/>
+            his Enemie / yett both receyved Comforte againe/ Comforte yo<ex>u</ex>r selfe <lb/>
+            therefore / God will come at lengthe / thoughe nowe hee seeme a farr <lb/>
+            of / Oh Brother au<ex>n</ex>swered Spira I beleeue all this the devilles believe <lb/>
+            and tremble / but dayvid was ever elected / and dearelye beloued <lb/>
+            thoughe hee fell / yett God never tooke awaye his Spirritt / and soe <lb/>
+            was heard when hee prayed / Lord take not thy holye Spirritt fro<ex>m</ex> <lb/>
+            mee / but I am in another Case / being ever accused fro<ex>m</ex> the prescence <lb/>
+            of God / neither can I praye as hee did / because his holye Spirritt <lb/>
+            is quite gone / and cannot be recalled / and soe I knowe I shall liue <lb/>
+            in continuall hardness / soe longe as I live / O <ex>tha</ex>t I maye feele the <lb/>
+            least sense of the Loue of God to mee / thoughe for A small moment <lb/>
+            as nowe I feele his heavye wrathe / w<ex>hi</ex>ch burneth like the Torments <lb/>
+            of Hell in mee / and afflicts my Conscience with Pangs intollerable / <lb/>
+            verilye desperac<ex>i</ex>on is hell itselfe /
+         </p>
+         <p>
+            Heere Gribaldus saide / I doe verilye hope Spira that hathinge <lb/>
+            soe severelye Chastised you in this liffe / Corrects you heere in mercie <lb/>
+            that he maye spare you heere after / and that he hath mercies sealed <lb/>
+            vpp for you against tyme to Come
+         </p>
+         <p>
+            Naye heeye doe I knowe said Spira / that I am A Reprobate / be= <lb break="no"/>
+            cause hee afflicts mee w<ex>i</ex>th hardnes of harte / O that my Bodye had <lb/>
+            suffered all my liffe longe / soe that he would be pleased to release <lb/>
+            my Soule / and ease this burthened Conscience
+         </p>
+         <p>
+            Gribaldus being desirous to ease his mynde / from continuall <lb/>
+            meditac<ex>i</ex>on from his Sinne / and allsoe to sound how far the p<ex>re</ex>sent hee <lb/>
+            stood affected to the opynions of the Romish Churche / asked him w<ex>ha</ex>t <lb/>
+            he thought because of the Soules of men / soe soone as he dep<ex>ar</ex>ted out <lb/>
+            of the Bodye / to w<ex>hi</ex>ch he a<ex>n</ex>swe<ex>r</ex>ed / allthough this be nott soe fullye rea= <lb break="no"/>
+            solved in the Scriptures / yett I verelie believe that the Soules of <lb/>
+            the Electe goe p<ex>re</ex>sentlie to the Kingdome of Glorie (as some ymagine) <lb/>
+            verye well said one of the Spectato<ex>r</ex>s / when the Scriptures the<ex>n</ex> say <lb/>
+            that God bringeth downe to Hell / and rayseth vpp / seeing it cannott <lb/>
+            be meante of the State of the Soules after deathe / w<ex>hi</ex>ch as thou sayest <lb/>
+            either goeth to heaven w<ex>i</ex>thout Change / or to hell w<ex>i</ex>thout redempc<ex>i</ex>on <lb/>
+            it might be needs be vnderstood of the estate of the Soules in this life / <lb/>
+            like that where in thou arte at this p<ex>re</ex>esent / and often tymes wee see <lb/>
+            <fw type="catch" place="bot-right">that</fw>
+            <pb n="285r" facs="/bl/add_ms_22591/add_ms_22591_f285r/add_ms_22591_f285r.jpg"/>
+            that god suffereth men / to fall into the Iawes of dispayre / and yet <lb/>
+            rayseth them vp againe / and therefore dispayre not / but hope it shall <lb/>
+            be ever thus with thee in his good tyme /
+         </p>
+         <p>
+            This is the worke / this is the Labor / for I tell you / when I at Venice <lb/>
+            did first abiure my profession / and soe as it were drewe an Ind<ex>ic</ex>tm<ex>en</ex>t <lb/>
+            the Spirritt of God after admonished mee / and when at Cistadella / <lb/>
+            I did as it were sett to my Seale / the suggested mee doe not write / <lb/>
+            Spira doe not seale it yet I resisted the holye Ghost / and did both / and <lb/>
+            at that verye p<ex>re</ex>sent I did evidentlie feele a wound inflicted my very <lb/>
+            will / soe as thoughe I saye I would believe / yett I cannot saye I will <lb/>
+            believe / and it befalls mee in this my miserable Estate / as one that <lb/>
+            is fast in Irons / and his Friendes Coming to see him / doe pittie his <lb/>
+            Estate / and doe p<ex>er</ex>suade him to shake of his Fetters / and to come out <lb/>
+            of Bonds / w<ex>hi</ex>ch he would faine doe but cannot / This is my very case <lb/>
+            you p<ex>er</ex>suade mee to beleeue / howe faine would I doe it / but I cannot / <lb/>
+            Oh noe / I cannot / Then violentlie graspinge his hands together / and <lb/>
+            raysing vpp himselfe / Behold saide he I am stronge / yett by little <lb/>
+            and little / I consume / and decaye / and my Servants would faine pre <lb/>
+            serue this wearie liffe / but at length the will of God must bee donee / <lb/>
+            and I shall perrishe miserablie as I deserue /
+         </p>
+         <p>
+            Reioyce you righteous in the <lb/>
+            Lord blessed are you whose hearthe <lb/>
+            the Lord hath mollified
+         </p>
+         <p>
+            Then after some Pause he said / It is wonderfull I earnestlie <lb/>
+            desire to praye unto God w<ex>i</ex>th my harte / yett I cannot / I see my <lb/>
+            damnac<ex>i</ex>on / and I knowe my remedie is onlye in Christ / yett I <lb/>
+            cannot sett my selfe to laye hold on him / such are the Punishm<ex>en</ex>ts of <lb/>
+            the damned / they confesse what I confesse they emulate yea envye <ex>th</ex>e <lb/>
+            Electe / yett their repentance doth them noe good / for th<ex>e</ex>y can<ex>n</ex>ot mend <lb/>
+            their wayes / As he was thus speaking he obserued divers Flyes <lb/>
+            that came about him / and some lighted on him / behold saithe hee nowe <lb/>
+            allsoe Beelzebub comes to this banquett you shall shortlye see myne <lb/>
+            ende / and in mee an example to manye / of the Iustice and Iudgm<ex>en</ex>t of <lb/>
+            God / About this tyme came in two B<ex>isho</ex>pps w<ex>i</ex>th divers Scholars of the <lb/>
+            Vniversitie / one of them being Paulus Vergerius / having observed <lb/>
+            Spira more then anye other / being continuallie conversant w<ex>i</ex>th him <lb/>
+            told him that his estate was such as rather stood in need of prayer <lb/>
+            than of Advise / and therefore desired him to praye w<ex>i</ex>th him in the <lb/>
+            Lords Prayer / Spira consented and began Our father which arte <lb/>
+            in heaven Then breaking Forthe into Teares hee stopped But they <lb/>
+            saide /it is well yo<ex>u</ex>r greiffe is A good signe / I bewayle saith he my <lb/>
+            miserye / for I p<ex>er</ex>ceave I am forsaken of God / and cannot call to <lb/>
+            him in my harte / as I was wont to doe / Lett vs goe on said Vergerius <lb/>
+            Thy kingdome come / O Lord (said Spira) bring mee allsoe into this <lb/>
+            Kingdome / I beseech thee shutt mee not out / Then coming to thes word<ex>s</ex> <lb/>
+            Giue us this daye our dalye bread / hee added / O Lord I enoughe and <lb/>
+            abundance to feed this karcase of myne / but there is another bread / <lb/>
+            I humblie crave the bread of thy Grace / w<ex>i</ex>thout  w<ex>hi</ex>ch I knowe I am <lb/>
+            but A dead man / Lead us not into Temptac<ex>i</ex>on / Seeing O Lord I am <lb/>
+            brought into Temtac<ex>i</ex>on helpe mee Lord that at length I may escape <lb/>
+            the Enemie hath ou<ex>er</ex>come / helpe me I beseech thee to ou<ex>er</ex>come <ex>th</ex>e cruell Tyrant
+         </p>
+         <p>
+            Theis thinges hee spake w<ex>i</ex>th A mournefull voyce / <ex>th</ex>e teares trickling <lb/>
+            downe abundantlye and expressing such affecc<ex>i</ex>on and passion as <lb/>
+            <fw type="catch" place="bot-right">that</fw>
+            <pb n="285v" facs="/bl/add_ms_22591/add_ms_22591_f285v/add_ms_22591_f285v.jpg"/>
+            that turned over the bowels of those there p<ex>re</ex>sent with greiffe &amp; <lb/>
+            Compassion / they then turning to Spira said / you knowe that none can <lb/>
+            call Christ Iesus (lord) but by the holye Ghost / you must therefore thinke <lb/>
+            of yo<ex>u</ex>r selfe according to that affectio<ex>n</ex> w<ex>hi</ex>ch you expresse in yo<ex>u</ex>r Prayers <lb/>
+            informing thereby that God hath not bereaved you of his Spirritt vtt<ex>er</ex>lye <lb/>
+            I p<ex>er</ex>ceaue I call on him to my eternall damnac<ex>i</ex>on for I tell you againe <lb/>
+            It is a newe and vnheard of example <ex>tha</ex>t you finde in mee / If Iudas <lb/>
+            (said they) had but lived his dayes / w<ex>hi</ex>ch by nature he might haue done / <lb/>
+            he might haue repented / and Christ would haue receaued him to mercye <lb/>
+            and yet he sinned most greviouslye against his master / w<ex>hi</ex>ch did soe <lb/>
+            much esteeme of him / as to honor him / w<ex>i</ex>th the degree of Apostle &amp; <lb/>
+            did maineteyne and feed him / he au<ex>n</ex>swered Christ did allsoe feede and <lb/>
+            honor mee / neither is yett my Fault one Iott lesse / then that of his / be= <lb break="no"/>
+            cause it is not more honor to bee p<ex>er</ex>sonally p<ex>resen</ex>te w<ex>i</ex>th Christ in the Flesh <lb/>
+            then to be in his p<ex>resen</ex>ce by the illuminac<ex>i</ex>on of the holye Spirritt / &amp; besides <lb/>
+            I denye that even Iudas could haue repented / howe long soe eu<ex>er</ex> he <lb/>
+            had liued / for grace was quite taken fro<ex>m</ex> him / as it is nowe fro<ex>m</ex> mee /
+         </p>
+         <p>
+            Oh Spira saide they you know you are in a Spirrituall disserc<ex>i</ex>on <lb/>
+            you must not beleeve what the deville suggests / he was ever A Lyer <lb/>
+            fro<ex>m</ex> the beginning / and A meere Impostor / and will Cast a Thousand <lb/>
+            lyinge Fancies into yo<ex>u</ex>r mynde / to beguyle you withall / you must watch <lb/>
+            believe those whom you Iudge to bee in a good estate / and more able <lb/>
+            to discerne of you then yo<ex>u</ex>rselfe / Believe vs saide they / and wee will <lb/>
+            tell you / God will be mercifull vnto you / Oh heere is the knott said <lb/>
+            Spira / I would I could beleeue / but I cannot / then he begann to <lb/>
+            reckon vpp what fearefull dreames and Visions he was co<ex>n</ex>tinually <lb/>
+            troubled w<ex>i</ex>thall / that he sawe devilles come flocking into his Cha<ex>m</ex>ber <lb/>
+            and about his Bedd / terrifying him w<ex>i</ex>th strange noyses / that these were <lb/>
+            not fancies / but that he sawe them as reallye as he sawe <ex>th</ex>e standers / <lb/>
+            and besydes these outward terrors / he felt continuallye A wracking <lb/>
+            torture of his mynde / and a continuall butcherie of his Confidence / <lb/>
+            being the verye p<ex>ro</ex>per pangs of the damned wights in hell / Cast of <lb/>
+            these Fancies (said Gribaldus ) these are but illusions / hu<ex>m</ex>ble yo<ex>u</ex>r selfe in <lb/>
+            the p<ex>re</ex>sence of God / &amp; prayse him / the dread prayse not <ex>th</ex>e Lord au<ex>n</ex>swered hee nor <lb/>
+            they that goe downe into the Pitt / what Hell can bee worse <lb/>
+            then desperac<ex>i</ex>on / or what greater punishm<ex>en</ex>t then the gnawing worme / <lb/>
+            vnquenchable Fire / Horror Confusion / and w<ex>hi</ex>ch is worst of all desp<ex>er</ex>a <lb/>
+            c<ex>i</ex>on it selfe continuallye tortures mee / and nowe I cou<ex>n</ex>te my p<ex>rese</ex>nt <lb/>
+            Estat worse / then if my Soule (dep<ex>ar</ex>ted out of my Bodye) were w<ex>i</ex>th <lb/>
+            Iudas / and the rest of the damned / and therefore I nowe desire <lb/>
+            rather to be there / then thus to liue in the Bodye/
+         </p>
+         <p>
+            One being pr<ex>e</ex>sent rehearsed certaine wordes out of <ex>th</ex>e Psalmes <lb/>
+            If my children forsake my Lawe / and walke not in my Iudgm<ex>en</ex>t <lb/>
+            I will visite your transgressions with rodds / and yo<ex>u</ex>r Iniquity <lb/>
+            with Stripes / neuerthelesse my Loving kindness will I not vt <lb/>
+            terlye take from them / nor suffer my Faithfulnes to fayle <lb/>
+            Marke this Oh Spira / my Covenant will I not breake /
+         </p>
+         <p>
+            These P<ex>ro</ex>mises said Spira belongs onlye to the Electe / which if <lb/>
+            tempted maye fall into Sinne / but are lifted vpp / and recoiled out as <lb/>
+            the p<ex>ro</ex>fett speaketh / thoughe he fall / he shall not vtterlye be cast downe for <lb/>
+            the Lord vpholdeth him / Therefore Peter could rise for he was elected but <lb/>
+            the Reprobates when they fall cannot rise againe / as appeared in <lb/>
+            Caine Saule / and Iudas / God dealeth one way w<ex>i</ex>th the Electe / and <lb/>
+            another w<ex>i</ex>th the reprobate /
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="286r" facs="/bl/add_ms_22591/add_ms_22591_f286r/add_ms_22591_f286r.jpg"/>
+         <p>
+            The next daye he prayed with them in the lattaine tongue / &amp; <lb/>
+            w<ex>i</ex>th excellent affection as outwardlye appeareth / Blessed be God <lb/>
+            (sayde Vergerius) these are noe signes of eternall Reprobatc<ex>i</ex>o<ex>n</ex> you <lb/>
+            must Oh Spira seeke out the Secrett Counsell of Gods Elect<ex>i</ex>on and <lb/>
+            rebrobatc<ex>i</ex>on / for noe man can knowe soe longe as hee liveth / whether <lb/>
+            by his good or Badd deeds / he be worthie of Gods loue or ange<ex>r</ex> doe <lb/>
+            you not knowe that the P<ex>ro</ex>phett david co<ex>m</ex>playned that God cast <lb/>
+            off his Soule /
+         </p>
+         <p>
+            I know all this / I knowe the mercies of God are infinite / and <lb/>
+            doe surpasse the Sinnes of the whole world / and that they are effec <lb/>
+            tuall to all that believe / But this Faithe and Hope is the guifte <lb/>
+            of God / Oh that he would giue it to mee / but it is impossible for me <lb/>
+            to beleeve as <unclear/>to drinke vpp the Sea at a draught / as for that of <lb/>
+            Salomon if he had ever tried <ex>tha</ex>t w<ex>hi</ex>ch I nowe feele by woefull <lb/>
+            experience / hee would never haue spoken as he did but the Truth <lb/>
+            is never had mortall man such an evident experience of Gods au<ex>n</ex>ger &amp; <lb/>
+            hatred against him as I haue / you <ex>tha</ex>t are in A good estate thinke repen= <lb break="no"/>
+            taunce and Faith to bee A worke of greate Facilitie / and therefore <lb/>
+            you thinke it an Easie matter to p<ex>er</ex>suade A man to beleeve the whole <lb/>
+            needs not A Phisic<ex>i</ex>o<ex>n</ex> / and he that is well can give Cou<ex>n</ex>sell easelye <lb/>
+            to him that is ill / but this Hell to mee / my hearte is hardened I can <lb/>
+            not beleeve / manye are called / but fewe are chosen /
+         </p>
+         <p>
+            Vpon what ground doe you conceave soe ill an opynion of yo<ex>u</ex>r <lb/>
+            selfe / saide Vergerius /
+         </p>
+         <p>
+            I once (said hee) did knowe God to be my Father / not onlye by <lb/>
+            Creat<ex>i</ex>on / but by regenerat<ex>i</ex>on / I knowe him by his belouued Sonne <lb/>
+            the author and Finisher of our Salvat<ex>i</ex>on I could praye to him and <lb/>
+            hope to haue p<ex>ar</ex>don of Sinnes / fro<ex>m</ex> him I had A tast of his Sweetnes <lb/>
+            peace / and Comforte / now co<ex>n</ex>trarilye I know not God as a Fath<ex>e</ex>r <lb/>
+            but as an Enemy / what more my harte hates God / and seekes to <lb/>
+            be aboue him/ I haue nothing lefte to flye to but Terror &amp; dispaye 
+         </p>
+         <p>
+            Belike you thinke then (said they) that those whoe haue <ex>th</ex>e <add place="above">e</add>arnest <lb/>
+            and First Fruits of the Spirritt maye not w<ex>i</ex>thstanding fall away
+         </p>
+         <p>
+            The Iudgments of God are as a deepe Abysse wee are soone <lb/>
+            drowned if wee enter into them / he that thinketh hee standeth lett <lb/>
+            him take heed least he fall / as for my Selfe I knowe <ex>tha</ex>t I am <del rend="strikethrough">fall <lb/>
+            </del>fallen backe / and that I did once knowe the Truth / thoughe it be not <lb/>
+            soe throughlye / for if I had beene one of you / I had continued w<ex>i</ex>th <lb/>
+            you / I knowe not else what to saye but that I am one of <ex>tha</ex>t no<ex>m</ex>ber <lb/>
+            w<ex>hi</ex>ch God hath threatened to teares in Peeces
+         </p>
+         <p>
+            Naye not soe au<ex>n</ex>swered they / for God maye come though at <lb/>
+            the last houre / keepe hold therefore / at the least by <del rend="strikethrough">Faythe </del>hope
+         </p>
+         <p>
+            This is my Case I tell you I cannot / God hath deprived of hop <lb/>
+            this brings terror to my mynde / &amp; pineth <ex>th</ex>e body w<ex>hi</ex>ch now is soe weake / <lb/>
+            that it cannot performe <ex>th</ex>e severall offices thereof / for as <ex>th</ex>e elect haue <lb/>
+            the spirritt testifyinge that they are the Sonnes of God / Soe <lb/>
+            the Reprobate even whilst they liue doe often feele A worme in <lb/>
+            theire Conscience / where by they are condemned already And <lb/>
+            therefore soe soone as I p<ex>er</ex>ceaue this wound inflicted on my mynde &amp; will / I know <lb/>
+            that I wanted the guifte of saving Grace / and that I was vtterlye <lb/>
+            vndone / God Chastizeth his Children w<ex>i</ex>th temporarie Correct<ex>i</ex>o<ex>n</ex>s <lb/>
+            <fw type="catch" place="bot-right">that</fw>
+            <pb n="286v" facs="/bl/add_ms_22591/add_ms_22591_f286v/add_ms_22591_f286v.jpg"/>
+            that they maye come as gold out of the Fire / but punisheth the wicked <lb/>
+            w<ex>i</ex>th blindnes in their Vnderstanding / and hardnes of heart / and woe <lb/>
+            to such / fro<ex>m</ex> whence God takes his Holye Spirritt 
+         </p>
+         <p>
+            Here one rebuking him / told him that he gaue to muche Creditt <lb/>
+            to sense / that he was not to beleeve him selfe/ but rath<ex>e</ex>r him <ex>tha</ex>t was <lb/>
+            in a good estate / and I testifie to you said hee / <ex>tha</ex>t God will be mercye= <lb break="no"/>
+            full to you /
+         </p>
+         <p>
+            Nowe aunswered Spira for because I am in this euill estate <lb/>
+            therefore can I beleeve nothing / but what is Contrarye to my Sal= <lb break="no"/>
+            vation / and Conscience / but you are confident of yo<ex>u</ex>r good Estate / looke <lb/>
+            that it be true / for it is noe small matter to bee assured of sinceritie <lb/>
+            a man had neede to be exceeding stronglye grou<ex>n</ex>ded in the truthe / <lb/>
+            before hee can be able to affirme such A matter as you nowe doe / <lb/>
+            It is not the p<ex>er</ex>formance of A Few outward duties / but a mightie <lb/>
+            constant labour / w<ex>i</ex>th all the intention both of the hearte &amp; affectio<ex>n</ex> / <lb/>
+            w<ex>i</ex>th full desire and endeavo<ex>u</ex>r continuallye to sett for the the glory <lb/>
+            of God / there must be neither feare of Legate Inquisito<ex>r</ex>s prisons / <lb/>
+            or any deathe whatsoever / manye thinkes themselves happye <ex>tha</ex>t are <lb/>
+            not / It is not everye one that saithe Lord Lord shall goe to heaven /
+         </p>
+         <p>
+            They Came another daye / and found him with his Eyes shutt as <lb/>
+            if he had bine drowsie / and verye loath to discourse / at w<ex>hi</ex>ch tyme all <lb/>
+            soe there came in A verye grave man / whoe demaunded of Spira <lb/>
+            whether he knew him or not / he lifted vpp his Eyes &amp; not sudenilye <lb/>
+            remembring him / the Man said to him I am Presbiter Anthony <lb/>
+            Hortimna / I was w<ex>i</ex>th you at Venice some Eight weekes sithence /
+         </p>
+         <p>
+            O cursed daye (said Spira) Oh cursed daye / O that I nev<ex>er</ex> had come <lb/>
+            thither / would to God I had then dyed / after came in A Preist called <lb/>
+            Barnardinus Cardomus bringing w<ex>i</ex>th him A booke of Exorcisnes <lb/>
+            to Comiure this devilll / who<ex>m</ex> when Spira sawe shaking his Stave / hee <lb/>
+            saide I am p<ex>er</ex>suaded verilye indeed / <ex>tha</ex>t God hath left mee to <ex>th</ex>e power <lb/>
+            of the devill / but such they are as they are not to be found in yo<ex>u</ex>r Letanie / <lb/>
+            neither will they be cast out by Spells
+         </p>
+         <p>
+            The Preist proceding in his intended purpose w<ex>i</ex>th A strange <lb/>
+            vncouth gesture / and loud voyce abiured the Spirritt to come into <lb/>
+            Spiras tongue / and au<ex>n</ex>swere / Spira deridinge his fruitles lab<ex>o</ex>r <lb/>
+            turned from him 
+         </p>
+         <p>
+            A Bishopp being there p<ex>re</ex>sent said to Spira Brother God hath <lb/>
+            put vertue into the word and Sacram<ex>en</ex>t / and wee haue <ex>th</ex>e one meance <lb/>
+            and finde not that effecte w<ex>hi</ex>ch wee desire / shall wee trye <ex>the</ex>e effecacie <lb/>
+            of the Sacrament / surelye if you take it as a true Christia<ex>n</ex> ought <lb/>
+            to receaue the Bodye and bloud of Christ it will p<ex>ro</ex>ue a sou<ex>er</ex>aigne <lb/>
+            medicine for A Sicke Soule
+         </p>
+         <p>
+            This I cannot doe (answeared hee) for those <ex>tha</ex>t haue noe right to <lb/>
+            the p<ex>ro</ex>mises / haue noe right to the Soales / the Eucharist was ap <lb/>
+            pointed onlye for Beleuiers / If we haue noe Faithe / wee eate &amp; <lb/>
+            drincke damnation to our selves / about a monthe sithence I re <lb/>
+            ceaved it / but I did not well in the doinge / for I tooke it in co<ex>n</ex>straint <lb/>
+            and soe I tooke it to my deper Condemnac<ex>i</ex>on 
+         </p>
+         <p>
+            Here Vergerius began to importe earnestlye to beware <lb/>
+            that he did not willfullye reiect grace /and put himselfe out of <lb/>
+            heaven / Charging him vehementlye by the loue that was betweene <lb/>
+            them / by all the Love <ex>tha</ex>t he bare to his Children / yea to his owne soule <lb/>
+            <fw type="catch" place="bot-right">that</fw>
+            <pb n="287r" facs="/bl/add_ms_22591/add_ms_22591_f287r/add_ms_22591_f287r.jpg"/>
+            that he would seriouslye sett him selfe to retourne to that Faith &amp; <lb/>
+            hope w<ex>hi</ex>ch once he had in the death of Christ / w<ex>hi</ex>ch manye suche like <lb/>
+            wordes Spira having heard much of the like matter formerlye &amp; <lb/>
+            being moved some what saide /
+         </p>
+         <p>
+            you doe but repeate (Vergerius) what should I hope / whye should <lb/>
+            I beleeve / God hath taken away Faith fro<ex>m</ex> mee / show mee the<ex>n</ex> whe<ex>re</ex> <lb/>
+            then I maye goe / show mee A heaven wherevnto I maye retire / you <lb/>
+            tell mee of Gods mercie / when God hath cast mee of / you tell mee of <lb/>
+            Christs intercession / and I haue denyed him / you comaund mee to be <lb/>
+            leeve / I saye I cannot / you bringe mee noe Comforte / yo<ex>u</ex>r Comfort is <lb/>
+            as impossible to mee / as to keepe the morall Lawe If you p<ex>er</ex>swade me <lb/>
+            to loue God w<ex>i</ex>th all my harte Soule and strength / and God giues mee <lb/>
+            not the Power / Can I p<ex>er</ex>forme yo<ex>u</ex>r desire / doth not the Psalmist say / teach <lb/>
+            vs to to loue thy Comau<ex>n</ex>d<ex>m</ex>ents Hypocrites saye / they loue God w<ex>i</ex>th all their <lb/>
+            hartes / but they lye for for my part I will not lye / but tell you planelye <lb/>
+            such is my Case / that thoughe you should never soe much importune mee <lb/>
+            to hope or beleeve (thoughe I desire it) yett I cannot for God (as a puni <lb/>
+            shm<ex>en</ex>t for my misdeeds) hath taken awaye from mee all savinge graces/ <lb/>
+            Faithe / Hope / and all / I am not the man you take me for / belike you <lb/>
+            thinke I delight in this Estate / If I doe knowe Vergerius / that if you <lb/>
+            could but p<ex>er</ex>ceive the least sparke of hope in my harte / of a better <lb/>
+            Estate hereafter / I would not refuse to endure the wrathe of God <lb/>
+            for A Thousand yeeres / soe that I maye attone to the Ende of this <lb/>
+            miserie / w<ex>hi</ex>ch I knowe nowe will be eternall But I tell you my will <lb/>
+            is wounded whoe longs more to beleiue then I doe / but all <ex>th</ex>e grou<ex>n</ex>d <lb/>
+            worke of my hope<unclear/> is gone quite / for if the Testimonie of the holye <lb/>
+            Scripture be true / as they are most certainelye true / is not this as <lb/>
+            true / whosover denyeth mee before men / him will denye before my <lb/>
+            Father which is in heaven is not this Prop<ex>er</ex>lye my Case as if <lb/>
+            he had bine purposelye intended against this p<ex>er</ex>son of myne / and I <lb/>
+            praye what shall become of them that Christ denyeth / seing there <lb/>
+            in noe other name vnder heaven by w<ex>hi</ex>ch wee maye bee saved / nor <lb/>
+            saithe the Epistle to the Hebrews It is impossible for those <ex>tha</ex>t were <lb/>
+            enlightened once / and haue tasted of the heavenlye guifte &amp; haue <lb/>
+            bine p<ex>ar</ex>takers of the holye Ghost if they fall awaye to be renewed <lb/>
+            by repentance / what can be more plaine against mee / is not <ex>tha</ex>t <lb/>
+            Scripture allsoe / if we Sinne willinglye after wee haue receaud <lb/>
+            the knowledge of the Truth there remaines noe more Sacrifice <lb/>
+            for Sinne / but certaine looking for Iudgm<ex>en</ex>t / the Scriptures speake of <lb/>
+            mee Paule mentions mee / Peter telles mee it had bine better I had <lb/>
+            not knowne the waye of righteousnes / then after I haue knowne it <lb/>
+            to turne from the holye Comandm<ex>en</ex>ts / I had bine better I had not <lb/>
+            knowne it / yett my Condemnac<ex>i</ex>on had bine most certaine / doe you not <lb/>
+            see evidentlye that I whoe haue willfullye denyed the knowne truth <lb/>
+            maye not onlye expect (and that iustlie) damnac<ex>i</ex>on / but worse if w<ex>o</ex>rse <lb/>
+            maye bee Imagined / god will haue mee vndergoe this Iust punishm<ex>en</ex>t <lb/>
+            of my Sinne / and make mee an example of his wrathe for yo<ex>u</ex>r sake/
+         </p>
+         <p>
+            The Companye p<ex>re</ex>sent admiring this discou<ex>r</ex>se of his accusing him <lb/>
+            selfe of his Forepassed liffe / Soe gravelye and wiselye debatinge <lb/>
+            it concerning the Iudgm<ex>en</ex>t / that possessed him/ and being as it were <lb/>
+            in admirac<ex>i</ex>on of his Estate Spira proceeded againe in this manner
+         </p>
+         <p>
+            Take good heed to yo<ex>u</ex>r selves / it is noe light matter to be a Christi<ex>an</ex> <lb/>
+            it is not Baptism / reading of the Scriptures / or bousting of the Faithe <lb/>
+            that is in Christ (thoughe even these are good) that can proue one to be <lb/>
+            <fw type="catch" place="bot-right">an</fw>
+            <pb n="287v" facs="/bl/add_ms_22591/add_ms_22591_f287v/add_ms_22591_f287v.jpg"/>
+            an absloute Christian / you knowe what I saide before / there must be <lb/>
+            a conformitie of liffe / a Christian must be stronge / inconquer<unclear/>able <lb/>
+            not carrying an obscure p<ex>ro</ex>fession / but resolute expressing the Image <lb/>
+            of Christ / and holding out against all opposic<ex>i</ex>ons to the last breath / you <lb/>
+            must quit all dilligence by righteousnes and holynesse to make this <lb/>
+            calling and election sure / manye there be that snatche at the p<ex>ro</ex>mises of <lb/>
+            the Ghospell / Tis if they did vndoubtedlye belonge vnto them / and yett <lb/>
+            they remaine sluggish &amp; Careless / and being flattered by <ex>th</ex>e things of <lb/>
+            this p<ex>re</ex>sent worrld / they passe on their Cou<ex>r</ex>se in quietness &amp; securitie as if <lb/>
+            they were the onlye happie men / whom neverthelesse the lord in <lb/>
+            his p<ex>ro</ex>vidence hath ordeyned to eternall wrathe / as you maye see in <lb/>
+            St Lukes gospell of the Riche man / thus it was w<ex>i</ex>th mee therefore <lb/>
+            take heed
+         </p>
+         <p>
+            Then came one of his Nephewes / and offered him some sus= <lb break="no"/>
+            tenaunce / w<ex>hi</ex>ch he disdained fullye refusing / soe moved the young mans <lb/>
+            Choller that he charged him w<ex>i</ex>th hypocrisie &amp; dissimulatc<ex>i</ex>on or Fre<ex>n</ex>zie /
+         </p>
+         <p>
+            To whom Spira grauelye answeringe / said youj maye interprett <lb/>
+            the matter as you will / but I am sure I am not onlye the Actor of <lb/>
+            this Tragidie / I would it were Frenzie either fancied or true / for <lb/>
+            if it were fancies I could putt it of at pleasure / if it were of reall <lb/>
+            Frensie / yett there were some hope of Gods mercie / whereas now I <lb/>
+            knowe what God hath p<ex>ro</ex>mised mee an Enemye / and guiltie of high treaso<ex>n</ex> <lb/>
+            against his ma<ex>jes</ex>tye / I am A cast awaye / A Vessell of wrathe / yet dare <lb/>
+            you call it dissembling and Frenzie / and can mocke at the Formidable <lb/>
+            Example of the heavye wrathe of God / I should teache you Feare &amp; <lb/>
+            terror / but it is naturall to the Fleshe / either out of mallice or <lb/>
+            or ignorance to speake p<ex>er</ex>verslye of the workes of god / the natu<ex>r</ex>all <lb/>
+            man p<ex>er</ex>ceaveth not the thinges of God / because they are spirrituall discerned
+         </p>
+         <p>
+            How can it bee / saide Gribaldus) that you can thus excellentlye <lb/>
+            discourse of the Iudgm<ex>en</ex>te of God / and of the grace of his holy spirrit <lb/>
+            that you find A Wante of them (take this for c<ex>er</ex>taine (saith he) I want <lb/>
+            the mayne Grace of all / and that w<ex>hi</ex>ch is absolutelye necessary and <lb/>
+            good doth often sinned extort most true and strange testimonyes <lb/>
+            of his ma<ex>jes</ex>tyes Iustice and mercye / yea out of the mouthes of verye <lb/>
+            Reprobates / for even Iudas after he had wickedlye betrayed his <lb/>
+            Lord and master / was constranyed to confesse his Sinne / and to <lb/>
+            uistifie the Innocencie of Christ / and therefore if I doo <ex>th</ex>e like <lb/>
+            it is noe strange matter / God hath taken Faithe from mee / &amp; left <lb/>
+            mee the other guifts for my greater Condemnac<ex>i</ex>on
+         </p>
+         <p>
+            By howe muche the more I remember what I had / &amp; heare <lb/>
+            others discourse of what they haue / by soe much is my Torment <lb/>
+            the more / that I know that I wante / and knowe that there is <lb/>
+            noe waye / to be releived
+         </p>
+         <p>
+            This spake hee / the Teares all the while trickling downe pro <lb/>
+            fessing that his pangs were suche / as that the damned wights in <lb/>
+            Hell indurd not the like miserye / that his Estate was worse then <lb/>
+            Caine and Iudas / and therefore hee desired to dye / yett beholde <lb/>
+            (saithe hee) the Scriptures accomplisht in mee / and death shall flye <lb/>
+            from them / and verilye hee seemed exceedinglye / to feare least his <lb/>
+            life should be drawne out to A longer Thread / and finding neither <lb/>
+            Ease / nor rest / ever anone crying out O miserable wretche then <lb/>
+            turning to the Companye he besought them in this manner
+         </p>
+         <p>
+            Oh Brethren take diligent heed to yo<ex>u</ex>r liffe / make more <lb/>
+            <fw type="catch" place="bot-right">accompt</fw>
+            <pb n="288r" facs="/bl/add_ms_22591/add_ms_22591_f288r/add_ms_22591_f288r.jpg"/>
+            accompt of the guifts of Gods spirritt then I haue done / learne <lb/>
+            to beware my miserye / thinke not that you are assured Christians <lb/>
+            because you vnderstand some thinges of the Ghospell / take heed you <lb/>
+            growe not secure /vpo<ex>n</ex> that ground be constant and moueable in <ex>th</ex>e <lb/>
+            maintenance of yo<ex>u</ex>r p<ex>ro</ex>fession / confesse Christ even vnto deathe if <lb/>
+            you be called thereto / He that loves Father / mother / Sister / Brother <lb/>
+            Sonnes / daughters / kindred / Houses / Landes / more then Christ is not <lb/>
+            worthie of him
+         </p>
+         <p>
+            These wordes / as said they / doe not sound as A Wicked Reprobate <lb/>
+            I doe herein but imitate the Riche Glutton (said Spira) whoe thoughe <lb/>
+            in Hell / yett was carefull that his Brethren should not come into the <lb/>
+            place of Torm<ex>en</ex>t / and I saye to you Brethren take heed of this mise= <lb break="no"/>
+            rable Estate wherein I am / lett the Epistles of Peter be never out <lb/>
+            of yo<ex>u</ex>r myndes / some places maye seeme to be darke / but verye fewe / <lb/>
+            for Christ p<ex>ro</ex>mised him the keyes / meaning his spirrett whereby he should <lb/>
+            enter into / And disclose the secrett Cou<ex>n</ex>sells of God / And then turning <lb/>
+            himselfe to certayne young men that were p<ex>rese</ex>nte he desired them <lb/>
+            to conceave him aright / I doe not speake this to derogate from the <lb/>
+            Certaintie of saving Faithe<unclear/> and the p<ex>ro</ex>misses of the Ghospell for <lb/>
+            they are most sure / but take heed for relying vpon that Faithe that <lb/>
+            workes not an holye and vnblameable liffe / worthie of A Beleiu<ex>er</ex> <lb/>
+            Creditt mee I will saye I haue tryed it / I p<ex>re</ex>sume I had gotten the <lb/>
+            right Faithe / I preached it to others / I had all places of Scripture <lb/>
+            that might support it as I thoughte my selfe / and in the meane tyme liv= <lb break="no"/>
+            inge impiouslye and carelesselye / behold howe the Iudgm<ex>en</ex>te of <lb/>
+            God hath over taking mee / not to Correction / but to Condemnacio<ex>n</ex> <lb/>
+            and nowe you would haue haue mee to beleive but it will not bee/ for <lb/>
+            I feele to late that good thinges belongs onelye to such as are good <lb/>
+            whose sinnes are Covered w<ex>i</ex>th Christs deathe and blood / as with <lb/>
+            Apparell / and guarded w<ex>i</ex>th his righteous merritts / fro<ex>m</ex> the flood <lb/>
+            of Gods wrathe / as w<ex>i</ex>th a mightie Wall / least miserable mortalls <lb/>
+            should be swallowed vpp w<ex>i</ex>th the greatness of their Sinnes / but as <lb/>
+            for mee I haue willinglye and with myne owne handes as it were <lb/>
+            haue pulled downe the rampeire behinde w<ex>hi</ex>ch I might haue rested <lb/>
+            in safetie / and nowe are the swellinge waters even come into my <lb/>
+            Soule and I am cast awaye
+         </p>
+         <p>
+            One of his Freindes cha<ex>n</ex>ced to saye that certainelye he was <lb/>
+            overcome of Melanchollye / w<ex>hi</ex>ch being overheard  / Spira said well <lb/>
+            bee it soe / for thus allsoe is gods wrathe manifested against mee / <lb/>
+            in that he hath taken awaye fro<ex>m</ex> mee the vse of myne vndersta<ex>n</ex>ding <lb/>
+            and reason soe as I can neither rightlie Esteeme nor Iudge of <lb/>
+            my distemper / nor hope for remedie / you see brethren what A <lb/>
+            daungerous thing it is to stoppe or staye in things that concerne <lb/>
+            gods glorye / especiallye to dissemble vpo<ex>n</ex> anye Tearmes w<ex>ha</ex>t A <lb/>
+            fearefull thinge it is to be neere and allmost A christian / never <lb/>
+            was the like example to this of myne / and therefore if you be wise <lb/>
+            you will seriouslye consider / Oh that God would lett loose his hand <lb/>
+            from mee / that it were w<ex>i</ex>th mee as in tymes past / I would scorne <lb/>
+            the threats of the most cruell Tyrants beare torment / w<ex>i</ex>th invin<ex>c</ex>able <lb/>
+            resoluc<ex>i</ex>ons / and glorye in the outward p<ex>ro</ex>fession of Christ / till I <lb/>
+            were cloaked in the Flame / and my Bodye turned into ashes /
+         </p>
+         <p>
+            you saye you are deperate (said some) Oh Spira whye doe you <lb/>
+            not strive w<ex>i</ex>th some weapon or other to make an End of yo<ex>u</ex>r liffe / <lb/>
+            as desperate men vse to doe / lett mee haue A sword (said Spira) <lb/>
+            <fw type="catch" place="bot-right">why</fw>
+            <pb n="288v" facs="/bl/add_ms_22591/add_ms_22591_f288v/add_ms_22591_f288v.jpg"/>
+            whye what will you with it (said they) I cannot tell (said he) what <lb/>
+            this minde would moue <unclear/> mee too / vpo<ex>n</ex> occasion / what I would doe <lb/>
+            they perceiving small effect of all this their labour / but rather <lb/>
+            that he grow worse / for avoyding recou<ex>r</ex>se of people (for eu<ex>er</ex>y day seldom fewer <lb/>
+            then Twentie continued w<ex>i</ex>th him) and to stoppe the Course of fame <lb/>
+            which was continuallie blowne abroade of him / they concluded to <lb/>
+            carrye him backe againe into his owne Cou<ex>n</ex>try / and those his freinds <lb/>
+            that came to comforte him began to take their leaves of him <lb/>
+            Vergerius amongst the rest required that at their p<ex>ar</ex>tinge they <lb/>
+            might praye together w<ex>i</ex>th him /
+         </p>
+         <p>
+            Spira hardlye consented / and as vnwillinglie performed / he <lb/>
+            saide my harte is estranged fro<ex>m</ex> God / I cannot call him Father fro<ex>m</ex> <lb/>
+            my harte / all good motions and inclinat<ex>i</ex>ons are nowe quite gone / <lb/>
+            my harte is full of maledic<ex>i</ex>on hatred and blasphemie against God <lb/>
+            I finde I growe more and more hardened in harte / and cannot <del rend="strikethrough">hep <lb/>
+            </del>helpe my selfe / nowe stopp yo<ex>u</ex>r Prayers for mee / they shall turne <lb/>
+            to yo<ex>u</ex>r benefitt they can doe mee noe good / Vergerius came to take <lb/>
+            his leave of him / whom Spira imbracinge saide / allthoughe I knowe <lb/>
+            that nothing can bringe anye benifitt to me A Reprobate but <lb/>
+            that eu<ex>er</ex>y thing shall turne to my deepe damnac<ex>i</ex>on yet I giue you hartye <lb/>
+            thanks for yo<ex>u</ex>r kinde office of loue / and goodness / and the Lorde <lb/>
+            turne it to you w<ex>i</ex>th A plentifull increase of good
+         </p>
+         <p>
+            The next daye being brought to his intended Iourney by <lb/>
+            the waye looking rou<ex>n</ex>d about him w<ex>i</ex>th a gastlie looke he saw a knife lying vpo<ex>n</ex> <lb/>
+            the table / to w<ex>hi</ex>ch he runned hastilye catched hold of it as intending <lb/>
+            to mischeiffe himselfe / but his Friends laying hold of him stopped <lb/>
+            him in his purpose / wherevpon in Indignac<ex>i</ex>on he saide / I woulde <lb/>
+            I were above God for I knowe he will haue noe mercie on mee /
+         </p>
+         <p>
+            Thus went he homewards sayinge often that hee Envied <lb/>
+            the Condic<ex>i</ex>on of Caine and Iudas / he lay about 8: weekes in <lb/>
+            this case in continuall burning / neither desiring nor receaving any <lb/>
+            thinge but by Force / and that w<ex>i</ex>thout disgestio<ex>n</ex> / Soe spent he appeared <lb/>
+            A perfect Anatomye / expressing to the veiwe nothinge but <lb/>
+            veines and synewes / vehementlye rageing for drinke / and pineing <lb/>
+            yet fearing to live longe / dreadful of Hell / yet coveting deathe / <lb/>
+            in continuall Torment / yet his owne Tormentor / and thus co<ex>n</ex>suming <lb/>
+            himselfe w<ex>i</ex>th greiff / horror / impatience / and dispayre / living A <lb/>
+            liuinge Man in hell / hee rep<ex>re</ex>sented an extraordinary exaple <lb/>
+            of the Iustice and Power of God / Thus (as farre as appeareth) <lb/>
+            within fewe dayes after his arrivall at his owne home he dep<ex>ar</ex>ted <lb/>
+            this pr<ex>e</ex>sent liffe /
+         </p>
+         <p>
+            <add place="LM">
+               <figure>
+                        <figDesc>flower motif</figDesc>
+                    </figure>
+            </add>
+            Lett this be an occasion to make <lb/>
+            us remember that secrett things <lb/>
+            belong to God / but charitye to <lb/>
+            man / to teach him to hope all <lb/>
+            things
+         </p>
+         <p rend="align-right">
+            Finnis
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f280r/add_ms_22591_f280r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f280v/add_ms_22591_f280v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f281r/add_ms_22591_f281r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f281v/add_ms_22591_f281v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f282r/add_ms_22591_f282r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f282v/add_ms_22591_f282v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f283r/add_ms_22591_f283r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f283v/add_ms_22591_f283v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_22591/add_ms_22591_f284r/add_ms_22591_f284r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22591/add_ms_22591_f284v/add_ms_22591_f284v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22591/add_ms_22591_f285r/add_ms_22591_f285r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22591/add_ms_22591_f285v/add_ms_22591_f285v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_22591/add_ms_22591_f286r/add_ms_22591_f286r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_22591/add_ms_22591_f286v/add_ms_22591_f286v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_22591/add_ms_22591_f287r/add_ms_22591_f287r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_22591/add_ms_22591_f287v/add_ms_22591_f287v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_22591/add_ms_22591_f288r/add_ms_22591_f288r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_22591/add_ms_22591_f288v/add_ms_22591_f288v.jpg"/>
+   </facsimile>
+</TEI>

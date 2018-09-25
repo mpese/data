@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BL Harley MS 354</title>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+ <text>
+    <body>
+          <msDesc>
+             <msIdentifier xml:id="BL_Harley_MS_354">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 354</idno>
+                <msName/>
+             </msIdentifier>
+             <msContents>
+                <msItem n="1">
+                   <locus>2x-8x</locus>
+                   <title when="1610-07-27">A Copy of a Letter from G.D. to his Friend A.W. at Middlesbrough</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0189">G.D.</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/LetterGDAWMiddleburg1610.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="2">
+                   <locus>10r-31v</locus>
+                   <title when="1613-08-11">On the Suppression of Jesuits</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0001">Sir Robert Cotton</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CottonSuppressionJesuits.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="3">
+                   <locus>32r-33v</locus>
+                   <title when="1611">An Argument Upon the Question of Impositions</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0155">John Davies</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/DaviesArgumentUponQuestionImpositions1611.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin>fragment</origin>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="4">
+                   <locus>34r-35r</locus>
+                   <title when="1612">The State and Peril of a Secretary's Place</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0143">Robert Cecil, 1st Earl of Salisbury</persName>
+                   </author>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/CecilStatePerilSecretarysPlace.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="5">
+                   <locus>43r-v</locus>
+                   <title when="1612-10-08">Letter to Henry Howard, Earl of Northampton</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0206">Robert Carr, Viscount Rochester</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/RochesterLetterNorthampton1612.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="6">
+                   <locus>65r-67r</locus>
+                   <title when="1622">Directions for Preachers</title>
+                   <author>
+                      <persName corresp="../people/people.xml#P0016">James VI &amp; I</persName>
+                   </author>
+                   <author>
+                      <persName corresp="../people/people.xml#P0036">George Abbot, Archbishop of Cantebury</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/JamesDirectionsPreachers1622.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="7">
+                   <locus>93r-97r</locus>
+                   <title when="1624">Articles for the Marriage between Prince Charles and Henrietta Maria</title>
+                   <author/>
+                   <respStmt>
+                      <resp/>
+                      <name/>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/ArticlesBritainFrance1624.xml" type="t_witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="8">
+                   <locus>98r-99v</locus>
+                   <title when="1624-04-20">Letter to Charles Stuart, Prince of Wales</title>
+                   <author>
+                      <persName corresp="..people/people.xml#P0119">Pope Gregory XV</persName>
+                   </author>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v1.xml" type="witness"/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v2.xml" type="witness"/>
+                   <link target="../texts/GregoryXVPrinceCharlesLetters1623v3.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin notBefore="1624"/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+                <msItem n="9">
+                   <locus>123r-141v</locus>
+                   <title when="1624">Interrogatories Offered to Bristol</title>
+                   <author/>
+                   <respStmt>
+                      <resp>Scribe</resp>
+                      <name>
+                         <persName corresp="../people/people.xml#P0078">Ralph Starkey</persName>
+                      </name>
+                   </respStmt>
+                   <note/>
+                   <link target="../texts/InterrogatoriesOfferedBristol1624.xml" type="witness"/>
+                   <msDesc>
+                      <msIdentifier/>
+                      <history>
+                         <summary/>
+                         <origin/>
+                         <provenance/>
+                      </history>
+                   </msDesc>
+                </msItem>
+             </msContents>
+             <physDesc>
+                <objectDesc>
+                   <supportDesc>
+                      <foliation/>
+                      
+                   </supportDesc>
+                </objectDesc>
+                <handDesc>
+                   <handNote n="1">
+                      <p/>
+                   </handNote>
+                   
+                </handDesc>
+             </physDesc>
+             <history>
+                <origin/>
+                <provenance/>
+             </history>
+          </msDesc>
+    </body>
+ </text>
+</TEI>

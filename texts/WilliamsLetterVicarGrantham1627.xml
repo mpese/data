@@ -1,0 +1,438 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to the Vicar of Grantham</title>
+            <author>
+               <persName corresp="../people/people.xml#0021">John Williams</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS35331.xml">
+               <msIdentifier xml:id="BL_Add_MS_35331">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Additional</collection>
+                  <idno>MS 35331</idno>
+                  <msName>Diary of Walter Yonge</msName>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 35331</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_74734">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 74734</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_151">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 151</idno>
+                <msName/>
+             </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier> 
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29584">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 29584</idno>
+               <msName/>
+            </msIdentifier> 
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS151.xml">British Library, Lansdowne MS 151, ff. 357r–359v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_29584.xml">British Library, Additional MS 29584, ff. 1r–2v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_74734.xml">British Library, Additional MS 74734, item K</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 41r–47r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_b173.xml">Beinecke Library, Osborn b173, unfoliated</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb60.xml">Beinecke Library, Osborn fb60, ff. 405r–411r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_826.xml">Bodleian Library,  MS Ashmole 826, ff. 172r–173</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Rawlinson_E_148.xml">Bodleian Library,  MS Rawlinson E 148, ff. 113r–116v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/GonvilleCaius_College_MS_17495.xml">Gonville &amp; Caius College,  MS 174/95, pp543–549</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_527.xml">The National Archives,  SP 16/527, /56 [ff.127r–130r]</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1627">1627, but this copy dated 1633</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>letter</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>altars</term>
+               <term>communion</term>
+               <term>ecclesiastical conflict</term>
+               <term>anti-catholicism</term>
+               <term>liturgy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2017-11-30" who="#SV" status="proofread"/>
+            <change when="2017-11" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="54v"/>
+         <head>
+            A copie of the B<ex>ishop</ex> of Lyncolnes letter to <lb/>
+            the vicar of Grantham./ <lb/>
+            <hi rend="underline">1633.</hi>
+         </head>
+         <p>
+            S<ex>i</ex>r w<ex>i</ex>th my hearty com<ex>m</ex>endac<ex>i</ex>ons when I spake w<ex>i</ex>th you laste I tolde you that the standinge <lb/>
+            of the com<ex>m</ex>union table was to me a thinge soe indifferente that vnlesse offence <lb/>
+            were taken by the Towne against yt I shoulde never remove yt. That w<ex>hi</ex>ch I <lb/>
+            did not then suspecte is come to passe <gap unit="chars" extent="3"/> Your Alderman whome I haue <lb/>
+            knowne theise 17: or 18. yeres to bee a discreete and modeste man farr from <lb/>
+            the humor of innovation togeather w<ex>i</ex>th the better sorte of the towne have <lb/>
+            complayned against yt, and I haue w<ex>i</ex>thout takinge notice of you or any touche <lb/>
+            in one sillable upon yo<ex>u</ex>r reputac<ex>i</ex>on appointed the Churchwardens whome <lb/>
+            yt doth necessarily concerne vnder the diocesan to alter yt for the tyme <lb/>
+            as you may see by the copie inclosed./ Nowe for yo<ex>u</ex>r owne satisfaction and <lb/>
+            my poore advise for the future, I haue written unto you somewhat more att <lb/>
+            large then I use to expresse my selfe in this kynde. I doe therfore (to deale <lb/>
+            playnly w<ex>i</ex>th you) <del rend="strikethrough">
+                    <gap reason="torn" quantity="4" unit="chars"/>
+                </del> of many things well, and disalowe of some other thinges in yo<ex>u</ex>r <lb/>
+            carriage of the <unclear reason="torn">bu</unclear>sinesse. It is well done that you affecte decency &amp; comlynesse <lb/>
+            in the officiatinge of divine service: that you presidente yo<ex>u</ex>r selfe w<ex>i</ex>th the formes <lb/>
+            in his ma<ex>jes</ex>ties chapple, and in the Quyres in the Cathedrall Churche: yf yo<ex>u</ex>r <lb/>
+            Quier (as those other) coulde contayne yo<ex>u</ex>r whole congregation, and that you doe <lb/>
+            the <hi rend="underline">reverence appointed by the Cannons to the blessed name of Iesus</hi>, soe it bee <lb/>
+            done humbly not affectedly to p<ex>ro</ex>cure the devotion, not the derision of the <lb/>
+            p<ex>ar</ex>ishioners, and that you doe not mayntayne yt <foreign xml:lang="la">rationibus non cogentibus</foreign> <lb/>
+            and soe spoyle a good cause by a badd argum<ex>en</ex>t: Those thinges I allowe and <lb/>
+            practise: but that you shoulde bee soe violente for an aulter att the upper <lb/>
+            ende of the Quier, that yo<ex>u</ex>r table oughte to stande aulterwise, that the fixinge <lb/>
+            therof in the Quier is canonicall, and that it oughte not to bee removed in <lb/>
+            the body of the churche I conceive to bee in you soe many mistakinges: for that <lb/>
+            yf you should erecte such an aulter w<ex>hi</ex>ch I knowe you will not yo<ex>u</ex>r discretion <lb/>
+            <add place="LM">
+               * Article 31.
+            </add>
+            will prove the only holocoste to bee offred on the same for you subscribed * <lb/>
+            <add place="LM">
+               ∴ homely of the <lb/>
+               sacramente
+            </add>
+            when you came to the place that <hi rend="underline">the other oblation w<ex>hi</ex>ch the Papistes were wonte to offer <lb/>
+            upon there aulters is a blasphemous figmente</hi> and p<ex>er</ex>nitious imposture, ∴ and also that <lb/>
+            wee in the churche of Englande must take heede leaste our com<ex>m</ex>union of a memory <lb/>
+            <add place="LM">
+               ☿ Canons of y<hi rend="superscript">e</hi> <lb/>
+               convocation <lb/>
+               1571. pag:18./
+            </add>
+            bee made a sacrifice.☿ And it is <hi rend="underline">not the vicar but the Churchwardens whoe are <lb/>
+            to p<ex>ro</ex>vide for the com<ex>m</ex>unicantes not an aulter, but a fayre ioyned table</hi>, And <lb/>
+            <hi rend="underline">that the Aulters were removed by the Lawe</hi> and tables placed in there steede in <lb/>
+            <add place="LM">
+               ◦→ Canon. 82.
+            </add>
+            all or most churches of Englande appieres by the Queenes Iniunctions 1559. ◦→ <lb/>
+            and soe confirmed in the pointe by the cannons still in force: And therfore <lb/>
+            <add place="LM">
+               ◦+◦ 1<del rend="strikethrough">0</del> Eliz: Iniunction <lb/>
+               for tables in the <lb/>
+               churche./
+            </add>
+            I knowe you will not turne a table into an aulter w<ex>hi</ex>ch vicars were never <lb/>
+            inabled to sett upp.◦+◦ but were once allowed w<ex>i</ex>th others to pull downe. <lb/>
+            For the seconde parte, that the com<ex>m</ex>union table is to stande aulterwise, yf it were <lb/>
+            in that place of the chauncell where the aulter stoode I thinke some what may <lb/>
+            bee saide for that <hi rend="underline">because the Iniunction .1559. did soe place yt</hi>, and I conceive <lb/>
+            yt to bee the most quaynte situation when it is not used, and for use to <lb/>
+            where the Quyer is mounted upp by stepps and open, soe that hee that officiates <lb/>
+            may bee seene and hearde of the congregation, but such a one I am informed <lb/>
+            yo<ex>u</ex>r Chauncell is not: but yf you meane by aulter-wise that the table shoulde <lb/>
+            stande alonge close by the wall, so that you may bee forced to officiate att <lb/>
+            th'one ende of yt (as you observed in greate mens Chappells) I doe not <lb/>
+            beleive that ever the com<ex>m</ex>union Table was otherwise then by casualtie soe placed <lb/>
+            <add place="LM">
+               * An<ex>n</ex>o 3: Eliz. <lb/>
+               orders. 1561.
+            </add>
+            in the country churches for (besides the country people woulde thinck them <lb/>
+            dressers rather then tables) Queene Elizabethes Com<ex>m</ex>issioners for causes <lb/>
+            <add place="LM">
+               <hi rend="superscript">&amp;</hi> rubricke be=<lb break="no"/>
+               for the com<ex>m</ex>union
+            </add>
+            ecclesiasticall* directed that the table shoulde stande not where the aulter <lb/>
+            but where the steppes of the aulter formerly stoode<hi rend="superscript">&amp;</hi> The ministers
+            <fw type="catch" place="bot-right">appoynted to reade</fw>
+            <pb n="55r"/> 
+            reade the com<ex>m</ex>union (w<ex>hi</ex>ch you out of the book of the faste <add place="above">in</add>
+                <del rend="strikethrough">of</del> the firste of the kinge <lb/>
+            are pleased to call seconde service) are directed to reade the com<ex>m</ex>aundementes <lb/>
+            not att the ende but att the northside of the table w<ex>hi</ex>ch implies the end to bee placed <lb/>
+            <add place="LM">
+               * trobles of Franck=<lb break="no"/>
+               forde pag.30./
+            </add>
+            towardes the greate easte wyndowe. nether was this a newe direction in the Queenes <lb/>
+            tyme only but practised in kinge Edwardes raigne * For in the plott of o<ex>u</ex>r Leturgie sente <lb/>
+            unto Mr: Whitingham and Mr: Calvin in the raigne of Queene Mary the ministers <lb/>
+            are com<ex>m</ex>aunded to stande att the North=side of the table, and soe in kinge Edwardes <lb/>
+            Liturgie the ministers <add place="above">standinge</add> <del rend="strikethrough">
+                    <gap reason="illegible" quantity="9" unit="chars"/>
+                </del> <add place="above">standinge</add> in the middest of the aulter is chaunged into his <lb/>
+            standinge att the northside of the aulter 1552. And I beleeve it is used att this <lb/>
+            daye in most places of Englande./ What you sawe in Chappells &amp; Cathedrall <lb/>
+            churches is not the pointe in question, but howe the tables are appointed to bee <lb/>
+            placed in parrishe Churches: In some of the chapples and Cathedralls the <lb/>
+            aulters may bee yet standinge for ought I knowe; or to make use of their <lb/>
+            coveringes, or ornamentes tables may bee placed in there roome of the same <lb/>
+            lengthe and fashion the aulters were: wee knowe <hi rend="underline">the aulters stande still in <lb/>
+            the Lutherane churches</hi> and the Apologie for the Augustine confession Act <lb/>
+            <add place="LM">
+               ≠ Liturgie printed <lb/>
+               1544.
+            </add>
+            allowes yt./≠ The Aulters stoode in a yere or two of the raigne of kinge <lb/>
+            Edw:6. as appeares.*/ And it seemes the Queenes Com<ex>m</ex>issioners were <lb/> 
+            <add place="above">
+               *Iniunction 1559.
+            </add>
+            contente they shoulde stande, but howe is this to bee vnderstoode of the sacrifice <lb/>
+            <add place="above">
+               ♀ 24: No:4:Ed:6. <lb/>
+               1559.
+            </add>
+            of the masse beinge abolished? They (call them what you will) are not more <lb/>
+            aulters but tables of stone or tymber ♀ And so it was alleaged <foreign xml:lang="la">Sublato <lb/>
+               enim relativo formali navet absolut et naturale tantu<ex>m</ex>
+                </foreign>, and soe they <lb/>
+            <add place="LM">
+               ∴ Actes and Mo=<lb break="no"/>
+               num<ex>en</ex>tes pag: 1212./
+            </add> 
+            may bee used in kinges or B<ex>isho</ex>ps howses where there are noe people soe <lb/>
+            voyde of instruction as to bee scandalized.∴/ For <hi rend="underline">upon the beatinge downe of Alters <lb/>
+            1550 all Dioces did agree upon receavinge Tables</hi> but not upon the forme or <lb/>
+            fashion of there tables: Besides that in the olde testamente one and the same <lb/>
+            thinge is termed an aulter and a table, an aulter in respecte of what wee <lb/>
+            there offer unto God, a table in respecte of what is there p<ex>ar</ex>ticipated by men: <lb/>
+            <add place="LM">
+               ≠ mall:1:7.
+            </add>
+            as for example by the priestes:≠ so that you haue Gods alter the same  w<ex>i</ex>th the table <lb/>
+            the place is worthe the markinge. for it answers to the very obiection of hebr: <lb/>
+            13: 10. w<ex>hi</ex>ch you made vnto some of yo<ex>u</ex>r fellowe ministers and one mr: Morgan; <lb/>
+            before you to Peter Martyr in a disputation att Oxforde: wee haue noe <lb/>
+            alter in regarde of any oblation but wee haue an aulter in regarde of <lb/>
+            <add place="LM">
+               ≁ Actes &amp; Monumentes <lb/>
+               pag: 1211./
+            </add>
+            p<ex>ar</ex>ticipation and comunion.≁  Hee graunted unto us the use of an alter is to <lb/>
+            sacrifice upon, the use of a table to eate upon: and because com<ex>m</ex>union is an <del rend="strikethrough">alter</del>
+                <lb/>
+            action most proper to a table as an oblation is to an aulter, therfore the <lb/>
+            churche in our Leturgie callinge yt a table, doe not you call yt an aulter:/ <lb/>
+            In kinge Edwardes Liturgie 1449. it is every where putt, but in that of <lb/>
+            1552. it is noe where called an aulter but the lordes borde, why? because <lb/>
+            the people beinge scandalized therby in country churches beate them downe <lb/>
+            <hi rend="italic">de facto</hi>, then the supreme magistrates did beate them downe <hi rend="italic">de iure</hi>, and <lb/>
+            <add place="LM">
+               ☿ Iniunction 1559.
+            </add>
+            settinge tables in there roomes <hi rend="underline">tooke away from us the children of the churche</hi> <lb/>
+            <add place="LM">
+               * actes &amp; monumentes <lb/>
+               pag: 1211.
+            </add>
+            <hi rend="underline">and com<ex>m</ex>on wealthe both the name and the nature of the com<ex>m</ex>on aulters</hi>☿. <lb/>
+            as you may see * referringe to the order of kinge Edwarde and his councell <lb/>
+            menconed. And I hope you haue more learninge then to conceave the Lordes <lb/>
+            table a newe name and soe to bee ashamed of the worde. For besides that Christe <lb/>
+            <add place="LM">
+               % actes &amp; monumentes <lb/>
+               pag:1211.
+            </add>
+            himselfe instituted this sacramente on a table and not on an aulter<hi rend="superscript">%</hi> As <lb/>
+            Archb<ex>ishop</ex> Cranmer observes and others. It <hi rend="underline">is in the Churche att leaste 200. <lb/>
+               yeres more <hi rend="italic">ancyente then the name of Aulter</hi>
+                </hi> as you may see lernedly <lb/>
+            <add place="LM">
+               1.Cor:11:
+            </add>
+            proved out of St: Paul, Origen, Arnobius or <del rend="strikethrough">Al</del> Arnaldus: yf you doe but <lb/>
+            reade a booke w<ex>hi</ex>ch is in your churche <hi rend="underline">Iewell againste Hordinge of <lb/>
+               masse <del rend="strikethrough">article</del> art 30. pag: 145.</hi> And whether this name of Aulter came into <lb/>
+            the churche in a kynde of complyinge and phrase w<ex>hi</ex>ch the people of the Iewes <lb/>
+            as I haue reade in Chemnitius, Gerlard and other sounde Protestantes <lb/>
+            <hi rend="align-right">with <del rend="strikethrough">yet</del> such as suffer alters to stande, or that yt </hi>
+            <pb n="55v"/>
+            or that yt p<ex>ro</ex>ceeded from the oblations made on the comunion table for the use <lb/>
+            of the prieste and the poore, wherof wee reade in Iustice martyr, Ireneus <lb/>
+            <add place="LM">
+               * actes &amp; monumentes <lb/>
+               pag: 1211./
+            </add>
+            Tertullian and other ancyente writters, or because of the sacrifice of prayer <lb/>
+            and thanckes givinge * as Cranmer and others thoughte, the name beinge soe <lb/>
+            many waies abolished in the churche, It is fitter in my Iudgmente that the <lb/>
+            aulter (yf you will needes soe call yt) shoulde accordinge to the cannon stande <lb/>
+            table wise, then the table (to trouble the poore towne of Grantham) <lb/>
+            shoulde bee erected aulter wise. Lastly that the table shoulde stande <lb/>
+            in the higher parte of the Chauncell you haue my assente in opinion, but <lb/>
+            <hi rend="underline">that yt shoulde bee there fixed is soe farre from beinge Can<ex>n</ex>onicall that <lb/>
+            it is directly againste the cannons</hi>. For what is the Rubricke of the <lb/>
+            Churche but a cannon, and <hi rend="underline">the Rubricke saithe yt shall stande in the <lb/>
+            body of the churche, or in the Chauncell</hi>, where morninge and eveninge <lb/>
+            prayers are appointed to bee saide. yf therfore the morninge and <lb/>
+            <add place="LM">
+               * <lb/>
+               Iniunction Queene <lb/>
+               Eliz: 1559.
+            </add>
+            eveninge prayer bee appointed to bee saide in the body of the churche as <lb/>
+            in most country churches, where shall yt stande more Can<ex>n</ex>on<ex>n</ex>ically? * <lb/>
+            And soe is the table to bee made removeable (when the com<ex>m</ex>union is to bee cele=<lb break="no"/>
+            brated to such a place as the minister may bee most conveniently hearde <lb/>
+            of the comunicantes and so saith the Cannon in force, that in the tyme of the <lb/>
+            Com<ex>m</ex>union the table shalbee placed in soe good sorte w<ex>i</ex>thin the Churche or <lb/>
+            Chauncell as therby the minister may bee most conveniently hearde. <lb/>
+            Nowe iudge you whether this table w<ex>hi</ex>ch like Dedalus his engines moves &amp; <lb/>
+            removes from place to place, and that by the inwarde wheeles of the churche <lb/>
+            cannons, bee fitly resembled by you to an aulter w<ex>hi</ex>ch stirres not an ynche, and <lb/>
+            that Can<ex>n</ex>onically. But yf you desire to knowe out of <hi rend="italic">Eusebius, Augustine</hi>, <lb/>
+            Durandus, and the 9th councell of Constantinople howe longe com<ex>m</ex>union <lb/>
+            <add place="LM">
+               * <lb/>
+               Iewell ag<ex>ains</ex>t Hordinge <lb/>
+               of private masse: <lb/>
+               art:3. pag:144.
+            </add>
+            tables haue stoode in the middest of the churche,* reade a book w<ex>hi</ex>ch you are <lb/>
+            bounde to reade and you shalbee satisfied./ The sum<ex>m</ex> of all is this. <lb/>
+            .1. you may not erecte an Aulter when the Cannons allowe only of a <lb/>
+            comunion table. 2.ly This table must not stande aulter-wise &amp; you <lb/>
+            att the Northe ende therof, but table wise, and you must officiate att the <lb/>
+            northe side. 3:ly this table ought to bee layde upp, decently covered <lb/>
+            in the Chauncell only as I suppose, but oughte not to bee officiated on <lb/>
+            in the first or seconde service (as you distinguishe them.) but in that <lb/>
+            place of yo<ex>u</ex>r churche or chauncell where you may bee most conveniently <lb/>
+            hearde and seene of all. 4:ly thoughe p<ex>er</ex>adventure you bee (w<ex>i</ex>th him <lb/>
+            in Tacitus) master of yo<ex>u</ex>r owne, yet are you not of other mens eares <lb/>
+            ergo yo<ex>u</ex>r parrishioners must bee iudges <sic>Iudges</sic> of yo<ex>u</ex>r audiablenesse in <lb/>
+            this case. 5:ly whether side you or yo<ex>u</ex>r parrishe shall first yelde in <lb/>
+            <hi rend="underline">this needlesse controversie</hi>, shall remayne, in my poore Iudgmente <lb/>
+            the more discreete grave or lerned of the two: and by that tyme <lb/>
+            you haue gayned more experience in the cure of soules <hi rend="underline">you shall</hi> <lb/>
+            <hi rend="underline">finde noe such ceremony profitable to christian charity</hi>: to w<ex>hi</ex>ch I <lb/>
+            com<ex>m</ex>ende you and am ever
+         </p>
+         <p rend="align-right">
+            yo<ex>u</ex>r lovinge Frynde
+            Jo: Lyncolne./
+         </p>
+         <p>
+            To erecte an alter, is to derogates from Chr<ex>ist</ex> For where an <lb/>
+            alter is erected, yt p<ex>re</ex>supposeth a sacrifice to bee offred on <lb/>
+            that alter, as Papists p<ex>re</ex>tende they theron offer a p<ex>ro</ex>pitiatory <lb/>
+            sacrifice of Chr<ex>ist's</ex> body. yf so then the alter is greater, then <lb/>
+            the offringe, for it sanctifieth the offringe as o<ex>u</ex>r savior Chr<ex>ist</ex> <lb/>
+            saith Math: 23 :19:20:21:22./&amp;c. and by consequence Chr<ex>ist</ex> <lb/>
+            is sanctified by the alter./ <foreign xml:lang="la">O amentes, or dementes &amp; insani Papiste</foreign>!/ 
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_35331/add_ms_35331_f054v/add_ms_35331_f054v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_35331/add_ms_35331_f055r/add_ms_35331_f055r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_35331/add_ms_35331_f055v/add_ms_35331_f055v.jpg"/>
+   </facsimile>
+</TEI>
