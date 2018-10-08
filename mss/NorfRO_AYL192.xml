@@ -47,17 +47,16 @@
             <msContents>
                <msItem n="1">
                   <locus/>
-                  <title>Letter to the Judges Regarding Ship Money</title>
-                        <author>
-               <persName corresp="../people/people.xml#P0007">Charles I</persName>
-            </author>
+                  <title when="1622">The Truth Teller [or, Tom Tell-Troth]</title>
+                     <author/>
                   <respStmt>
                      <resp/>
                      <name>
                         <persName/>
                      </name>
                   </respStmt>
-                  <link target="../texts/CharlesLetterJudges1637.xml" type="witness"/>
+                  <link target="../texts/TomTellTroth1622v2.xml" type="t_witness"/>
+                  <link target="../texts/TomTellTroth1622v1.xml" type="witness"/>
                   <msDesc>
                      <msIdentifier/>
                      <history>
@@ -69,15 +68,37 @@
                </msItem>
                <msItem n="2">
                   <locus/>
-                  <title>Tom Tell-Troth; or, a Free Discourse Touching the Rumours of the Times</title>
-                        <author/>
+                  <title>The Arugment of the Commons Concerning the Liberties of the Person and Every Free Man, with the Objections of the King's Council</title>
+                  <author/>
                   <respStmt>
                      <resp/>
                      <name>
                         <persName/>
                      </name>
                   </respStmt>
-                  <link target="../texts/TomTellTroth1622.xml" type="witness"/>
+                  <link target="../texts/ArgumentCommonsLiberties.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus/>
+                  <title when="1637">Letter to the Judges Regarding Ship Money</title>
+                     <author>
+                        <persName corresp="../people/people.xml#P0007">Charles I</persName>
+                     </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/CharlesLetterJudges1637.xml" type="t_witness"/>
                   <msDesc>
                      <msIdentifier/>
                      <history>
@@ -102,4 +123,40 @@
          </msDesc>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/nro/ayl_192/ayl_192-001/ayl_192-001.jpg"/>
+      <graphic n="2" url="/nro/ayl_192/ayl_192-002/ayl_192-002.jpg"/>
+      <graphic n="3" url="/nro/ayl_192/ayl_192-003/ayl_192-003.jpg"/>
+      <graphic n="4" url="/nro/ayl_192/ayl_192-004/ayl_192-004.jpg"/>
+      <graphic n="5" url="/nro/ayl_192/ayl_192-005/ayl_192-005.jpg"/>
+      <graphic n="6" url="/nro/ayl_192/ayl_192-006/ayl_192-006.jpg"/>
+      <graphic n="7" url="/nro/ayl_192/ayl_192-007/ayl_192-007.jpg"/>
+      <graphic n="8" url="/nro/ayl_192/ayl_192-008/ayl_192-008.jpg"/>
+      <graphic n="9" url="/nro/ayl_192/ayl_192-009/ayl_192-009.jpg"/>
+      <graphic n="10" url="/nro/ayl_192/ayl_192-010/ayl_192-010.jpg"/>
+      <graphic n="11" url="/nro/ayl_192/ayl_192-011/ayl_192-011.jpg"/>
+      <graphic n="12" url="/nro/ayl_192/ayl_192-012/ayl_192-012.jpg"/>
+      <graphic n="13" url="/nro/ayl_192/ayl_192-013/ayl_192-013.jpg"/>
+      <graphic n="14" url="/nro/ayl_192/ayl_192-014/ayl_192-014.jpg"/>
+      <graphic n="15" url="/nro/ayl_192/ayl_192-015/ayl_192-015.jpg"/>
+      <graphic n="16" url="/nro/ayl_192/ayl_192-016/ayl_192-016.jpg"/>
+      <graphic n="17" url="/nro/ayl_192/ayl_192-017/ayl_192-017.jpg"/>
+      <graphic n="18" url="/nro/ayl_192/ayl_192-018/ayl_192-018.jpg"/>
+      <graphic n="19" url="/nro/ayl_192/ayl_192-019/ayl_192-019.jpg"/>
+      <graphic n="20" url="/nro/ayl_192/ayl_192-020/ayl_192-020.jpg"/>
+      <graphic n="21" url="/nro/ayl_192/ayl_192-021/ayl_192-021.jpg"/>
+      <graphic n="22" url="/nro/ayl_192/ayl_192-022/ayl_192-022.jpg"/>
+      <graphic n="23" url="/nro/ayl_192/ayl_192-023/ayl_192-023.jpg"/>
+      <graphic n="24" url="/nro/ayl_192/ayl_192-024/ayl_192-024.jpg"/>
+      <graphic n="25" url="/nro/ayl_192/ayl_192-025/ayl_192-025.jpg"/>
+      <graphic n="26" url="/nro/ayl_192/ayl_192-026/ayl_192-026.jpg"/>
+      <graphic n="27" url="/nro/ayl_192/ayl_192-027/ayl_192-027.jpg"/>
+      <graphic n="28" url="/nro/ayl_192/ayl_192-028/ayl_192-028.jpg"/>
+      <graphic n="29" url="/nro/ayl_192/ayl_192-029/ayl_192-029.jpg"/>
+      <graphic n="30" url="/nro/ayl_192/ayl_192-030/ayl_192-030.jpg"/>
+      <graphic n="31" url="/nro/ayl_192/ayl_192-031/ayl_192-031.jpg"/>
+      <graphic n="32" url="/nro/ayl_192/ayl_192-032/ayl_192-032.jpg"/>
+      <graphic n="33" url="/nro/ayl_192/ayl_192-033/ayl_192-033.jpg"/>
+      <graphic n="34" url="/nro/ayl_192/ayl_192-034/ayl_192-034.jpg"/>
+   </facsimile>
 </TEI>

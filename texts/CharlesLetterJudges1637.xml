@@ -22,12 +22,27 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="SW">
+               <name>Susan Ward</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/NorfRO_AYL192.xml">
+               <msIdentifier xml:id="NorfRO_AYL192">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>AYL/192</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">Norfolk Record Office,  AYL/192</p>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
@@ -82,9 +97,6 @@
                         <ref type="ms" target="../mss/Inner_Temple_Petyt_MS_538_27.xml">Inner Temple Library, Petyt MS 538/27, ff. 141r–143r</ref>
                     </bibl>
                     <bibl>
-                        <ref type="ms" target="../mss/NorfRO_AYL192.xml">Norfolk Record Office,  AYL/192</ref>
-                    </bibl>
-                    <bibl>
                         <ref type="ms" target="../mss/NorthsRO_IC_3536.xml">Northamptonshire Record Office, IC 3536</ref>
                     </bibl>
                     <bibl>
@@ -137,6 +149,10 @@
             <date when="1637">1637</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term>letter</term>
@@ -155,13 +171,433 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-25" who="#RB" status="draft"/>
+            <change when="2018-08-20" who="#SW" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="[1r]" facs="/nro/ayl_192/ayl_192-027/ayl_192-027.jpg"/>
+         <head>
+            The Kings Lre &amp; case w<ex>it</ex>h the <lb/>
+            Judges Resoluc<ex>i</ex>ons thervpon <lb/>
+            and my Lord Keepers Speech <lb/>
+            in the Stare chamber <lb/>
+            14o Febr 1636
+         </head>
+         <pb n="[1v]" facs="/nro/ayl_192/ayl_192-028/ayl_192-028.jpg"/>
+         <space extent="1" unit="page"/>
+         <pb n="[2r]" facs="/nro/ayl_192/ayl_192-028/ayl_192-028.jpg"/>
+         <p>
+            Carolus Rex: /
+         </p>
+         <p>
+            Trusty &amp; well beloved wee greet <lb/>
+            you weell wee takinge into oure <lb/>
+            princely Consideration that the <lb/>
+            Honor &amp; safety of this our Realme <lb/>
+            of England, the preseruation whereof <lb/>
+            is only Intrusted to oure care was <lb/>
+            and is nowe more nearly concer~<lb break="no"/>
+            ~ned then in former times aswell <lb/>
+            by divers Councells &amp; attempts to <lb/>
+            take from vs the dominion of the <lb/>
+            seas of whiche wee ar sole Lord <lb/>
+            &amp; Rightefull owner &amp; the Losse <lb/>
+            whereof would bee of greeter <lb/>
+            danger &amp; perrill to this Kingdome <lb/>
+            &amp; other oure dominions as many <lb/>
+            other waies wee for the auoidinge <lb/>
+            of theis &amp; the like dangers and <lb/>
+            well weighinge w<ex>i</ex>th oure selues <ex>tha</ex>t <lb/>
+            where the good &amp; safety of the <lb/>
+            Kingdome in gennerall is Concerned <lb/>
+            and the whole Kingdome in dan~<lb break="no"/>
+            ger there the charge &amp; defence <lb/>
+            ought to be borne by all the Realme <lb/>
+            <fw type="catch" place="bot-right">in</fw> <lb/>
+            <pb n="[2v]" facs="/nro/ayl_192/ayl_192-029/ayl_192-029.jpg"/>
+            in gennerall did by preuentinge <lb/>
+            so gennerall A mischeife resolue <lb/>
+            with our selues to haue a Royall <lb/>
+            Navy prouided that might bee <lb/>
+            of force and power with Allmightie <lb/>
+            gods blessinge and Asistance to defen<unclear>d</unclear> <lb/>
+            this oure Realme &amp; our subiects <lb/>
+            therein from all perrills And <lb/>
+            for that purpose wee sent forty <lb/>
+            writts under our great seale <lb/>
+            of England directed to all the <lb/>
+            Sherifes of our seuerall Counties <lb/>
+            in England &amp; wales thereby <lb/>
+            commandinge all our said Subiects <lb/>
+            in euery Cittie towne &amp; village to <lb/>
+            prouide such a number of Shipps <lb/>
+            well furnished as might bee do<unclear>nn</unclear>e <lb/>
+            by the greatest equality that <lb/>
+            might bee in p<ex>er</ex>formance where of <lb/>
+            thoughe genneraly through all <lb/>
+            the Counties of this our Realme <lb/>
+            wee haue found in our subiects <lb/>
+            great Cheerfullnes &amp; Alacrity <lb/>
+            which wee gratiusly interprett <lb/>
+            as a testimony as well of their <lb/>
+            dutifull affections to vs &amp; our <lb/>
+            <fw type="catch" place="bot-right">seruice /</fw>
+            <pb n="[3r]" facs="/nro/ayl_192/ayl_192-029/ayl_192-029.jpg"/>
+            seruice as of their respects they <lb/>
+            haue to the publicke which well <lb/>
+            becomes euery good subiect never <lb/>
+            the lese finding some fewe <lb/>
+            happily out of ignorance knowinge <lb/>
+            not what the Lawes &amp; Customes <lb/>
+            of our Realme are or out of a desire <lb/>
+            to bee eased and freed in their <lb/>
+            p<ex>ar</ex>ticuler (howe gennerall soeuer <lb/>
+            the Charge ought to bee. haue <lb/>
+            not yet payed and Contributed <lb/>
+            the seuerall rates &amp; Asesments that <lb/>
+            were sett vppon them. And fore <lb/>
+            seeinge in our princely wisdome <lb/>
+            that from hence diuers suites and <lb/>
+            victio<unclear>u</unclear>s are not vnlikely to bee <lb/>
+            comenced and prosecuted in oure <lb/>
+            seuerall Courts att westminster wee <lb/>
+            desirous to avoide suche in Con<unclear>v</unclear>eniences <lb/>
+            and out of our princely Loue and <lb/>
+            affection to all oure people beinge <lb/>
+            willinge to prevent such errors <lb/>
+            as any of oure Louinge subiects may <lb/>
+            happen to runn into haue thought <lb/>
+            fitt in Case of this nature to advise <lb/>
+            <fw type="catch" place="bot-right">with /</fw>
+            <pb n="[3v]" facs="/nro/ayl_192/ayl_192-030/ayl_192-030.jpg"/>
+            with our Judges who wee doubt not <lb/>
+            are well <unclear>s</unclear>tudied and informed <lb/>
+            in the Rights of oure Souerainty <lb/>
+            And because the tryalls of oure <lb/>
+            seuerall Courtes by their formalites <lb/>
+            and pleadinges will require longe <lb/>
+            protractions wee haue thought <lb/>
+            expedient by this our letter <lb/>
+            directed to you all to require <lb/>
+            yo<ex>ur</ex> Judgements in the cause <lb/>
+            as is sett downe in the inclosed <lb/>
+            paper which will not onely <lb/>
+            gaine time by alsoe bee of mor<unclear>e</unclear> <lb/>
+            Authority to ouer rule any p<ex>re</ex>
+                <unclear/> <lb/>
+            indirect opinions of others in this <lb/>
+            poynt. /
+         </p>
+         <p>
+            White Hall 2 Febr: / 1.6.3.6.
+         </p>
+         <p>
+            To oure trustie &amp; welbeloued S<ex>i</ex>r <lb/>
+            John Bramstone K<ex>nigh</ex>t: Cheife Justice <lb/>
+            of our Bench s<ex>i</ex>r John Finch K<ex>nigh</ex>t Cheif <lb/>
+            Justice of our Com<ex>m</ex>on pleas S<ex>i</ex>r Hum <lb/>
+            frey dauenport K<ex>nigh</ex>t Cheife Barro<unclear>n</unclear> <lb/>
+            of our Co<ex>ur</ex>t of Exchecquor &amp; to the <unclear/> <lb/>
+            of our Judges of the Bench &amp; Com<ex>m</ex>on <lb/>
+            <fw type="catch" place="bot-right">pleas. /</fw> 
+            <pb n="[4r]" facs="/nro/ayl_192/ayl_192-030/ayl_192-030.jpg"/> 
+            pleas &amp; Barrons of our Exchequo<ex>r</ex>
+         </p>
+         <p>
+            Caroulus Rex: /
+         </p>
+         <p>
+            When the good and safety of the <lb/>
+            kingdome in generall is Concerned <lb/>
+            and the whole kingdome in danger <lb/>
+            whither may not the kinge <lb/>
+            by writte vnder the Great Seale <lb/>
+            of England Comand all the subiects <lb/>
+            of this Kingdome to provide &amp; <lb/>
+            and furnishe such number of <lb/>
+            shippes with men victuall &amp; municion <lb/>
+            for such times as hee shall thinke <lb/>
+            fitt for the defence &amp; sauegard of <lb/>
+            the Kingdome from danger &amp; per~<lb break="no"/>
+            rill, and by Lawe Compell the <lb/>
+            dooinge thereof in case of Refusall <lb/>
+            or Refractories./
+         </p>
+         <p>
+            And whither in such case is not <lb/>
+            the Kinge sole Judge bothe of the <lb/>
+            danger &amp; when &amp; howe the same <lb/>
+            is to bee preuented &amp; auoided <lb/>
+            <add place="LM">
+               The Judges <lb/>
+               Answer./
+            </add>
+            Maie it please your moste Ex=<lb break="no"/>
+            cellent: Ma<ex>jes</ex>tie <lb/>
+            wee haue accordinge to yo<ex>ur</ex> Ma<ex>je</ex>sties <lb/>
+            <fw type="catch" place="bot-right">Com<ex>m</ex>and /</fw> 
+            <pb n="[4v]" facs="/nro/ayl_192/ayl_192-031/ayl_192-031.jpg"/>
+            com<ex>m</ex>and seueraly euerie man by <lb/>
+            him selfe and all of vs together <lb/>
+            taken into our serious Consdierat-<lb break="no"/>
+            tion the Case and questions signed <lb/>
+            by yo<ex>ur</ex> Ma<ex>jes</ex>tie and inclosed in <lb/>
+            yo<ex>ur</ex> Royall Letter and wee arr <lb/>
+            of oppinion that when the good &amp; <lb/>
+            safety of the Kingdome in gener=<lb break="no"/>
+            =all, is Concerned and the whole <lb/>
+            Kingdome in danger yo<ex>ur</ex> Ma<ex>jes</ex>tie <lb/>
+            maie by writt vnder the Great <lb/>
+            Seale of England Com<ex>m</ex>and all <lb/>
+            the Subiects of this Kingdome <lb/>
+            att their Charges to prouide &amp; <lb/>
+            furnishe such number of Shipps <lb/>
+            w<ex>i</ex>th men victuall &amp; municion &amp; <lb/>
+            for such time as your Ma<ex>jes</ex>tie <lb/>
+            shall thinke fitt for the defence <lb/>
+            &amp; safety of the Kingdome from <lb/>
+            such danger &amp; perrill and that <lb/>
+            by Lawe yo<ex>ur</ex> Ma<ex>jes</ex>tie maie compell <lb/>
+            the doinge there of in Case <lb/>
+            of refusall or Refractories. / <lb/>
+            And wee are alsoe of opinion <lb/>
+            <fw type="catch" place="bot-right">that. /</fw>
+            <pb n="[5r]" facs="/nro/ayl_192/ayl_192-031/ayl_192-031.jpg"/>
+            that in such Case yo<ex>ur</ex> Ma<ex>jes</ex>tie is the <lb/>
+            sole Judge bothe of the danger &amp; <lb/>
+            howe the same is to bee preuented <lb/>
+            &amp; auoided.
+         </p>
+         <p>
+            10th Febr: 1.6.3.6.
+         </p>
+         <p>
+            <cb/>
+            <lg>
+               <l>Iohn. Bramstone</l>
+               <l>Iohn. Finch.</l>
+               <l>Humfrey. Dauenport.</l>
+               <l>Iohn. Denham.</l>
+               <l>Richard Hutton</l>
+               <l>Willia<ex>m</ex> Iones.</l>
+            </lg>
+                <cb/>
+            <lg>
+               <l>George. Crooke.</l>
+               <l>Thomas. Teuer.</l>
+               <l>George. Vernon.</l>
+               <l>Robtt. Barkley</l>
+               <l>Francis. Crawley.</l>
+               <l>Rich<ex>ard</ex>. Weston.</l>
+            </lg>
+         </p>
+         <p>
+            The Lord Keepers speeche in the <lb/>
+            Stare chamber 24th Febr: 1.6.3.6.
+         </p>
+         <p>
+            You my Lo<ex>rd</ex>s the Judges as in former <lb/>
+            times soe nowe you are to rec<unclear/> <lb/>
+            his Ma<ex>jes</ex>ties Com<ex>m</ex>and in this place <lb/>
+            It is a great Comfort to his people <lb/>
+            to receiue Justice from his Ma<ex>jes</ex>tie <lb/>
+            not onely by his generall Con<unclear/> <lb/>
+            but also by his owne princely <lb/>
+            instructions somethinges concerninge <lb/>
+            Commitati<unclear/> Justice as in that <lb/>
+            which is meum et tum some <lb/>
+            <fw type="catch" place="bot-right">distributiues /</fw> 
+            <pb n="[5v]" facs="/nro/ayl_192/ayl_192-032/ayl_192-032.jpg"/> 
+            distributiue as in premium<unclear/> &amp; pena <lb/>
+            some are priuat some publike <lb/>
+            some <unclear/> of particular p<ex>er</ex>sons <lb/>
+            some <unclear/> suorum Regnorum some <lb/>
+            are grauioru<ex>m</ex> hec oportet fieri illa <lb/>
+            non omittere.
+         </p>
+         <p>
+            Betweene p<ex>ar</ex>ty &amp; p<ex>ar</ex>ty his Ma<ex>jes</ex>tie <lb/>
+            Comands <unclear>the</unclear> ympartiall iustice with <lb/>
+            Care and expedicion Triuiall suites <lb/>
+            are to bee discountenanced Barre<unclear>t</unclear>=<lb break="no"/>
+            =ors to be discoraged theis empty <lb/>
+            not only mens simplenes but alsoe <lb/>
+            mens purses more is expected <lb/>
+            then priuat Justice for the pub=<lb break="no"/>
+            =like bussines of the Countrie <lb/>
+            is of Moste Importance His <lb/>
+            Ma<ex>jes</ex>tie Com<ex>m</ex>ands that his seruices <lb/>
+            and the publicke bee not passed <lb/>
+            till after Nisi prius yo<ex>ur</ex> Care and <lb/>
+            example will teach Justices of the <lb/>
+            Peace their duties the service <lb/>
+            of god is cheifly to bee regarded <lb/>
+            The execution of the Lawes against <lb/>
+            Recusants that such proceeded <lb/>
+            <fw type="catch" place="bot-right">against. /</fw>
+            <pb n="[6r]" facs="/nro/ayl_192/ayl_192-032/ayl_192-032.jpg"/>
+            against, and Convicted alsoe care <lb/>
+            to bee had of fellows Cappitall =<lb break="no"/>
+            offenders and robbers on the Highe <lb/>
+            way for with a High hand they <lb/>
+            march in troopes or care must bee <lb/>
+            had in suppresinge them and that <lb/>
+            vse bee made of the ablest and <lb/>
+            Actiuest men in theis affaires <lb/>
+            If yo<ex>ur</ex> Care bee not great theis <lb/>
+            offenders will abound and Justice bee <lb/>
+            discoraged if remissnes bee in one <lb/>
+            Circuit it will ouerthrowe all <lb/>
+            Reformacion Care must bee had <lb/>
+            Concerninge those Lawes which con~<lb break="no"/>
+            ~cerne Luxurie &amp; Idlenes the puni=<lb break="no"/>
+            =shment of Vagrants the good <lb/>
+            Order of the houses of Correction <lb/>
+            and that the poore bee seett on <lb/>
+            worke and Alehouses suppressed <lb/>
+            If theis things were not regarded <lb/>
+            their would multitudes of able <lb/>
+            bodies die miserable at the gallo~<lb break="no"/>
+            ~wes The printed booke of <lb/>
+            <fw type="catch" place="bot-right">orders. /</fw> 
+            <pb n="[6v]" facs="/nro/ayl_192/ayl_192-033/ayl_192-033.jpg"/> 
+            Orders hath an exact <unclear/>ourse and <lb/>
+            whereas you at first received <unclear/> <lb/>
+            Accompt from the Sherriffe nowe <lb/>
+            by yor aduise that course is alte~<lb break="no"/>
+            ~red and it is expected from you <lb/>
+            to make Returnes of that which <lb/>
+            shall bee Certified vnto you. /
+         </p>
+         <p>
+            Justices of the Peace ought to <lb/>
+            giue their attendance att the Ass~<lb break="no"/>
+            ~ises they Laste for a few daies <lb/>
+            onely but yor instructions for a <lb/>
+            longe time. /
+         </p>
+         <p>
+            They ought to attend att the <lb/>
+            Quarter sessions for it is an <lb/>
+            express Artickle to <unclear/>which they <lb/>
+            are sworne. /
+         </p>
+         <p>
+            It is fitt to examine the Clearke <lb/>
+            of the Peace his Booke to knowe <lb/>
+            theereby who absent them selues <lb/>
+            They are many times absent in <lb/>
+            Regard of A Bowlinge Huntinge <lb/>
+            &amp; Ryding Match. /
+         </p>
+         <p>
+            You must inquire how they attend <lb/>
+            <fw type="catch" place="bot-right">their. /</fw>
+            <pb n="[7r]" facs="/nro/ayl_192/ayl_192-033/ayl_192-033.jpg"/>
+            their Monthly Meetings that such as <lb/>
+            bee negligent vppon your inform=<lb break="no"/>
+            ation may bee <unclear>ride</unclear> out of the Com~<lb break="no"/>
+            ~mission. /
+         </p>
+         <p>
+            There is one matter <unclear>behinde</unclear> of <lb/>
+            Great moment His Ma<ex>jes</ex>ties Can~<lb break="no"/>
+            ~dor, and Clearnes of His Heart ex~<lb break="no"/>
+            ~ceedes all but you are the wittne-<lb break="no"/>
+            -sses of his procedings his Ma<ex>jes</ex>tie <lb/>
+            the third time is to send out <lb/>
+            Shippinge for the good of the <lb/>
+            Kingdome The first yeare it receiued <lb/>
+            no opposicion of dispute The <lb/>
+            second Refused in some p<ex>ar</ex>t: And <lb/>
+            some Accions brought No man will <lb/>
+            expect that Arcana Regni should <lb/>
+            bee published soe many Reasons <lb/>
+            as more fittinge were heretofore <lb/>
+            The Sea is our sure defence If <lb/>
+            Com<ex>m</ex>anded by others it exposeth <lb/>
+            vs to many dangers The Kingd~<lb break="no"/>
+            omes honor is Concerned in itt <lb/>
+            The Kingdome is Concerned in <lb/>
+            proffitt that the merchants may <lb/>
+            <fw type="catch" place="bot-right">haue. /</fw>
+            <pb n="[7v]" facs="/nro/ayl_192/ayl_192-034/ayl_192-034.jpg"/>
+            haue free trade the Comodities of <lb/>
+            the Kingdome maie bee <unclear>v</unclear>ented <lb/>
+            The not ventinge our Cloth breedes <lb/>
+            many outcries in the Countrie as <lb/>
+            the spinster the weaver and the <lb/>
+            like as it appeares ceartaine men <lb/>
+            went in Cottsall and published <lb/>
+            that their should bee no vent of <lb/>
+            wooll or Cloth for that yeare they <lb/>
+            were questioned and put to fyne &amp; <lb/>
+            Ransome. /
+         </p>
+         <p>
+            If a false Rumor will doe this what <lb/>
+            will a reall report doe <unclear>soe</unclear> the <lb/>
+            whole Kingdome is conserned in <lb/>
+            safety Honor &amp; profitt the subiects <lb/>
+            for the Maior p<ex>ar</ex>t/ haue shewed them <lb/>
+            selues forward Twelue Thousand <lb/>
+            Pounds brought in out of Yorkshire <lb/>
+            w<ex>i</ex>thout opposition. /
+         </p>
+         <p>
+            But to report to you who are his <lb/>
+            Ma<ex>jes</ex>ties Judges you are sworne &amp; <lb/>
+            haue returned answer vnder yo<ex>ur</ex> <lb/>
+            hands. /
+         </p>
+         <p>
+            The liues and Lands of the Kings <lb/>
+            people are to bee vppon the iudgment: <lb/>
+            <fw type="catch" place="bot-right">
+                    <hi rend="underline">of the Judges</hi>
+                </fw>
+         </p>
+         <pb n="[8r]" facs="/nro/ayl_192/ayl_192-034/ayl_192-034.jpg"/>
+         <p>
+            <add place="LM">Judges</add> <lb/>
+            The Kinge Comanded itt <lb/>
+            should bee published in all the <lb/>
+            p<ex>ar</ex>tes of the Kingdome you haue <lb/>
+            Cause to declare <unclear>it</unclear> w<ex>i</ex>th <unclear>wye</unclear> <lb/>
+            that in soe high a point of Souer=<lb break="no"/>
+            ainty hee would Consult with <lb/>
+            you His Ma<ex>jes</ex>ties purpose is not <lb/>
+            by this resolucion to stopp any suites <lb/>
+            but that they may proceede soe <ex>tha</ex>t <lb/>
+            the R<ex>oyall</ex> Counsell bee acquainted w<ex>i</ex>th <lb/>
+            them
+         </p>
+         <p>
+            Those that will oppose this resolu~<lb break="no"/>
+            cion ar of two sorts either vnskilfull <lb/>
+            in the Lawes &amp; of them I will <lb/>
+            saie Felices essent Artes si <unclear>de</unclear> <lb/>
+            illis soli Arti<unclear>sf</unclear>ices indicarent <lb/>
+            Or professors of the Lawes and <lb/>
+            it ill becomes Children to question <lb/>
+            their Father. /
+         </p>
+         <p rend="align-centre">
+            Finis:
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/nro/ayl_192/ayl_192-027/ayl_192-027.jpg"/>
+      <graphic n="2" url="/nro/ayl_192/ayl_192-028/ayl_192-028.jpg"/>
+      <graphic n="3" url="/nro/ayl_192/ayl_192-029/ayl_192-029.jpg"/>
+      <graphic n="4" url="/nro/ayl_192/ayl_192-030/ayl_192-030.jpg"/>
+      <graphic n="5" url="/nro/ayl_192/ayl_192-031/ayl_192-031.jpg"/>
+      <graphic n="6" url="/nro/ayl_192/ayl_192-032/ayl_192-032.jpg"/>
+      <graphic n="7" url="/nro/ayl_192/ayl_192-033/ayl_192-033.jpg"/>
+      <graphic n="8" url="/nro/ayl_192/ayl_192-034/ayl_192-034.jpg"/>
+   </facsimile>
 </TEI>

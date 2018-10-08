@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="generated_from_excel">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Norfolk Record Office MC 1/123, 386X5</title>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co - Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript Description is provided in the body.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc>
+            <msIdentifier xml:id="NorfRO_MC_12072_808X1">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>MC 1207/2, 808x1</idno>
+               <msName/>
+            </msIdentifier>
+            <msContents>
+               <msItem n="1">
+                  <locus/>
+                  <title when="1621-04-22">Supplication to the House of Lords</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0012">Francis Bacon</persName>
+                  </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/BaconSupplicationLords1621.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc>
+                     <foliation/>
+                  </supportDesc>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin/>
+               <provenance/>
+            </history>
+         </msDesc>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/nro/mc_1207-2/mc_1207-2-001/mc_1207-2-001.jpg"/>
+      <graphic n="2" url="/nro/mc_1207-2/mc_1207-2-002/mc_1207-2-002.jpg"/>
+      <graphic n="3" url="/nro/mc_1207-2/mc_1207-2-003/mc_1207-2-003.jpg"/>
+      <graphic n="4" url="/nro/mc_1207-2/mc_1207-2-004/mc_1207-2-004.jpg"/>
+      <graphic n="5" url="/nro/mc_1207-2/mc_1207-2-005/mc_1207-2-005.jpg"/>
+      <graphic n="6" url="/nro/mc_1207-2/mc_1207-2-006/mc_1207-2-006.jpg"/>
+   </facsimile>
+</TEI>

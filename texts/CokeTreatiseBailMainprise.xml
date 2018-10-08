@@ -22,20 +22,35 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="EB">
+               <name>Elaine Brown</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
             </listBibl>
                 <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 181r–186v</ref>
-                    </bibl>
                     <bibl>
                         <ref type="ms" target="../mss/BLHarleyMS444.xml">British Library, Harley MS 444, ff. 185r–202r</ref>
                     </bibl>
@@ -74,9 +89,13 @@
             <date/>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
-               <term/>
+               <term>treatise</term>
             </keywords>
          </textClass>
          <textClass>
@@ -92,13 +111,985 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-26" who="#RB" status="draft"/>
+            <change when="2018-09-19" who="#EB" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="181r" facs="/bl/add_ms_22591/add_ms_22591_f181r/add_ms_22591_f181r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               A <lb/>
+               Treatise of Bayle: and Mainpryse writ:<lb break="no"/>
+               ten <lb/>
+               at <ex>th</ex>e request of S<ex>i</ex>r Will: haydoc k<ex>nigh</ex>t, By Sir <lb/>
+               Ed: Cooke <lb/>
+            </hi>
+            </head>
+         <p>
+            <add place="RM">(Cap: 1:) <lb/>
+            whereof Bayle or <lb/>
+            mainprise is deryved</add>
+            This Worde Bayle / is as I take it / deryved of the Frenche <lb/>
+            word / Bayller / w<ex>hi</ex>ch signifyeth to deliver / Because he that is Bayled, <lb/>
+            is as it were delyvered into the handes and Custodye of those that <lb/>
+            are his Pledges / and Suertyes /
+         </p>
+         <p>
+            This word Mainprise / is deryved of two Frenche wordes / that <lb/>
+            is to saye maine / w<ex>hi</ex>ch signifieth an hande / and of the word Pryse, <lb/>
+            w<ex>hi</ex>ch signifyeth taken; Because he that is taken to Mainprise / is <lb/>
+            as it were taken into their handes / and Custodye / to be his suertyes /
+         </p>
+         <p>
+            <add place="RM">The Description of <lb/>
+            Bayle and mainprise <lb/>
+            (Chapter: 2:)</add>
+            Bayle and Mainprise is / when A man detayned in Prison <lb/>
+            for anye Offence / For which he is bayleable / or Mainpriseable <lb/>
+            by Lawe / is by A Compleate Iudge / or Iudges of that Offence vpo<ex>n</ex> <lb/>
+            sufficient Suertye found for his Appearance / and yeilding of his <lb/>
+            Bodye / delivered out of Prison /
+         </p>
+         <p>
+            This description doth as well belong to the one worde / as the oth<ex>e</ex>r <lb/>
+            and yett I finde some difference / betweene them in our Bookes / And <lb/>
+            therefore / For the more further and Speciall vnderstanding of <ex>th</ex>e <lb/>
+            same / I thinke it Convenient For to make such differences as Ap: <lb/>
+            peare in our Bookes / to be betwixt them /
+         </p>
+         <p>
+            <add place="RM">(Chap: 3:) <lb/>
+            The difference be=<lb break="no"/>
+            tweene Bayle, and <lb/>
+            mainprise /</add>
+            (1) First he that findes Bayle / doth not finde suertie onelye to <lb/>
+            answere that speciall matter or Cause / whereof hee is imp<ex>ri</ex>soned <lb/>
+            But generallye to all other matters : But he that findeth mainprise <lb/>
+            findeth suertie to appeare / and Answere to that Cause onlye / where=<lb break="no"/>
+            of he <unclear>
+                    <del rend="strikethrough">is</del>
+                </unclear> was ymp<ex>ri</ex>soned / &amp; touching all other matte<ex>r</ex>s &amp; Causes he beinge <lb/>
+            out of Prison /
+         </p>
+         <p>
+            (:2: Secondlye the Pleadges / and Suerties of him that is delivered / <lb/>
+            to Bayle / maye impryson him whose Suerties they are / For Cheife <lb/>
+            Iustice / Shard / in the xxxiii Ed: 3: said that they were <ex>th</ex>e Gaolers <lb/>
+            or keepers / And yf they suffer him to escape / they shall Au<ex>n</ex>swere <lb/>
+            for the same Escape /
+         </p>
+         <p>
+            3: Thirdlye the verye Etimologie of either of them / doth shewe / <lb/>
+            and manifest the difference betwixt them; For in the One <ex>th</ex>e p<ex>ri</ex>son<ex>er</ex> <lb/>
+            is delivered by the Iudge /Iudge / Iudges / or Cou<ex>r</ex>te into <ex>th</ex>e handes / <lb/>
+            and as it were into Suertyes / for <ex>th</ex>e wordes be / Traditur in Balliu<ex>m</ex>
+         </p>
+         <p>
+            But in the other Case / the wordes be / that suche / and such A man / <lb/>
+            Cescerunt / w<ex>i</ex>thout any such deliu<ex>r</ex>ye made by <ex>th</ex>e Cou<ex>r</ex>te /as in th<ex>e</ex> other Case/
+         </p>
+         <p>
+            Nowe For as much as before it is said / that Bayle / or mainprise / <lb/>
+            is when A man detayned in prison For anye offence for w<ex>hi</ex>ch hee <lb/>
+            is Bayleable / or mainpriseable by Lawe Etc. /
+         </p>
+         <p>
+            I thinke it expedient to shew w<ex>ha</ex>t Persons detayned in pryson / <lb/>
+            were Bayleable / or mainpriseable by the Com<ex>m</ex>o<ex>n</ex> Lawes of this <lb/>
+            Realme / For I meane not to seet downe the Recognizances for <lb/>
+            Bayle / and Mainprise / as well / because they are como<ex>n</ex> / As all so <lb/>
+            <fw type="catch" place="bot-right">because</fw>
+            <pb n="181v" facs="/bl/add_ms_22591/add_ms_22591_f181v/add_ms_22591_f181v.jpg"/>
+            because my desire is to treate of such matters as are most materi=<lb break="no"/>
+            all / as shortelye / and as Compendiouslye / as I could
+         </p>
+         <p>
+            <add place="LM">(Cap: 4:) <lb/>
+            what Persons were <lb/>
+            Bayleable or Mainpri <lb/>
+            seable by the Comon <lb/>
+            Lawe</add>
+            It appeareth by A Statute made in A Parlyam<ex>en</ex>t houlde<ex>n</ex> at <lb/>
+            Westminster in the 3: Ed: 1: Como<ex>n</ex>lye Called Westminster Cap: 13 <lb/>
+            that it was greatlye doubted at the Com<ex>m</ex>o<ex>n</ex> Lawe / what Persons <lb/>
+            were Bayleable / or Mainprizeable
+         </p>
+         <p>
+            In the p<ex>re</ex>amble of the said Statute it is said / Pur ceo que auant <lb/>
+            ceux heures mie fuit my determine Certermient que aux gent <unclear/>? <lb/>
+            fueront Replenisheable et queux non etc That is to saye / Because be <lb/>
+            fore this tyme / it was not Certainelye determined whoe was Re=<lb break="no"/>
+            plenishable / or to be delivered out of Prison / and whoe not / soe as <lb/>
+            it seemeth thereby / that at the Comon Lawe / att that tyme greate <lb/>
+            diversitye of opynions were touching the same yett doe I find a <lb/>
+            Certaine Rule sett downe before that tyme / touching lettinge of <lb/>
+            Prisoners to Bayle / For / Bracton / whoe wrott in the Ende of <ex>th</ex>e <lb/>
+            Raigne of Hen: 3:6: For soe it appeareth in his Third Booke / &amp; <lb/>
+            last Chapter / saithe as Followeth
+         </p>
+         <p>
+            <foreign xml:lang="la">
+               <hi rend="italic">
+                  In omni uero Iuniria / et transgressione contra Pacem Regis <lb/>
+                  mimo cum Adiectione Felonia solet quilibet Appellatus / ues Rectatus <lb/>
+                  per Plegeos demitti preterquam de morte hominis quocunque tem=<lb break="no"/>
+                  pore / donec Imprisonatus doceat se else immunient etc.
+               </hi>
+            </foreign>
+         </p>
+         <p>
+            That is to saye in everye wronge and trespasse against <ex>th</ex>e peace <lb/>
+            of the kinge / yea though the offence reache to Fellonye / every one <lb/>
+            that is Appealed / or / Indicted / is wont to be bayled / except only <lb/>
+            in Case of the deathe of A Man / att anye tyme / vntill he that is <lb/>
+            ymprisoned shall p<ex>er</ex>ceyve him selfe guiltie by Inquest etc
+         </p>
+         <p>
+            <add place="LM">F: N: 166:a</add>
+            A man in Execuc<ex>i</ex>on vppo<ex>n</ex> Iudgement given vpo<ex>n</ex> A falce ver=<lb break="no"/>
+            dicte / yf he will bringe an Attainte / Or A man in Executio<ex>n</ex> of <lb/>
+            <add place="LM">F N:</add>an Erronyous Iudgm<ex>en</ex>t / yf he will bringe A writte of Errour <lb/>
+            <add place="LM">F N: 129:</add>Or if A Man Accomptant / haueing Audito<ex>r</ex>s Assigned vnto him <lb/>
+            in Land / or in such Corporac<ex>i</ex>on will allowe his Tallye / Or if a man <lb/>
+            be taken in Execuc<ex>i</ex>on vpon A Statute / and will sue an Audita Que=<lb break="no"/>
+            rela / The <unclear>Partye Plt</unclear> shall haue A Spetiall writte to lett him <lb/>
+            to Bayler vpon sufficient Suerties taken / as <ex>th</ex>e Case requireth/
+         </p>
+         <p>
+            But of these and such like Baylem<ex>en</ex>ts my purpose is not to dis=<lb break="no"/>
+            course / But onelye and Principalleye of such Baylem<ex>en</ex>ts as doe <lb/>
+            conscerne matters of the Crowne
+         </p>
+         <p>
+            It appeareth by the Rule of Bracton that A ma<ex>n</ex> appealed <lb/>
+            and indicted of any manner of Fellonye / The death of a man <lb/>
+            onelye Excepted / ought to bee sett to Bayle / w<ex>hi</ex>ch Rule as it is <lb/>
+            generall / soo hath it manye limitac<ex>i</ex>ons / and exceptions / w<ex>hi</ex>ch should <lb/>
+            the better appeare yf wee consider w<ex>ha</ex>t p<ex>er</ex>sons are Bayleable or <lb/>
+            mainpriseable by the Laws /
+         </p>
+         <p>
+            <add place="LM">(Cap: 5:) <lb/>
+            what Persons are  not <lb/>
+            Bayleable or mainpri <lb/>
+            seable by the Lawe</add>
+            First A man Indicted or ymprysoned / For Treason / is not <lb/>
+            Bayleable / or Mainpriseable / The same as I take it of Pettye <lb/>
+            Treason / As where the wiffe killeth the Husband / The Servaunt <lb/>
+            his m<ex>aste</ex>r / or m<ex>istr</ex>ess or suche like /
+         </p>
+         <p>
+            A Man Indicted / Appealed / or ymprisoned / For the death <lb/>
+            of A man / is in some Case Bayleable / and in some Case not / and <lb/>
+            verye requisite it is / to haue the lawe knowne in these cases
+         </p>
+         <p>
+            Therefore yf A man be indicted as Principall of the death <lb/>
+            of A man / he is not to be bayled; But if he be Indicted as <lb/>
+            Accessarye / before or after / he is Bayleable / For Bracton/ <lb/>
+            <fw type="catch" place="bot-right">in</fw>
+            <pb n="182r" facs="/bl/add_ms_22591/add_ms_22591_f182r/add_ms_22591_f182r.jpg"/>
+            in his Second Treatise / in the third Booke / Chap: 12: saith // <foreign xml:lang="la">
+                    <hi rend="italic">vbi <lb/>
+            ille de Facto / non est Replegiabilis/ illa de Fortia per Plenia<unclear>?</unclear> / <lb/>
+            vel Balliu<ex>m</ex> dimittitur donec ille de facto se defenderit / vel non <lb/>
+            defenderit quia / vbi Factu<ex>m</ex> / ibi poterit else Fortia quandoque / <lb/>
+            sed numquam Fortia / sine facto /</hi>
+                </foreign>
+         </p>
+         <p>
+            And yett it appeareth in A Booke Case / 28: Ed: 3: fol: 94: <lb/>
+            That if two be indicted / the one is Principall / The other as <lb/>
+            accesarye to the deathe of A man / After the Principall be Act <lb/>
+            tainted / that is to saye / haue Iudgem<ex>en</ex>t of deathe / or be outlawed <lb/>
+            the Accessarye shall not be Bayleable / w<ex>hi</ex>ch agrees w<ex>i</ex>th <ex>th</ex>e same <lb/>
+            opynion of Bracton / videl<ex>ice</ex>t / Donec ille defenderit se de Facto <lb/>
+            vel non defenderit) But all this is to be vnderstood in Case of <lb/>
+            Iudgement / at the Suite of the Kinge / For in an appeale of mu<ex>r</ex>th<ex>e</ex>r <lb/>
+            or deathe of A man / The lawe altereth in some Cases / And there <lb/>
+            fore in an Appeale of Murther / the defend<ex>en</ex>te hath some tymes <lb/>
+            been lett to Bayle / allthough he hath bine appealed as Princy <lb/>
+            pall / And sometymes Bayle hath bine denyed him / As appeareth <lb/>
+            by our Bookes / And therefore it seemeth to rest much in <ex>th</ex>e good <lb/>
+            discretion of the Courte / And vpo<ex>n</ex> due Considerac<ex>i</ex>on had / of the <lb/>
+            manner and Circu<ex>m</ex>stances of the offence / whether in that Case he <lb/>
+            is to be Bayled or not / except you will saye w<ex>i</ex>th the opynio<ex>n</ex> of <lb/>
+            the Booke in the xxi Ed: 4: That the Appellee in that Case / being <lb/>
+            neither indicted before the Commoner / nor other wise / maye bee <lb/>
+            Bayled / whereby it Appeareth that if the Appealee in <ex>tha</ex>t Case <lb/>
+            haue been Indicted thereof / they would not in that Case haue <lb/>
+            bayled him / w<ex>hi</ex>ch seemeth vnto mee / (Sine Praeiudicio melioris <lb/>
+            Sententiae) To be A verye Reasonable and discreete opynio<ex>n</ex> <lb/>
+            and worthye to be followed / And thereby maye all our form<ex>er</ex> <lb/>
+            Bookes / w<ex>hi</ex>ch seemed to be repugnante the one vnto the other / <lb/>
+            Be reconciled / and stand well togither
+         </p>
+         <p>
+            <add place="RM">43: Ed: 3: 17: <lb/>
+            Princypall and <lb/>
+            Accessarye</add>
+            In an Appeale of the deathe of A man / against two/ the <lb/>
+            one is principall / the other is Accessarye / Albeit the p<ex>ri</ex>ncipall <lb/>
+            be Attaintted / the Accessarye maye be lett to bayle / But other <lb/>
+            wise it is in the Case of Iudgement / as is before saide
+         </p>
+         <p>
+            <add place="RM">manslaughter</add>
+            A man Indicted / or Appealed of manslaughter <lb/>
+            maye bee Bayled
+         </p>
+         <p>
+            <add place="RM">Rape / 44: Ed: 2 <lb/>
+            38:</add>
+            A man Indicted or Appealed of Rape / he amye bee <lb/>
+            Bayled / yett was that noe Fellonye at the Como<ex>n</ex> Lawe / vntill <lb/>
+            the Statute of Westminster / 1: Cap: <unclear>-</unclear>34 :
+         </p>
+         <p>
+            A man Indicted for Burglarye / maye be bayled / as is <lb/>
+            Appeareth by the Booke in the 29: <unclear>Ass?</unclear>: 40: 44
+         </p>
+         <p>
+            A man Indicted / or Appealed of Robberye may be Bayled
+         </p>
+         <p>
+            A man Outlawed and imprisoned ought not to be Bayled / <lb/>
+            Westm<ex>inste</ex>r / Cap: 14:
+         </p>
+         <p>
+            A man Indicted as Accessarye for the Receipte of anye <lb/>
+            person outlawed / or otherwise attainted of Murther / or Fellonye <lb/>
+            is not Bayleable
+         </p>
+         <p>
+            He that is Aduired the Realme / ought not too bee <lb/>
+            Bayled
+         </p>
+         <p>
+            If A man bee Indicted / and doth become an Approuer / he <lb/>
+            ought not to be Bayled
+         </p>
+         <p>
+            If A man / Comitte Fellonye / and be taken w<ex>i</ex>th the manner / <lb/>
+            He ought not to bee Bayled / <lb/>
+            <fw type="catch" place="bot-right">yf</fw>
+            <pb n="182v" facs="/bl/add_ms_22591/add_ms_22591_f182v/add_ms_22591_f182v.jpg"/>
+            yf A man be Indicted or ymprisoned for anye offence where <lb/>
+            of he is Bayleable / yett if he breake the Prison / and after be take<ex>n</ex> <lb/>
+            againe / he ought not to be Bayled
+         </p>
+         <p>
+            If A Man be Indicted of manslaughter / Rape / Burglarie / <lb/>
+            Fellonye / or anye other offence / wherefore he is Bayleable / yett <lb/>
+            if he be an infamous / and Notorious Thiefe / and soe openlye and <lb/>
+            Comonlye Esteemed &amp; take<ex>n</ex> / Bayle maye be denyed him by the law /
+         </p>
+         <p>
+            A man Indicted of Conspiracye / that is to saye / that hee with <lb/>
+            others Conspired falcelye to indicte another of Murther / or Fel <lb/>
+            lonie / by meanes whereof he was Indicted / and afterwardes <lb/>
+            lawfullye Acquited / shall not be Bayled
+         </p>
+         <p>
+            And this was the Resolution of all the Iudges / vpo<ex>n</ex> <ex>th</ex>e questio<ex>n</ex> <lb/>
+            demanded by K: Ed: 3: himselfe / as it appeareth h<del rend="strikethrough">imselfe</del> in the <lb/>
+            Booke Case 27: <unclear>Ass?</unclear>: P: 11: For it appeareth by our Bookes / that <lb/>
+            A man Attainted of Conspiracye / at the Suite of the Kinge / A <unclear>venel</unclear> <lb/>
+            le vellony per Iudgementi / And that is / that the Bodye of <ex>th</ex>e p<ex>ar</ex>tie <lb/>
+            soe offending shall be taken / his landes / Tenements and goodes &amp; <lb/>
+            Chattles Seiged into the Kings handes / his wiffe / and Children <lb/>
+            to be throwne out of their houses / That his House be raysed downe <lb/>
+            His meadowes plowed vpp / His woodes subuerted &amp; extirpred / <lb/>
+            That he shall for ever be disabled / to give anye testemonye / or beare <lb/>
+            anye wittnes / And as the Book Case is / in 24: Ed: 3: 34: That hee <lb/>
+            never p<ex>re</ex>sume to appeare neere the Kings Courte etc
+         </p>
+         <p>
+            Such A pretious regard the lawe hath / For the liffe &amp; safety <lb/>
+            of the Inocent / And such is the Iudgm<ex>en</ex>t of the Comon lawe against <lb/>
+            those that vnuistlye seeke after the Blood of the guiltlesse / A <lb/>
+            matter in my opinion / though not directlye p<ex>er</ex>tinent to our purpose / <lb/>
+            yett not vnworthie of knowledge / and Memorye / w<ex>hi</ex>ch maye put as <lb/>
+            well the Iudges / as Iuro<ex>r</ex>s in reme<ex>m</ex>brance / howe deare in the Eye <lb/>
+            of the Lawe / the liffe of A man is / And by their punishm<ex>en</ex>te howe <lb/>
+            deeplye haue the  offenders / that seeke to condempe the guiltlesse <lb/>
+            All thoughe their purpose doe not take Effecte /
+         </p>
+         <p>
+            But to turne to our Purpose /yf A man bee Appealed by an <lb/>
+            Approuer / and be of good and honest Fame / hee may be Bayled / <lb/>
+            But if such A one be Appealed / and be not of honest Fame / hee <lb/>
+            shall not be Bayled / during the liffe of the App<ex>r</ex>ouer
+         </p>
+         <p>
+            If A man be Indicted of anye offence / whereof he may be <lb/>
+            Bayled / yett if after he be Founde guiltie of the same / or oth<ex>er</ex>wise <lb/>
+            be thereof Convicted / he shall not bee bayled / And that appear<ex>e</ex>th <lb/>
+            by Bracton  / in his 2: Booke Cap: 5: where he saithe / Nec Sunt ille <lb/>
+            qui culpabiles inueinuntur per Plegeos dimittendi / That is to <lb/>
+            saye / Neither are those that are found guiltie / to be lett to Bayle /
+         </p>
+         <p>
+            A man Indicted for Fellonious Burning of Houses / oughte <lb/>
+            not to be lett to Bayle / Westminster 1: Cap: 15:
+         </p>
+         <p>
+            A man Indicted For putting out of Eyes / or Cuttinge out <lb/>
+            Of Tongues / may be Bayled
+         </p>
+         <p>
+            A man taken by Cirtifficate of the Bishopp by writte or <lb/>
+            Excomunicat<ex>o</ex> Capient<ex>o</ex> / ought not to be Bayled
+         </p>
+         <p>
+            A man indicted / and Found guiltie of the death of A man <lb/>
+            by Misadventure / or by Casting of A Stone over A house / or <lb/>
+            by Chau<ex>n</ex>ce killing A man / Woman / or Child / is not Bayleable <lb/>
+            3: Ed: 3: Tit Corona 3344:
+         </p>
+         <p>
+            Like haue it is / yf A man Indicted bee founde guiltie of <lb/>
+            <fw type="catch" place="bot-right">the</fw>
+            <pb n="183r" facs="/bl/add_ms_22591/add_ms_22591_f183r/add_ms_22591_f183r.jpg"/>
+            the deathe of A Man; Se deffendendo / hee is not by Lawe to be <lb/>
+            Bayled / Both w<ex>hi</ex>ch doe agree / w<ex>i</ex>th the Rule of Bracton / For In=<lb break="no"/>
+            veniunter Culpabiles
+         </p>
+         <p>
+            A Man Indicted vpon A Penall Statute / w<ex>hi</ex>ch infflicteth <lb/>
+            anye losse of liffe / or Member / as in the Case of Fellonye / or other <lb/>
+            wise / anye Corporall Punishm<ex>en</ex>t or losse of goodes / or ymprysonm<ex>en</ex>t <lb/>
+            maye be Bayled vpo<ex>n</ex> sufficient Suerties Found / except itt bee <lb/>
+            espetiallye p<ex>ro</ex>vided that the offenders in such Cases shall not be lett <lb/>
+            to Bayle / or Mainpryse / As For example / yf A Man be Indicted <lb/>
+            For anye Fellonious publishinge of anye Seditious Bookes etc Con=<lb break="no"/>
+            trarye to the Forme of An Acte made / etc in the xxiii yeare of <lb/>
+            Her Ma<ex>jes</ex>t<ex>y</ex>s raigne / hee maye be Bayled / For the offence is made <lb/>
+            Fellonye / And Bayle / and Mainprise not prohibeted
+         </p>
+         <p>
+            But on the other Syde / the Stat of 3: Ed: 3: Cap 14: of Forestall<ex>e</ex>rs <lb/>
+            doth For <ex>th</ex>e First offence inflicte two Monthes Imprisonem<ex>en</ex>t w<ex>i</ex>thout <lb/>
+            Bayle or Mainprise etc/ In w<ex>hi</ex>ch Case the Partie soe offended to <lb/>
+            not be Bayled
+         </p>
+         <p>
+            Soe that as where A Statute maketh any offence Fellonye / or <lb/>
+            setteth downe A Corporall / or Pecuniarye punishment for any offence / <lb/>
+            and doth not expresslye forbidd <ex>th</ex>e p<ex>ar</ex>tie to be Bayled / in everye such <lb/>
+            Case / The Case before putt for example / The Partie soe offending / <lb/>
+            and beinge thereof Indicted / maye be Bayled
+         </p>
+         <p>
+            But for as much as all hath bine sayd / doth extend to such only <lb/>
+            as be Indicted of Record /or Appealed of the saide offences / It <lb/>
+            is necessarye to be vnderstood / what Persons Committed to Pryso<ex>n</ex> <lb/>
+            For anye offence for suspition of the same / maye before they be <lb/>
+            Indicted / or Appealed thereof be lett to bayle and w<ex>ha</ex>t not
+         </p>
+         <p>
+            <add place="RM">(Cap: 6) <lb/>
+            what Persons impri=<lb break="no"/>
+            soned for any offence / <lb/>
+            or for Suspition of the <lb/>
+            Same / maye Either by <lb/>
+            the Comon Lawe / or any <lb/>
+            other Statute before <lb/>
+            Indictem<ex>en</ex>t or Appeale <lb/>
+            brought / be lett to Bayle <lb/>
+            or Mainprise</add>
+            It may bee collected / by that w<ex>hi</ex>ch hath bine said out of Bracto<ex>n</ex> <lb/>
+            that A Man comitted to Prisonne / For anye offence / or suspitio<ex>n</ex> of <lb/>
+            Fellonye / could not by the Como<ex>n</ex> Lawe be lett to Bayle / before <lb/>
+            indictm<ex>en</ex>t or Appeale brought / For his Wordes bee (In omni vera <lb/>
+            Iniuria et Transgressione contra Pacem Regis / imocu<ex>m</ex> adiectiore <lb/>
+            Felonia / solet quilibet Appellatus / vel Rectatus per Plegios / dimitti <lb/>
+            Soe as it seemes by Him <ex>tha</ex>t Hee <ex>tha</ex>t is to bee lett to Bayle / must eithe<ex>r</ex> <lb/>
+            be Appellatus or Rectatus
+         </p>
+         <p>
+            Therefore it seemeth by the Como<ex>n</ex> Lawe / that A man ymprisoned <lb/>
+            for Fellonye before Indictm<ex>en</ex>t or Appeale / except it were by writt <lb/>
+            could not bee bayled / And w<ex>i</ex>th that oppynio<ex>n</ex> seemeth to concurr <lb/>
+            that w<ex>hi</ex>ch is declared by the Stat<ex>ute</ex> of Westminster 2: Ca: 15: where <lb/>
+            it is declared / that by the Como<ex>n</ex> Lawe A man ymprisoned by the <lb/>
+            Comau<ex>n</ex>dm<ex>en</ex>t of the Kinge / or His Iustices / cannot be releived or Bay <lb/>
+            led / And accordinglye is the lawe taken in the Booke Case 24: Ed: <lb/>
+            3: 33: where A Man for going secretlye Armed in Westminst<ex>e</ex>r hall <lb/>
+            vnder his Apparell / was committed to Warde / by the Iustices / and <lb/>
+            was denyed Bayle / and Mainprise / and Forfeyted his Armo<ex>u</ex>r <lb/>
+            And that Personn Imprisoned could not be bayled
+         </p>
+         <p>
+            As all soe is p<ex>ro</ex>ved by the Stat<ex>ute</ex> of / Rich: 3: Chap: 3: where it <lb/>
+            is saide / pur ceo que <unclear>dui?s</unclear> Persous delour in sont a restes / et imprison <lb/>
+            pur suspic<ex>i</ex>on deffelonie / ascun foitz de malice etc et en si gardes impr=<lb break="no"/>
+            ison pur sans Bayle / or mainprise al lour grande vexation et trouble <lb/>
+            etc whereby it is / <ex>tha</ex>t w<ex>hi</ex>ch was before collected out of <ex>th</ex>e wordes of Bracton
+         </p>
+         <p>
+            But heere it maye be demaunded / w<ex>ha</ex>t was the Reason For (Lux <lb/>
+            plus laudatur quando Ratione probatur) That Iustices of <ex>th</ex>e Peace <lb/>
+            might by the Comon Lawe bayle A Man Indicted For Fellonye <lb/>
+            <fw type="catch" place="bot-right">Heerevnto</fw>
+            <pb n="183v" facs="/bl/add_ms_22591/add_ms_22591_f183v/add_ms_22591_f183v.jpg"/>
+            herevnto might be Answered / that Iustices of the Peace could <lb/>
+            not Bayle A Suspected person for Fellonye before Iudgem<ex>en</ex>t <lb/>
+            or Appeale / For two Causes
+         </p>
+         <p>
+            <add place="LM">(1)</add>
+            First that noe Iustice of the Peace (For w<ex>i</ex>th Him I will medle <lb/>
+            in this Treatie / is A Iudge or any such person before Indictm<ex>en</ex>t or <lb/>
+            Appeale brought / And therefore could not lett him to Bayle or <lb/>
+            Mainprise; For it were Absurd to saye / And directlye contrary to <lb/>
+            the Etimologie of the worde / that he should deliver anye Person to Bayle/ <lb/>
+            that were not Iudge of <ex>th</ex>e person of him / <ex>tha</ex>t were to be Bayled
+         </p>
+         <p>
+            <add place="LM">(2:)</add>
+            The Second Reason is / for that Iustices of the Peace are before <lb/>
+            Appeale brought / or Indictm<ex>en</ex>t noe Iustices of the Cause wherefore <lb/>
+            he is ymprisoned / And therefore doth it followe <ex>tha</ex>t by the Como<ex>n</ex> Laws <lb/>
+            they could nott lett such persons to Bayle
+         </p>
+         <p>
+            But heere rises A Second Question / as doubtfull / as the First <lb/>
+            whie Iustices of the Peace / are neith<ex>e</ex>r Iudges of the Person / nor the <lb/>
+            Cause / in <ex>th</ex>e Case aforesaid / before Indictment / or Appeale brought
+         </p>
+         <p>
+            This doubte is fullye resolved by the opynion of the whole Court <lb/>
+            in the xiiij H: 4: 16: where it is said / that A Iustice of <ex>th</ex>e Peace / is A <lb/>
+            Iudge of Recorde / and therefore ought to p<ex>ro</ex>ceed vpon that thing w<ex>hi</ex>ch <lb/>
+            is Iudiciallye before him of Recorde
+         </p>
+         <p>
+            But in this Case before indictm<ex>en</ex>t or Appeale brought / neither the <lb/>
+            Person / nor the Causies of Recorde / and therefore he could not befor<ex>e</ex> <lb/>
+            Indictm<ex>en</ex>t p<ex>ro</ex>ceed either w<ex>i</ex>th the Person/ or w<ex>i</ex>th the Cause / And for <ex>tha</ex>t very <lb/>
+            Reason it is likewise Agreed by the whole Courte in <ex>tha</ex>t Case / That a <lb/>
+            Iustice of peace cannot make out A Warrant  to Arrest anye Man <lb/>
+            for suspition of Fellonye / before hee bee thereof Indicted / And / yet <lb/>
+            it is agreed / he maye make a warrant against one / before any Record <lb/>
+            thereof / And this doth Nothinge impayre / that w<ex>hi</ex>ch hath bine saide/ ( <lb/>
+            Exceptio probat Regulam) yf the Iustice of Peace should staye the <lb/>
+            Arresting of such Persons as would breake the Peace / before they <lb/>
+            were certyfied thereof by <del rend="strikethrough">waye</del> <add place="above">matter</add> of recorde / The breach of the <lb/>
+            Peace <unclear>o</unclear>shall never be p<ex>re</ex>vented / For before it is broken / there ca<ex>n</ex>=<lb break="no"/>
+            not anye Record be made thereof / by matter of Recorde / And there=<lb break="no"/>
+            fore in that Case For that Cause / the Iustice of the Peace / maye law=<lb break="no"/>
+            fullye make his Warrant / as Como<ex>n</ex>lye is vsed / Allthoughe there <lb/>
+            bee thereof noe Recorde/
+         </p>
+         <p>
+            But then seeing by the Order of the Como<ex>n</ex> Lawe / Iustices of the <lb/>
+            Peace could not Bayle A Person suspected / or ymprisoned be=<lb break="no"/>
+            fore indictment or Appeale brought / It is verye requisite to vnder <lb/>
+            stand / what Person comitted to Prison / maye before Indictm<ex>en</ex>t on <lb/>
+            Appeale / be lett to Bayle / by Iustices of the Peace / by anye Sta=<lb break="no"/>
+            tute nowe in Force
+         </p>
+         <p>
+            <add place="LM">(Cap: 7:) <lb/>
+            what Persons co<ex>m</ex>=<lb break="no"/>
+            mitted to Priso<ex>n</ex> before <lb/>
+            Indictm<ex>en</ex>t or Appeale <lb/>
+            be Bayleable by the <lb/>
+            Iustices of <ex>th</ex>e Peace / <lb/>
+            by any Statute nowe <lb/>
+            in force</add>
+            <add place="RM">(1: Et 2: P: Et <lb/>
+            Ma: Cap: 13)</add>
+            And First I take it / that the Statute w<ex>hi</ex>ch is Principallye in <lb/>
+            force For this Matter is the Stat of 1 Et 2: Phillip: Et Marye Ca<ex>p</ex> <lb/>
+            13: w<ex>hi</ex>ch Statute being longe / I will not recite / But will shortelye <lb/>
+            showe / what Persons ymprisoned / maye before Indictment or Applele <lb/>
+            be lett to Bayle / by Iustices of the Peace / and what not / by Force <lb/>
+            of that Statute / or of anye other not Repealed
+         </p>
+         <p>
+            <add place="LM">Treason /</add>
+            A Man Comitted to Prison / For Treason / or For Suspition of <lb/>
+            Treason / cannot be Bayled by <ex>th</ex>e Iustices of the Peace
+         </p>
+         <p>
+            <add place="LM">Pettye Treason /</add>
+            The same lawe is of Pettye Treason/
+         </p>
+         <p>
+            <add place="LM">Murther / </add>
+            yf A man be suspected of Murther / and thervpon comitted to <lb/>
+            Prison / he cannot be Bayled by A Iustice of Peace <lb/>
+            But A Question maye be made / whether in that Case / A man <lb/>
+            Comitted to Prison vpon suspition / to be Accessarye to a murther <lb/>
+            <fw type="catch" place="bot-right">whether</fw>
+            <pb n="184r" facs="/bl/add_ms_22591/add_ms_22591_f184r/add_ms_22591_f184r.jpg"/>
+            whether he before Indictm<ex>en</ex>t maye be lett to Bayle by the Iustices <lb/>
+            of the Peace / and I thinke (Sine Preiudico Meliortis Sententia) <ex>tha</ex>t <lb/>
+            hee cannot be bayled by them / by Force of the said Statute / For albeit <lb/>
+            after Indictm<ex>en</ex>t he maye be bayled / as is aforsaid yett mee seemeth/ <lb/>
+            that the saide Statute / doth not extend / to make him Bayleable / by the <lb/>
+            Iustices of the Peace before Indictment.  For the wordes of the Statute <lb/>
+            be / anye Person / or Persons / Arrested For Manslaughter / or Fellonye/ <lb/>
+            vnder w<ex>hi</ex>ch wordes / as I take it / the Meaning of the Makers of <ex>th</ex>e Stat<ex>ute</ex> <lb/>
+            was not to include / either Murther / or Accessarye to the same /
+         </p>
+         <p>
+            <add place="RM">manslaughter /</add>
+            It appeareth / by <ex>th</ex>e Espresse Letter of <ex>th</ex>e Stat<ex>ute</ex> <ex>tha</ex>t A Man Committed <lb/>
+            to Prison for manslaughter or for Suspitio<ex>n</ex> of <ex>th</ex>e same / maye be Bayled/
+         </p>
+         <p>
+            <add place="RM">Doubt</add>
+            But the Next doubt is / what offences bee included in the word Felo<ex>n</ex>y <lb/>
+            within the Meaning of the said Stat<ex>ute</ex> / And therefore it is necessarye <lb/>
+            to vnderstand / what is Comp<ex>re</ex>hended vnder the same/
+         </p>
+         <p>
+            <add place="RM">Burning of Houses/</add>
+            Yf A Man be committed to Prison For the Fellonyous Burninge of <lb/>
+            houses / or for <ex>th</ex>e Suspition of the same / yet he ought not to be Bayled w<ex>i</ex>thin<ex>tha</ex>t Stat<ex>ute</ex>
+         </p>
+         <p>
+            <add place="RM">Burglarye</add>
+            But A Man Comitted for Burglarye / or for Suspitio<ex>n</ex> of <ex>th</ex>e same / may <lb/>
+            as well before as after the Indictm<ex>en</ex>t be lett to Bayle w<ex>i</ex>thin the meaning <lb/>
+            of that Statut<ex>e</ex>
+         </p>
+         <p>
+            <add place="RM">Breaking of Prison / </add>
+            A Man ymprisoned For Fellonye / or for suspition of the same / doth <lb/>
+            breake Prison / and afterwardes is App<ex>re</ex>hended is therefore Comitted to <lb/>
+            Prison / he ought not to be Bayled / neither before nor after Indictm<ex>en</ex>t 
+         </p>
+         <p>
+            <add place="RM">Robberye / </add>
+            But A Man Comitted to Prison for Robberye or for suspition of <ex>th</ex>e <lb/>
+            same / maye be lett to Bayle / as well before as after Indictm<ex>en</ex>t
+         </p>
+         <p>
+            <add place="RM">A notorious Theife/</add>
+            And yett he that is A notorious Theife / and soe como<ex>n</ex>lye Esteem<ex>e</ex>d <lb/>
+            if hee bee ymprisoned / For any offence touching the Crowne / or for <lb/>
+            anye manner of Fellonye / he is not Bayleable / w<ex>i</ex>thin the meaninge <lb/>
+            of the Statute
+         </p>
+         <p>
+            <add place="RM">Rape/</add>
+            A Man ymprisoned of Rape / or for Suspition of the same of the same / is <lb/>
+            Bayleable as well before the Indictm<ex>en</ex>t as after / as I take it
+         </p>
+         <p>
+            <add place="RM">Appeale by an Approuer / </add>
+            A Man that is Appealed by an Approver / except he bee of good <lb/>
+            and honest Fame /ought not to be Bayled during <ex>th</ex>e life of the Approver
+         </p>
+         <p>
+            <add place="RM">Accessary to a Fellon <lb/>
+            Attainted /</add>
+            A man being ymprisoned for being Accessarye to the Rescuinge / <lb/>
+            or Abetting of any person outlawed / or otherwise attainted for Mur=<lb break="no"/>
+            ther / or Fellonie is not Bayleable / either before or after Indict<ex>men</ex>t
+         </p>
+         <p>
+            <add place="RM">Put out of Eyes etc / </add>
+            A man ymprisoned for putting out of Eyes / or Cutting out of <lb/>
+            Toungues / or of suspition of the same / is Bayleable  (as I take it as well <lb/>
+            before as aft<ex>e</ex>r Indictm<ex>en</ex>t by <ex>th</ex>e Iustices of the Peace / by force of <ex>th</ex>e said Stat<ex>ute</ex>
+         </p>
+         <p>
+            If A man Comitt anye offence /whereof he is Bayleable / yett <lb/>
+            if he be taken w<ex>i</ex>th the manner / the Iustices of the Peace maye deny <lb/>
+            him Bayle / as well before as after Indictm<ex>en</ex>t For he is not bayleable <lb/>
+            Contrarilye A man ymprisoned for anye offence / w<ex>hi</ex>ch by any sp<ex>e</ex>c<ex>i</ex>all <lb/>
+            Statute is made Fellonye / maye be Bayled by the Iustices of the <lb/>
+            Peace / except Bayle be expreslye prohibited For the same / as <lb/>
+            well before / as after Indictm<ex>en</ex>t
+         </p>
+         <p>
+            As For Example it is propounded by the Statute / of <add place="above">3</add> H: 7: Cap <lb/>
+            2: that if anye Mayde or Widdowe / having handed Goodes or Tenem<ex>ent</ex>s <lb/>
+            or being heyre Apparent to their Au<ex>n</ex>testors / be taken away co<ex>n</ex>trary <lb/>
+            to their will / and after Marryed to such Misdoer etc or defyled etc <lb/>
+            That such offence is Fellonie / Nowe if A man be ymprisoned for such <lb/>
+            an offence / or suspition of the same / hee is bayleable by the Iustice <lb/>
+            of the Peace / as well before as after Indictm<ex>en</ex>t / Sunt falia plura / <lb/>
+            qua<ex>m</ex> omnia enumerare per Longam est sed ista sufficient Exempt Causa /
+         </p>
+         <p>
+            A question maye be heere demaunded / whether the said Statute <lb/>
+            of 1: Et 2 : Phil: and mary / doe extend to Fellonies made by the Stat<ex>ute</ex> <lb/>
+            since the said Acte / And I thinke w<ex>i</ex>thout anye greate doubte it doth <lb/>
+            <fw type="catch" place="bot-right">For</fw>
+            <pb n="184v" facs="/bl/add_ms_22591/add_ms_22591_f184v/add_ms_22591_f184v.jpg"/>
+            For as I take it / that anye Person suspected / and ymprisoned for <lb/>
+            anye Fellonye / made by an Acte of Parlyament / either before / or <lb/>
+            since the saide Acte / of 1 et 2: Phil: and marye / be lett to Bayle <lb/>
+            by the Iustices of the Peace / vnlesse Bayle or mainprize be expresl<ex>ye</ex> <lb/>
+            therein prohibited/
+         </p>
+         <p>
+            But seeing that such Persons as are Bayleable / by the said Stat<ex>ute</ex> <lb/>
+            of 1: et 2: Phil: and marye / <del rend="strikethrough">as </del>are to be lett to Bayle by Iustices of <lb/>
+            the Peace / vpo<ex>n</ex> sufficient suerties Found / <unclear>-</unclear> As is necessarye to bee vn=<lb break="no"/>
+            derstood / howe manye / and what Iustices of the Peace / are requisyte <lb/>
+            and howe manye suerties / or Pledges / are Required by the Lawe vpo<ex>n</ex> <lb/>
+            the lettinge of such Persons to Bayle 
+         </p>
+         <p>
+            <add place="LM">(Cap: 8:) <lb/>
+            How many and what <lb/>
+            Iustices of the Peace ar<ex>e</ex> <lb/>
+            Requisite / &amp; how many <lb/>
+            Suertyes / or Pledges are <lb/>
+            Required by the Lawe</add>
+            The Iustices of the Peace / in open Sessions of the Peace / or <lb/>
+            Two of the Peace / wereof the one to be of the Cour<ex>t</ex> Both being p<ex>re</ex>=<lb break="no"/>
+            sent together / maye out of the Sessions lett anye prysoner ymp<ex>ri</ex>soned <lb/>
+            Bayleable by the lawe / w<ex>hi</ex>ch Baylem<ex>en</ex>t in writtinge / subscribed / and <lb/>
+            Signed in their owne handes / they ought to Certifie to the nexte <lb/>
+            generall Gaole deliverye etc Hee maye be lett to Bayle / by one <lb/>
+            Iustice of the Peace / by the Comon Lawe /
+         </p>
+         <p>
+            It Appeareth by Bractons Treatice of his 3: Booke Cap: 8 That at <lb/>
+            that Tyme / he that was to be Bayled , ought to haue founde / (xii Probos Et Lega=<lb break="no"/>
+            les homines de comitase etc) and soe it appeareth by an au<ex>n</ex>cient Booke / cal=<lb break="no"/>
+            led the deversitye of Courtes Fol: 116 : 8 That in au<ex>n</ex>cient tyme he <ex>tha</ex>t could <lb/>
+            wage this Lawe / should haue xii men with him; For as it seemeth / that at <lb/>
+            that Tyme / as well <unclear>gap in line</unclear> wagers of Lawe / As in Case of Bayle / The law <lb/>
+            is charged since that tyme/ I take it / there ought to be two Pledges / or <lb/>
+            mainprisses at the least / For it seemeth that the wordes bee (et Licet <lb/>
+            Frequentur avtulerit Sufficient manucaple <del rend="strikethrough">erunt</del> qui eum manucap <del rend="strikethrough">le </del>eunt <lb/>
+            etc Soe as there must be sufficient manucapsors and that cannot be vn=<lb break="no"/>
+            lesse there be two at the least / And as me seemeth / it maye allsoe be col=<lb break="no"/>
+            lected by the Booke / in 33: Ed: 3: etc 36: Ed: 3 For there it is said / (As fouc <lb/>
+            led gardens / et old rendere / doe escape / and agayne / one such manicap <lb/>
+            tor / But heere A question maye arise / howe often For one offence / A ma<ex>n</ex> <lb/>
+            maye be lett to Bayle /
+         </p>
+         <p>
+            <add place="LM">(Cap: 9) <lb/>
+            How often for one <lb/>
+            offence A man may be <lb/>
+            Let to Bayle /</add>
+            Yf A man be Imprisoned / Indicted or Appealed / For anye <lb/>
+            offence / For the w<ex>hi</ex>ch he is bayleable / and is accordinglye let to Bayle <lb/>
+            and afterwardes makes defaulte / and doth not appeare / According <lb/>
+            to the Condit<ex>i</ex>on of the Baile / and mainprise &amp; Recognizaunce / and <lb/>
+            afterwardes is Arrested / or App<ex>re</ex>hended againe / in this Case <ex>th</ex>e Iust<ex>ice</ex> <lb/>
+            of the Peace / maye denye him anye more to be lett to Bayle / or maine=<lb break="no"/>
+            <add place="LM">Tit<ex>le</ex>: manu<ex>scipt</ex>:</add>
+            prise / And that the lawe should bee soe /it is p<ex>ro</ex>ved by the Booke Case <lb/>
+            Cap: 2 Hen: 4: Fol: 24: By the opynion of all the Iudges / where it is <lb/>
+            saide in the like Case (que il ne fera my per mainprise Apres
+         </p>
+         <p>
+            <add place="LM">(Cap: 10:) <lb/>
+            what Remedye a <lb/>
+            man in prison / and <lb/>
+            Bayleable by <ex>th</ex>e Lawe <lb/>
+            hath to be let to Bayle /</add>
+            Hee that is ymprisoned For anye offence / whereof his is Bayle <lb/>
+            able by the Lawe / maye haue A write of manucaptione / diverted to <lb/>
+            the Shereiffe of the same Countie that he shall take Suerties of him <lb/>
+            to appeare / and to sett him at Lardge / w<ex>hi</ex>ch writte / in divers Forme/ <lb/>
+            and divers speciall Cases / Appeareth in the Register
+         </p>
+         <p>
+            If A man bee wrongfullye detayned in Pryson / hee maye <lb/>
+            haue A writte / de homine Replegiands / w<ex>hi</ex>ch doth allsoe appeare <lb/>
+            in the Register/
+         </p>
+         <p>
+            It appeareth by Bracton / that in his tyme / there was A writt <lb/>
+            In vse for this Purpose / w<ex>hi</ex>ch was called A writt (de odio Et Acia) <lb/>
+            Touching w<ex>hi</ex>ch / the wordes bee these / sed cum iniqu<ex>od</ex> est quod Inocenter <lb/>
+            <fw type="catch" place="bot-right">Sicut</fw>
+            <pb n="185r" facs="/bl/add_ms_22591/add_ms_22591_f185r/add_ms_22591_f185r.jpg"/>
+            Sicut illi qui criminosi non sunt din inclusi detineantur in c<ex>h</ex>ancery <lb/>
+            ideo ad Lacrimo sum querelam parentu<ex>m</ex> et Inicorum degratia Din <lb/>
+            Regis fieri Solet Inquisitio vteru<ex>m</ex> huiusmody in prisonati de morte <lb/>
+            hominis ca<unclear/>vabilis essent / de morte / illa / vell de huiusmodi Inquisicone <lb/>
+            nulli debet denegari / and there setteth downe the words of <ex>th</ex>e writt
+         </p>
+         <p>
+            Nowe it is to be vnderstood / that at that tyme / when Bracton wrote <lb/>
+            soe longe tyme after / the shreiffe by Writt / or Dormission to Him directeD <lb/>
+            vsed to take inquiries / and Iudgm<ex>en</ex>t of murthrers and Fellonie / and to <lb/>
+            hould Plea of the Crowne / w<ex>hi</ex>ch afterwards being denyed vnto Him <lb/>
+            by the Statute of 28: Ed: 3 : Cap 4: (as I take it) the said writt (de Odio <lb/>
+            et Acia / hath lost his Force/ But heere A question maye be demau<ex>n</ex>ded / whe=<lb break="no"/>
+            ther A man committing anye offence vpon the Sea / or w<ex>i</ex>thin the Iurisdic<ex>i</ex>on <lb/>
+            of the Admiraltie / For w<ex>hi</ex>ch / yf the same had bine Comitted vppon the <lb/>
+            Land / he might haue bine Bayled / whether the Comissioners of the Ad=<lb break="no"/>
+            mirallitie / maye lett him to Bayle or noe / eith<ex>e</ex>r before or aft<ex>e</ex>r Indictm<ex>en</ex>t
+         </p>
+         <p>
+            <add place="RM">(Cap: 11:) <lb/>
+            In what Comissi<ex>o</ex>ners <lb/>
+            of the Admiraltye / may <lb/>
+            let Prisonors to Bayle/ <lb/>
+            either before of after <lb/>
+            Indictment</add>
+            And First I take it / sine preuidicio melioru<ex>m</ex> Sententia / that <ex>th</ex>e <lb/>
+            Comissioners of the Admiraltie cannot lett to Bayle / anye Pr<ex>i</ex>son(or) ynn=<lb break="no"/>
+            prisoned / for anye offence / or For suspition of anye offence Comitted vpo<ex>n</ex> <lb/>
+            the Sea / or w<ex>i</ex>thin the Iurisdiction of the Admiralltye / Before <ex>th</ex>e Person <lb/>
+            soe ymprisoned / be thereof Indicted / Allthoughe in that Case yf the <lb/>
+            Fellonye / and offence / had bine done vpon the Land / the Partye Had bine <lb/>
+            Baileable / &amp; I am induced to be of that opynion / For <ex>th</ex>e Co<ex>n</ex>sideratio<ex>n</ex> foll<ex>ow</ex>ing/
+         </p>
+         <p>
+            First it is to be agreed /that both the Statute of 28: Hen: 8: Cap: 13: <lb/>
+            All Murtherers / Pyracies / Robberyes / and all other offences done vpo<ex>n</ex> <lb/>
+            the Sea / were determined by the Civill Lawe / w<ex>hi</ex>ch Lawe was in <ex>tha</ex>t behalfe <lb/>
+            Found verye deffective / For as much / as by that Lawe; none of the saide <lb/>
+            offences soe Comitted / could bee punished w<ex>i</ex>thout the Testimonyes of <lb/>
+            two Competeu<ex>n</ex>t Wittnesses/ or An expresse Confession of <ex>th</ex>e P<ex>ar</ex>tye <lb/>
+            offendinge / those dandgearous / and detestable offences / as well as for the <lb/>
+            want of sufficient Testimonie (Murther being of the shadow of pyracye) <lb/>
+            As allsoe by Reason of the Perverse and obstinate obstina<ex>n</ex>cye of the <lb/>
+            offendors (An Indictm<ex>en</ex>t seperable to the Pyratt / in not confessing <lb/>
+            his owne offence / he como<ex>n</ex>lye went awaye w<ex>i</ex>thout Punishm<ex>en</ex>t
+         </p>
+         <p>
+            This Mischeiffe was Remedied by the Stat<ex>ute</ex> of 28 Henry 8: Ca: 13 <lb/>
+            whereby it is p<ex>ro</ex>vided / that all Treasons/ Robberyes / Fellonyes / <lb/>
+            Murthers / and Conspiracyes / after the said Acte / be Comitted in <lb/>
+            or vpon the Sea etc shal be inquired / Tryed  / heard / and determyned / &amp; <lb/>
+            Iudged / in such Sheires and Places of the Realme as shal be lymitted <lb/>
+            by the Kings Comission / to heare and determine such offences / had <lb/>
+            bine Comitted /vpon the Land / in the same Sheire
+         </p>
+         <p>
+            Of this much I gather / that heerevnto the said offendors word not <lb/>
+            Bayleable / neither by the Como<ex>n</ex> Lawe / nor by anye statute / For how <lb/>
+            Could they be Bayleable by the Como<ex>n</ex> Lawe / where the offence was <lb/>
+            not determinable / by the Como<ex>n</ex> Lawe / And I finde noe statute / that <lb/>
+            taketh awaye the Tryall of those offences From the Civill Law vnto <lb/>
+            the statut<ex>e</ex> of 28: H: 8: w<ex>hi</ex>ch statute doth not make anye Provision at <lb/>
+            all/ For letting the said offendors to Bayle / Therefore I doe conclude <lb/>
+            that w<ex>i</ex>thout anye greate doubt (as mee seemeth / such offenders before <lb/>
+            Indictm<ex>en</ex>t were not Bayleable before the Comissioners / neither by the <lb/>
+            Como<ex>n</ex> Lawe / nor by the statute 28: He: 8:
+         </p>
+         <p>
+            But it maye be demaunded / whie the said statut<ex>e</ex> of i et 2: Phi <lb/>
+            et Ma: should not extend to the Comissioners allsoe / For w<ex>i</ex>thin <lb/>
+            the Admiralls Iurisdiction / they allsoe are Iudges of Peace/
+         </p>
+         <p>
+            This question is safelye Resolved / as maye appeare in those <lb/>
+            w<ex>hi</ex>ch will dilligentlye pervse the Statutes / For they shall safelye soe <lb/>
+            that the Satut<ex>e</ex> doth not extend to the Comissioners for <ex>th</ex>e Admiraltie / <lb/>
+            <fw type="catch" place="bot-right">But</fw>
+            <pb n="185v" facs="/bl/add_ms_22591/add_ms_22591_f185v/add_ms_22591_f185v.jpg"/>
+            But onlye to those w<ex>hi</ex>ch are comissoners for the Peace / For the Bodye <lb/>
+            of the Cou<ex>n</ex>tie / w<ex>hi</ex>ch as by divers others other P<ex>ar</ex>tes of the saide Acte/ <lb/>
+            soe doth it plainelye appeare by that w<ex>hi</ex>ch is therein p<ex>ro</ex>vided / videl<ex>ice</ex>t/ <lb/>
+            And in Casse anye Iustice of the Peace etc shall offend etc That the <lb/>
+            Iustices of the Gaole deliverye For the Sheires etc where suche <lb/>
+            offences shall happen to be Comitted / shall for everye suche offence <lb/>
+            sett A fine / whereby it is evident / that the saide statute was meant only <lb/>
+            to extend to the Iustices of the Peace / w<ex>i</ex>thin the Bodye of the Countye/ <lb/>
+            But I take it after Iudgment the Comissioners of the Admiraltie <lb/>
+            maye lett to Bayle / such p<ex>er</ex>sons as are Bayleable by the Lawe / Be=<lb break="no"/>
+            cause they being Iudges of Record / are after Indictm<ex>en</ex>t Iudges as <lb/>
+            well of the Person offendinge / as of the offence it selfe / And there=<lb break="no"/>
+            fore maye deliver such p<ex>er</ex>sons soe Indicted / in Balliu<ex>m</ex> / (I take it )
+         </p>
+         <p>
+            And what Persons are Bayleable by the Lawe / and what not/ <lb/>
+            maye appeare by that w<ex>hi</ex>ch hath bine said before / This onlye I will <lb/>
+            observe in this Place / that seeing murther is such an Incident Pyracy <lb/>
+            I thinke that the Comissionors of the Admirallitye maye well deny such <lb/>
+            persons / as are Indicted of Pyracye / to bee lett to Bayle / &amp; / Mainprise <lb/>
+            as well for the haynousnes of the offence / as for the Affinitye that <lb/>
+            it hath with Murther / <ex>th</ex>e offendo<ex>r</ex>s wherein as is aforesaid Are not Baileable/
+         </p>
+         <p>
+            <add place="LM">(Cap: 12: <lb/>
+            Howe or in what <lb/>
+            Sorte Bayle or Maine <lb/>
+            prise / may be dischar=<lb break="no"/>
+            ged /:</add>
+            Yf the Iustice of the Peace doe lett anye Prisoner that is Baile <lb/>
+            able to Baile / and afterwardes / as well the Prysono<ex>r</ex> by A writt of <lb/>
+            Habeas Corpus / as the record of the Indictm<ex>en</ex>t / be Removed by a writt <lb/>
+            of Certiorari / either into the Chancerye / or into the Kings Bench / the <lb/>
+            Bayle or Mainprise / taken by the Iustice of the Peace / is discharg<ex>e</ex>d <lb/>
+            for ever / As it is houlden in 32: Hr: 8: Tit<ex>le</ex> Mainp<ex>r</ex>y<ex>s</ex>e allthoughe <lb/>
+            the Recorde bee Remaunded by A Proctdendo / askit is there likewise houlde<ex>n</ex>/
+         </p>
+         <p>
+            Mr Hatham /doth reporte A Case / in 12: R: 2: that after Indict=<lb break="no"/>
+            ment given etc. The Maineprisors are disregarded / And it is nott <lb/>
+            holpen by the staut<ex>e</ex> of 1: Ed: 6: Cap: 7 (as I take it)
+         </p>
+         <p>
+            If the Processe vpon anye Indictm<ex>en</ex>t be discontinued / <ex>th</ex>e mainpriso<ex>r</ex>s <lb/>
+            are discharged / as I take it / and if the Partie dyeth / the mainprisors <lb/>
+            are discharged / For / mors omnia Soluit / et impotentia excusat lege <lb/>
+            As Bracton Saythe / But at the daye of Appearance / the mainepriso<ex>rs</ex> <lb/>
+            cannot pleade the death of the Partie / But vpon Processe against <lb/>
+            them / it must come in by the Retourne of the Shreiffe / as it is hould<ex>en</ex> <lb/>
+            And then allsoe / maye the mainepiso<ex>r</ex>s pleade the same / as I take it <lb/>
+            in discharge of the Recognizance / And of this matter thus much shall suffice/
+         </p>
+         <p>
+            <add place="LM">(Cap: 13) <lb/>
+            The Ende and con=<lb break="no"/>
+            clusion with Aduer=<lb break="no"/>
+            tisement /</add>
+            The ende and scope of this Little Treatise / is vnder Correctio<ex>n</ex> <lb/>
+            of those of better Iudgm<ex>en</ex>t to sett forthe / what the law of this Realme <lb/>
+            doth require / Touching Bayle / and Maineprise / A necessarye thinge <lb/>
+            in my opynion / For such as be Iustices of the Peace to be knowne; For <lb/>
+            as hee that standeth vpon plaine /and sure grounde / Allthoughe <lb/>
+            hee should be Bourne by Rage or Tempest to the grounde / might <lb/>
+            bee w<ex>i</ex>thout dau<ex>n</ex>ger / and rise of himselfe agayne / Soe he that hath <lb/>
+            the Administrac<ex>i</ex>on of Iustice / and in all his Acc<ex>i</ex>ons is guided <lb/>
+            and directed by the Rule of lawe / neither abusing his authoritye <lb/>
+            nor exceeding his Comission standeth on A sure ground / w<ex>hi</ex>ch will <lb/>
+            beare him vp as all seasons (Sapientis est Cogitare (saith Cicero) <lb/>
+            Tantu<ex>m</ex> Sibi else permissu<ex>m</ex> / quantum est Comissum et Creditu<ex>m</ex>/ And <lb/>
+            good was the Cou<ex>n</ex>sell (as those that followe it finde) whosoever <lb/>
+            gave it / videl<ex>ice</ex>t exceed not the Comission / And albeit it is truly <lb/>
+            saide / that / Iudiciu<ex>s</ex> est legibus / et non exemplis) And as <ex>th</ex>e Logi=<lb break="no"/>
+            tian saithe / exempla / demonstrant / non probant / yett assuredlye <lb/>
+            it is greate Contentm<ex>en</ex>t / and satisffact<ex>i</ex>on to an honest mynde / and a good <lb/>
+            <fw type="catch" place="bot-right">Conscience</fw>
+            <pb n="186r" facs="/bl/add_ms_22591/add_ms_22591_f186r/add_ms_22591_f186r.jpg"/>
+            Conscience the liffe / and Lib<ex>er</ex>tye of A man/ to follow the President /<unclear/> <lb/>
+            example of grave / and Reverend Men / How be it For as much / as all good <lb/>
+            lawes / instituted and made / For the Repellinge of those evills / that most <lb/>
+            Como<ex>n</ex>lye happen / For ad ea que frequentius Accidunt Iura / as apta<ex>tan</ex>=<lb break="no"/>
+            tur/ and principallye doe respect the generall Peace; and p<ex>ro</ex>fitt of the <lb/>
+            People / And therefore / we vse to Saye / that A mischeiffe is rather to <lb/>
+            be suffered / than an Inconveniencye / that is to saye / it is better / that a <lb/>
+            Private Person / should be punished / or dampnifyed / by the rigo<ex>r</ex> of <lb/>
+            the Lawe / than A generall Rule of the Lawe should bee Broken / to the <lb/>
+            generall Trouble of many
+         </p>
+         <p>
+            It is therefore verye necessarye that Lawe / and discretio<ex>n</ex> should <lb/>
+            be Coniuntina; and the one to bee an Incident inseperable to the other/ <lb/>
+            soe that neither Lawe w<ex>i</ex>thout discretion / least it should inclyne to Rigo<ex>r</ex> <lb/>
+            nor discretion w<ex>i</ex>thout Lawe / least Confusion should followe; shoulde <lb/>
+            be put in ore/ My Meaninge is not thereby to Allowe of every mans <lb/>
+            discretion that sitteth in the Seate of Iustice / For that would bringe <lb/>
+            forthe A Monstrous Confusion; But I meane the discretion <ex>tha</ex>t risethe <lb/>
+            from the right discerning / and due Consideration of the true &amp; necessary <lb/>
+            Circu<ex>m</ex>stances of the Matter / And as was comonlye use to saye <ex>tha</ex>t como<ex>n</ex> <lb/>
+            Lawe/ is nothinge els / but como<ex>n</ex> Reason / whereby A man is naturally <lb/>
+            endowed; But that p<ex>er</ex>fection of Reason / w<ex>hi</ex>ch is gotten by longe / and <lb/>
+            Continuall Studdye / Soe in Associating discretion soe neere to lawe <lb/>
+            is not meant to p<ex>re</ex>ferr it to that socientie of oath mans discretio<ex>n</ex> w<ex>hi</ex>ch <lb/>
+            Comonlye rather deserveth the name of Affection / and selfe will <lb/>
+            then of discretion indeed / But that discretion onelye wee allowe of in <lb/>
+            this Place / that either grave / or reverend men / have vsed in such cases <lb/>
+            before / or Rise of the Circu<ex>m</ex>stances of the matter / as is aforesaid/ <lb/>
+            As for examples / being allsoe not impertinent to the matter of our <lb/>
+            Treatice / It were a question / whether to an Appeale of Mayne/ <lb/>
+            the deffen<ex>d</ex>eth were to be lett to Bayle / or Maineprise / or noe/
+         </p>
+         <p>
+            It is necessarye to be examined / whether the manno<ex>r</ex> of the <lb/>
+            Mayne /were horrible / or heynous / For the deffend<ex>en</ex>t maye be de=<lb break="no"/>
+            nyed Bayle / or Mainprise / whether the sauce were soddau<ex>n</ex>ly done <lb/>
+            or vppon A Suddaine Affraye / or of the Pet<ex>ty</ex> Assault / or against <ex>th</ex>e <lb/>
+            intent of the deffend<ex>en</ex>t etc/ For the deffend<ex>en</ex>t maye be lett to Bayle <lb/>
+            And this I take to bee A Lawfull discretion / for to that end/ is <lb/>
+            the Booke Reason / of the Booke in the 6: H: 7: Fol: i:  where in An <lb/>
+            Appeleale of Mayne / Iustices of the Kings Bench / denyed to <lb/>
+            the deffend<ex>en</ex>t to be Bayled / For / that vpon the examinac<ex>i</ex>on of <ex>th</ex>e <lb/>
+            matter it Appeared to be most Cruell / and horrible / And there <lb/>
+            fore in repect of the Abhominable haynousnes of the same / the <lb/>
+            Iustices would not suffer the deffend<ex>en</ex>t to be bayled;
+         </p>
+         <p>
+            And with this Agrees the opinyon of Bracton / in his Second <lb/>
+            Treatise of his Third Booke Cap: 8: (Appellativero de morte <lb/>
+            hominis/ et de Pace / et de Plagis periculosis / Saltem Capiantu<ex>r</ex> <lb/>
+            et in Prisonam <del rend="strikethrough">deliberantur</del> delandantur / et ibi Custodiantu<ex>r</ex>/ <lb/>
+            uel per Iudicem deliberantur; where by I noate / that he saith <lb/>
+            Plagis Periculosis / In that he saithe / donec p<ex>ro</ex> Dominu<ex>m</ex> Regem <lb/>
+            per Plegios dimittantur / It is to bee vnderstood vntill by that <lb/>
+            Courte / where the offence / is to bee determined / and Iudged/ <lb/>
+            they bee lett to Bayle/
+         </p>
+         <p>
+            And this Partiiculer / maye suffice to the Reason of the <lb/>
+            Generall
+         </p>
+         <p>
+            To conclude / the Aurthour of all wisdome / and true <lb/>
+            knowledge / thought it Requisite / that those whoe are Iudges of <lb/>
+            the earthe / should bee both wise/ and learned / whom I beseech <lb/>
+            <fw type="catch" place="bot-right">to</fw>
+            <pb n="186v" facs="/bl/add_ms_22591/add_ms_22591_f186v/add_ms_22591_f186v.jpg"/>
+            to Blesse all those that on Earthe he hath sett on his owne <lb/>
+            with his true knowledge and Wisdeome / 
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">The Table</hi>
+         </p>
+         <p>
+            <list rend="numbered">
+               <item n="1:">Where of those Wordes / Bayle / and <lb/>
+               Maineprise be derived/</item>
+               <item n="2">The discription of Bayle and <lb/>
+               Maineprise / </item>
+               <item n="3">The difference betweene Bayle / and <lb/>
+               Maineprise/ </item>
+               <item n="4">What Personnes are Bayleable by the <lb/>
+               Comon Lawe / </item>
+               <item n="5">What Personnes are not Bayleable by <ex>th</ex>e <lb/>
+               Comon Lawe / </item>
+               <item n="6">What Persones ymprisoned for anye <lb/>
+               offence / or for Suspition of the same / may be let <lb/>
+               to Bayle / before Indictm<ex>en</ex>t or Appeale brought <lb/>
+               either by the Comon Lawe<unclear/> or by anye Statute/ </item>
+               <item n="7">What Persons Comitted to Prison / maye <lb/>
+               before Indictm<ex>en</ex>t or Appeale / be lett to Bayle / <lb/>
+               by Iustices of the Peace / by anye statute now <lb/>
+               in Force/ </item>
+               <item n="8">Howe many Iustices of the Peace are <lb/>
+               Requisite in such a Case / and how manye suer=<lb break="no"/>
+               tyes or Pledges are Requisite by the Lawe / </item>
+               <item n="9">Howe often For One Offence A ma<ex>n</ex> maye <lb/>
+               be lett to Bayle/ </item>
+               <item n="10">What Remedye A man ymprisoned / and <lb/>
+               Bayleable by the Lawe hath to be lett to Bayle/ </item>
+               <item n="11">In what Cases / the Comissiono<ex>r</ex>s of the <lb/>
+               Admiraltie maye lett Prisono<ex>r</ex>s to Bayle / </item>
+               <item n="12">Howe or in what Sorte / Bayle / or Maine=<lb break="no"/>
+               prise / maye be discharged / </item>
+               <item n="13">The Conclusion / w<ex>i</ex>th Advertisement/</item>
+            </list>
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Finis</hi>
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f181r/add_ms_22591_f181r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f181v/add_ms_22591_f181v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f182r/add_ms_22591_f182r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f182v/add_ms_22591_f182v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f183r/add_ms_22591_f183r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f183v/add_ms_22591_f183v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f184r/add_ms_22591_f184r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f184v/add_ms_22591_f184v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_22591/add_ms_22591_f185r/add_ms_22591_f185r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22591/add_ms_22591_f185v/add_ms_22591_f185v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22591/add_ms_22591_f186r/add_ms_22591_f186r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22591/add_ms_22591_f186v/add_ms_22591_f186v.jpg"/>
+   </facsimile>
 </TEI>

@@ -22,20 +22,35 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="PH">
+               <name>Peter Hammond</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
             </listBibl>
                 <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 312r–314v</ref>
-                    </bibl>
                     <bibl>
                         <ref type="ms" target="../mss/BLHargraveMS226.xml">British Library, Hargrave MS 226, ff. 216r–228r</ref>
                     </bibl>
@@ -92,6 +107,9 @@
             <date when="1627">1627</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term/>
@@ -110,13 +128,379 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-19" who="#RB" status="draft"/>
+            <change when="2018-09-19" who="#PH" status="transcribed"/>
+            <change when="2018-10-05" who="#NM" status="proofread"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="312r" facs="/bl/add_ms_22591/add_ms_22591_f312r/add_ms_22591_f312r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               An <lb/>
+               vnhappye veiwe of the whole be-<lb break="no"/>
+               hauiour <lb/>
+               of my lord Duke of Bucking<ex>ham</ex>e at <lb/>
+               the <lb/>
+               Frenche Islande of Rees <lb/>
+            </hi>
+         </head>
+         <p rend="align-right">
+            Secreetlye discouered by W: <lb/>
+            F: an vnfortunate comau<ex>n</ex>der <lb/>
+            in that vntoward Service
+         </p>
+         <p>
+            At A privye Assemblie, at the Councell table, by the kinge, and <lb/>
+            the Lordes. And to extinguish <ex>th</ex>e ignominie of the Former Service of <lb/>
+            Cailes, an attempt into France was concluded on, and the duke de<lb break="no"/>
+            signed for generall, whoe tooke <ex>th</ex>e hono<ex>u</ex>r indifferent gladlie, pr<ex>e</ex>suming <lb/>
+            to recover his Creditt, by his owne prowesse in this exploite. heere <lb/>
+            vpon, began A Strong presse of Soldiers, w<ex>i</ex>th soe larg<ex>e</ex> A Provison <lb/>
+            of victualls, and other maintenance for them, as could not but in comon <lb/>
+            reason promise A boone voyage to come, if the intent were closelye <lb/>
+            carryed, But before any Soldier was imbarqued, the duke out of an <lb/>
+            old ill will to the weale publique, divulged the Plott at Courte very <lb/>
+           freelye, w<ex>i</ex>thout either Feare or witt, whereby the worst of our ill willers <lb/>
+            where soever, (taking but the paines to adredresse themselves thither) <lb/>
+            might knowe all for an easie attention, w<ex>hi</ex>ch must needes be halfe A <lb/>
+            pr<ex>e</ex>vention of the hopes in question.
+         </p>
+         <p>
+            Vpon the pointe of our first setting to See, the duke as well as <lb/>
+            out of A distrust, of some miserable deathe that might befall him <lb/>
+            in the voyage, as out of a considerac<ex>i</ex>on of being (for A tyme) estra<ex>n</ex>ged <lb/>
+            from his effeminate pleasures heere <del>h</del>at some (from which noe <lb/>
+            warlike service can ever drawe him) would willinglye haue relin-<lb break="no"/>
+            quished his charge, w<ex>i</ex>thout anye allegac<ex>i</ex>on, either of his weakenes <lb/>
+            in his experience, or insufficiencie of his owne person, but he was <lb/>
+            prickt, and spurred on to it a fresh by the onlye p<ex>er</ex>swation of his Ma<ex>jes</ex>ty<ex/> <lb/>
+            for <ex>tha</ex>t the Eyes of all the troopes were fixed on him for <ex>thei</ex>ur cheiftayne.
+         </p>
+         <p>
+            Vpon this wee put forthe to sea, and inclined our Course (by the <lb/>
+            dukes direction) to the Island of Rhee or St Martins, where aswell <lb/>
+            everye mecanicke Comon soldier, as captaine and Colonell in our <lb/>
+            Compaynye knewe our Journye was to ende, But (Lord) the dukes <lb/>
+            carriage, at sea , was most obstinate and rediculous, &amp; alltogither <lb/>
+            backward to his Faithe and creditt laid at pawne here at home, in his <lb/>
+            absence, for whatsoever the circumspect com<ex>m</ex>anders vnder him, had <lb/>
+            propounded as behoofull, he would be sure to gaine saye, and vnder <lb/>
+            a vile penaltie to commaund <ex>tha</ex>t noe invention, should be soe much <lb/>
+            as sett on Foote, but what p<ex>ro</ex>ceeded from his owne Studye &amp; app<ex>ro</ex>bac<ex>i</ex>on,<lb/>
+            soe by that meanes endeavoring to be whollye enriched and dignified <lb/>
+            w<ex>i</ex>th the attribute of compassing all the good fortune <ex>tha</ex>t could any <lb/>
+            <fw type="catch" place="bot-right">waye</fw>
+            <pb n="312v" facs="/bl/add_ms_22591/add_ms_22591_f312v/add_ms_22591_f312v.jpg"/>
+            waye attend the enterprise, as he now contrariwise surfeites of<lb/>
+            the disgrace, The Islanders, (th<add place="above">r</add>ough <ex>th</ex>e largnes of the duks toung<lb/>
+            being too inquisitive after their fortificac<ex>i</ex>ons of divers plauguie <lb/>
+            passengers at Sea) were acquainted w<ex>i</ex>th our meaning long before <lb/>
+            they sawe vs, and soe wee arrived not there w<ex>i</ex>thout an vnluckye expecta<lb break="no"/>
+            c<ex>i</ex>on and entertainem<ex>en</ex>t
+         </p>
+         <p>
+            After wee had revewed the Forte and scituac<ex>i</ex>on thereof, wee <lb/>
+            demaunded of the duke, wherein our Countrye could bee advantaged <lb/>
+            by surprising such A vast Stronge savored place, seeing <ex>th</ex>e maintenan<ex>ce</ex> <lb/>
+            thereof after our Conquest, would yearelye expend, verye neere <lb/>
+            as muche, as <ex>th</ex>e profitt could amount vnto
+         </p>
+         <p>
+            To this he replyed that throughe his owne intreatie vpo<ex>n</ex> his ma<ex>jes</ex>t<ex>y</ex>s <lb/>
+            signing of his Commission, he was onlye put vpon this Island, which <lb/>
+            if he but recover his retourne, it would redeeme all his lost hono<ex>u</ex>r <lb/>
+            at home, and soe comaunded vs to entrench our selves.
+         </p>
+         <p>
+            Wee all being confident <ex>tha</ex>t this expression could but p<ex>ro</ex>ceed <lb/>
+            from an vndaunted hart, some of vs pr<ex>e</ex>sentlye in desp<ex>era</ex>te manner <lb/>
+            went on shore (expecting the duke, and his retinewe at our heeles) <lb/>
+            where wee were sodainelye vnawares, encountred very sharpelye, <lb/>
+            by some troopes of French horsemen, (w<ex>hi</ex>ch by meanes <ex>tha</ex>t <ex>th</ex>e duke <lb/>
+            kept of at Sea, and came not into our Succor) soe opprest vs with <lb/>
+            theire multituds, that manye of our companye in our retourne to <lb/>
+            our Shipps, were either hewen to peeces or drowned in <ex>th</ex>e <lb/>
+            Water, as S<ex>i</ex>r Will<ex>i</ex>am Hayden, and Mr Temple of Lincolnes Inne <lb/>
+            and many others of good Parentage. The third daye after this re=<lb break="no"/>
+            pulse, wee renewed our Strength, and went all againe on shore, <lb/>
+            and there fortifyed our selves, for our most advantage, and in shorte<lb/>
+            time after soe furiouslye sum<ex>m</ex>oned the Island, that the inhabitantes <lb/>
+            were constrayned to returne to their Fort, as theire last refuge, <lb/>
+            to the gates whereof, wee pursued them, w<ex>i</ex>th great terror, and <lb/>
+            tooke some fewe Prisoners/
+         </p>
+         <p>
+            Then perceaving the Strengthe and Compasse of the Fort, and<lb/>
+            vnderstanding that it was well victualled for a lingring seage,<lb/>
+            wee recoyled Backe, and intrenched our selves our selves a new <lb/>
+            from the anoye of their como<ex>n</ex> shott, and by degrees we came at last <lb/>
+            to inviround it allmost rounde, (as farr as it was anyway. needfull) <lb/>
+            and yet kept still out of <ex>th</ex>e daunger of their ordynance, and for a <lb/>
+            good while deprived them of all Succors, both by sea and land, &amp; soe <lb/>
+            planted our batterye thus farr wee speed indifferentlye well (havinge <lb/>
+            (in recompence of our first overthrowe) gayned the Island, &amp; put <lb/>
+            our selves in possession of it, The hono<ex>u</ex>r and applause whereof de-<lb break="no"/>
+            testeth the duke, and his best mirritts in the whole Action, &amp; (next <lb/>
+            vnder God) reflects on the everliving Fame, and memorie of that <lb/>
+            night valiant and heroique gent<ex>leman</ex> S<ex>i</ex>r John Burrowes, by whose <lb/>
+            onelye reache it was compassed, and whose Act therein (since in a <lb/>
+            calme season he was afterwars treacherouslye slaine) deserves (if <lb/>
+            one maye soe saye, w<ex>i</ex>thout pr<ex>e</ex>sumption) to im<ex>m</ex>ortealize his Soule/
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="313r" facs="/bl/add_ms_22591/add_ms_22591_f313r/add_ms_22591_f313r.jpg"/>
+         <p>
+            The Forte nowe remayning vnyeilded, and standing betwixt <lb/>
+            vs and A reasonable Conquest (by the powerfull and searching per=<lb break="no"/>
+            swasion of S<ex>i</ex>r John Burrowes) as well como<ex>n</ex> Soldier as Captaine, <lb/>
+            p<ex>ro</ex>tested to haue that too, or els to dye in the Feild, w<ex>hi</ex>ch p<ex>ro</ex>mise <ex>th</ex>e verye <lb/>
+            flower of all our Comanders there, were inforced in the end to make <lb/>
+            good, to the verye effusion of theire dearest blouds, And thus we con-<lb break="no"/>
+            tinued our batterye for aboue two monthes space and yet in all <ex>tha</ex>t time,<lb/>
+            throughe the extraordinarye strength of the place (by meanes of the<lb/>
+            Rampiers and barracadoes) that the defendants had newely erected
+            w<ex>i</ex>thin) wee could make noe breache, nor to take <ex>th</ex>e oppertunitie to give<lb/>
+            as assaulte, wherevpon (for <ex>tha</ex>t our p<ex>ro</ex>vision held out well) it was deter=<lb break="no"/>
+            mined by S<ex>i</ex>r John Burrowes ( whose weakest advice, at this time, the <lb/>
+            multitude were readye to followe, then the best of the dukes) <ex>tha</ex>t wee <lb/>
+            should beleager <ex>th</ex>e forte round still, as wee had begunn, and soe with <lb/>
+            out A surrender thereof, by A long seige we should starve vpp the <lb/>
+            defendants, and all thinges considered, this was the onlye waye, to sur=<lb break="no"/>
+            prise soe impregnable A Place/
+         </p>
+         <p>
+            The duke was infintelye incensed w<ex>i</ex>th this swaye of S<ex>i</ex> John <lb/>
+            Burrowes, and his owne neglect, and therefore by degrees hee en=<lb break="no"/>
+            deavoured to allure the hartes of <ex>th</ex>e Soldiers from him, w<ex>hi</ex>ch bare <lb/>
+            wordes could not bringe to passe, till he pr<ex>i</ex>vatelye had distributed, to <lb/>
+            some of them assenting, the paye of the rest dissenting
+         </p>
+         <p>
+            Wherevpon such a murmuring and discontent arose betwixt the<lb/>
+            faction of S<ex>i</ex>r John Burrowes and the duke, that had not S<ex>i</ex>r John <lb/>
+            sodainelye quieted all by his wisedome, wee had certainelye mutyned, <lb/>
+            amongst our selves to all our confusions, and soe haue given <ex>th</ex>e enemy <lb/>
+            an occasion to haue slaine vs outright, but by the midiatio<ex>n</ex> of frennds <lb/>
+            on either syde, they seemed to be reconciled, And nowe celebrated <lb/>
+            the Amitie the same night by A pr<ex>i</ex>vate supper in <ex>th</ex>e dukes tent/
+         </p>
+         <p>
+            But such is the reache of A malicious vindictive hart, that it is <lb/>
+            never at rest, till the intended plott be put to A pointe, be it nev<ex>e</ex>r <lb/>
+            be execrable and develishe; For the next morning S<ex>i</ex>r John (according <lb/>
+            to his dailye wont, surveying his owne Trenches, and being cleare <lb/>
+            out of all daunger of the Forte) was in all instant Strucken dead in <lb/>
+            the place w<ex>i</ex>th A muskett shott by an vnknowne hand, and soe gives <lb/>
+            vpp his speechlesse Soule, into the Joyes of heaven, that had never <lb/>
+            done but good on Earthe.
+         </p>
+         <p>
+            The newes and manner of this, bredd A new hurley burley <lb/>
+            in the Campe, and readye wee were to dye againe, vpo<ex>n</ex> each others <lb/>
+            sworde, but that throughe fresh rewardes from the duke to some, &amp; <lb/>
+            lordlike menaces to other some, (that had bine formerly rewarded) <lb/>
+            all were once more quietted, and our p<ex>ro</ex>vision was much lessened <lb/>
+            wherevpo<ex>n</ex> my Lord of Holland, was to our releiffe, but came not
+         </p>
+         <p>
+            About this time there was newes, that the French King app<ex>roa</ex>ched <lb/>
+            vs w<ex>i</ex>th releiffe for the forte, and to raise our seige, wherevpo<ex>n</ex> the <lb/>
+            duke for <ex>th</ex>e safegard of his owne p<ex>er</ex>son (whereas his retinew was <lb/>
+            the strongest allreadye) w<ex>i</ex>thdrewe two of the regim<ex>en</ex>ts fro<ex>m</ex> the <lb/>
+            sure places S<ex>i</ex>r John Burrowes had formerlye alloted them to, <lb/>
+            <fw type="catch" place="bot-right">for</fw>
+            <pb n="313v" facs="/bl/add_ms_22591/add_ms_22591_f313v/add_ms_22591_f313v.jpg"/>
+            for his wor<ex>ship</ex>s defence in p<ex>ar</ex>ticular, and soe left all manlesse, w<ex>hi</ex>ch <ex>th</ex>e <lb/>
+            Frenche Convoyes (lying of Watche) p<ex>er</ex>ceaving, entred there the same <lb/>
+            night, and releeved the Forte, in abundance both w<ex>i</ex>th Fresh Soldiers &amp;<lb/>
+            p<ex>ro</ex>vision, and soe nightlye for A weeke togither came vnder our noses, <lb/>
+            w<ex>i</ex>th <ex>th</ex>e like stuffe, and yet this duke would not suffer vs to encounter <lb/>
+            them, pr<ex>e</ex>tending <ex>tha</ex>t he feared the Frenche Kinge at his backe, when a<lb break="no"/>
+            lasse there was neither Kinge nor Frenche Armye there
+         </p>
+         <p>
+            When the Fort was everye waye as well manned as victualled, <lb/>
+            the defendants began divers times, to confront and brave vs before <lb/>
+            theire mayne sallye out, yett this our generall, would neither p<ex>er</ex>mitt <lb/>
+            vs to encou<ex>n</ex>ter them, nor (at last) to continue our batterye, soe that <lb/>
+            in everye discontented manner we laye idle, rioteouslye co<ex>n</ex>sumed <lb/>
+            the remainder of his ma<ex>jes</ex>t<ex>y</ex>s allowance, w<ex>i</ex>thout attempting anye thing <lb/>
+            or worthe the while, in soe muche <ex>tha</ex>t I my selfe impatiently demaun:<lb break="no"/>
+            ding of the duke, what he would doe w<ex>i</ex>th vs, whether long<ex>e</ex>r enthrall <lb/>
+            vs, to his owne ignoble pleasure, or sterue vs vp insteed of <ex>th</ex>e def<ex>endan</ex>ts,<lb/>
+            but I could drawe noe other answere fro<ex>m</ex> him, but as he was our <lb/>
+            generall, soe wee should knowe it by the strict hand he would carry <lb/>
+            over vs, and for our further p<ex>ro</ex>ceedings against the Forte, we should <lb/>
+            goe on, in our idleness till wee learne further fro<ex>m</ex> him
+         </p>
+         <p>
+            Wee that were Colonells and prime officers under him, could <lb/>
+            as hardlye brooke this his vntoward carriage, as rawe meate in <lb/>
+            our stomakes, yett for quiettnesse sake, and to repell mutynies in <lb/>
+            the campe, wee smothered our grudes, w<ex>i</ex>thout anye appearance of <lb/>
+            harte burning to the multitude, and soe laye expecting a miserable <lb/>
+            successe of all our vndertakings. Afterwards the duke told vs, <ex>tha</ex>t <lb/>
+            he had secrtlye intelligence out of the Forte, <ex>tha</ex>t most of <ex>th</ex>ir best <lb/>
+            Soldiers had convoyed themselves awaye by night, for feare of a <lb/>
+            newe supplye, by my Lord of Holland, and <ex>tha</ex>t the remnant (if wee <lb/>
+            laye still intrenched) would shortlye become our vassalls, which <lb/>
+            newes (being confirmed w<ex>i</ex>th as larg<ex>e</ex>  p<ex>ro</ex>testac<ex>i</ex>ons as could p<ex>ro</ex>ceed <lb/>
+            fro<ex>m</ex> the harte of A <ex>Christ</ex>ian man) made vs soe farre to creditt him,<lb/>
+            as to lye secure, and to pr<ex>e</ex>sume that this  (once done) would make vs <lb/>
+            all as happie, as our confidence in his worde could any wayes <lb/>
+            make vs miserable by the contrarye. The verye next morning aft<ex>e</ex>r <lb/>
+            this consultac<ex>i</ex>on (w<ex>hi</ex>ch fell out to be the daye of doome to most of vs) <lb/>
+            the duke being sensible of his p<ex>er</ex>fidious dealing, and <ex>tha</ex>t, <ex>tha</ex>t was the <lb/>
+            daye the def<ex>endan</ex>ts would encou<ex>n</ex>ter vs to deathe, (not w<ex>i</ex>thstanding what <lb/>
+            his ingagem<ex>en</ex>t for our safeties had formerlye bine to the co<ex>n</ex>trarye) <lb/>
+            pr<ex>i</ex>vilye in his Tent by <ex>th</ex>e helpe of some of his Faction attyred on <lb/>
+            of his owne followers (everye way much resembling himselfe) <lb/>
+            in his Warlike habitt, and collo<ex>u</ex>rs w<ex>i</ex>th instructions suteable to <lb/>
+            the deceipt and there disguised (as A fainte and impotent sol<del rend="strikethrough">a</del>dior,<lb/>
+            gott himselfe A Shippboard, and not onlye left vs ignorant, of <lb/>
+            the bloodye intent towards vs, but allsoe made vs vncapable to <lb/>
+            pr<ex>e</ex>vent it, when wee should
+         </p>
+         <fw type="catch" place="bot-right">Imediatlye</fw>
+         <pb n="314r" facs="/bl/add_ms_22591/add_ms_22591_f314r/add_ms_22591_f314r.jpg"/>
+         <p>
+            Imediatlye vpon this (wee suspecting as litle this treacherie as <lb/>
+            that w<ex>hi</ex>ch came of it) the def<ex>endan</ex>ts numberlesse sallyed out, &amp; w<ex>i</ex>th such vio=<lb break="no"/>
+            lence &amp; furye assayled vs, in our Trenches, <ex>tha</ex>t taking most of vs vnarmed,<lb/>
+            and daunted w<ex>i</ex>th the sight of the multitude, wee were gladd to flye for <lb/>
+            our lives, w<ex>hi</ex>ch retreate cost most of vs as dearelye as <ex>th</ex>e assau<ex>l</ex>t &amp; both <lb/>
+            fell out in the end, to make vp a conquest to <ex>th</ex>e Frenche, and an absolute <lb/>
+            overthrowe to vs/
+         </p>
+         <p>
+            The wildnesse of my Lord Mountioyes horse, was the cause of his <lb/>
+            surprisall, as well as <ex>th</ex>e deathes of some of our owne men, for <ex>tha</ex>t <lb/>
+            he not onlye avoyded the Enemies charge, but confusedlye ran vpon <lb/>
+            and beate backe divers of our best horses w<ex>hi</ex>ch otherwise to <ex>th</ex>e verye <lb/>
+            deathe would haue trode it/ In our flight we aymed at a certaine<lb/>
+            narrowe bridge of A great River, w<ex>hi</ex>ch if wee could haue recovered <lb/>
+            and passed, we had bine able to haue resisted, and stopt the p<ex>e</ex>rsuite of <lb/>
+            our Enemies, but through their pollicies wee were pr<ex>e</ex>vented, by their ov<ex>er</ex>
+                <lb break="no"/>
+            turning a loaden Carte thereon aforehand, w<ex>hi</ex>ch wee must either climbe, <lb/>
+            or leape into the River, or salt Pitts, w<ex>hi</ex>ch most of our compayne being <lb/>
+            vnable to doe were there hewen in Peeces, as my Lord Cromwell <lb/>
+            S<ex>i</ex>r Charles Ritche, and others of great esteeme, whoe in the very dead<lb break="no"/>
+            lye extreemitie, were offered quarter, but would not, chusing rath<ex>e</ex>r<lb/>
+            to dye honorablye, then longer to live w<ex>i</ex>th infamie and torm<ex>en</ex>t, I my<lb/>
+            selfe p<ex>er</ex>ceaving the follie of resisting anye longer, having one of <lb/>
+            the best horses in the companye, was forced to take an Infirme <lb/>
+            salt Pitt, where both my selfe and my horse stucke fast in <ex>th</ex>e grou<ex>n</ex>d <lb/>
+            and where I had suddenielye A gastelye wound in the Legg with a <lb/>
+            bullett, and soe I laye strugling for liffe, Lord, Lord me thought w<ex>ha</ex>t <lb/>
+            paine it was to dye soe, and divers of our Company and comaund<ex>e</ex>rs<lb/>
+            were in the like distresse, but in the end (the French horseme<ex>n</ex> wa<ex>n</ex>ting<lb/>
+            shott to reach vs in the water) by the valiencie of the poore remain<lb break="no"/>
+            der of our Soldiers that were gotten over the Carte, wee were <lb/>
+            dragged a shore, and soe being at that time vnpursued, we were co<ex>n</ex>
+                <lb break="no"/>
+            veied out of daunger
+         </p>
+         <p>
+            During the tyme of the conflict, our cou<ex>n</ex>terfeit Generall fought<lb/>
+            verye resolutelye and gott A gashe or two on his shoulder for his <lb/>
+            labour, w<ex>hi</ex>ch (before wee knewe the deceipt) made vs (notwithstand<lb break="no"/>
+            ding our losses) to comend him for A vallerous comaunder, but <lb/>
+            through the dukes backwardnes in rewarding some of those <ex>tha</ex>t were <lb/>
+            trusted w<ex>i</ex>th the knowledge of this villanye, wee vnderstood it all <lb/>
+            in two dayes after, in our comfortlesse Journeye homewards: and <lb/>
+            wee had therevpo<ex>n</ex> pr<ex>e</ex>sentlye mortatiized his carkasse for amends <lb/>
+            but that vpo<ex>n</ex> A more mature deliberac<ex>i</ex>on, wee thought it fitter <lb/>
+            to lett hom dye at home, by the inquestionable hand of <ex>th</ex>e p<ex>ar</ex>liam<ex>en</ex>t, <lb/>
+            soe he himselfe could not take this as his pr<ex>e</ex>servac<ex>i</ex>on to a more in<lb break="no"/>
+            famous ende.
+         </p>
+         <p>
+            And trulye should the revenge of the Parlyam<ex>en</ex>t allmost exceed <lb/>
+            extreemitie, it would bee but Correspondent to his merritts <ex>tha</ex>t <lb/>
+            could finde in his harte, to lye secure himselfe, and all the while <lb/>
+            see vs (that were his charge) knockt downe and slaughtered like <lb/>
+            dogges w<ex>i</ex>th out mercye. O lett him goe to the grave and lett noe<lb/>
+            <fw type="catch" place="bot-right">man</fw>
+            <pb n="314v" facs="/bl/add_ms_22591/add_ms_22591_f314v/add_ms_22591_f314v.jpg"/>
+            man stay him, for it is A Sinne to pitty him in his woest estate.
+         </p>
+         <p>
+            My Lord Mou<ex>n</ex>tioye was the onlye man of noate of our p<ex>ar</ex>tie <lb/>
+            that excepted quarter, and was since verye honorablye, and Ran=<lb break="no"/>
+            somelesse sent home againe, w<ex>hi</ex>ch  p<ex>ro</ex>ceeded more fro<ex>m</ex> the heroyque <lb/>
+            clemencye of <ex>th</ex>e French Kinge, then for anye deserte either of his <lb/>
+            owne or ours
+         </p>
+         <p>
+            One of our French prisoners <ex>tha</ex>t we had taken, at our first <lb/>
+            encou<ex>n</ex>ter) confessed to mee in our returne homewards, that had <lb/>
+            S<ex>i</ex>r John Burrowes lived but one two dayes longer, the def<ex>endan</ex>ts <lb/>
+            were concluded to haue given vpp the Forte, and all the treasure <lb/>
+            in it to our disposalls, in respect they had such miserable experie<ex>n</ex>ce<lb/>
+            of his vigilant intercepting their convoyes &amp; Stopping of theire <lb/>
+            passages, &amp; therefore <ex>tha</ex>t his reach could not but redowne to <ex>the</ex>ir vtter <lb/>
+            confusion in <ex>th</ex>e end they well foresawe vnlesse they submitted them=<lb break="no"/>
+            selves betimes; but newes of his death was as ioyfull to them <lb/>
+            as it was grevous to vs, And made them then re<del>
+                    <unclear/>
+                </del>solve to dye in <lb/>
+            theire owne defences, but <ex>th</ex>e mistake at <ex>th</ex>e last cost most of vs o<ex>u</ex>r lives/
+         </p>
+         <p>
+            And this is <ex>th</ex>e whole discription of o<ex>u</ex>r misfortunes, w<ex>hi</ex>ch vpo<ex>n</ex> A <lb/>
+            due consideration I thinke must needs provoke <ex>th</ex>e poorest affected of <lb/>
+            our nation, to endeavo<ex>u</ex>r A reveng vpo<ex>n</ex> the Instrum<ex>en</ex>t all they can, but <lb/>
+            till that be done, in all our future viages he must and will bee<lb/>
+            still our Generall and then to thrive (at least) after the old fashio<ex>n</ex> <lb/>
+            wee must assure our selves.
+         </p>
+         <p>
+            Wee haue not beene A litle Famous in Frances for co<ex>n</ex>quest here<lb break="no"/>
+            tofore, w<ex>i</ex>th a fewe/ but God allmightie is omnipotent and iust and<lb/>
+            wee nowe see it is his pleasure to make vs all suffer for the sinne <lb/>
+            and lacivious liffe of this owne men his will be done in all. And if <lb/>
+            we can wee must be content, besides this he hath not onlye bine <lb/>
+            the deathe of divers of <ex>th</ex>e Nobillitye/ but he hath allsoe bine the <lb/>
+            Cause of the vnluckie overthrowe of all our late voyges, the vn=<lb break="no"/>
+            knowne consumer of the treasurye, and the vtter confusion of the <lb/>
+            poore Pro<ex>te</ex>stants in France, nowe dalye massacred w<ex>i</ex>thout all pitty <lb/>
+            through the needlesse defence of their religion yet notw<ex>i</ex>thsta<ex>n</ex>ding <lb/>
+            it is the kings pleasure still to afford him his wonted grace, and <lb/>
+            connivencie for all this, &amp; Treason it is apparantlie to denounce <lb/>
+            him faultie in anye thinge, But let his ma<ex>jes</ex>ty looke to it, for his long<ex>e</ex>r <lb/>
+            shiltering of this rich Traytor and false harted man, both to God and <lb/>
+            his Cou<ex>n</ex>trye will be <ex>th</ex>e Ruyne Both of himselfe &amp; this Kingdome/
+         </p>
+         <p>
+            But at last I hope (out of the integritie of his harte, nowe whilst <lb/>
+            it was called to daye and before the evill daye come) hee will <lb/>
+            give him over to the Parlyam<ex>en</ex>t whylest it is of Strength to punish <lb/>
+            him/ and <ex>tha</ex>t they for theire p<ex>ar</ex>ts will send him to hell w<ex>i</ex>thout any more <lb/>
+            adoe
+         </p>
+         <p>
+                <hi rend="italic">
+            If any one hereafter shall maligne or goe about to dis=<lb break="no"/>
+            prove mee in anye one of these Points, (Soe I may be vnquestionable <lb/>
+            for this pr<ex>e</ex>su<ex>m</ex>ption ) I will not w<ex>i</ex>thstanding my lamenesse, mainetaine <lb/>
+            all <del rend="strikethrough">to his face</del> (vpo<ex>n</ex> notice) to his face, to <ex>th</ex>e expence of my dearest blood. In <lb/>
+            <ex>th</ex>e interin, I expect good newes fro<ex>m</ex> <ex>th</ex>e Parlyam<ex>en</ex>t, by <ex>th</ex>e next fayre winde</hi>
+         </p>
+         <p rend="align-right">
+            Finis
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f312r/add_ms_22591_f312r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f312v/add_ms_22591_f312v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f313r/add_ms_22591_f313r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f313v/add_ms_22591_f313v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f314r/add_ms_22591_f314r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f314v/add_ms_22591_f314v.jpg"/>
+   </facsimile>
 </TEI>

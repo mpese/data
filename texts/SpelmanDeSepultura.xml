@@ -22,20 +22,35 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="PA">
+               <name>Pam Abbott</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
             </listBibl>
                 <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 324r–331v</ref>
-                    </bibl>
                     <bibl>
                         <ref type="ms" target="../mss/BL_Add_MS_5495.xml">British Library, Additional MS 5495, ff45</ref>
                     </bibl>
@@ -59,6 +74,10 @@
             <date/>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term/>
@@ -66,7 +85,9 @@
          </textClass>
          <textClass>
             <keywords n="topic-keyword">
-               <term/>
+               <term>death</term>
+               <term>burial</term>
+               <term>parishes</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -77,13 +98,1353 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-26" who="#RB" status="draft"/>
+            <change when="2018-09-19" who="#PA" status="transcribed"/>
+            <change when="2018-10-08" who="#NM" status="proofread"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="324r" facs="/bl/add_ms_22591/add_ms_22591_f324r/add_ms_22591_f324r.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">
+               De Sepultura <lb/>
+               Collected <lb/>
+               out of the Comon lawes by S<ex>ir</ex> He<ex>nry</ex> Spillma<ex>n</ex> <lb/>
+               Knight
+            </hi>
+         </head>
+         <p>
+            As it is A worke of the Lawe of Nature and of nations <lb/>
+            of humane and devyne Lawe to burye the Dead Soe it is to ad<lb break="no"/>
+            minister that w<ex>hi</ex>ch necessarilye conduceth to it/ The Place &amp; office <lb/>
+            of Buriall/ yf A Man were soe ympious as not to afford itt:<lb/>
+            the Earthe to <del>shew</del> his shame will doe itt/ shee will open <ex>th</ex>e powers <lb/>
+            of her Bodie and take in the Blood: Shee will send Forth hir Chil=<lb break="no"/>
+            dren the wormes to bringe in the Flesh of their Brother and with h<add place="above">e</add>r<lb/>
+            Mantle the Grasse as w<ex>i</ex>th A wynding Sheet, Shee will infould the <lb/>
+            Bones and burye alltogither in her Bosome. Men (in passion) refuse <lb/>
+            oft Tymes to doe it to their Enemyes to wicked persons &amp; Notorious <lb/>
+            Offenders, but shee as A Naturall Mother that can forget none <lb/>
+            of her Children, doth this For them all both good and badd, teaching <lb/>
+            vs thereby what wee should doe for our Brethren, &amp; brandoning <lb/>
+            those w<ex>i</ex>th ympietie <ex>th</ex>at au<ex>n</ex>swereth w<ex>i</ex>th Cayne/ Am I my Broth<ex>e</ex>rs Keeper
+         </p>
+         <p>
+            The dir<ex>e</ex>ct<ex>i</ex>o<ex>n</ex> of my Speech tendeth to the reproffe of a Custom <lb/>
+            growne vpp amongst vs Christians, not heard of as I suppose <lb/>
+            amongst the Barbarians selling of Graves, And the Dutye of <lb/>
+            Buriall wherein I desire a little libertie to expresse my selfe <lb/>
+            somewhat at large as being one of the Motives that led mee <lb/>
+            rather to this discou<ex>r</ex>se
+         </p>
+         <p>
+            There seemeth if not A warrant yet A p<ex>re</ex>cident For it in <lb/>
+            the Booke of Genesis Cap:23: where Ephron selleth a buryall <lb/>
+            place to Abraham, and St Ierome censureth Ephron very hardly <lb/>
+            touching that Matter, euen as thoughe hee had Comitted some point <lb/>
+            of Symonie or of greate ympietie, and sayth that for this taking <lb/>
+            of Monye for the Burying place, O the letter of perfectio<ex>n</ex> was <lb/>
+            Strucke out of his name and that insteed of Ephon w<ex>hi</ex>ch signifieth <lb/>
+            perfect hee was afterwards called Ephrm that is vnperfect <lb/>
+            The Scripture I confesse maketh noe such menc<ex>i</ex>on, nor Josephus, <lb/>
+            nor anye other au<ex>n</ex>tient that I can finde, I blame not therefore <lb/>
+            Calvin; that hee accepted itt not butt for that hee sleighteth that <lb/>
+            Noble Father soe sleightly as to tearme it A very Toye; I hould <lb/>
+            <add place="RM">
+                    <hi rend="italic">Meras Unges</hi>
+                </add>
+            Calvin much inferior to Austen, yett Austen professed himselfe <lb/>
+            inferior to Ierome, where Ierome had I knowe not, all men take <lb/>
+            him For noe ymposter I suppose (and so might Calvin) that hee <lb/>
+            had it from the Rabbins, because he Entituleth that Booke of his, <lb/>
+            <add place="RM">
+                    <hi rend="italic">fol</hi>: 214: 6</add>
+             questions and tradic<ex>i</ex>ons <hi rend="italic">Hebracia</hi> in Geursuine but all are not <lb/>
+            of Calvins Mynd manye of the Fathers &amp; Cou<ex>n</ex>celes do well accept it     
+         </p>
+         <p>
+            For myne owne parte I inclyne w<ex>i</ex>th Calvin to <ex>th</ex>e excusing <lb/>
+            of Ephron For both hee and the Hettites  as though it were against <lb/>
+            Nature to take anye thinge for the burying of the dead in theire <lb/>
+            Soyle, gaue Abraham free Libertie not onlye to bury, but to doe <lb/>
+            it where he would even in the Cheiffest of theire Sepulchers <lb/>
+            This Contented not Abraham hee would not onlye haue <foreign xml:lang="la">
+                    <hi rend="italic"> vsio</hi>
+                </foreign> <lb/>
+            <fw type="catch" place="bot-right">
+                    <foreign xml:lang="la">
+                        <hi rend="italic">fructum</hi>
+                    </foreign>
+                </fw>
+            <pb n="324v" facs="/bl/add_ms_22591/add_ms_22591_f324v/add_ms_22591_f324v.jpg"/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">fructum rei</hi>
+                </foreign> the Fruition of buriall: but <foreign xml:lang="la">
+                    <hi rend="italic">Dominium loci,</hi>
+                </foreign> the <lb/>
+            Inheritau<ex>n</ex>ce of the Sayle it selfe
+         </p>
+         <p>
+            To sell this I should thinke it Lawfull though not the other <lb/>
+            <add place="LM">
+                    <hi rend="italic">Fi:de Relige Rt Sumpt funer<unclear>is</unclear> l: funeris</hi>
+                </add>
+            in anye Case lawfull to sell the Patronadge of A Church, nott <lb/>
+            the presentat<ex>i</ex>on, Institut<ex>i</ex>on or Induction <foreign xml:lang="la">
+                    <hi rend="italic">Preciu<unclear>m</unclear> loci in quo <lb/>
+            humandus. Est</hi>
+                </foreign> A man maye take by the Civill Lawe But there <lb/>
+            was a necessitie that Abraham must haue the verye Soyle p<ex>ro</ex>p<ex>er</ex> <lb/>
+            and solie to himselfe for the Circu<ex>m</ex>cized might neither dead or <lb/>
+            alive mingle w<ex>i</ex>th the vncircu<ex>m</ex>cized, as this daye the Christia<ex>n</ex>s <lb/>
+            not w<ex>i</ex>th the Infidells, the Faithfull not w<ex>i</ex>th the heritiques or <lb/>
+            excomu<ex>n</ex>icated persons, In this allsoe Ephron was contented <lb/>
+            to satisfye Abraham. And whereas hee requested noe more <lb/>
+            then the Cave of Matchepelah Ephron not onlye grau<ex>n</ex>ted him <lb/>
+            the Cave, but the whole Field allsoe wherein the Cave was &amp; <lb/>
+            that as A Free guift, if Abraham would soe accept it, But <lb/>
+            Abraham refusing to haue it bought the whole Field and by <lb/>
+            right of Precedencie had the Cave w<ex>i</ex>th itt/ Nothing doe I see in <lb/>
+            all this but Noblenes and bountie in Ephron, nor anye Iust <lb/>
+            impedim<ex>en</ex>t whye hee might not at First haue demaunded the <lb/>
+            price of the Feilde much lesse whie hee might not take it being <lb/>
+            pressed vpon him aswell as <hi rend="italic">Iramiath</hi> tooke more money of <lb/>
+            David for the threshing Floure where he was to build an Alt<ex>a</ex>r <lb/>
+            and to sacrifice vnto God, All this notw<ex>i</ex>thstanding because <lb/>
+            the scope of the Monye taken by Ephron was for buriall of <lb/>
+            the Bodye <ex>tha</ex>t then wanted it &amp; not for <ex>th</ex>e Soyle of <ex>th</ex>e field but for <lb/>
+            <add place="LM">
+                    <hi rend="italic">Acts</hi> :7: 16: /</add>
+            the Sepulcher as St Stephen testifieth Ierome vtterlye con=<lb break="no"/>
+            dempneth itt, and the rather p<ex>er</ex>happs for that Adam and Eve <lb/>
+             were said to be buried there For of such Monuments he was <lb/>
+            somewhat curious, yet did hee not soe much reproue this taking <lb/>
+            by Ephron as the Vice and Sinne of the Tyme in requiring and <lb/>
+            exacting money for buriall, w<ex>hi</ex>ch begin<ex>n</ex>ing then to creepe into the <lb/>
+            World, gaue the Church A iust occasion both to censure &amp; con=<lb break="no"/>
+            dempne it by many Constituc<ex>i</ex>ons Cannons, and decrees wher <lb/>
+            of I will recite some w<ex>hi</ex>ch I conceaue are att this daye in for<unclear>ce</unclear> <lb/>
+            (as touching the Substance of them) in o<ex>u</ex>r Church though neglected and <lb/>
+            not observed
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Cannon</hi> 1:/</add>
+            Nereida A noble Woman complaining to Gregorye <lb/>
+            the Greate that Januarius the B<ex>isho</ex>pp of Sardinia would haue <lb/>
+            au 100s for the buryall of her daughter, Gregorye by A De=<lb break="no"/>
+            cretall Epistle to him saith we haue vtterlye Forbidden this <lb/>
+            Vice in our Church , and doo not suffer soe badd A Custome <lb/>
+            should in any Case be vsurped
+         </p>
+         <p>
+            If Ephron a Pagon were so considerate as to refuse it <lb/>
+            howe much more ought wee to doe itt that are called Preists <lb/>
+            wee therefore Admonish that from henceforth none attempte <lb/>
+            this Vice of Covetuousnes in any Churches, Butt if att anye <lb/>
+            Tyme you permitt anye to bee buryed in yo<ex>u</ex>r Church and that <lb/>
+            his next Kinsman or heires will of there owne accord offer <lb/>
+            anye thinge for lights wee forbid not that to be taken But to <lb/>
+            exact or aske any thing wee vtterlye forbidd, least that ( which <lb/>
+            were most irreligious) the Church p<ex>er</ex>adventure might be said <lb/>
+            to be sould ( w<ex>hi</ex>ch God Forbidd) and you allsoe to seeme gladd of <lb/>
+            mens deathes if you reape any Comoditie out of their Carkases
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Cannon</hi> 2:</add>
+            But A blowe or two could not kill this Serpent for Iniquity <lb/>
+            hath manie heads some as it seemeth in the Cou<ex>n</ex>cell of Triburie <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">vtrum terra cumiferiata vendi possit pro Sepultura</hi>
+                </foreign> <del rend="strikethrough">wh</del> <lb/>
+            <fw type="catch" place="bot-right">whether</fw>
+            <pb n="325r" facs="/bl/add_ms_22591/add_ms_22591_f325r/add_ms_22591_f325r.jpg"/>
+            whether Monye might be taken for Graves in <ex>th</ex>e Churchyard <lb/>
+            The Councell answered noe <foreign xml:lang="la">
+                    <hi rend="italic">In Ecclesiastico namq<ex>ue</ex> etc</hi>
+                </foreign> For <lb/>
+            it is written in Ecclesiasticus denye not Curtisye vnto <ex>th</ex>e dead <lb/>
+            for wee shall all dye
+         </p>
+         <p>
+            And agayne all thinges that are of Earthe doe returne <lb/>
+            to Earthe, Earthe whye sellest thou Earthe, remember <ex>tha</ex>t thou <lb/>
+            art Earthe, and thou shalt goe to Earthe, that thou must dye &amp; <lb/>
+            death is coming towards thee and lingereth not, Remember that <lb/>
+            the Earthe is not Mans, but as the Psalmest sayth the Earthe is <lb/>
+            the Lords and they that dwell therein, if thou sellest this Earth <lb/>
+            thou art guiltie of invading the goods of another, Thou hast receaved <lb/>
+            it freely from God, geue it freelye for his sake, Wee therefore <lb/>
+            absolutely forbidd all Christian people to sell Earthe for the <lb/>
+            dead and denye buryall due vnto them, vnlesse the kindred or <lb/>
+            Freindes of the dead p<ex>er</ex>son (in the name of the Lord &amp; for <ex>th</ex>e rede<ex>m</ex>ptio<ex>n</ex> <lb/>
+            of his Soule will of their owne accord giue anye thinge
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Cannon</hi> 3:/</add>
+            The Councell of Nans recited by Burchard, &amp; <ex>th</ex>e Cou<ex>n</ex>cell <lb/>
+            of Varens al<ex>ia</ex>s Vasens delivered by <hi rend="italic">Gracian</hi> doe both in <ex>th</ex>e selfe <lb/>
+            same words thus condempe it <hi rend="italic">Praecipiend</hi> etc It is coma<ex>n</ex>ded <lb/>
+            saye they according to the Authoritie of the Can<ex>n</ex>ons, that for Graves <lb/>
+            and the buriall of men noe reward be Exacted vnlesse hee <lb/>
+            that is dead did whilest hee lived appoint some w<ex>ha</ex>t of his goods <lb/>
+            to be given to the Church in the Church yard wherein he is buryed <lb/>
+             or that those to whom the bestowing of his Almes after his death <lb/>
+            is com<ex>m</ex>itted will out of there owne accord give somew<ex>ha</ex>t of his goods <lb/>
+             but nothing maye in anye Case be Exacted by the Preists there <lb/>
+            or by them that haue the government of the place/ Itt is allsoe to <lb/>
+            bee <del rend="strikethrough">constitu</del> Com<ex>m</ex>aunded according to the Constitutions of our <lb/>
+            Elders that none vpo<ex>n</ex> anye Cause be buryed in the Church but <lb/>
+            in the yeard Poarch or Vault in the Church
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Cannon</hi> 4:/</add>
+            The  Councell of Taures vunder Alexander 3: <foreign xml:lang="la">
+                    <hi rend="italic">Cap non <lb/>
+            satis</hi>
+                </foreign>. Sayth for Sepulture and receaving Nurture and Oyle, let <lb/>
+            noe  man attempt to receave any kinde of Reward, nor to defe<ex>n</ex>d <lb/>
+            his Offence therein, by colour of anye kinde of Custome, for the <lb/>
+            length of Tyme doth not dyminish Synnes but increase them, It <lb/>
+            is true <ex>th</ex>at all these were but Provinciall Synods &amp; constituc<ex>i</ex>ons <lb/>
+            yet their Iudgements did determyne this pointe to be a grevious <lb/>
+            Synne, and seemed to bee so Orthodoxall that they are since take<ex>n</ex> <lb/>
+            into the Bodye of the Comon Lawe, and nowe as Powerfull ge=<lb break="no"/>
+            nerall and obligatorie as the other parte thereof, But we will <lb/>
+            rise higher and see what generall Cou<ex>n</ex>cells haue conceaved <lb/>
+            and declared herein
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Cannon</hi> 5:</add>
+            The 12: general Cou<ex>n</ex>cells wherein both the Church &amp; Greeks <lb/>
+            and Lattin were assembled by the same Alexander at Latterane <lb/>
+            in the yeere 1180 cap: <foreign xml:lang="la">
+                    <hi rend="italic">cum in Ecclesia Corpore</hi>
+                </foreign> sayth, the burying <lb/>
+            and selling that is reported to be in some Churches is too horible <lb/>
+            as that some w<ex>ha</ex>t is required for installing Bishopps Abbotts and <lb/>
+            all kinde of Ecclesiasicall p<ex>er</ex>sons in their Seats for inducting <lb/>
+            Preists into their Churches, and for Sepulture &amp; Funerall <lb/>
+            Rights, For the benediction of the Marryed Couple and for other <lb/>
+            Sacraments. verilye manye thinke it Lawfull because they sup <lb/>
+            pose the Law of Custome hath gott authoritie by long continua<ex>n</ex>ce <lb/>
+            and considering that offences are soe much more greevious By <lb/>
+            howe much the Longer they haue insnared the wicked Soule of <lb/>
+            Man.
+         </p>
+         <p>
+            Therefore least theis Things should be done hereafter we <lb/>
+            <fw type="catch" place="bot-right">streightly</fw>
+            <pb n="325v" facs="/bl/add_ms_22591/add_ms_22591_f325v/add_ms_22591_f325v.jpg"/>
+            Streightlie forbidd anye thinge to be Exacted either for induc <lb/>
+            tinge Ecclesiasticall persons to their Seates or for institutions <lb/>
+            of Preists by buryall of the dead, or benedictions of them <ex>tha</ex>t marry <lb/>
+            or other Sacraments either conferring or Collated. But if anye <lb/>
+            man shall p<ex>re</ex>sume to doe contrarye lett him knowe he hath his p<ex>or</ex>tion <lb/>
+            w<ex>i</ex>th Geheryi, that is that he standeth accursed ( as the Glosse inter=<lb break="no"/>
+            preteth it) that he is A Symonest
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Cannon</hi> 6:/</add>
+            The next generall Councell. A verye great one in <ex>th</ex>e same <lb/>
+            place vnder Innocentius 3: Anno comtynueth <ex>th</ex>e same p<ex>ro</ex>hibit<ex>i</ex>on <lb/>
+            touching buryall Fees, but because the former brydleth <ex>th</ex>e Clergie <lb/>
+             in taking that was not their due, this curbeth allsoe the perv<ex>er</ex>snes <lb/>
+            of the Layetie w<ex>i</ex>thoulding their Iust duties the wordes bee theise <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Ad Apostolicam</hi>
+                </foreign> etc It is com<ex>m</ex>on to the Apostolique Eare by freque<ex>n</ex>t <lb/>
+            Relation that some Clarks by burying the dead and blessinge the <lb/>
+            marryed Couple doe exact and extort Mony, and if in chance, that <lb/>
+            their Covetuous desire but not satisfyed they fraudulently alleadge <lb/>
+            some fayned impediment
+         </p>
+         <p>
+            One the other syde, laymen leavened w<ex>i</ex>th Heretiques Pravitie <lb/>
+            vnder the pretence of Canonicall pietie doe endeavour to breake a <lb/>
+            laudable Custome brought into the Church by A godlye devotio<ex>n</ex> of <lb/>
+            the Faithfull, heerevpon wee forbidd all Exactions to bee made &amp; <lb/>
+            Com<ex>m</ex>and all godlye Customes to be observed that Ecclesiasticall <lb/>
+            Sacraments be freelye conferred, but that they w<ex>hi</ex>ch doe maliciously <lb/>
+            endeavour to chang a laudable Custome maye vpon knowledge of <lb/>
+            the Matter be suppressed by the Bishopp of the place note that <lb/>
+            the Customes exacted by the Cannons must be godly &amp; laudable/
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Cannon</hi> 7:/</add>
+            As for the Abolenda w<ex>hi</ex>ch aymeth cheifelye at those whoe like <lb/>
+            the Mouncks of Mounte Pessulau will not suffer the ground too <lb/>
+            be broken before they be payed for the grave, I purposed to passe <lb/>
+            it over supposing none that serveth in the house of God to bee soe <lb/>
+            Covetuous or Cautelous as not to staie for his mony till hee had <lb/>
+            delivered his Ware, but in the meane Tyme A complaint was <lb/>
+            brought vnto vs, of A Churchman (since deceased) &amp; his Clarke <ex>th</ex>at <lb/>
+            came togither to one of his p<ex>ar</ex>ishe whoe was then newlye dead and <lb/>
+            speaking w<ex>i</ex>th the Executor would not suffer the Bodye to be brought <lb/>
+            out of the house till he had 14: pounds paid, and the p<ex>ar</ex>ish officers <lb/>
+            according to the bill of p<ex>ar</ex>ticulers then shewed vnto them, nor could <lb/>
+            the Executor compound w<ex>i</ex>th them for anye abatement more then 10s <lb/>
+            in the Clarkes share, and payed them therevpon £13 10s Against <lb/>
+            such among other is the Cannon vnder the Rubricke <foreign xml:lang="la">
+                    <hi rend="italic">terra Caemite <lb/>
+            riata pro Sepultura vendi non debit in the words Abolenda <lb/>
+            ea consuetudinis perversitas</hi>
+                </foreign> etc There is growne vpp as is <lb/>
+            reported A perverse Custome that must bee abolished at Mou<ex>n</ex>te <lb/>
+            Pessuliau, where they will not suffer the grave to be digged open <lb/>
+             for them that dye, till there be A certeyne price for the grownd, <lb/>
+            wherein they are to be buryed, payed vnto the Church, we Comau<ex>n</ex>d <lb/>
+            that you being Bishopp of the place doe p<ex>ro</ex>hibite the Clarks fro<ex>m</ex> <lb/>
+            exacting any thinge at all. In this case the Complaint was for <lb/>
+            exacting Monye before the Grave was opened, but the Cannon <lb/>
+            forbiddeth it both before and after
+         </p>
+         <p>
+            Nota (sayth the Glosse) <foreign xml:lang="la">
+                    <hi rend="italic">quod pro terra in qua Sepeliendi sunt <lb/>
+            defuncti nihil est exigendur decretal</hi>
+                </foreign> Greg<ex>ory</ex> lib 3: T: D:39 de <lb/>
+            <hi rend="italic">Parodiis</hi> 13: It might as the phrase is <hi rend="italic">grande Canoueni</hi> p<ex>ro</ex>duce <lb/>
+            many other Authorities whereby this Sinne is vehementlye im=<lb break="no"/>
+            pugned and cryed downe, but I will not Ioyne those Constitutions w<ex>hi</ex>ch <lb/>
+            for the most parte are Nationall and provinceall w<ex>i</ex>th theise I <lb/>
+            haue recited being generall either by their birth as springing <lb/>
+            from generall Councells, or by Adoption as taken from <lb/>
+            <fw type="catch" place="bot-right">Provinciall</fw>
+            <pb n="326r" facs="/bl/add_ms_22591/add_ms_22591_f326r/add_ms_22591_f326r.jpg"/>
+            Provinciall Councells and decrees into the Bodye of <ex>th</ex>e Com<ex>m</ex>on <lb/>
+            Lawes and made thereby as generall and obligatorye as the rest, <lb/>
+            w<ex>i</ex>th all the p<ex>ar</ex>ts of the Cannon Law that are not repugnant to the <lb/>
+            Lawes and religion of the Kingdome, or repealed by the Statute <lb/>
+            of <hi rend="italic">H</hi>: 8: or of latter Tyme against papall vsurpac<ex>i</ex>on are still in <lb/>
+            Force (as I conceave) and as was latelye seene in two greate cases <lb/>
+            wherein everye Corner of the Comon Lawe as well remote as obvious <lb/>
+            auntient as the latter were searched out, either pro or contra
+         </p>
+         <p>
+            As for the 30: Comissioners that by the Statute of 25: <hi rend="italic">Hen</hi>: 8: <lb/>
+            cap: 19: and 3: Ed: 6: cap: 11: should haue pruned the Comon Lawe &amp; <lb/>
+            cutt of the vnnecessarye Brau<ex>n</ex>ches, Nothing was done therevpo<ex>n</ex> <lb/>
+            soe that it still remayneth as it was before, but admitt <ex>tha</ex>t neither <lb/>
+            theise nor anye other positive Constructions extended to our My=<lb break="no"/>
+            nisters will they not bee A Lawe vnto themselves &amp; abtayne from <lb/>
+            that w<ex>hi</ex>ch is declared to be wicked and uniust, but soe many godlye <lb/>
+            men soe many Fathers Councells and decrees of the Church
+         </p>
+         <p>
+            Lett vs then consider the Cou<ex>n</ex>cells and Cannons that we haue <lb/>
+            recited, and see first what opynion they haue of monye taken for <lb/>
+            buryalls, And Secondlye how they censure &amp; decree touching it
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Cannon 1: Greg</hi>: /</add>
+            First for their opynion they declare it to bee a Vice of <lb/>
+            Covetuousnes, A badd Custome that maye be said most irreligious <lb/>
+            as the selling of the Church A cause of ioye to the Person whe<ex>n</ex> men <lb/>
+            <add place="RM">
+                    <hi rend="italic">Regist: lib: Epistl</hi>/ <lb/>
+            2</add> dye and A reaping of Comoditie out of the dead carcases
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Cannon 2: concerning</hi> <lb/>
+            <hi rend="italic">Generall Tribus ta</hi>:</add>
+            2 A discourtesie to the dead by him that must dye, A sellinge of <lb/>
+            Earthe by him that is Earthe, A selling of that is none of his owne <lb/>
+            Selling of that was give<ex>n</ex> freely, to give freely A denyall of Buryall
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  Cannon 2; concerning <lb/>
+                  generall Latteran/
+               </hi>
+            </add>
+            A Thinge to horrible that bringeth the p<ex>ro</ex>
+                <unclear>co</unclear> of Geheryi vppon <lb/>
+            the Offender, that is the brand of Symonie (as the Glosse expou<ex>n</ex>deth <lb/>
+            itt) A curse and an vncleanenes &amp; cause of sep<ex>er</ex>atio<ex>n</ex> fro<ex>m</ex> Como<ex>n</ex>n societie
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  Cannon ver Concerning <lb/>
+                  Jucu<ex>m</ex> Cannon 5: conc <lb/>
+                  general Lat /
+               </hi>
+            </add>
+            Lastlye as Maladies are the Most greevious &amp; contagious <lb/>
+            that continewe longest, soe they conclude this to be soe much <ex>th</ex>e more <lb/>
+            grevious, by how much the longer it hath continued and declare it <lb/>
+            to bee Abolenda <foreign xml:lang="la">
+                    <hi rend="italic">consuetudines peruersitus</hi>
+                </foreign> the perversitie of <lb/>
+            A Custome it is to be abolished
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">Cannon 5: 11: Lib 3: 28: <lb/>
+                  Cap:13</hi>/
+            </add>
+            I am loath to peruse theise heavie Tearmes of Agravac<ex>i</ex>on yet <lb/>
+            they proceed not from mee but fro<ex>m</ex> the Clergie themselves aga<ex>n</ex>st <lb/>
+            the Clergie themselves es from the Bodye against the member Fro<ex>m</ex> <lb/>
+            the Fathers the docters of that Church &amp; great gen<ex>er</ex>all Cou<ex>n</ex>cells <lb/>
+            against some private perticuler incorrigible Offenders
+         </p>
+         <p>
+            The some of their Censure and <lb/>
+            decree is this /
+         </p>
+         <p>
+            <add place="RM">
+               1) <lb/>
+               <hi rend="italic">cap:abolenda ver <lb/>
+               sepultur Col:1207</hi>:/
+            </add>
+            That nothing be exacted or required for any sepulture <lb/>
+            w<ex>i</ex>th wordes the Glose declareth to Comprehend the ground or <lb/>
+            place of buryall and the Ministrie of the preists or Personne <lb/>
+            about the same and in some of the Cannons it is soe Expressed/
+         </p>
+         <p>
+            <add place="RM">(2</add>
+            That all the Customes for siech taking are evill ympious &amp; <lb/>
+            Nilde
+         </p>
+         <p>
+            <add place="RM">(3:)</add>
+            That the offence in taking is Symonye
+         </p>
+         <p>
+            <add place="RM">(4)</add>
+            That the Cognizance belongeth to the Bi<ex>sho</ex>pp of the place
+         </p>
+         <p>
+            That guifts of Pietie for the vse of the Church maye Not <lb/>
+            w<ex>i</ex>thstanding be taken
+         </p>
+         <p>
+            <add place="RM">(5: </add>
+            That none shall be buried in the Bodye of <ex>th</ex>e Churche
+         </p>
+         <p>
+            <add place="RM">6:)</add>
+            There is A Fiction that Achilles fighting w<ex>i</ex>th Hercules <lb/>
+            and not able to resist his force, shifted himselfe into divers <lb/>
+            Formes thereby to illude it, Soe the Canonists trie manye Eva=<lb break="no"/>
+            sions to helpe theyre Master of The Clergie in this pointe of <lb/>
+            taking by distinguishing the places of buryall the persons <ex>tha</ex>t take <lb/>
+            <fw type="catch" place="bot-right">the</fw>
+            <pb n="326v" facs="/bl/add_ms_22591/add_ms_22591_f326v/add_ms_22591_f326v.jpg"/>
+            the Tyme of taking and the manner of demaunding
+         </p>
+         <p>
+            For the place they saye there bee three Sortes, <foreign xml:lang="la">
+                    <hi rend="italic">Locus Purus, <lb/>
+            Locus Religiosus, et Locus Sacer </hi>
+                </foreign>
+         </p>
+         <p>
+            <add place="LM">
+                    <foreign xml:lang="la">
+                        <hi rend="italic">Locus Purus</hi>
+                    </foreign>
+                </add>
+            According to the Civill Lawe <hi rend="italic">Locus Purus</hi> is that w<ex>hi</ex>ch is our secu=<lb break="no"/>
+            ler grownd &amp; is never vsed for buryall nor having any kind of co<ex>n</ex>secratio<ex>n</ex>
+         </p>
+         <p>
+            To this they saye the Cannons doe not extend For that it is some <lb/>
+            private mans and the owner may if he will take monye for a grave <lb/>
+            For <hi rend="italic">Nemo tenet de Suo beneficium facere</hi>, Noe man is tyed to giue <lb/>
+            his Land Grownd to Charitable vse
+         </p>
+         <p>
+            <add place="LM">
+                    <foreign xml:lang="la">
+                        <hi rend="italic">Locus Religiosus</hi>
+                    </foreign>
+                </add>
+            Is that w<ex>hi</ex>ch is assigned to the same Office of Religion &amp; nomina <lb/>
+            telye where the Bodye of A  dead p<ex>er</ex>son hath bine buryed, For by the <lb/>
+            verye buryall of the Bodye the nature of the Soyle is chaunged <lb/>
+            from seculer and in reverence of this new function counted to bee <lb/>
+            Religious, And now therefore by the Cannons Nothing maye be take<ex>n</ex> <lb/>
+            for anye more Graves there
+         </p>
+         <p>
+            Some such places (I suppose are about this Cittie adioyninge to <lb/>
+            Churchyardes for enlarging thereof For w<ex>hi</ex>ch the owners doe take a <lb/>
+            yeerelye Rent of the parrish that vseth it, letting it vnto them to sowe <lb/>
+            Dead mens Carkases in, as it were to sowe Corne, and like as the <lb/>
+            Carkasies should growe vp like the Fable of<hi rend="italic">Cadmus</hi> and brings <lb/>
+            them a Cropp to paye the rent w<ex>i</ex>th
+         </p>
+         <p>
+            This the Cannons doe meerelye forbidd as doth all soe <ex>th</ex>e Civill <lb/>
+            Lawe, and Lawe of humanitie, the Fathers, the Councells, and the <lb/>
+            opynion of St Jerome in the Case of Ephron
+         </p>
+         <p>
+            For my owne p<ex>ar</ex>te I take it to bee a kinde of Vsurie to lett <ex>tha</ex>t for <lb/>
+            monye whereof the hyrer can make noe kinde  of p<ex>ro</ex>fitt. It might <lb/>
+            bee said they might haue chosen when they First hireth itt whether <lb/>
+            they would haue vsed itt soe or not, And it is true but after <ex>th</ex>e thing <lb/>
+            is done, and the place become religious ground by beinge made A <lb/>
+            burying place now to lett it in <ex>tha</ex>t kind as I say against the Cannons
+         </p>
+         <p>
+            <add place="LM">
+                    <foreign xml:lang="la">
+                        <hi rend="italic">Locus consecratus</hi>
+                    </foreign> /</add>
+            Is that w<ex>hi</ex>ch by the devotion of the owner is setled vpon God and <lb/>
+            the Church for some devine and Ecclesiasticall Service and then Con=<lb break="no"/>
+            secrated thereto by the Bi<ex>sho</ex>pp, and is thereby severed from humane <lb/>
+            propertie as be our Churches and Churchyards. The moore p<ex>ro</ex>p<ex>er</ex>tie <lb/>
+            whereof w<ex>hi</ex>ch wee call Fee Simple is sayd to bee <hi rend="italic">in unbilus</hi> &amp; obesau<unclear>nce</unclear> <lb/>
+            though the Person Patron or Ordinarie For necessities sake maye <lb/>
+            make a Conveyance of them, But to dispose them or anye p<ex>ar</ex>t of them <lb/>
+            contrarie to the will of the donor of the nature of the guift &amp; the <lb/>
+            glorye of him that is the supreame owner God allmightie, as by thos <lb/>
+            Cannons, Sacriledge and extreame ympietie, there must therefore <lb/>
+            bee noe buying nor selling &amp; in this Noe doubt the Canonist is right
+         </p>
+         <p>
+            Thus much For the place of Sepulture
+         </p>
+         <p rend="align-centre">
+            Of the parties
+         </p>
+         <p>
+            Touching the Parties that take monye For the Office or Mi=<lb break="no"/>
+            nisterie of buryall, they saye that the Cannons extend not vniv<ex>er</ex>sally <lb/>
+            to all Clergie men, but to such onlye as are beneficed, or haue <unclear>pecons</unclear> <lb/>
+            for doing the Church duties serving the Cure, not to those whoe are <lb/>
+            <hi rend="italic">Sine titulo Sine Selario</hi> w<ex>i</ex>thout Benefice or Stipend, And that <lb/>
+            they maye take therefore what the<ex>y</ex> can gett, For it is inconvenient <lb/>
+            sayth the Glosse that A Clarke should sell his paynes having nothing <lb/>
+            <add place="LM">
+               <foreign xml:lang="la">
+                  <hi rend="italic">
+                     irec inconuenient <lb/>
+                     qve cler:licet <unclear/>paras <lb/>
+                     Suos cu<ex>m</ex> non her vnde <lb/>
+                     vivat decr Greg: lib 5: <lb/>
+                     29/ver pro Exequiis /
+                  </hi>
+               </foreign>
+            </add>
+            whereon els to live. The rest of the Clergie the<ex>y</ex> live vnder <ex>th</ex>e Cannons <lb/>
+            yet w<ex>i</ex>th such shelter and w<ex>i</ex>th soe manye starting holes as the Cannons <lb/>
+            maye playe vpon them but not hurte them for as Tyme changeth soe <lb/>
+            they change the Case observing A difference in taking monye before <lb/>
+            buryall and in taking after
+         </p>
+         <p>
+            To take aforehand (say they is vtterlye vnlawful for that <lb/>
+            <fw type="catch" place="bot-right">ymployeth</fw>
+            <pb n="327r" facs="/bl/add_ms_22591/add_ms_22591_f327r/add_ms_22591_f327r.jpg"/>
+            ymployeth A Buying and Selling by Example of Tradsmen <lb/>
+            whoe First take their Monye and then deliver their Wares Butt <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Expleto officio</hi>
+                </foreign>, when the duetie is once performed they maye take <lb/>
+            what is voluntarilye given them w<ex>i</ex>thout daunger of the Cannons, <lb/>
+            which wee shall Further examine in the next p<ex>ar</ex>agrave yet marke <lb/>
+            Nereida Complayned that the Bi<ex>sho</ex>pp <foreign xml:lang="la">
+                    <hi rend="italic">velit Exigere</hi>
+                </foreign> £100 of her for <lb/>
+            the buriall of her daughter w<ex>hi</ex>ch complaynt must needs be after <lb/>
+            the buriall it being in Sardinia, And St Gregorye writting from <lb/>
+            Rome or those parts, yet Expleto Officio the buryall beinge past <lb/>
+            Gregorye would suffer nothing to be taken, noe not vpo<ex>n</ex> volu<ex>n</ex>tary <lb/>
+            guifte to the vse of the Bi<ex>sho</ex>pp but for the publique vse of <ex>th</ex>e church. <lb/>
+            as for Lights etc Hee allowed that to be taken <ex>tha</ex>t was volu<ex>n</ex>tarily <lb/>
+            offered and noe other wise doth the Cannon Precipiendu<ex>m</ex> or third <lb/>
+            Cannon, The Second Cannon allsoe giveth libertie to offer somew<ex>ha</ex>t <lb/>
+            for the Soule of him that is dead, but nothing to be given for the grave
+         </p>
+         <p rend="align-centre">
+            Of the Manner
+         </p>
+         <p>
+            The manner of taking is of three Sortes (Vizt)1: Exactio<ex>n</ex> 2: <lb/>
+            demaunding, and 3: voluntarye Guiffte
+         </p>
+         <p>
+            Exaction is ordinarilye said to be A wringing of that w<ex>hi</ex>ch <lb/>
+            is due from the p<ex>ar</ex>tie, or of more then is due, like the Muncks of <lb/>
+            Mounte Pessulau to refuse to burye the Bodye till they had <ex>th</ex>e <lb/>
+            p<ex>re</ex>tended duties. Or els like them in the Cannon Apostolicum <lb/>
+            that  alleadgeth fayned ympediments &amp; excuses to rayse <ex>th</ex>e m<ex>ar</ex>ket by delaying <lb/>
+            the buryall or when the Buriall is past like Ianuarius <ex>th</ex>e Bi<ex>sho</ex>pp <lb/>
+            of Sardinia to vrge and insist vpon the demand These are sharp <lb/>
+            exactions but the<ex>y</ex> would includeth smooth Courses
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                  <hi rend="italic">
+                     That Simonica fir=<lb break="no"/>
+                       mit verb exigitur <lb/>
+                       lib: 4: Etimologia et <lb/>
+                       deuisio iuris viners <lb/>
+                       Exposit Jo: Caluin <lb/>
+                       <del rend="strikethrough">abul</del> abluble legit /
+                  </hi>
+               </foreign>
+            </add>
+            Lynwood expoundeth it to require or take A Nolenti of him <lb/>
+            that would not parte w<ex>i</ex>th itt Calvin sayeth that Hactantius vseth <lb/>
+            it for Convenienter postulare, John Beroinus that Exigere est <lb/>
+            petere exactis est petitio  And that the exactores tributoru<ex>m</ex> nere <lb/>
+            soe called Apetendis tributis w<ex>hi</ex>ch the Lexicon of the Cannon and <lb/>
+            Civill Lawe doth allsoe deliver. Soe that to exact is not only to wring <lb/>
+            itt from the p<ex>ar</ex>tie but to demand or require is to exacte
+         </p>
+         <p>
+            In this Mannor the First Cannon either vseth Symonically or <lb/>
+            complayneth of an Abuse in the preamble or p<ex>ro</ex>videth against another <lb/>
+            in the decree, To put it out of doubt the First Cannon vseth both the <lb/>
+            Wordes petitionere aliquod and exigi omnino prohebimus we vtterly <lb/>
+            forbidd anye thinge to be asked or exacted, And it setteth Exigi in the <lb/>
+            latter place as though Exigere were lesse then petere or (As <lb/>
+            Hactantius taketh itt) Convenienter postulare, Note allso that this <lb/>
+            Cannon was made against asking or exacting after the Buryall <lb/>
+            as before wee haue touched / All this notw<ex>i</ex>thstanding I must <lb/>
+            truelye confesse, For deale w<ex>i</ex>th Argus and Bryanus them <ex>th</ex>at haue <lb/>
+            all p<ex>er</ex>spiciencie and assistance that there is noe expresse worde in <lb/>
+            anye of those Cannons against giving or taking symplye thoughe I <lb/>
+            thinke there be Enough to satisfye indiffent Iudgm<ex>e</ex>ts.that if <lb/>
+            there be A de<del rend="strikethrough">fault </del>fecte in them I haue helpe for itt at home in <lb/>
+            our owne Provinciall Constitutions wherein A Senode at <unclear>    </unclear> <lb/>
+            assembled by Richard Archbishopp of Cant. I finde it thus <unclear>decned</unclear> <lb/>
+            vnder<ex>th</ex>e Rubricke <hi rend="italic">Ne quid Exigatur pro</hi> Sacramentis conferendis <lb/>
+            adictum est etc
+         </p>
+         <p>
+            <add place="RM">
+               <foreign xml:lang="la">
+                        <hi rend="italic">
+                  Statuimus ergo ut <lb/>
+                  dexter</hi>
+                    </foreign> /
+            </add>
+            Wee therefore Ordayne that from hence Forth neither for <lb/>
+            Ordina<del rend="strikethrough">
+                    <unclear/> </del>c<ex>i</ex>on nor for Chrisme, nor For Baptismee nor for <ex>th</ex>e <lb/>
+            Com<ex>m</ex>union, nor For Benediction anye thinge be exacted But <ex>th</ex>e <lb/>
+            guift of Christ be given w<ex>i</ex>th Free dispensat<ex>i</ex>on Soe that if they <lb/>
+            must be given freely, nothing suerlye must be taken for them <lb/>
+            <fw type="catch" place="bot-right">either</fw>
+            <pb n="327v" facs="/bl/add_ms_22591/add_ms_22591_f327v/add_ms_22591_f327v.jpg"/>
+            either Ex obliquo or by evasion
+         </p>
+         <p>
+            It maye be sayd they require nothing by waye of price for <lb/>
+            the ground or Sepulture, For the 4: Cannon is vt nulla cuius qua<ex>m</ex> <lb/>
+            precii Exactio attenfatur, but as A reward from the partie by way <lb/>
+            of gratuitie whoe knoweth not that preciu<ex>m</ex> signifieth A rewarde <lb/>
+            as well as A price And for myne owne parte I doubt not but that <lb/>
+            the Cannon doth soe intend itt yett to cleare the pointe the word of <lb/>
+            the third Cannon <del rend="strikethrough">doth soe intend it</del> are expresse vt in his numeris <lb/>
+            Exigatur that noe reward be required
+         </p>
+         <p>
+            I suppose by this Tyme the offenders in this kinde haue lost <ex>th</ex>e playne <lb/>
+            Feilds of the Cannons and take themselves to their last hope &amp; Castle <lb/>
+            of refuge Custome and prescription where it now resteth to beate <lb/>
+            them out, Everye man knoweth that evill Customes are in their owne <lb/>
+            nature to bee abolished, and those that be good, if there be a positiue <lb/>
+            Lawe against them, they are allsoe voyde the nature of this Custome <lb/>
+            by the Collection wee haue made out of the Cannons is not onlye de=<lb break="no"/>
+            clared to bee excessivelye badd: but by the great Generalls of <lb/>
+            Latteran to be verye horrible, and consequentlye to bee abolished <lb/>
+            but being possitivelye against the Cannon it is in ipso loc directlye, <lb/>
+            and although there were noe Clause or provision in them soe too <lb/>
+            denounce them yett ad maiorem cantelam in the 4:&amp; 5 Cannons doe <lb/>
+            vtterlye overthrowe that Custome and besydes doe brand it w<ex>i</ex>th this <lb/>
+            note of infamie the Elder the worse and the longer it hath co<ex>n</ex>tinued <lb/>
+            the more grevious
+         </p>
+         <p>
+            The Persons haue nowe A shrende Crowe to pull For the <lb/>
+            Canonist themselves will confesse all this to be true, what then <lb/>
+            remayneth w<ex>i</ex>th Achebous Seu verture dolis seu certo occumbere <lb/>
+            Corax, must nowe helpe them w<ex>i</ex>th A querke to cosen the Cannons <lb/>
+            and to slide from them or they are vndone/ Well here John de <lb/>
+            Athen one of the Polestarrs of the English Cannonists lett him (saith <lb/>
+            hee) that asketh anye thinge in this Case take heed to himselfe for <lb/>
+            if hee aske and take it for his dutie, or for the ground, or for the <lb/>
+            Sepulture he is gone, For it is Symonie, and for proofe thereof al=<lb break="no"/>
+            leadge some of the Cannons wee haue before recited w<ex>i</ex>th divers others <lb/>
+            and the opinion of Hostiensis
+         </p>
+         <p>
+            And sayeth Further that A Custome will then doe him noe good <lb/>
+            as appeareth by the Canon of Otho, w<ex>hi</ex>ch Hee is therein hand with <lb/>
+            And that of non Satis in the Extravagant by vs allsoe expressed <lb/>
+            But saith hee /if hee demaund when his dutie is done in this man<ex>ner</ex> <lb/>
+            for that everye one that dyeth or is installed hath vsed to giue so much <lb/>
+            to the Preist or Church, then he shall p<ex>re</ex>vayle and hath iustly required <lb/>
+            For confirmat<ex>i</ex>on whereof hee p<ex>ro</ex>duceth the resolut<ex>i</ex>on of Innocentius <lb/>
+            and other authorities, and that Hostiensis sayeth infallibly that this is <lb/>
+            true touching the duetie of the Layetie toward the Church insomuch <lb/>
+            as though the exhibition of the laye men tending to the over filling of <lb/>
+            the bellye of the Clarkes, yet it maye be demau<ex>n</ex>ded as hee noteth <lb/>
+            in the extravagant Fir Sunonica Jacobus, And Athen saith that hee <lb/>
+            beleeveth it to be true not respecting the Moderate gluttonie butt <lb/>
+            the right of the Church alleaging oth<ex>er</ex> authorities to confirme it Tit 1:
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Linwood</hi> /</add>
+            To the same purpose is the opinion of Linwood another Polestarre <lb/>
+            of our English Cannonists &amp; w<ex>i</ex>th the same words in p<ex>ar</ex>te Tit Simonica cap:1
+         </p>
+         <p>
+            Sepulture (saith hee) must not bee sould &amp; citing 8:9:2:5: Item <lb/>
+            quoritur p<ex>ro</ex> fo.vt Co: in sequentibus de Sepultura Ca. abolenda saith <lb/>
+            that it appeareth there in the Text and glosse that in A sacred place <lb/>
+            as in A churche or Churchyard nothing must be required for <lb/>
+            Sepulture noe nor yett for the Office of buriall as Barnard <lb/>
+            there noteth and this is true as touching his office because A <lb/>
+            Clearke by reason of his Office is tyed therevnto, butt itt is <lb/>
+            <fw type="catch" place="bot-right">otherwise</fw>
+            <pb n="328r" facs="/bl/add_ms_22591/add_ms_22591_f328r/add_ms_22591_f328r.jpg"/>
+            otherwise if hee bee not tyed thereto by Reason of his benefice <lb/>
+             and soe that hee doth not contract to haue itt For then itt is Symony <lb/>
+            extra rod,ca:etc in tantum Secundium hosiensis et ca: nor satis yet <lb/>
+            the Glosse saieth in the End of the said Chapter Abolenda that <lb/>
+            though Clarkes maye not require anye thing for such sepulture, yet <lb/>
+            the Layetie maye be compelled to observe godlye and lawdable <lb/>
+            Customes, and marke according to the note of Hostiensis in the <lb/>
+            same Chapter that hee that requireth to haue the Custome p<ex>er</ex>formed <lb/>
+            to him must take heed to himselfe, For if he demaund itt For the <lb/>
+            Grounde or for his duetie, Hee is downe, and it p<ex>ro</ex> fiteth him no=<lb break="no"/>
+            thinge to alleadge. Vt dicto capite Abolenda But if hee sayeth <lb/>
+             that for everye dead Bodye soe much hath beene vsually given to <lb/>
+            the Preist or to the Church then hee shall abtayne it as in Cap: ad <lb/>
+            Apostolicum extra eund<ex>um</ex> vide Glosse hic <unclear>sionileni</unclear> 13:42: Ite<ex>m</ex> que=<lb break="no"/>
+            ritus Linwood <unclear>vlid</unclear> 201: Heere is A left hand waye to <unclear>  epp</unclear> by all <lb/>
+            the Cannons lett vs Consider it maye be the Parsons, frame their <lb/>
+            Customes as they list
+         </p>
+         <p>
+            It is like A Protens or Hestian Ruler are they not tyed to the <lb/>
+            manner and Forme of Payment as they made it Figue &amp; onlye vni=<lb break="no"/>
+            versitie observacons lett them be well advised in lying <ex>th</ex>eir Customes <lb/>
+            soe least the Jurye Finde an ignoramus, It hath fallen on me to <lb/>
+            be an vnworthie Instrum<ex>en</ex>t of that most Noble and most gratious <lb/>
+            Com<ex>m</ex>ission of Exacted Fees and inovated Offices and thereby too <lb/>
+            haue notice by Certificate of divers persons Viccars &amp; Cheife <lb/>
+            Parishioners of most of the greatest parishes in London yet none <lb/>
+            of them hitherto to my remembrance haue made any such clayme <lb/>
+            nor knowe I how they should prove it if they did, I will steale <lb/>
+            noe Coales nor prosecute this suite noe further For the duetie <lb/>
+            Love honor and greate observat<ex>i</ex>on I beare vnto them/ But I in=<lb break="no"/>
+            treate w<ex>i</ex>th Vehemencie that they with the rest of theire Coate <lb/>
+            will thinke Seriouslie of it, and if not allwayes yet when in their <lb/>
+            Sermons the<ex>y</ex> Justlye fall vpon the oppressions extortc<ex>i</ex>ons raysing <lb/>
+            of Rents etc by Landlords and laye men, For this Bird of theirs <lb/>
+            is A winged Sinne hatcht of late w<ex>i</ex>thin the Cittie but next all=<lb break="no"/>
+            readye into the neighbour Townes, and will shortlye flye (if the <lb/>
+            winge be not clipt in Tyme) over all the kingdome O lett not that <lb/>
+            <add place="RM">
+               <hi rend="italic">
+                  Jeromie Cap 13: <lb/>
+                  verse 15:
+               </hi>
+            </add>
+            of Jeromie be once spoken of in this noble Cittie fro<ex>m</ex> <ex>th</ex>e Prophets <lb/>
+            of Jerusalem, is wickedness gone For the into all the Land as this <lb/>
+            Synne and the Cannons lye Sore vpo<ex>n</ex> the Ministers for takinge <lb/>
+            monye for graves in the Cancell and for their paines in burying <lb/>
+            the Corps whersoever, Soe doe they vpo<ex>n</ex> some others whoe little <lb/>
+            dreame of itt, as the Church Wardens of the parishes that sell <lb/>
+            Graues in the Church and Churchyards like ware in <ex>th</ex>eir Shops, <lb/>
+            and when they thinke fitt make Lawes in their Vestrie For <lb/>
+            raysing the price, as they doe in their Halls for the price of their <lb/>
+            Wares, If they looke into the Third Cannon they shall Finde <lb/>
+            themselves there contayned vnder A Fayre Stile, Them <ex>th</ex>at haue <lb/>
+            the goverm<ex>en</ex>t of the place meaning of the Church and Churchyard <lb/>
+            and Parrish Soe that though they be laye men, yet by misvsinge <lb/>
+            things of the Church they fall into the same Offence respectively <lb/>
+            that Churchmen doe, and haue their Portion assigned them with <lb/>
+            Gehezi (as in the First Cannon, I haue heard some of them an=<lb break="no"/>
+            swere, that it is noe benefitt to our Selves, It is good for the <lb/>
+            Parrish For the repayring the Church Bells or Steeple to help <lb/>
+            out some extraordinarye Charge that falls vpon the parrish <lb/>
+            <fw type="catch" place="bot-right"> (And</fw>
+            <pb n="328v" facs="/bl/add_ms_22591/add_ms_22591_f328v/add_ms_22591_f328v.jpg"/>
+            And it or) Guest house dynner
+         </p>
+         <p>
+            It is on Agape or Feast of love w<ex>hi</ex>ch noe man will require <lb/>
+            or <del rend="strikethrough">gather</del> grutch at our p<ex>re</ex>decessors did it before our Tyme &amp; our <lb/>
+            Successors will die it when we are gone, All is done by an asse<ex>m</ex>bly <lb/>
+            of the Vesterye, by consent of the Masters and cheiffe of <ex>th</ex>e p<ex>ar</ex>ishe <lb/>
+            subscribed and testified vnder their handes, Well lett theire <lb/>
+            Vesterye on gods name bee A Certificate for well ordering of <lb/>
+            the thinges of the Church it is fitt it should bee soe But lett it not <lb/>
+            be A Parliament 12: or 16: private persons (I will not meddle <lb/>
+            w<ex>i</ex>th their Trade or quallitie) should Change or abrogate anye su=<lb break="no"/>
+            perior constitutions much lesse that of Synods &amp; gen<ex>er</ex>all Cou<ex>n</ex>cells <lb/>
+            nor to make Orders to binde like a Lawe the rest of the parrish <lb/>
+            that consented not
+         </p>
+         <p>
+            What they haue used to doe Tyme out of mynde I call in=<lb break="no"/>
+            to question, but theise Vestures that w<ex>i</ex>thin these thirtye yeeres <lb/>
+            or thereabouts haue left there au<ex>n</ex>tient Forme supported by a late <lb/>
+            full prescription and continued to themselves A new societye, <lb/>
+            power and Jurisdiction over the Rest Countenanced by an Iust <lb/>
+            rum<unclear/>t fro<ex>m</ex> the Ordinarye vnder the Seale of his Chancellor And <lb/>
+            newe things must haue newe names, Soe they are Comonly stiled <lb/>
+            selected Vesteryes, I see the Bi<ex>sho</ex>pps names are vsed in them whether <lb/>
+            w<ex>i</ex>th theire assents and knowledge I am doubtfull / I assure my <lb/>
+            Selfe their Lo<ex>rdshi</ex>pps would doe nothing against the Lawe, and I vn=<lb break="no"/>
+            derstand not by what lawe they maye at this daye erect suche <lb/>
+            societie, or endow then w<ex>i</ex>th such authoritie as is p<ex>re</ex>tended But to <lb/>
+            deale plainelye I thinke theise Instrum<ex>en</ex>ts conferre more mony <lb/>
+            vpon the Chau<ex>n</ex>cellor then authoritie vpon the Vesteries, For by these <lb/>
+            that I haue seene the B<ex>isho</ex>pps and Chancelor graunted nothing to the<ex>m</ex>, <lb/>
+            but to relating that they haue considered the Forme of a Vestrie <lb/>
+            desired by some of the parrish, they allowe approve &amp; co<ex>n</ex>firme <lb/>
+            itt, and yet noe other wise then <foreign xml:lang="la">
+                    <hi rend="italic">quantum in nobis est</hi>
+                </foreign> as farr forth <lb/>
+            as lawfullye they maye and noe otherwise
+         </p>
+         <p>
+            Nor have they this shaddow of Authoritie noe otherwise <lb/>
+            then vpon Condition That they shall doe nothing that may trench <lb/>
+            vpon the iurisdiction or p<ex>ro</ex>fitt of the Ecclesiasticall Courte when <lb/>
+             they cann neither iustifie the Clayming of their Fees or duties <lb/>
+            either by the one or the other, And the Vesterie men p<ex>er</ex>happs <lb/>
+            maye be in daunger of <unclear>our</unclear> vnlawfull assemblye to chang <unclear>lawes</unclear> <lb/>
+            or to haue their offences screnied very high if <unclear>seu<ex>r</ex>itie</unclear> should examy<ex>n</ex>e it
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="italic">November</hi> 24: <lb/>
+               1627:
+            </add>
+            Giue mee leave to p<ex>re</ex>sent vnto you what I finde in a vestery <lb/>
+            constitution latelye made and subscribed by <ex>th</ex>e person &amp; Chu<ex>r</ex>ch <lb/>
+            Wardens w<ex>i</ex>th 23: more of that Assemblie, confirrmed by <ex>th</ex>e Bi<ex>sho</ex>pp <lb/>
+            approved by his Chau<ex>n</ex>cellor declared to be A Lawdable Custome <lb/>
+            of that parrish , and in Testimonye thereof entred as A solempe <lb/>
+            Acte in the principall Registrie of the Lord B<ex>isho</ex>pp of the diocesse <lb/>
+            and fynallye ratefied w<ex>i</ex>th the Chau<ex>n</ex>cellors hand &amp; seale of Office <lb/>
+            I maye saye vide p<ex>er</ex>udintque videre, But here the p<ex>ar</ex>cells touchinge <lb/>
+            the Parsons and Church Wardens for the point in hand
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">In the Chauncell</hi>
+         </p>
+         <p>
+            Whosoever wilbe buried in the Chau<ex>n</ex>cell shall pay) agrem<ex>en</ex>t <lb/>
+            to the person as shall be agreed on betweene them)
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">In <ex>th</ex>e Iles of <ex>th</ex>e Chau<ex>n</ex>cell</hi>
+         </p>
+         <p rend="indent">
+            To the Church Wardens For the ground - 1-6-8
+         </p>
+         <p rend="indent">
+            To the person For enteiring the Corps - 0-6-8
+         </p>
+         <fw type="catch" place="bot-right">
+                <hi rend="bold">In</hi>
+            </fw>
+         <pb n="329r" facs="/bl/add_ms_22591/add_ms_22591_f329r/add_ms_22591_f329r.jpg"/>
+         <p rend="align-centre">
+            <hi rend="bold">In <ex>th</ex>e Body of the Church</hi>
+         </p>
+         <p rend="indent">
+            To the Church Wardens For the Ground  - 1-0-0-
+         </p>
+         <p rend="indent">
+            To the Person For entering the Corps  - 0-6-8
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">In the Churchyard</hi>
+         </p>
+         <p rend="indent">
+            To <ex>th</ex>e Parson for entering <ex>th</ex>e Corps Coffind  - 0-2-6
+         </p>
+         <p rend="indent">
+            To him in like Manner For everye           ) – 0-1-4
+         </p>
+         <p rend="indent">
+            Child vnd<ex>er</ex> 7: yeers old vncoffind   )
+         </p>
+         <p>
+            All those Fees double of everye stranger, heere I medle <lb/>
+            not w<ex>i</ex>th the Constituc<ex>i</ex>ons of Foure poundes to the person for <lb/>
+            A Pewe in the Chau<ex>n</ex>cell, nor of 15s: 20s: 40s: £3 10s For places &amp; <lb/>
+            Pewes in other partes, but these and manye others of the like sort <lb/>
+            fall in our Certificate
+         </p>
+         <p>
+            In another Parrish I finde 6-8d to the Person For <ex>th</ex>e dutie <lb/>
+            of Buriall in the Church when himselfe doth it not but his Curate, <lb/>
+            whoe for his paynes hath by the same Certificate xs more beside <lb/>
+            other xs For A Sermon (though there were none) but to goe a litle <lb/>
+            backe to the First demaund touching burying in the Chau<ex>n</ex>cell w<ex>hi</ex>ch <lb/>
+            is not defuncte in quoto, but in positive ex imperio <ex>th</ex>at whosoeuer <lb/>
+            will be buried there, shall Pay to <ex>th</ex>e Pers<ex>o</ex>n as shalbe agreed on
+         </p>
+         <p>
+            Itt is to be noted that there is noe Custome and soe conseque<ex>n</ex>tly <lb/>
+            then whereas the Person thinketh the advantage lyeth on his syd <lb/>
+            to take what he listeth, hee is now excluded by all the Cannons <lb/>
+            from taking anye thinge at all, For the Buckler that should defend <lb/>
+            them is the Cannon ad Apostolum, and the breadth of <ex>th</ex>at extendeth <lb/>
+            not further then to protect them that fight vnder A Custome w<ex>hi</ex>ch <lb/>
+            allsoe must be pious and laudable otherwise it concerneth not any <lb/>
+            and soe consequentlye when they stand vpon Tearmes, &amp; alleadge <lb/>
+            the Chau<ex>n</ex>cell to be their Freehold, and that they maye as freely <lb/>
+            dispose of it at their pleasure as Lay men of theire Landes and <lb/>
+            fall into the foule pitt of Symonie if they were looked after
+         </p>
+         <p>
+            The graue is the onlye inheritance that wee are borne vnto <lb/>
+            certeynlye, It is the Inheritance w<ex>hi</ex>ch our Graundmoth<ex>er</ex> (Earthe) <lb/>
+            hath left to descend in Gravell kinde amongst her Childre<ex>n</ex>, shall <lb/>
+            one Enter and hold another out, or drive him to paye A Fyne <lb/>
+            pro adenuda heredicate (as they saye in the Feodall Lawe or <lb/>
+            pro ingressit ( as wee saye in the Com<ex>m</ex>on Lawe) is our tenure loose <lb/>
+            like a Coppihold ad voluntateni domini and not rather noble <lb/>
+            by Franke Almayne Free from all Payments and services, how <lb/>
+            doe the dead rest From their Labours if they be vexed with <lb/>
+            payments, howe goe they to their graves in peace if they paye <lb/>
+            for their peace Laborat alieno quidebito tenetur and his <lb/>
+            peace is not worthie thanks if he must paye for it
+         </p>
+         <p>
+            Hee paieth  For his peace, if he paye for the place where his <lb/>
+            peace cannot otherwise be had, he payeth for his rest if he can<ex>n</ex>ot <lb/>
+            enioye it w<ex>i</ex>thout payment, hee payeth for his Inheritance if hee <lb/>
+            cannot enter into itt w<ex>i</ex>thout A Fyne pro ingressa his inheritance <lb/>
+            setled vppo<ex>n</ex> him by the great Charter Terra dedit Filliis <lb/>
+            hominu<ex>m</ex>, A Royall guifte, But as it is vsed make Collacatu in <lb/>
+            ill distributed
+         </p>
+         <p>
+            The poore man alas hath nothing of all this for his porcou<ex>n</ex> <lb/>
+            but the Grave, and maye not nowe haue that vnlesse he paie <lb/>
+            <fw type="catch" place="bot-right">well</fw>
+            <pb n="329v" facs="/bl/add_ms_22591/add_ms_22591_f329v/add_ms_22591_f329v.jpg"/>
+            Well for it, To whom should hee paye First Reason au<ex>n</ex>swereth <lb/>
+            if to anye to the owner of the Soyle, true, But the owner of <ex>th</ex>e soyle <lb/>
+            was the Founder of the Church, and hee out of pietie zeale and <lb/>
+            Charitie gaue the Church Freelye for prayer and the Churchyard <lb/>
+            free for buryall abs<unclear/> ulli rotinimento w<ex>i</ex>thout any rent, any service <lb/>
+            any reservac<ex>i</ex>on nor could nor could hee if he would haue donne <lb/>
+            otherwise for the Cannons would not suffer him; nowe thoughe hee <lb/>
+            were the absolute owner/yett if he had reserved but A pepper <lb/>
+            Corne out of A grave, itt had beene not only voyde but execrable, <lb/>
+            A pepper Corne what talke you of A Pepper Corne, Noe grownde in <lb/>
+            the Kingdome is sould soe deere as A Grave, that little poore Cabinett <lb/>
+            that is not Comonlye above five Foote long and A Foote and halfe in <lb/>
+            Bredth where there is noe Roome to Stirre either hand or Foote <lb/>
+            <add place="LM">
+                    <hi rend="italic">St Bernard</hi>/</add>
+            And the Roofe as St Bernard saith lyes soe lowe as it toucheth his <lb/>
+            Nose, This little Cabinett is sometymes in the Churchyard sold for <lb/>
+            xvi d to the poorest man, and sometymes for ii s vi d In the Churche <lb/>
+            it selfe sould for x s: xx s: xl s: 3£: 4£; 5£: yea and sometimes  x£ <lb/>
+            And yett the purchaser hath noe assurance of it but constrayned <lb/>
+            to hould ad Voluntatem domini or as Tennant for vii or 10:yeeres <lb/>
+            w<ex>i</ex>thin w<ex>hi</ex>ch Terme hee is oftentymes turned out and another put <lb/>
+            in his Roome, and noe writt of quare diecit infra terminu<ex>m</ex> lyeth <lb/>
+            <add place="LM">
+                    <hi rend="italic">Note</hi> /</add>
+            for him / Shall I tell what I was ashamed to heare, A grave or <lb/>
+            burying place lett to Farme for xx s A yeere, the Rent duelye <lb/>
+            paid for divers yeeres and being then behind, the Person threat <lb/>
+            ned to vncase the Corpes by pulling downe the Monum<ex>en</ex>t if itt <lb/>
+            were not satisfyed, and shame was soe farr from him as hee spa=<lb break="no"/>
+            red not to defend it even before the Commissioners to whom it was <lb/>
+            likewise testified, that another had made Fortie pounds of one <lb/>
+            grave in tenn yeeres, by Tenn pounds at A Tyme, Strang things <lb/>
+            to mee what to others I Knowe nott, but I suppose <foreign xml:lang="la">
+                    <hi rend="italic">Senectatis <lb/>
+            non exaudita Cathegis</hi>
+                </foreign>, <ex>th</ex>e Eldest man living hath not heard <ex>th</ex>e like/
+         </p>
+         <p>
+            Is it not Tyme that his Ma<ex>jes</ex>tye should doe as he doth that like <lb/>
+            Josias he should reforme the Temple of the house of God, God be <lb/>
+            Blessed that putt it into his hearte, and graunt him well to finish <lb/>
+            <ex>th</ex>e Worke in hand, being soe Noble, Soe pious, and soe full of necessity
+         </p>
+         <p>
+            I saye the Church was Freelye given for prayer by <ex>th</ex>e fou<ex>n</ex>der <lb/>
+            and the Churchyard For Buriall, what reason then cann bee <lb/>
+            alleadged, whie the dead should rather paye then the living doe <lb/>
+            for goeing into the Church, or whie doe not the living paye aswelle <lb/>
+            for the one as the dead for the other
+         </p>
+         <p>
+            Alasse <foreign xml:lang="la">
+                    <hi rend="italic">mortuo leoni Et lepores insultant</hi>
+                </foreign> A little Child <lb/>
+            maye pull A dead Lyon by the Beard, but the least dogge alive <lb/>
+            will turne againe vpon the tallest man I haue here a Fayre <lb/>
+            occasion to speake of another great abuse the extreame Exacting <lb/>
+            of Monye For Pewes, but I will hould mee to the matter in hand <lb/>
+            and for A Conclusion give mee leave to vpbraide o<ex>u</ex>r Ministers <lb/>
+            w<ex>i</ex>th the golden Edict of <hi rend="italic">Agamemnon in Homer</hi> touchinge the <lb/>
+            slaughtered Troians, I will that, naught be taken From <ex>th</ex>e graue, <lb/>
+            <add place="LM">
+                    <hi rend="italic">Hi<unclear/> 7: Pag 126</hi>:/</add>
+            but the dead shall haue all free Buriall
+         </p>
+         <p>
+            O shame to our Religion that heathen Souldiers should bee <lb/>
+            more gratious to his Enemies then A Christian Minister to his <lb/>
+            Freindes and bretheren, but terra nunce aetas etc
+         </p>
+         <p>
+            I am nowe ledd where I was loath to come to shewe the <lb/>
+            nature and penaltye of this Synne, but that nicenes is to late <lb/>
+            since John de Athen Hostiensis, divers Cannons and some <lb/>
+            former passaged haue allreadye soe manifestlye discouered <lb/>
+            <fw type="catch" place="bot-right">itt</fw>
+            <pb n="330r" facs="/bl/add_ms_22591/add_ms_22591_f330r/add_ms_22591_f330r.jpg"/>
+            to be Symonie vnder w<ex>hi</ex>ch Title it therefore standeth rebuked <lb/>
+            in the Bookes of Cannon lawe w<ex>i</ex>th this Censure and penaltie <lb/>
+            <foreign xml:lang="la">
+                    <hi rend="italic">Sicut Simonica ca: pestis etc</hi>
+                </foreign> As that pestilent diseasse of <lb/>
+            Symonie doth exceed in greatnes all other deseases soe ymediatly <lb/>
+            soe sone as the signes thereof shall appeare by the relat<ex>i</ex>on of <lb/>
+            anye person itt out to be cast out and banished from the house of <lb/>
+            God, Soe Odious is the Contagion thereof in the Cannon Lawe <lb/>
+            as it receaveth all Cryminous and infamous persons to become <lb/>
+            Accusars even the bondman against his Lord, Itt induceth the <lb/>
+            suspenc<ex>i</ex>on irregularitie Exteminators Curses deprivat<ex>i</ex>ons <lb/>
+            and manye Penalties not put in execut<ex>i</ex>on
+         </p>
+         <p>
+            The conveya<ex>u</ex>nce and reformat<ex>i</ex>on thereof, as of all other <lb/>
+            Enormities in Church and Churchmen were au<ex>n</ex>tientlye in <ex>th</ex>e Clergy <lb/>
+            themselves till Hen: 2 whoe perceaving that manye horrible crymes <lb/>
+            Com<ex>m</ex>itted by the Clarkes were Either Smothered vpp <del rend="strikethrough">vp</del> in secret <lb/>
+            or Smothered over in Examinac<ex>i</ex>on w<ex>i</ex>th some sleight punishm<ex>en</ex>t for <lb/>
+            Nothing in the Comon Lawe is mortall, hee therefore obtayned <lb/>
+            in this greate Councell of <hi rend="italic">Claredon</hi>, to haue them tried for Ca=<lb break="no"/>
+            pitall Matters before the seculer Iudges w<ex>hi</ex>ch first cutt <ex>th</ex>e Ham=<lb break="no"/>
+            strings of Ecclesiasticall Iurisdiction, and became A perpetuall <lb/>
+            President For the Tamynge it afterwards in other members
+         </p>
+         <p>
+            For herevpon the Succeeding Parliam<ex>en</ex>ts from Tyme to tyme <lb/>
+            as the Found the Clergie either Sleeping or exorbitant in vsing <lb/>
+            their iurisdicc<ex>i</ex>on pulled some what A Consistario <foreign xml:lang="la">
+                    <hi rend="italic">Clerio ad <lb/>
+            praetorium</hi>
+                </foreign> Regis From the Comon Lawe, And by litle and litle <lb/>
+            haue brought the greate Sea of their old Authoratie to a narrow <lb/>
+            Compasse, w<ex>hi</ex>ch if my Lords the B<ex>isho</ex>pps looke noe better to itt, <lb/>
+            will (I Finde) bee yett distracted and deminished/ They are nott <lb/>
+            Ignorant whatt hath beene attemted in Q<ex>ueen</ex> Elizabeth’s Tyme &amp; <lb/>
+            since, And that there bee about Foure hundred persons which <lb/>
+            obserue their Courses verye Strictlye / Theyr Lo<ex>rdshi</ex>ps trust theire <lb/>
+            Chau<ex>n</ex>cellors, Comissioners, Archdeacons, Officialls w<ex>i</ex>th Canonicall <lb/>
+            governm<ex>en</ex>t of their Flockes, and these in manye places desiring <lb/>
+            monye rather then Amendm<ex>en</ex>t, doe soe shaue and powle <ex>th</ex>e people <lb/>
+            that they crye the worke is verye grevious, And will (noe doubt) <lb/>
+            p<ex>ro</ex>duce some other reformac<ex>i</ex>on if it bee not (as I saye) helped <lb/>
+            by themselves in Tyme
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  Steephen Mepham <lb/>
+                  Acch. Cant fa: <lb/>
+                  Stratford in Sinod <lb/>
+                  London. /
+               </hi>
+            </add>
+            They were wont to limitt their owne Fees and theire <lb/>
+            Officers in their Provinciall Synods, as appeareth by diu<ex>er</ex>s of <lb/>
+            them, but their Successors kept them soe badlye that thoughe the <lb/>
+            Synod London in the yeere 1632: had given A good smart al=<lb break="no"/>
+            lowance For the probate and business of A Testament as xxs <lb/>
+            at least of the money at fyne for everie hundred pounds of the <lb/>
+            Inventorye, yett the Markett by H: 8: his Tyme was growne <lb/>
+            to that height that 1000 Markes were sayd to be exacted For <lb/>
+            the Probate and busynes of one mans Testament which gaue <lb/>
+            the Parlyam<ex>en</ex>t in the twoe and Twentyeth of the same king such <lb/>
+            discontentment as they would trust the Clergie noe longer <lb/>
+            to bee their owne Carvers, but made A spetiall statute in <ex>tha</ex>t <lb/>
+            pointe to bridle their Exactions, Nowe the Authoritie they had <lb/>
+            is gone by their Submission A<ex>n</ex>no 25: H: 8: And the Statute there <lb/>
+            vpon then made, Soe at this daye they haue noe Authority either <lb/>
+            by <hi rend="italic">Dioca;san</hi>, or Provintiall Synods to sett any fees but in their <lb/>
+            Convocac<ex>i</ex>ons by Assent and Confirmac<ex>i</ex>on of his ma<ex>jes</ex>tye vnder <lb/>
+            the greate Seale, In w<ex>hi</ex>ch Casse none hath beene taxed since <lb/>
+            <add place="RM">
+                    <hi rend="italic">27: Eliz: 1589:/</hi>
+                </add>
+            The said Statute, Till the 27: Eliz: And none touching anye <lb/>
+            <fw type="catch" place="bot-right">other</fw>
+            <pb n="330v" facs="/bl/add_ms_22591/add_ms_22591_f330v/add_ms_22591_f330v.jpg"/>
+            other then Officers of Ecclesiasticall Iurisdicc<ex>i</ex>ons &amp; Courts <lb/>
+            not Persons Vicars Mynisters, Churchwardens etc &amp; not <lb/>
+            <add place="LM">
+               <hi rend="italic">
+                  Anno 1597: Cap: <lb/>
+                  132:
+               </hi>
+            </add>
+            otherwise, And in the Constituc<ex>i</ex>on of London 25: Oct: 29: Eliz: <lb/>
+            and primo Jacobi Regis, where the Lord ArchB<ex>isho</ex>p of Ca<ex>n</ex>terbury <lb/>
+            hath power given him to determine of some questionable Fees <lb/>
+            touching the said Officers but noe Further Soe that the Rates and <lb/>
+            Taxes of Fees of Persons, Viccars, Mynisters, Churchwarde<ex>n</ex>s <lb/>
+            and the like w<ex>hi</ex>ch I haue often seene to be Cou<ex>n</ex>tenau<ex>n</ex>ced and <lb/>
+            authorised by the Ordinarye of the diocesse, his Chau<ex>n</ex>cellour <lb/>
+             or other Officers vnder their hand and Seale (as farre as my <lb/>
+            vnderstanding can discover) are w<ex>i</ex>thout suffitient Wareant, and <lb/>
+            against the Lawe
+         </p>
+         <p rend="align-centre">
+            What Fees the Parson maye take
+         </p>
+         <p>
+            But when all is done, itt must be Forgotten <ex>tha</ex>t some things <lb/>
+            (doubtlesse) is due to the parson, vpon <ex>th</ex>e buryall of the deade, <lb/>
+            For whye els should divers Cannons p<ex>ro</ex>vide that the Bodyes of <lb/>
+            those that dye be not carryed to buryall out of the parrish least <lb/>
+            the Preist should thereby loose what is due to him
+         </p>
+         <p>
+            And allthough the Cannon and Apostolicu<ex>m</ex> forbidd exacting of <lb/>
+            Monye For Buryalls, yet it p<ex>re</ex>serveth Godlye &amp; Laudable Custo<ex>m</ex> <lb/>
+            in that kinde, and p<ex>re</ex>scribeth A Course for suppressing <ex>th</ex>e malline <lb/>
+            that shall attempt to breake them
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="italic">
+                  De Corona nulit <lb/>
+                  et 3: 138/
+               </hi>
+            </add>
+            Turtulian maketh often Mention of oblacons for the<ex>m</ex> <lb/>
+            not onlye at the Tyme they dye. Aniveraries &amp; p<ex>ar</ex>ticulerlye of <lb/>
+            Husbandes For their Wives soe doth Cuperian in divers passa=<lb break="no"/>
+            ges, calling them sometimes Sacrificiu<ex>m</ex>, and Speaking of oblat<ex>i</ex>ons <lb/>
+            <add place="LM">
+               <hi rend="italic">
+                  De Cattitnonage lib <lb/>
+                  3: Epist:6: lib:4: Ep: <lb/>
+                  5: lib:1 : Epist: 7 <lb/>
+                  Lib:de Orig Templ <lb/>
+                  Act 87: 6:
+               </hi>
+            </add>
+            saythe That the Ministers had an Allowance out of them for their <lb/>
+            Mayntenance <hi rend="italic">Hospinion</hi> therefore is deceaved that supposed <lb/>
+            them to haue their growth vnder Gregorye the greate, But in this <lb/>
+            doubtlesse he is deceaved, That Preists and Monkes leadinge <lb/>
+            the people on in A sup<ex>er</ex>stition of prayers and ablations for the <lb/>
+            dead raysed thereby an Excessive Benefitt to themselves, for they <lb/>
+            made thereby the Place of Buryall w<ex>hi</ex>ch was publique to become <lb/>
+            theire owne in private, and then selling that for monye shew them <lb/>
+            selves more ympious then the Barbarious Ephron that freely <lb/>
+            offered Abraham his buryall place Feild
+         </p>
+         <p>
+            It is therefore considered w<ex>hi</ex>ch bee those Lawdable Custo<ex>m</ex>s <lb/>
+            that maye come w<ex>i</ex>thin the Protections of the Cannon, For they <lb/>
+            doubtlesse are in expugnable, though not ease to be expressed for <lb/>
+            they maye differ according as devot<ex>i</ex>on hath gotten them manye <lb/>
+            place of pareish, but be what they maye (I labor not in that) my <lb/>
+            drift is onelye to shewe, that they must not bee those w<ex>hi</ex>ch are now <lb/>
+            in use to take monye for the grave or Office of Buriall, for these <lb/>
+            cannot be said to be Godlye, and lawdable Customes Since so many <lb/>
+            Cannons haue declared them to be vicious, ympious, iniurious, <lb/>
+            and Irreligious too horrible and the more greevious by the <lb/>
+            Longer Custome and Continuance, And therefore damneth &amp; <lb/>
+            Anulleth them by expresse wordes, how au<ex>n</ex>tient or generall <lb/>
+            Soe ever they bee, if you will putt mee to name such Customes <lb/>
+            as maye Seeme Lawdable and Canonicall / I will p<ex>re</ex>sent you <lb/>
+            w<ex>i</ex>th that w<ex>hi</ex>ch Hostines, Athen, and Linwood, delivered on their <lb/>
+            Creditts to be authenticall in the Parrish where it hath bine soe <lb/>
+            used (Vid<ex>elice</ex>t)
+         </p>
+         <p>
+            That For everye One that dyeth there Soe much hath <lb/>
+            vsuallie beene given to the Preist or Church This they say will <lb/>
+            hould out water, but as I said before I feare that noe one of <lb/>
+            our p<ex>er</ex>sons can Maynetayne this Forme
+         </p>
+         <p>
+            Another is that w<ex>hi</ex>ch wee call A Mortuarie w<ex>hi</ex>ch was thus <lb/>
+            paied, The lord of the Fee had the Best beast of the defunct <lb/>
+             by waye of Herriott For the Support of his bodye against <lb/>
+            <fw type="catch" place="bot-right">Seculer</fw>
+            <pb n="331r" facs="/bl/add_ms_22591/add_ms_22591_f331r/add_ms_22591_f331r.jpg"/>
+            Seculer Enemies, And the Parson of the Parrish had the second <lb/>
+            as A Mortuarye For defending his Soule against his spireituall <lb/>
+            <add place="RM">
+               <hi rend="italic">
+                  Linwood 161: m <lb/>
+                  Glosse f<ex>ol</ex>io: 15:
+               </hi>
+            </add>
+            adversaries I knowe the Provinciall and Lynwood following itt <lb/>
+            doth saye that the Mortuarie was given in recompence of p<ex>er</ex>sonall <lb/>
+            Tithes forgotten or omitted, But vnder Correction I doubt of <lb/>
+            that because of the au<ex>n</ex>tient Familiaritie of Wills, and by <ex>th</ex>e Cano<ex>n</ex> <lb/>
+            of the Synode of Exceter, it is expresslye directed, that in all of the<ex>m</ex> <lb/>
+            there shalbe A Speciall Legacye of somew<ex>ha</ex>t to the p<ex>ar</ex>son For Tithes <lb/>
+            and oblations forgotten or omitted, And if A Mortuarie were for <lb/>
+             the same Reason than had the p<ex>ar</ex>son in many places severall recu<ex>m</ex>=<lb break="no"/>
+            pences for one and the same Thinge,
+         </p>
+         <p>
+            It were verye vnreasonable allsoe that A poore man having <lb/>
+            Nothing Tytheable but three horses should give the Second of the<ex>m</ex> <lb/>
+            to the p<ex>ar</ex>son For Tithes Omitted, Then hee whose Tythes are worth <lb/>
+            £40 or £50 A yeere giveth noe more (nor is it like an Herriott <lb/>
+            w<ex>hi</ex>ch by contract betweene the Lord and the Tenant was reserued <lb/>
+            vpon the Originall Graunt
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  21: Hen: 8: <lb/>
+                  Cap:6:
+               </hi>
+            </add>
+            But the Statute of 21: <hi rend="italic">H</hi>: Cap: 6 hath turned these kinde <lb/>
+            of Mortuaries into certayne Som<ex>m</ex>es of Monye, according to the <lb/>
+            Value of the Estate of the Parrishioner deceassed, and forbiddeth <lb/>
+            anye thinge to be otherwise taken either For Mourtuaries or <lb/>
+            Corps present, <del rend="strikethrough">I</del> w<ex>hi</ex>ch I conceave to be when Corps are carried <lb/>
+            throughe or into another p<ex>ar</ex>ish then where it dyed/
+         </p>
+         <p>
+            Other Customes there maye bee allsoe w<ex>hi</ex>ch <ex>th</ex>e Canno<ex>ns</ex> ac=<lb break="no"/>
+            compteth laudable, As where monyes were au<ex>n</ex>tientlye given, <lb/>
+            For Lights in the Church, or for praying For the Soule of the <lb/>
+            deceased/ The Person it maye be doth Enioye at this daye Not <lb/>
+            mentioning the Originall, and soe it behooveth him to doe, least <lb/>
+            the kinge be intituled vnto it by <ex>th</ex>e Statute of su<ex>per</ex>stitious vses, &amp; <lb/>
+            itt maye bee that the Monyes now taken For graves was au<ex>n</ex>=<lb break="no"/>
+            tientlie <ex>tha</ex>t same <ex>tha</ex>t was given for praying For <ex>th</ex>e Soule of <ex>th</ex>e dead
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Page 65:/</hi>
+                </add>
+            For mr Foxe reciting some Lawes of <hi rend="italic">Canulus </hi>hathe this, <lb/>
+            for one <hi rend="italic">Pecuma Sepultura</hi> etc In English hee saieth itt is <lb/>
+            not meete and right <ex>tha</ex>t in Funeralls Monye bee given for <lb/>
+            opening the Earthe, if anye Bodie or Course be carryed from <lb/>
+            his owne parrish into another, the Monye of the Buriall shall <lb/>
+            p<ex>er</ex>tayne by the lawe to his Parrish Church
+         </p>
+         <p>
+            This lawe cometh home to the Pointe in hand &amp; maketh <lb/>
+            it verye Materiall for the Parson, And therefore I blameth <lb/>
+            not if they laye good holie on itt as A Warrant of Antiquitie to shew <lb/>
+            both their right and their Custome. But you must knowe that this <lb/>
+            lawe was not written originallye in Lattine, but in Saxon &amp; <ex>tha</ex>t the <lb/>
+            translators haue not delivered it Faithfullye, And it is thus, That <lb/>
+            itt must bee that the Soule shott (or money given For the praying for <lb/>
+            the Soule) be allwayes payed at the opening of the grave, And <lb/>
+            if the Corps be buryed els where then in its owne parrish yett lett <lb/>
+            the Soule shott be payed to the Church to w<ex>hi</ex>ch itt belonged
+         </p>
+         <p>
+            It is taken Verbatim out of the Synode of Hauham houlde<ex>n</ex> <lb/>
+            by Alphage Arch Bishoppe of Canterburye, and Moeston <lb/>
+            Arch Bishoppe of Yorke, about Anno 1009: in the tyme of Kinge <lb/>
+            Ethelred, And now (A Seculer Parlyament (as I maye call itt <lb/>
+            confirmed by Canutus, That the old Lattaine Manuscript Copye <lb/>
+            of that Synode cleereth the question in theis words Chap: 14: <lb/>
+            Munero nec defunctorum Annimabus congruentia puter inipen=<lb break="no"/>
+            denter aporto, lett the Guifts that are given For the behoofes of <lb/>
+            Soules of the dead be paid or delivered at <ex>th</ex>e opening of <ex>th</ex>e Grave
+         </p>
+         <p>
+            This Cannon neither Comaunded anye thinge to bee paied <lb/>
+            for the Graue, nor yett for the Soule, but onlye lymitts <ex>th</ex>e tyme <lb/>
+            when that <ex>whi</ex>ch is given for the Soule should be paid, he therefore <lb/>
+            that translated Cornutus out of the Lattine did not only expresse <lb/>
+            <fw type="catch" place="bot-right">itt</fw>
+            <pb n="331v" facs="/bl/add_ms_22591/add_ms_22591_f331v/add_ms_22591_f331v.jpg"/>
+            itt, by pecunia Sepultura, Nor Mr Lambert whoe rather affected <lb/>
+            Eloquence then proprietie by pecunia Sepulphralis, But Mr <lb/>
+            Foxe most vnfaithfullye by Englishing the Lattine, It is meete <lb/>
+            and right that in Funerales that monie be given for openinge <lb/>
+            the Earthe as the lawe required that monye should bee payed <lb/>
+            For the graue, whereas that w<ex>hi</ex>ch it speakes of was onlye For <lb/>
+            praying for the Soule, w<ex>hi</ex>ch by the Cannons might lawfully be <lb/>
+            taken, and is that w<ex>hi</ex>ch they allsoe intend, should be payed vnto <lb/>
+            the Parrish Churche of the deceased, when the Bodye is elce <lb/>
+            where burryed, For soe the Au<ex>n</ex>tient p<ex>er</ex>aphna<unclear/>icall Coppie of <lb/>
+            Camitus lawes doth expresse <foreign xml:lang="la">
+                    <hi rend="italic">Si quis Corpus parentis aut <lb/>
+            amici ex propria p<ex>ar</ex>ochia aliud porture ad sepulene parochia <lb/>
+            ad quam pertinent silicet redditus quod Ang<unclear/> vocant quod <lb/>
+            reote vsolui debet ad partum sepulchram</hi>
+                </foreign>
+         </p>
+         <p>
+            Nowe it appeareth howe the Grave-Silver or Monye <lb/>
+            For Graues grewe vpp to be taken, and was first give<ex>n</ex> For <lb/>
+            praying For the Soules and such like, but that being abolished <lb/>
+            and given to the Kinge
+         </p>
+         <p>
+            The Parson itt seemeth taketh itt For the Grave, And to <lb/>
+            saye what I thinke doe now take that w<ex>hi</ex>ch was given for pray=<lb break="no"/>
+            inge For the Soules vnder this Fee For the Buryall of <ex>th</ex>e Corps, <lb/>
+            And this For the Grave, besides for both of them, Butt I will <lb/>
+            Saye noe more
+         </p>
+         <p rend="align-right">
+            Finis
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f324r/add_ms_22591_f324r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f324v/add_ms_22591_f324v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f325r/add_ms_22591_f325r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f325v/add_ms_22591_f325v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f326r/add_ms_22591_f326r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f326v/add_ms_22591_f326v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f327r/add_ms_22591_f327r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f327v/add_ms_22591_f327v.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f328r/add_ms_22591_f328r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22591/add_ms_22591_f328v/add_ms_22591_f328v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22591/add_ms_22591_f329r/add_ms_22591_f329r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22591/add_ms_22591_f329v/add_ms_22591_f329v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_22591/add_ms_22591_f330r/add_ms_22591_f330r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_22591/add_ms_22591_f330v/add_ms_22591_f330v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_22591/add_ms_22591_f331r/add_ms_22591_f331r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_22591/add_ms_22591_f331v/add_ms_22591_f331v.jpg"/>
+   </facsimile>
 </TEI>

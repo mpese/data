@@ -22,20 +22,31 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS11600.xml">
+               <msIdentifier xml:id="BL_Add_MS_11600">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 11600</idno>
+               <msName/>
+            </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
             </listBibl>
                 <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="ms" target="../mss/BLAddMS11600.xml">British Library, Additional MS 11600, ff. 285r–280v</ref>
-                    </bibl>
                     <bibl>
                         <ref type="ms" target="../mss/BL_Add_MS_45143.xml">British Library, Additional MS 45143, ff. 4r–9r</ref>
                     </bibl>
@@ -59,6 +70,9 @@
             <date when="1614">1614?</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term/>
@@ -77,13 +91,713 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09" who="#RB" status="spotcheck"/>
+            <change when="2018-01" who="#RB" status="draft"/>
+            <change when="2017-11" who="#TW" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="285v" facs="/bl/add_ms_11600/add_ms_11600_f285v/add_ms_11600_f285v.jpg"/>
+         <head rend="align-centre">
+            <hi rend="italic">
+               Certayne: Remembrances to Prince Charles <lb/>
+               Written by S<ex>i</ex>r Charles Cornewallis duringe <lb/>
+               his Com<ex>m</ex>itment in the Tower 
+            </hi>
+         </head>
+         <p rend="align-centre">
+            <hi rend="italic">For his Most Excellent Highnes.</hi>
+         </p>
+         <p>
+            I began my bouldnes of this kinde (most Excelent Prince) in <lb/>
+            tyme of that rare and (well I may say in soe younge yeares) <lb/>
+            incomparable Prince my deare Master your brother, to whome <lb/>
+            beinge there vnto by him selfe Comanded I deliu<ex>e</ex>red in a playne maner <lb/>
+            my soule and thought<ex>es</ex> in what soeuer I Conceyued might conduce <lb/>
+            to the rectefyinge of his life, and Gouerment of his estate  
+         </p>
+         <p>
+            The grace and favour it pleased your Highnes in his tyme to showe <lb/>
+            vnto mee and your Continuance of it sithence drawes not only my <lb/>
+            loue and dewtey to desend vpon yow but all my services and Indeavors <lb/>
+            w<ex>hi</ex>ch by god<ex>es</ex> grace shall euer attende yow A great presumption notw<ex>i</ex>th <lb/>
+            standinge it may bee thought in mee to beecome a deliu<ex>ere</ex>r of Advises <lb/>
+            in place where I haue noe Charge nor ordinarey dependance <lb/>
+            Especially to your highnes. Whoe haue neare vnto yow of your owne <lb/>
+            whoe can much better p<ex>er</ex>forme it  But my trewe and sincere Loue <lb/>
+            shall Couer that offence if aney it bee and Adventure it I will <lb/>
+            as hee that both in his disposition &amp; his practice in other thinges hath <lb/>
+            given demonstracion that he hould<ex>es</ex> it not the p<ex>ar</ex>te of A Christian <lb/>
+            or generous . sperrites to omitt honest and ne<add place="above">ce</add>ssarey dewteyes and offices <lb/>
+            pr<ex>e</ex>sent for aney doupt of euill Conceipt<ex>es</ex> or displeasure to come /
+         </p>
+         <p>
+            God hath given vnto your highnes a p<ex>er</ex>son and p<ex>ar</ex>tes that in these <lb/>
+            your younge yeaires drawe vnto yow the affections of all those that <lb/>
+            haue the happines to knowe or to see yow. It will therefore bee necessarey <lb/>
+            that soe yow gouerne and dailey Improue them w<ex>i</ex>th progresse in <lb/>
+            Vertue and princely behaviour as yow may rather goe beeyounde <lb/>
+            then full shorte of the hopes that are had of yow in your dewtyes to <lb/>
+            god . and his trewe Wor<ex>shi</ex>ppes and religion soe well and zealously <lb/>
+            doe, I knowe your highnes to bee Inclyned as therein there is noe <lb/>
+            need of p<ex>er</ex>swasion or word<ex>es</ex> to him that is allredy soe soundly setled <lb/>
+            in his faith and his workes /
+         </p>
+         <p>
+            A Continued care and Constancey in the trewth will make yow beloued <lb/>
+            of god deare to the subiectes of those kingdomes. and will fixe vnto <lb/>
+            yow the Affections of all the trewe Christian Confed<ex>e</ex>rates . of this crowne <lb/>
+            Corespondencey and Conformitey in Religion beinge the stroungest <lb/>
+            and shurest bounde of Amitey . that in this world is eath<ex>e</ex>r to bee <lb/>
+            had or hoped for /. Your highnes owne excample in this p<ex>ar</ex>ticuler; <lb/>
+            of religion and piettey will bee a great and forcable menes <lb/>
+            to increase and Amplifie it in those that depend of yow. The <lb/>
+            practize of princes is a Lawe of life and of much more force <lb/>
+            then aney Lawe of letters what Princes doe them selues they seme <lb/>
+            to Comand . to there people for dependyt<ex>es</ex> and sub<ex>iec</ex>t<ex>es</ex> are to there <lb/>
+            masters and Soueraignes the same that shaddowes and Accident<ex>es</ex> <lb/>
+            are to sun<ex>n</ex>shines and Substances.
+         </p>
+         <p>
+            If the Substance and obiecte bee streight the shaddowes and <lb/>
+            Accedent<ex>es</ex> will not bee crooked. / In privat and p<ex>ar</ex>ticuler men <lb/>
+            it may suffice to bee w<ex>i</ex>th in them selues devoute &amp; Religious . <lb/>
+            but princes are bound to externall demonstrations to the ende <lb/>
+            the same may giue light &amp; excample to others /
+         </p>
+         <p>
+            To the people it is naturall and proper to cast there eyes vpon <lb/>
+            Princes and men Constituted in high and eminent places
+            <fw type="catch" place="bot-right">in the same maner /</fw>
+            <pb n="285r" facs="/bl/add_ms_11600/add_ms_11600_f285r/add_ms_11600_f285r.jpg"/>
+            In the same maner that Marryners behould the Starres <lb/>
+            and guide the course of there sailinge, If the prince bee a louer <lb/>
+            and practizer of vertue euery man affectes it if of vice <lb/>
+            and dessolutenes euery man Runnes after them /
+         </p>
+         <p>
+            A failinge of Princes and men of supreame place in there <lb/>
+            duties to god &amp; Religious observations offendes not only in <lb/>
+            Respecte of them selues but of the Scandall and euiell <lb/>
+            excample they giue to those they gouerne / the like may bee <lb/>
+            trewly said allsoe of other vertues for the surest way for a <lb/>
+            prince to make good those hee gouernes is to bee good himselfe.
+         </p>
+         <p>
+            To your highnes an obediance to the Kinge your father a desire <lb/>
+            to giue him contentm<ex>en</ex>t in all thing<ex>es</ex> and to attribute all your <lb/>
+            best action<ex>es</ex> to his direction soe as of all hee may <del rend="strikethrough">say</del> haue <lb/>
+            the honnor, needes not to bee either p<ex>er</ex>swaded or soe much as <lb/>
+            remembred /.
+         </p>
+         <p>
+            The knowledge I haue in that p<ex>ar</ex>ticuler of the Inclination of <lb/>
+            your noble deceased brother of your selfe and of that vertuous <lb/>
+            Lady your sister hath euer moued mee to thinke and to say <lb/>
+            that noe kinge nor prince vppon eairth hath bine more blessed <lb/>
+            in his Children then the kinge your father /
+         </p>
+         <p>
+            Besides the promise of Longe Life annexced to the observan<ex>ce</ex> <lb/>
+            of that Comandm<ex>en</ex>t of obedience to parent<ex>es</ex> it will giue <lb/>
+            to your highnes owne hart a great coumfort and Assurance <lb/>
+            that the like willbee done to your selfe in tyme to come <lb/>
+            by those Children that it may please god to bleasse yow w<ex>i</ex>th <lb/>
+            and by such as shall bee hereafter your subiect<ex>es</ex>. when <lb/>
+            dewtifully and vnfainedly yow haue p<ex>er</ex>formed it to him <lb/>
+            that is both your kinge and your father and therefore to <lb/>
+            bee obayed w<ex>i</ex>th a double dutie / Duringe your obedience <lb/>
+            to him your highnes will I doubte not by readinge and <lb/>
+            observation apt your selfe for gouerment hereafter. <lb/>
+            Vertue is but one of the guides of a Princes life it <lb/>
+            must bee a Cum<ex>m</ex>pynied . and Assisted w<ex>i</ex>th Wisdome w<ex>hi</ex>ch <lb/>
+            may as well be called the arte of Livinge as Phisicke <lb/>
+            is called the arte of healinge Wisdome marcheth before <lb/>
+            and Leades the way to all well dowringe and is to a mans <lb/>
+            Life the same. that to the <del rend="strikethrough">Artificer</del> <add place="above">architector</add> the Levell and Compasse.
+         </p>
+         <p>
+            Wisdome legitimate and naturall. must of force haue <lb/>
+            for her<del rend="strikethrough">e</del> parrent<ex>es</ex>. exsperience and memorey / other wisdome <lb/>
+            is eather suppositiovs out of fancey or must bee Maraculous <lb/>
+            w<ex>hi</ex>ch in this world is not ordinarey / Exsperience is the most <lb/>
+            assured, as that w<ex>hi</ex>ch is gayned by proufe, and faylinge not <lb/>
+            by excamples remote &amp; receued only by hearinge / 
+         </p>
+         <p>
+            Shee is towght by her owne harmes not by those of others <lb/>
+            her only defaulte is that shee is not attayned by pr<ex>e</ex>sept<ex>es</ex> <lb/>
+            and Rules but in the Last of a mans age by tyme <add place="above">&amp;</add> observanc<ex>e</ex>s <lb/>
+            Memorey <add place="above">all</add>though shee comes some what bee hynd expeirance <lb/>
+            in Assurednes and Certintey yet shee is in other thing<ex>es</ex> to <lb/>
+            bee preferred as shee that extend<ex>es</ex> her selfe further and <lb/>
+            Carrieth both more thing<ex>es</ex> and more p<ex>er</ex>sons to Wisdome / <lb/>
+            Her <add place="above">high</add>way is allsoe more safe and secure and therefore <lb/>
+            the more tradden / 
+         </p>
+         <pb n="284v" facs="/bl/add_ms_11600/add_ms_11600_f284v/add_ms_11600_f284v.jpg"/>
+         <p>
+            For much greater is the num<ex>m</ex>ber of those that Learne and <lb/>
+            are made wise by other mens cases then those that are only <lb/>
+            towght &amp; Instructed by there owne / The most proper Starre <lb/>
+            that gideth to this desirable port is historey / for in historey <lb/>
+            is to bee seene as in a glasse howe a man may adapt and compasse <lb/>
+            his life by the modell of the vertues of other men /
+         </p>
+         <p>
+            Historey is the wardrope of the worth and fame of men Illustrurou<add place="above">s</add> <lb/>
+            <add place="LM">of the good</add>
+            and vertuious and the Recorder and regester of the basnes <lb/>
+            and wickednes of the vile and the vitious / most necesarey shee <lb/>
+            is in Counsailes where memorey of thinges passed doth much <lb/>
+            a vale to the vnd<ex>e</ex>rstandinge of what is to bee advised. and . <lb/>
+            determined in thing<ex>es</ex> to come
+         </p>
+         <p>
+            Your highnes beinge by god Constituted in place of soe high <lb/>
+            and rare an eminencey shall haue conveyed vnto yow in a fewe <lb/>
+            yeares that w<ex>hi</ex>ch by others is not to bee attayned in a Lounge <lb/>
+            age/.
+         </p>
+         <p>
+            Euery man yealds to princes the best soun<ex>n</ex>d of there Instrum<ex>en</ex>t<ex>es</ex> <lb/>
+            and doe sacrifice vnto them the first frewt<ex>es</ex> of there best <lb/>
+            and p<ex>er</ex>fectest vnd<ex>e</ex>rstandinges  This bringes to them in the <lb/>
+            Springe tyme of there youth what is hardly to bee had by <lb/>
+            otheires in the Autum<ex>n</ex>e of there age /. Heareof in fewe <lb/>
+            princes vppon earth was there a more apparent Demonstration <lb/>
+            then in your highnes deare Brother that is w<ex>i</ex>th god. whoe by <lb/>
+            applayinge him selfe to here what was said to him and to the <lb/>
+            receuinge of that w<ex>hi</ex>ch was by writtinge other wayes advised <lb/>
+            him became in soe very younge yeares as able in matt<ex>e</ex>rs of <lb/>
+            gouerm<ex>en</ex>t to bee Counsellor to others as hee showed him selfe <lb/>
+            willinge and desirous. to receaue counsell. him selfe Your <lb/>
+            highnes by well gouerninge your owne Familey now in the tyme <lb/>
+            of the kinge your father shall prognosticate to those that <lb/>
+            shall here after obay yow what your gouerment will bee when <lb/>
+            yow shall haue succeded. him in his kingdome /   
+         </p>
+         <p>
+            If yow shall bee pleased. to obsearue and Rememb<ex>e</ex>r what your <lb/>
+            thought<ex>es</ex> are in these tymes that yow are a subiecte a good <lb/>
+            directorey it will bee to your owne wayes and your workes <lb/>
+            when yow shall bee a soueraigne Best should those knowe <lb/>
+            howe to Rule and Comand. that by proufe in them selues <lb/>
+            haue felte and vnd<ex>e</ex>rstood what app<ex>er</ex>tayneth to Subiection <lb/>
+            and obedience
+         </p>
+         <p>
+            Gouerment is the band wherew<ex>i</ex>th the Ioynt<ex>es</ex> of the Common <lb/>
+            Wealth are knitte and the vitall sperrit<ex>es</ex> where w<ex>i</ex>th soe maney <lb/>
+            millions doe breath / Take away gouerment what becomes of <lb/>
+            the people other then to bee a burthen and a spoyle fitted to <lb/>
+            the hand<ex>es</ex> of oppression / Your highnes therefore for the better <lb/>
+            attayninge of this high and mistrious art of rulinge is to giue <lb/>
+            a trewe temper and measure to your Affections and to become <lb/>
+            an absolute master and gouernor of your passions / Measure <lb/>
+            is the Salte and Soule of vertue and temper the only efectuall <lb/>
+            Instrum<ex>en</ex>t that must giue the trewe Square to all your acctions <lb/>
+            <fw type="catch" place="bot-right">Princes are not to fixe there</fw>
+            <pb n="284r" facs="/bl/add_ms_11600/add_ms_11600_f284r/add_ms_11600_f284r.jpg"/>
+            Princes are not to fixe there eyes or desires vpon what <lb/>
+            is best pleasinge to there owne fanceys, but vppon what <lb/>
+            is best agreeinge the Iustice and the good of the people / <lb/>
+            Princes before they Com<ex>m</ex>and or require what by Lawe or <lb/>
+            preroug<del rend="strikethrough">
+                    <unclear/>
+                </del>
+                <add place="above">a</add>tiue is not alowed them / are deliberatly and <lb/>
+            maturely to Consider wheath<ex>e</ex>r the same bee fitted <add place="above">to there</add> Sub<ex>iec</ex>t<ex>es</ex> <lb/>
+            or there Subi<ex>ec</ex>t<ex>es</ex> <del rend="strikethrough">fitt</del> Apted to them /. There wande is to <lb/>
+            bee like that of <del rend="strikethrough">Sher</del> <hi rend="italic">Sirces</hi>. / w<ex>i</ex>th the only tuch whereof <lb/>
+            men and beast<ex>es</ex> were reclamed and Lamed ./
+         </p>
+         <p>
+            The Com<ex>m</ex>and or demand<ex>es</ex> of princes / howe the nature <lb/>
+            of Lawes and Authoritey Looseth grownd when aney thinge <lb/>
+            by them required is denied them / of <add place="above">noe</add> one thinge earthly <lb/>
+            are princes to bee more carfull and tender of there <lb/>
+            authoretey / w<ex>hi</ex>ch is a kinde of secritt infused vnd<ex>e</ex>rstanding <lb/>
+            whereby multitudes are gouerned by one the Strounge <lb/>
+            by the weeake and often tymes men by women /
+         </p>
+         <p>
+            To winne and Conserue Authoritey much doth conduce in <lb/>
+            a prince a showe and representation of a kingly Ma<ex>jes</ex>tie <lb/>
+            w<ex>hi</ex>ch is a venerable greatnes drawne <add place="above">eather</add> out of the merrit <lb/>
+            of Iustice &amp; other vertues, out of coumlynes of p<ex>er</ex>son and <lb/>
+            behaviour, or out of sweetnes of Condition
+         </p>
+         <p>
+            To bee Iust Consist<ex>es</ex> aswell in Considringe and rewarding <lb/>
+            of merrit<ex>es</ex> &amp; services as in Chastisinge &amp; punishing delit<ex>es</ex> <lb/>
+            &amp; offences. The prince that desires to bee serued w<ex>i</ex>th <lb/>
+            faithfull hart<ex>es</ex> is of fewe thing<ex>es</ex> to  bee more carfull and <lb/>
+            heedfull then of the matter and maner of his givinge /
+         </p>
+         <p>
+            It is trewe that liberalitey is as it were a <hi rend="italic">Proprium</hi> to <lb/>
+            kingly Condition but soe to bee vsed as w<ex>i</ex>th the vse of it, it <lb/>
+            destray not it selfe / All other vertues by practise are <lb/>
+            ingreated and increased, only this of Liberalitey w<ex>i</ex>th to much <lb/>
+            excercise becoumes deminished &amp; in tyme desolued. / It is <lb/>
+            trewe if <del rend="strikethrough">t</del>he giue where there is noe visable merrit it w<ex>i</ex>th <lb/>
+            draweth in others the will and heate of Indeuors to deserues <lb/>
+            sithence they see that his hand is eather gided by fortune <lb/>
+            that is blynd or by fancey that ou<ex>er</ex>seeth.
+         </p>
+         <p>
+            If hee giue not to others whose Seruices in all men<del rend="strikethrough">e</del>s eyes <lb/>
+            haue merrited hee blunt<ex>es</ex> the appetites of such as out of <lb/>
+            Worth &amp; deseruinge would Studdey &amp; Striue to rayse there <lb/>
+            fortunes / King<ex>es</ex> &amp; princes absolute haue the honn<ex>o</ex>r vpon <lb/>
+            ea<add place="above">r</add>th to bee the figure of allmightie god and are there <lb/>
+            fore (soe fare as the menes &amp; Stri<add place="above">i</add>ngth of mortalitey <lb/>
+            will p<ex>er</ex>mitt to Imitate him in there action<ex>es</ex>
+         </p>
+         <p>
+            God is not leade by fancey or p<ex>re</ex>cipitous fauor but by the <lb/>
+            trewe waight<ex>es</ex> of Iustice measureath out <del rend="strikethrough">to euery one</del> <lb/>
+            to euery one accordinge to what hee deserveth hee doth it <lb/>
+            allsoe of him selfe not Intreated by others and herein <lb/>
+            giue me leaue (noble Prince) once agayne to putt yow <lb/>
+            in mynde of your Incomparable brother whoe not lounge <lb/>
+            before his death when little yow looked for it bestowed in <lb/>
+            pattent<ex>es</ex> vnd<ex>e</ex>r Seale amoungst divers his servant<ex>es</ex> in whome <lb/>
+            his owne hart discouered. desearte &amp; most need of them yearly <lb/>
+            pencions to the vallewe of eleaven or Twelue hundred <lb/>
+            pound<ex>es</ex>. / The like course to haue hard to haue byne <lb/>
+            <fw type="catch" place="bot-right">Practised by</fw>
+            <pb n="283v" facs="/bl/add_ms_11600/add_ms_11600_f283v/add_ms_11600_f283v.jpg"/>
+            Practised by. that wise and glorious Kinge <hi rend="italic">Henery</hi> <lb/>
+            the Seaventh. Your highnes An<add place="above">s</add>cestour. whoe looked vpon <lb/>
+            the deseart<ex>es</ex> &amp; necessitey of his servant<ex>es</ex> him selfe and <lb/>
+            Comitted yt not to the Survay &amp; Censure of others.
+         </p>
+         <p>
+            Reward<ex>es</ex> that come drawne out of soe maney dificultyes <lb/>
+            and passe the hand<ex>es</ex> of soe maney hungrey, eaither lose <lb/>
+            the trewe grace of givinge w<ex>hi</ex>ch in  princes ought to be volluntary <lb/>
+            and redy. or are soe parred and thin<add place="above">n</add>ed, as when they come <lb/>
+            to hand they appeare rather signes then substances /. Princes <lb/>
+            are to take care that all thing<ex>es</ex> of grace and givinge passe <lb/>
+            directly . from them selues / all denialls punishm<ex>en</ex>t<ex>es</ex> and <lb/>
+            matter of sharpnes. or bitter nature from there offficers and <lb/>
+            minist<ex>e</ex>rs. 
+         </p>
+         <p>
+            King<ex>es</ex> and gouernours as they are to obsearue Iustice &amp; equalitey <lb/>
+            in givinge soe is it as necessarey. that they hould an euen <lb/>
+            hand in Chastisinge &amp; punishinge  
+         </p>
+         <p>
+            The prince that allwayes houlds his sword in his sheath is little <lb/>
+            feared and severitey vsed Continually deminisheth Authoritey <lb/>
+            Noe lesse  dishon<ex>n</ex>erable are to a prince maney and often <lb/>
+            Comittme<ex>n</ex>nt<ex>es</ex> &amp; executions of his Subiect<ex>es</ex>. then to a Phisition <lb/>
+            maney funeralls of his pacient<ex>es</ex> /
+         </p>
+         <p>
+            Offences Comitted against them selues wise princes shew <lb/>
+            slownes and loathnes to pun<ex>n</ex>ish, those against there estate and <lb/>
+            the Comma<ex>n</ex>n Wealth they rarely pardon /.
+         </p>
+         <p>
+            The remissenes and Softnes in punishinge Treasons and <lb/>
+            Consperiteys ag<ex>ains</ex>t them and there Cuntrey may Iustly <del rend="strikethrough">re</del> bee <lb/>
+            reputed disregard of the publicke safitey And a kinde of <lb/>
+            prodigall exsposinge of there owne Lives <del rend="strikethrough">of</del> of those <add place="above">of </add> there <lb/>
+            Subiect<ex>es</ex>. to the treacheries. &amp; bludey purposses of cruell &amp; <lb/>
+            and vnnaturaall Traytors.  
+         </p>
+         <p>
+            The rod of a kinge ought to growe out of the roote of <hi rend="italic">Iesse</hi> <lb/>
+            that is out of the fowntyne of Iustice and soe moderated <lb/>
+            &amp; vsed. that allthough the punishm<ex>en</ex>t extende. to fewe yet the <lb/>
+            excample may reach to maney. It is trewly said that goverm<ex>en</ex>t<ex>es</ex> <lb/>
+            that are Cruell &amp; terrible are more bitter and greivious then <lb/>
+            they that are durable &amp; of Continuance For Impossable it is <lb/>
+            that maney should stand in feare of one/ and that one not <lb/>
+            stand in dowbte of all./ Well may a life of that Condition <lb/>
+            bee tearmed  a Continuall Warfare w<ex>hi</ex>ch p<del rend="strikethrough">un</del>
+                <add place="above">ro</add>misseth Length of <lb/>
+            dayes to fewe and quiett and Content to none at all.
+         </p>
+         <p>
+            The other towe part<ex>es</ex> avalable to Ma<ex>jes</ex>tie and Authoritey w<ex>hi</ex>ch are <lb/>
+            Cumlynes of person and behaviour &amp; sweetnes of Condition <lb/>
+            (I speake it not to flatter yow) sweete prince / for all that <lb/>
+            knowe yow will wittnes that I speake trewth god and <lb/>
+            nature haue in a plentifull maner bestowed vppon yow only <lb/>
+            it rest<ex>es</ex> in your selfe to pollishe and to Conserue and <lb/>
+            increase them and this will bee easiley effected if in all <lb/>
+            your Comportem<ex>en</ex>t<ex>es</ex> yow will bee pleased not to forget your <lb/>
+            person.
+         </p>
+         <p>
+            That your Conti<ex>n</ex>uauce your <unclear>pase</unclear> your speech &amp; your vsage <lb/>
+            of others be all such as may Correspond w<ex>i</ex>th your princely <lb/>
+            dignitey, the first to bee graue, the seconde moderate <lb/>
+            the thirde in word<ex>es</ex> shorte but in matter waightey the Last <lb/>
+            <fw type="catch" place="bot-right">Gratious/.</fw>
+            <pb n="283r" facs="/bl/add_ms_11600/add_ms_11600_f283r/add_ms_11600_f283r.jpg"/>
+            Gratious and pleasinge yet in such a forme as may wine <lb/>
+            Loue to yow from others but loose to your selfe noe parte <lb/>
+            of that Reuerence and respecte that belowngth to yow.
+         </p>
+         <p>
+            If a prince for Conservation of his p<ex>er</ex>son &amp; estate there is <lb/>
+            nothinge more nesecarey then the loue of those hee goueraines <lb/>
+            wa<add place="above">t</add>chies by night<ex>es</ex> nor gard<ex>es</ex> by day secure a prince soe <lb/>
+            much as the affections of theire Subit<ex>es</ex> / all other fortrasses <lb/>
+            and stringht<ex>es</ex> are to bee pearcied and brocken this wall <lb/>
+            of hart<ex>es</ex> is only Impenetrable /  
+         </p>
+         <p>
+            To: Attayne and Continewe this (besides what is aforesaid) <lb/>
+            one speciall menes willbee soe to gouarne there estates. <lb/>
+            as to euery man there bee adminestred Iustice w<ex>i</ex>th equalitey <lb/>
+            and that by excesse in spendinge or p<ex>ro</ex>fusenes in givinge <lb/>
+            the drawe not them selues into such necessityes as thereby <lb/>
+            the bee inforced to an often demand. of rep<ex>ar</ex>ation from <lb/>
+            there subi<ex>ec</ex>t<ex>es</ex> for as by Phisicions it is said That w<ex>i</ex>th the <lb/>
+            blud that is extracte out of the bodyes of men there passeth <lb/>
+            away some p<ex>ar</ex>te of there vittall sperrit<ex>es</ex> / soe it is treue <lb/>
+            that w<ex>i</ex>th the money drawne out of the purses of the people <lb/>
+            there evacuateth and passeth away some portion of the <lb/>
+            Life &amp; vigour of there Affections
+         </p>
+         <p>
+            As I p<ex>er</ex>swade vnto your highnes an equalitey of Iustice <lb/>
+            Soe giue mee leaue (most excelent Prince) to beesech of <lb/>
+            yow in the name of my Cuntrey &amp; Cuntreymen an euenes <lb/>
+            betweene vs &amp; those of the Cuntrey wheare yow weare borne <lb/>
+            in your Affections. Wee are all of one Continent all of one <lb/>
+            Language of one faith &amp; of one Subiection / Allthough <lb/>
+            your highnes had your birth there yet yow haue drawne most <lb/>
+            of your breath here Let servis &amp; merrit therefore / not <lb/>
+            a birth one that side or one this side tweede / moue the <lb/>
+            diffrance <del rend="strikethrough">of</del> <add place="above">in</add> your favor
+         </p>
+         <p>
+            If worth vertue and servis bee the markes and the white <lb/>
+            that yow will here after propose to your servant<ex>es</ex> &amp; subiect<ex>es</ex> <lb/>
+            your highnes may assure your selfe that all will striue <lb/>
+            to become good Archers and to exceed others in shootinge <lb/>
+            nearest to that w<ex>hi</ex>ch will please yow/.
+         </p>
+         <p>
+            They will then seeke to Converse w<ex>i</ex>th men of Wisdome <lb/>
+            and vertue &amp; of exsperience in Civell and martiall <lb/>
+            gouerm<ex>en</ex>t by whoses Instructions and excamples the may <lb/>
+            attaine abilityes to serue your highnes and theire <lb/>
+            Cuntrey and will eather Leaue or haue lesse coresponde<lb break="no"/>
+            ncey w<ex>i</ex>th mercers and taylors / whoe infuse only into <lb/>
+            them what makes them. specious. w<ex>i</ex>thout but w<ex>i</ex>th drawes <lb/>
+            there regard<ex>es</ex> and there studies from what should <lb/>
+            make them servasable and Adorne them w<ex>i</ex>thin
+         </p>
+         <p>
+            If the Court of England eather by Comandem<ex>en</ex>t or <lb/>
+            excample might in matter of Apparrell be conformed <lb/>
+            to that of Spaine / it would yearly saue vnto his ma<ex>jes</ex>tie <lb/>
+            Serva<ex>n</ex>t<ex>es</ex> and Subiect<ex>es</ex>. att the least the fourth p<ex>ar</ex>te of a <lb/>
+            million of pownd<ex>es</ex> / enable them the better to serue <lb/>
+            him att there owne charge in some ymploym<ex>en</ex>t<ex>es</ex> and <lb/>
+            ease the kinge him selfe  of a great deale of <lb/>
+            Importunitey and waste of his treasure vpon such <lb/>
+            as are not other wayes able to liue in that extremetey <lb/>
+            <fw type="catch" place="bot-right">of exceesse /</fw>
+            <pb n="282v" facs="/bl/add_ms_11600/add_ms_11600_f282v/add_ms_11600_f282v.jpg"/>
+            Of Axceesse that to keepe peace w<ex>i</ex>th others they are <lb/>
+            inforced to Rune into
+         </p>
+         <p>
+            Noe one thinge hath (in my Iudgm<ex>en</ex>t) bine a greater cause of <lb/>
+            soe lounge a Continuance of that famous Comon Wealth <lb/>
+            of Venice / in wealth streinght splendor &amp; stabilitey <lb/>
+            behounde the line and measure of all the greatest Auncyentest <lb/>
+            &amp; best gouerned Repuplickes of the world then in those that <lb/>
+            are noble theire puritey) in degree &amp; equalitey &amp; moderation <lb/>
+            in apparrell &amp; Attendances that harmoney of euenes in <lb/>
+            Little and out ward exspences takes away envey &amp; Ambitious <lb/>
+            desires of steppinge beyond the bound<ex>es</ex> of there ordinarey <lb/>
+            qualiteies 
+         </p>
+         <p>
+            Merritt by servis or place &amp; officeies given in regard of <lb/>
+            abiliteyes to execute them doe in that comon wealth only <lb/>
+            giue the pr<ex>e</ex>cedenceys not bare &amp; barren titles or Nominatiue <lb/>
+            honn<ex>o</ex>rs growinge <del rend="strikethrough">of</del> of the force of fynd<ex>es</ex> of money or of <lb/>
+            fancey. / .
+         </p>
+         <p>
+            They haue no Herrialds that to mechaniques, to tounge <lb/>
+            Traffiquers. to shoppe keepers &amp; glassiares can sell <lb/>
+            gentrey &amp; genealogies For money they Iuggle not in respect <lb/>
+            only of some neairnes in name the borne of base parrent<ex>es</ex> <lb/>
+            into the howeses of noble men &amp; gent<ex>le</ex>men of Antiquitey <lb/>
+            w<ex>i</ex>th whome the haue in trewth none other participiation <lb/>
+            then what only they can fetch from there first father <lb/>
+            Adam / 
+         </p>
+         <p>
+            The givinge &amp; disposinge of honnor &amp; titles are the greatest <lb/>
+            &amp; most precioust prerogatiues of princes matt<ex>e</ex>rs of havinge <lb/>
+            may bee given by men p<ex>ar</ex>ticuler but honnors &amp; titles only <lb/>
+            by those that weare the <hi rend="italic">Diadem </hi>/ . princes <del rend="strikethrough">
+                    <unclear>th</unclear>
+                </del> are there <lb/>
+            fore to bee more carfull of issueinge of honors then of <lb/>
+            treasure to bee stowe them vpon men vnwortey gives <lb/>
+            Satisfacion only to the Receuors. but discont<ex>entes</ex> a multitude <lb/>
+            of others the nature of man beinge to looke w<ex>i</ex>th more <lb/>
+            greeved eyes vppon ym<ex>m</ex>erited pr<ex>e</ex>ferrem<ex>en</ex>t<ex>es</ex> of others, then <lb/>
+            not to Attayne them selves. though they haue deserued / <lb/>
+            A distinguishinge and differencinge of euery severall degree <lb/>
+            by Apparrell and other outward furniturs &amp; Charges would <lb/>
+            add much both to the authoritey vtilitey of a kinge From <lb/>
+            whome only are to come those seuerall pr<ex>e</ex>ferment<ex>es</ex> pr<ex>e</ex>hemences <lb/>
+            &amp; previleges &amp; would take away a great deale of Confussion <lb/>
+            &amp; exceesse &amp; thereby inable his Subi<ex>ec</ex>t<ex>es</ex> to bee more large <lb/>
+            to him in all Assistances w<ex>i</ex>th there purses.
+         </p>
+         <p>
+            That kingdome or Common Wealth that giues way to excesse <lb/>
+            &amp; prodigalitey in there Subi<ex>ec</ex>t<ex>es</ex> Cannot lounge Continewe <lb/>
+            w<ex>i</ex>thout perrill for men Indebted, wasted &amp; growne <lb/>
+            desprate in there estat<ex>es</ex> are euer desirous of mutations <lb/>
+            of gouerment &amp; of Intestine tum<ex>m</ex>ult<ex>es</ex> hopinge in those Confusions <lb/>
+            either by rapine to Amend there owne causes or soe to <lb/>
+            ruyne those of others as they shall not need to envy them
+         </p>
+         <p>
+            To your highnes &amp; those of your supreame place is not <lb/>
+            only requiset pietey. toward<ex>es</ex> god but probitie to ward<ex>es</ex> <lb/>
+            <fw type="catch" place="bot-right">men</fw>
+            <pb n="282r" facs="/bl/add_ms_11600/add_ms_11600_f282r/add_ms_11600_f282r.jpg"/>
+            Men, they are vertues Inseperable &amp; for myne owne <lb/>
+            perticuler I shall euer wish yow as good as greate / <lb/>
+            Your word and your faith are alwayes to bee keepte <lb/>
+            inviolable fame p<ex>er</ex>swade it &amp; prophitt &amp; vtilitey <lb/>
+            advise it for Where Agrement<ex>es</ex> &amp; Contract<ex>es</ex> are brocken <lb/>
+            there ceaseth <del rend="strikethrough">as</del> aswell betweene princes &amp; private men in <lb/>
+            all trust Com<ex>m</ex>erce &amp; Correspondence / Howsoeuer faith <lb/>
+            brecking may be Coullard. &amp; Coverred w<ex>i</ex>th reasons and <lb/>
+            pr<ex>e</ex>tences for a Season yet in tyme it becomes disvisored <lb/>
+            &amp; seldome or never escapes att god<ex>es</ex> hand<ex>es</ex> the Iust and <lb/>
+            desearued pubishment / 
+         </p>
+         <p>
+            Pollicies there are out of the Common Rule of men <lb/>
+            p<ex>ar</ex>ticuler. that for the puplicke may in Christianitey &amp; <lb/>
+            w<ex>i</ex>th a good Conscience bee p<ex>er</ex>mitted to princes / some thinges <lb/>
+            for Conseruinge of estat<ex>es</ex> are lawfull / that are not soe <lb/>
+            to acquire them for substance princes may tr5ead vpon <lb/>
+            the edge &amp; verge of vice soe they passe not the Circle. <lb/>
+            Princes are to Consider that allthough noe power or Iurisdicion <lb/>
+            vpon earth hath Authoritey to call a kinge or prince absolute <lb/>
+            to An accountt for his Acctions yet is there a kinge of all <lb/>
+            king<ex>es</ex> (by whome they raigne) that will not faile to <lb/>
+            exacte it /
+         </p>
+         <p>
+            The endeuor of a good kinge are to make his kingdomes <lb/>
+            in Riches and victualls plentifull / in provisions of warre <lb/>
+            abundant / in glorey &amp; honnor large &amp; magnifique and in <lb/>
+            vertues honest One of the thing<ex>es</ex> wherein principall <lb/>
+            Consist<ex>es</ex> the wisdome of a prince is a good an advised <lb/>
+            Choyse of his Counsellers &amp; ministers
+         </p>
+         <p>
+            I shall euer wish that your highnes in election of such <lb/>
+            giue more beleefe &amp; confidence to your eares &amp; vnd<ex>e</ex>rstandinge <lb/>
+            then to your eyes &amp; your Affections noe one <add place="above">man</add> euer deceyved <lb/>
+            all nor all men one / 
+         </p>
+         <p>
+            It Conserneth princes to knowe &amp; not to Coniecture the <lb/>
+            honesteyes &amp; abiliteyes of those by whome them selues and <lb/>
+            there affeaires are to bee Advised &amp; gouerned / this is <lb/>
+            better to bee done by a generall Concurrance of the <lb/>
+            oppinion &amp; report of maney. that wish well to the puplicke <lb/>
+            then of a fewe in Court that are only atentiue to there <lb/>
+            owne end<ex>es</ex> &amp; vtiliteyes for such is in right euery man to <lb/>
+            bee estemed as puplique and lounge Continued fame <lb/>
+            hath desiphred and made him
+         </p>
+         <p>
+            Counsell<ex>o</ex>rs are to bee chosen of those whoe best vnd<ex>e</ex>rstand <lb/>
+            there owne Cuntrey att home &amp; the humors &amp; Condition<ex>es</ex> <lb/>
+            of other nations abroad. &amp; that haue in them selues had <lb/>
+            proofe of the varietyes of fortune, for Adversiteyes &amp; <lb/>
+            Afflictions. searue for soe maney Instructions &amp; pr<ex>e</ex>sept<ex>es</ex>.
+         </p>
+         <p>
+            For place in Councell men in yeares are much more fitte <lb/>
+            then those that bee younge tyme and age hath taken from <lb/>
+            the one the force &amp; violence of there Appitites and <lb/>
+            <fw type="catch" place="bot-right">passiones</fw>
+            <pb n="281v" facs="/bl/add_ms_11600/add_ms_11600_f281v/add_ms_11600_f281v.jpg"/>
+            Passions. and exsperience and wisdome haue strenghtned <lb/>
+            &amp; fortified them w<ex>i</ex>th vnd<ex>e</ex>rstaanding &amp; knowledge
+         </p>
+         <p>
+            These of vnripe age are ordinarey of small foresight <lb/>
+            more inventiue then Iudicious vnstable into those nettes <lb/>
+            of deceipt wherew<ex>i</ex>th tyme hath not yet acquinted there <lb/>
+            vnwarrey feete /
+         </p>
+         <p>
+            To knowe the Scituacion &amp; principall Comoditeyes of <lb/>
+            euery province the Cheefe men of streinght as well in <lb/>
+            regard of there revenews as of there Alliances &amp; dependances <lb/>
+            of euery of them / there Combinations &amp; partialites. there <lb/>
+            distast<ex>es</ex> and devisions. to the end of these nations your highnes <lb/>
+            may searue your selfe here after when occasion shall bee offred.
+         </p>
+         <p>
+            The like I wish of all your Neighbor kingdomes and Cuntreyes <lb/>
+            to knowe the humors &amp; Conditions. of the princes there Councilors <lb/>
+            and principall gouernors of euery estate there streinght<ex>es</ex> <lb/>
+            there weaknes there Confedrat<ex>es</ex>. there enemyes there plentyes <lb/>
+            there necessiteys As allsoe wherein &amp; in what p<ex>ar</ex>t<ex>es</ex> the forces <lb/>
+            of those kingdomes by sea or by lande may most annioy them <lb/>
+            and in what place &amp; places they may giue them the fittest <lb/>
+            Assistance to the ende that as the moveable globe of the <lb/>
+            world shall turne &amp; bee changed and accordinge to Accurrances <lb/>
+            &amp; occasions your highnes may out of these generall and <lb/>
+            p<ex>ar</ex>ticuler knowledges bee euer prepared to directe aright <lb/>
+            the levell of <del rend="strikethrough">there</del> your owne resolutions &amp; acctions         
+         </p>
+         <p>
+            A kinge that is desirous. w<ex>i</ex>th best ashurance to driue into the <lb/>
+            couered and hiden intentions and designes of other princes <lb/>
+            is not to take soe much into Considerations what in p<ex>ro</ex>babilitey <lb/>
+            or discourse of reason a wise man would doe as what men <lb/>
+            possessed w<ex>i</ex>th such braines &amp; humors as those whose purpusses <lb/>
+            hee desirors to knowe are lickly to doe
+         </p>
+         <p>
+            Princes doe not allwayes pr<ex>e</ex>cede other men in wisdome as they <lb/>
+            doe in height of fortune &amp; when they doe yet is <add place="above">is</add> com<ex>m</ex>only <lb/>
+            soe Couerred &amp; ecclipsed w<ex>i</ex>th a vale and Cloude of our weening <lb/>
+            growne upon them out of custome to bee adored and soothed <lb/>
+            by those that are nearest them in whatsoeuer they say or set <lb/>
+            there fanceys on<del rend="strikethrough">e</del> as they become Impacient of Contradictions <lb/>
+            And hereof ir proceedeth that oftentymes there Councells <lb/>
+            being pr<ex>e</ex>cipitous &amp; guided by passion there designes and <lb/>
+            Acctions come in like maner. to an infortunate &amp; disastrous <lb/>
+            end and Confusion
+         </p>
+         <p>
+            This world to a privat man cost a great deale of travile <lb/>
+            to your highnes if yow shall bee knowen only to desire it / it <lb/>
+            will bee brought w<ex>i</ex>th much redines &amp; willingnes &amp; renewed vnto <lb/>
+            yow euery yeare or at least euery three or foure yeares for <lb/>
+            soe I would wish it in regard that tyme in this transitorey <lb/>
+            world breed<ex>es</ex> much allteration 
+         </p>
+         <p>
+            I Cannot omitt <unclear>onnoght</unclear> other thing<ex>es</ex> to recomend in especiall <lb/>
+            maner . vnto your highnes the disposinge of your tyme and <lb/>
+            your Acctions. /	
+         </p>
+         <fw type="catch" place="bot-right">Princes</fw>
+         <pb n="281r" facs="/bl/add_ms_11600/add_ms_11600_f281r/add_ms_11600_f281r.jpg"/>
+         <p>
+            Princes are not as privat men whome only there frynd<ex>es</ex> <lb/>
+            and there neighbours take notice of / of king<ex>es</ex> and others <lb/>
+            in your highnes high place and hope all the world makes <lb/>
+            Inquirey if they haue nothinge in hand that fame and report <lb/>
+            takes hould of they are either thought to bee dead or buried <lb/>
+            in disesteme &amp; forgetfullnes
+         </p>
+         <p>
+            This Consid<ex>e</ex>ration moued that puplique kinge <hi rend="italic">Lewis the <lb/>
+            xjth</hi> of Fraunce beinge possessed. w<ex>i</ex>th an Infermitey that <lb/>
+            made him more fitte to bee putt into the Rule of others then <lb/>
+            to gouerne by him selfe to send soe continually into the <lb/>
+            Cuntreyes for strange beast<ex>es</ex> &amp; other rariteys to bee brought <lb/>
+            vnto him w<ex>i</ex>th ende only that the world should take notice that <lb/>
+            hee lived and reviued <hi rend="italic">Charles the fifte</hi> and his <hi rend="italic">Sonne <lb/>
+            Phillip the Second</hi> did the like in allmost a yearly <lb/>
+            amusinge the world w<ex>i</ex>th some pr<ex>e</ex>parations or other by sea <lb/>
+            or by land only to make them selues talked <add place="above">of</add> and redoubted  
+         </p>
+         <p>
+            The kinge your father hath most wisly &amp; Christianly shutt <lb/>
+            vp the gates of <hi rend="italic">Ianus Temple</hi> hauinge peaces w<ex>i</ex>th all his <lb/>
+            neaighbours princes &amp; Cuntreyes Likely it is by god<ex>es</ex> grace <lb/>
+            Soe it bee Continued as the quiett &amp; Tranquilitey shall <lb/>
+            defende hereafter to your highnes. if soe it shall please <lb/>
+            god. yet shall yow not want meanes to ymploy your thought<ex>es</ex> <lb/>
+            and your Acction<ex>es</ex> whereby to putt yo<ex>u</ex>r fame vnd<ex>e</ex>r Seale by <lb/>
+            weedinge the garden of these kingdomes att home of the vices <lb/>
+            &amp; extreme excesses &amp; desolutions that are growen vppon them <lb/>
+            And since the globe of a Com<ex>m</ex>on Wealth is not to bee turned <lb/>
+            w<ex>i</ex>th violence and at an Instante but Soe Softley that it remoue <lb/>
+            w<ex>i</ex>th out noyce your highnes may euery yeare or towe bee amending <lb/>
+            of some what by lawes &amp; ord<ex>e</ex>rs at home both in the Com<ex>m</ex>on Wealth <lb/>
+            &amp; Church. by drawinge it &amp; <ex>th</ex>e Cleargey into a more p<ex>er</ex>fection <lb/>
+            &amp; vnion  
+         </p>
+         <p>
+            The like care allsoe had abroad in forraigne p<ex>ar</ex>t<ex>es</ex> in streinghting <lb/>
+            &amp; increasinge yow allies and Confedrat<ex>es</ex> &amp; Continvinge &amp; Confer=<lb break="no"/>
+            minge them in your Amitie  Will both bee a meanes to fortifie <lb/>
+            your owne estate and to giue notice to the world that your <lb/>
+            eyes are not closed &amp; your tthought<ex>es</ex> &amp; Counsells not vnimployed <lb/>
+            To deliu<ex>er</ex> vnto your highnes all p<ex>ar</ex>ticulariteyes Conserning estate <lb/>
+            &amp; Goverment I hould  yt impossable for aney man much more for <lb/>
+            one soe imp<ex>er</ex>ficte as my selfe/ .
+         </p>
+         <p>
+            Of soe large an extent is this noble &amp; necessary science of Ruling <lb/>
+            as w<ex>i</ex>thin <unclear>pres<add place="above">cr</add>epte</unclear> Rules or pr<ex>e</ex>sept<ex>es</ex>. it is not to bee Conteyned <lb/>
+            Tymes seasons &amp; humors are to bee considred the Shipp of Gou<ex>e</ex>rment <lb/>
+            is to bee apployed to the windes that blowe though the port<ex>es</ex> bee the <lb/>
+            same yet is not the pilot<ex>es</ex> of the Common Wealth allwayes <lb/>
+            tyed to one way or one maner of Sailinge /   
+         </p>
+         <p>
+            Pardon any pr<ex>e</ex>sumption in this little I haue written (most Excelent <lb/>
+            Prince) I accknowledge it to bee of little substance &amp; much vn=<lb break="no"/>
+            worthey your princely eyes / the woefull place wherein I writt <lb/>
+            it &amp; my most vnhappey fortune to haue incurred the heavey <lb/>
+            displeasure of the kinge your father (then w<ex>hi</ex>ch nothinge earthly <lb/>
+            could bee vnto mee more grevious) hauinge made my mynd vn=<lb break="no"/>
+            free &amp; my thought<ex>es</ex> Confused /.
+         </p>
+         <p>
+             Howsoeuer I shall <del rend="strikethrough">
+                    <unclear>eu</unclear>
+                </del> betake my selfe to a private Cuntrey life <lb/>
+            &amp; remoue from the Courte / yet shall by god<ex>es</ex> grace my faithfull <lb/>
+            and trewe vowed loue &amp; dewtey to your highnes neu<ex>er</ex> leaue to <lb/>
+            aweaite vpon yow either in what soeu<ex>e</ex>r service yow shall bee pleased <lb/>
+            <fw type="catch" place="bot-right">to Com<ex>m</ex>and</fw>
+            <pb n="280v" facs="/bl/add_ms_11600/add_ms_11600_f280v/add_ms_11600_f280v.jpg"/>
+            To Com<ex>m</ex>ande mee or in myne vncessant prayers to god for <lb/>
+            your lounge &amp; happie and healthfull life w<ex>i</ex>th as much honnor <lb/>
+            and euer enduringe fame as ever had aney of your royall <lb/>
+            Auncestors /
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_11600/add_ms_11600_f285v/add_ms_11600_f285v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_11600/add_ms_11600_f285r/add_ms_11600_f285r.jpg"/>
+      <graphic n="3" url="/bl/add_ms_11600/add_ms_11600_f284v/add_ms_11600_f284v.jpg"/>
+      <graphic n="4" url="/bl/add_ms_11600/add_ms_11600_f284r/add_ms_11600_f284r.jpg"/>
+      <graphic n="5" url="/bl/add_ms_11600/add_ms_11600_f283v/add_ms_11600_f283v.jpg"/>
+      <graphic n="6" url="/bl/add_ms_11600/add_ms_11600_f283r/add_ms_11600_f283r.jpg"/>
+      <graphic n="7" url="/bl/add_ms_11600/add_ms_11600_f282v/add_ms_11600_f282v.jpg"/>
+      <graphic n="8" url="/bl/add_ms_11600/add_ms_11600_f282r/add_ms_11600_f282r.jpg"/>
+      <graphic n="9" url="/bl/add_ms_11600/add_ms_11600_f281v/add_ms_11600_f281v.jpg"/>
+      <graphic n="10" url="/bl/add_ms_11600/add_ms_11600_f281r/add_ms_11600_f281r.jpg"/>
+      <graphic n="11" url="/bl/add_ms_11600/add_ms_11600_f280v/add_ms_11600_f280v.jpg"/>
+   </facsimile>
 </TEI>

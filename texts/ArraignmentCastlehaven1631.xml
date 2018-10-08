@@ -20,20 +20,31 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
             </listBibl>
                 <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 81r–89r</ref>
-                    </bibl>
                     <bibl>
                         <ref type="ms" target="../mss/BLHargraveMS226.xml">British Library, Hargrave MS 226, ff. 310v–313*v</ref>
                     </bibl>
@@ -111,9 +122,13 @@
             <date when="1631-04-25">25 April 1631</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
-               <term/>
+               <term>legal proceedings</term>
             </keywords>
          </textClass>
          <textClass>
@@ -129,13 +144,1850 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-27" who="#RB" status="spotchecked"/>
+            <change when="2018-09-27" who="#RB" status="draft"/>
+            <change when="2018-09-19" who="TW" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="81r" facs="/bl/add_ms_22591/add_ms_22591_f081r/add_ms_22591_f081r.jpg"/>
+         <p rend="align-centre">
+            <hi rend="bold">
+               The <lb/>
+               Arraignement of Mervin lord Awdley <lb/>
+               Earle <lb/>
+               of Castlehaven At <ex>th</ex>e kings bench barr <lb/>
+               onn <lb/>
+               Mondaye the xxvth of Aprill A<ex>nn</ex>o dom<ex>ini</ex> <lb/>
+               1631
+            </hi>
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">
+               Allso <lb/>
+               <ex>th</ex>e Articles of his beleife with his speech <lb/>
+               at <ex>th</ex>e <lb/>
+               tyme of his Execuc<ex>i</ex>on upo<ex>n</ex> Tower hill on <lb/>
+               Sat<ex>ur</ex>day <lb/>
+               <ex>th</ex>e xiiijth daye of Maye An<ex>n</ex>o D<ex>omi</ex>ni 1631
+            </hi>
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">
+               with <lb/>
+               Letters to his Sonne and his 4: sisters <lb/>
+               and <lb/>
+               his Epitaphe with <ex>th</ex>e Lady’s Answere <lb/>
+               thereto 
+            </hi>
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">
+               Togither <lb/>
+               also with <ex>th</ex>e arraignm<ex>en</ex>t Conviction <lb/>
+               Co<ex>n</ex>fessio<ex>n</ex> <lb/>
+               &amp;amp; Eexecion of Brodway &amp;amp; Fitzpa=<lb break="no"/>
+               trick
+            </hi>
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               Iohn Sudbury et George Humble <lb/>
+               Londini excuderunt <lb/>
+            </hi>
+         </p>
+         <pb n="81v" facs="/bl/add_ms_22591/add_ms_22591_f081v/add_ms_22591_f081v.jpg"/>
+         <space extent="1" unit="page"/>
+         <pb n="82r" facs="/bl/add_ms_22591/add_ms_22591_f082r/add_ms_22591_f082r.jpg"/>
+         <p>
+            <add place="RM">
+               <hi rend="bold">
+                  The Ar<lb break="no"/>
+                  raignem<ex>en</ex>t of <ex>th</ex>e E<ex>arl</ex> <lb/>
+                  of Castlehaue<ex>n</ex>
+               </hi>
+            </add>
+            The Lord Coventrye Lord Keeper of the greate Seale of <lb/>
+            England was appointed Lord highe Steward for that day who <lb/>
+            hauing Order for the said Tryall fro<ex>m</ex> his Ma<ex>jes</ex>ty gaue direc<ex>i</ex>o<ex>n</ex>s for <ex>th</ex>e same
+         </p>
+         <p>
+            The Lords the Peeres tooke their Places about 8: of <ex>th</ex>e clocke <lb/>
+            in the Morning, and were seated on Benches on each syde of A <lb/>
+            longe Table covered w<ex>i</ex>th greene Clothe, and belowe them were <lb/>
+            the Judges placed, and the Kings Learned Cou<ex>n</ex>cell , and <ex>th</ex>e Officers <lb/>
+            of the Courte, And having disposed of them selves  in their seu<ex>er</ex>all <lb/>
+            Places, the Lord Steward about 9: of the Cocke entred the Hall <lb/>
+            vncoved w<ex>i</ex>th Seaven Maces carryed before him by Seave<ex>n</ex> Serieant<ex>es</ex> <lb/>
+            at Armes, and was attended vpon by S<ex>i</ex>r John Boroughes at Armes, <lb/>
+            and Mr James Maxwell vsher of the blacke rode
+         </p>
+         <p>
+            After the Lorde<del rend="strikethrough">s</del> <del rend="strikethrough">had</del> Steward had saluted all the Lords <ex>th</ex>e Peeres <lb/>
+            (whoe resaluted him againe) he pr<ex>e</ex>sentlye ascended the State, and beinge <lb/>
+            seated in the Chaire: he was present<del rend="strikethrough">ly</del>ed w<ex>i</ex>th his Ma<ex>jes</ex>t<ex>ies</ex> Comission, by one <lb/>
+            of the M<ex>aste</ex>rs of the Chancerye, w<ex>hi</ex>ch bare date the xiij th of Aprill <hi rend="underline">1631</hi>
+         </p>
+         <p>
+            After he had rec<ex>eived</ex> the said Comission hee Comaunded an .O. yes <lb/>
+            to be made by one of the Serieant<ex>es</ex> at Armes, for A generall silence, <lb/>
+            and then delivered the said Comission to S<ex>i</ex>r Thomas Fanshawe Clarke <lb/>
+            of the Crowne to be openly read (w<ex>hi</ex>ch being done Mr Maxwell kneeled <lb/>
+            downe, and pr<ex>e</ex>sented his Lordshipp w<ex>i</ex>th A whitt Staffe (or rodd) which <lb/>
+            he gave to one of the S<ex>e</ex>rieant<ex>es</ex> at Armes, whoe held the same vpp <lb/>
+            by the Clothe of State on the right hand thereof  And after <ex>th</ex>e com=<lb break="no"/>
+            mission was read, and the Staffe received as aforesaide, his grace <lb/>
+            comanded A Solempe O yes to be made, and then gave leave to all <lb/>
+            the Lordes the Peeres and the Judges, and to all pr<ex>i</ex>vye Cou<ex>n</ex>sellors <lb/>
+            there p<ex>re</ex>sent to be Covered, And comaund was given that none vnd<ex>e</ex>r <lb/>
+            that degree should keepe on their hatts vpo<ex>n</ex> paine of ymprisonm<ex>en</ex>t <lb/>
+            And then the Peeres were severallie called by their Names, and <lb/>
+            each of them au<ex>n</ex>swered p<ex>ar</ex>ticulerlye, videl<ex>ici</ex>t
+         </p>
+         <p>
+            <lg>
+               <l>
+                        <hi rend="bold">(1)</hi> <hi rend="italic">Lord Weston Lord highe Tresuror of England</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:2:</hi> <hi rend="italic">Earle of Manchester Lord Priuye Seale</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:3:</hi> <hi rend="italic">Earle of Arundell and Surrye Earle Marshall</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:4:</hi> <hi rend="italic">Earle of Pe<ex>m</ex>brooke &amp;amp; Mountgomery Lo<ex>rd</ex> chamberlaine</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:5:</hi> <hi rend="italic">Earle of Kente</hi>
+                    </l>				
+               <l>
+                        <hi rend="bold">:6:</hi> <hi rend="italic">Earle of Worcester</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:7:</hi> <hi rend="italic">Earle of Bedforde</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:8:</hi> <hi rend="italic">Earle of Essex</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:9:</hi> <hi rend="italic">Earle of Dorsett</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:10:</hi> <hi rend="italic">Earle of Salisburye</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:11:</hi> <hi rend="italic">Earle of Leicester</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:12:</hi> <hi rend="italic">Earle of Warwicke</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:13:</hi> <hi rend="italic">Earle of Carleil</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:14:</hi> <hi rend="italic">Earle of Holland</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:15:</hi> <hi rend="italic">Earl of Bark’s</hi>
+                    </l>
+            <cb/>
+               <l>
+                        <hi rend="bold">:16:</hi> <hi rend="italic">Earle of Danby</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:17:</hi> <hi rend="italic">Viscount Wimbleton</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:18:</hi> <hi rend="italic">Viscount Conowaye</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:19:</hi> <hi rend="italic">Viscou<ex>n</ex>t Dorchester</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:20:</hi> <hi rend="italic">Viscou<ex>n</ex>t Wentworth</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:21:</hi> <hi rend="italic">Lord Percye</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:22:</hi> <hi rend="italic">Lord Strange</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:23:</hi> <hi rend="italic">Lord Clifford</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:24:</hi> <hi rend="italic">Lord Peter</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:25:</hi> <hi rend="italic">Lord Northe</hi>
+                    </l>
+               <l>
+                        <hi rend="bold">:26:</hi> <hi rend="italic">Lord Goringe</hi>
+                    </l>
+            </lg>
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="82v" facs="/bl/add_ms_22591/add_ms_22591_f082v/add_ms_22591_f082v.jpg"/>
+         <p>
+            The Iudges Present
+         </p>
+         <p>
+            <lg>
+               <l>
+                  <hi rend="italic">Sir Nicholas Hyde</hi> Lord Cheiffe <lb/>
+                  Justice of the Kings Benche
+               </l>
+               <l>
+                  <hi rend="italic">Sir Thomas Richarson</hi> Lo<ex>rd</ex> Cheiffe <lb/>
+                  Justice of the Com<ex>m</ex>on Place
+               </l>
+               <l>
+                  <hi rend="italic">Sir Humphrye Dauemport</hi> Lord <lb/>
+                  Cheiffe <hi rend="italic">Baron of the Exchequ<ex>e</ex>r</hi>
+               </l>
+               <cb/>
+               <l>
+                        <hi rend="italic">Baron Denham</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">Judge Jones</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">Judge Hutton</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">Judge Whitlocke</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">Judge Crooke</hi>
+                    </l>
+            </lg>
+         </p>
+         <p rend="indent">
+            The Kings Cou<ex>n</ex>sell
+         </p>
+         <p rend="align-centre">
+            <lg>
+               <l>S<ex>e</ex>rieant <hi rend="italic">Crewe</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">Mr Attorney Generall</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">Mr Sollicitor Generall</hi>
+                    </l>
+               <l>
+                        <hi rend="italic">S<ex>i</ex>r John Finche /</hi>
+                    </l>
+            </lg>
+         </p>
+         <p rend="indent">
+            The Officers of the Courte /
+         </p>
+         <p rend="align-right">
+            <lg>
+               <l>
+                        <hi rend="italic">S<ex>i</ex>r Thomas Fanshawe</hi> Clarke of <ex>th</ex>e Crow<ex>n</ex>e</l>
+               <l>
+                        <hi rend="italic">Mr John Keeling his Deputie or Assistant /</hi>
+                    </l>
+            </lg>
+         </p>
+         <p>
+            This done the Lord Steward (after A Solemne pr<ex>e</ex>cognizance) <lb/>
+            comaunded the Indictment<ex>es</ex> to bee certified and brought in, And <lb/>
+            then by A Serieant at Armes the Leiveten<ex>a</ex>nt of the Tower was <lb/>
+            called to bringe forth the Prisoner (whoe vntill <ex>tha</ex>t tyme was kept <lb/>
+            in A litle Roome by the Como<ex>n</ex> Pleas, and the Lieveten<ex>a</ex>nt brought <lb/>
+            him to the Barr w<ex>i</ex>th divers of the Guard attending on him, where <lb/>
+            he had a Place in Manner of A Pewe, lyned w<ex>i</ex>th greene in w<ex>hi</ex>ch <lb/>
+            he stood, and the Lieveten<ex>a</ex>nt had another, of the same forme for <lb/>
+            him to rest in adioyning to it, And when he had done his obeysance <lb/>
+            to the Lord highe Steward, and the Peeres (whoe allsoe resoluted <lb/>
+            him againe) The Lord Highe Steward spake to him in man<ex>ner</ex> following 
+         </p>
+         <p>
+            <add place="LM">∵ <hi rend="italic">The Lord highe Stewards Speech to the Lo<ex>rd</ex> Awdeley</hi>
+                </add>
+            ∵ My Lord Awdelye 
+         </p>
+         <p>
+            The King hath vnderstood both by reporte and the Veredict of <lb/>
+            divers Gent<ex>lemen</ex> of quallitie in yo<ex>u</ex>r owne Cou<ex>n</ex>trye that you stande <lb/>
+            impeached of sundrye Crimes of A most highe and haynous na=<lb break="no"/>
+            ture, and to trye whether they be true or not / And that Justice <lb/>
+            may be done accordingly / his Ma<ex>jes</ex>tye brings you this day to yo<ex>u</ex>r <lb/>
+            Tryall / doing herein like the Mightie Kinge of Kings, in <ex>th</ex>e 18. <lb/>
+            <add place="LM">
+                    <hi rend="italic">Gen: 18: 20: 21</hi>
+                </add>
+            of Genesis ver<ex>ses</ex> 20: 21 whoe went downe to see whether theire <lb/>
+            Sinnes were soe grevious, as the Crye of them; Because <ex>th</ex>e crye <lb/>
+            of <hi rend="italic">Sodome and Gomora</hi> is greate, and their Sinnes soe greveous, <lb/>
+            I will goe downe (saith the Lord) and see whether they haue done <lb/>
+            altogither according to the Crye of it, And kings on Earth can <lb/>
+            haue noe better Patterne to followe, then the kinge of heaven <lb/>
+            And therefore our Sou<ex>er</ex>aigne Lord the Kinge (Gods vicegerent <lb/>
+            here on Earthe) hath com<ex>nm</ex>aunded that you should be here tryed <lb/>
+            this daye and to that Ende hath caused theis Peeres to bee <lb/>
+            assembled / and the desire of his Ma<ex>jes</ex>tye is that yo<ex>u</ex>r Tryall shall <lb/>
+            be as equall as equitie and Justice it selfe and therefore <lb/>
+            theis Noble-men yo<ex>u</ex>r Peeres (whose hart<ex>es</ex> are as full of <lb/>
+            <fw type="catch" place="bot-right">integritie</fw>
+            <pb n="83r" facs="/bl/add_ms_22591/add_ms_22591_f083r/add_ms_22591_f083r.jpg"/>
+            integritie, Justice and Truthe, as their Veines full of noble <lb/>
+            bloud) are this daye to trye you / wherefore if you be innocent <lb/>
+            speake boldly and confidentlye, and feare not to Justice yo<ex>u</ex>r <lb/>
+            selfe and bee assured that those <ex>tha</ex>t accuse you (if you be free yo<ex>u</ex>r <lb/>
+            selfe) shall not escape free / But if you be guiltie of those crymes <lb/>
+            I advise you to give homor to God, and the kinge, and confesse your <lb/>
+            Fault<ex>es</ex> / For it is not Vaine confidence nor subletye nor standing out <lb/>
+            in deniall that can hide the Truthe / And all the Shifts and subleties ag<ex>ains</ex>t <lb/>
+            it are but <foreign xml:lang="la">
+                    <hi rend="italic">Consilia aduersus Dominu<ex>m</ex>
+                    </hi>
+                </foreign>, therefore if truthe touch you <lb/>
+            at the harte, and yo<ex>u</ex>r Conscience w<ex>hi</ex>ch is A Thousand wittnesses, &amp;amp; <lb/>
+            Gods grace w<ex>hi</ex>ch is greater then both, stand not out against us, and if <lb/>
+            you doe, God will put it in the harts of theis noble p<ex>er</ex>sons to find it <lb/>
+            out, and to doe that w<ex>hi</ex>ch is iust
+         </p>
+         <p>
+            <add place="LM">∵ <hi rend="italic">The Lo<ex>rd</ex> Awdeleys Speech to the Lo<ex>rd</ex> high Steward</hi>
+                </add>
+            ∵ Maye it please yo<ex>u</ex>r Grace /
+         </p>
+         <p>
+            I haue bene A close Prisoner theis Sixe Monthes, w<ex>i</ex>thout freinds <lb/>
+            w<ex>i</ex>thout Cou<ex>n</ex>sell, or advise, I am ignorant of Advantages and <lb/>
+            disadvantages of the Lawe, and am but weake of speech at <ex>th</ex>e best, <lb/>
+            And therefore I desire to haue <ex>th</ex>e lib<ex>er</ex>tie of having cou<ex>n</ex>sell to speake for mee
+         </p>
+         <p>
+            <add place="LM">∵ <hi rend="italic">The Lord high Stewards replye /</hi>
+                </add>
+            ∵ For yo<ex>u</ex>r soe longe ymprisonem<ex>en</ex>t, it hath bine to you A spetial <lb/>
+            favour, for you haue had time enoughe to bethinke yo<ex>u</ex>r selfe, and more <lb/>
+            then ever anye man had, that hath bine comitted for such an offence, <lb/>
+            and more Favor then ever anye had that came to this Barre, And you <lb/>
+            shall demaund nothinge w<ex>hi</ex>ch the Lawe can allowe, but you shall haue it, <lb/>
+            but for yo<ex>u</ex>r demaund I must move it to the Lords the Judges &amp;amp; they <lb/>
+            shall satisfie you in it, or anye other thinge you desire /
+         </p>
+         <p>
+            Then his grace desired to be resolved of the Judges whether <lb/>
+            this demaund of my Lord Awdleye to haue a Counsell to plead for <lb/>
+            him, might be graunted or not
+         </p>
+         <p>
+            Then his grace desired to be resolved of the Judges whether <lb/>
+            this demaund of my Lord Awdleye to haue A Counsell to plead for <lb/>
+            him, might be graunted or not
+         </p>
+         <p>
+            The Judges an<ex>n</ex>swered that in criminall Causes Cou<ex>n</ex>cell is not <lb/>
+            to be admitted for matter of Facte / but for matter of Lawe they may
+         </p>
+         <p>
+            Then the Lord Steward proceeded to the Charge/ and Com<ex>m</ex>anded <lb/>
+            the three Indictment<ex>es</ex> to be read by S<ex>i</ex>r Thomas Fanshaw Clarke <lb/>
+            of the Crowne 2: for Sodomie w<ex>i</ex>th <hi rend="italic">Lawrence Fitzpatricke</hi>.  his <lb/>
+            Foote man) the third for a Rape com<ex>m</ex>itted on his owne wiffe <ex>th</ex>e Cou<ex>n</ex> <lb/>
+            tesse of Castlehaven
+         </p>
+         <p>
+            Then being asked whether he were guiltie of them, or not guilty <lb/>
+            he answered not guiltie
+         </p>
+         <p>
+            Then he was asked howe he would be tryed, the <del rend="strikethrough">Lo</del> Earle said <lb/>
+            by God, and my Peeres, where vppo<ex>n</ex> the Peeres put of theire <lb/>
+            hatts, and therevpo<ex>n</ex> the Issue was ioyned
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">The Lord highe Stewards Speech to <ex>th</ex>e Lords /</hi>
+                </add>
+            My Lords
+         </p>
+         <p>
+            The Prisoner stands indicted <del rend="strikethrough">of </del>
+                <add place="above">for</add> A Rape by one Indictm<ex>en</ex>t, and <lb/>
+            of Sodomie by two/  and he hath pleaded not guiltie to them all, <lb/>
+            It is my duetie to <del rend="strikethrough">crye</del> <add place="above">charge</add> you w<ex>i</ex>th the tryall of it, &amp;amp; you art to iudg of of
+         </p>
+         <p>
+            The Offences wherew<ex>i</ex>th he standeth chardged are to be p<ex>ro</ex>ved <lb/>
+            by Evidence, and because the Crimes that comes this daye before <lb/>
+            vs maye in some breede detestac<ex>i</ex>on/ and the p<ex>er</ex>son of his Lo<ex>rdshi</ex>ppe in <lb/>
+            others maye breed compassion / I desire yo<ex>u</ex>r Lordshipps to sett theis <lb/>
+            two Asyde, and lett yo<ex>u</ex>r reasonn swaye yo<ex>u</ex>r Judgm<ex>en</ex>t, and lett that rule <lb/>
+            yo<ex>u</ex>r Affections, and yo<ex>u</ex>r heart<ex>es</ex> yo<ex>u</ex>r heads, for neither of theis ought <lb/>
+            to <add place="above">be</add> put into the ballance for A grame on either side maye sway the <lb/>
+            scale, you are to give attentive hearing, and then to weigh equally <lb/>
+            that the scale maye leane the right waye / The Judges <del rend="strikethrough">may</del> <add place="above">will</add> assist <lb/>
+            <fw type="catch" place="bot-right">you</fw>
+            <pb n="83v" facs="/bl/add_ms_22591/add_ms_22591_f083v/add_ms_22591_f083v.jpg"/>
+            you in pointe of Lawe, w<ex>hi</ex>ch if you doubt of, you art to p<ex>ro</ex>pound <lb/>
+            it to mee, and I to them, and this you are to doe w<ex>i</ex>thout corporall <lb/>
+            Oathe, for the Lawe conceyveth you of such integritie, that you will <lb/>
+            doe that for Justice, w<ex>hi</ex>ch otheres doe vpo<ex>n</ex> their oathes, &amp;amp; therefore <lb/>
+            admitt of noe challenge, and God direct you to doe as you ought 
+         </p>
+         <p>
+            Then S<ex>i</ex>r Thomas <hi rend="italic">Crewe</hi> gave the First Chardge, and after <lb/>
+            him Mr Attorney said as followeth
+         </p>
+         <p>
+            My Lord Steward, maye it please yo<ex>u</ex>r grace, there are three <lb/>
+            Indictm<ex>en</ex>t<ex>es</ex> against <hi rend="italic">Mervyn Lo<ex>rd</ex> Awdelye</hi> / The First for a Rape, <lb/>
+            The other two for <hi rend="italic">Sodomye</hi>
+         </p>
+         <p>
+            The Person is honorable, the crimes of w<ex>hi</ex>ch he is indicted <lb/>
+            dishonorable w<ex>hi</ex>ch if it fall out to be true (w<ex>hi</ex>ch is to be lefte to <lb/>
+            tryall) I dare be bold to saye never Poett invented, nor Histo<lb break="no"/>
+            riographer writt of anye soe fowle / And allthoughe Surtonius <lb/>
+            hath curiouslye sett out the Vices of some of the Emperors w<ex>hi</ex>ch <lb/>
+            had absolute power, w<ex>hi</ex>ch might make them feare the lesse, of all <lb/>
+            manner of Punishm<ex>en</ex>t and besydes were heathen and knew not God, <lb/>
+            yett none of theis came neere this Lords cryme / The one is A <lb/>
+            cryme thats (I maye speake it to the honor of our Natio<ex>n</ex>) is of such <lb/>
+            varitie that wee seldome  or never knowe of the like, and for the <lb/>
+            other wee scarce heard of the like, but they are of such pestilen=<lb break="no"/>
+            tiall nature that if they be not punished, they will drawe fro<ex>m</ex> <lb/>
+            heaven A heavie Judgm<ex>en</ex>t vpo<ex>n</ex> this kingdome, wherevpo<ex>n</ex> (Mr Attor<ex>ney</ex> <lb/>
+            digressinge fro<ex>m</ex> the matter) the Lord Awdlye would haue int<ex>e</ex>rrupted <lb/>
+            him, and required him to hould him to the points in the Indictm<ex>en</ex>ts <lb/>
+            But the Lord highe Steward desired his Lordshipp to be patien<ex>t</ex> <lb/>
+            and assured him he should be heard in fitt time, at full, wherevpo<ex>n</ex> <lb/>
+            Mr Attornye p<ex>ro</ex>ceeded againe in his Chardge, and saide.
+         </p>
+         <p>
+            Maye it please yo<ex>u</ex>r Grace I cann speake it w<ex>i</ex>th ioye and <lb/>
+            Comforte that during all my time of Service both in Ma<ex>jes</ex>t<ex>ies</ex> <lb/>
+            fathers tyme, and since he came to the Crowne, I had never the <lb/>
+            like occasion to speake in this Place, against A Peere of the <lb/>
+            Realme before nowe, and god knowes I doe it nowe w<ex>i</ex>th sorrow <lb/>
+            and I hope I shall never haue the like occasion to do so much <lb/>
+            againe, But his Ma<ex>jes</ex>tye whoe is the Patterne of Vertue, not only <lb/>
+            as kinge, but in his p<ex>er</ex>son allsoe, in whom it is hard to iudge whith<ex>e</ex>r <lb/>
+            he most excells in Justice,  or mercy, but I rather thincke in m<ex>er</ex>cie <lb/>
+            For he would haue my Lord Awdlye (the Prisoner at Barr) heard <lb/>
+            w<ex>i</ex>th as much Favor as such A Crime can admitt / And when hee <lb/>
+            first hearde of it, he gave strict comaund that the truthe should <lb/>
+            be searched out, that his throne, and people might bee cleered fro<ex>m</ex> <lb/>
+            soe heavie and heynous Sinnes / And there vpo<ex>n</ex> he was indicted in <lb/>
+            his owne Cou<ex>n</ex>trye according to the Lawe, and by Gent<ex>lemen</ex> of worthe <lb/>
+            and quallitye, the Bill was found, and nowe he is p<ex>er</ex>sonallie brog<add place="above">h</add>t <lb/>
+            to this Barre to bee tryed by these his hono<ex>ra</ex>ble Peeres, such of whose <lb/>
+            wisedome and sinceritie there can be noe question, but that hee <lb/>
+            shall haue A iust and ho<ex>nora</ex>ble tryall, and fi<add place="above">r</add>st I shall beginne w<ex>i</ex>th <lb/>
+            the Indictm<ex>en</ex>t of rape / <hi rend="italic">Bracton</hi> tells vs of Kinge <hi rend="italic">Athelstons</hi> <lb/>
+            lawe before the Conquest, if the p<ex>ar</ex>tie were of noe chaste liffe <lb/>
+            but A Whore yet there maye bee A ravishm<ex>en</ex>t, but it is a good <lb/>
+            Plea to saye shee was his Concubine
+         </p>
+         <fw type="catch" place="bot-right">In</fw>
+         <pb n="84r" facs="/bl/add_ms_22591/add_ms_22591_f084r/add_ms_22591_f084r.jpg"/>
+         <p>
+            In an indictm<ex>en</ex>t of Rape there is noe time of prosecuc<ex>i</ex>on <lb/>
+            necessarye, For <foreign xml:lang="la">
+                    <hi rend="italic">Nullum tempus occurrit Regi</hi>
+                </foreign> But in case of <lb/>
+            an Appeale of Rape, if the woman did not p<ex>ro</ex>secute in conveni=<lb break="no"/>
+            ent time it will Barr her.
+         </p>
+         <p>
+            If A man take awaye A Mayde by Force, and ravishe her, <lb/>
+            and afterwards shee give her consent and marrie him, yet it is a Rape/
+         </p>
+         <p>
+            For the <foreign xml:lang="la">
+                    <hi rend="italic">Crimen Sodomiticu<ex>m</ex>
+                    </hi>
+                </foreign> our Lawe had noe knowledge of <lb/>
+            it till the 15: H: 8: by w<ex>hi</ex>ch Statute it was made Fellonie / and in <lb/>
+            this there is noe more question, but onelye whether it be <foreign xml:lang="la">
+                    <hi rend="italic">crimen So= <lb/>
+            Sodomticu<ex>m</ex> Siue Penetrac<ex>i</ex>onem</hi>
+                </foreign>/ And the Lawe 15: Eliza: setts it <lb/>
+            downe in generall words, and where the Lawe doth not distingishe <lb/>
+            neither must wee, And I knowe you will be curious howe you <lb/>
+            will give the least mitigac<ex>i</ex>on to soe abominable A Sinne, w<ex>hi</ex>ch brought <lb/>
+            such Plauges after it as wee maye see in the 17: of <hi rend="italic">Genesis</hi> 18 <hi rend="italic">Leu<ex>iticus</ex>
+                </hi> <lb/>
+            19: <hi rend="italic">Judges</hi>, <space extent="4" unit="chars"/> <hi rend="italic">Romans</hi> But (my Lord) it seemed to me strang <lb/>
+            at the First howe A Noble man of his quallitie should fall to such <lb/>
+            abominable Sinnes, but when I found he had given himselfe over to <lb/>
+            lust, and find <hi rend="italic">Nemo repente fitt pessumus</hi> / And if once men <lb/>
+            habitt them selves in ill, it is noe marvell if they fall into anye <lb/>
+            sinnes, and that he was constant in noe religion, but in the morninge <lb/>
+            he would be a Papist and goe to Masse, and in the afternoone A <lb/>
+            Protestant, and goe to A Sermon, when I had considered theise <lb/>
+            thinges, I easilye conceaved, and shall be bold to give yo<ex>u</ex>r Grace a <lb/>
+            reason whie he became soe ill, he beleeved not God, he had not the <lb/>
+            Feare of God before his Eyes, he left God, and God left him to <lb/>
+            his owne wickednes / And then what maye not A man runn into, <lb/>
+            what Sinne soe foule, what thinge soe Odious, w<ex>hi</ex>ch he dares not <lb/>
+            adventure, but I finde in him thinges beyond all ymaginac<ex>i</ex>on , for <lb/>
+            I finde his ill imaginac<ex>i</ex>on, for I finde his ill intencons bent to <lb/>
+            <add place="RM">#</add> haue his wiffe naught, w<ex>i</ex>th the wickedst man that ever I heard of <lb/>
+            before would virtuous and good, howe badd soe ever himselfe be <lb/>
+            And I finde him Bawde to his owne wiffe/ If shee love him, shee <lb/>
+            must love <hi rend="italic">Skipwith</hi> (whom hee honoured above all) and not in any <lb/>
+            honest Love, but in A dishonest Love, and he gives his reasonn by <lb/>
+            Scripture, shee was nowe made subicte to him, and therefore if <lb/>
+            shee did ill at his Comaund, it was not her Fault but his, and he <lb/>
+            would au<ex>n</ex>swere it / His irregular bountie towards <hi rend="italic">Skipwith</hi> <lb/>
+            was allsoe remarkable, he letts this <hi rend="italic">Skipwith</hi> (whom he calls <lb/>
+            his Favorite) spend of his Purse 500 l p<ex>er</ex> Ann<ex>um</ex>, And if his wife <lb/>
+            or daughter would haue anye thinge (thoughe never soe necessary) <lb/>
+            they must lye w<ex>i</ex>th Skipwith, and haue it fro<ex>m</ex> him, and not otherwise, <lb/>
+            allsoe telling Skipwith and his daughter in lawe <ex>tha</ex>t he had ra=<lb break="no"/>
+            ther haue A Child by him then by any other / But for theis thing<ex>es</ex> <lb/>
+            I had rather they should come forthe of the wittnesses Mouthes <lb/>
+            then fro<ex>m</ex> mee, and therevpon desired <ex>tha</ex>t <ex>th</ex>e Proofe might be read
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  Examinacons <lb/>
+                  ∵ Wilter Bigg his examinacon <lb/>
+                  wherein he deposeth
+               </hi>
+            </add>
+            <hi rend="italic">Walter Bigg</hi> deposed that Antell was A Page to S<ex>i</ex>r He<ex>nry</ex> <lb/>
+            Smithe and had noe more meanes when he came to my Lord <lb/>
+            Awdelye but the <hi rend="italic">Mare</hi> hee rode on, hee entertained him as his <lb/>
+            Page 8: yeeres, and afterwards lett him keepe horses in my <lb/>
+            Lordes grounds by w<ex>hi</ex>ch I thinke hee enriched him selfe 2000 l <lb/>
+            but he never satt at Table w<ex>i</ex>th my Lord till he had marryed <lb/>
+            <fw type="catch" place="bot-right">his</fw>
+            <pb n="84v" facs="/bl/add_ms_22591/add_ms_22591_f084v/add_ms_22591_f084v.jpg"/>
+            his daughter, and then gave him to the value of 7000 l /
+         </p>
+         <p>
+            That Skipwith was sent from Ireland to be my Ladyes Page <lb/>
+            and that his Father and Mother was very Poore Folkes there, hee <lb/>
+            spent of my Lords Purse p<ex>er</ex> Ann<ex>um</ex> 500 l, and he gave him at One <lb/>
+            tyme 1000 l, and hath made divers deeds of Land vnto him
+         </p>
+         <p>
+            My Lord was at First A Protestant but after by buying of <lb/>
+            Founthill hee turned his religion
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="italic">
+                  The Lo<ex>rd</ex> Awdleys <lb/>
+                  examinac<ex>i</ex>on taken <lb/>
+                  before <ex>th</ex>e Lo<ex>rd</ex> Keep<ex>e</ex>r Lo<ex>rd</ex> <lb/>
+                  Thr<ex>easur</ex>er, Lo<ex>rd</ex> Marshall &amp; <lb/>
+                  others, w<ex>hi</ex>ch being shewed <lb/>
+                  to him Subscribed w<ex>i</ex>th <lb/>
+                  his owne hand, he would <lb/>
+                  not acknowledge it, but <lb/>
+                  excused it, sayinge his <lb/>
+                  Eyes were badd, but <lb/>
+                  being perfectly read, <lb/>
+                  he acknowledged it videl<ex>ice</ex>t)
+               </hi>
+            </add>
+            That <hi rend="italic">Henry Skipwith</hi> had noe meanes when he came to <lb/>
+            him, and that he had given him 1000 l. and that <hi rend="italic">Skipwith</hi> laye w<ex>i</ex>th <lb/>
+            him when he was straightened in Roomes, And that he gave A <lb/>
+            Farme of 100 l. p<ex>er</ex> Ann<ex>um</ex> to <hi rend="italic">Antell</hi> that married his daughter / and <lb/>
+            at other Tymes to the Value of 7000 l.  And that there was one <lb/>
+            <hi rend="italic">Blandina</hi> in his house 14: dayes, and bestowed an ill disease <lb/>
+            there, and therefore he sent her awaye / 
+         </p>
+         <p rend="align-centre">
+            <hi rend="italic">
+               The Lo<ex>rd</ex> Stewards Aduise to <lb/>
+               the said Lord Awdeley
+            </hi>
+         </p>
+         <p>
+            My Lord I would advise you not to denye the things w<ex>hi</ex>ch <lb/>
+            are cleerelye proved / for then the Lords will give lesse Creditt <lb/>
+            to the rest you saye /
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">The Countesse of Castlehauens examination</hi>
+                </add>
+            That shortelye after the Earle marryed her /vidzt, <ex>th</ex>e First <lb/>
+            or Second night, Antell came vnto the Bedds syde whilst shee <lb/>
+            and her husband were in Bedd / And the Lord Awdlye spake lasci=<lb break="no"/>
+            viouslye to her, and told her <ex>tha</ex>t nowe her Bodye was his, and that <lb/>
+            if shee loved him shee must love Antell / And that if shee laye w<ex>i</ex>th <lb/>
+            any other man w<ex>i</ex>th his Consent it was not her faulte but his, And <lb/>
+            that if it were his will to haue it soe she must obeye, and doe it
+         </p>
+         <p>
+            That he attempted to draw her to lye w<ex>i</ex>th his servant Skipwith <lb/>
+            and that Skipwith made him beleeve he did it, but did it nott
+         </p>
+         <p>
+            That he would make Skipwith come naked into his Chamber, &amp;amp; <lb/>
+            delighted in calling vpp his Servant<ex>es</ex> to shew their Privities, and <lb/>
+            would make her looke on, &amp;amp; comended those <ex>tha</ex>t the lardgst
+         </p>
+         <p>
+            <add place="LM">=</add>
+            That Lawrence Fitzpatricke was p<ex>ro</ex>duced, but before his <lb/>
+            examinac<ex>i</ex>on was read, the Earle desired <ex>tha</ex>t neither hee nor anye <lb/>
+            other might bee allowed wittnesses against him vntill he had take<ex>n</ex> <lb/>
+            the Oathe of Allegiance / this was referred to the Lord <ex>th</ex>e Judges
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">
+                        <ex>Th</ex>e Judges Resoluc<ex>i</ex>o<ex>n</ex>
+                    </hi>
+                </add>
+            The Iudges resolue against him that they might bee wittnesses <lb/>
+            vnlesse they were convicted recusantes  
+         </p>
+         <p>
+            <add place="LM">this <ex>tha</ex>t is m<ex>ar</ex>ked must come in next aboue Law: Fitzpatricke = </add>
+            That one night being abedd w<ex>i</ex>th her Frounthill  hee called for <lb/>
+            <add place="LM">=</add>his man Brodwaye, and comau<ex>n</ex>ded him to lye at his Bedd Feete <lb/>
+            <add place="LM">=</add>and about Mydnight shee being A Sleepe called him to light a pipe <lb/>
+            <add place="LM">=</add>of Tobacco, Broadwaye rose in his Shirtt, and the Lord pulled him <lb/>
+            <add place="LM">=</add>into Bedd to him and her, and made him lye next to her &amp;amp; Broad <lb/>
+            <add place="LM">=</add>Waye laye <del rend="strikethrough">next </del>w<ex>i</ex>th her, and knewe her carnallye whilst shee <lb/>
+            <add place="LM">=</add>made resistance, and the lord held both her handes, and one of <lb/>
+            <add place="LM">=</add> her Leggs the whiles<add place="above">t</add>, And that assoone as shee was free shee <lb/>
+            <add place="LM">=</add>would haue killed her selfe w<ex>i</ex>th a Knife but that Broadwaye <lb/>
+            <add place="LM">=</add>forceablye tooke the Knife fro<ex>m</ex> her and brooke it And before <lb/>
+            <add place="LM">=</add>
+                <ex>tha</ex>t Acte of Broadwaye shee had <del rend="strikethrough">ner</del> never done it <lb/>
+            <fw type="catch" place="bot-right">=That</fw>
+            <pb n="85r" facs="/bl/add_ms_22591/add_ms_22591_f085r/add_ms_22591_f085r.jpg"/>
+            <add place="RM">=</add>That hee delighted to see the Acte done, and made Skip <lb/>
+            <add place="RM">=</add>w<ex>i</ex>th to come into Bedd to them, and lye w<ex>i</ex>th her whilst hee mighte <lb/>
+            <add place="RM">=</add>see it, And shee cryed out to haue szaved herselfe   
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">The examinac<ex>i</ex>on of Fitzpatricke was then Read <ex>th</ex>e truth of w<ex>hi</ex>ch he then againe confirmed vpo<ex>n</ex> Oath</hi>
+                </add>
+            That the Earle haad Comitted Sodome twise vpo<ex>n</ex> his p<ex>er</ex>rson  / That <lb/>
+            Henrye Skipwith was the Spetiall Favorite of my Lord Awdly <lb/>
+            and that he vsuallye laye w<ex>i</ex>th him / And that Skipwith said, That the <lb/>
+            Lord Awdlye made him lye w<ex>i</ex>th his owne Ladye, and that he vsually <lb/>
+            made him lye w<ex>i</ex>th the younge Ladye, and that he sawe Skipwithe <lb/>
+            in his Sight doe it my Lord being present / And that he laye w<ex>i</ex>th <lb/>
+            Blandina in his Sight, and foure more of the Servant<ex>es</ex> / &amp;amp; aft<ex>e</ex>rward<ex>es</ex> <lb/>
+            the Earle him selfe laye w<ex>i</ex>th her in their Sighte / 	
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Hen<ex>ry</ex> Skipwith’s examinac<ex>i</ex>on</hi>
+                </add>
+            Then Skipwith is p<ex>ro</ex>duced and sworne, and his examinac<ex>i</ex>ons <lb/>
+            read w<ex>hi</ex>ch he againe confirmes vpo<ex>n</ex> Oathe, and deposeth /
+         </p>
+         <p>
+            That the Earle often sollicited him to Lye w<ex>i</ex>th the young Lady <lb/>
+            and p<ex>er</ex>swaded her to love him, and to drawe her therevnto, he vrged <lb/>
+            that his Sonne loved her not / And that in the End he vsuallye laye <lb/>
+            w<ex>i</ex>th the young Ladye, and that there was love betweene the<ex>m</ex> both <lb/>
+            before and after, and that my Lorde saide, he would rather haue a <lb/>
+            Boye of his begitting, then of anye others, and that shee was but 12 <lb/>
+            yeeres of Age when he First laye w<ex>i</ex>th her, and <ex>tha</ex>t he could not <lb/>
+            enter her Bodye w<ex>i</ex>thout Arte / And that the Lord Awdlye fett <lb/>
+            oyle to open her Bodye / but shee cryed out / and he could not enter <lb/>
+            And then the Earle appointed Oyle the Second tyme, and the<ex>n</ex> Skipw<ex>i</ex>th <lb/>
+            entred her Bodye, and knewe her Carnallye / And that the Lord <lb/>
+            made him lye w<ex>i</ex>th his owne Ladye, but he knew her not / but tould <lb/>
+            his Lord hee did
+         </p>
+         <p>
+            That he Spent 500 l. p<ex>er</ex> Ann<ex>um</ex> of the Lords purse, and that for <lb/>
+            the most p<ex>ar</ex>te he laye w<ex>i</ex>th the saide Earle
+         </p>
+         <p>
+            That the  Earle gaue him his house at Salisburie and A <lb/>
+            manner of 600 l. p<ex>er</ex> Ann<ex>um</ex>
+         </p>
+         <p>
+            That Blandina laye in the Earles house halfe A yeere &amp;amp; <lb/>
+            was A Comon whore /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Fitzpatricke’s Examinac<ex>i</ex>on</hi>
+                </add>
+            That the Lord Awdelye made him lye w<ex>i</ex>th him at Founthill, <lb/>
+            and at Salisburye, and once in the Bedd, and spent his Seed betwene <lb/>
+            his Thighes, but did nit penetrate his Bodye / And that he heard he <lb/>
+            did soe w<ex>i</ex>th others
+         </p>
+         <p>
+            That Skipwithe laye w<ex>i</ex>th the young Ladye often, &amp;amp; ordinarilye, <lb/>
+            and that the Earle knewe it. and encouraged him in it, and wished <lb/>
+            to haue A Boye by him, and the younge Ladye /
+         </p>
+         <p>
+            That Blandina lived halfe A yeere in my Lords house and <lb/>
+            was A Comon Whore /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Edm<ex>und</ex> Scotts exam<ex>ination</ex>
+                    </hi>
+                </add>
+            He deposeth that Skipwith frequentlye knewe <ex>th</ex>e young Lady <lb/>
+            and that the Earle knewe it, and encouraged him therein
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Frye his Exam<ex>ination</ex>
+                    </hi>
+                </add>
+            That Henry Skipwithe and the young Ladye laye often to <lb/>
+            gither, and the Earle in Companye, and that then the Earle p<ex>ro</ex>tested <lb/>
+            that he would faine haue A Boye of his begettinge /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Then was read <ex>th</ex>e young La<ex>dy</ex> Awdlyes Examinac<ex>i</ex>on</hi>
+                </add>
+            That shee was marryed to her Husband by A Romish Preist <lb/>
+            in the Morninge, and at night by A Prebend of Kilkennye / That <lb/>
+            shee was first tempted to lye w<ex>i</ex>th Skipwith, by the Earles allurem<ex>en</ex>t<ex>es</ex> <lb/>
+            And that shee had noe meanes, but what hee had fro<ex>m</ex> Skipw<ex>i</ex>th, but <lb/>
+            shee would not lye w<ex>i</ex>th Pawlett / he sollicited her allso to lye w<ex>i</ex>th one Greene /
+         </p>
+         <fw type="catch" place="bot-right">That</fw>
+         <pb n="85v" facs="/bl/add_ms_22591/add_ms_22591_f085v/add_ms_22591_f085v.jpg"/>
+         <p>
+            That the Earle himselfe sawe her and Skipw<ex>i</ex>th lye togither <lb/>
+            divers Tymes, and 9: Servant<ex>es</ex> of the house had allso seene it
+         </p>
+         <p>
+            When the Earle sollicited her first, he said that vpon his know=<lb break="no"/>
+            ledge her husband loved her not, and threatned that hee would <lb/>
+            turne her out of dores if shee did not lye w<ex>i</ex>th Skipwith. And <ex>tha</ex>t <lb/>
+            if shee did not , he would tell her husband shee did
+         </p>
+         <p>
+            That shee beinge verye young, he vsed Oyle to enter her bodye <lb/>
+            first, and afterwards hee vsuallie laye w<ex>i</ex>th her, and it was with <lb/>
+            the Earles privitie and Consent
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Broadwayes exa<ex>mination</ex> whoe confesseth</hi>./</add>
+            That hee laye at the Earles bedd-feete, and one night <ex>th</ex>e Earl <lb/>
+            called to him for Tobacco, and as hee brought it in his Shirt the <lb/>
+            caught hold of him, and bid him come to bedd, w<ex>hi</ex>ch hee refused <lb/>
+            but to satisfye my Lord at Last hee consented, and came into the <lb/>
+            Bedd on the Lords Syde, then the Lord turned him vpo<ex>n</ex> his Wiffe, <lb/>
+            and bidd him lye w<ex>i</ex>th her, w<ex>hi</ex>ch he did, and the Earle held one of her <lb/>
+            Leggs, and both her hands, and at the last (notw<ex>i</ex>thstandinge her <lb/>
+            resistance, he laye w<ex>i</ex>th her /
+         </p>
+         <p>
+            That the Earle vsed his Bodye, as the Bodye of A Woman, <lb/>
+            but never pearced it, onlye spent his seed betweene his thighes
+         </p>
+         <p>
+            He hath seene Skipwith lye with the young Ladye in Bedd <lb/>
+            togither, and when he had goot vpon her the Earle stood by and <lb/>
+            encouraged him, to gett her w<ex>i</ex>th Child, and that he hath made him <lb/>
+            the said Broadwaye kisse his owne Ladye, and often sollicited <lb/>
+            him to lye w<ex>i</ex>th her, telling him that hee himselfe should not live <lb/>
+            longe, and that it might be his making, and that the hath said the <lb/>
+            like to Skipwithe 
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">The Countesse her Sec<ex>ond</ex> Examinacion</hi>
+                </add>
+            That one Night the Earle lying in Bedd w<ex>i</ex>th her at Fro<ex>n</ex>thip, <lb/>
+            hee called for his man Broadwaye, and Comaund him to lye at <lb/>
+            his Bedd-Feet, and about Mydnight (shee being a Sleepe) called <lb/>
+            to him to light him A Pipe of Tobacco, Broadwaye rose in his shirt <lb/>
+            and the Earle pulled him into Bedd to him and her, and made him <lb/>
+            the next to her / and Broadwaye lay w<ex>i</ex>th her, and knewe her <lb/>
+            carnallye, whilst shee made resistance, and the Earle held both of <lb/>
+            her handes, and one of her Leggs the whilst, wherevpo<ex>n</ex> as soone <lb/>
+            as shee was free shee would haue killed herselfe with a Kniffe <lb/>
+            but that Broadwaye forceablye tooke the knife from her, and <lb/>
+            brake it / and before that Acte of Broadwaye she had nev<ex>e</ex>r done it
+         </p>
+         <p>
+            That the Lord delighted to see the Acte done, and made A<ex>n</ex>tell <lb/>
+            come into Bedd to them, and laye w<ex>i</ex>th her whilst hee might see it, <lb/>
+            and shee cryed out to haue ssaved her selfe
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">The Earles 2: Examinac<ex>i</ex>on</hi>
+                </add>
+            The Earle<del rend="strikethrough">s</del> desired to be p<ex>ar</ex>doned of those things whereof he <lb/>
+            must accuse him selfe and said <ex>tha</ex>t Condemnation should not come <lb/>
+            out of his owne Mouthe
+         </p>
+         <p>
+            Theise Testimonnyes read / Mr Attourney p<ex>re</ex>sed things very <lb/>
+            bitterly, and in excellent Methode against the Earle &amp;amp; said
+         </p>
+         <p>
+            My Lordes / You haue seene the Cleerenes of the Profes, <lb/>
+            and I knowe Yo<ex>u</ex>r Wisedomes to be such as you well knowe in <lb/>
+            soe <del rend="strikethrough">short</del> <add place="above">darke</add> A Busines cleerer proofes cannot possiblye be had, <lb/>
+            for lett A man be never soe wicked, or never soe y<ex>m</ex>pudent, <lb/>
+            hee will not call wittnesses to see his wickednes, yet you <lb/>
+            <fw type="catch" place="bot-right">see</fw>
+            <pb n="86r" facs="/bl/add_ms_22591/add_ms_22591_f086r/add_ms_22591_f086r.jpg"/>
+            see here this pointe fullye proved
+         </p>
+         <p>
+            Then hee shewed how both the Lawes of God and man be agst <lb/>
+            Sodomie / and cited the 18 Levit<ex>icus</ex> towards the Ende / That by theis <lb/>
+            abominac<ex>i</ex>ons the Land is defiled, and therefore the Lord doth visite <lb/>
+            this Land, for the iniquitie thereof, and then concludes, That God may <lb/>
+            remove and take awaye from vs his plagues, Lett this wicked man <lb/>
+            (saithe hee) be taken awaye fro<ex>m</ex> amongst vs
+         </p>
+         <p>
+            Then the Earle (after the Lord Steward had told him that he <lb/>
+            should be heard in his owne defence w<ex>i</ex>th as much patience as was <lb/>
+            admitted in his Chardge) entred into his owne defence, but <ex>th</ex>e Lord <lb/>
+            Steward advised him to speake p<ex>er</ex>tinentlye / wherevpo<ex>n</ex> he alleadged <lb/>
+            that he was A weake man, and of ill memorye and therefore desired <lb/>
+            that he might not bee interrupted
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">I / </hi> <hi rend="italic">The Earles Excepc<ex>i</ex>ons</hi>
+                </add>
+            Then he began his defence w<ex>i</ex>th excepc<ex>i</ex>ons agst his wife vrging <lb/>
+            that shee was nought and dishonest w<ex>i</ex>th Broadway by her owne co<ex>n</ex>fesio<ex>n</ex>
+         </p>
+         <p>
+            Wherevnto the Lord Steward answered that this made against <lb/>
+            his Lordshipp / and therefore he ought not to alleadge for his de=<lb break="no"/>
+            fence thaat facte as an imputac<ex>i</ex>on to his wiffe w<ex>hi</ex>he he forced her <lb/>
+            vnto by Compulsion and Violence
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(2:)</hi>
+                </add>
+            Then he obiected against the incompotencie of Wittnesses, as <lb/>
+            the one his Wiffe, the other his servant<ex>es</ex>, and they drawne to this <lb/>
+            by his Sonnes Practise, whoe sought his liffe &amp;amp; he desired to know <lb/>
+            if there were not A Statute agst <ex>th</ex>e incompotencie of wittnesses /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Judges Resoluc<ex>i</ex>on</hi>
+                </add>
+            The Judges resolved <ex>tha</ex>t there was none touching wittnesses <lb/>
+            but in Cases of highe Treason, there was A Statute co<ex>n</ex>c<ex>er</ex>ning accusors
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(3:</hi>
+                </add>
+            Then he desired to be resolved whether bec<ex>ause</ex> Broadwaye <lb/>
+            doth not depose anye penetrac<ex>i</ex>on, but onlye that he spent his <lb/>
+            seede vpo<ex>n</ex> her bellye, while the Earle held her, that should bee <lb/>
+            iudged Fellonie, As for a Rape/ 
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Judges Resp<ex>onse</ex>
+                    </hi>
+                </add>
+            The Judges doth resole it to bee A Rape, and soe <lb/>
+            consequentlye to be Felonye /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(4:)</hi>
+                </add>
+            Then hee desired to be resolved, whether his wiffe is to <lb/>
+            be allowed A Competent Wittnes against him or not /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Judges Resp<ex>onse</ex>
+                    </hi>
+                </add>
+            The Judges resolve that in civill Cases the wiffe may not, <lb/>
+            but in A criminall cause of this nature, where the wife is <lb/>
+            the p<ex>ar</ex>tie greived, and on whom the crime is com<ex>m</ex>itted, shee is <lb/>
+            to be admitted A Wittnes against her husband
+         </p>
+         <p>
+            Then the Lord highe Steward desired the Lordes <ex>th</ex>e Judges <lb/>
+            to resolue the questions w<ex>hi</ex>ch Mr Attornye in his charg submitted <lb/>
+            and referred to their Judgm<ex>en</ex>t<ex>es</ex>.
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">I /</hi>
+                </add>
+            Whether it were to be Accompted Buggerye within <ex>th</ex>e <lb/>
+            Statute without Penetrac<ex>i</ex>on
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Resp<ex>onse</ex>
+                    </hi>
+                </add>
+            The Judges resolve <ex>tha</ex>t it was, and that the vse of <ex>th</ex>e Body <lb/>
+            soe farre as to spend seed therevpo<ex>n</ex> makes it soe /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">/2:</hi>
+                </add>
+            Whether it being proved that the p<ex>ar</ex>tie ravished were of <lb/>
+            evill Fame, and of an Vnchast liffe, it will amount to a Rape /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">Resp<ex>onse</ex>
+                    </hi>
+                </add>
+            The Judges resolve it to be A Rape, thoughe comitted on <ex>th</ex>e <lb/>
+            Bodye of A Comon Strumpett, for it is the inforceing agst the <lb/>
+            will w<ex>hi</ex>ch makes the Rape, and A Comon Whore maye be ra=<lb break="no"/>
+            vished against her will, and it is Fellonye to doe it
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">/3:/</hi>
+                </add>
+            Whether it is adiudged A Rape when the woman co<ex>m</ex>play <lb/>
+            neth not pr<ex>e</ex>sentlye, and whither there be a necessitie of <lb/>
+            <fw type="catch" place="bot-right">Accusac<ex>i</ex>on</fw>
+            <pb n="86v" facs="/bl/add_ms_22591/add_ms_22591_f086v/add_ms_22591_f086v.jpg"/>
+            Accusac<ex>i</ex>on within A Convenient tyme, at  w<ex>i</ex>thin 24: houres
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Resp<ex>onse</ex> /</hi>
+                </add>
+            The Judges resolue, <ex>tha</ex>t in as much as shee was forced agst her <lb/>
+            will, and then shewed her dislike, Shee was not lymitted to any tyme <lb/>
+            for her Complainte, and that in an Indictem<ex>en</ex>t there is noe limitac<ex>i</ex>on <lb/>
+            of Tyme, but in an Appeale there is
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="bold">(4:</hi>
+                </add>
+            Whither men of noe worthe shalbe allowed sufficient Proofes <lb/>
+            against A .Baron. or not
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="italic">Resp<ex>onse</ex>
+                    </hi>)</add>
+            The Judges resolue that anye man is A Sufficient wittnes, <lb/>
+            in A Casse of Fellonye /
+         </p>
+         <p rend="indent">
+            Then the Lord Steward spake and saide/
+         </p>
+         <p>
+            My Lord, you haue bine gratiouslie dealt with in this proceeding, <lb/>
+            for it is not an vsuall thinge in soe capitall and heynous causes <lb/>
+            as this, to bringe the partye, and the wittnesses face to Face, before <lb/>
+            tryall / But (my Lord) you haue long before this tyme heard their <lb/>
+            Examinac<ex>i</ex>ons, and questioned and opposed them face to Face, and <lb/>
+            are their by the better enabled to make yo<ex>u</ex>r defence / and his Ma<ex>jes</ex>ty <lb/>
+            is still graciouslye pleased to continue his goodnes towards you, <lb/>
+            and hath Comau<ex>n</ex>ded that you should be heard at Full / if there=<lb break="no"/>
+            fore you haue anye thinge elce to saye for yo<ex>u</ex>r selfe, speake it, <lb/>
+            wherevnto the Earle au<ex>n</ex>swered  (hauing first made a solemne <lb/>
+            p<ex>ro</ex>testac<ex>i</ex>on of his Innocencye, but neverthelesse implored the <lb/>
+            mercie of God and the Kinge) that he had nothing more to saye, <lb/>
+            but left himselfe to God and his Peeres, and then pr<ex>e</ex>sented to <lb/>
+            their Considerac<ex>i</ex>ons. 3: Woes
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="bold">(I:</hi>
+                </add>
+            Woe to that Mann whose Wiffe should be a Wittnes <lb/>
+            against him
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="bold">(2:</hi>
+                </add>
+            Woe to that Man whose Sonne should p<ex>ro</ex>secute him, and con=<lb break="no"/>
+            spire his deathe
+         </p>
+         <p>
+            <add place="LM">
+                    <hi rend="bold">(3:</hi>
+                </add>
+            Woe to the Man whose Servant<ex>es</ex> should be allowed wittneses <lb/>
+            to take awaye his liffe/ And he willed the Lords to take this in their <lb/>
+            Considerac<ex>i</ex>ons for it might be some of their Cases, or the Case <lb/>
+            of anye gent<ex>leman</ex> of worthe that keepes A Footman, or other whose <lb/>
+            wiffe is wearie of her husband, or his Sonne arrived to full age, <lb/>
+            that would drawe his Servant<ex>es</ex> to conspire his Fath<ex>e</ex>rs Death /
+         </p>
+         <p>
+            Hee said Further his Wiffe had bene naught in his absence, &amp;amp; <lb/>
+            had had A Child w<ex>hi</ex>ch hee concealed to saue her honor
+         </p>
+         <p>
+            That his Sonne was nowe become 21: yeeres old, and hee him=<lb break="no"/>
+            selfe old and decayed, and the one would haue his Landes the other <lb/>
+            A young Husband, and therefore by the testimonye of them <unclear/> their <lb/>
+            and their Servant<ex>es</ex> added to their owne / they had plotted and co<ex>n</ex>spired <lb/>
+            his distruction and death
+         </p>
+         <p rend="align-right">
+            And then (being therevnto required by the <lb/>
+            Lo<ex>rd</ex> Steward) he w<ex>i</ex>thdrew himselfe fro<ex>m</ex> <ex>th</ex>e Barr 
+         </p>
+         <p>
+            Then the Lord Steward (after solemne p<ex>ro</ex>clamac<ex>i</ex>on of silence) <lb/>
+            addressed himselfe to the Lords and saide /
+         </p>
+         <p>
+            My Lords the Peeres
+         </p>
+         <p>
+            Yo<ex>u</ex>r Lordshipps haue heard the Proofes, the Prison<ex>e</ex>rs defence, &amp;amp; <lb/>
+            all his doubts and questions resolved by the Lords the Judges, and <lb/>
+            therefore yo<ex>u</ex>r Lordshipps (if you please) maye withdrawe your <lb/>
+            selves, if you are Satisfyed, because the Prisoner is not called <lb/>
+            to the Barre againe vntill yo<ex>u</ex>r Lo<ex>rdshi</ex>pps are agreed vpo<ex>n</ex> the verdicte /
+         </p>
+         <p>
+            Then the Peeres withdrewe themselves, and after two houres <lb/>
+            <fw type="catch" place="bot-right">debate</fw>
+            <pb n="87r" facs="/bl/add_ms_22591/add_ms_22591_f087r/add_ms_22591_f087r.jpg"/>
+            debate and severall advises and conferences w<ex>i</ex>th the Lo<ex>rd</ex> cheiffe <lb/>
+            Justice / who<ex>m</ex> they sent for, and consulted w<ex>i</ex>th 4: severall tymes, <lb/>
+            having in that time allsoe sent the Earle of Warwicke, and Visc<ex>ount</ex> <lb/>
+            Dorchester togither w<ex>i</ex>th the Lord Cheiffe Justice to consult with <lb/>
+            the Lord Steward
+         </p>
+         <p>
+            At the last they retourned to their Places, and then the Lord <lb/>
+            Steward asked them one by one, begin<ex>n</ex>ing at the lowest, and soe asce<ex>n</ex> <lb/>
+            ding / First whether the Earle of Castle Haven was guiltie of <lb/>
+            the Rape whereof he stood indicted, or noe, and they all gaue him guilty
+         </p>
+         <p>
+            Secondlye whether the saide Earle of Castle Haven were guilty <lb/>
+            of the Sodomie w<ex>i</ex>th w<ex>hi</ex>ch he was charged, or not, and 15: of the Lord<ex>es</ex> <lb/>
+            condemned him, and the other 11: freed him.
+         </p>
+         <p>
+            When the verdict was thus given, the Leiveten<ex>a</ex>nt of the Tower <lb/>
+            was againe comaunded to bringe the Prisoner to the Barre to <lb/>
+            heare his Sentence / &amp;amp; aft<ex>e</ex>r he was brought / the Lo<ex>rd</ex> Steward said vnto him
+         </p>
+         <p>
+            For asmuch as thou <hi rend="italic">Meruyn </hi>Lord Audlye Earle of Castlehave<ex>n</ex> <lb/>
+            hast bene indicted for Divers Fellonies by 3: severall Indictm<ex>en</ex>t<ex>es</ex> <lb/>
+            one for A Rape, the other two for Sodomie, and hast pleaded not <lb/>
+            guiltie to them all / and for the tryall / hast put thy selfe vpon God <lb/>
+            and the Peeres, w<ex>hi</ex>ch tryall tthou hast had, and they found ye guiltie <lb/>
+            of them all / what canst thou saye for thy selfe / whye the sentence <lb/>
+            of Deathe should not beee p<ex>ro</ex>nounced against thee, wherevnto hee <lb/>
+            au<ex>n</ex>sweared he could saye noe more, but referred himselfe to <lb/>
+            God and the Kings mercie /   
+         </p>
+         <p>
+            Then the Lord Steward said, my heart greiveth for that w<ex>hi</ex>ch <lb/>
+            my tounge must vtter. but Justice is the waye to cutt of wickednes, <lb/>
+            and heretofore heare thy Sentence /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="italic">The Sentence</hi>
+                </add>
+            Thou must goe from hence, to the pr<ex>i</ex>son fro<ex>m</ex> whence thou camest, <lb/>
+            and fro<ex>m</ex> thence to the Place of Execuc<ex>i</ex>on, there to be hanged by the <lb/>
+            necke till thou be dead And <hi rend="italic">
+                    <ex>th</ex>e Lord haue mercye on thy Soule</hi> /
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  The Lo<ex>rd</ex> Stewards <lb/>
+                  Speech &amp;amp; exhorta=<lb break="no"/>
+                  c<ex>i</ex>on after the Sen<lb break="no"/>
+                  tence /
+               </hi>
+            </add>
+            Oh thincke vpo<ex>n</ex> yo<ex>u</ex>r Offences w<ex>hi</ex>ch are soe haynous, &amp;amp; soe horrible <lb/>
+            that A Christian man ought scarce to name them, and suche as the <lb/>
+            depraved nature of man, w<ex>hi</ex>ch of it selfe carryes A man to old <lb/>
+            Sinne abhorreth  And you haue not onlye offended against nature, <lb/>
+            by the rage of A mans Iellousye, and allthoughe you dye not for <lb/>
+            that, that you haue abused yo<ex>u</ex>r owne daughter, and having both honor <lb/>
+            and fortune to leave behinde you, you would haue had <ex>th</ex>e impious <lb/>
+            and spurious seed of A Harlott to inheritt / both these are horrid <lb/>
+            Crimes / But my Lord it greives mee to see you stand out agst a <lb/>
+            truthe soe apparant, and therefore I will conclude w<ex>i</ex>th this ad <lb/>
+            monic<ex>i</ex>on, that God might haue taken you awaye when you were <lb/>
+            blinded in yo<ex>u</ex>r sinnes, and therefore I hope he hath reserved you as <lb/>
+            A Subiect of his mercie / And as he sends you to see this daye of <lb/>
+            Shame that you maye retourne vnto him / Soe thereby in a manner <lb/>
+            he lovinglye draweth you vnto him / therefore spend the remaynor <lb/>
+            of yo<ex>u</ex>r tyme in teares and repentance / And this dayes worke I <lb/>
+            hope wilbee a Correcc<ex>i</ex>on for manye crimes and corrupcons / 
+         </p>
+         <p>
+            Wherevpon at last the Earle descended to A base &amp;amp; lowe <lb/>
+            petition to the Lords, and verye humblie be sought them to mediate <lb/>
+            to his Ma<ex>jes</ex>tye that he might not dye, but be banished, or at least that <lb/>
+            his ma<ex>jes</ex>tye  would not suddenlye cutt him of but give him tyme of re <lb/>
+            pentance, and then he desired theire Lordshipps p<ex>ar</ex>dons in <ex>tha</ex>t hee <lb/>
+            <fw type="catch" place="bot-right">had</fw>
+            <pb n="87v" facs="/bl/add_ms_22591/add_ms_22591_f087v/add_ms_22591_f087v.jpg"/>
+            had bene soe great A Stayne to honor and Nobillitye /
+         </p>
+         <p>
+            Then A Proclamac<ex>i</ex>on being made by A S<ex>e</ex>rieant at / he <del rend="strikethrough">desired</del> <lb/>
+            declared that the Lord highe Stewards pleasure was, that all such <lb/>
+            as had attended this dayes Service might dep<ex>ar</ex>te, and then <ex>th</ex>e Leivten<ex>a</ex>nt <lb/>
+            of the Tower carryed <ex>th</ex>e Earle awaye, And soe the Cou<ex>r</ex>te brake vp
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Finis</hi>
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="italic">
+                  A Letter sent <lb/>
+                  by the Earle to his <lb/>
+                  Sonne (w<ex>i</ex>th <ex>th</ex>e Articles <lb/>
+                  of his faith) after his <lb/>
+                  Arraignement
+               </hi>
+            </add>
+            <hi rend="italic">Sonne Awdelye</hi>
+         </p>
+         <p>
+            God gaue you liffe and Soule, and appointed mee an Instrum<ex>en</ex>t <lb/>
+            to be yo<ex>u</ex>r Father, wherein I haue A double chardge to take care <lb/>
+            of yo<ex>u</ex>r Bodye, where in my parte lyeth, you being bo<del rend="strikethrough">r</del>ne of my bone <lb/>
+            and Flesh of my Flesh, and liewise to pr<ex>e</ex>serue that pretious <lb/>
+            treasure w<ex>hi</ex>ch God hath infused in you / and you and I / are espetially <lb/>
+            to Care for, and for w<ex>hi</ex>ch you must giue an Accompt before the <lb/>
+            Tribunall of the Devine Ma<ex>jes</ex>tye (yo<ex>u</ex>r Soule) It is heere in this world <lb/>
+            tossed w<ex>i</ex>th manye and sundrye Windes / therefore it must be your <lb/>
+            Care to Coast it into some secure harbor where it maye be a<ex>n</ex>chored <lb/>
+            with an irremoveable Faithe /  And because yo<ex>u</ex>r youthe shalbe better <lb/>
+            instructed in the Rules of that Truthe, that shall keepe the shipp <lb/>
+            of yo<ex>u</ex>r Soule steadye, I haue sent you vnder my hand me beleiffe, <lb/>
+            wishing you to followe the same / For if you looke into <ex>th</ex>e Scripture <lb/>
+            the holye writte of the Sacred Spirritt you shall finde the dau<ex>n</ex>g<ex>e</ex>r of <lb/>
+            being tossed w<ex>i</ex>th everye winde, wherefore fill not yo<ex>u</ex>r saile, w<ex>i</ex>th the <lb/>
+            blaste of Pryde, w<ex>hi</ex>ch is caused by selfe conceite &amp;amp; curious questio<ex>n</ex>s, <lb/>
+            read the Scriptures and observe it / Obeye Gods Lawes and the <lb/>
+            lawes of his Substitute our most wise and religious kinge / Then <lb/>
+            are you come from Billowes vnto A quiett and full Sea, by which <lb/>
+            meanes, noe question you maye attaine the blessed sight of our <lb/>
+            Saviour after this liffe / And in this Pilgrimage goe on w<ex>i</ex>th much <lb/>
+            Patience and Securitie  /
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">God blesse you</hi>  /
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Your Father</hi>
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">Castlehauen</hi>
+         </p>
+         <p rend="indent">
+            <hi rend="bold">
+               Tower <lb/>
+               the First of
+            </hi>
+         </p>
+         <p>
+            <add place="LM">
+               <hi rend="italic">
+                  A Letter sent by <lb/>
+                  the Earle to his 4: <lb/>
+                  Sisters
+            </hi>
+            </add>
+            Deare Sisters
+         </p>
+         <p>
+            God hath given and God hath taken awaye, blessed be the name <lb/>
+            of the Lord, whoe hath redeemed my Soule fro<ex>m</ex> Miserye &amp;amp; opened <lb/>
+            myne Eyes to see my Sinnes against him <add place="above">my</add> Deare Sisters, <ex>th</ex>e shortnes <lb/>
+            of my Tyme is suche, that I cannot p<ex>ar</ex>ticular writt to you all, but know <lb/>
+            you are all to yo<ex>u</ex>r Comforts, the greate and infinite favor that the blessed <lb/>
+            Trynitie 3: p<ex>er</ex>sons and one God hath bestowed vpo<ex>n</ex> me throug <ex>th</ex>e suffering<ex>es</ex> <lb/>
+            of my Saviour Iesus Christ, vppo<ex>n</ex> whose merritts &amp;amp; supplicac<ex>i</ex>ons <lb/>
+            I whollye build, and finde a Rocke of Faithe to cleave vnto / In my <lb/>
+            liffe (I thanke God) in all my <unclear>iollytie</unclear>, in all my Sinnes, (w<ex>hi</ex>ch were <lb/>
+            infinite before my Devine Ma<ex>jes</ex>tye) I never tooke soe much co<ex>m</ex>fort, as <lb/>
+            I doe in this, w<ex>hi</ex>ch the world calls miserye and afflicc<ex>i</ex>on / For when I <lb/>
+            haue drawne my Cogitat<ex>i</ex>ons togither (by what meanes I should scorne <lb/>
+            and contemne the world, I cann thinke vpo<ex>n</ex> none but this pr<ex>e</ex>sent blessing <lb/>
+            bestowed vpo<ex>n</ex> mee / God hath given mee Teares w<ex>i</ex>th Peter / &amp;amp; I doubt <lb/>
+            not but by the assurance of the most glorious Spirritt, shortlye to be <lb/>
+            <fw type="catch" place="bot-right">where</fw>
+            <pb n="88r" facs="/bl/add_ms_22591/add_ms_22591_f088r/add_ms_22591_f088r.jpg"/>
+            where that blessed man had his Teares renum<ex>er</ex>atedw<ex>i</ex>th salvation, <lb/>
+            the God of heaven blesse you all, and send you his holye Spirritt, that <lb/>
+            you maye turne to him w<ex>i</ex>th true contrite and sorrowfull harts / Soe <lb/>
+            shall you at the ende of yo<ex>u</ex>r tedious iournye finde A happye repose w<ex>i</ex>th <lb/>
+            the greate Lord of Lords, that hath bestowed this blessing vpon yo<ex>u</ex>r late <lb/>
+            most vnfortunate Brother / I thanke allmightie God that from <ex>th</ex>e First <lb/>
+            of my Troubles, I laid my selfe and all earthlie thinges at the Feete of <lb/>
+            the Giver / and haue not (blessed be his holye name) repined at any thing <lb/>
+            w<ex>hi</ex>ch it hath pleased him to laye vpo<ex>n</ex> mee, but I haue gone on cheerefully <lb/>
+            and humblye God be blessed / And I praye God blesse you all / praye <lb/>
+            for mee for you know<del rend="strikethrough">
+                    <unclear/>
+                </del>e the Devill will bee busye / God send yo<ex>u</ex>r Soules <lb/>
+            to haue the vision of my Saviour /
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Fare you well</hi>
+         </p>
+         <p>
+            <hi rend="italic">
+               What Title I maye giue <lb/>
+               my selfe I knowe noe, but <lb/>
+               A Christian Sure I am
+            </hi>
+         </p>
+         <p>
+            <hi rend="bold">Yo<ex>u</ex>r deare Brother</hi> <lb/>
+            <hi rend="italic">Meruyn</hi>./
+         </p>
+         <p>
+            <hi rend="bold">
+               To <ex>th</ex>e right ho<ex>onra</ex>ble my deare <lb/>
+               Sisters <ex>th</ex>e lady <hi rend="italic">Ann Blunt</hi> <lb/>
+               <ex>th</ex>e Lady <hi rend="italic">Eliza Griffin</hi>, <ex>th</ex>e la<ex>dy</ex> <lb/>
+               <hi rend="italic">Christian Meruin</hi>, the lady <lb/>
+               <hi rend="italic">Elianor Dowglas</hi> or to any <lb/>
+               of them/
+            </hi>
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  The Articles of <lb/>
+                  the Earle of castle-<lb break="no"/>
+                  hauens Beliefe
+               </hi>
+            </add>
+            In the name of God amen / I <hi rend="italic">Mervin, Lord Awdlye</hi>, Earle of <lb/>
+            <hi rend="italic">Castlehauen</hi> (being in verye good strength and memory thanks be given <lb/>
+            to allmightie God / having bene branded, and openly accused for change, <lb/>
+            alterac<ex>i</ex>on and doubtfullnes of my Faithe and Religion, thought it fitt <lb/>
+            (like a Christian) to give satisfacc<ex>i</ex>on vpo<ex>n</ex> what ground I stand for my <lb/>
+            beleife, and to expresse vnder myne owne hand the same, for <ex>th</ex>e satsifac<ex>i</ex>on <lb/>
+            of all charitable people and Christian men /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(I: )</hi>
+                </add>
+            I doe beleive in the Glorious and blessed Trinitie  3: p<ex>er</ex>sons and <lb/>
+            one God eternall and everlivinge / God the Father / God the Sonne / <lb/>
+            and God the holye Ghost
+         </p>
+         <p>
+            <add place="RM">(<hi rend="bold">2: )</hi>
+                </add>
+            I doe relye whollye vpon the merritts deathe and passion, of o<ex>u</ex>r <lb/>
+            blessed Saviour Christ Jesus, and vpo<ex>n</ex> his mediac<ex>i</ex>on for the remis=<lb break="no"/>
+            sion of my Sinnes /
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(3: )</hi>
+                </add>
+            I doe beleive and vse w<ex>i</ex>th most humble reverence <ex>th</ex>e Lords prayer, <lb/>
+            the Creede of the Apostles, and the 10: Com<ex>m</ex>au<ex>n</ex>dem<ex>en</ex>t<ex>es</ex>, as they are <del rend="strikethrough">all</del> <lb/>
+            allowed of, and sett downe in the Church of England
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(4: )</hi>
+                </add>
+            I doe beleive the Canonicall Scriptures, and that they are writte<ex>n</ex> <lb/>
+            by the inspirac<ex>i</ex>on of the holye Spirritt
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(5: </hi>
+                </add>
+            I doe beleive the Booke of Com<ex>m</ex>on Prayer allowed in <ex>th</ex>e Church <lb/>
+            of England to be an excellent forme in the Service of God, and for <lb/>
+            that purpose vse the same
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(6:</hi>
+                </add>
+            For the rest of my beleiffe I doe referre it to the true Orthodox <lb/>
+            Faithe of the Church of England
+         </p>
+         <p>
+            <add place="RM">
+                    <hi rend="bold">(7: )</hi>
+                </add>
+            And for the Articles rec<ex>eived</ex> at this pr<ex>e</ex>sent in the Church of England, <lb/>
+            and confirmed by the aucthoritie of Parlyam<ex>en</ex>t, I differ not in anye <lb/>
+            pointe, renou<ex>n</ex>cing all superstic<ex>i</ex>ons and Errors taught and beleived <lb/>
+            in the Church of Rome / or in anye other Churche / In w<ex>hi</ex>ch Faithe I <lb/>
+            will continue (God willing) to my lives end, In testimonye whereof, I <lb/>
+            to the Originall Subscribed my hande / 
+         </p>
+         <p rend="align-right">
+            						// <hi rend="italic">Castlehauen</hi>. //
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="88v" facs="/bl/add_ms_22591/add_ms_22591_f088v/add_ms_22591_f088v.jpg"/>
+         <p>
+            <add place="LM">
+               <hi rend="italic">
+                  The <hi rend="bold">Earles</hi> speech at <lb/>
+                  his Execuc<ex>i</ex>on vppo<ex>n</ex> <lb/>
+                  Tower=hill, Saterday <lb/>
+                  14: Maye <hi rend="bold">1631</hi>: /
+               </hi>
+            </add>
+            The Earle of Castlehaven, com<ex>m</ex>ing out of the Tower attended by <lb/>
+            the Leivetennt, two Doctors of Devinitie, the Wardens of the Tower, <lb/>
+            w<ex>i</ex>th about 12: of his owne men, carrying a blacke Coffin before him, &amp;amp; <lb/>
+            a litle before nyne of the Clocke in the Morning he ascended <ex>th</ex>e Scaffold <lb/>
+            upon Tower=hill, and there taryed halfe an howre, in private co<ex>n</ex>fe=<lb break="no"/>
+            rence w<ex>i</ex>th the Doctors, and after putting of his hatt, aand bowing himselfe <lb/>
+            to the people, he said, I knowe (that being brought to this place where I <lb/>
+            am to ende the Remainder of my ill spent dayes) all heere present doe <lb/>
+            expect I should saye somewhat, but in regard of myne Age, and the <lb/>
+            weaknes of my memory caused by this my long afflictio<ex>n</ex> of ympri=<lb break="no"/>
+            sonem<ex>en</ex>t, I hope you will excuse mee for making anye long speeche / <lb/>
+            therefore what I shall speake shall be but in breiffe
+         </p>
+         <p>
+            And then with A bould Courage, and loude voyce he said, I doe <lb/>
+            confesse that God Allmightie hath bine A most gratious God vnto <lb/>
+            mee in bestowing vpo<ex>n</ex> mee manye and greate blessings, w<ex>hi</ex>ch haue bene <lb/>
+            most wickedlye abused by mee, hee hath given mee riches nay hee <lb/>
+            hath given mee honor too, but with sorrowe I speake it, I haue not <lb/>
+            made that good vse of them, that I should and might haue done, for w<ex>hi</ex>ch <lb/>
+            I most earnestlye aske pardon at his gratious hands /
+         </p>
+         <p>
+            The Kings Ma<ex>jes</ex>tye my Sou<ex>er</ex>aigne hath likewise shewen very much <lb/>
+            and greate favor towards mee, in giving mee an honorable tryall by <lb/>
+            my Peeres, in giving mee A long and a larg Tyme of Repentaunce, <lb/>
+            in w<ex>hi</ex>ch time I hope by my true humiliac<ex>i</ex>on and sorrowe for my sinnes <lb/>
+            I haue made my reconciliac<ex>i</ex>on w<ex>i</ex>th God, As allsoe w<ex>hi</ex>ch is not <ex>th</ex>e least <lb/>
+            (for the w<ex>hi</ex>ch I most hartelye thanke his Ma<ex>jes</ex>tye) that he hath sent me <lb/>
+            theis 2: Doctors, worthie Devines for the instructing and comfortinge <lb/>
+            of mee for the good of my Soule / of ehom I haue rec<ex>eived</ex> the Sacrament <lb/>
+            three times at theire hands / I beseech allmightie God to blesse his <lb/>
+            Ma<ex>jes</ex>tye / His Royall Queeene, and hopefull issue Prince Charles / and <lb/>
+            graunt that there maye never lacke one of his royall race to succeed <lb/>
+            him in his Kingdomes
+         </p>
+         <p>
+            I doe confesse that my Sinnes haue bine manye and greate, <lb/>
+            and such as haue deserved Deathe, but for theis two great crymes <lb/>
+            laid to my Chardge amongst the Rest / I call God to wittnes (in whose <lb/>
+            pe<ex>e</ex>sence I nowe stand) I am innocent from them, and nott guiltie of the<ex>m</ex>, <lb/>
+            yett neverthelesse I confesse I haue deserved death, and to <ex>tha</ex>t end <lb/>
+            I am brought hither, w<ex>hi</ex>ch God in her mercie enable mee patiently to <lb/>
+            vndergoe / And whereas at my tryall there was some questio<ex>n</ex> made <lb/>
+            of my religion / I doe confesse that heere in I haue bine too negligent, <lb/>
+            and haue too too much externallie favoured Poperye, and sup<ex>er</ex>stic<ex>i</ex>on <lb/>
+            But in my Judgm<ex>en</ex>t and opinion I haue allwayes held the Protestant <lb/>
+            Religion, and the Tenent<ex>es</ex> of the Church of England howsoever ourward <lb/>
+            lye I haue too much favoured Poperie / w<ex>hi</ex>ch God of his infinite m<ex>er</ex>cye <lb/>
+            for his Sonne my Saviou<add place="above">r</add>s sake p<ex>ar</ex>don and forgive mee
+         </p>
+         <p>
+            Then he held out A Peece of Paper / and said, I haue heere <lb/>
+            with my owne hand sett downe the Articles that I haue allwayes <lb/>
+            beleived, and will now dye in, w<ex>hi</ex>ch by the reason of <del rend="strikethrough">my </del>the weaknes <lb/>
+            of my sight I am not able to read my selfe) therefore I desire that <lb/>
+            they maye be reade / and then they were openlye read w<ex>i</ex>th A Loude <lb/>
+            voyce (being the same Article aforesaid, w<ex>hi</ex>ch he sent to his Sonne) <lb/>
+            After w<ex>hi</ex>ch, he said, I haue nothinge more to saye, but to entreate <lb/>
+            all theis good people heere, and all the world to forgiue mee, for I <lb/>
+            doe forgiue all the world / And as for those that were <ex>th</ex>e cause of <lb/>
+            my bringing hither / I doe as hartelye forgiue them as I desire <lb/>
+            <fw type="catch" place="bot-right">God</fw>
+            <pb n="89r" facs="/bl/add_ms_22591/add_ms_22591_f089r/add_ms_22591_f089r.jpg"/>
+            God to forgiue mee
+         </p>
+         <p>
+            Then he bowed himselfe, and went to the myddest of <ex>th</ex>e Scaffolde, <lb/>
+            and there kneeling downe vpo<ex>n</ex> his knees, holding vp his hands and <lb/>
+            Eyes to heaven, (each Doctor kneeling on either syde of him) he prayed <lb/>
+            to God / w<ex>hi</ex>ch prayer being ended (after some conference w<ex>i</ex>th <ex>th</ex>e Doctors, <lb/>
+            and w<ex>i</ex>th divers on the Scaffold, w<ex>i</ex>th a smiling Cou<ex>n</ex>tenaunce he tooke <lb/>
+            his leave of all men / And desired their prayers to Allmightie God <lb/>
+            for him, And then he pr<ex>e</ex>pared himselfe to dye, pulling of his hatt Bard <lb/>
+            and dublett / and then (tying A Handkercheife about his Face) Most <lb/>
+            willinglye, and patientlye laid downe his bodye, submitting himselfe <lb/>
+            to the power of the Execuc<ex>i</ex>oner, whoe w<ex>i</ex>th one small blowe severed his <lb/>
+            head fro<ex>m</ex> his bodye, w<ex>hi</ex>ch was rec<ex>eived</ex> by his Servant<ex>es</ex> in A Scarlett cloth <lb/>
+            and put into A redd Silke Bagge, and w<ex>i</ex>th his Bodye put into his <lb/>
+            Coffin, and soe carryed into the Tower where it was buryed in A <lb/>
+            Grave, w<ex>hi</ex>ch hee himselfe sawe made for him in the Morninge. /
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Finis</hi>
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">The Earles Epitaphe</hi>
+         </p>
+         <p>
+            <hi rend="italic">
+               <lg>
+                  <l>
+                            <del rend="strikethrough">Blame not th</del>
+                        </l>
+                  <l>I neede noe Trophies to adorne my hearse</l>
+                  <l>My Wife exalts my hornes in euery verse</l>
+                  <l>And plac’t them hath soe thicke about my Tombe</l>
+                  <l>That for myne Armes there is noe vacant roome</l>
+                  <l>Whoe then would take such A Cou<ex>n</ex>tesse to his bedd</l>
+                  <l>
+                            <ex>Tha</ex>t first giues hornes, and then cutts of the head  /</l>
+               </lg>
+            </hi>
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Finis</hi>
+         </p>
+         <p rend="align-centre">
+            <hi rend="bold">The ladyes answere / </hi>
+         </p>
+         <p>
+            <hi rend="italic">
+               <lg>
+                  <l>Blame not thy wife, for what thy selfe hath wrought</l>
+                  <l>Thou causd thy hornes in forcinng me to nought</l>
+                  <l>For hadst thou beene but human, not a Beast</l>
+                  <l>Thy Armes had bene Supportors to thy Creast</l>
+                  <l>Nor needst y<ex>o</ex>u yet haue had A Tombe, or Hearse</l>
+                  <l>Besmear’d with thy sensuall life in verse</l>
+                  <l>Who then would take Such A Lord unto her bedd</l>
+                  <l>That to gaine hornes himsefe, would loose his head /</l>
+               </lg>
+            </hi>
+         </p>
+         <p>
+            <hi rend="bold">Finis</hi>
+         </p>
+         <pb n="89v" facs="/bl/add_ms_22591/add_ms_22591_f089v/add_ms_22591_f089v.jpg"/>
+         <space unit="page" extent="1"/>
+         <pb n="90r" facs="/bl/add_ms_22591/add_ms_22591_f090r/add_ms_22591_f090r.jpg"/>
+         <p rend="align-centre">
+            <hi rend="bold">
+               The <lb/>
+               Arraignem<ex>en</ex>t Convicc<ex>i</ex>on, Condemnac<ex>i</ex>on, Co<ex>n</ex>fession <lb/>
+               and <lb/>
+               Execuc<ex>i</ex>on of Brodway and Fitzpatricke two <lb/>
+               of <ex>th</ex>e <lb/>
+               Servants of <ex>th</ex>e late Earle of <hi rend="italic">Castlehauen</hi> to=<lb break="no"/>
+               gither <lb/>
+               with the Cou<ex>n</ex>tesse her examinac<ex>i</ex>on at <ex>th</ex>e K<ex>ings</ex> Bench <lb/>
+               Barre <lb/>
+            </hi>
+         </p>
+         <p>
+            <hi rend="bold">Vpon</hi> Mondaye the xxvij th of June 1631: the Ma<ex>r</ex> <lb/>
+            shall of the Kings Benche brought them to the Barre, wher <lb/>
+            was A Jurye of Sufficient and able Wiltsheire me<ex>n</ex> Em=<lb break="no"/>
+            panelled to goe vpon and trye them
+         </p>
+         <p>
+            The Countesse of Castlehaven herselfe was in Cou<ex>r</ex>t <lb/>
+            to giue evidence against Brodwaye and shee came in vpo<ex>n</ex> <lb/>
+            the Instant, when the Lord Cheiffe Justice Hide dema<ex>n</ex>ded <lb/>
+            of her, whether the Evidence shee had formerlye give<ex>n</ex> at <lb/>
+            her Lords Arraignem<ex>en</ex>t was true, and the full matter of <lb/>
+            Charge shee had then to deliver against the Prisoner wher <lb/>
+            vnto shee answered it was, My Lord saide, Ladye, you haue <lb/>
+            sworne that Brodwaye (prysoner at Barre) hath layen <lb/>
+            w<ex>i</ex>th you by Force, w<ex>hi</ex>ch maye be / and yet noe Act committed, <lb/>
+            Did he enter yo<ex>u</ex>r bodye. shee saide, that in her Former oath <lb/>
+            taken when shee testified hee laye w<ex>i</ex>th her by Force, her <lb/>
+            meaning was, that he had knowne her carnallye, and <ex>tha</ex>t he <lb/>
+            did enter her Bodye, Then was shee wished to looke vpon <lb/>
+            the Prysoner, vnto w<ex>hi</ex>ch moc<ex>i</ex>on and Comaundm<ex>en</ex>t shee made <lb/>
+            A shorte replie That allthoughe shee could not looke vpo<ex>n</ex> <lb/>
+            him, but w<ex>i</ex>th A kinde of Indignation, nor on the presence <lb/>
+            but w<ex>i</ex>th shame in regard of that w<ex>hi</ex>ch had bine offered <lb/>
+            vnto her, and shee suffered by him, yet shee had soe much <lb/>
+            charitie in her, and such respecte to God and his truthe, <lb/>
+            that shee had delivered nothing for Mallice, and therefore <lb/>
+            hoped that her Oath and Evidence therevpon shoulde be <lb/>
+            credited, and soe desired to bee therevpo<ex>n</ex> beleeved and <lb/>
+            dismissed (w<ex>hi</ex>ch being grau<ex>n</ex>ted) shee dep<ex>ar</ex>ted w<ex>i</ex>th as much <lb/>
+            privacye as might bee vpp into the Cou<ex>r</ex>te of Requests &amp;amp; <lb/>
+            soe throughe that into the Parlyam<ex>en</ex>t house yard vnto her Coach
+         </p>
+         <p>
+            <hi rend="italic">FitzPataricke</hi> being asked concerning his guiltynes <lb/>
+            <fw type="catch" place="bot-right">or</fw>
+            <pb n="90v" facs="/bl/add_ms_22591/add_ms_22591_f090v/add_ms_22591_f090v.jpg"/>
+            or innocencie, demaunded whoe were his Accusors, The <lb/>
+            Lord Cheiffe Justice saide / You haue accused yo<ex>u</ex>r selfe suf=<lb break="no"/>
+            ficientlye, <hi rend="italic">Patericke</hi> replyed that he thought neither the <lb/>
+            Lawes of the <del rend="strikethrough">Land</del> Kingdome required, nor was he bounde <lb/>
+            to be the distrucc<ex>i</ex>on of himselfe; what evidence hee had <lb/>
+            formerlye given, it was for the Kinge against the late Lord <lb/>
+            the Earle of Castlehaven and noe further
+         </p>
+         <p>
+            The Lord cheiffe Justice replyed it was true, <ex>th</ex>e lawe <lb/>
+            did not exacte of anye man to be his owne accuser, yet wher <lb/>
+            his Testimonye served to take awaye anye ones liffe, and <lb/>
+            made himselfe guiltie of the same cryme there, and there in <lb/>
+            it should serve to cutt himselfe of allsoe /
+         </p>
+         <p>
+            Then the Jurye demaunded of the Cou<ex>r</ex>te satisfacc<ex>i</ex>on, con=<lb break="no"/>
+            cerning the words of the Statute w<ex>hi</ex>ch runne to chardge him <lb/>
+            alone to bee and accompted A Felon in Lawe / that comitted <lb/>
+            buggerye w<ex>i</ex>th man, or beast &amp;amp;c (For w<ex>hi</ex>ch Facte the late Earle <lb/>
+            was onlye guiltie, and had suffered) The Lord cheife Justic <lb/>
+            replyed, that for asmuch as everye Accessarye to a felonie, <lb/>
+            is A Felon in Lawe, Soe hee being A volu<ex>n</ex>tarye prostitute <lb/>
+            when he was not onlye of vnderstanding and yeares to know <lb/>
+            the heynousnes of the Sinne, but allsoe of Strength to haue <lb/>
+            with.stood his Lord, hee therefore was as farre forthe <lb/>
+            guiltie, wherevpon the Jurye found the Bill, And there <lb/>
+            vpon they had both of them the sentence of Deathe. and were <lb/>
+            delivered ans comitted to the sherife of Midd<ex>lesex</ex> who (after <lb/>
+            hee had suffered them to haue some repast at Mr Hilles in <lb/>
+            the Pallace yard and conference w<ex>i</ex>th their Freindes) caryed <lb/>
+            them to New-gate where they behaved themselves civillie <lb/>
+            and religiouslye
+         </p>
+         <p>
+            Vpon Wendsday the vj th of Julye they were brought <lb/>
+            to Tiborne in two severall Carts, Patericke First, &amp;amp; sett <lb/>
+            vnder the Beame towards Paddington ap<ex>ro</ex>ppriated (as is <lb/>
+            saide) to, and chosen by Romanists, where when the execution<ex>er</ex> <lb/>
+            had tyed the halter about his necke, hee pr<ex>e</ex>sentlye addresed <lb/>
+            himselfe to Speeche / and thus delivered /
+         </p>
+         <p>
+            Gent<ex>lemen</ex> forasmuch as I am here, and as it were vpo<ex>n</ex> the <lb/>
+            instant to suffer Deathe, I desire all loving Subiects and <lb/>
+            Members of the Church of <hi rend="italic">Rome</hi> to praye for mee, when ( <lb/>
+            noe man for anye thing could be p<ex>er</ex>ceived) reioycinge at that <lb/>
+            moc<ex>i</ex>on, or signifying A willingnes soe to doe, hee p<ex>ro</ex>ceeded <lb/>
+            to A kinde of Prayer to our Savior, his mother and the <lb/>
+            Saincts, in w<ex>hi</ex>ch he was pr<ex>e</ex>sentlye interrupted by some <lb/>
+            Gent<ex>lemen</ex> standinge on that North Syde, whoe told him that his <lb/>
+            begin<ex>n</ex>ing of Prayer was good, for that he offered it to Ch <lb/>
+            Jesus in whom onelye Salvac<ex>i</ex>on was to be found, For the <lb/>
+            <fw type="catch" place="bot-right">Virgine</fw>
+            <pb n="91r" facs="/bl/add_ms_22591/add_ms_22591_f091r/add_ms_22591_f091r.jpg"/>
+            Virgine Marye, and the rest, they could doe him noe good, but <lb/>
+            (notw<ex>i</ex>thstanding that) hee p<ex>er</ex>sisted sayinge / Oyes / <ex>th</ex>e blessed Virgin <lb/>
+            never forsooke or failed any that trusted in, or called vpon <lb/>
+            her, and therefore he would depend vpo<ex>n</ex> her and the rest of <lb/>
+            the Saincts, and soe p<ex>ro</ex>ceeded to an exhortac<ex>i</ex>on to mr <hi rend="italic">Brodwaye</hi> <lb/>
+            to cleave vnto the same opinion, and dye in the Romishe Faithe, <lb/>
+            For w<ex>hi</ex>ch to haue him doe, hee said if he had it, he would give <lb/>
+            the whole world, vnto w<ex>hi</ex>ch moc<ex>i</ex>on Brodwaye gave noe answer <lb/>
+            or seemed att all to regard it, Then hee p<ex>ro</ex>ceeded w<ex>i</ex>th relac<ex>i</ex>o<ex>n</ex> <lb/>
+            howe he had bine examined by my Lord cheiffe Justice touch<lb break="no"/>
+            inge the corruptnes of my Lord of Castlehavens liffe, <lb/>
+            wherein he noe wayes confessed any thinge to pr<ex>e</ex>iudice the <lb/>
+            said Earle
+         </p>
+         <p>
+            That being w<ex>i</ex>thin 3: dayes after sent for before <ex>th</ex>e Lords <lb/>
+            of the Counsell my Lord of Dorsett (against whom he did once <lb/>
+            or twise envye, yett freelye forgave him) had intrapped and <lb/>
+            insnared him to his distruction for that saying vpo<ex>n</ex> his honor, <lb/>
+            and speaking it in the plurall number, (as the Mouthe of the <lb/>
+            whole Board) That whatsoever he deliuered should noe <lb/>
+            wayes pr<ex>e</ex>iudice himselfe, hee thereby gott him to declare my <lb/>
+            Lord guiltie of the Sinne of Buggerie, wherein himselfe be=<lb break="no"/>
+            ing A Partie, was the onelye cause hee came nowe to suffer <lb/>
+            deathe / For w<ex>hi</ex>ch his Lordships Skill and Pollicie in siftinge <lb/>
+            him togither w<ex>hi</ex>ch dispensac<ex>i</ex>on of his p<ex>ro</ex>mise and Oathe, he freely <lb/>
+            forgave him, saying further the said Lord had done him noe <lb/>
+            wronge, because hee therein was but an Instrum<ex>en</ex>t to sende <lb/>
+            him out of this world into A better, Then he p<ex>ro</ex>ceeded to a <lb/>
+            kinde of demaund of the Companye, or rather A rehersall <lb/>
+            of my Lords denyinge the Sinne, at his deathe, touching w<ex>hi</ex>ch <lb/>
+            he desired and wished my Lord had not soe spoken, (if he did) <lb/>
+            for it was too true, his Lordshipp had both Buggered him <lb/>
+            in spending seed vpon his Bellye, and he did the like on his / That <lb/>
+            it was true (for some pr<ex>i</ex>vate discontentm<ex>en</ex>t) he boare a little <lb/>
+            mallice to the Earle and Skipw<ex>i</ex>th, for w<ex>hi</ex>ch he asked God for=<lb break="no"/>
+            givenes; That Broadwaye if he had done anye thing to the <lb/>
+            Cou<ex>n</ex>tesse, he did it not out of his owne ill, or corrupt nature, <lb/>
+            but was p<ex>ro</ex>voked, and p<ex>er</ex>swaded to it by the Earle /
+         </p>
+         <p>
+            Hee cleared the young Lord as never being any occasio<ex>n</ex> <lb/>
+            or meanes of his Fathers Deathe, in hireing or p<ex>er</ex>swading <lb/>
+            him to give evidence as he had done, he confessed hee had <lb/>
+            lived an ill liffe, in that he had delighted in drincking whore<lb break="no"/>
+            ing, and all manner of vnclean<ex>n</ex>es, but nowe as hee was <lb/>
+            hartelye sorrye, soe he doubted not of the mercie of all=<lb break="no"/>
+            mightie God to p<ex>ar</ex>don and forgive him all his Sinnes thorough <lb/>
+            and for the merritts and mediations saake of Christ Jesus, <lb/>
+            the blessed Virgine, and the Saints in heaven
+         </p>
+         <p>
+            That he had fallen or runne into theis eronious Sinnes, <lb/>
+            and especiallie that w<ex>hi</ex>ch he came to Dye for, in regard <lb/>
+            <fw type="catch" place="bot-right">and</fw>
+            <pb n="91v" facs="/bl/add_ms_22591/add_ms_22591_f091v/add_ms_22591_f091v.jpg"/>
+            and by reason hee had neglected, and not soe dulie as hee <lb/>
+            should haue done, his repayer to his Ghostlye Father to make <lb/>
+            confession, and take instrucc<ex>i</ex>on from him / That after hee <lb/>
+            did make and had his Sinnes knowne to the Preist, he was <lb/>
+            not onlye Sorrye for them, but allsoe resolved never to come <lb/>
+            into my Lords house againe, yet true it was he had, but it <lb/>
+            was throughe frailtie, and because he was not furnished <lb/>
+            of another place / Soe turning againe to mr Brodwaye, and <lb/>
+            p<ex>er</ex>swading him to embrace the Romishe Faithe, wherein as he <lb/>
+            p<ex>er</ex>ceived, as his labor was in vaine, Soe the Shreiffe &amp;amp; other <lb/>
+            p<ex>er</ex>sons of quallitye willed him to forbeare and shutt vp his <lb/>
+            discourse, vnlesse he had more of anye thinge to saye of <lb/>
+            the purpose, wherevpo<ex>n</ex> praying for the kinge Queene &amp;amp; State <lb/>
+            he betooke himselfe to pr<ex>i</ex>vate prayer, and therein for <ex>th</ex>e most <lb/>
+            parte continued to his deathe /
+         </p>
+         <p>
+            Mr Brodwaye came (and as it was thought by <ex>th</ex>e com=<lb break="no"/>
+            panie) A true penitent, and after the fetching of A deepe <lb/>
+            Sighe at the sight of the Tree, hee lifted vpp his Eyes and <lb/>
+            handes towards heaven, making and saying to himselfe two <lb/>
+            shorte prayers, soe attending Patricks discourse, he sate in <lb/>
+            pr<ex>i</ex>vate meditat<ex>i</ex>on often making it Manifest he was in prayer <lb/>
+            most of the tyme / And allsoe reioycing at the assemblies well <lb/>
+            wishing of him, for w<ex>hi</ex>ch he retourned (thoughe feyned) smiles <lb/>
+            and thankes, his tyme being come to stand vpp, &amp;amp; haue the <lb/>
+            halter put about his necke, and soe to declare himselfe, wil=<lb break="no"/>
+            linglye suffered the one, and proceeded to the other, First <lb/>
+            asking Patricke if hee had done, hee pulled out A Paper <lb/>
+            of his Pockett, w<ex>hi</ex>ch being A Sheete of Paper (Broadwayes) <lb/>
+            hee could not spread to reade it, therefore desired to haue <lb/>
+            his handes vntyed, w<ex>hi</ex>ch was done and he read it distinctlye <lb/>
+            to the Assemblye / The Effect whereof was to declare him <lb/>
+            selfe guiltie in the sight of Allmightie God of Deathe and <lb/>
+            Damnation, for that he had broke all the Comau<ex>n</ex>dement<ex>es</ex> in <lb/>
+            thoughts wordes and deedes, had sinned in Pryde of liffe, <lb/>
+            lust of the Eyes, conceipt of his owne beautye, ritches, stre<ex>n</ex>gth <lb/>
+            and other naturall guifts, in desire of revenge, not pittyinge <lb/>
+            the Poore, vnlawfull ritches, not repayring to Sermons, not <lb/>
+            observing the Saboath and the like, for all w<ex>hi</ex>ch and other his <lb/>
+            Sinnes whatsoever he both desired of, and trusted in God <lb/>
+            for pardon, and that throughe and for the onlye merritte of <lb/>
+            our Savior Christ Jesus, his bitter deathe and passion, he ex=<lb break="no"/>
+            prest A stronge assurance w<ex>hi</ex>ch his verye soule had of for=<lb break="no"/>
+            givenes in that throughe the assistance of the holye Ghost he <lb/>
+            had layd such hold on Christ as he had done / This Paper <lb/>
+            writting conteyned his confession and prayer had in itt <lb/>
+            allsoe (as I remember) some thinge of his slender guiltines <lb/>
+            and deserte of deathe / but not much / then delivering that <lb/>
+            <fw type="catch" place="bot-right">to</fw>
+            <pb n="92r" facs="/bl/add_ms_22591/add_ms_22591_f092r/add_ms_22591_f092r.jpg"/>
+            to the Shreiffe hee opened A litle Paper Booke w<ex>hi</ex>ch he held <lb/>
+            in his hands (intituled learne to dye) and desired the company <lb/>
+            to Joyne w<ex>i</ex>th him, soe reading over 3: severall pithie prayers, <lb/>
+            the last whereof was composed onlye of Confession, and for <lb/>
+            everye trespasse calling vnto God for pardon, w<ex>hi</ex>ch prayer hee <lb/>
+            p<ex>ro</ex>nounced w<ex>i</ex>th greatest Comforte, and asseverac<ex>i</ex>on at everye <lb/>
+            Amen, clapping himselfe on the brest, and soe closed it vpp <lb/>
+            and gave it to his Ghostlye Father, A minister &amp;amp; kinsman of <lb/>
+            his, whoe came alone w<ex>i</ex>th him on horsebacke close by the Ca<ex>r</ex>te, <lb/>
+            then he pulled out A litle paper w<ex>hi</ex>ch conteyned an excellent <lb/>
+            Prayer of his owne makinge, and when he had read, and ev<ex>er</ex>y <lb/>
+            one ioyned w<ex>i</ex>th him in the Amen, hee comended it allsoe to <ex>th</ex>e <lb/>
+            Sheriffe, Then throwing awaye his posie of Flowers to a freind <lb/>
+            and kinsman, an aged Gentleman, standing A litle of, hee <lb/>
+            rowsed vpp himselfe, and saide to this Effecte /
+         </p>
+         <p>
+            <add place="RM">
+               <hi rend="italic">
+                  Brodwayes speech <lb/>
+                  at his execuc<ex>i</ex>on
+               </hi>
+            </add>
+            Gentlemen thoughe true it is what I formerlye haue <lb/>
+            deliuered touching my guiltines and deserte of death my <lb/>
+            meaning was, and is, onlye in respecte of my Sinnes toward<ex>es</ex> <lb/>
+            God, and noe further for breach of the lawes of the Kingdome, <lb/>
+            then onlye lying once w<ex>i</ex>th the Ladye Castlehaven throughe <lb/>
+            p<ex>er</ex>swation of the Earle whoe was then in Be<del rend="strikethrough">a</del>d w<ex>i</ex>th her, &amp;amp; vsing <lb/>
+            some small force for the p<ex>u</ex>rpose, wherein and by, hee spent seed <lb/>
+            on her Bodye, but never entered it / he said that hee came <lb/>
+            not to my Lord with A desire, or intent anye wayes to serve <lb/>
+            him, but was mynded and bent for Sea / onlye mr Skipwith <lb/>
+            had drawne him thither for Societyes sake / where not hearing <lb/>
+            from his Freindes concerning his intended voyage, and being <lb/>
+            more kindlye respected by the Earle, then he looked for, he <lb/>
+            stayed from weeke to weeke, and monthe to monthe co<ex>n</ex>trarye <lb/>
+            to intenc<ex>i</ex>on, Then my Lord making him his Bedfellowe, did <lb/>
+            on A daye when  Skipwith was w<ex>i</ex>th him in the Garden, (but <lb/>
+            walking some what aparte,) breake out in Speeches to him. <lb/>
+            to this purpose /Brodwaye thou art young, Lustie, and well <lb/>
+            favoured, and therefore canst not but pr<ex>e</ex>vayle with anye <lb/>
+            woman thou attemptest, wherefore that I am old, and <lb/>
+            cannot live longemy liffe wholye delighting in lust, w<ex>hi</ex>ch I <lb/>
+            am neither able, nor willing to satisfye, thou mayst do well <lb/>
+            to lye w<ex>i</ex>th her, and soe pleasing her, after my death marrie <lb/>
+            w<ex>i</ex>th her, and thereby raise thy Fortunes / That Patricke knew <lb/>
+            my Lord had sollicited him againe and againe, as hearinge <lb/>
+            him in that language when they haue bine in Bed togither, <lb/>
+            and hee lying at the Bedds Feete, w<ex>hi</ex>ch to cleere he charged <lb/>
+            Patricke to speake his knowledge, whoe replyed it was true, <lb/>
+            Then he was demaunded by one of the Lords whither whe<ex>n</ex> my <lb/>
+            Lord sollicited him, my Ladye desired to haue <del rend="strikethrough">bine</del> him knowe <lb/>
+            her carnallye, to w<ex>hi</ex>ch demaund hee saide Noe, he would not <lb/>
+            <fw type="catch" place="bot-right">wronge</fw>
+            <pb n="92v" facs="/bl/add_ms_22591/add_ms_22591_f092v/add_ms_22591_f092v.jpg"/>
+            wronge her, thoughe shee hated him infinitlye / But ( <lb/>
+            said hee) I knowe well, if I were minded, and able to p<ex>ro</ex> <lb/>
+            fer, shee would not saye naye / For that Mr Skipwith and <lb/>
+            Antell laye with her comonlye /
+         </p>
+         <p>
+            That Skipwith confessed vnto him howe he had often <lb/>
+            knowne her, and gotten A Child vpo<ex>n</ex> her, w<ex>hi</ex>ch shee (like A <lb/>
+            most Wicked woman had made awaye) w<ex>hi</ex>ch was the onlye and <lb/>
+            sole occasion he the said Skipwith nowe hated her, And there <lb/>
+            fore had tourned to the young Ladye Awdelye, all w<ex>hi</ex>ch he <lb/>
+            pr<ex>e</ex>sumed Skipwith would confesse vpon his Oathe, That the <lb/>
+            Ladye of Castlehaven was the wicked woman in the world, <lb/>
+            and had more to answere for then any woman that liveth (as <lb/>
+            he thought / as he thought) At w<ex>hi</ex>ch wordes, that Lord (A Fat <lb/>
+            gent<ex>leman</ex> w<ex>hi</ex>ch asked him the Former question, saide, grow <lb/>
+            not into passion Mr Broadwaye, and speake nothing for mallice, <lb/>
+            he said / God forbid I should, I am heere in charitie with all, <lb/>
+            living people, and doe as freelye forgive my L<ex>ord</ex> Castlehave<ex>n</ex>, <lb/>
+            as I doe desire God to forgive mee, but what I speake is <lb/>
+            true, as I shall pr<ex>e</ex>sentlye answere before him <ex>tha</ex>t redeemed <lb/>
+            mee, and the holye Ghost <ex>tha</ex>t sanctifyed mee, be all Honor &amp;amp; <lb/>
+            glorie nowe and for evermore, Amen /
+         </p>
+         <p>
+            Then he p<ex>ro</ex>ceeded further and saide that my Lord would <lb/>
+            have had him done it longe before, for one night coming to <lb/>
+            him to his beddsyde, he caught him and bidd him come to Bed <lb/>
+            to him, and his wiffe, making her take her members in her <lb/>
+            hands / That therevpo<ex>n</ex> he made to him as if he would, but be=<lb break="no"/>
+            inge gott from him dep<ex>ar</ex>ted the Chamber, never intendinge <lb/>
+            to doe soe foule A deed / and that for the Reasons aforesaid, <lb/>
+            he hated her of all women living, howe beit that one time, <lb/>
+            satisfying my Lords desire, he came to Bedd to them, where <lb/>
+            beinge (grace fledd) nature p<ex>ro</ex>voked him to A kinde of desire, <lb/>
+            and he spent Seed on her bellye, but never entred her body, <lb/>
+            as he hoped for Salvation / Thet he never knewe any wom<ex>ans</ex> <lb/>
+            bodye carnallye whilst he lived in my Lords house /
+         </p>
+         <p>
+            That his mynde was <del rend="strikethrough">never </del>not to haue brought to light <lb/>
+            either my Lords, or my Ladyes shame, but that when hee <lb/>
+            was vpon his Oathe, hee could not but speake the truthe, <lb/>
+            his nature being never prone to lye, or if it were in his <lb/>
+            youthe, the good correction of his parents had weaned <lb/>
+            him from it, saying, that his Mother had often told him <ex>th</ex>e <lb/>
+            old Proverbe / <hi rend="italic">A lyer is worse then A Theife</hi> / and he thought <lb/>
+            he had more stripes for that then all faults els whatsoeu<ex>er</ex>, <lb/>
+            That he had (as he hoped) spoke nothinge of moment against <lb/>
+            my Lord at his arraignem<ex>en</ex>t, hee could not nowe reme<ex>m</ex>ber <lb/>
+            everye thinge, if he had, he desired p<ex>ar</ex>don, and soe (shutting <lb/>
+            vpp his Speeche) pr<ex>e</ex>pared him selfe for deathe pullinge <lb/>
+            <fw type="catch" place="bot-right">out</fw>
+            <pb n="93r" facs="/bl/add_ms_22591/add_ms_22591_f093r/add_ms_22591_f093r.jpg"/>
+            out A laced handkercheife, and willing the Execuconer to tye <lb/>
+            it about his Browes, then unhitched his hose, and vnbuttoned <lb/>
+            his doublett / when Mr Goodcoale the minister asked him if <lb/>
+            he would not haue A Psalme, he said yes w<ex>i</ex>th all his harte, <lb/>
+            then he read the Cxliij Psalme, w<ex>hi</ex>ch Mr Brodwaye (putting <lb/>
+            vpp the handkercheife) sunge verye cheerefullye neu<ex>er</ex> cha<ex>n</ex>ging <lb/>
+            Collor at all / Then the minister desired him to make co<ex>n</ex>fessio<ex>n</ex> <lb/>
+            of his Faither / Soe he p<ex>ro</ex>nounced aloude the beleiffe /
+         </p>
+         <p>
+            Mr Goodcoale saide theis be the Articles of the Christia<ex>n</ex> <lb/>
+            Faithe, according to the Churche of England, into w<ex>hi</ex>ch Faithe <lb/>
+            you were baptised, praye signifie whither in that Faith you <lb/>
+            intende to dye / he said yes, for there is noe other Faithe (as <lb/>
+            I suppose) in and by w<ex>hi</ex>ch A man can be saved / Then he made <lb/>
+            request to the Shreiffe and those of his kindred there that he <lb/>
+            might be buryed in his owne Cou<ex>n</ex>trye, when it was told him <lb/>
+            that it was graunted, and order taken to have it soe, wher <lb/>
+            fore he should nowe mynde his prayers, when his kinsman <lb/>
+            asked if he had never another prayer in his pockett, he said <lb/>
+            noe / Then Mr Goodcole asked him if he would saye after <lb/>
+            him, and he said yes, w<ex>i</ex>th all my harte, but first he wished <lb/>
+            the hange man to tye his hands againe, w<ex>hi</ex>ch being done, mr <lb/>
+            Goodcole saide A verye pithie prayer to com<ex>m</ex>end his Soule <lb/>
+            and bodye to Allmightie God, in and for the mirritts of <lb/>
+            Christs death and passion, and soe that he might there raig<ex>n</ex>e <lb/>
+            and live w<ex>i</ex>th h<del rend="strikethrough">is</del>im for evermore, to w<ex>hi</ex>ch <ex>th</ex>e dying p<ex>ar</ex>tie and <lb/>
+            whole congregac<ex>i</ex>on saye Amen, and he lifting vp his hands <lb/>
+            to heaven w<ex>i</ex>th theis wordes <hi rend="italic">Lord Jesus</hi> receive my Spirrit, <lb/>
+            the Carte was drawne awaye, when pr<ex>e</ex>sentlye some of his <lb/>
+            Freindes beate him on the Brest to ridd him out of his paine <lb/>
+            Patricke beheld him hanging, and soe lifting vpp his hands, <lb/>
+            and com<ex>m</ex>ending himselfe to God in manner as aforesaide, <lb/>
+            his Carte was likewise drawne awaye. /
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f081r/add_ms_22591_f081r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f081v/add_ms_22591_f081v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f082r/add_ms_22591_f082r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f082v/add_ms_22591_f082v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f083r/add_ms_22591_f083r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f083v/add_ms_22591_f083v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f084r/add_ms_22591_f084r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f084v/add_ms_22591_f084v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_22591/add_ms_22591_f085r/add_ms_22591_f085r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22591/add_ms_22591_f085v/add_ms_22591_f085v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22591/add_ms_22591_f086r/add_ms_22591_f086r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22591/add_ms_22591_f086v/add_ms_22591_f086v.jpg"/>
+      <graphic n="13" url="/bl/add_ms_22591/add_ms_22591_f087r/add_ms_22591_f087r.jpg"/>
+      <graphic n="14" url="/bl/add_ms_22591/add_ms_22591_f087v/add_ms_22591_f087v.jpg"/>
+      <graphic n="15" url="/bl/add_ms_22591/add_ms_22591_f088r/add_ms_22591_f088r.jpg"/>
+      <graphic n="16" url="/bl/add_ms_22591/add_ms_22591_f088v/add_ms_22591_f088v.jpg"/>
+      <graphic n="17" url="/bl/add_ms_22591/add_ms_22591_f089r/add_ms_22591_f089r.jpg"/>
+      <graphic n="18" url="/bl/add_ms_22591/add_ms_22591_f089v/add_ms_22591_f089v.jpg"/>
+      <graphic n="19" url="/bl/add_ms_22591/add_ms_22591_f090r/add_ms_22591_f090r.jpg"/>
+      <graphic n="20" url="/bl/add_ms_22591/add_ms_22591_f090v/add_ms_22591_f090v.jpg"/>
+      <graphic n="21" url="/bl/add_ms_22591/add_ms_22591_f091r/add_ms_22591_f091r.jpg"/>
+      <graphic n="22" url="/bl/add_ms_22591/add_ms_22591_f091v/add_ms_22591_f091v.jpg"/>
+      <graphic n="23" url="/bl/add_ms_22591/add_ms_22591_f092r/add_ms_22591_f092r.jpg"/>
+      <graphic n="24" url="/bl/add_ms_22591/add_ms_22591_f092v/add_ms_22591_f092v.jpg"/>
+      <graphic n="25" url="/bl/add_ms_22591/add_ms_22591_f093r/add_ms_22591_f093r.jpg"/>
+      <graphic n="26" url="/bl/add_ms_22591/add_ms_22591_f093v/add_ms_22591_f093v.jpg"/>
+   </facsimile>
 </TEI>

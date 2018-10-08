@@ -26,6 +26,10 @@
                <name>Elaine Brown</name>
                <resp>Transcription Volunteer</resp>
             </respStmt>
+            <respStmt xml:id="PH">
+               <name>Peter Hammond</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
@@ -92,8 +96,10 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
+            <change when="2018-09-19" who="#RB" status="proofread"/>
             <change when="2018-09-19" who="#RB" status="draft"/>
             <change when="2018-08-20" who="#EB" status="transcript"/>
+            <change when="2018-08-20" who="#PH" status="transcript"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
@@ -108,103 +114,114 @@
             </hi>
          </head>
          <p>
-            <hi rend="bold">My most honored Lord</hi> I most humblye p<ex>re</ex>sent (thoughe by some <lb/>
-            Infirmityes A little to late) A Strange new yeares guifte / vnto y<ex>ou</ex>r <lb/>
-            Lo<ex>rdshi</ex>pp /w<ex>hi</ex>ch I wil p<ex>re</ex>sume to tearme the cheapest of all that you haue rec<ex>eu</ex>e / <lb/>
-            and yett of the richest materialls / In shorte it is onlye an Image of yo<ex>u</ex>r <lb/>
-            selfe drawne by memorye fro<ex>m</ex> such discourse as I haue take vpp heere <lb/>
-            and there of yo<ex>u</ex>r Lo<ex>rdshi</ex>pp amonge the most intelligent and vnmaligna<ex>n</ex>t men / <lb/>
-            w<ex>hi</ex>ch to purtract before you I thought noe servile office / but Ingenious <lb/>
-            and reale and I could wish that it had come at the daye / soe <ex>tha</ex>t yo<ex>u</ex>r Lo<ex>r</ex>d<ex>shi</ex>pp <lb/>
-            might haue begun the newe yeare somew<ex>ha</ex>t like Plato’s difinition of <lb/>
-            feelicitie w<ex>i</ex>th the Contemplac<ex>i</ex>on of yo<ex>u</ex>r owne Idea
+            <hi rend="bold">My most honored Lord</hi> I most humblye pr<ex>e</ex>sent (thoughe by some <lb/>
+            Infirmityes A little to late) A Strange new yeares guifte/ vnto yo<ex>u</ex>r <lb/>
+            Lo<ex>rdshi</ex>pp/ w<ex>hi</ex>ch I will pr<ex>e</ex>sume to Tearme the cheapest of all that <add place="above">you</add> haue rec<ex>eived</ex>/ <lb/>
+            and yett of the richest materialls, In shorte it is onlye an Image of yo<ex>u</ex>r <lb/>
+            selfe drawne by memorye fro<ex>m</ex> such discourse as I haue take vpp heere<lb/>
+            and there of yo<ex>u</ex>r Lo<ex>rdshi</ex>pp amonge the most intelligent and vnmaligna<ex>n</ex>t men, <lb/>
+            w<ex>hi</ex>ch to purtract before you I thought noe servile Office / but Ingenious <lb/>
+            and reall. and I could wish that it had come at the daye/ soe <ex>tha</ex>t yo<ex>u</ex>r Lo<ex>r</ex>d<ex>shi</ex>pp <lb/>
+            might haue begunn the newe yeare somew<ex>ha</ex>t like Plato’s difinition of <lb/>
+            <hi rend="italic">feelicitie</hi> w<ex>i</ex>th the Contemplac<ex>i</ex>on of yo<ex>u</ex>r owne <hi rend="italic">Idea</hi>
          </p>
          <p>
-            <hi rend="bold">They</hi> saye that in yo<ex>u</ex>r forraigne Employme<ex>n</ex>t vnder K: James yo<ex>u</ex>r Lo<ex>rdshi</ex>pp won <lb/>
+            <hi rend="bold">They</hi> saye that in yo<ex>u</ex>r forraigne Employm<ex>en</ex>tes vnd<ex>e</ex>r K<ex>ing</ex> Iames yo<ex>u</ex>r Lo<ex>rdshi</ex>pp wan <lb/>
             the opyinon of A verye able and searchinge Iudgment havinge bene <lb/>
-            the first discoveror<unclear>-</unclear> of the Intentions against the Palatinate w<ex>hi</ex>ch were
-            then in brewing &amp; masked w<ex>i</ex>th much Art. And y<ex>e</ex>t S<ex>i</ex>r Edward Conwaye gott <lb/>
-            the start of you both in Titles and employment at home because
-            the late duke of Buck: wa<ex>n</ex>ted then for his owne Ends A Martiall Secretary 
+            the first discoveror<del rend="strikethrough">
+                    <unclear/>
+                </del> of the Intentions against the Palatinate w<ex>hi</ex>ch were <lb/>
+            then in brewing &amp; masked w<ex>i</ex>th much Art. And <ex>tha</ex>t S<ex>i</ex>r Edward Conwaye gott <lb/>
+            the Start of you both in Title and employment at home because
+            the late duke of Buck<ex>ingham</ex> wa<ex>n</ex>ted then for his owne Ends A Martiall Secretary
          </p>
          <p>
-            <hi rend="bold">They</hi> saye that vnd<ex>e</ex>r o<ex>u</ex>r p<ex>re</ex>sent Sou<ex>r</ex>aigne / you were chose<ex>n</ex> to <ex>th</ex>e highest charge at <lb/>
-            the lowest of the State / when some Instrument was requisite of indubita= <lb break="no"/>
-            ble Integritie / and p<ex>ro</ex>vident Moderat<ex>i</ex>on / w<ex>h</ex>ich Attributes I haue heard <lb/>
-            none deny you
+            <hi rend="bold">They</hi> saye that vnd<ex>e</ex>r o<ex>u</ex>r pr<ex>e</ex>sent Sou<ex>er</ex>aigne/ you were chose<ex>n</ex> to <ex>th</ex>e highest charge at <lb/>
+            the lowest of the State/ when some Instrument was requisite of indubita= <lb break="no"/>
+            ble Integritie/ and p<ex>ro</ex>vident Moderat<ex>i</ex>on/ w<ex>h</ex>ich Attributes I haue heard <lb/>
+            none denye you
          </p>
-         <fw type="catch" place="bot-right">The</fw>
+         <fw type="catch" place="bot-right">
+                <hi rend="bold">The</hi>
+            </fw>
          <pb n="80v" facs="/bl/add_ms_22591/add_ms_22591_f080v/add_ms_22591_f080v.jpg"/>
          <p>
-            <hi rend="bold">The</hi> discourse thus of yo<ex>u</ex>r Acc<ex>i</ex>ons since.  That thoughe greate ex <lb/>
-            haustions cannot be cured w<ex>i</ex>th suddaine remedyes / noe more in a Kinge= <lb break="no"/>
-            dome then in an naturall Bodye / yet yo<ex>u</ex>r Lo<ex>rdship</ex>p hath well allayed those <lb/>
-            blustring Clamors wherew<ex>i</ex>th at the beginning yo<ex>u</ex>r house was in a manner <lb/>
+            <hi rend="bold">The</hi> discourse thus of yo<ex>u</ex>r Acc<ex>i</ex>ons since.  That thoughe greate ex<lb break="no"/>
+            haustions cannot be cured w<ex>i</ex>th suddaine remedyes/ noe more in A Kinge=<lb break="no"/>
+            dome then in an naturall Bodye . yet yo<ex>u</ex>r Lo<ex>rdshi</ex>p hath well allayed those <lb/>
+            blustring Clamors wherew<ex>i</ex>th at the begin<ex>n</ex>ing yo<ex>u</ex>r house was in a manner <lb/>
             daylye beseiged/
          </p>
          <p>
-            <hi rend="bold">They</hi> note <ex>tha</ex>t there haue bene manye Changes / but <ex>tha</ex>t none hath brought <add place="above">to</add> <lb/>
-            the Peace A Iudgm<ex>en</ex>t soe Couetinated and illuminated w<ex>i</ex>th various Eru= <lb break="no"/>
-            dition as yo<ex>u</ex>r Lo<ex>rdship</ex>p since the Lord Burghly vnder Queene Elizabeth who<ex>m</ex> <lb/>
-            they make yo<ex>u</ex>r Parable in the ornament of knowledge They observed in <lb/>
-            yo<ex>u</ex>r Lo<ex>rdship</ex>p divers remarkable Combinac<ex>i</ex>ons of Vertues &amp; abilityes rarely <unclear>socialle</unclear> <lb/>
-          
+            <hi rend="bold">They</hi> note <ex>tha</ex>t there haue bene manye Changes/ but <ex>tha</ex>t none hath brought <add place="above">to</add> <lb/>
+            the Place A Iudgm<ex>en</ex>t soe Coultiuated and illuminated w<ex>i</ex>th various Eru=<lb break="no"/>
+            dition as yo<ex>u</ex>r Lo<ex>rdshi</ex>p since the Lord <hi rend="italic">Burghly</hi> vnder Queene Elizabeth who<ex>m</ex> <lb/>
+            they make yo<ex>u</ex>r Parable in the ornament of knowledge / They observed in <lb/>
+            yo<ex>u</ex>r Lo<ex>rdshi</ex>p divers remarkable Combinatons of Vertues &amp; abilityes rarely sociable
+         </p>
+         <p>          
             <hi rend="bold">In</hi> the Character of yo<ex>u</ex>r aspecte A mixture of authoritie &amp; modestie <lb/>
-            In the fa<unclear>-</unclear>culties of yo<ex>u</ex>r mynde / quicke appr<ex>e</ex>hension and soliditie together
-            In the Stile of yo<ex>u</ex>r Porte and Trayne as much dignitie and as great de= <lb break="no"/>
-            pendency as was ever in any of yo<ex>u</ex>r place / &amp; w<ex>i</ex>th litle noyse or outward <unclear>fume</unclear> /
+            In the fa<del rend="strikethrough">
+                    <unclear/>
+                </del>culties of yo<ex>u</ex>r mynde / quicke appr<ex>e</ex>hension and soliditie togither <lb/>
+            In the Stile of yo<ex>u</ex>r Porte and Trayne as much dignitie and as great de=<lb break="no"/>
+            pendency as was ever in any of yo<ex>u</ex>r place / &amp; w<ex>i</ex>th litle noyse or outward fume /
          </p>
          <p>
-            <hi rend="bold">That</hi> yo<ex>u</ex>r Table is verye abundant / Free and noble / w<ex>i</ex>thout Luxurie <lb/>
-            That you are by nature noe flatterer / &amp; yett of greatest power in Court <lb/>
-            That you haue Magnificence / and Frugalitye both together <lb/>
-            That you entertayne yo<ex>u</ex>r Guests and visitors w<ex>i</ex>th Noble curtesie / but <lb/>
-            voyde of Complem<ex>en</ex>t .  Lastlye that you mayntayne A due regard of <lb/>
-            yo<ex>u</ex>r Person and place / &amp; yett are an Enemye to Froathie formalitye /
+            <hi rend="bold">That</hi> yo<ex>u</ex>r Table is verye abundant, Free and noble w<ex>i</ex>thout Luxurie <lb/>
+            That you are by nature noe flatterer, &amp; yett of greatest power in Cou<ex>r</ex>t <lb/>
+            That you haue Magnifience/ and Frugalitye bothe togither <lb/>
+            That you entertayne yo<ex>u</ex>r Guests and visitors w<ex>i</ex>th Noble curtesie/ but <lb/>
+            voyde of Complem<ex>en</ex>t.  Lastlye that you maynetayne A due regard of <lb/>
+            yo<ex>u</ex>r Person and place, &amp; yett are an Enemye to Froathie formalitye /
          </p>
          <p>
-            <hi rend="bold">Now</hi> in the discharge of yo<ex>u</ex>r function / They speake of twoe things / <lb/>
+            <hi rend="bold">Now</hi> in the discharge of yo<ex>u</ex>r function/ They speake of twoe things, <lb/>
             that haue done you much honor namely That you haue had allwayes a speciall care <lb/>
-            to the suppye of the Navye / And likewise A more worthye and tendre <lb/>
-            respect towards the Kings onelye Sister / for her continuall support <lb/>
+            to the suppye of the Navye/ And likewise A more worthye and tender <lb/>
+            respect towards the Kings onelye Sister, for her continuall support <lb/>
             from hence then shee hath founde before
          </p>
          <p>
             <hi rend="bold">They</hi> observe yo<ex>u</ex>r greatnes as firmelye established as eu<ex>er</ex> was any in <lb/>
             the Loue (and w<ex>hi</ex>ch is more) in the Estimac<ex>i</ex>on of A Kinge / whoe hath soe <lb/>
-            signalizd his owne Constancye / Besydes yo<ex>u</ex>r Addic<ex>i</ex>on of Strength / or <lb/>
+            signalizd his owne Constancye/ Besydes yo<ex>u</ex>r Addic<ex>i</ex>on of Strength (or <lb/>
             at least of lustre) by the Noblest Alliances of the Land /
          </p>
          <p>
-            <hi rend="bold">Amongst</hi> these Notes it is no wonder if some obserue <ex>tha</ex>t betweene <lb/>
-            A good willingness in yo<ex>u</ex>r Affections to satisfye all / And an impossibility <lb/>
-            in the matter / and yet an ymportaincye in the p<ex>er</ex>sons / there doth now and <lb/>
-            then I knowe not howe / arise A little Impatience / w<ex>hi</ex>ch must needs fall <lb/>
-            vpon yo<ex>u</ex>r Lordshipp vnlesse you had bene cutt out of A Packe of diamo<ex>n</ex>ds <lb/>
-            especiallye hauing bene before soo Conu<ex>er</ex>sant w<ex>i</ex>th liberall Studies / &amp; <lb/>
+            <hi rend="bold">Amongst</hi> these Notes it is noe wonder if some obserue <ex>tha</ex>t betweene <lb/>
+            A good willingness in yo<ex>u</ex>r Affections to satisfye all/ And an impossibility <lb/>
+            in the matter, and yet an ymportunitye in the p<ex>er</ex>sons/ there doth now and <lb/>
+            then I knowe not howe/ arise A little Impatience/ w<ex>hi</ex>ch must needs fall <lb/>
+            vpon yo<ex>u</ex>r Lordshipp vnlesse you had bene cutt out of A Rocke of diamo<ex>n</ex>ds <lb/>
+            especiallye hauinge bene before soe Conu<ex>er</ex>sant w<ex>i</ex>th liberall Studies, &amp; <lb/>
             w<ex>i</ex>th the freedome of yo<ex>u</ex>r owne Mynde
          </p>
          <p>
             <hi rend="bold">Now</hi> after this shorte collection touching yo<ex>u</ex>r most honoured p<ex>er</ex>son <lb/>
             I beseech you give mee leave to add likewise a litle what men saye <lb/>
             of the Writter. They saye I want not yo<ex>u</ex>r gratious good will towardes <lb/>
-            mee according to the degree of my poore talent and Travells / but they <lb/>
-            saye I am wanting to my selfe / And in good faithe (my Lord) in saying <lb/>
-            soe they saye trulye. For I am condemned I knowe not how by nature <lb/>
-            to A kinde of vnfortunate Bashfullnes in my owne busines / and it is <lb/>
+            mee according to the degree of my poore talent and Travells/ but they <lb/>
+            saye I am wanting to my selfe. And in good faithe (my Lord) in saying <lb/>
+            soe they saye truelye. For I am condemned I knowe not how by nature <lb/>
+            to A kinde of vnfortunate Bashfullnes in my owne busines/ and it is <lb/>
             nowe to late to put mee into A newe Furnice Therefore it must <lb/>
-            be yo<ex>u</ex>r Lo<ex>ordshi</ex>ps prop<ex>er</ex> worke / and not onlye yo<ex>u</ex>r Noble but even yo<ex>u</ex>r Cha= <lb break="no"/>
+            be yo<ex>u</ex>r Lo<ex>ordshi</ex>ps prop<ex>er</ex> worke/ and not onlye yo<ex>u</ex>r Noble but even yo<ex>u</ex>r Cha=<lb break="no"/>
             ritable goodnes that must in some blessed houre remember mee /
          </p>
          <p>
             <hi rend="bold">God</hi> giue your Lo<ex>rdshi</ex>pp manye healthfull Ioyfull yeares and the <lb/>
-            blessinge of that <hi rend="italic">Text Beatus qui attendit ad attenuatu<ex>m</ex>
-                </hi>  And <lb/>
-            Soo I remayne w<ex>i</ex>th An humble and willinge hearte 
+            blessinge of that Text <foreign xml:lang="la">
+                    <hi rend="italic">Beatus qui attendit ad attenuatu<ex>m</ex>
+                    </hi>
+                </foreign> And <lb/>
+            Soe I remayne w<ex>i</ex>th An humble and willinge hearte 
          </p>
          <p rend="align-right">
-            At all your Lo<ex>rdshi</ex>pps Comaunds <lb/>
-            Henrye Wotton
+            At all your Lo<ex>rdshi</ex>pps Comaunds
+         </p>
+         <p rend="align-right">
+            <hi rend="align-right">Henrye Wotton</hi>
          </p>
       </body>
    </text>

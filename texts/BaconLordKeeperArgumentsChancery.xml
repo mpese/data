@@ -34,6 +34,10 @@
                <name>Penny McClean</name>
                <resp>Transcription Volunteer</resp>
             </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
@@ -41,7 +45,7 @@
          </publicationStmt>
          <sourceDesc>
             
-            <msDesc corresp="../mss/NorfRO_AYL186.xml">
+            <msDesc corresp="../mss/NorfRO_RYE_20.xml">
                <msIdentifier xml:id="NorfRO_RYE_20">
                <country>United Kingdom</country>
                <settlement>Norwich</settlement>
@@ -52,7 +56,9 @@
             </msIdentifier>
                     <p xml:id="ms-label-generated">Norfolk Record Office,  RYE 20</p>
             </msDesc>
-                <listBibl xml:id="mss_witness_generated"/>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl/>
+                </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -69,7 +75,7 @@
          </langUsage>
          <textClass>
             <keywords n="text-type">
-               <term>petition</term>
+               <term/>
             </keywords>
          </textClass>
          <textClass>
@@ -87,6 +93,7 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
+            <change when="2018-09-28" who="#RB" status="proofread"/>
             <change when="2018-09-24" who="#RB" status="drafted"/>
             <change when="2018-08-20" who="#VA" status="transcribed"/>
             <change when="2018-08-20" who="#CMcC" status="transcribed"/>
@@ -96,7 +103,7 @@
    </teiHeader>
    <text>
       <body>
-         <pb ed="Item 2" n="1r"/>
+         <pb ed="Item 2" n="1r" facs="/nro/rye_20/rye_20-012/rye_20-012.jpg"/>
          <head rend="align-centre">
             The Arguments exhibited by the Lord <lb/>
             Keeper S<ex>i</ex>r Nicholas Bacon in Parliament, <lb/>
@@ -109,16 +116,16 @@
             to attach the body of the Lord Cromwell <lb/>
             for disobeying a decree made in the said <lb/>
             Court betweene one Taverner plaintiff and <lb/>
-            The said Lord Cromwell defend<ex>en</ex>t, which <lb/>
+            the said Lord Cromwell defend<ex>an</ex>t, which <lb/>
             Attachment so executed by the said <lb/>
-            Sherriff, and the body of the said Lord <lb/>
-            Cromwell brought prisoner in the said <lb/>
+            Sheriff, and the body of the said Lord <lb/>
+            Crumwell brought prisoner in the said <lb/>
             Court of Chancery / 
          </head>
          <p>
             First hee saith that by a contempt comitted by a <lb/>
             Nobleman against his Prince, his p<ex>er</ex>son is <lb/>
-            Attacheable by the lawe, but if a nobleman disobey <lb/>
+            attacheable by the lawe, but if a nobleman disobey <lb/>
             a decree made in the Chancery in a matter <lb/>
             examinable there, hee com<ex>m</ex>itteth a contempt ag<ex>ains</ex>t <lb/>
             his Prince, and therefore by the com<ex>m</ex>on lawe his <lb/>
@@ -135,16 +142,16 @@
             com<ex>m</ex>itteth the contempt aforesaid, and his body is <lb/>
             attacheable for that by lawe, But if a nobleman <lb/>
             <fw type="catch" place="bot-right">disobey</fw>
-            <pb ed="Item 2" n="1v"/>
+            <pb ed="Item 2" n="1v" facs="/nro/rye_20/rye_20-013/rye_20-013.jpg"/>
             disobey a decree made in the Chancery and warranted <lb/>
             to be made by her highnes prerogative, in one of the <lb/>
-            highest degrees hee com<ex>m</ex>itte a contempt against that <lb/>
-            prerogative, and, therefore his body for the same is <lb/>
+            highest degrees hee com<ex>m</ex>ittes a contempt against that <lb/>
+            prerogative, and therefore his body for the same is <lb/>
             attacheable by the lawe, and the cause why hee <lb/>
-            thinketh is this, For <add place="above">that</add> the Prince by his prerogative <lb/>
+            thincketh is this, For <add place="above">that</add> the Prince by his prerogative <lb/>
             hath power to order causes otherwise then the lawe <lb/>
-            is, and to helpe the subiects in a cause, wherein hee <lb/>
-            hath no helpe, by which seems in reason as great as <lb/>
+            is, and to helpe the subiectes in a cause, wherein hee <lb/>
+            hath no helpe, by which seemes in reason as great as <lb/>
             may bee./
          </p>
          <p>
@@ -153,56 +160,60 @@
             Chancery for matters examined in the same Court, <lb/>
             and the same proceeded in and ordered and if vse &amp; <lb/>
             custome have allowed of this, then of all congruity <lb/>
-            it must allow the necessary dependents of the same, <lb/>
+            it must allow the necessary dependentes of the same, <lb/>
             which is the execuc<ex>i</ex>on of theis orders, for otherwise <lb/>
             that vse should have byn altogether in vayne, and <lb/>
             other meanes in <del rend="strikethrough">the</del> Chancery for execuc<ex>i</ex>on of theis <lb/>
             orders, there is none but by Attachment, And <lb/>
-            therefore of necessary depend<ex>en</ex>ts vpon such orders thus <lb/>
-            vsed, they are to be alloed. And as to that w<ex>hi</ex>ch hath <lb/>
+            therefore of necessary depend<ex>en</ex>tes vpon such orders thus <lb/>
+            vsed, they are to be allowed. And as to that w<ex>hi</ex>ch hath <lb/>
             byn said, that there hath byn no vse of that execuc<ex>i</ex>on <lb/>
-            by Attachment. it hath byn annsweared That <lb/>
+            by Attachment. it hath byn aunsweared That <lb/>
             Noblemen were of that considerac<ex>i</ex>on, that they never <lb/>
             disobeyed any of those orders, and therefore no cause <lb/>
             of that vse.
          </p>
          <p>
-            Fowerthly to grannt a Court power to heare and <lb/>
+            Fowerthly to graunt a Court power to heare and <lb/>
             order, and not to execute the same, is a playne <lb/>
             absurdity. And againe to leave all Coppyholders <lb/>
             of Noblemen <del rend="strikethrough">in matters</del> without remedy, if they <lb/>
-            be removed from their coppyholds by their Lords <lb/>
+            be removed from their coppyholdes by their Lordes <lb/>
             <fw type="catch" place="bot-right">and all</fw>
-            <pb ed="Item 2" n="2r"/>
+            <pb ed="Item 2" n="2r" facs="/nro/rye_20/rye_20-013/rye_20-013.jpg"/>
             and all other men against Noblemen in matters of <lb/>
-            equity, seems a great inconvenience and much <lb/>
+            equity, seemes a great inconvenience and much <lb/>
             preiudicall to the com<ex>m</ex>on weale considering how great <lb/>
             the number of theis may be, besides what an <lb/>
-            inconvenient thing it is, to have a Nobleman being a <lb/>
+            inconvenient thing it is, to have a Nobleman bring a <lb/>
             matter in the Chancery, and the Court shall have <lb/>
             power to doe Iustice for him, but not against him. <lb/>
             This is not <foreign xml:lang="la">
                     <hi rend="italic">Ius aequabile</hi>
-                </foreign>, and all the things are <lb/>
-            to followe in his opinion, except theis Attachm<ex>en</ex>ts <lb/>
+                </foreign>, and all the thinges are <lb/>
+            to followe in his opinion, except theis Attachm<ex>en</ex>tes <lb/>
             in the cases afore remembred be allowed ./
          </p>
          <p>
             Fiftly, for as much as the Chancery is warranted <lb/>
-            to heave and order causes by vertue of the <lb/>
+            to heare and order causes by vertue of the <lb/>
             Queenes Maiesties prerogative, where otherwise <lb/>
-            by lawe the subiect hath ow helpe and also to <lb/>
+            by lawe the subiect hath an helpe and also to <lb/>
             qualifie the extremity of the lawe, Therefore if <lb/>
             all causes examinable in Chancery for the respect <lb/>
             aforesaid betweene a Nobleman and another man <lb/>
             should be taken from the hearing and ordering of <lb/>
-            that Court, that must needs be in derogation of <lb/>
-            the same, which hee thingeth ought not to be <lb/>
-            without the Queenes Maiuesties privity, And <lb/>
+            that Court, that must needes be in derogation of <lb/>
+            the same, which hee thincketh ought not to be <lb/>
+            without the Queenes Maiesties privity, And <lb/>
             therefore prayeth as hee hath aforedone, and that <lb/>
-            her hignes may be made acquainted with this <lb/>
+            her highnes may be made acquainted with this <lb/>
             cause, before any order be taken herein ./
          </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/nro/rye_20/rye_20-012/rye_20-012.jpg"/>
+      <graphic n="2" url="/nro/rye_20/rye_20-013/rye_20-013.jpg"/>
+   </facsimile>
 </TEI>

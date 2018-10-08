@@ -4,7 +4,7 @@
          <titleStmt>
             <title>Of Thomas Lord Coventry</title>
             <author>
-               <persName corresp="../people/people.xml#P0196">Thomas White</persName>
+               <persName corresp="../people/people.xml#P0196">[Thomas White]</persName>
             </author>
             <respStmt xml:id="NM">
                <name>Noah Millstone</name>
@@ -22,12 +22,34 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="EH">
+               <name>Elvie Herd</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AB">
+               <name>Anne Bennett</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/SHC_LM1778.xml">
+               <msIdentifier xml:id="NorfRO_HARE_6156_2284">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>HARE 6156, 228x4</idno>
+               <msName/>
+            </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
@@ -59,9 +81,12 @@
             <date when="1640">c.1640</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
-               <term/>
+               <term>biography</term>
             </keywords>
          </textClass>
          <textClass>
@@ -77,13 +102,388 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-26" who="#RB" status="drafted"/>
+            <change when="2018-08-20" who="#EH" status="transcribed"/>
+            <change when="2018-08-20" who="#AB" status="transcribed"/>
+            <change when="2018-10-05" who="#NM" status="proofread"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="[1r]" facs="/nro/hare_6515/hare_6515-001/hare_6515-001.jpg"/>
+         <head rend="align-centre">
+            <hi rend="bold">Of</hi> <lb/>
+            <hi rend="bold">Thomas</hi> Lord Coventry &amp;c.:./
+         </head>
+         <p rend="align-centre">
+            Thomas Lord Coventry <lb/>
+            &amp;c.
+         </p>
+         <p rend="align-centre">
+            Thom 
+         </p>
+         <p rend="align-centre">
+            <del rend="strikethrough">
+                    <gap reason="illegible" quantity="25" unit="chars"/>
+                </del>
+         </p>
+         <pb n="[1v]" facs="/nro/hare_6515/hare_6515-002/hare_6515-002.jpg"/>
+         <space unit="page" extent="1"/>
+         <pb n="[2r]" facs="/nro/hare_6515/hare_6515-002/hare_6515-002.jpg"/>
+         <p rend="align-centre">
+            <hi rend="bold"> Of <lb/>
+               Thomas</hi> Lord Coventry late Lord <lb/>
+            Keeper of the great Seale of England.
+         </p>
+         <p rend="align-centre">
+            Some notable Observac<ex>i</ex>ons in the course <lb/>
+            of his life and vltimum vale <lb/>
+            to the world
+         </p>
+         <p>
+            <hi rend="bold">To</hi> trace him in the begin<ex>n</ex>ings and first exposic<ex>i</ex>on hee <lb/>
+            was the sonne of a Judge and of the Com<ex>m</ex>on Pleas a gentle=<lb break="no"/>
+            =man by birth and Educac<ex>i</ex>on, The acquirings of his Father <lb/>
+            in the progresse of his profession (as it seemes) were not <lb/>
+            much, and in that accesse (as I may call it) which com<ex>m</ex>only <lb/>
+            men of the Lawe (attaineing to that diginity) leave to their <lb/>
+            heries in the new erecc<ex>i</ex>on of a Family. Wherefore I conceiue <lb/>
+            it probable that the sonne did not declyne that p<ex>ro</ex>fession <lb/>
+            wherein the Father concluded, but began (there to buyld <lb/>
+            on that foundac<ex>i</ex>on where himselfe had made his first <lb/>
+            approaches/.
+         </p>
+         <p>
+            Hee was of the Inner house of Court, and noe sooner <lb/>
+            by an indefatigable diligence in study attained the <lb/>
+            Barr, but hee appeared in the Lustre of his p<ex>ro</ex>fession <lb/>
+            aboue the com<ex>m</ex>on expectac<ex>i</ex>on of men of that forme, <lb/>
+            which hee made good in the manifestac<ex>i</ex>on of his <lb/>
+            exquisite Abilityes. Soe soone as hee came to plead <lb/>
+            (for the Orator at the Barr hath much the Start of a <lb/>
+            Chamber man) but hee was in vtrumq<ex>ue</ex> paratus and <lb/>
+            <fw type="catch" place="bot-right">here</fw> 
+            <pb n="[2v]" facs="/nro/hare_6515/hare_6515-003/hare_6515-003.jpg"/> 
+            here hee first began to grow into the name of an Active <lb/>
+            and pregnant man/
+         </p>
+         <p>
+            Hee marryed and interred his first love in the fruyte <lb/>
+            of his Primogenitus now surviving (a Baron and <lb/>
+            Peere of the Realme) his wife expiring he plighted <lb/>
+            his faith to the Citie (for he became Recorder of <lb/>
+            London by a publique suffrage and suyte of the <lb/>
+            Cittizens) and espoused for his second wife the <lb/>
+            widow of a Cittizen, lovely, young, rich, and of <lb/>
+            good fame, in whom hee became the Father of <lb/>
+            many hopefull Children of either Sex (all marryed <lb/>
+            richly in his life) or left in the way of a noble <lb/>
+            subsistance. Wee may pr<ex>e</ex>sent his happyines in <lb/>
+            nothing more then in this, that London had first <lb/>
+            given him the handsell of a place both  ho<ex>nora</ex>ble and <lb/>
+            gainefull, together with a wife as loving  as himselfe <lb/>
+            was vxorious, and of that sort, which are not <lb/>
+            vnaptly styled housewives, soe that these two drew <lb/>
+            diversly but in one way and to one and the selfe <lb/>
+            same end, hee in the practise of his profession <lb/>
+            shee in the exercise of her Domestick, for they <lb/>
+            that knew the Discipline of his house averre <ex>tha</ex>t <lb/>
+            hee waved that care as a contiguous distrac<ex>i</ex>on <lb/>
+            to his vocac<ex>i</ex>on, and left her onely (as an helper) <lb/>
+            to manage that Charge which best suyted to <lb/>
+            her Conversac<ex>i</ex>on./
+         </p>
+         <p>
+            The next stepp of his honor was in the service of <lb/>
+            <fw type="catch" place="bot-right">the</fw>
+            <pb n="[3r]" facs="/nro/hare_6515/hare_6515-003/hare_6515-003.jpg"/>
+            The late King of eu<ex>er</ex> blessed memory (as his Sollicitor <lb/>
+            and successively his Attorney Generall) both, places <lb/>
+            of trust and of great income; Neither did hee <lb/>
+            then leave the Citie nor the Citie desert him. For by the <lb/>
+            marriage of his eldest sonne there (the now Baron) hee <lb/>
+            heaped vpp to his other Acquisic<ex>i</ex>ons a Bulke of Treasure of <lb/>
+            noe com<ex>m</ex>on sum<ex>m</ex>e, and leaving it soe, that it may well fall <lb/>
+            into the question whether hee was more beholding to the <lb/>
+            Citie or the Citie to him (or thus) whether more may bee <lb/>
+            attributed to his Fortune than meritt. Moreover they <lb/>
+            ascribe much to the blessing of his house, that they both were <lb/>
+            constant in their Religion and serious in their assiduous <lb/>
+            devoc<ex>i</ex>ons in the sett and fixed formes of o<ex>u</ex>r Church prayers, <lb/>
+            wherevnto the whole Family were com<ex>m</ex>endably assembled.
+         </p>
+         <p>
+            In the first year of o<ex>u</ex>r late gratious Sou<ex>er</ex>aigne my Lord <lb/>
+            of Lincolne (of the Clergy) being removed S<ex>i</ex>r Thomas Couentry <lb/>
+            was designed at Salesborow for the Seale by the Kings <lb/>
+            most excellent Judgment as the onely p<ex>er</ex>son of the tymes <lb/>
+            capeable of soe high a place with the Assistance of the <lb/>
+            Duke of Buckingham, and one that was a noble pr<ex>e</ex>ferrer <lb/>
+            of men of meritt. And to the further Augmentac<ex>i</ex>on of <lb/>
+            his honor. hee was shortly therevpon created Baron of Alisborow <lb/>
+            in which dignity and place, hee contynued without <lb/>
+            interrupc<ex>i</ex>on, vntil death sum<ex>m</ex>oned him to a great <lb/>
+            pitch of glory, in an Age plentifull in yeares, abundant <lb/>
+            in wealth felicious in ofspring, and that which is more <lb/>
+            ho<ex>nora</ex>ble a noble Fame, not that hee past on vnaccused, for <lb/>
+            <fw type="catch" place="bot-right">Envy is</fw>
+            <pb n="[3v]" facs="/nro/hare_6515/hare_6515-004/hare_6515-004.jpg"/>
+            Envy is a constant follower and p<ex>er</ex>secuter of all greatnes <lb/>
+            and distracc<ex>i</ex>on  an vtter Enemy of desert./
+         </p>
+         <p>
+            The Cheife Charge against him was that of Bonham Nortons <lb/>
+            wherein the best and most impartiall Judgments consent <lb/>
+            that his Accuser and Clyent was much to blame in the <lb/>
+            Error of his Accompt, between a Judge of Equity, and a <lb/>
+            quondam Advocate, and in a case where the Accuser had <lb/>
+            before received ample satisfacc<ex>i</ex>on by the advantage and <lb/>
+            rigour of the Lawe. More then this I find not much of <lb/>
+            regard charged on his sincerity (besides those of vulgar <lb/>
+            sum<ex>m</ex>es &amp; private Intrests) where men are ever afore=<lb break="no"/>
+            =hand in flattery of themselues in opinion of that cause <lb/>
+            which goes not on their sides, and that which hath any <lb/>
+            relac<ex>i</ex>on to their friends.
+         </p>
+         <p>
+            The Character of his Outward man was this, hee was of <lb/>
+            midle stature somewhat broad and round fac'd, of haire <lb/>
+            black, and vpright in his Comportment and gesture, of <lb/>
+            Complexion sanguine, and of a comely aspect and <lb/>
+            pr<ex>e</ex>sence (Animadu<ex>er</ex>cons) which may bee left to posterity. 
+         </p>
+         <p>
+            Hee was of a very fine and grave Elocution, in a <lb/>
+            kind of gracefull lisping, soe that where nature might <lb/>
+            seeme to cast something of imp<ex>er</ex>fecc<ex>i</ex>on on his speech, on <lb/>
+            due examinac<ex>i</ex>on, shee added a grace to the p<ex>er</ex>fecc<ex>i</ex>on <lb/>
+            of his deliu<ex>er</ex>y, for his words rather flowed from <lb/>
+            him in a kind of Natiue pleasingnes, then by any <lb/>
+            artificiall helpe or Assistance./
+         </p>
+         <p>
+            Hee was of a very liberall accesse, and (all addressers <lb/>
+            p<ex>re</ex>sented) affable, And as hee was of a very quick <lb/>
+            <fw type="catch" place="bot-right">appr<ex>e</ex>henc<ex>i</ex>on</fw>
+            <pb n="[4r]" facs="/nro/hare_6515/hare_6515-004/hare_6515-004.jpg"/>
+            appr<ex>e</ex>henc<ex>i</ex>on, soe was hee of an exceeding Juditious and <lb/>
+            Expeditious dispatch in all affaires either of State or of <lb/>
+            the Tribunall, of hearing patient and attentive, and <lb/>
+            that which is not vsuelly incident to p<ex>er</ex>sons of dignity  &amp; <lb/>
+            place, seldome in any distempered mood or moc<ex>i</ex>on of <lb/>
+            Choller: And it was none of his meanest com<ex>m</ex>endac<ex>i</ex>ons, <lb/>
+            that hee was an helper or Coadjutor rather then a <lb/>
+            daunter of Councell at the Barr, and vnderstood better <lb/>
+            what they would have said in the Case, then what <lb/>
+            sometymes they did say for their Clyents, Soe that there <lb/>
+            appeared in his Constituc<ex>i</ex>on, a kind of naturall and <lb/>
+            vnaffected Insinuac<ex>i</ex>on, to creepe into the good opinion <lb/>
+            of all men, rather then any affected greatnes to <lb/>
+            discountenance any, but never rashly to discontent <lb/>
+            many./
+         </p>
+         <p>
+            Through the whole Course of his life, his fortune was <lb/>
+            soe obsequious, that it seemes shee allwayes wayted vpon him  <lb/>
+            with a Convoy, for in all the stepps of his  Rise, hee <lb/>
+            had ever an even and smooth passe without any Rubb or <lb/>
+            mate in the Check./
+         </p>
+         <p>
+            For his Erudic<ex>i</ex>on and Acquisic<ex>i</ex>ons of Art (though all <lb/>
+            knew hee was learned in the Sciences, and most profound <lb/>
+            in his profession) yet such was the happinesse of his <lb/>
+            Constellac<ex>i</ex>on, that hee rather leaned to his native  <lb/>
+            strength, then depended on any artificiall relyance /
+         </p>
+         <p>
+            Without doubt hee was of a most solid and im<ex>m</ex>oveable <lb/>
+            temper, and voyd of all pride and ostentac<ex>i</ex>on, neither <lb/>
+            was hee ever in any Vmbrage or disfavor with his <lb/>
+            Prince, An Argument both of his wisdome and <lb/>
+            sincerity, neither in any fraction with his equalls <lb/>
+            <fw type="catch" place="bot-right">worthy</fw>
+            <pb n="[4v]" facs="/nro/hare_6515/hare_6515-005/hare_6515-005.jpg"/>
+            worthy of Excepc<ex>i</ex>on /.
+         </p>
+         <p>
+            For that of my Lord of Suffolkes businesse was an Act <lb/>
+            of his, that told the world in how little Esteeme hee <lb/>
+            held greatnes, that would iustle and stand in Competic<ex>i</ex>on <lb/>
+            with Justice; and it is remaineing among the best <lb/>
+            of his memorialls, that hee allwayes stood impregnable, <lb/>
+            and not to bee overcome by might.
+         </p>
+         <p>
+            Amongst all and the many felicities of his life, that of <lb/>
+            his short sickness, and the willing Embracement of <lb/>
+            death (with open Armes) were of the most remarkeable <lb/>
+            observac<ex>i</ex>on for it is our <foreign xml:lang="LA">finis qui coronat opus</foreign>, and <lb/>
+            changes o<ex>u</ex>r mortality into that of im<ex>m</ex>ortall glory. for <lb/>
+            his sicknes was not contynued with any lingering or <lb/>
+            loathsome languishing, nor soe pr<ex>e</ex>cipitate as that it <lb/>
+            bereaved him of the Ability of disposing of his Estate <lb/>
+            to the contentment of his Posterity, or hindred the <lb/>
+            composing of his thoughts to another and better world./
+         </p>
+         <p>
+            <add place="LM">☞</add>
+            If then in the briefe Collecc<ex>i</ex>on of the state of this <lb/>
+            Noblemans fortune, it may fall into suspic<ex>i</ex>on, that I <lb/>
+            had some relac<ex>i</ex>on to his p<ex>er</ex>son, or (in some one respect <lb/>
+            or other obliged to his member) I assume the liberty <lb/>
+            to tender this Testimony to the world, that I neuer <lb/>
+            had reference at any tyme to his service (onely <lb/>
+            in such addresses as fell into my lott as a Supplicant) <lb/>
+            I had ever the honor of a free accesse, with liberty <lb/>
+            to speake as I could, and as occasion and the <lb/>
+            Cause required. But that which may best satisfie <lb/>
+            the suspitions, that I have not given my selfe the <lb/>
+            <fw type="catch" place="bot-right">least</fw>
+            <pb n="[5r]" facs="/nro/hare_6515/hare_6515-005/hare_6515-005.jpg"/>
+            <add place="LM">☞</add>
+            least scope of partiality or flattery either in favour or <lb/>
+            <figure place="lm">
+               <figDesc>
+                  manicule
+               </figDesc>
+            </figure>
+            affecc<ex>i</ex>on, it is that (I beleeve) noe Subject ever suffered <lb/>
+            in that degree in losse of Estate, as I m<del rend="strikethrough">a</del>y selfe have <lb/>
+            endured, and onely by a Rule of his owne, in suspending <lb/>
+            my suyte in the Starrchamber (the Cause depending before <lb/>
+            in Chancery) vntill it had there a finall determynac<ex>i</ex>on <lb/>
+            whereby I was debarr'd from detecting as villanous a <lb/>
+            practise as this Age hath heard of, vnlesse I would <lb/>
+            have waved my Chancery suyte without further <lb/>
+            expectac<ex>i</ex>on to bee releived in equity, which (as I then <lb/>
+            appr<ex>e</ex>hended were Condic<ex>i</ex>ons of some hard measure, though <lb/>
+            by good reasons I was after p<ex>er</ex>swaded, it stood not with <lb/>
+            the honor of both Courts, that two suyts for one and the <lb/>
+            selfe same Tytle, should bee on foote at one and <lb/>
+            together, yet was it then informed by his noble Successor <lb/>
+            (and then of my Councell) that the Cause depending in <lb/>
+            Starrchamber, was not for the Tytle questioned in Chancery, <lb/>
+            but for p<ex>er</ex>
+                <ex/>iury Combinac<ex>i</ex>on and practise com<ex>m</ex>itted in a <lb/>
+            Tryall at Lawe some yeares before at an Assizes at <lb/>
+            Sarum. To which his Lo<ex>rdshi</ex>pp replyed, that true it was, <lb/>
+            the Tytle was not directly questioned in the Starrchamber <lb/>
+            Bill, yet did it conduce therevnto, and soe reported <lb/>
+            by the Cheife Baron Walter, that in case the defend<ex>an</ex>ts <lb/>
+            came to bee Censured by that Court, it vtterly <lb/>
+            destroyed both the former verdict, and the Tytle in <lb/>
+            Lawe. And thus much for myne owne Apologie, and <lb/>
+            soe to proceed, where I must not leave out of the <lb/>
+            number of his vertues, that hee was eu<ex>er</ex>more ledd by a <lb/>
+            very noble Conduct in the Choyce of his servants, w<ex>hi</ex>ch <lb/>
+            <fw type="catch" place="bot-right">I am</fw>
+            <pb n="[5v]" facs="/nro/hare_6515/hare_6515-006/hare_6515-006.jpg"/>
+            I am bold to say were gent<ex>lemen</ex> of Civility ready to <lb/>
+            p<ex>er</ex>forme all good Offices of Urbanity, in pr<ex>e</ex>senting the <lb/>
+            meanest suytor to their Lord, which (as I have taken it <lb/>
+            as an observac<ex>i</ex>on of myne owne) was infused (if I bee <lb/>
+            not deceived) by his owne Instruc<ex>i</ex>on and disciplinac<ex>i</ex>on/. <lb/> </p>
+            <p>The faculty of his dispatch in Court is best pr<ex>e</ex>sented in <lb/>
+            this, that at his first Accession to the Seale, hee found <lb/>
+            200 Causes on the paper ready for hearing, All which <lb/>
+            (with such as fell in the way) hee determyned within <lb/>
+            the yeare, soe that the Clyents of the Court did not <lb/>
+            languish in expectac<ex>i</ex>on of the issue of their Causes./
+         </p>
+         <p>
+            <del>T</del>
+                <hi rend="bold">W</hi>here it falls into observac<ex>i</ex>on, that this High place is <lb/>
+            rarely well served but by men of Lawe, and p<ex>er</ex>sons of <lb/>
+            deepest Judgment in the statute and Com<ex>m</ex>on Lawes of <lb/>
+            the Land, whereby they may distinguish of Cases, <lb/>
+            whether they lye proper in that Court to bee releived <lb/>
+            in Equity, without intrenching on the Jurisdicc<ex>i</ex>on of the <lb/>
+            Kingdome, which is the old Inheritance of the Subject./
+         </p>
+         <p>
+            And thus have I briefly trau<ex>er</ex>sed the life and <lb/>
+            fortunes of this noble Lord, I shall now close it vpp <lb/>
+            in the Judgment of some noble Personages and <lb/>
+            Councellors of State, which with one consent, and <lb/>
+            within few dayes of his decease concluded thus.
+         </p>
+         <p>
+            That the King had lost a most noble Servant of State <lb/>
+            irreprovable in his place, and in his life &amp; Conu<ex>er</ex>sac<ex>i</ex>on <lb/>
+            of a very noble report, and that the Kingdome <lb/>
+            suffered in the losse with the King in this, That <lb/>
+            the roome of the Chancellor hath not been supplyed <lb/>
+            <fw type="catch" place="bot-right">with</fw> 
+            <pb n="[6r]" facs="/nro/hare_6515/hare_6515-006/hare_6515-006.jpg"/>
+            with his like within the memory of o<ex>u</ex>r Fathers. And (if <lb/>
+            report bee not iniurious to truth) his Ma<ex>jes</ex>tie in recom<ex>m</ex>ending <lb/>
+            the Seale to this Noble Gentleman, enjoyned him to <lb/>
+            tread in the Stepps of his Predecessors. <foreign xml:lang="LA">memoria Iustoru<ex>m</ex> <lb/>
+               remanebit in aeternum./</foreign>
+         </p>
+         <p>
+            Now to this little modell of his <unclear>praise</unclear> &amp; vertue, <lb/>
+            I know somewhat of Course may bee expected to bee <lb/>
+            said of his vices, for man is composd of humane flesh <lb/>
+            and fraylty, but the best of men are all subject vnto <lb/>
+            Error, <foreign xml:lang="LA">Justus septies in die labitur</foreign>
+         </p>
+         <p>
+            And who is hee which feeleth not in himselfe <lb/>
+            the force of his owne corrupt nature, and the Conta=<lb break="no"/>
+            =gion of o<ex>u</ex>r first Fathers Transgression streaming  <lb/>
+            through the vaynes of their infected Posterity? surely <lb/>
+            modest men may say, that this Nobleman had not the <lb/>
+            Priviledge of Canonizac<ex>i</ex>on to bee sainted in Earth <lb/>
+            and that nothing of blacknes could bee layd to his Eye <lb/>
+            during the whole Course of his life; But when wee <lb/>
+            consider his Estate now it is translated to another <lb/>
+            world <foreign xml:lang="LA">lignor post fatum quiescit</foreign>, and that <foreign xml:lang="LA">odium alti=<lb break="no"/>
+               =ssimum</foreign> and <unclear>mon</unclear>coculated Envy which is soe emphatically <lb/>
+            fabled in <foreign xml:lang="LA">Avarum et Invidum</foreign>, becomes checked by <lb/>
+            the respect of &gt;p<ex>ro</ex>fanac<ex>i</ex>on and feare of trampling on the <lb/>
+            sacred Ashes of the dead, yet am I not ignorant <lb/>
+            what murmurac<ex>i</ex>on hath passed on his integrity tacitely \, <lb/>
+            Charging it in implicite termes of playing the <lb/>
+            game dexteriously and closely, And that if our <lb/>
+            faults could bee all pencil'd in o<ex>u</ex>r foreheads, this <lb/>
+            <fw type="catch" place="bot-right">deceased</fw>
+            <pb n="[6v]" facs="/nro/hare_6515/hare_6515-007/hare_6515-007.jpg"/>
+            deceased Lord might then beare in front, sufficient <lb/>
+            Argum<ex>en</ex>ts of his humane frailty/.
+         </p>
+         <p>
+            Howsoeu<ex>er</ex> thus much I say, that could hee have been <lb/>
+            lymb'd to the life (and I beleeve it) wee should not <lb/>
+            find in him much of blemish, and that the mayne <lb/>
+            Objecc<ex>i</ex>on com<ex>m</ex>only inferr'd on the amassing of his wealth, <lb/>
+            could not well bee done in Justice, might bee Answered <lb/>
+            to the full in this, that his Patrimony considered, and <lb/>
+            that it was the gainefullnes of the places hee past <lb/>
+            thorough, together with the great fortunes of his owne <lb/>
+            and his sonnes intermarriages, all concurring and <lb/>
+            falling into a frugall Family might soone wipe <lb/>
+            away all imputac<ex>i</ex>ons of the most malignant, and <lb/>
+            p<ex>er</ex>swade even detracc<ex>i</ex>on itselfe to suffer him to rest in <lb/>
+            peace, and (as wee may charitably beleeve) in glory <lb/>
+            as his Posterity surviving remaines in his honor and <lb/>
+            fortunes./
+         </p>
+         <p rend="align-centre">
+            Finis.:./
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/nro/hare_6515/hare_6515-001/hare_6515-001.jpg"/>
+      <graphic n="2" url="/nro/hare_6515/hare_6515-002/hare_6515-002.jpg"/>
+      <graphic n="3" url="/nro/hare_6515/hare_6515-003/hare_6515-003.jpg"/>
+      <graphic n="4" url="/nro/hare_6515/hare_6515-004/hare_6515-004.jpg"/>
+      <graphic n="5" url="/nro/hare_6515/hare_6515-005/hare_6515-005.jpg"/>
+      <graphic n="6" url="/nro/hare_6515/hare_6515-006/hare_6515-006.jpg"/>
+      <graphic n="7" url="/nro/hare_6515/hare_6515-007/hare_6515-007.jpg"/>
+      <graphic n="8" url="/nro/hare_6515/hare_6515-008/hare_6515-008.jpg"/>
+   </facsimile>
 </TEI>

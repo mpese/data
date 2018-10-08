@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to Sir William Jones upon his being called to be Lord Chief Justice of Ireland</title>
+            <author>
+               <persName corresp="../people/people.xm#P0012">Francis Bacon</persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="../mss/BLSloaneMS3522.xml">
+               <msIdentifier xml:id="BL_Sloane_MS_3522">
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Sloane</collection>
+                  <idno>MS 3522</idno>
+                  <msName/>
+               </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Sloane MS 3522</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_39">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 39</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="Folger_MS_V_a_206">
+               <country>USA</country>
+               <settlement>Washington D.C.</settlement>
+               <repository>Folger Shakespeare Library</repository>
+               <collection/>
+               <idno>MS V.a.206</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/Alnwick_Castle_MS_526.xml">Alnwick Castle,  MS 526, ff. 5r–7v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 259v–260r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 81r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS39.xml">British Library, Harley MS 39, ff. 282r–283r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_Shelves_Gordounstoun_Box_5.xml">Beinecke Library, Osborn Shelves Gordounstoun Box 5, ff. 62r–64r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_fb59.xml">Beinecke Library, Osborn fb59</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/FolgerMSVa206.xml">Folger Shakespeare Library,  MS V.a.206, ff. 23r–24v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="BaconSpeechJonesv2.xml">Transcript</ref> of <ref type="ms" target="../mss/NorfRO_RYE_20.xml">Norfolk Record Office,  RYE 20, no. 3</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH83.xml">Northamptonshire Record Office,  FH83, ff. 7v–9v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_20.xml">Senate House, University of London,  MS 20, ff. 193v–195v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Senate_House_MS_300.xml">Senate House, University of London,  MS 300, ff. 65x–79x</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Woburn_Abbey_MS_192.xml">Woburn Abbey,  MS 192, pp133–136</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1617">1617</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>Court of King's Bench, Ireland</term>
+               <term>officeholding</term>
+               <term>law</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-05-25" who="#NM" status="proofread"/>
+            <change when="2017-10-04" who="#RB" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="28v"/>
+         <head>
+            Sir Frauncis Bacon Lord <lb/>
+            keeper of the great Seale of Eng=<lb break="no"/>
+            land his Speech to S<ex>i</ex>r William Ioanes <lb/>
+            Cheef Iustice of the kinges Bench <lb/>
+            in Ireland./.
+         </head>
+         <p>
+            S<ex>i</ex>r William Iones, the kinges most <lb/>
+            Exelent Ma<ex>jes</ex>tie beinge duely Informed of <lb/>
+            yo<ex>u</ex>r sufficiencie euery way, hath Called you lb
+            by his writt, now retourned to the State <lb/>
+            and degree of Serieant att lawe, But not <lb/>
+            to staie there beinge soe qualifyed to serue <lb/>
+            him as his cheef Iustice of his kinges Bench <lb/>
+            in his Realme of Ireland, And therefore <lb/>
+            <fw type="catch" place="bot-right">that that</fw>
+            <pb n="29r"/>that that I shall saie to you must be applyed, <lb/>
+            not to your Serieantes place which you take <lb/>
+            out in passage, But to that great place where <lb/>
+            you are to settle; And because I will not <lb/>
+            spend tyme to the delaie of the Businesses <lb/>
+            of Causes, and hearinges, I will leade you <lb/>
+            the shorte Iourney by Examples, and not <lb/>
+            the longe by preceptes./.
+         </p>
+         <p>
+            The place that you shall serue <lb/>
+            in, hath bin fortunate, to be well serued <lb/>
+            in fower successions before you; doe but <lb/>
+            take unto you the Constancye, and Inte=<lb break="no"/>
+            gritie of S<ex>i</ex>r Rob<ex>er</ex>te Gardner, The grauitie <lb/>
+            temper, and discretion of S<ex>i</ex>r Iames Lee, <lb/>
+            The quicknes, Industry, and dispatch of S<ex>i</ex>r <lb/>
+            Humphrey Winche; The Care, and <lb/>
+            Affecc<ex>i</ex>on to the Comon weale, And <lb/>
+            the prudent, and politique Administrac<ex>i</ex>on <lb/>
+            of S<ex>i</ex>r Iohn Denham; And you shall <lb/>
+            neede noe other lessons, They were all <lb/>
+            Lincolnes Inne men, as you are, you may <lb/>
+            haue knowne them as well in their be=<lb break="no"/>
+            ginings, as their Aduancementes; But because <lb/>
+            <fw type="catch" place="bot-right">you are</fw>
+            <pb n="29v"/>you are not to be there onelie Cheef Iustice, <lb/>
+            But a Councello<ex>u</ex>r of Estate, I will put you <lb/>
+            in minde of the great worke now in hande <lb/>
+            that you may doe accordingelie unto it; Ireland <lb/>
+            is that last Ex filijs Europiæ which hath <lb/>
+            come in, and hath bin reclaymed from <lb/>
+            desolation, and a desarte in many places <lb/>
+            to populac<ex>i</ex>on and plantac<ex>i</ex>on, And from <lb/>
+            Saluadge, and Barbarous Customes to hu=<lb break="no"/>
+            manitie, and Ciuillitie; This is the <lb/>
+            kings worke in cheef, It is the garland <lb/>
+            of heroicall virtue, and Felicitie, de=<lb break="no"/>
+            nyed to his Progenitors, and reserued to <lb/>
+            his times; The worke is not yet conducted <lb/>
+            to perfecc<ex>i</ex>on, But it is fayer Aduanced, And <lb/>
+            this I will saie Confidentlie That If <lb/>
+            God blesse that kingdome with Peace <lb/>
+            and Iustice, noe usurer is soe sure in <lb/>
+            7. yeares space to double his principall <lb/>
+            with Interest, and Interest, upon Interest <lb/>
+            as that kingdome is within the same tyme <lb/>
+            to double the Rest, and Principall thereof,
+            <fw type="catch" place="bot-right">yea, and</fw>
+            <pb n="30r"/>yea, and perhapps to treble it, soe as that <lb/>
+            kingdome <del rend="strikethrough">with</del> w<ex>hi</ex>ch once within theis xxtie yeares <lb/>
+            wise men were wont to doubte whether they should <lb/>
+            wishe it to be in/ a Poole, is like now almost to <lb/>
+            become a Garden, and a younger sister to <lb/>
+            great Brittaine, And therefore you must sett <lb/>
+            downe with yo<ex>u</ex>r self to be not onely a Iust <lb/>
+            Gouerner, and a good cheef Iustice (as If <lb/>
+            it were in England, But under the kinge <lb/>
+            and the Deputie you are to be a Master <lb/>
+            Builder, and M<ex>aster</ex>r Planter, and Reducer of <lb/>
+            Ireland, To w<ex>hi</ex>ch end I will trouble you <lb/>
+            att this tyme but with three directions./.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="RM">(1)</tei:add>The first is that you haue an Especiall <lb/>
+            Care of the three Plantac<ex>i</ex>ons that of <lb/>
+            the North w<ex>hi</ex>ch is in parte acted, that of <lb/>
+            Wexford which is now in destruction, and <lb/>
+            that of Longe Ford, and <sic>Retrum</sic> which is <lb/>
+            now in suruay; And take this from me <lb/>
+            that the Bane of a Plantac<ex>i</ex>on is when the <lb/>
+            vndertakers, or Planters make such hast to <lb/>
+            a little Mechanicall present profitt, as distur=<lb break="no"/>
+            beth the whole Frame, and noblenes of the <lb/>
+            worke for the time to come; Therefore <lb/>
+            <fw type="catch" place="bot-right">hold them</fw>
+            <pb n="30v"/>hold them to their Couenauntes, and the true Or=<lb break="no"/>
+            dinances of a Plantac<ex>i</ex>on./.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">.2.</tei:add>The second is that you be Carefull of <lb/>
+            the kings Reuenewe, and by little, and <lb/>
+            little Constitute him a good demeasne w<ex>hi</ex>ch <lb/>
+            hetherto is little or none, And the kings Cause <lb/>
+            wilbe hardiest when as euery mans land <lb/>
+            shalbe Improued in valew with encrease <lb/>
+            Mannifold, the kinge shalbe tryed to his drye <lb/>
+            Rent./.
+         </p>
+         <p>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">.3.</tei:add>My last direction (though first in weight) <lb/>
+            is that you doe all good Endeauo<ex>u</ex>rs to pro=<lb break="no"/>
+            ceede resolutely, and Constantly, and yet <lb/>
+            with due Temperance, and equalitie.) in <lb/>
+            matters of Religion, least Ireland Ciuill <lb/>
+            be worsse to vs then Ireland Saluadge./.
+         </p>
+         <p rend="indent">
+            After S<ex>i</ex>r William Jones his <lb/>
+            speech my lord sayed./.
+         </p>
+         <p>
+            I had forgott one thinge w<ex>hi</ex>ch is this, you <lb/>
+            may take exceedinge great Comfort that <lb/>
+            you shall serue with such a deputie One I <lb/>
+            thinke that is a man ordayned of god to <lb/>
+            doe great good to that kingedome, And this <lb/>
+            I thinke good to speake vnto you that the lb
+            <fw type="catch" place="bot-right">true</fw>
+            <pb n="31r"/>true temper of a cheef Iustice towards a <lb/>
+            deputie is neither seruilely to second him nor <lb/>
+            Factiously to oppose him./.
+         </p>
+      </body>
+   </text>
+</TEI>

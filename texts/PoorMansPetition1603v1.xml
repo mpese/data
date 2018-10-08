@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Poor Man's Petition</title>
+            <author/>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLAddMS22601.xml">
+               <msIdentifier xml:id="BL_Add_MS_22601">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22601</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Additional MS 22601</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="NorfRO_AYL186">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>AYL/186</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="All_Souls_College_MS_125">
+               <country>United Kingdom</country>
+               <settlement>Oxford</settlement>
+               <repository>All Souls College</repository>
+               <collection/>
+               <idno>MS 125</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_3787">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 3787</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_29607">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 29607</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/All_Souls_College_MS_155.xml">All Souls College,  MS 155, f. 5v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS3787.xml">British Library, Harley MS 3787, f. 181r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS160.xml">British Library, Lansdowne MS 160, ff. 228/230r, 232r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_29607.xml">British Library, Additional MS 29607, f. 17r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/HRO_44M69L39107.xml">Hampshire Record Office,  44M69/L39/107</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="text" target="PoorMansPetition1603v2.xml">Transcript</ref> of <ref type="ms" target="../mss/NorfRO_AYL186.xml">Norfolk Record Office,  AYL/186</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/SA_DDBK932c.xml">Somerset Archives,  DD\BK/9/3/2c</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_K56.xml">St John's College,  MS K.56, item 3, ir</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_K56.xml">St John's College,  MS K.56, item 4, ir</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_1.xml">The National Archives,  SP 14/1, /28A</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_14_1.xml">The National Archives,  SP 14/1, /28B</ref>
+                    </bibl>
+                </listBibl>
+            <listBibl xml:id="contemp_comment">
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_160">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Lansdowne</collection>
+                <idno>MS 160</idno>
+                <msName>Sir Julius Caesar's book</msName>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1603-05-07">7 May 1603</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>petition</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>offices</term>
+               <term>corruption</term>
+               <term>law</term>
+               <term>lawyers</term>
+               <term>monopolies</term>
+               <term>Cout of Wards</term>
+               <term>Court of Exchequer</term>
+               <term>Court of Chancery</term>
+               <term>merchants</term>
+               <term>customs and excise</term>
+               <term>royal parks</term>
+               <term>royal officers</term>
+               <term>anti-catholicism</term>
+               <term>puritanism</term>
+               <term>church government</term>
+               <term>church ministers</term>
+               <term>simony</term>
+               <term>soldiers</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-06-19" who="#SV" status="proofread"/>
+            <change when="2018-04-16" who="#RB" status="draft"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="10v" facs="/bl/add_ms_22601_part/add_ms_22601_f011v/add_ms_22601_f011v.jpg"/>
+         <head>
+            <tei:add xmlns:tei="http://www.tei-c.org/ns/1.0" place="LM">7 Maij. <lb/>1603</tei:add>
+            The poore mans Peticion <lb/>
+            to the Kinge.
+         </head>
+         <p>
+            1. Good Kinge let there be an vnifor:<lb break="no"/>
+            =mity in true Religion without <lb/>
+            disturbance of Papist or Puritan
+         </p>
+         <p>
+            2. Good K<ex>ing</ex> let good Preachers be well <lb/>
+            prouided for, and without any bri<lb break="no"/>
+            =bery come to their liuinges.
+         </p>
+         <p>
+            3. Good K<ex>ing</ex> let poore Souldio<ex>u</ex>rs be payd <lb/>
+            their wages while they be imployed <lb/>
+            and well prouided for, when they are <lb/>
+            <sic>maihmed</sic>./
+         </p>
+         <p>
+            4. Good K<ex>ing</ex> let there not be suche great <lb/>
+            deleys and craftie proceedinges in <lb/>
+            Lawe, and let Lawyers haue mode-<lb break="no"/>
+            =rate fees. A pox take the proude <lb/>
+            Couetous Attorney and merciless <lb/>
+            Lawyer.
+         </p>
+         <p>
+            5. Good K<ex>ing</ex> let poore Suito<ex>u</ex>rs be hearde <lb/>
+            quickly, and with speede dispat=<lb break="no"/>
+            --ched fauourablie./
+         </p>
+         <p>
+            6. Good K<ex>ing</ex> let no man haue more offi=<lb break="no"/>
+            =ces then one, espetiallie in <ex>th</ex>e Court <lb/>
+            or touchinge the Lawes.
+         </p>
+         <pb n="11r" facs="/bl/add_ms_22601_part/add_ms_22601_f011r/add_ms_22601_f011r.jpg"/>
+         <p>
+            7. Good K<ex>ing</ex> cutt of theis paltry licenses <lb/>
+            and all Monopolies: fye vpon a <lb/>
+            close bitinge Knauerie.
+         </p>
+         <p>
+            8. Good K<ex>ing</ex> suffer no great ordenance <lb/>
+            to be carried out of <ex>th</ex>e Realme to thy <lb/>
+            Enimies as it hath byn: A plague, <lb/>
+            vpon all couetous bitinge Treasoro<ex>u</ex>rs./
+         </p>
+         <p>
+            9. Good K<ex>ing</ex> let ordinarie Causes be deter=<lb break="no"/>
+            =mined in thy ordinarie Courts, and let  <lb/>
+            not <ex>th</ex>e Chancerie be made a common <lb/>
+            shiftinge place to prolonge causes for <lb/>
+            priuate gaines.
+         </p>
+         <p>
+            10. Good K<ex>ing</ex> looke to thy Takers &amp; officer<unclear reason="cropped">s</unclear> <lb/>
+            of thy house and to their exceedinge <lb/>
+            fees, that pull and gelde fro<ex>m</ex> thy <lb/>
+            princely allowau<ex>n</ex>ce./
+         </p>
+         <p>
+            11. Good K<ex>ing</ex> let not vs be oppressed w<ex>i</ex>th <lb/>
+            so many Impositions, powlinges <lb/>
+            and payments./
+         </p>
+         <p>
+         12 Remember thy Infants Court who in <lb/>
+            Warde do euer remaine w<ex>i</ex>th Ideots <lb/>
+            &amp; Nediotes, so longe as they haue <lb/>
+            either wooll or lead: Their trees are <lb/>
+            not windshaken, and yet downe they <lb/>
+            are fallen: a Guifte for a Prince more
+            <pb n="11v" facs="/bl/add_ms_22601_part/add_ms_22601_f012v/add_ms_22601_f012v.jpg"/>
+            fitt, then for Crookback who would haue all./
+         </p>
+         <p>
+            13 Looke to thy Exchequo<ex>u</ex>r where Subiects be all <lb/>
+            cheaked by Osborne and Fanshaw, thy <lb/>
+            Tellers &amp; Audito<ex>u</ex>rs. Also whose Dames <lb/>
+            are not contented w<ex>i</ex>th M<ex>ast</ex>res but Ladilike <lb/>
+            do goe, wee dare not speake their treaso<ex>u</ex>r <lb/>
+            is so greate, but weale &amp; lament, and <lb/>
+            vnder the burthen of Milles &amp; Roper <lb/>
+            Offices do daylie groane./
+         </p>
+         <p>
+            14. Looke vnto thy houses Parkes &amp; forrests. <lb/>
+            howe downe and bare they bee. <lb/>
+            And then what Courtier keepes them <lb/>
+            maye you easily see:/
+         </p>
+         <p>
+            15. Forgett not thy Marchants howe w<ex>i</ex>th <lb/>
+            Customes they be opprest. I meane  <lb/>
+            not <ex>th</ex>e Vsurer what callinge so euer <lb/>
+            he be, Let him within thy Realme haue <lb/>
+            little rest./
+         </p>
+         <p>
+            16 Good K<ex>ing</ex> <del rend="strikethrough">let</del>
+                <add place="above">make</add> not lo<ex>rd</ex> of good Linc<ex>oln</ex> Duke of <lb/>
+            Shorditche for is a &amp;c:
+         </p>
+         <p>
+            17 Good K<ex>ing</ex> make not Sr W.R. Erle of Pan=<lb break="no"/>
+            =cridge for he is a &amp;c.
+         </p>
+         <p>
+            Good Kinge loue vs &amp; we will loue <lb/>
+            thee, and will spend o<ex>u</ex>r harts bloods <lb/>
+            for thee./
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22601_part/add_ms_22601_f011v/add_ms_22601_f011v.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22601_part/add_ms_22601_f011r/add_ms_22601_f011r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22601_part/add_ms_22601_f012v/add_ms_22601_f012v.jpg"/>
+   </facsimile>
+</TEI>

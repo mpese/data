@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A Colletion of Some Graces</title>
+            <title>A Collection of Some Graces</title>
             <author>
                <persName corresp="../people/people.xml#P0194">Sir Henry Neville</persName>
             </author>
@@ -22,12 +22,46 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="RC">
+               <name>Ros Clements</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="HW">
+               <name>Helen Ward</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="KW">
+               <name>Kerry Wolf</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="PM">
+               <name>Peter Macrae</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/SHC_LM1778.xml">
+               <msIdentifier xml:id="SHC_LM1778">
+               <country>United Kingdom</country>
+               <settlement>Woking</settlement>
+               <repository>Surrey History Centre</repository>
+               <collection/>
+               <idno>LM/1778</idno>
+               <msName/>
+            </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
@@ -62,6 +96,10 @@
             <date when="1614">1614</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term/>
@@ -69,7 +107,7 @@
          </textClass>
          <textClass>
             <keywords n="topic-keyword">
-               <term/>
+               <term>parliament</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -80,13 +118,208 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-10-02" who="#SV" status="proofread"/>
+            <change when="2018-09-25" who="#RB" status="drafted"/>
+            <change when="2018-08-20" who="#RC" status="transcribed"/>
+            <change when="2018-08-20" who="#HW" status="transcribed"/>
+            <change when="2018-08-20" who="#KW" status="transcribed"/>
+            <change when="2018-08-20" who="#PM" status="transcribed"/>
+            <change when="2018-08-20" who="#TW" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="[1r]" facs="/shc/LM_1778/LM_1778_1of3/LM_1778_1of3.jpg"/>
+         <head rend="align-centre">
+            A Collection of such things as have bin by severall <lb/>
+            Men desired to be obtained of his Ma<ex>jes</ex>tie for the good <lb/>
+            of his people.
+         </head>
+         <p rend="align-centre">
+            A lawe to be made for the declarac<ex>i</ex>o<ex>n</ex> of all Treasons
+         </p>
+         <p>
+            Hereby is not ment to alter the lawe, or to make any thing not to be treason <lb/>
+            that nowe is, but onely to declare what is treason, that every man may know it and <lb/>
+            avoid it, and not fall vppon a hidden rock, before he be aware, and that it may not be <lb/>
+            in the power of a iudge, by inference or a superinduced interpretac<ex>i</ex>on, to ruin a man <lb/>
+            and his posteritie /.
+         </p>
+         <p rend="indent">
+            That it may be lawfull for the subiect to pleade not guiltie to an <lb/>
+            informac<ex>i</ex>on of intruc<ex>i</ex>on exhibited by the Kings Attorney, and in the mean <lb/>
+            tyme till the matter be tried to kepe possession
+         </p>
+         <p>
+            This can noe way preiudice the Kings iust title, for if he hath right, it must take <lb/>
+            place for all this pleading, and for the possession, chiefly it relieveth the subiects in sutes <lb/>
+            commenced against them in the Kings <del rend="strikethrough">benche</del> name vppon a surmese, where it standeth <lb/>
+            w<ex>i</ex>th great iustice to helpe them till the surmese be proved.
+         </p>
+         <p rend="indent">
+            That noe man be forced to aunswere or traverse any office <add place="above">or</add> Inquisico<ex>n</ex> <lb/>
+            found for the King out of any Court, Vntill there were notice first given <lb/>
+            to the p<ex>ar</ex>ties whom it concernes, and who ar to receave preiudice by it
+         </p>
+         <p>
+            The meaning of this is to prevent the secret findings of offices, w<ex>i</ex>thout calling <lb/>
+            them to it whom it concerneth, wherby many men ar infinetly Vexed and trobled <lb/>
+            whoe if they had bin called at the first, cold have shewed sufficient matter for their <lb/>
+            discharge, and this can noe way preiudice the King; but onely serveth to free the <lb/>
+            subiect from vniust Vexac<ex>i</ex>on
+         </p>
+         <p rend="indent">
+            That the Kings graunts and his progenitors may be construed as com<ex>m</ex>on <lb/>
+            persons grauntes, and that all the Kings, and his progenetors Patents <lb/>
+            of landes or leases, not already ouerthrowen by Iudgment, may be <lb/>
+            confirmed
+         </p>
+         <p>
+            This is a matter of great grace, yet agreeing w<ex>i</ex>th the Rules of generall equitie <lb/>
+            and not like to preiudice his Ma<ex>jes</ex>tie much in profit, because all patents have bin al <lb/>
+            ready so narrowly sifted, that whatsoever have not bin alredy Impeached, may be well <lb/>
+            presumed to be w<ex>i</ex>thout desert.
+         </p>
+         <p rend="indent">
+            That noe fees hensforth be paied in the Exchequ<ex>e</ex>r by Sherifes Escheto<ex>rs</ex> <lb/>
+            Collectors of subsidies, tenthes fiftenes or Aids vppon their Accompts <lb/>
+            and that a tyme may be limited to all officers respectively to whom it <lb/>
+            may belong, to receave their accompts, after they be tendred, and to give <lb/>
+            them a discharge, vppon a payne, seeing these men take pains in <lb/>
+            the Kings service w<ex>i</ex>thout any Reward.
+         </p>
+         <p>
+            This concerneth his Ma<ex>jes</ex>tie nothing at all, but only byndethe the Vnmeasurable <lb/>
+            covertousnes of the Exchequer men, who exact vppon the accomptants beyond all <lb/>
+            reason vnder color of expedic<ex>i</ex>on, and such other diveces /
+         </p>
+         <pb n="[1v]" facs="/shc/LM_1778/LM_1778_2of3/LM_1778_2of3.jpg"/>
+         <p rend="indent">
+            That noe man be forced to pleade any alienac<ex>i</ex>on in the Exchequ<ex>e</ex>r, for <lb/>
+            w<ex>hi</ex>ch he hath taken any <unclear>license</unclear> or p<ex>ar</ex>don, vnder the great seale <lb/>
+            but the Clarks of that Court to take notice, of that licens or p<ex>ar</ex>don <lb/>
+            being, of Record, at their p<ex>er</ex>ill, or at least vppon sight of the <lb/>
+            licens or p<ex>ar</ex>don, to forbeare, to troble him that hath sued them out.
+         </p>
+         <p>
+            This likewise concernes the King nothing at all, but only the officers of the <lb/>
+            Exchequ<ex>e</ex>r, who for their privat gaine inforce <unclear>men</unclear> to pleade, that w<ex>hi</ex>ch was of Record <lb/>
+            before, by w<ex>hi</ex>ch the King hath no benefit.
+         </p>
+         <p rend="indent">
+            A liberall p<ex>ar</ex>don to be graunted by his Ma<ex>jes</ex>tie wherein these pointes <lb/>
+            following may be <unclear>included</unclear>, besides those contained in the last p<ex>ar</ex>don <lb/>
+            viz. <lb/>
+            All debts arising before the deathe of Q. Elizabeth, except such as <lb/>
+            <del rend="strikethrough">ab</del> are stalled, by a yearly paiment.
+         </p>
+         <p>
+            This is much in shewe, and every man will be glad to be secured, yet is nothing <lb/>
+            to the King to graunt, because the debts to the Crowne before that tyme have bin so <lb/>
+            narrowly sefted, as there is small probabilitie, that there remains anything <lb/>
+            vnlavied. 
+         </p>
+         <p rend="indent">
+            All alienacons vppon estates of inheretans, or estates for lief, <lb/>
+            before the last of Marche A<ex>nn</ex>o 9 of the Kings Ma<ex>jes</ex>tie/
+         </p>
+         <p>
+            There is noe great dowbt, but the Alienac<ex>i</ex>ons made before, and not compounded <lb/>
+            for, have bin by this tyme <unclear>discovered</unclear>, or if any have escaped, it is so litle, as is <lb/>
+            not considerable.  And besides this is a thing, was alwayes vsed to be p<ex>ar</ex>doned <lb/>
+            till the xiijth yere of Q<ex>ueen</ex> Eliza<ex>beth</ex> when my Lo<ex>rd</ex> of Lecester had a purpose to <lb/>
+            farme the fines for alienac<ex>i</ex>on at a Rent, as I have bin informed /,
+         </p>
+         <p rend="indent">
+            All concealed Wardes, whose Auncestors died, before the last of March <lb/>
+            A<ex>nn</ex>o <space extent="8" unit="chars"/> of the Kings Ma<ex>jes</ex>tie and noe office found /,
+         </p>
+         <p>
+            It may be well presumed, that the diligens of Feodaries, and Eschetors, and the gredines <lb/>
+            of those that gaped after such sutes, have left nothing unsefted, and discovered in <lb/>
+            that kind, therfore it will be a matter of smale losse to the King to graunt, and <lb/>
+            may secure the subiect from much vexac<ex>i</ex>on, that wee knowe in com<ex>m</ex>on experiens <lb/>
+            they suffer vnder that pretens
+         </p>
+         <p rend="indent">
+            All fines and amerciaments in any of the Kings Courts of <lb/>
+            Iustice, imposed before the last of September A<ex>nn</ex>o 9o of the King <lb/>
+            and yet not levied /
+         </p>
+         <p>
+            Those profits ar graunted away for the most p<ex>ar</ex>te, and the grauntees doe not <lb/>
+            vse to be slack, in the levyeng of them, therefore it may well pas in the Ranck <lb/>
+            of the former.
+         </p>
+         <p rend="indent">
+            All Trespasses on forrests, parkes, Chases, concerning Vert <lb/>
+            and Venison.
+         </p>
+         <pb n="[2r]" facs="/shc/LM_1778/LM_1778_2of3/LM_1778_2of3.jpg"/>
+         <p>
+            If it be exa<ex>mine</ex>d what profit the king hath made of the Iustice seates whi<ex>ch</ex> have bin <lb/>
+            holden sins his Raign, I thinck there will noe such benefit appeare, that the king <lb/>
+            shold be discouraged from graunting his grace to his people, w<ex>hi</ex>ch I confesse I <lb/>
+            have <unclear>inserted</unclear> the rather, <del rend="strikethrough">b</del> becaus the former doe all concerne Landed men <lb/>
+            of som wealth <unclear>onely</unclear>; and this may happely breede peace, and contentment to the <lb/>
+            poorer sort w<ex>hi</ex>ch must not be altogether neglected. These points I have <lb/>
+            collected, from the desires of severall men, som gent<ex>lemen</ex>, some Lawyers, whoe <lb/>
+            if they have miscaried my iudgment in any point owt of the compas of my <lb/>
+            profession, I hope I shall be p<ex>ar</ex>doned: but for the triall of it, I humbly <lb/>
+            desire his Ma<ex>jes</ex>tie will be pleased, to call his learned Councell, Vppon a suddayn <lb/>
+            and examine them, what losse or damage certaine, or what preiudice they <lb/>
+            conceave it will be to his Ma<ex>jes</ex>tie to dep<ex>ar</ex>te w<ex>i</ex>th these things, and of what <lb/>
+            value they doe esteeme them: for surely wee ayme not to take from his <lb/>
+            Ma<ex>jes</ex>tie any matter of Value, but only some smale things, w<ex>hi</ex>ch may be abundantly <lb/>
+            recompenced in the gift he may expect from his people: and if it fall <lb/>
+            out otherwise in the p<ex>ar</ex>ticulars, wee ar mistaken in them.     Besides <lb/>
+            these there were 8 other pointes offered by the Lordes in the Kings <lb/>
+            name, and delivered as I remember in writing, after the treaty of <lb/>
+            Contract was broken of. Viz.
+         </p>
+         <p rend="indent">
+            That 60 years possession shold be sufficient to prescribe <lb/>
+            against the King
+         </p>
+         <p rend="indent">
+            That noe lease of the Kings Landes shold be avoided for <lb/>
+            none paiment of the rent at the iust daye, but the penalty <lb/>
+            for default to be doble the rent 
+         </p>
+         <p rend="indent">
+            Respit of homage to be wholy taken awaye
+         </p>
+         <p rend="indent">
+            Noe assart or drowned landes to be called in question
+         </p>
+         <p rend="indent">
+            Noe imposic<ex>i</ex>ons Vppon Com<ex>m</ex>odities exported, or imported <lb/>
+            hensforth to be raised w<ex>i</ex>thout consent of the P<ex>ar</ex>liament
+         </p>
+         <p rend="indent">
+            The statute to be repealed concerning the altering of <lb/>
+            the lawes of Wales	
+         </p>
+         <p rend="indent">
+            Obsolete and vnprofitable lawes to be repealed
+         </p>
+         <p rend="indent">
+            Forfetures vppon penall lawes, to be torned into som <lb/>
+            other Kind of Correction
+         </p>
+         <p>
+            These I meddle not w<ex>i</ex>th because they were publicqely offered, and many <lb/>
+            thowsand copies dispersed of them, and therfore I shall neede to give <lb/>
+            noe reason for them, because they were free offers on his Ma<ex>jes</ex>ties p<ex>ar</ex>te of <lb/>
+            his abundant grace, Wherefore there is noe reason to be given but his <lb/>
+            own goodnes/.
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/shc/LM_1778/LM_1778_1of3/LM_1778_1of3.jpg"/>
+      <graphic n="2" url="/shc/LM_1778/LM_1778_2of3/LM_1778_2of3.jpg"/>
+      <graphic n="3" url="/shc/LM_1778/LM_1778_3of3/LM_1778_3of3.jpg"/>
+   </facsimile>
 </TEI>

@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to the King, attributed to the Duke of Lennox</title>
+            <author>
+               <persName corresp="../people/people.xml#P0080">
+                  Pseudo-Lennox
+               </persName>
+            </author>
+            <author role="attributed">
+               <persName corresp="../people/people.xml#P0081">
+                  James Stewart, Duke of Lennox
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+                    <name>Noah Millstone</name>
+                    <resp>Principal Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="SV">
+                    <name>Sebastiaan Verweij</name>
+                    <resp>Co-Investigator MPESE</resp>
+                </respStmt>
+            <respStmt xml:id="RB">
+                    <name>Richard Bell</name>
+                    <resp>Research Associate</resp>
+                </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+                    <name>Mike Jones</name>
+                    <resp>Research Software Engineer</resp>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+                <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+                <date when="2017">2017</date>
+            </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/BLHarleyMS4931.xml">
+               <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+                    <p xml:id="ms-label-generated">British Library, Harley MS 4931</p>
+            </msDesc>
+            
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="NorfRO_HMN_7307_772x8">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>HMN 7/307, 772X8</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_288">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 288</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6284">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6284</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_69392">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 69392</idno>
+               <msName>Dropmore Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_23146">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 23146</idno>
+                <msName>Diary of the Rev. Thomas Dugard</msName>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated">
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS23146.xml">British Library, Additional MS 23146, f. 78r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLAddMS28011.xml">British Library, Additional MS 28011, ff. 64r–65v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS1576.xml">British Library, Harley MS 1576, ff. 283r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLHarleyMS6284.xml">British Library, Harley MS 6284, ff. 10r–11r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BLLansdowneMS1232.xml">British Library, Lansdowne MS 1232, ff. 49r–51r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_69392.xml">British Library, Additional MS 69392, ff. 64r–65r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Add_MS_72432.xml">British Library, Additional MS 72432, ff. 85r–86v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Harley_MS_1219.xml">British Library, Harley MS 1219, ff. 403r–408r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Sloane_MS_650.xml">British Library, Sloane MS 650, ff. 55r–58r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/BL_Stowe_MS_288.xml">British Library, Stowe MS 288, ff. 1r–4r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_OSB_MSS_28.xml">Beinecke Library, OSB MSS 28, Box 2, Folder 24, item 34</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_12601.xml">Beinecke Library, Osborn File 12601, ff. 1–7</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_12602.xml">Beinecke Library, Osborn File 12602</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_6557.xml">Beinecke Library, Osborn File 6557</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_8986.xml">Beinecke Library, Osborn File 8986</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Beinecke_Osborn_File_8987.xml">Beinecke Library, Osborn File 8987</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Ashmole_830.xml">Bodleian Library,  MS Ashmole 830, ff. 211r–212v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Bodl_MS_Nalson_19.xml">Bodleian Library,  MS Nalson 19, ff. 1r–3v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/CUL_MS_Dd364.xml">Cambridge University Library,  MS Dd.3.64, ff. 125r–126v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/DUL_MSP_9.xml">Durham University Library, MSP 9, reversing the volume, 31–33</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Folger_MS_V_a_248.xml">Folger Shakespeare Library,  MS V.a.248, ff. 63r–66r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/JRL_Mainwaring_MS_15.xml">John Rylands Library, Mainwaring MS 15, loose bifolium</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorfRO_HMN_7307_772X8.xml">Norfolk Record Office,  HMN 7/307, 772X8, ff. 177r–179r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_FH854.xml">Northamptonshire Record Office,  FH854</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/NorthsRO_IC_3596.xml">Northamptonshire Record Office, IC 3596</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_HL_PO_JO_10_1_38.xml">Parliamentary Archives,  HL/PO/JO/10/1/38, ff. 17r–18r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/PA_WDR_1.xml">Parliamentary Archives,  WDR/1, ff. 38r–v</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/St_Johns_College_Cambridge_MS_S37.xml">St John's College,  MS S.37, ff. 24v–26r</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_395.xml">The National Archives,  SP 16/395, /56 [ff.117r–118v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_408.xml">The National Archives,  SP 16/408, /110 [ff.222r–223v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_408.xml">The National Archives,  SP 16/408, /111 [ff.224r–225r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_408.xml">The National Archives,  SP 16/408, /112 [ff.225r–v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_537.xml">The National Archives,  SP 16/537, /147 [ff.199r–200v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_537.xml">The National Archives,  SP 16/537, /148 [ff.201r–202v]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/TNA_SP_16_537.xml">The National Archives,  SP 16/537, /149 [ff.204r–205r]</ref>
+                    </bibl>
+                    <bibl>
+                        <ref type="ms" target="../mss/Trinity_Cambridge_MS_R54.xml">Trinity College,  MS R.5.4, item 26</ref>
+                    </bibl>
+                </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1638">1638</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+               <term>false attribution</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>war</term>
+               <term>Bishops' Wars</term>
+               <term>Scotland</term>
+               <term>kingship</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="proofread" who="#SV" when="2018-06-12"/>
+         <change status="draft" who="#RB" when="2017-11-09"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb n="35r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f035r/harley_ms_4931_f035r.jpg"/>
+         <head>
+            The Duke of Leonax.
+            <add place="RM">
+               Its a fained thing, made <lb/>
+               &amp; scattered abroad, An. 1639, <lb/>
+               w<ex>he</ex>n <ex>th</ex>e K<ex>ing</ex> first intended war ag<ex>ains</ex>t <lb/>
+               Scotland.
+            </add>
+         </head>
+         <p>
+            Most gratious Soveraigne,
+         </p>
+         <p>
+            I am not alltogether unsensible of <ex>th</ex>e businesse, wherin I am now called to <lb/>
+            giue my advise, I know <ex>tha</ex>t I shall suffer some disadvantage because I am a <lb/>
+            Scott by nation, &amp; education, &amp; <ex>th</ex>e best blood <ex>tha</ex>t runns in my veines I haue extraited <lb/>
+            from thence. What I shall now speake examine.
+         </p>
+         <p>
+            Some p<ex>er</ex>happs may impute as p<ex>ro</ex>ceeding from <ex>th</ex>e streame of affection to <ex>th</ex>e <lb/>
+            place, &amp; people from whence I come, but I p<ex>ro</ex>test my zeale to yo<ex>u</ex>r Ma<ex>jes</ex>tie shall <lb/>
+            at this time suspend <ex>th</ex>e agitation of such principles, &amp; I will sett aside all p<ex>ar</ex>ticular <lb/>
+            relation, &amp; looke upon <ex>th</ex>e question as it is, &amp; not as passion, or affection may sett <lb/>
+            it forth.
+         </p>
+         <p>
+            The question is concerning Warre, an unknowne subj<ex>ec</ex>t, sweete to yo<ex>u</ex>s <ex>tha</ex>t haue <lb/>
+            not tried it, <ex>th</ex>e worst of Warre is commonly in <ex>th</ex>e close, and in <ex>th</ex>e conclu-<lb break="no"/>
+            sion of <ex>th</ex>e most advantagious warre <ex>tha</ex>t ever was (all reckonings being cast up) <lb/>
+            the conqueror hath had little wherof to glory. 
+         </p>
+         <p>
+            But this is not a warre betweene a king, &amp; a stranger, but betweene a Sove<lb break="no"/>
+            raigne, &amp; his subi<ex>ec</ex>ts, a neare relation, &amp; there had neede bee weighty motives <ex>tha</ex>t <lb/>
+            shold dissolue this knott. Subj<ex>ec</ex>ts are easily lost, we see it in the worke of ev<ex>er</ex>y <lb/>
+            day, but once lost, hardly regained. Affections are like Chrystall glasses, w<ex>hi</ex>ch be-<lb break="no"/>
+            ing once broken, no art, or cement can soder againe.
+         </p>
+         <p>
+            But these are not such subj<ex>ec</ex>ts, as <ex>th</ex>e kingly p<ex>ro</ex>phett speakes of, A people w<ex>ho</ex>m <lb/>
+            I know not, shalbe subi<ex>ec</ex>t to me, but yo<ex>u</ex>r Ma<ex>jes</ex>ty may say of <ex>the</ex>m as Adam s<ex>ai</ex>d <lb/>
+            of Eue, This is bone of my bone, &amp; flesh of my flesh; or rather as David <lb/>
+            of his Subj<ex>ec</ex>ts in <ex>th</ex>e day of his Inauguration, For my bretheren, &amp; companions <lb/>
+            sake &amp;c. yo<ex>u</ex>r Ma<ex>jes</ex>ty being theirs. &amp; they yours by a double righte; you are not <lb/>
+            rex factus, but Rex natus; &amp; <ex>the</ex>rfore <ex>th</ex>e union being so streight, <ex>th</ex>e motives had need <lb/>
+            be weighty to dissolue <ex>th</ex>e same, <ex>th</ex>e reasons had need be very solid. <ex>tha</ex>t should cause <lb/>
+            a wise, &amp; sober man to sett his owne house on fire, or destroy <ex>th</ex>e worke of <lb/>
+            his owne hands.
+         </p>
+         <p>
+            Let us now consider of 2 things .1. The Necessity of <ex>th</ex>e Warre .2ly <ex>th</ex>e Motiues <lb/>
+            to it; whether any of <ex>the</ex>m be of such moment, <ex>tha</ex>t a king shold hazard <ex>th</ex>e uncertaine <lb/>
+            chance of warre, &amp; <ex>th</ex>e miseries <ex>tha</ex>t do accompany <ex>th</ex>e same, rather <ex>the</ex>n to refuse it. For <lb/>
+            First it is a good observac<ex>i</ex>on of Tacitus <ex>tha</ex>t <foreign xml:lang="la">Bellu<ex>m</ex>
+                </foreign> shold be his <foreign xml:lang="la">Ultimu<ex>s</ex> Re-<lb break="no"/>
+               fugeu<ex>m</ex>
+                </foreign>, <ex>th</ex>e last, because <ex>th</ex>e worst refuge; And if we consider <ex>th</ex>e wisest kings <ex>tha</ex>t <lb/>
+            haue worne, or carried scepters w<ex>i</ex>thin latter times, we shall find how willing they <lb/>
+            haue beene to decline <ex>th</ex>e stroake of Warre allmost upon any termes. If yo<ex>u</ex>r Ma<ex>jes</ex>ty <lb/>
+            considers <ex>th</ex>e practice of Lewis <ex>th</ex>e 11th of France, &amp; of Henry <ex>th</ex>e 7th of England, <lb/>
+            in <ex>th</ex>e large list, &amp; catalogue of all <ex>th</ex>e kings of latter times you cannot point out two <lb/>
+            of more deepe, &amp; p<ex>ro</ex>found iudgm<ex>en</ex>t, &amp; better versed in <ex>th</ex>e mysteries of goverm<ex>en</ex>t
+            <fw type="catch" place="bot-right">yet</fw>
+            <pb n="35v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f035v/harley_ms_4931_f035v.jpg"/> 
+            yet w<ex>ha</ex>t meanes they used, or rather left not <del rend="strikethrough">unf</del> <unclear>unusued</unclear> to decline, &amp; divert <lb/>
+            the course of warre, if at any times it came w<ex>i</ex>thin <ex>thei</ex>r channells, appeares by <ex>thei</ex>r <lb/>
+            courses, in <ex>tha</ex>t they esteemed it noe dishonour to yield unto <ex>thei</ex>r subj<ex>ec</ex>ts demands,
+            though somtimes uniust, &amp; unreasonable; Nay they are to be the first seekers, &amp; <lb/>
+            propounders of peace, &amp; so by those meanes when the storme hath beene over, <lb/>
+            &amp; things came to be debated upon the greene carpett, they became M<ex>aste</ex>rs of <lb/>
+            their owne endes, &amp; of <ex>thei</ex>r subj<ex>ec</ex>ts affections, &amp; became victours w<ex>i</ex>thout striking <lb/>
+            These wise Kings did consider, <ex>tha</ex>t the end of warre was uncertaine, &amp; <ex>th</ex>e event <lb/>
+            various, &amp; he <ex>tha</ex>t com<ex>m</ex>itts one errour in warre, especially when <ex>th</ex>e seat <ex>there</ex>of is in <lb/>
+            his owne Kingdome, seldome liues to com<ex>m</ex>itt a 2d; we need not goe farre for <lb/>
+            instances, Richard <ex>th</ex>e 2d, &amp; Edward <ex>th</ex>e 2d wilbe fresh pr<ex>e</ex>sidents for any <ex>tha</ex>t shall desire <lb/>
+            to buy <ex>th</ex>e experience <ex>there</ex>of from such deare termes as they did. It shold be in <ex>th</ex>e <lb/>
+            body politicke as in <ex>th</ex>e body naturall, phlebotomy shold never be used but when <lb/>
+            some humours are <add place="above">so</add> pr<ex>e</ex>dominant, <ex>tha</ex>t no other course will remoue <ex>the</ex>m, &amp; <ex>tha</ex>t they will occasi-<lb break="no"/>
+            on a dissolution unles they be expelled. But (blessed be <ex>th</ex>e Lord) here is no such <lb/>
+            necessity in this case; there are sundry rough, &amp; crabbed humours in <ex>th</ex>e body <lb/>
+            politick, <ex>tha</ex>t cannot be denied, &amp; some of <ex>the</ex>m (it may be) do worke obstructions <lb/>
+            in some of <ex>th</ex>e lesser pipes of governm<ex>en</ex>t, but <foreign xml:lang="la">vena Basilica</foreign> and <foreign xml:lang="la">vena Cava</foreign> are <lb/>
+            full, &amp; <ex>th</ex>e royall spirits in <ex>the</ex>m haue <ex>thei</ex>r full current, &amp; their proper influence, &amp; <lb/>
+            motion w<ex>i</ex>thout any opposition; what is <ex>the</ex>n to be donne? force is not fitt for every <lb/>
+            subj<ex>ec</ex>t, some humours are expelled by lenitiues, when as purgations make <ex>the</ex>m <lb/>
+            more malignant.
+         </p>
+         <p>
+            There are 3 meanes to be used, <ex>tha</ex>t haue not yett beene tried, any of w<ex>hi</ex>ch is better <lb/>
+            <ex>the</ex>n <ex>th</ex>e meanes pr<ex>e</ex>scribed.
+         </p>
+         <p>
+            <add place="LM">1.</add>
+            First, remoue <ex>th</ex>e occasion. this can be no impeachm<ex>en</ex>t to <ex>th</ex>e sceptre, <ex>th</ex>e wisest <lb/>
+            Kings haue had <ex>thei</ex>r oversight in governm<ex>en</ex>t, w<ex>hi</ex>ch a wiser day hath taught <ex>the</ex>m to re-<lb break="no"/>
+            call; yo<ex>u</ex>r father raighned gloriously, &amp; com<ex>m</ex>anded <ex>th</ex>e affections as well as the bodies <lb/>
+            of <ex>th</ex>e Scotts, &amp; yet hee nev<ex>er</ex> sought <ex>th</ex>e obtruding <space unit="chars" extent="30"/> and yet <lb/>
+            no man was more zealous of kingly governm<ex>en</ex>t <ex>tha</ex>n he. It is an act of <ex>th</ex>e extreamest <lb/>
+            folly to hazard <ex>th</ex>e substance for <ex>th</ex>e shadow, not worthy <ex>th</ex>e contending for, &amp; if yo<ex>u</ex>r <del rend="strikethrough">Ma</del> <lb/>
+            Ma<ex>jes</ex>ty w<ex>e</ex>r<ex>e</ex> maister of yo<ex>u</ex>r owne desine, it wold not add one cubite to yo<ex>u</ex>r stature.
+         </p>
+         <p>
+            <add place="LM">2.</add>
+            If this like not, <ex>the</ex>n let time worke it out, &amp; by this meanes they will either swallow <lb/>
+            the hooke, or endure <ex>th</ex>e proposall w<ex>i</ex>th lesse regreet. Distastfull things make most <lb/>
+            at first, lesse afterwards, by degrees yo<ex>u</ex>r Ma<ex>jes</ex>ty may worke <ex>the</ex>m to <ex>tha</ex>t, w<ex>hi</ex>ch for <ex>th</ex>e pr<ex>e</ex>sent <lb/>
+            they will rather dy <ex>tha</ex>n embrace, we see how <ex>th</ex>e Romans by degrees brought a roi<lb break="no"/>
+            all slavery upon <ex>th</ex>e whole world, w<ex>hi</ex>ch if they had first propounded in downrig<supplied reason="guttering">ht</supplied> <lb/>
+            termes, had hardly beene accomplished, if ever. So Norman William by degrees <lb/>
+            brought <ex>th</ex>e English to weare <ex>th</ex>e yoake, w<ex>hi</ex>ch if it had at first beene tendered, he <lb/>
+            either must haue missed his aime, or had no people on whom to impose it, So <lb/>
+            impatient then w<ex>e</ex>r<ex>e</ex> <ex>th</ex>e English to heare of a conquerour, or to be branded w<ex>i</ex>th the <lb/>
+            name of a conquerred Nation.
+         </p>
+         <pb n="36r" facs="/bl/harley_ms_4931_part/harley_ms_4931_f036r/harley_ms_4931_f036r.jpg"/>
+         <p>
+            Wee see the way to conquerre is somtimes to fly; what if yo<ex>u</ex>r Ma<ex>jes</ex>ty <lb/>
+            shold seeme to yeild in this matter to <ex>th</ex>e Scotts demands; &amp; give <ex>the</ex>m <ex>th</ex>e ad-<lb break="no"/>
+            vantage of a faire game, cannott yo<ex>u</ex>r Ma<ex>jes</ex>ty remoue <ex>th</ex>e obstacle by degrees, <lb/>
+            turning <ex>th</ex>e humour some other wayes; waite <ex>the</ex>n a more seasonable opportunity <lb/>
+            to serue in these things w<ex>i</ex>th instrum<ex>en</ex>ts more fitt, &amp; lesse subi<ex>ec</ex>t to exception. <lb/>
+            the proposall of this course I shold hold more safe, &amp; more secure <ex>the</ex>n <ex>th</ex>e cru-<lb break="no"/>
+            ell one of <ex>th</ex>e sword, w<ex>hi</ex>ch knoweth no law but this, The Sword devoureth one <lb/>
+            as well as another; and I shold hold <ex>th</ex>e kingdome most miserable, <ex>tha</ex>t w<ex>a</ex>s forced <lb/>
+            to make use of a remedy worse <ex>the</ex>n <ex>th</ex>e desease.
+         </p>
+         <p>
+            Thus much for <ex>th</ex>e First thing, <ex>tha</ex>t <ex>the</ex>r<ex>e</ex> is no necessity of warre <foreign xml:lang="la">Rebus <lb/>
+            sic stantibus</foreign>.
+         </p>
+         <p>
+            For these things in agitation are not tanti, of such alley as shold require <lb/>
+            such a desperate adventure, as to hazard a kingdome at a cast for <ex>th</ex>e gaining of it. <lb/>
+            Plutarch wisely compares those who know not how to proportion the meanes <lb/>
+            to the end to such as fish w<ex>i</ex>th a golden hooke, <ex>th</ex>e losse of <ex>th</ex>e hooke is of more <lb/>
+            consequence <ex>the</ex>n <ex>th</ex>e fish <ex>tha</ex>t is taken. Indeed to speake plainly what I thinke, they <ex>tha</ex>t <lb/>
+            advise warre in this kingdomes case, know not what it is to gett, nor greatly <lb/>
+            care for <ex>th</ex>e losse of a kingdome, so <ex>tha</ex>t they may play <ex>thei</ex>r owne game, &amp; fish <lb/>
+            in troubled waters.
+         </p>
+         <p>
+            Such counsellors as these w<ex>e</ex>r<ex>e</ex> <ex>th</ex>e B<ex>isho</ex>p of Rosse to <ex>th</ex>e Queene of Scotts, &amp; <ex>th</ex>e <lb/>
+            B<ex>isho</ex>p of <space extent="15" unit="chars"/> to Ladislaus that <space extent="12" unit="chars"/> of Hungaria, who w<ex>e</ex>r<ex>e</ex> <ex>th</ex>e occasion <lb/>
+            &amp; <ex>th</ex>e cause to bring <ex>th</ex>e Turkes into Hungary, &amp; <ex>th</ex>e French into Scottland, two <lb/>
+            guests <ex>tha</ex>t both <ex>th</ex>e nations may wish they never know <ex>th</ex>e way thither againe. <lb/>
+            Three reasons haue beene given to perswade to warre, w<ex>hi</ex>ch I will not <lb/>
+            now take upon me to answeare, but leaue it to him, who is better able, &amp; more <lb/>
+            fully instructed for such a purpose; wherfore considering <foreign xml:lang="la">
+                    <hi rend="italic">Nulla salus bello, nulla <lb/>
+               necessitas belli</hi>
+                </foreign>, my advise to yo<ex>u</ex>r Ma<ex>jes</ex>ty is, Not to use warre, but w<ex>he</ex>n the end of <lb/>
+            it is A certaine, or a probable peace, &amp; w<ex>he</ex>n th<ex>e</ex>r<ex>e</ex> is no way left but <ex>tha</ex>t only./.
+         </p>
+         <p>
+            In this advise though I shall displease others, yet I shall please my selfe, be-<lb break="no"/>
+            cause I haue spoken as I thinke, &amp; I hope w<ex>he</ex>n ever yo<ex>u</ex>r Ma<ex>jes</ex>ty is necessitated to <lb/>
+            draw yo<ex>u</ex>r sword in any quarrells, I shalbe as ready to doe yo<ex>u</ex>r Ma<ex>jes</ex>ty service, <lb/>
+            as they are, who now talke much of warre, but neither know where to be-<lb break="no"/>
+            <del rend="strikethrough">ginne</del> ginne, nor greatly care when to end.
+         </p>
+         <p rend="align-right">
+            Finis./
+         </p>
+         <pb n="36v" facs="/bl/harley_ms_4931_part/harley_ms_4931_f036v/harley_ms_4931_f036v.jpg"/>
+         <p>
+            The Duke of Leonax his spee<supplied reason="damage">ch</supplied>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/bl/harley_ms_4931_part/harley_ms_4931_f035r/harley_ms_4931_f035r.jpg"/>
+      <graphic n="2" url="/bl/harley_ms_4931_part/harley_ms_4931_f035v/harley_ms_4931_f035v.jpg"/>
+      <graphic n="3" url="/bl/harley_ms_4931_part/harley_ms_4931_f036r/harley_ms_4931_f036r.jpg"/>
+      <graphic n="4" url="/bl/harley_ms_4931_part/harley_ms_4931_f036v/harley_ms_4931_f036v.jpg"/>
+   </facsimile>
+</TEI>

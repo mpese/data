@@ -22,20 +22,31 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="TW">
+               <name>Tim Wales</name>
+               <resp>Research Assistant</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/BLAddMS22591.xml">
+               <msIdentifier xml:id="BL_Add_MS_22591">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 22591</idno>
+                <msName/>
+             </msIdentifier>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
             </listBibl>
                 <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="ms" target="../mss/BLAddMS22591.xml">British Library, Additional MS 22591, ff. 306r–311r</ref>
-                    </bibl>
                     <bibl>
                         <ref type="ms" target="../mss/BLHarleyMS293.xml">British Library, Harley MS 293, ff. 132r–151v</ref>
                     </bibl>
@@ -189,6 +200,10 @@
             <date when="1633">1633?</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term/>
@@ -207,13 +222,851 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-26" who="#RB" status="draft"/>
+            <change when="2018-09-19" who="TW" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="306r" facs="/bl/add_ms_22591/add_ms_22591_f306r/add_ms_22591_f306r.jpg"/>
+         <p rend="align-centre">
+            <hi rend="bold">
+               The <lb/>
+               Parralell of Robert Deuoreux Earle <lb/>
+               off <lb/>
+               Essex, and George Villiers Duke of <lb/>
+               Buc:<lb break="no"/>
+               kingha<ex>m</ex>, written by S<ex>i</ex>r He<ex>nry</ex> Wootton K<ex>nigh</ex>t <lb/>
+            </hi>
+         </p>
+         <p>
+            <hi rend="bold">Some</hi> observations by waye of Parrarell in the Tyme of <lb/>
+            theire Estates of Favour
+         </p>
+         <p>
+            <hi rend="bold">A</hi>mongst those Historicall imployments wherevnto I <lb/>
+            haue devoted my Later yeeres (For I read that ould men <lb/>
+            live more by memorye, then by hope, Mee thought it would bee <lb/>
+            A little tyme not ill spent, to Conferr the Fortunes &amp; natures <lb/>
+            of theis two Personages, of soe late knowledge, wherein, I <lb/>
+            intend to doe them right, w<ex>i</ex>th the Truthe thereof and my selfe, <lb/>
+            w<ex>i</ex>th this Freedome
+         </p>
+         <p>
+            <hi rend="bold">The</hi> begin<ex>n</ex>ing of the Earle of Essex I must Attribute <lb/>
+            whollie (or in greate parte) to my Lord of Leicester / But yet <lb/>
+            as an Introducer or Support<ex>e</ex>r, not as A Teacher, For as I <lb/>
+            goe along, it will easilye appeare, that he neither lived nor <lb/>
+            dyed by his discipline, Allwayes certaine it is, that he drew <lb/>
+            him First into the Fatall Circle / From A kind of resoolved <lb/>
+            privatenes att his house at Lawychies in Southe Wales, where <lb/>
+            after <ex>th</ex>e Accademicall life, hee had taken such a Tast of the <lb/>
+            Rurall, as I haue heard him saye, and vpo<ex>n</ex> any Flashes and <lb/>
+            Fumes of Mellanchollie, or Traverses of discontent, But in <lb/>
+            A Sereene, and quiett moode, that he could well haue bent his <lb/>
+            mynde to A retyred Course / About w<ex>hi</ex>ch Tyme the saide Earle <lb/>
+            of Leicester bewrayed A meaning to place him in <ex>th</ex>e Queenes <lb/>
+            Favour, w<ex>hi</ex>ch was diverslye interpreted by such as thought that <lb/>
+            greate Artizan of Courte, to doe nothing by Chaunce, nor much <lb/>
+            by affection / Some therefore were of opinion, that Feelinge <lb/>
+            more and more in himselfe the weight of Tyme, and being <lb/>
+            allmost tyred (yf there be A Satietye in power) with that <lb/>
+            Assiduous attendance, and intensive Circumspection, w<ex>hi</ex>ch A <lb/>
+            long indulgent Fortune did require, hee was growne not vn <lb/>
+            willing, For his owne Ease, to bestowe handsomelye, vpo<ex>n</ex> anoth<ex>e</ex>r <lb/>
+            some parte of the paynes &amp; p<ex>er</ex>happs of the Envye
+         </p>
+         <p>
+            <hi rend="bold">Others</hi> conceyved rather, that having before for <ex>th</ex>e same <lb/>
+            ende, either brought in, or lett in S<ex>i</ex>r Walter Rawleighe and <lb/>
+            haueing Found him such an Apprentice, as knew well e=<lb break="no"/>
+            noughe, howe to sett vp for himselfe / Hee nowe meant to Allay <lb/>
+            him w<ex>i</ex>th this young Earle; whoe had yett taken noe Stronge <lb/>
+            impressions For though the said S<ex>i</ex>r Walter Raleighe, was A <lb/>
+            litle before this (whereof I nowe speake) by occasio<ex>n</ex>, much <lb/>
+            fallen from his former Splender in Courte / yett hee still <lb/>
+            continued in some Lustre of A Favored man, like highe <lb/>
+            Billowes that sincke by degrees, even when the winde is <lb/>
+            downe that first stirred them
+         </p>
+         <p>
+            <hi rend="bold">Thus</hi> ran the discourse At that Tyme at pleasure / yett <lb/>
+            I am not Ignorant, that there was some good while, a very <lb/>
+            Stiffe aversation in my Lord of Essex, from applying himselfe <lb/>
+            <fw type="catch" place="bot-right">to</fw>
+            <pb n="306v" facs="/bl/add_ms_22591/add_ms_22591_f306v/add_ms_22591_f306v.jpg"/>
+            to the Earle of Leicester For what secreet conceipt I knowe <lb/>
+            not But howsoever that humor was Mollified by Tyme and by <lb/>
+            his Mother / And to the Courte he came vnder his Lee
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Duke of Buckingham had another kinde of Germinatio<ex>n</ex>, <lb/>
+            and surelye had he bine reckoned among the <foreign xml:lang="la">
+                    <hi rend="italic">Sponte Nascentes</hi>
+                </foreign>, <lb/>
+            For he sprange w<ex>i</ex>thout any helpe / by A Certeyne Congeniall <lb/>
+            Composure (as wee maye terme it) to the liking of our Late <lb/>
+            Sou<ex>er</ex>aigne, and Maister of ever blessed Memorye, whoe taking <lb/>
+            him into his regard, taught him more and more to please him <lb/>
+            selfe and Moulded him (as it were Platonicallye) to his owne <lb/>
+            Idea, delighting first in the Choice of the Materyalls (because <lb/>
+            he found him susceptible of good Forme) and afterwards by degres, <lb/>
+            as great Architects vse to doe, in the workemanship of his Regall <lb/>
+            hande / Nor Staying here, after he had hardened and polished <lb/>
+            him about 10: yeeres in the Schoole of Observance (For soe A <lb/>
+            Courte is) and in <add place="above">
+                    <ex>th</ex>e</add> Furnace of Tryall  about himselfe (For hee <lb/>
+            was A Kinge <ex>tha</ex>t could p<ex>er</ex>vse men, as well as Bookes) he made <lb/>
+            him the Associate of his heyre Apparant (together w<ex>i</ex>th the now <lb/>
+            Lord Cotttington (As an Adiuncte of singuler experience, and <lb/>
+            Trust) in Forraigne Travell, and in A Busines of Love, and of <lb/>
+            noe Equall hazard, yf the Tendernes of our Zeale, did nott then <lb/>
+            deceive vs / enoughe (the world must confesse) to kindle affectio<ex>n</ex> <lb/>
+            betweene the distantest Conditions / Soe as by varyous, &amp; inward <lb/>
+            Conversac<ex>i</ex>on Abroade / Besydes that before, and after at home, <lb/>
+            w<ex>i</ex>th the most Constant and best natures Prince (<foreign xml:lang="la">
+                    <hi rend="italic">Bona Si Sua <lb/>
+            Norint</hi>
+                </foreign>) that ever anye Nation enioyed
+         </p>
+         <p>
+            <hi rend="bold">This</hi> Duke nowe becomes soundlye seized of Favor, as it <lb/>
+            were by discent / thoughe the Condic<ex>i</ex>on of that Estate / be como<ex>n</ex> <lb/>
+            lye noe more / then a Tenancye at will, or at most for <ex>th</ex>e liffe, <lb/>
+            of the First Lorde, and rarelye transmitted, w<ex>hi</ex>ch I haue breifly <lb/>
+            Sett downe. w<ex>i</ex>thout looking behind the vayle of the Temple, I <lb/>
+            meane into <ex>th</ex>e Secrett of highe Inclinac<ex>i</ex>ons, since euen Saty=<lb break="no"/>
+            ricall <del rend="strikethrough">inclinac<ex>i</ex>ons</del> Poetts whoe are otherwise of soe Lycentious <lb/>
+            Fancye / Butt yett in this pointe, Modest enough to co<ex>n</ex>fesse <ex>the</ex>ir ignora<ex>n</ex>ce.
+         </p>
+         <p>
+            <foreign xml:lang="la">
+                    <hi rend="bold">Nescio quid</hi> <hi rend="italic">certe Est / quod me tibi temperat Astu<ex>m</ex>
+                    </hi>
+                </foreign>
+         </p>
+         <p>
+            <hi rend="bold">And</hi> theise were both their Springings, and Imprimeings, <lb/>
+            as I maye call them / 
+         </p>
+         <p>
+            <hi rend="bold">In</hi> the Profluence, on proceedings of their Fortunes, I ob=<lb break="no"/>
+            serue likwise not onlye much difference betweene them; But <lb/>
+            in the Earle, not A little fro<ex>m</ex> himselfe /
+         </p>
+         <p>
+            <hi rend="bold">First</hi>, all his hopes of Advancem<ex>en</ex>t had like to haue beene <lb/>
+            Strangled all most in the verye Cradle, by throwing himselfe in <lb/>
+            to Portugall voyage, w<ex>i</ex>thout the Queenes consent, or soe much <lb/>
+            of her knowledge / whereby hee left his Freindes, &amp; dependa<ex>n</ex>t<ex>es</ex> <lb/>
+            neere Sixe Monthes in desperate suspence, what would become <lb/>
+            of him / And to Speake Truthe, not w<ex>i</ex>thout Good reason /
+         </p>
+         <p>
+            <hi rend="bold">For</hi> First, they might well Consider, that hee was himselfe <lb/>
+            not well plumed in Favor, For such A Flight / Besydes <ex>tha</ex>t nowe <lb/>
+            he wanted A Lord of Leicester att home / (For he was dead <lb/>
+            in the yeere before) to smoothe his Absence, and to quench the <lb/>
+            practizes of Courte / Butt above all, it laye open to everye <lb/>
+            mans discourse, that thoughe the bare offence of his Soveraigne <lb/>
+            and mistrisse, was to greate A Venture, yett much more, when <lb/>
+            shee might (as in this Case) haue Fayrelye discharged his disple <lb/>
+            sure, vppon her Lawes / Notwithstanding A noble reporte <lb/>
+            cominge home before him, at his retourne all was Cleared, <lb/>
+            <fw type="catch" place="bot-right">and</fw>
+            <pb n="307r" facs="/bl/add_ms_22591/add_ms_22591_f307r/add_ms_22591_f307r.jpg"/>
+            and this excursion Esteemed, but A Sally of youthe / Nay, he <lb/>
+            grewe everye daye, more and more in her graces. Conceipt <lb/>
+            whether such intermissions as theis doe sometymes foment Af=<lb break="no"/>
+            fection, or that having Comitted A Fault, hee became more <lb/>
+            obsequious, and plyant, to redeeme it / or <ex>tha</ex>t yett shee had not re=<lb break="no"/>
+            ceived into her royall breast, anye shaddowes of poppularitye /
+         </p>
+         <p>
+            <hi rend="bold">There</hi> was another tyme, long after, when S<ex>i</ex>r Fulke Grevill <lb/>
+            late Lord Brooke, (A man in Apparance intrinsecall with him, <lb/>
+            or at least admitted to his Melanchollye howers) eith<ex>e</ex>r belike <lb/>
+            espying some wearines in the Queene, or p<ex>er</ex>happs with little <lb/>
+            change in the worde thoughe more in the daunger some marckes <lb/>
+            towards him, aand working vppo<ex>n</ex> the pr<ex>e</ex>sent matter (as he was <lb/>
+            dextrous, and Close, had allmosr superinduced  into Favour the <lb/>
+            Earle of Southampton) w<ex>hi</ex>ch yett, being tymelye discou<ex>er</ex>ed / My <lb/>
+            Lord of Essex choose to evaporate his thoughts in A Sonnet (being <lb/>
+            his Com<ex>m</ex>on waye, to be sunge before the Queene, as it was, by <lb/>
+            one Hales, in whose voyce, shee tooke some pleasure, whereof <lb/>
+            the Complott (mee thinkes) had as much of <ex>th</ex>e Hermitt / as of the Poett
+         </p>
+         <p rend="align-right">
+            <hi rend="italic">And if thou shouldest by hir, be now forsaken <lb/>
+            Shee made thie harte, to Strong for to be shaken</hi>     
+         </p>
+         <p>
+            <hi rend="bold">As</hi> if hee had been Casting one Eye backe to his For=<lb break="no"/>
+            mer retyrednes / But all this likewise quicklye vanyshed, &amp; <lb/>
+            A good while after, there was Fayer weather overhead / Yett <lb/>
+            Still I knowe not howe, like A gathering of Clowdes, till to=<lb break="no"/>
+            wardes his latter tyme  (when his humors grewe Tarte) as being <lb/>
+            nowe in the Lees of Favors, it brake, into certeyne Suddayne <lb/>
+            Recesses / Sometymes from the Courte to Wannestead / Other <lb/>
+            whiles to Greenew<ex>i</ex>ch; Often to his owne Chamber doores shutt, <lb/>
+            visitts forbidden, and (w<ex>hi</ex>ch was worse) divers Contestacons be=<lb break="no"/>
+            tweene, w<ex>i</ex>th the Queene her selfe / All preambles of Ruyne, <lb/>
+            wherew<ex>i</ex>th, though nowe, and then he did wring out of her Ma<ex>jes</ex>tye <lb/>
+            some pettye Contentm<ex>en</ex>t<ex>es</ex> (As if A Man would presse sower <lb/>
+            grapes) yett in the meane Tyme / was forgotten the Cou<ex>n</ex>cell of <lb/>
+            A wise, and att that Tyme Propheticall Freinde, whoe tould him, <lb/>
+            that such Courses as theis, were like <del rend="strikethrough">w</del>hott watters, w<ex>hi</ex>ch helpe <lb/>
+            at a Punge / Butt yett if they be vsed, will spoyle the Stomacke /
+         </p>
+         <p>
+            <hi rend="bold">On</hi> the Dukes parte, wee haue noe such Abrupt Streames, <lb/>
+            and Precipes as theis / But A Fayer, Fluentt, and vnifforme <lb/>
+            Course, vnder both Kinges / And surelye, as there was in his natu=<lb break="no"/>
+            rall Constituc<ex>i</ex>on A marveylous equallitie (whereof I shall <lb/>
+            Speake afterwardes) soe there was an Image of itt, in his <lb/>
+            Fortune, Run<ex>n</ex>ynge (yf I borrowe an Auncient Comparison) <lb/>
+            as Smoothlye as A Numerous verse, till certaine Rubbs in <lb/>
+            Parlyament, where of I am induced to speake, something by <lb/>
+            the verye Subiect w<ex>hi</ex>ch I handle to saye some what soe Farr, <lb/>
+            as shall conserne <ex>th</ex>e difference, betweene their Tymes
+         </p>
+         <p>
+            <hi rend="bold">Whilst</hi> my Lord of Essex stood in Favour, <ex>th</ex>e Parlyam<ex>en</ex>t<ex>es</ex> <lb/>
+            were calme Naye I ffinde it A true observac<ex>i</ex>on, that there <lb/>
+            was noe Impeachm<ex>en</ex>t of anye Noble Man, by the Com<ex>m</ex>ons fro<ex>m</ex> <lb/>
+            the Raigne of <hi rend="italic">Hen<ex>ry</ex>
+                </hi>: 6: till the 18: of K<ex>ing</ex> James / Nor anye <lb/>
+            Intervenient President, of that Nature, not that some <lb/>
+            thinge or other could bee wanting to be saide, while men <lb/>
+            are men, For (not to goe higher) wee are taught easilye soe <lb/>
+            much by the verye Ballads, and Libells of <ex>th</ex>e Leicestrian time <lb/>
+            but About the aforesaide yeere, manye yonge Ones, beinge
+            <fw type="catch" place="bot-right">Chosen</fw>
+            <pb n="307v" facs="/bl/add_ms_22591/add_ms_22591_f307v/add_ms_22591_f307v.jpg"/>
+            Chosen into the Lower House, more then had bine vsuall <lb/>
+            in greate Councells , (whoe (thoughe of the weakest winges, <lb/>
+            are the highest Flyers) there arose A Certaine vnfortunate <lb/>
+            and vnfruitefull Spirritts in some p<ex>er</ex>sons, not soweing, but pric <lb/>
+            kinge out every Stone in <ex>th</ex>e Feild, rath<ex>e</ex>r the<ex>n</ex> te<ex>n</ex>ding to <ex>th</ex>e gen<ex>er</ex>all harvest
+         </p>
+         <p>
+            <hi rend="bold">And</hi> thus farr the Considerac<ex>i</ex>on of the Nature of <ex>tha</ex>t Tyme <lb/>
+            hath transported mee
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> on the other Syde I must w<ex>i</ex>th like libertie obserue <lb/>
+            to waightie and Matchfull Solicitudes (as I maye call them), <lb/>
+            w<ex>hi</ex>ch kept the Earle in extreeme and continuall Caution, (like A <lb/>
+            Bow Still bent) whereof the Dukes Thoughts were absolutelye free
+         </p>
+         <p>
+            <hi rend="bold">First</hi> he was to wrastle w<ex>i</ex>th A Queenes declyning, or <lb/>
+            rather w<ex>i</ex>th her verye setting Age, (as wee maye terme itt) <lb/>
+            w<ex>hi</ex>ch (besydes other Respects) is comonlye even of it selfe the <lb/>
+            more vmbracious and appe<ex>e</ex>hensiue / As for the most part all <lb/>
+            horizons are charged w<ex>i</ex>th certaine vapours toard<ex>es</ex> <ex>th</ex>e evening
+         </p>
+         <p>
+            <hi rend="bold">The</hi> other was A Matter of more circumstances. <lb/>
+            Standinge thus /
+         </p>
+         <p>
+            <hi rend="bold">All</hi> Princes especiallie whom God hath not blessed w<ex>i</ex>th <lb/>
+            w<ex>i</ex>th Naturall Issue, are (by wisedome of State) some what <lb/>
+            Shye of their Successors, And (to speake w<ex>i</ex>th due Reu<ex>er</ex>aunce) <lb/>
+            there maye bee reasonablye supported in Queenes Regnant a <lb/>
+            little p<ex>ro</ex>portion of Tendernes <ex>tha</ex>t waye more then in Kinges /
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> there were in Course Two names of Power &amp; all <lb/>
+            most of Faction / The Essexian and Cicillian with theire <lb/>
+            Adherent<ex>es</ex>, both well enoughe Enioying the pr<ex>e</ex>sent, &amp; yett both <lb/>
+            looking for the Future / And therefore both houlding correspo<ex>n</ex> <lb/>
+            dencie w<ex>i</ex>th the Principall in Scotland, and both received Ad=<lb break="no"/>
+            vertisem<ex>en</ex>t<ex>es</ex> and Instructions either from them or ymediatlye <lb/>
+            from the kinge himselfe as indubiture heire of this Imperiall <lb/>
+            Crowne 
+         </p>
+         <p>
+            <hi rend="bold">But</hi> least they might detect One another, this was miste <lb/>
+            riouslye Carryed by severall Instrum<ex>en</ex>t<ex>es</ex> and Conducts, And <lb/>
+            on the Essexian syde in truthe w<ex>i</ex>th Infinite hazard / For Sir <lb/>
+            Robt Cicill whoe was secretarye of State did disposse the <lb/>
+            publique Addresses, had prompter &amp; safer co<ex>n</ex>veyance, where <lb/>
+            vpon I cannot but relate a memorable passage on eith<ex>e</ex>r Syde 
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle of Essex had accomodated one Mr. Anthonye <lb/>
+            Baccon in A p<ex>ar</ex>tic<ex>i</ex>on of his house) and had assigned him a noble <lb/>
+            enterteinement / This was A Gentlemen of impotent Feete, <lb/>
+            but of A Nimble Head, and throughe his hinderance, all the <lb/>
+            Intelligence w<ex>i</ex>th Scottland, whoe being of A Provident <lb/>
+            Nature contrarye to his Brother the Late viscount St Albones, <lb/>
+            and well knowing the Advantage of A daungerous Secret, <lb/>
+            would manye tymes most cun<ex>n</ex>inglie lett fall some wordes, as <lb/>
+            if he would mend much his Fortune vnder the Cicilians, to <lb/>
+            whom he was neere in Blood) one whoe had made (as he was <lb/>
+            not vnwilling should be beleived) some greate proffers to wynne <lb/>
+            him awaye, w<ex>hi</ex>ch once or twice hee pressed soe farr, and with such <lb/>
+            tokens of discontentment<ex>es</ex> to my Lord Henrye Howard, aft<ex>e</ex>rward<ex>es</ex> <lb/>
+            Earle of North<ex>amp</ex>to<ex>n</ex> whoe was of the partie and stood himselfe w<ex>i</ex>th <lb/>
+            much umbrage w<ex>i</ex>th the Queene. The he Flyes pr<ex>e</ex>sentlye to my <lb/>
+            Lord of Essex, w<ex>i</ex>th whom he was comonly <foreign xml:lang="la">
+                    <hi rend="italic">Primae admissionis</hi>
+                </foreign> <lb/>
+            by his Bed syde everye morning and tells him that vnlesse <ex>tha</ex>t <lb/>
+            Gentleman were pr<ex>e</ex>sentlye Satisfyed w<ex>i</ex>th some round Som<ex>m</ex>e, <lb/>
+            all would be vented / This tooke the Earle att that tyme, ill pro=<lb break="no"/>
+            vided (as indeed oftentymes his coffers were lowe) wherevpo<ex>n</ex> <lb/>
+            <fw type="catch" place="bot-right">hee</fw>
+            <pb n="308r" facs="/bl/add_ms_22591/add_ms_22591_f308r/add_ms_22591_f308r.jpg"/>
+            hee was faine Suddainelye to giue him Essex house, which the <lb/>
+            good old Ladye Walsingham did afterward<ex>es</ex> disingage out of her <lb/>
+            owne Store, w<ex>i</ex>th 2500 li, and before he had distilled 1500 li at ano=<lb break="no"/>
+            ther Tyme by the Same skill. <hi rend="underline">Soe</hi> that hee maye rate this one secret <lb/>
+            as it was finelye handled at 4000 li in present monye besydes at <lb/>
+            least 1000 li of an<ex>n</ex>uall Pention to A private &amp; bedrid Gent<ex>le</ex>woma<ex>n</ex>, <lb/>
+            what would hee haue gotten if he had bine able to goe about <lb/>
+            his owne Busynes
+         </p>
+         <p>
+            <hi rend="bold">There</hi> was another Accident of the same nature on the <lb/>
+            Cicilian Syde, much more pleasant and lesse Charitable, For <lb/>
+            it Cost nothinge but witt
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Queene haueing For A Good while not heard any thinge <lb/>
+            from Scottland, and being thirstie of newes, it fell out that her <lb/>
+            ma<ex>jes</ex>ty, going to take the Ayre towwards the Heathe (the Court being <lb/>
+            then at Greenewich, And Mr Secretarye Cicill then attending her, <lb/>
+            A Post came crossing by and blew his horne, the Queene outt of <lb/>
+            Curiositie asked from whence the dispatch came, And being answ=<lb break="no"/>
+            red fro<ex>m</ex> Scotland Shee Stopt her Coatche and calls for <ex>th</ex>e Packett
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Secretarye (allthoughe he knewe there were some Lett<ex>e</ex>rs <lb/>
+            from his Correspondent<ex>es</ex> (w<ex>hi</ex>ch to discover had bine as soe many <lb/>
+            Serpent<ex>es</ex>) yett made more shew of dilligence then of doubt to obey <lb/>
+            her, and asks some that were by Forsooth in great hast for a Knife <lb/>
+            to cutt vpp the Packett (For otherwise p<ex>er</ex>happs he might haue opened <lb/>
+            A little appr<ex>e</ex>hencion) But in the meane Tyme approching w<ex>i</ex>th the <lb/>
+            Packett in his hand, att A prettie distrance, from the Queene, hee <lb/>
+            tould her it looked and smelled Illfavour’dlye com<ex>m</ex>ing out of the <lb/>
+            Filthie Budgett, and that it should be fitt first to open it and <lb/>
+            Ayre it, because he knewe shee was averse from ill Sents /  
+         </p>
+         <p>
+            <hi rend="bold">And</hi> soe being dismissed home he gott leasure Enoughe by <lb/>
+            this Seasonable Shifte to Sever what hee would not haue seene /
+         </p>
+         <p>
+            <hi rend="bold">These</hi> two accidents preciselye true and knowne to few, I haue <lb/>
+            reported as not alltogither extravagant from my purpose to shew <lb/>
+            howe the Earle stood in certeine perplexities wherew<ex>i</ex>th <ex>th</ex>e Dukes <lb/>
+            dayes were not distracted / And this hath beene (as it were) in the <lb/>
+            historicall parte touching the difference  betweene them in <ex>th</ex>e riseing <lb/>
+            and Flowinge of theire Fortunes
+         </p>
+         <p>
+            <hi rend="bold">I will</hi> nowe consider theire Severall endowments both of <lb/>
+            person <add place="above">&amp;</add> of Mynde, and then A Little of theire Actions and ende,
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle was a pretty deale the Taller and muche the <lb/>
+            Stronger and of the Abler Bodye &amp;c, but the Duke had the neater <lb/>
+            Lymbes, and of the Freer deliverye / he was allsoe <ex>th</ex>e vprighter <lb/>
+            and of the more comelye Motions, For the Earle did bend A Little <lb/>
+            in the Necke, though rather forward then downe ward / And hee <lb/>
+            was soe farr from being A good Dauncer, that he was noe gratfull <lb/>
+            goer / If wee touche p<ex>ar</ex>ticulers, The Duke excelled in <ex>th</ex>e daintines <lb/>
+            of his Legg and Foote / and the Earle in the Incomp<ex>ar</ex>able Fairenes <lb/>
+            and Fine Shape of his handes, w<ex>hi</ex>ch thoughe it be but A Feminate <lb/>
+            praise hee tooke it from his Father / For theire generall haire, the <lb/>
+            Earle had the more Closer and more reserved Countynance <lb/>
+            being by Nature some what Cogitatiue / And (w<ex>hi</ex>ch was strang) <lb/>
+            never more then at Meales, when others were least / In soe much <lb/>
+            that he was wont to make this observation of himselfe, <ex>tha</ex>t to salue <lb/>
+            Knottye Busynes, w<ex>hi</ex>ch Combered his Mynde, one of his Ablest <lb/>
+            howers was when hee had cloaked his First appetite with <lb/>
+            Two or three Morsells, after w<ex>hi</ex>ch he satt vsuallye for a good while <lb/>
+            Sylent, yet hee would playe well and willinglye at some tyme <lb/>
+            of greatest Attention, w<ex>hi</ex>ch shewed that when hee listed he could <lb/>
+            <fw type="catch" place="bot-right">silence</fw>
+            <pb n="308v" facs="/bl/add_ms_22591/add_ms_22591_f308v/add_ms_22591_f308v.jpg"/>
+            silence his Thoughts
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Duke on the other syde, even in the mydst of soe many diver=<lb break="no"/>
+            sions had Continuallye A verye pleasant and vacant Face (as I <lb/>
+            maye well call it) proceeding (noe doubt) from a singuler assurance <lb/>
+            in his temper / And yet I must heere giue him A rarer  Elogie w<ex>hi</ex>ch <lb/>
+            the malignantest Eye cannot denye him / That certainelye never <lb/>
+            man of his place and power did entertaine greatnes more Fami <lb/>
+            lierlye nor whose lookes were lesse tainted w<ex>i</ex>th his felicity, where <lb/>
+            in I insist the rather because this in my Judgment was one of his <lb/>
+            greatest vertues and victoryes over himselfe /      
+         </p>
+         <p>
+            <hi rend="bold">But</hi> to proceed in the Attyreing and ornament of theire <lb/>
+            bodyes / The Duke had A Fine vnaffected politenes, and vpon <lb/>
+            occasion costlye as in his Legations  The Earle as hee grew more <lb/>
+            and more attentiue to matter / Soe lesse and lesse Curious of <lb/>
+            Clothing, in soe much as I remember those about him had a co<ex>n</ex>ceipt <lb/>
+            That possiblye sometymes when he went vp to the Queene he might <lb/>
+            scant knowe what he had onn / For this was his Mannor his Cha<ex>m</ex>ber <lb/>
+            being Com<ex>m</ex>onlye Stived w<ex>i</ex>th Freindes or Suitors of one kinde or <lb/>
+            other / when he was vpp he gaue his Leggs, Armes &amp; Brests <lb/>
+            to his ordinarye Servants to button and dresse him w<ex>i</ex>th little <lb/>
+            heed, his head and Face to his Barber, his Eyes to his Letters <lb/>
+            and Eares to Petitions, and many Tymes all at once /
+         </p>
+         <p>
+            <hi rend="bold">Then</hi> the Gent<ex>leman</ex> of his Roabes throwing A Cloake over his <lb/>
+            Shoulders, hee would make A Stepp into his Clossett, and after <lb/>
+            Short prayer he was gone, onlye in his Bathes he was somew<ex>ha</ex>t <lb/>
+            dilicate / For pointe of Dyett and Luxurie they were both verye <lb/>
+            ordinary in their Appetites, Especiallye the Earle, whoe was <lb/>
+            by nature of soe different A Taste / as I must tell a rare thing <lb/>
+            of him (thoughe it be but A homelye Note) that he would stopp <lb/>
+            in the middest of any phisicall potion, and after he had lickt his <lb/>
+            Lippes, drinke of the Rest / but I am wearie of such sleighte <lb/>
+            animadversions
+         </p>
+         <p>
+            <hi rend="bold">To</hi> come then to the Inward Furniture of their myndes, the <lb/>
+            Earle was of A good Erudition, hauing beene placed at study <lb/>
+            in Cambridge verye young by the Lord Burleigh his Guardyan <lb/>
+            w<ex>i</ex>th affectionate and deliberate Care vnder the oversight of <lb/>
+            Docter Whitgift then M<ex>aste</ex>r of Trynitie Colledge, and aft<ex>e</ex>r Arch <lb/>
+            Bishopp of Canterburye, A man (by the waye surelye of a most <lb/>
+            reverent sacred memorye (as I maye well saye) even of <ex>th</ex>e pri=<lb break="no"/>
+            matiue temper, when the Church by lowlynes of Spirritt did <lb/>
+            Florish in highe thexamples, w<ex>hi</ex>ch I haue incerted as a dew Recor=<lb break="no"/>
+            dation of his vertues, haueing beene muche obleiged vnto him <lb/>
+            for manye Favors in Former Tymes
+         </p>
+         <p>
+            <hi rend="bold">About</hi> sixteene yeeres of his Age (For thither he came at <lb/>
+            Twelue) hee tooke the Formalitie of M<ex>aste</ex>r of Arts, and kept his <lb/>
+            publique Acts / And heere I must not smother what I haue <lb/>
+            receaved by Constant Informac<ex>i</ex>on / That his owne Father <lb/>
+            dyed w<ex>i</ex>th A very Cold Conceipt of him, some saye with more <lb/>
+            affection to his Second Sonne Walter Devoreux, whoe was <lb/>
+            indeed a Dyamond of his Tyme, and both of A hardye &amp; delicate <lb/>
+            mixture / But it Seemes the Earle like certaine vigitables did <lb/>
+            Budd, and open Slowlye /
+         </p>
+         <p>
+            <hi rend="bold">Nature</hi> sometymes delighting to playe an after game <lb/>
+            as well as Fortune w<ex>hi</ex>ch had both theire Turnes and Tydes in his <lb/>
+            Course /
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Duke was Illiterate, yet had learned in A Court, First <lb/>
+            to lift A question well, and to supplye his owne defects by <ex>th</ex>e drawing <lb/>
+            or flowing vnto him  of the best Instruments of experience &amp; know=<lb break="no"/>
+            ledge from whom he had A sweete and attractiue manner to sucke <lb/>
+            what might be for the publique, as his own proper vse / So as the <lb/>
+            <fw type="catch" place="bot-right"> lesse</fw>
+            <pb n="309r" facs="/bl/add_ms_22591/add_ms_22591_f309r/add_ms_22591_f309r.jpg"/>
+            lesse hee was favoured by the muses, he was <ex>th</ex>e More by <ex>th</ex>e Graces
+         </p>
+         <p>
+            <hi rend="bold">To</hi> Consider them in theire owne naturalls I conceiue <ex>th</ex>e Earles <lb/>
+            Intellectuall Facultyes to haue bine his Strongest p<ex>ar</ex>te, and in the <lb/>
+            Duke his practicall / Yett all knowe that he likewise at the First <lb/>
+            was muche vnder the expectac<ex>i</ex>on of his after proofe, such a sober <lb/>
+            Influence there is in the Soveraigne aspect / For other abillityes <lb/>
+            of discourse or penn, the Earle was A verye accute and sound spe=<lb break="no"/>
+            aker when he would intend it, and for his writtings, they were <lb/>
+            beyond example, especiallie in his Familiar letters, and in thing<ex>es</ex> <lb/>
+            of delight in Courte, when hee would intermitt his serious habits, <lb/>
+            as maye be yett seene in his impressis<del rend="strikethrough">ns</del> and inventions of Vn=<lb break="no"/>
+            tertainement. And aboue all in his darlinge peece of Love, and <lb/>
+            selfe Love / his Stile was an Ellegant perspicuitie, rich of phrase, <lb/>
+            but seldome anye bold metaphors, and soe Farr from tumour, that it <lb/>
+            rather wanted A little Elevac<ex>i</ex>on  
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Dukes deliuery of his mynde I conceiue not to haue bine <lb/>
+            soe sharpe as Sollid, and againe not soe Solyd and deepe as p<del rend="strikethrough">r</del>e<add place="above">r</add>=<lb break="no"/>
+            tinent and opposite to the Tymes and Occasions
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Earle I account more liberall, and the Duke more mag <lb/>
+            nificent / For I doe not remember that my Lord of Essex  in all <lb/>
+            his liffe Tyme did either build or adorne any house / The Queene <lb/>
+            perchance spending his Tyme, and himselfe his meanes, or oth<ex>e</ex>r <lb/>
+            wise more inclyning to popular wayes, For wee know <ex>th</ex>e people <lb/>
+            are more apt to applaud house keepers, then house raisers
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both great cherishers of Schollers &amp; Devines, <lb/>
+            but it Seemes the Earle had obteyned of himselfe one singul<ex>a</ex>r <lb/>
+            poynte, that he could depart his affections betweene two ex=<lb break="no"/>
+            treames, For thoughe hee bore allwayes A kinde of Filiall <lb/>
+            Reu<ex>er</ex>ence towards Docter Whitgifte both before and after hee <lb/>
+            was Bishopp / yett on the other Syde he did not A little love and <lb/>
+            tender Mr Cartwright / thoughe I thincke truelye w<ex>i</ex>th large <lb/>
+            distinction betweene the Person and the Cause, howsoever hee <lb/>
+            was taxed with other Endes in respect of that Partie /
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both Faire Spoken gent<ex>lemen</ex>, not prone &amp; eagerly <lb/>
+            to detract openlye from any Man / And in this the Earle hath bine <lb/>
+            most fully blemished in our vulgar Storye / onelye against one <lb/>
+            man hee had forswor<ex>n</ex>e all patience / Namelye Henrye Lorde <lb/>
+            Cobham, and would call him <foreign xml:lang="la">
+                    <hi rend="italic">per Excellentium</hi>
+                </foreign>, <ex>th</ex>e Sichophant, <lb/>
+            as if it had beene the Embleme of his name, even to the Queene <lb/>
+            her selfe, though of noe small insinuation w<ex>i</ex>th her and one Lady <lb/>
+            likewise (that I maye civillye spare to nominate for her Sexe <lb/>
+            Sake, whom he vsed to terme the Spider of the Courte / Yett <lb/>
+            generallie in the sensitive parte of their Nature, The Earle <lb/>
+            was the worse Philo<add place="above">so</add>pher being A greate recenter, &amp; a weake <lb/>
+            dissembler of the least disgrace, and there in likewise no good <lb/>
+            Pupill to my Lord of Leicester whoe was want to put vp his <lb/>
+            passions in his Pockett 
+         </p>
+         <p>
+            <hi rend="bold">In</hi> the growth of their Fortunes the Duke was A little <lb/>
+            the Swifter and much the greater, For from A you<ex>n</ex>g<ex>e</ex>r brothers <lb/>
+            meane Estate he rose to the highest degree whereof a Subiect <lb/>
+            was capeable either in Tytle or trust / therein I must co<ex>n</ex>fesse much <lb/>
+            morr conformeable to Charles Branden vnder Henry <ex>th</ex>e Eight <lb/>
+            whoe was equall vnto him in both 
+         </p>
+         <p>
+            <hi rend="bold">For</hi> matter of Donatiue and D<del rend="strikethrough">
+                    <unclear/>
+                </del>icions of Substance, I doe nott <lb/>
+            beleeve that the Duke did much exceed him (all considered) vnd<ex>e</ex>r both K<ex>ing</ex>s
+         </p>
+         <p>
+            <hi rend="bold">For</hi> that w<ex>hi</ex>ch the Earle of Essex had receiued from her Ma<ex>jes</ex>tye <lb/>
+            besydes the Fees of his offices and the disposing of great somes in her <lb/>
+            Armies, was about the Tyme of his Arraignem<ex>en</ex>t (when Faultes vse <lb/>
+            to be agravated w<ex>i</ex>th pr<ex>e</ex>cedent benefices) valued at 3: hundred <lb/>
+            thousand poundes sterling in free guift to his owne vse, by the <lb/>
+            <fw type="catch" place="bot-right">Earle</fw>
+            <pb n="309v" facs="/bl/add_ms_22591/add_ms_22591_f309v/add_ms_22591_f309v.jpg"/>
+            Earle of Dorcett the Lord Treasurer, whoe was A wise man &amp; <lb/>
+            A Strict Computest, and not ill affected towards him / And yet <lb/>
+            it is worthie of Note in the Margent of both Tymes, That the one <lb/>
+            was p<ex>ro</ex>secuted w<ex>i</ex>th Spleene, and the other w<ex>i</ex>th Murmur, so vneue<ex>n</ex> <lb/>
+            A Measure is popular Judgment
+         </p>
+         <p>
+            <hi rend="bold">I</hi> cannot heere omitt betweene them A great difference in <lb/>
+            Establishing both their Fortunes and Fames
+         </p>
+         <p>
+            <hi rend="bold">For</hi> the First, the Duke had A Care to introduce into neere <lb/>
+            place at Courte Divers of his Confident Servaunt<ex>es</ex>, and into high <lb/>
+            place verye Sound and grave personages / whereas (excepte A <lb/>
+            Pentioner or Two) wee can scant name any one advanced of <lb/>
+            the Earles breeding but S<ex>i</ex>r Thomas Smithe haueing bine his Se=<lb break="no"/>
+            cretarye, whoe yett came never further (thoughe marryed into <lb/>
+            A noble house) then to be clarke of the Cou<ex>n</ex>cell &amp; Register of <ex>th</ex>e Parlym<ex>en</ex>t
+         </p>
+         <p>
+            <hi rend="bold">Note</hi> that the Earle ment to stand alone like A Substance, <lb/>
+            (For hee was not soe ill A Gramarian in Courte) but the Truthe <lb/>
+            is in this pointe, The Cicillians kept him shorte, as verye well <lb/>
+            knowing that there by vppon verye little Absence or disassitude <lb/>
+            hee would be Subiect to take cold at his Backe
+         </p>
+         <p>
+            <hi rend="bold">For</hi> the other in the Man<ex>n</ex>aging of their Fames, I noate between <lb/>
+            them A direct Contrarye wisedome, For the Earle proceeded by <lb/>
+            waye of Appologie, w<ex>hi</ex>ch he wrote and dispersed w<ex>i</ex>th his owne <lb/>
+            hande att large, thoughe till his going into Ireland they were but <lb/>
+            Ayrerie obiections / But of the Duke this I knowe, That one hav=<lb break="no"/>
+            inge offered for his Ease to doe him that kinde of Service, he refused <lb/>
+            w<ex>i</ex>th A prettye kinde of thankfull Scorne, saying that he would trust <lb/>
+            his owne good Intentions, w<ex>hi</ex>ch God knewe, and leave to him the <lb/>
+            p<ex>ar</ex>doning of his Errors / And that hee sawe noe Fruite of Appollo=<lb break="no"/>
+            gies, But the Multiplying of Discourse / w<ex>hi</ex>ch surelye was a well <lb/>
+            Settled Maxime / And / For myne owne perticuler, thoughe I <lb/>
+            am obnoxious to his memorye, in the profession of Tacitus, <foreign xml:lang="la">
+                    <hi rend="italic">Neq<ex>ue</ex> <lb/>
+            Iniura Neq<ex>ue</ex> Benficio</hi>
+                </foreign>, save that hee shewed mee an Ordinary good <lb/>
+            Countenance, and if I were, yett I would Distinguishe betweene <lb/>
+            gratitude and Truthe, and I must beare him, his Testimonye, that <lb/>
+            in A Comission layd vppon mee, by Soveraigne Comaund, to exami<ex>n</ex>e <lb/>
+            A Ladye about A Certaine Filthie Accusation grounded vpon <lb/>
+            nothinge, but A Fewe Single names, taken vpp by A foote man <lb/>
+            in A Kennell, and Straight Baptised / A liste of such, as the Duke <lb/>
+            had appointed to be ymprissoned at home (himselfe being then in <lb/>
+            Spayne) I founde it to be the most malitious, and Frantique su<ex>r</ex>mise <lb/>
+            and the most Contrarye to his Generous Nature, that I thincke <lb/>
+            had ever bene brewed from the begin<ex>n</ex>ing of the world, howsoev<ex>e</ex>r <lb/>
+            Cou<ex>n</ex>tenanced by A Libellous Pamphlett, of A Fugitive Phisic<ex>i</ex>on <lb/>
+            even in pointe / And yett of this neither, would the Duke suffer <lb/>
+            anye Answere to be made, or on his behalfe / Soe confident hee was, <lb/>
+            to his owne Principles /  
+         </p>
+         <p>
+            <hi rend="bold">In</hi> their Millitarie Services, the Charactors of the Earles <lb/>
+            Imployments were theis
+         </p>
+         <p>
+            <hi rend="bold">His</hi> Forwardest was that of Portugall afore mentioned
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Saddest, that of Rhone, where he lost his deare Brother
+         </p>
+         <p>
+            <hi rend="bold">His</hi> Fortunatest Peece I esteeme, the Taking Cales, Cades, <lb/>
+            Males / and noe lesse modest / For there hee wrote w<ex>i</ex>th his owne hand, <lb/>
+            A Censure of his Omissions / His Iealiousest imploym<ex>en</ex>t was to the <lb/>
+            Releife of Callice / Beseiged by the Cardinall Archduke
+         </p>
+         <p>
+            <hi rend="bold">About</hi> w<ex>hi</ex>ch there passed, then  betweene the Queene, and <ex>th</ex>e French <lb/>
+            kinge, much Arte / His Iourney<hi rend="bold"/> to the Azores, was the best, For the <lb/>
+            <fw type="catch" place="bot-right">discou<ex>er</ex>ye</fw>
+            <pb n="310r" facs="/bl/add_ms_22591/add_ms_22591_f310r/add_ms_22591_f310r.jpg"/>
+            discoverye of the Spanish weaknes / And otherwise almost a Saving voyage <lb/>
+            His Blackest, was that to Ireland ordeyned to bee the Sepulcher of his <lb/>
+            Father, and the gulffe of his owne Fortunes / But the First in 88: <lb/>
+            at Tilburye Campe, was in my Iudgment the verye poyson of all that <lb/>
+            Followed / For there while the Queene Stood in doubte of a Spanish <lb/>
+            Invasion (thoughe it proved but A Morrice daunce) vpon our waves) <lb/>
+            shee made him in Feilde Com<ex>m</ex>au<ex>n</ex>der of the Cavalrye, as he was before <lb/>
+            in Courte: and much graced him openlye, in veiwe of the Soldiers, <lb/>
+            and people, even above my Lord of Leicester, vppon w<ex>hi</ex>ch the truthe <lb/>
+            is, from thence Forthe, he Flies to Fast /
+         </p>
+         <p>
+            <hi rend="bold">The</hi> Dukes Imployem<ex>en</ex>t abroade of this Nature, was onlye <ex>th</ex>e accio<ex>n</ex> <lb/>
+            of Rhee, of w<ex>hi</ex>ch I must note some what For the honor of our Country <lb/>
+            and of his Ma<ex>jes</ex>t<ex>ies</ex> Tymes, and of them, that perished, and Survived / And <lb/>
+            to redeeme it generallie from Misvnderstanding / Therefore after <lb/>
+            delligent inquirye amongst the wyest, and indifferentest Men of <lb/>
+            that Action, I dare pronounce, that all Circu<ex>m</ex>stances pondered, A <lb/>
+            Tumultuarye Landing on our p<ex>ar</ex>te w<ex>i</ex>th about 1000: in the whole / On theirs <lb/>
+            readye to receyve vs, w<ex>i</ex>th 200: Horse w<ex>i</ex>th neere 2000: Foote, and <lb/>
+            watching their best Tyme of Advantage, none of their Foote being <lb/>
+            discovered by vs, before, nor soe much as suspected, and only some <lb/>
+            of their Horse discryed Stragling, but not in anye Bulke or Bodye <lb/>
+            Theire Cavalrie, was A Troope of Bissoigniers, mounted in hast, <lb/>
+            But the greater parte gent<ex>le</ex>men of Families, and of pickt Resoluc<ex>i</ex>o<ex>n</ex>, <lb/>
+            and suche as charged home, both in Fronte, and on both Flanckes into the <lb/>
+            verye Sea, About sixe Score of their <del rend="strikethrough">very </del>
+                <add place="above">200</add> horse Strowed vppon the <lb/>
+            Sande, and none of them, but one killed by A greate Shott / And after <lb/>
+            this, theire Foote likewise coming on to Chardge, till not likeing <lb/>
+            the Busines, they Fell to Flinging of Stones, &amp; soe walked awaye /
+         </p>
+         <p>
+            <hi rend="bold">I</hi> saye theis thinges layd togither, wee haue reason to repute <lb/>
+            it a greate Impression, vppon an vnknowne place, and a Noble <lb/>
+            Argument, that vppon Occasion, wee haue not lost our Au<ex>n</ex>tient <lb/>
+            vigor onelye / I could wishe, that the Duke, whoe then in the Anima=<lb break="no"/>
+            tinge of the Soldiers, shewed them verye Emynent Assurance had <lb/>
+            afterwardes remembred that Rule of Apelles, <foreign xml:lang="la">
+                    <hi rend="italic">Manum de Tabula,</hi>
+                </foreign> <lb/>
+            But he was greadye of honor, and hott, vpon the publique Endes, &amp; <lb/>
+            to Confident in the p<ex>ro</ex>speritie of begin<ex>n</ex>ings / as some where, <hi rend="italic">Pollibius</hi> <lb/>
+            that greate Critticque of warre, Observeth of young Leaders, <lb/>
+            whom Fortune hath not before deceived in this their Millitary <lb/>
+            Care / and dispensac<ex>i</ex>on of Reward and punishment There were <lb/>
+            verye Few Remarkable Occasions, vnder the Duke, saving his Con=<lb break="no"/>
+            tinuall vigillancie, and voluntarye hazard of his p<ex>er</ex>son / And kind=<lb break="no"/>
+            nes to the Soldiers: both from his owne Table, and purse / For there <lb/>
+            could be few, disorders w<ex>i</ex>thin an Island, where his Troopes had <lb/>
+            noe Scope to disband / And the Inferior Com<ex>m</ex>au<ex>n</ex>ders were still in his sight
+         </p>
+         <p>
+            <hi rend="bold">In</hi> the Earle, wee haue two examples of his Severitie / The one <lb/>
+            in the Island vioage, where hee threwe A Soldier, w<ex>i</ex>th his owne <lb/>
+            handes out of A Shipp / The other in Ireland, where he decimated <lb/>
+            certaine Troopes, that had runn awaye / Renewing A peece of the <lb/>
+            Romane discipline / On the other Syde, wee haue manye of his Lenitye <lb/>
+            And one of his Facillitie, when hee did Conyve att the bould e<ex>n</ex>t<ex>e</ex>rprise <lb/>
+            of S<ex>i</ex>r Walter Raleighe, whoe, before his owne Arryvall, at Fyall, <lb/>
+            had landed there against his precise Com<ex>m</ex>aundment att w<ex>hi</ex>ch tyme, <lb/>
+            hee lett fall a Noble worde, For being pressed by one, whose <lb/>
+            name I neede not remember, that att least, he would putt him <lb/>
+            vppon A Martiall Courte. that I would doe, said hee, if he were <lb/>
+            my frende /
+         </p>
+         <fw type="catch" place="bot-right">
+                <hi rend="bold">And</hi>
+            </fw>
+         <pb n="310v" facs="/bl/add_ms_22591/add_ms_22591_f310v/add_ms_22591_f310v.jpg"/>
+         <p>
+            <hi rend="bold">And</hi> nowe I am draweing, towardes the last Acte of them both, <lb/>
+            which was written in the Booke of necessitie / At the Earles End, I <lb/>
+            was Abroad, but when I came home, thoughe little was lefte For <lb/>
+            Writters to gleane, From Iudges / yett I spent some Curiositye to <lb/>
+            searche, what it might bee, that could precipitate him, in to Suche <lb/>
+            A Prodigious Catastiophe (and I must according to my professed <lb/>
+            Freedome, deliver a Circu<ex>m</ex>stance or two, of some weight in <ex>th</ex>e Truth <lb/>
+            of that Storye, w<ex>hi</ex>ch was neither discovered att his Arraignement <lb/>
+            nor after in any of his private Confessions /         
+         </p>
+         <p>
+            <hi rend="bold">There</hi> was amongst his neerest attendance, one Henry Cuffe, <lb/>
+            A man of Secrett Ambitions endes, of his owne, &amp; of p<ex>ro</ex>porc<ex>i</ex>onate <lb/>
+            Councells, Smoothered vnder the habitt of A Scholler, &amp; Slubbered <lb/>
+            over, w<ex>i</ex>th A certayne Rude, and Clownishe Fellowe, that had the <lb/>
+            Assemblau<ex>n</ex>ce of Integritye
+         </p>
+         <p>
+            <hi rend="bold">This</hi> Person, not above Five or Sixe weekes before my Lordes <lb/>
+            Fatall eruption into the Cittie, was by the Earles Speciall Comaund <lb/>
+            Suddainelye discharged from all further attendance, or Accesse vnto <lb/>
+            him, out of an Inwarde displeasure then taken, against his sharpe &amp; <lb/>
+            import<add place="above">u</add>nate Infussions, and out of A Glymeringe Fore sight, that hee <lb/>
+            would proue the verye Instrument of his Ruyne / 
+         </p>
+         <p>
+            <hi rend="bold">I</hi> must add heerevnto, that about the same Tyme, My Lord had <lb/>
+            receyved from the Countisse of Warwicke, A Ladye powerable <lb/>
+            in the Courte, and indeed A virtuous vser of her power, the best <lb/>
+            Advice, that I ever thincke was given him, From either Sex / that <lb/>
+            when he was Free from restrainte, hee would Closelye take any <lb/>
+            Lodginge in Greenew<ex>i</ex>ch, And sometymes when the Queene we<ex>n</ex>t <lb/>
+            abroade in A good humor, whereof shee would giue him Notice, <lb/>
+            hee should come, and humble himselfe before her, in the Feild, <lb/>
+            This Cou<ex>n</ex>cell suncke much into him, and for some dayes, hee had <lb/>
+            resolved itt / But in the meane tyme, throughe the Intercession <lb/>
+            of the Earle of Southampton, whom Cuffe had gayned, he was <lb/>
+            Restored to my Lord<ex>es</ex> Eare / and soe working vpon the disgraces, <lb/>
+            and vppon vayne Foundations of vulgar Breathe / Spunne out <lb/>
+            the Fynall distruction of his M<ex>aste</ex>r, and himselfe / And allmost of <lb/>
+            his Restorer, yf his pardon had not bine wonne by Inches
+         </p>
+         <p>
+            <hi rend="bold">True</hi> it is that the Earle in West<ex>min</ex>ster hall, did in generall <lb/>
+            disclose the Euill perswasions of this Man: But the p<ex>ar</ex>ticulers w<ex>hi</ex>ch <lb/>
+            I haue related of his dismission, and Restituc<ex>i</ex>on, hee buryed in his <lb/>
+            Brest / For some Reasonns Apparent enoughe, indeed, as I con=<lb break="no"/>
+            iecture, not to exasperate the Case of my Lord of South<ex>hamp</ex>ton though <lb/>
+            he might there w<ex>i</ex>th peradventure A little haue mollified his owne /
+         </p>
+         <p>
+            <hi rend="bold">The</hi> whole reporte I had by infallible meanes, From the p<ex>er</ex>son <lb/>
+            himselfe, that both brought the Advice Fro<ex>m</ex> the Aforesaid excellent <lb/>
+            Ladye, and carryed the discharge to Cuffe, whoe in A private cha<ex>m</ex>ber <lb/>
+            was Strucken there with into A Sounde, allmost dead to the Earthe, <lb/>
+            As if hee had Fallen fro<ex>m</ex> some highe Steeple, Such Turretts of <lb/>
+            hope, hee had built in his owne Fancye
+         </p>
+         <p>
+            <hi rend="bold">Touch</hi>ing, the Dukes Suddaine Peryod, howe others haue pr<ex>e</ex>se<ex>n</ex>ted <lb/>
+            it to their Fancyes, I cannot determyne, For my part I must p<ex>ro</ex>test <lb/>
+            From my Soule, that I never call it to mynde, w<ex>i</ex>thout A deepe &amp; <lb/>
+            double astonishment of my discourse and reason
+         </p>
+         <p>
+            <hi rend="bold">First</hi> at the verye horror, and Attrocitye of the Facte, in A <lb/>
+            Christian Courte, and vnder soe Moderate A governem<ex>en</ex>t But <lb/>
+            much more, at the impudencie of the pr<ex>e</ex>tence, whereby a desp<ex>er</ex>ate <lb/>
+            and discontented Assassinate, would after the p<ex>er</ex>petrac<ex>i</ex>on, haue <lb/>
+            honested A meere private Revenge / as by precedent Circum=<lb break="no"/>
+            stances, is Evident enoughe, w<ex>hi</ex>ch I know not vpo<ex>n</ex> what publique <lb/>
+            Respects, and would fayne, haue given it A Paryam<ex>en</ex>tary Cou<ex>er</ex>, howsoever
+         </p>
+         <fw type="catch" place="bot-right">
+                <hi rend="bold">Thus</hi>
+            </fw>
+         <pb n="311r" facs="/bl/add_ms_22591/add_ms_22591_f311r/add_ms_22591_f311r.jpg"/>
+         <p>
+            <hi rend="bold">Thus</hi> theis two great Peeres were disrobed of their Glorye <lb/>
+            Th’one by Iudgm<ex>en</ex>t And th’other by violence, w<ex>hi</ex>ch was <ex>thei</ex>r finall disruptio<ex>n</ex>
+         </p>
+         <p>
+            <hi rend="bold">Now</hi> after this Shorte Contemplac<ex>i</ex>on of their <del rend="strikethrough">
+                    <unclear/>
+                </del> Diversities <lb/>
+            For muche more might haue beene spoken, But that I was Fitter <lb/>
+            For A Rapsedie, then A Comentarye
+         </p>
+         <p>
+            <hi rend="bold">I</hi> am lastlye desirous to take A Sumarye veiwe of their Con=<lb break="no"/>
+            formities, w<ex>hi</ex>ch I verelye beleeve, wilbe founde, as manye thoughe <lb/>
+            perchance heeded by Fewe / As are extant, in anye of the Au<ex>n</ex>tient <lb/>
+            Paralells
+         </p>
+         <p>
+            <hi rend="bold">They</hi> both Slept longe in the Armes of Fortune
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both of Au<ex>n</ex>tient Bloode, and of Forrayne <lb/>
+            extracc<ex>i</ex>ons
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were bothe of Straight, and Goodlye Stature, and of <lb/>
+            able and Active Bodyes
+         </p>
+         <p>
+            <hi rend="bold">They</hi> weere bothe Industrious, Assiduous, and intentive, <lb/>
+            to their Endes
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were bothe Privye Cou<ex>n</ex>sellors, and imployed at home, <lb/>
+            in the Secrettest, and waightiest Affayres of the Courte &amp; State /
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both, likewise Comaunded Abroade in Cheiffe, <lb/>
+            as well by Sea, as by Lande
+         </p>
+         <p>
+            <hi rend="bold">Both</hi> Masters of the Horse att home / Both Chosen Chau<ex>n</ex>cellors <lb/>
+            of the same vniversitye, Namelye Cambridge 
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both indubitablye Stronge, and highe mynded men, <lb/>
+            yett of Sweete, and Accessable nature, allmost equally delighting <lb/>
+            in the Presse and Affluence of dependors and Sutors which are all=<lb break="no"/>
+            wayes the Burres, and sometimes the Bryers of Favourites 
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both Maryed to verye vertuous Ladyes, &amp; sole <lb/>
+            heyres, and left yssue of either Sexe, and both their wives con=<lb break="no"/>
+            verted to Contrarye Religions
+         </p>
+         <p>
+            <hi rend="bold">They</hi> were both in themselves, excellent and rare examples <lb/>
+            of Temperance, and Sobrietie / But, neither of them of Co<ex>n</ex>tine<ex>n</ex>cye 
+         </p>
+         <p>
+            <hi rend="bold">Lastlye</hi> as they had both beene Sub<ex>jec</ex>te (as all greatnes, &amp; sple<ex>n</ex>der <lb/>
+            is to certaine Obliquyes of their Acc<ex>i</ex>ons, They both (Concluded <lb/>
+            theire Earthlye Felicitye, in vnnaturall Endes, and w<ex>i</ex>th no great <lb/>
+            distance of Tyme, in the Space either of Liffe or Favour / 
+         </p>
+         <p>
+            <hi rend="bold">And</hi> soe haueing discharged this poore Exercise of my pen, <lb/>
+            according to my knowledge, and Realtie / Lett, vs Comitt, theis two <lb/>
+            Noble Peeres to their Eternall Rest, w<ex>i</ex>th their Memorable <lb/>
+            Abillityes, remayning in Fewe, and theire Compassionable infir=<lb break="no"/>
+            mities Com<ex>m</ex>on to all. /
+         </p>
+         <p rend="align-right">
+            <hi rend="bold">Finis/</hi>
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/bl/add_ms_22591/add_ms_22591_f306r/add_ms_22591_f306r.jpg"/>
+      <graphic n="2" url="/bl/add_ms_22591/add_ms_22591_f306v/add_ms_22591_f306v.jpg"/>
+      <graphic n="3" url="/bl/add_ms_22591/add_ms_22591_f307r/add_ms_22591_f307r.jpg"/>
+      <graphic n="4" url="/bl/add_ms_22591/add_ms_22591_f307v/add_ms_22591_f307v.jpg"/>
+      <graphic n="5" url="/bl/add_ms_22591/add_ms_22591_f308r/add_ms_22591_f308r.jpg"/>
+      <graphic n="6" url="/bl/add_ms_22591/add_ms_22591_f308v/add_ms_22591_f308v.jpg"/>
+      <graphic n="7" url="/bl/add_ms_22591/add_ms_22591_f309r/add_ms_22591_f309r.jpg"/>
+      <graphic n="8" url="/bl/add_ms_22591/add_ms_22591_f309v/add_ms_22591_f309v.jpg"/>
+      <graphic n="9" url="/bl/add_ms_22591/add_ms_22591_f310r/add_ms_22591_f310r.jpg"/>
+      <graphic n="10" url="/bl/add_ms_22591/add_ms_22591_f310v/add_ms_22591_f310v.jpg"/>
+      <graphic n="11" url="/bl/add_ms_22591/add_ms_22591_f311r/add_ms_22591_f311r.jpg"/>
+      <graphic n="12" url="/bl/add_ms_22591/add_ms_22591_f311v/add_ms_22591_f311v.jpg"/>
+   </facsimile>
 </TEI>

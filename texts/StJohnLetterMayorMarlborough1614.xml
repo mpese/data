@@ -22,12 +22,35 @@
                <name>Mike Jones</name>
                <resp>Research Software Engineer</resp>
             </respStmt>
+            <respStmt xml:id="AM">
+               <name>Anthony Magg</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="BH">
+               <name>Bob Hanna</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="IW">
+               <name>Ingrid Walton</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt xml:id="mpese_pubstat">
             <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
             <date when="2017">2017</date>
          </publicationStmt>
          <sourceDesc>
+            <msDesc corresp="../mss/NorfRO_HMN_7307_772X8.xml">
+               <msIdentifier xml:id="NorfRO_HMN_7307_772x8">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>HMN 7/307, 772X8</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">Norfolk Record Office,  HMN 7/307, 772X8</p>
+            </msDesc>
             <listBibl xml:id="mss_witness">
                <bibl>
                </bibl>
@@ -82,9 +105,6 @@
                         <ref type="ms" target="../mss/Huntington_HM_213.xml">Huntington Library,  HM 213, pp153–160</ref>
                     </bibl>
                     <bibl>
-                        <ref type="ms" target="../mss/NorfRO_HMN_7307_772X8.xml">Norfolk Record Office,  HMN 7/307, 772X8, ff. 175r–v</ref>
-                    </bibl>
-                    <bibl>
                         <ref type="ms" target="../mss/Queens_College_Oxford_MS_121.xml">Queen's College,  MS 121, ff. 466–467</ref>
                     </bibl>
                     <bibl>
@@ -110,6 +130,9 @@
             <date when="1614">1614</date>
             <placeName/>
          </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+         </langUsage>
          <textClass>
             <keywords n="text-type">
                <term>letter</term>
@@ -128,13 +151,119 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change when="2018-07-05" who="#RB" status="placeholder"/>
+            <change when="2018-09-24" who="#RB" status="drafted"/>
+            <change when="2018-08-20" who="#AM" status="transcribed"/>
+            <change when="2018-08-20" who="#BH" status="transcribed"/>
+            <change when="2018-08-20" who="#IW" status="transcribed"/>
          </listChange>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <pb n="175r" facs="/nro/hmn_7-308/hmn_7-308-001/hmn_7-308-001.jpg"/>
+         <head rend="align-centre">
+            This kind of Beneuolence is against <lb/>
+            lawe, Reason &amp; Religeon
+         </head>
+         <p>
+            <add place="LM">
+               Against <lb/>
+               lawes
+            </add> 
+            The lawe is in <ex>th</ex>e statutes called Magn(<unclear>-</unclear>a Carta .9. H. 3. Cap. 29. <lb/>
+            That no such free man bee anie way destroyed but by <ex>th</ex>e lawes <lb/>
+            of <ex>th</ex>e lande/.
+         </p>
+         <p>
+            <add place="LM">2</add>
+            Secondlie (beside <ex>tha</ex>t <ex>th</ex>e sayd Statute of Magna Charta <lb/>
+            is by all Princes tyme established &amp; confirmed) <ex>tha</ex>t is in <lb/>
+            this especiall Cause of voluntarie or fre graunts marked and <lb/>
+            decreed .25. Edw .1. Ca .6. That none such be drawen into <lb/>
+            Castome, And. Ca .6. <ex>tha</ex>t henceforth be taken noe such Aides, <lb/>
+            taskes, free graunts or prises but by assent of all <ex>th</ex>e Relme, and <lb/>
+            for <ex>th</ex>e good of <ex>th</ex>e same, And in primo Ric .3. Ca .2. That the <lb/>
+            Subiectes &amp; Comones of this Realme from hencefourth shall in <lb/>
+            noe wise be charged by anie Charge or Imposic<ex>i</ex>on callede <lb/>
+            a Beneuolece or anie suchlike Charge, And <ex>th</ex>at such Exactiones <lb/>
+            called a Beneulence shalbe damned &amp; adnulled for euer/.
+         </p>
+         <p>
+            <add place="LM">
+               Against <lb/>
+               Reason
+            </add>
+            It is not onelie without but against Reason <ex>tha</ex>t the Com<ex>m</ex>ones <lb/>
+            in these seueralls and p<ex>ar</ex>ticuleres should be made reliueres &amp; supplires <lb/>
+            of his Ma<ex>jes</ex>ties wantes whoe neither knowe his wants nor <ex>th</ex>e <lb/>
+            som<ex>m</ex>es of monie <ex>tha</ex>t be this waie raised to supplye <ex>th</ex>e same/.
+         </p>
+         <p>
+            <add place="LM">2</add> 
+            Secondlie it is against reason, That <ex>th</ex>e p<ex>ar</ex>ticuler seuerall Com<ex>m</ex>ons <lb/>
+            distracted should oppose theire Iudgmentes and distruc<ex>i</ex>on to <ex>th</ex>e Iudgments <lb/>
+            and distraction of <ex>th</ex>e wisedome of <ex>th</ex>e land assembled in p<ex>ar</ex>liment. <lb/>
+            whoe ther haue denied ani such Aide/. or <del rend="strikethrough">anie such aide</del> <lb/>
+         </p>
+         <p>
+            <add place="LM">
+               Againste <lb/>
+               Religeon
+            </add>
+            If argueth in us want of <ex>tha</ex>t lawe &amp; due respecte of our soueringue <lb/>
+            Lorde and kinge, w<ex>hi</ex>ch <add place="above">ought</add> to be <unclear>
+                    <del rend="strikethrough">staire</del>
+                </unclear> <add place="above">in</add> euerie of vs towards each other, <lb/>
+            w<ex>hi</ex>ch is to staye euerie one whome <del rend="strikethrough">whome</del> wee see fallinge and to <lb/>
+            reduce <ex>th</ex>e Errant, what p<ex>ro</ex>speritie can ther be expected to <lb/>
+            befall either o<ex>u</ex>r kinge or nac<ex>i</ex>on, when <ex>th</ex>e kinge shall happilie <lb/>
+            of ignorance or (as I hope) out of for<add place="above">g</add>etflness &amp; vnheedious comytt <lb/>
+            soe great a sinne against his God As is <ex>th</ex>e violating of his greate <lb/>
+            and <unclear>solempue</unclear> Oathe taken at his Coronac<ex>i</ex>on for the may<ex>n</ex>taynene <lb/>
+            of <ex>th</ex>e lawes Liberties &amp; customes of this Noble Realme, <lb/>
+            And his Subiecte, som for f<unclear>-</unclear>eare, some in pride, som to pleas<add place="above">e</add>
+                <unclear>-</unclear> <lb/>
+            others shall Ioine hands to forward soe vnhappie ann acheiuement.
+         </p>
+         <pb n="175v" facs="/nro/hmn_7-308/hmn_7-308-002/hmn_7-308-002.jpg"/>
+         <p>
+            Can he anie way offend <ex>th</ex>e dyuine Ma<ex>jes</ex>tie whome he hathe <lb/>
+            in vocated, as alsoe ca<ex>n</ex>n hee give annother H: <ex>th</ex>e 4th if such<unclear>
+                    <del rend="strikethrough">auone</del>
+                </unclear> <add place="above">an one</add> <lb/>
+            sholde rise vpp (which god forbide) a greater aduantage? Let his Articles <lb/>
+            put vp in p<ex>ar</ex>liment against R. <ex>th</ex>e 2. be looked on, <add place="above">
+                    <unclear>it</unclear>
+                </add> <ex>i</ex>t will apeare that <lb/>
+            <ex>th</ex>e breache of <ex>th</ex>e lawes, Infringinge<ex>th</ex>e libertes &amp; failing in this <lb/>
+            his Oath were the maine blemishes <del rend="strikethrough">and fayling</del> when w<ex>hi</ex>ch he could <lb/>
+            spott and distayne <ex>th</ex>e honor of <ex>tha</ex>t good and gentel Prince, whoe <lb/>
+            indeede <unclear>was</unclear> rather by otheres abused, then of himselfe anie way <lb/>
+            mischeuouslie disposed/.
+         </p>
+         <p>
+            <add place="LM">2</add>
+            Secondlie as verie irreligeouslie &amp; uncharitablie <del rend="strikethrough">will</del>
+                <add place="above">wee</add> helpe <lb/>
+            forwarde <ex>th</ex>e kinges Ma<ex>jes</ex>tie in <ex>tha</ex>t greeuous sinn of p<ex>er</ex>iurye, Soe into <lb/>
+            what a hellish danger wee prolonge our selues (euen soe manie of us <lb/>
+            as doe contribute) <ex>i</ex>s tabelarned out of <ex>th</ex>e seuerall Curses &amp; Sentences <lb/>
+            of Excommicatione giuen out agaynst all such Giueres, and <lb/>
+            Namelie <ex>th</ex>e .2. followeinge, viz. <ex>th</ex>e greate curse giuin out – 51 – H – 3 <lb/>
+            against all breakers of <ex>th</ex>e libertes &amp; Customes of <ex>th</ex>e Realme of <lb/>
+            England, w<ex>i</ex>th those albettores, Counsalors and <unclear>ey<unclear/>es</unclear> wherin <lb/>
+            by <ex>tha</ex>t sentence of Boniface Archb<ex>ihso</ex>p of <unclear>Cahto</unclear> &amp; <ex>th</ex>e cheefe p<ex>ar</ex>t <lb/>
+            of all <ex>th</ex>e <unclear>-</unclear>
+                <add place="above">then</add> Bishopes of this land they are ipso facto Exco<ex>m</ex>iat <lb/>
+            And <ex>tha</ex>t of .25. Ed. 1 denownced Imediatlie uppon <ex>th</ex>e Acts made <lb/>
+            against such Beneuolenc or free grantes and imposiones had &amp; taken <lb/>
+            w<ex>i</ex>thout Co<ex>m</ex>mon assent, w<ex>hi</ex>ch becaus it is not soe longe as <ex>tha</ex>t former, I will <lb/>
+            sett downe as Jo<ex>h</ex>n bookes deliuer the same ./. In the name of etc.
+         </p>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/nro/hmn_7-308/hmn_7-308-001/hmn_7-308-001.jpg"/>
+      <graphic n="2" url="/nro/hmn_7-308/hmn_7-308-002/hmn_7-308-002.jpg"/>
+   </facsimile>
 </TEI>

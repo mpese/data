@@ -1,0 +1,1486 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Truth Teller [or, Tom Tell-Troth]</title>
+            <author/>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+            <respStmt xml:id="VA">
+               <name>Victoria Anker</name>
+               <resp>BRIHC Research Impact Fellow</resp>
+            </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="SW">
+               <name>Susan Ward</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/NorfRO_AYL192.xml">
+               <msIdentifier xml:id="NorfRO_AYL192">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>AYL/192</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">Norfolk Record Office,  AYL/192</p>
+            </msDesc>
+                <listBibl xml:id="mss_witness_generated"/>
+            
+            <listBibl xml:id="C17_print_witness">
+               <bibl>
+                  <author/>
+                  <title>Tom-Tell-Troth or A free discovrse tovching the mvrmvrs of the time</title>
+                  <date when="1630">[1630?]</date>
+                  <pubPlace>[Amsterdam?]</pubPlace>
+                  <idno type="STC">23868</idno>
+               </bibl>
+               <bibl>
+                  <author/>
+                  <title>Tom-Tell-Troth, or A free discourse touching the murmurs of the times</title>
+                  <date when="1642">1642</date>
+                  <pubPlace>London</pubPlace>
+                  <idno type="Wing">T1786</idno>
+               </bibl>
+            </listBibl>
+            
+            <listBibl xml:id="modern_print_witness">
+               <bibl>
+                  <title type="shorttitle">The Harleian Miscellany</title>
+                  <edition>1st ed.</edition> 
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="400" to="418">400-418</biblScope>
+               </bibl>
+               <bibl>
+                  <title type="shorttitle">Somers Tracts</title>
+                  <edition>2nd ed.</edition> 
+                  <biblScope unit="volume">2</biblScope>
+                  <biblScope unit="page" from="469" to="492">469-492</biblScope>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+                <p/>
+            </abstract>
+         <creation>
+            <date when="1622">1622</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>discourse</term>
+               <term>vox populi</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>foreign policy</term>
+               <term>confessional conflict</term>
+               <term>anti-catholicism</term>
+               <term>Palatinate</term>
+               <term>France</term>
+               <term>Protestantism</term>
+               <term>kingship</term>
+               <term>officeholding</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-25" who="#RB" status="draft"/>
+            <change when="2018-08-20" who="#SW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="[1r]" facs="/nro/ayl_192/ayl_192-001/ayl_192-001.jpg"/>
+         <p>
+            S<ex>i</ex>r
+         </p>
+         <p>
+            Since they that haue the honor to app<ex>er</ex>teyne vnto you haue <lb/>
+            neither the Courage nor Conscience to acquaynt you w<ex>i</ex>th the <lb/>
+            fearefull discontents of the tyme but suffer you to lose yo<ex>u</ex>r subiect<ex>es</ex> <lb/>
+            hart<ex>e</ex>s soe slightly as if they were not worthie the keepinge, I <lb/>
+            a pore vnknowne suppliant whoe <unclear/> neu<ex>er</ex> had the happines to come <lb/>
+            nere yo<ex>u</ex>r Ma<ex>jes</ex>ties but in the thronge nor to take any other oath in <lb/>
+            yo<ex>u</ex>r service then the oathe of allegience, haue adventured vppon <lb/>
+            soe much forwardnes at this tyme of neede when all places are <lb/>
+            indeede voyde (w<ex>hi</ex>ch Covetousnes &amp; high ambition seemeth to fill) <lb/>
+            as to thrust my selfe unto the best office aboute you, then p<ex>re</ex>sident of <lb/>
+            yo<ex>u</ex>r Councell, or Earle marshall of England, and more discontinued <lb/>
+            then the noble office of tellinge the trueth, wherin <ex>i</ex>f my bould <lb/>
+            =nes make me forfeit my discretion, my loyaltie I hope will <lb/>
+            begg my p<ex>ar</ex>don, and the rather because I p<ex>er</ex>swade my selfe <lb/>
+            I ame not altogither w<ex>i</ex>thout warrant for that I doe, for it <lb/>
+            was my death not longe sithence to take notice of two p<ex>ro</ex>clama<add place="above">c<ex>i</ex>ons</add> <lb/>
+            w<ex>hi</ex>ch came out in yo<ex>u</ex>r Ma<ex>jes</ex>ties name against inordinate talkinge <lb/>
+            wherin it is yo<ex>u</ex>r gracious plesuer to make all yo<ex>u</ex>r lovinge subiects <lb/>
+            of what Condic<ex>i</ex>on soeu<ex>er</ex> Instrument of State, by givinge them not <lb/>
+            a bare volentary power but a substanciall Charge and <lb/>
+            Comission to informe against all those that shall hereafter <lb/>
+            offend in <ex>tha</ex>t kinde, Now yo<ex>u</ex>r Ma<ex>jestie</ex> shall knowe <ex>tha</ex>t I ame one of <ex>th</ex>e <lb/>
+            greatest Company keep<ex>er</ex>s in this <del rend="strikethrough">tyme</del> towne and therefore <lb/>
+            cannot but be guyltie of many things that I ame bound to reveale, <lb/>
+            no obedience to yo<ex>u</ex>r Royall Comand (w<ex>hi</ex>ch is <ex>th</ex>e death I p<ex>ro</ex>pose to my <lb/>
+            selfe at this p<ex>re</ex>sent) the misery is I know not where to begyn <lb/>
+            whome to accuse in p<ex>ar</ex>ticuler of so gen<ex>er</ex>all Cryme, I vow to god &amp; <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>tie, I can come into no meetinge but I fynde <ex>th</ex>e p<ex>re</ex>dominant <lb/>
+            humor to be talkinge of <ex>th</ex>e warrs of <unclear/> the honor of their <lb/>
+            Countrie or such lyke treson, And I would to god they would <lb/>
+            stopp there, &amp; p<ex>ro</ex>fane no further <ex>th</ex>e things that are aboue them, <lb/>
+            but such are <ex>th</ex>e Rage &amp; follie of their tong<ex>es</ex> as they spare not <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ties sacred p<ex>er</ex>son, yea to descant vppon yo<ex>u</ex>r Royall Stile is <lb/>
+            now their Comon pastime, that you are o<ex>u</ex>r true &amp; lawfull Kinge <lb/>
+            there is none soe divilishly affected as to deny <ex>i</ex>t, but there <lb/>
+            be w<ex>hi</ex>ch fynd such falt w<ex>i</ex>th yo<ex>u</ex>r Ma<ex>jes</ex>ties gou<ex>er</ex>ment as they wish queene <lb/>
+            Elizabeth were alive againe whoe (they say) would neu<ex>er</ex> haue <lb/>
+            suffered <ex>th</ex>e enimes of their religion to haue vnballanced <lb/>
+            Christiendome as they haue done w<ex>i</ex>thin these fewe yeres, They <lb/>
+            make a mock of <ex>th</ex>e word greate Brittaine, and offer to p<ex>ro</ex>ve <ex>tha</ex>t it <unclear>is</unclear> <lb/>
+            a great deale lesse then little England was wont to be lesse in <unclear/> <lb/>
+            reputation, lesse in strength lesse in Riches, lesse in all man<unclear>ner</unclear> <lb/>
+            of vertues, and whatsoeu<ex>er</ex> is required to make a state greate <unclear>&amp;</unclear> <lb/>
+            happie, They wonder why you call yo<ex>u</ex>r selfe Kinge of france and <lb/>
+            suffer yo<ex>u</ex>r best subiects their to be ruined, For Ireland they say y<unclear>ou</unclear> <lb/>
+            content yo<ex>u</ex>r selfe w<ex>i</ex>th <ex>th</ex>e name &amp; let others receive <ex>th</ex>e p<ex>ro</ex>fitt/
+         </p>
+         <fw type="catch" place="bot-right">As f<unclear>or</unclear>
+            </fw>
+         <pb n="[1v]" facs="/nro/ayl_192/ayl_192-002/ayl_192-002.jpg"/>
+         <p>
+            <unclear>-</unclear> As for the tytle of defend<ex>e</ex>r of the faith w<ex>hi</ex>ch <lb/>
+            was wont to be a Controu<ex>er</ex>sy betwene vs and Rome <lb/>
+            they say flatly that yo<ex>u</ex>r faithfull subiects haue more <lb/>
+            cause to question <ex>i</ex>t not w<ex>i</ex>th the papists, for they wer neu<ex>er</ex> <lb/>
+            better defended in their lives  witnes the Iudges private <lb/>
+            instructions, and the pursevants open p<ex>ro</ex>hibitions, and <lb/>
+            the Spanish Ambassadors more then the p<ex>ar</ex>liament<ex>es</ex> p<ex>ro</ex>tections <lb/>
+            Lastly that you are the head of o<ex>u</ex>r Church, they dare not <lb/>
+            doubt but of what Church they would gladly knowe <lb/>
+            The tryvmphant they say <ex>i</ex>t cannot be because there be <lb/>
+            Corruptions and vexsations in <ex>i</ex>t, and how farr <ex>i</ex>t is <lb/>
+            <add place="LM">Church dormant</add>
+            from beinge millitant, they call heauen &amp; earth to witnes <lb/>
+            therefore they conclude it must be the Churche dormant <lb/>
+            or none And they say the truth for wee are the securest <lb/>
+            sinners in the world.
+         </p>
+         <p>
+            These are the thing<ex>e</ex>s that haue most redely offered them <lb/>
+            selues to my remembrance because they followe one another <lb/>
+            in a kinde of order But if I would report all the <lb/>
+            disorderly and extravagent speeches I haue heard of this <lb/>
+            nature I must be faine to ranke my memory, and I feare <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ties pacience yet rather to leaue the least shadowe <lb/>
+            of suspicion vppon my playne dealinge by seeminge to <lb/>
+            Curtalle <ex>i</ex>t in <ex>th</ex>e p<ex>er</ex>formance of a necessary dutie I will <lb/>
+            adventure to add these fewe
+         </p>
+         <p>
+            They that take the affaiers of yo<ex>u</ex>r Children most to harte <lb/>
+            not beinge able to discerne the Compassion of yo<ex>u</ex>r bowells <lb/>
+            but Iudginge things by <ex>th</ex>e extention of yo<ex>u</ex>r acc<ex>i</ex>ons, will <lb/>
+            hardly be p<ex>er</ex>swaded that you ar their father because they <lb/>
+            see the Lamentable estate, wherin you suffer them to <lb/>
+            be reduced and nerer destruction then the nature <lb/>
+            of fatherly correction
+         </p>
+         <p>
+            They are not ignorant that yo<ex>u</ex>r Ma<ex>jes</ex>tie hath made as though <lb/>
+            you would haue done somethinge for them but they alsoe <lb/>
+            knowe the Course you haue taken hath bene more forma<add place="above">ll</add> <lb/>
+            then effectuall more chargable then <unclear>
+                    <del rend="strikethrough">a</del>
+                </unclear> honorable and <lb/>
+            are of opinion that e<ex>i</ex>ther yo<ex>u</ex>r Ambassad<ex>o</ex>rs haue not <lb/>
+            negosiated as they ought, or els haue met w<ex>i</ex>th very evill <lb/>
+            mast<ex>e</ex>rs of request abroade, since they haue not bene able <lb/>
+            to get their petic<ex>i</ex>ons answered
+         </p>
+         <p>
+            The very Papists them selues doe <del rend="strikethrough">require</del> repine at <ex>th</ex>e <lb/>
+            error and say that the <unclear/> and monies <ex>tha</ex>t yo<ex>u</ex>r Ma<ex>jes</ex>tie hath <lb/>
+            Consumed <add place="above">of</add> late in yo<ex>u</ex>r vnprofitable tretie<del rend="strikethrough">s</del> haue bene farr <lb/>
+            bett<ex>e</ex>r ymployed in redeeminge yo<ex>u</ex>r mothers <del rend="strikethrough">sald</del> scald out of <lb/>
+            Purgatory For to get <ex>th</ex>e enemy out of yo<ex>u</ex>r Childrens cuntry <lb/>
+            other <unclear/> might haue bene founde a great deale more <lb/>
+            <fw type="catch" place="bot-right">propper</fw>
+            <pb n="[2r]" facs="/nro/ayl_192/ayl_192-002/ayl_192-002.jpg"/>
+            proper in the meanetyme they doe not only buyld, but <lb/>
+            fortefie their p<ex>er</ex>nitious hopes vppon yo<ex>u</ex>r Ma<ex>jes</ex>ties pacience for <lb/>
+            seeinge how easilie you tollerate all things abroade, they <lb/>
+            doubt not ere longe, but <del rend="strikethrough">that you</del> they shall haue a tollerac<ex>i</ex>on <lb/>
+            at home, our godly preachers doe alredie pray against that <lb/>
+            every day w<ex>i</ex>th soe much fervencie as if <ex>i</ex>t were at hand <lb/>
+            And though their be order given that they shall preach <lb/>
+            nothinge but Courte divinitie yet a man may easilie p<ex>er</ex>ceive <lb/>
+            by the very Choice of their texts and the teares in their eyes <lb/>
+            that <ex>i</ex>f they durst they would speake there Conscience <lb/>
+            The p<ex>er</ex>petuall walkers in Paules doe now dispayer eu<ex>er</ex> to <lb/>
+            see there materiall Church repayred, since the spirituall <lb/>
+            and more worthie are suffered to goe to wrack, and some <lb/>
+            of them not daringe to Meddle w<ex>i</ex>th matt<ex>e</ex>rs of State, because <lb/>
+            they are monied men and yet knowinge not how to hould <lb/>
+            their peace vppon this sudden warninge thinke it there best <lb/>
+            course to talke of nothinge but ecclesiasticall matt<ex>e</ex>rs wherin <lb/>
+            they all agree that yo<ex>u</ex>r Ma<ex>jes</ex>tie hath pulled downe <ex>th</ex>e Church <lb/>
+            more w<ex>i</ex>th yo<ex>u</ex>r p<ex>ro</ex>ceeding<ex>es</ex> then yo<add place="above">u</add> haue edified <ex>i</ex>t by yo<ex>u</ex>r wrightings <lb/>
+            In yo<ex>u</ex>r Ma<ex>jes</ex>ties own taverns for one health that is begunne <lb/>
+            to yo<ex>u</ex>r selfe there are tenn Drunk to <ex>th</ex>e princes of <add place="above">
+                    <ex>th</ex>e</add> forreine <lb/>
+            Children and when the wyne is in their heades, lord haue <lb/>
+            m<ex>er</ex>cy vppon ther tonges, Even in eny gaininge ordinary <lb/>
+            whence men haue scarce leisuer to say grace yet they take <lb/>
+            tyme to sensuer yo<ex>u</ex>r Ma<ex>jes</ex>ties acc<ex>i</ex>ons, and in their owne scoole termes <lb/>
+            they say you haue lost the fayrest game at Mane, that ever <lb/>
+            Kinge had, for wantinge to make the best advantage of the <lb/>
+            five fingers &amp; playinge yo<ex>u</ex>r other helpes in tyme, That yo<ex>u</ex>r <lb/>
+            <add place="LM">Gundamor</add>
+            owne Card players play bootie, and give the signe out of yo<ex>u</ex>r <lb/>
+            hand<ex>es</ex>, that he you playe w<ex>i</ex>th hath eu<ex>er</ex> bene held the greatest <lb/>
+            Cheater in Christiandome, In fine their is no way to recover <lb/>
+            yo<ex>u</ex>r losses, and to vindicate yo<ex>u</ex>r honor but w<ex>i</ex>th fightinge w<ex>i</ex>th hym <lb/>
+            that hath Co<unclear>z</unclear>ed you, w<ex>i</ex>th honest downe right play you wilbe <lb/>
+            hard enough for hym w<ex>i</ex>th all his trick<ex>es</ex>.
+         </p>
+         <p>
+            I cannot forgett how I haue seene some when they haue <lb/>
+            lost their money fall a cursinge swaringe for the losse of <lb/>
+            <unclear>Prage</unclear> and the pallatinate as if all the Rancur of their harts <lb/>
+            lay their, And tell them of yo<ex>u</ex>r Ma<ex>jes</ex>ties p<ex>ro</ex>clamac<ex>i</ex>ons they <lb/>
+            answere in a cha<unclear>f</unclear>e, you must give losers leaue to speake <lb/>
+            The m<ex>er</ex>chants &amp; tradesmen I nor no man els can accuse <lb/>
+            then <del rend="strikethrough">but</del> of beinge sensible of any thinge but w<ex>i</ex>thall toucheth <lb/>
+            their owne p<ex>ro</ex>ffitt, all that I fynde in them is, they are extreme <lb/>
+            Iealous the Court will alsoe shortely put downe their exchang<unclear>e</unclear> <lb/>
+            and app<ex>ri</ex>hend <unclear>
+                    <del rend="strikethrough">th</del>
+                </unclear> (because one of there owne occupac<ex>i</ex>on is made <lb/>
+            Tresurer) that therefore henceforward all thing<ex>es</ex> must be <lb/>
+            bought &amp; sould there
+         </p>
+         <fw type="catch" place="bot-right">The</fw> <lb/>
+         <pb n="[2v]" facs="/nro/ayl_192/ayl_192-003/ayl_192-003.jpg"/>
+         <p>
+            The lawyers seeme not so much offended that yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            hath removed the garland of their p<ex>ro</ex>fession by puttinge <ex>th</ex>e <lb/>
+            great seale into <ex>th</ex>e hands of a Churchman, As <ex>tha</ex>t you doe <lb/>
+            not releiue yo<ex>u</ex>r pore distressed Children who they say haue <lb/>
+            bene wrongfully outed, And therefore you ought to grant <lb/>
+            a writ of forcable reentry w<ex>hi</ex>ch (vnder Correction) they <del rend="strikethrough">say</del> <lb/>
+            conceive may be bett<ex>e</ex>r executed by <ex>th</ex>e gen<ex>er</ex>all of an army then <lb/>
+            by <ex>th</ex>e shireife of a Countie.
+         </p>
+         <p>
+            They that flie high and fixe their speculac<ex>i</ex>ons vppon <ex>th</ex>e <lb/>
+            misteries of the Court doe apparently p<ex>er</ex>ceive that the <lb/>
+            Count of Sundamore haue taught some of yo<ex>u</ex>r actiue <lb/>
+            ministers to iuggle, only to make them passively capable of <lb/>
+            his owne coniureinge and <ex>tha</ex>t by the penetratinge faculty <lb/>
+            of yellow <unclear>-</unclear> Indian <unclear/> he hath at his Comand he is
+         </p>
+         <p>
+            Mast<ex>e</ex>r of yo<ex>u</ex>r Cabynet w<ex>i</ex>thout a key and knowes yo<ex>u</ex>r secrets <lb/>
+            before the greatest and most faithfull of yo<ex>u</ex>r Councell and <lb/>
+            w<ex>hi</ex>ch is worse (they say) yo<ex>u</ex>r Ma<ex>jes</ex>tie knowes <ex>i</ex>t And therefore <lb/>
+            suspect <ex>tha</ex>t you yo<ex>u</ex>rselfe are bribed ag<ex>ains</ex>t yo<ex>u</ex>rselfe other wise <lb/>
+            they doe not thinke the devill hymselfe could soe abuse <lb/>
+            the tymes wee live In as to make things passe in <ex>th</ex>e fashion <lb/>
+            they doe contrary to all sence Conscience &amp; reson of state, <lb/>
+            Behold S<ex>i</ex>r the second p<ex>ar</ex>t of <del rend="strikethrough">vx</del> <hi rend="italic">vox popvli</hi> by soe much the <lb/>
+            more like it self then <ex>th</ex>e first by how much <del rend="strikethrough">the</del> it comes shorte <lb/>
+            of it in wit &amp; discretion, for though the second Cogitac<ex>i</ex>ons are <lb/>
+            ever held the best yet wee see comon people for the most p<ex>ar</ex>t <lb/>
+            when they giue themselues to talkinge p<ex>ro</ex>ceede from bade to <del rend="strikethrough">a</del> <lb/>
+            worse and runn Counter eu<ex>er</ex>y tyme more foolish then other <lb/>
+            the <unclear>resours</unclear> because they nev<ex>er</ex> thinke before they speake, but <lb/>
+            rashly vent what soeu<ex>er</ex> getts into their fancy be it true falce <lb/>
+            or p<ex>ro</ex>bable, good, bad, or indifferent, neu<ex>er</ex> thelesse by these <lb/>
+            ou<ex>er</ex>flowings of their mouthes, yo<ex>u</ex>r Ma<ex>jes</ex>tie doe well to guesse <lb/>
+            at the abundance of their harts, And my lords of <ex>th</ex>e Councell <lb/>
+            if they please may make vse of their folly w<ex>i</ex>thout disparaginge <lb/>
+            their owne wisdome w<ex>hi</ex>ch if it be lawfull for me to confesse
+         </p>
+         <p>
+            The trueth is <ex>th</ex>e principall end I ayme at for it could neu<ex>er</ex> <lb/>
+            sinke into my beliefe that yo<ex>u</ex>r Ma<ex>jes</ex>tie was mynded to publishe <lb/>
+            these new kinde of p<ex>ro</ex>clamac<ex>i</ex>ons only to intrap yo<ex>u</ex>r subiects to <lb/>
+            bringe them to the block of punishm<ex>en</ex>t but rather out of a <lb/>
+            pollitique signe to <unclear>sound</unclear> their greifs and make their <lb/>
+            Compl<ex>ain</ex>ts serue for soe many directions vnto amendem<ex>en</ex>t <lb/>
+            accordinge to w<ex>hi</ex>ch p<ex>er</ex>swasion I haue  thought it sufficient <lb/>
+            to set downe <ex>th</ex>e bare discourses w<ex>i</ex>th troble to yo<ex>u</ex>r Ma<ex>jes</ex>tie w<ex>i</ex>th <ex>th</ex>e <lb/>
+            p<ex>er</ex>sons, for if all that were infected w<ex>i</ex>th these kinde of <lb/>
+            evill should be brought before you, I feare that both yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie &amp; yo<ex>u</ex>r S<ex>u</ex>rgions would quickly be weary of touchinge them <lb/>
+            I will rather pray heauen to give yo<ex>u</ex>r Ma<ex>jes</ex>tie <ex>th</ex>e vertue to cure <lb/>
+            all evill, w<ex>i</ex>th as much ease as yo<ex>u</ex>r hart desyers, And although <lb/>
+            I cannot end bett<ex>e</ex>r then w<ex>i</ex>th sayinge. Amen to soe good a <lb/>
+            prayer yet now I haue begvn to speak to my lord the <lb/>
+            <fw type="catch" place="bot-right">Kinge</fw>
+            <pb n="[3r]" facs="/nro/ayl_192/ayl_192-003/ayl_192-003.jpg"/>
+            Kinge let hym not be offended w<ex>i</ex>th me <ex>i</ex>f I pr<ex>e</ex>sume a little <lb/>
+            further and offer at last a fewe of my owne <del rend="strikethrough">conse</del> conception<add place="above">s</add> <lb/>
+            by way of humble remonstrance, not that I hope how eu<ex>er</ex> <lb/>
+            others haue sped to come from an inform<ex>er</ex> to be a Councello<ex>r</ex> <lb/>
+            but because I beleeve there be something<ex>es</ex> right worthie of <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>ties Considerac<ex>i</ex>on that are fitter for an honest man to <lb/>
+            p<ex>re</ex>sent then a great, The great spectato<ex>r</ex>s of yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            wisdome whose dayly exercise is to multiplie the obiect <lb/>
+            in the artificiall glasses of fraude &amp; flattery are soe distracted <lb/>
+            w<ex>i</ex>th <ex>th</ex>e infinite faces of Counterfeits as they cannot discerne <lb/>
+            the true
+         </p>
+         <p>
+            But wee that knowe neither the vse nor benifitts of such <lb/>
+            p<ex>er</ex>spectiues &amp; haue no other way to vnderstand yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            then by yo<ex>u</ex>r word<ex>es</ex>, doe to o<ex>u</ex>r great greife p<ex>er</ex>ceive a number of <lb/>
+            defects w<ex>hi</ex>ch cover the glory of yo<ex>u</ex>r Reigne, as in a Cloude, and <lb/>
+            much allaie the reuerence due to other exellencies of yo<ex>u</ex>rs for <lb/>
+            my owne p<ex>ar</ex>t I cannot see them and thinke it enough to <unclear/> <lb/>
+            as many doe, but must then my selfe soe affectionate to my prince <lb/>
+            and Cuntry as to advise yo<ex>u</ex>r Ma<ex>jes</ex>tie of them w<ex>hi</ex>ch I p<ex>ro</ex>miss to do w<ex>i</ex>th <lb/>
+            as much humilitie as the matt<ex>e</ex>r will beare
+         </p>
+         <p>
+            The torrent of discontent that Runnes w<ex>i</ex>th such a sedicious noyse <lb/>
+            over yo<ex>u</ex>r whole kingdome though thanks be to go it hath made noe <lb/>
+            open breach vppon yo<ex>u</ex>r peoples obedience yet certenly hath much <lb/>
+            weakned their affections w<ex>hi</ex>ch haue ever ben held dangers <ex>-</ex> of so <lb/>
+            <unclear>nere</unclear> neighbor hood as Comonly their is noe way to p<ex>re</ex>vent <ex>th</ex>e one <lb/>
+            w<ex>i</ex>th out <unclear/> the other
+         </p>
+         <p>
+            The causes from whence it ariseth are two discords at home and <lb/>
+            dishonor abroad for the first I must confesse I ame not soe <lb/>
+            well redd In the new booke of  pattents as that I can make any <lb/>
+            large discorse vppon <ex>tha</ex>t subiect and therefore will leaue it  to <lb/>
+            the lower house of p<ex>ar</ex>liam<ex>en</ex>t w<ex>hi</ex>ch is the true Cristall fountaine <lb/>
+            that will not only p<ex>re</ex>sent to yo<ex>u</ex>r Ma<ex>jes</ex>ties vewe as ina merror all <lb/>
+            <ex>th</ex>e fowle spott<ex>es</ex> in <ex>th</ex>e Comonwelth but serue you like wise at the <lb/>
+            same tyme for  water (<ex>i</ex>f you please to wash them out <lb/>
+            But for the other w<ex>hi</ex>ch tuoches more to <ex>th</ex>e quick all generous <lb/>
+            spirits, and soe excells in matt<ex>e</ex>r of Compl<ex>ain</ex>t, as till it be redressed, <lb/>
+            all other Clamors ought to hould their peace, I dare p<ex>re</ex>tend to <lb/>
+            knowe as much of it as an other and p<ex>er</ex>haps more then comes to <lb/>
+            the share of a private gentleman It havinge ben of late (but <lb/>
+            I know not inclynac<ex>i</ex>ons of my genius) not onlt the Chosen fruite of <lb/>
+            my outward observac<ex>i</ex>on, but the very norishm<ex>en</ex>t of my sadd thoughts <lb/>
+            If then yo<ex>u</ex>r Ma<ex>jes</ex>tie will giue me leave to execute my mallencholly <lb/>
+            office of tellinge trueth and freely advertise you, what this grand <lb/>
+            greivance is <ex>tha</ex>t cries soe loud for rep<ex>ar</ex>ac<ex>i</ex>on in all voices &amp; in all harts <lb/>
+            It is a recent decay of o<ex>ur</ex> Countries honor, A trade wherin <lb/>
+            wee were wont to out by all <add place="above">o<ex>u</ex>r</add> neighbors &amp; to make <ex>th</ex>e greater <lb/>
+            Ingrosser of the west indies Banckrupt hymselfe
+         </p>
+         <fw type="catch" place="bot-right">But since</fw>
+         <pb n="[3v]" facs="/nro/ayl_192/ayl_192-004/ayl_192-004.jpg"/>
+         <p>
+            But since yo<ex>u</ex>r Ma<ex>jes</ex>tie came to <del rend="strikethrough">
+                    <ex>th</ex>e Crowne</del> be sou<ex>er</ex>eigne least <lb/>
+            you should be proude of the greate an addicion, it seemes <ex>th</ex>e <lb/>
+            hand of heauen hath thought good to Curbe o<ex>u</ex>r felicitie in this <lb/>
+            poynt, for wee haue lived to see this braue stock of forraine <lb/>
+            reputac<ex>i</ex>on w<ex>hi</ex>ch o<ex>u</ex>r greate queene Eliz<ex>abeth</ex> yo<ex>u</ex>r p<ex>re</ex>dicessor quite vanished <lb/>
+            and brought to nothinge and for acquiringe of <unclear/> it is a <lb/>
+            thinge soe longe since growne out of vse, As <ex>i</ex>t may very well <lb/>
+            be reconed amongst those other invenc<ex>i</ex>ons wee haue lost <lb/>
+            thorough the <unclear/> of tyme, the ould compasse of tyme and <lb/>
+            honor is cleane forgott, and o<ex>u</ex>r exployts now a dayes know <lb/>
+            noe other rate then that of o<ex>u</ex>r owne fortunes accordinge to <lb/>
+            w<ex>hi</ex>ch they take and vntake as publique affaires, noe marveile <lb/>
+            then <ex>i</ex>f wee see the godly vessell of this state misguided and <lb/>
+            shamefully exposed to all mann<ex>er</ex> of danger, sometymes beinge <lb/>
+            runn vppon ground on the sands of a shallow and vncerten <lb/>
+            pollicie, but most of all by beinge kept at anchor (full as <ex>i</ex>t <lb/>
+            is of leakes &amp; rotten ribbes in the deepe gulfe of securitie where <lb/>
+            <ex>i</ex>t takes in more water of ruin &amp; corruption in sixe monethes <lb/>
+            then can be pumpt out in seauen yeres, nor can o<ex>u</ex>r statesmen <lb/>
+            excuse there negligence hereafter, w<ex>i</ex>th sayinge <ex>th</ex>e wynde did <lb/>
+            not serue for neu<ex>er</ex> did <unclear>heaue</unclear> blowe more favorably to o<ex>u</ex>r advantage <lb/>
+            then <ex>i</ex>t hath done of late, had wee had the grace to haue fitted <lb/>
+            o<ex>u</ex>r sayles to <ex>th</ex>e faiernes of the occasion But their hath bene I <lb/>
+            knowe not what humor that hath hunge longe tyme vppon <lb/>
+            this vnfortunate state, and still continues of that p<ex>ro</ex>digious <lb/>
+            force as for ought I see (vnlesse god of his m<ex>er</ex>cy put to his helpinge <lb/>
+            hand it will rather sinke vs then suffer vs to goe forward in <lb/>
+            any course that tends to o<ex>u</ex>r prosperitie in the meane tyme o<ex>u</ex>r adverse <lb/>
+            p<ex>ar</ex>ties haue <unclear/> enough, and all is fish <ex>tha</ex>t comes to there <lb/>
+            netts, <ex>i</ex>t seemes they haue forbidden vs vppon p<del rend="strikethrough">l</del>ayne of their high <lb/>
+            displesuer to deale anymore in matt<ex>e</ex>rs of worth and reservinge <lb/>
+            to themselues the rich prises &amp; tryumph<ex>es</ex> of the tyme, haue thought <lb/>
+            <ex>i</ex>t sufficient for vs to share o<ex>u</ex>r sheepe, and fetch some spice to <lb/>
+            make o<ex>u</ex>r ginger bread, not soe much but <ex>th</ex>e very pedlers of <ex>th</ex>e <lb/>
+            low cuntries whome wee o<ex>u</ex>rselues sett vpp for o<ex>u</ex>r owne vse <lb/>
+            are now become o<ex>u</ex>r Mast<ex>e</ex>rs in the East indies and thinke <lb/>
+            themselues o<ex>u</ex>r fellowes in any ground of <unclear/>
+         </p>
+         <p>
+            These things are more vrksome to vs by reson wee did least <lb/>
+            expect them at yo<ex>u</ex>r Ma<ex>jes</ex>ties hand for who would haue thought <lb/>
+            wee should haue lost but rather infinitly gayned by changinge <lb/>
+            the weaker sex for the more noble to be o<ex>u</ex>r comand<ex>e</ex>r, And havinge <lb/>
+            to boote w<ex>i</ex>thall the only nation of the earth that could compare <lb/>
+            w<ex>i</ex>th vs in vallor to be o<ex>u</ex>r fellowe souldiors, but the event shewes <lb/>
+            that wee are in nothinge more miserable then in that in w<ex>hi</ex>ch <lb/>
+            wee had soe much reson to thinke o<ex>u</ex>r selues happie, for now that <lb/>
+            wee contrary to o<ex>u</ex>r hopes how all thing<ex>es</ex> haue succeeded, and <lb/>
+            how vglie wee haue suffered o<ex>u</ex>r braue possibilitie to passe away <lb/>
+            one after an other as in a dreame o<ex>u</ex>r greatest Co<unclear>m</unclear>fort<ex>es</ex> are <lb/>
+            Changed into <unclear>-</unclear> equall dispayer &amp; o<ex>u</ex>r most reputed blessings <lb/>
+            <fw type="catch" place="bot-right">into</fw>
+            <pb n="[4r]" facs="/nro/ayl_192/ayl_192-004/ayl_192-004.jpg"/>
+            Into most apparant Curses <unclear>
+                    <del rend="strikethrough">g<ex>es</ex>
+                    </del>
+                </unclear>, Of all the benifitt<ex>es</ex> that <lb/>
+            discend from heauen to earth there is none to be received w<ex>i</ex>th <lb/>
+            more praise and thankesgiuinge then that of peace, but a man <lb/>
+            may haue too much of his fathers blessinge, and I feare <lb/>
+            Wee haue too much of yo<ex>u</ex>r Ma<ex>jes</ex>ties vnlimitted peace, the excesse <lb/>
+            whereof hath longe since turned vertue into vice and <lb/>
+            health into sicknes As longe as other princes keepe them=<lb break="no"/>
+            selues w<ex>i</ex>thin there devoire and followe yo<ex>u</ex>r example It is <lb/>
+            a thinge rather to be gloried in, then any way reproched <lb/>
+            that yo<ex>ur</ex> Ma<ex>jes</ex>tie was knowne through Christiandome, by <lb/>
+            the name of <ex>th</ex>e Kinge of peace, but now <ex>tha</ex>t both o<ex>u</ex>r sworne <lb/>
+            enemies and o<ex>u</ex>r <unclear>--</unclear> <add place="above">forsworne</add> Freinds, haue taken vp armes <lb/>
+            w<ex>i</ex>th one consent and as <ex>i</ex>t were defied yo<ex>u</ex>r Ma<ex>jes</ex>ties goodnes <lb/>
+            by enterprises vppon yo<ex>u</ex>r nerest and derest interest in <lb/>
+            all forraine p<ex>ar</ex>t<ex>es</ex>, now <ex>tha</ex>t there is question of god<ex>es</ex> glory <lb/>
+            aswell as yo<ex>u</ex>r owne, and <ex>tha</ex>t the cause of yo<ex>u</ex>r Children lies <lb/>
+            equallie bleedinge, now I say to continue still <ex>th</ex>e same <lb/>
+            and still vnmoved, as <ex>i</ex>f you were nothinge of this world <lb/>
+            but stood alredy possessed of the Kingdome of heauen by <lb/>
+            vertue of <hi rend="italic">beati pacifici</hi>, this certenly is such a straine of <lb/>
+            <unclear>sup<ex>er</ex>acrogac<ex>i</ex>on</unclear> as will serve to astonishe this p<ex>re</ex>sent age and <lb/>
+            that to come but to deserue well of neither It will <lb/>
+            rather revoke <hi rend="italic">mon droit</hi> yo<ex>u</ex>r foreu<ex>er</ex> int<ex>er</ex>est and make vs <lb/>
+            suspect that yo<ex>u</ex>r peaceable disposition all this whyle hath <lb/>
+            not soe much p<ex>ro</ex>ceeded out of <unclear/> pietie and loue of <lb/>
+            iustice, as out of mere ympatience &amp; defier if ease, p<ex>ar</ex>don <lb/>
+            me <unclear/> Kinge <ex>i</ex>f I speake vnto you in a language you ae not <lb/>
+            accustomed to here I knowe <ex>i</ex>t is p<ex>ar</ex>te of yo<ex>u</ex>r supremacie <lb/>
+            not to haue yo<ex>u</ex>r darlinge syn laide open, as my lord<ex>es</ex> the b<ex>isho</ex>pp<ex>es</ex>s <lb/>
+            doe very well obserue, but it is  now no longer tyme to <lb/>
+            blanche and palliate, that w<ex>hi</ex>ch all the world sees for though <lb/>
+            I feare <ex>i</ex>t lyes still in yo<ex>u</ex>r bosome yet the blasinge starr was <lb/>
+            noe more spectacle in o<ex>u</ex>r horison nor gaue the people more <lb/>
+            occasion to talke ( heaue grant it <add place="above">may</add> not be an occasion of more <lb/>
+            mischeife in Christendome) then the other was a signe of <ex>i</ex>t <lb/>
+            It is in yo<ex>u</ex>r Ma<ex>jes</ex>ties power to take away o<ex>u</ex>r feare &amp; danger both <lb/>
+            at once, if you will at the length but know yo<ex>u</ex>r owne strength <lb/>
+            and take a resoluc<ex>i</ex>on worthy of yo<ex>u</ex>r selfe. there are too fayer <lb/>
+            occasions <ex>tha</ex>t come as it were a wouinge to yo<ex>u</ex>r Ma<ex>jes</ex>tie at this tyme <lb/>
+            the least of w<ex>hi</ex>ch deserues the honor &amp; good fortune of yo<ex>u</ex>r mayden <lb/>
+            armes, so iust &amp; so religious in all humane &amp; divine respects <lb/>
+            as I dare say <ex>i</ex>f <ex>th</ex>e noble Army of martiers were sent downe <lb/>
+            vppon earth to make their fortunes anew they would chuse no <lb/>
+            other quarrell to dye in nor hope of a surer way to recover againe <lb/>
+            their Crowne of glorie
+         </p>
+         <p>
+            <list rend="numbered">
+               <item n="1">The one is to reestablishe yo<ex>u</ex>r owne Children in Germany</item>
+               <item n="2">The other to p<ex>re</ex>fere gods Children in Fraunce</item>
+            </list>
+         </p>
+         <fw type="catch" place="bot-right">Both</fw>
+         <pb n="[4v]" facs="/nro/ayl_192/ayl_192-005/ayl_192-005.jpg"/>
+         <p>
+            Both of them work<ex>es</ex> so vniu<ex>er</ex>sally desyered &amp; so conformable to <lb/>
+            <ex>Christ</ex>ian faith &amp; good mann<ex>er</ex>s as I doubt not but they haue longe <lb/>
+            sithence passed <ex>th</ex>e presse of yo<ex>u</ex>r Conscience, though I knowe not <lb/>
+            by what indirect meanes they are not yet suffered to come <lb/>
+            forth in publique vewe I shall not therefore neede to ripp <lb/>
+            vp these questions of state from <ex>th</ex>e begin<unclear/>inge, and vex yo<ex>u</ex>r Ma<ex>jes</ex>tie to <lb/>
+            p<ex>ar</ex>ticulerise <ex>tha</ex>t w<ex>hi</ex>ch is best knowne to yo<ex>u</ex>r selfe yet because I see <lb/>
+            nothinge done I must need<ex>es</ex> say some what, And first for <ex>th</ex>e <lb/>
+            vnfortunate princes yo<ex>u</ex>r Children they may p<ex>er</ex>happs haue Comitted <lb/>
+            a fault for w<ex>hi</ex>ch <del rend="strikethrough">in</del> yo<ex>u</ex>r Ma<ex>jes</ex>tie in yo<ex>u</ex>r singular wisdome, thought good <lb/>
+            to make them <unclear/> of affliction either to purge them of ill <lb/>
+            Councell, or happely to quence in them betymes the dangerust <lb/>
+            thurst of ambition, w<ex>hi</ex>ch not content w<ex>i</ex>th <unclear/> &amp; <unclear/>, might <lb/>
+            afterwards attempt <ex>th</ex>e ocean, yet to let them drinke still, and so <lb/>
+            depe in <ex>th</ex>e cupp of affliction, as not to be able to stand vppon their <lb/>
+            legg<ex>es</ex> but reele vp &amp; downe w<ex>i</ex>thout hope of recouery, is the skorne <lb/>
+            &amp; approbie of all nations vpon earth
+         </p>
+         <p rend="indent">
+            <foreign xml:lang="la">
+                    <hi rend="italic">hac ratione petes Iustus fortasse videri</hi>
+                </foreign>
+         </p>
+         <p rend="indent">
+            <foreign xml:lang="la">
+                    <hi rend="italic">Ac non crudelis, non potes esse pater</hi>
+                </foreign>
+         </p>
+         <p>
+            But some will say yo<ex>u</ex>r Ma<ex>jes</ex>tie hath often advised them to returne <lb/>
+            to themselues, and w<ex>hi</ex>ch is more you sent one of later on purpose to <lb/>
+            lead them home, but alas in their case how vayne is all comfort w<ex>i</ex>thout <lb/>
+            hand<ex>es</ex>, and how ill hath this yo<ex>u</ex>r promising endeavor sped, the guyd <lb/>
+            you sent (as if he made hym selfe in <ex>th</ex>e enemies wayes) is come <lb/>
+            short of his vnderstanding, and in stead of givinge ende to these <lb/>
+            princes miseries, hath only light vppon a handsome trick to cou<ex>er</ex> <lb/>
+            his owne shame, had fortune soe miraculosly blessed his confidence <lb/>
+            as that he had p<ex>er</ex>formed his hercules labores w<ex>i</ex>thout a lyons skyn <lb/>
+            he would have shamed all wise men foreu<ex>er</ex> who before he went gaue <lb/>
+            hym for a lost am<unclear>
+                    <del rend="strikethrough">p</del>
+                </unclear>bassador, It could neu<ex>er</ex> appere to them in the lest <lb/>
+            forme of likely whoode (savinge <ex>th</ex>e Credit due to <unclear/> <lb/>
+            Compl<ex>ain</ex>t, that <ex>th</ex>e spanish Councell of warr should be at <ex>th</ex>e Charge <lb/>
+            of gettinge a Cuntry by force of Armes <ex>tha</ex>t they ment afterward<ex>es</ex> <lb/>
+            to restore at <ex>th</ex>e kissinge of a hand, They are knowne to be a people <lb/>
+            so circumspect &amp; advised, in all they do, as they neu<ex>er</ex> resolued vppon <ex>th</ex>e <lb/>
+            p<ex>re</ex>sent w<ex>i</ex>thout consultinge <ex>th</ex>e future, and make the resons of both <lb/>
+            their equall warrant, And therefore <ex>i</ex>f they had made keepinge <lb/>
+            Word in matt<ex>e</ex>rs of this nature they would questionles have Iudgyed <lb/>
+            it more convenient to have taken yo<ex>u</ex>r Ma<ex>jes</ex>ties for Bohemia then <lb/>
+            given theirs for yo<ex>u</ex>r pallatinate, w<ex>hi</ex>ch before they would surrend<ex>e</ex>r <lb/>
+            they first obliged them selues to Conquer and Consequently to <lb/>
+            vndertake a new warr to no purpose, but seinge they would not <lb/>
+            trust yo<ex>u</ex>r Ma<ex>jes</ex>tie in soe apparant a  Congruitie, it is not to be wondred <lb/>
+            at <ex>tha</ex>t they have deceived you, but <ex>tha</ex>t they had the meanes to do soe for <lb/>
+            not only <ex>th</ex>e p<ex>ro</ex>ffitt Batille, but eu<ex>er</ex>y <unclear/> asso may easily for<add place="above">e</add>see <lb/>
+            <ex>tha</ex>t yo<ex>u</ex>r Ma<ex>jes</ex>ties Credulitie was in <ex>th</ex>e high way to p<ex>er</ex>dic<ex>i</ex>on, and not but <lb/>
+            to bringe you where <del rend="strikethrough">his Ma<ex>jes</ex>tie</del> <ex>th</ex>e Spaniard would haue you whoe <lb/>
+            howe so vseth them <ex>tha</ex>t are in his m<ex>er</ex>cy I ame sory yo<ex>ur</ex> Ma<ex>jes</ex>tie is now <lb/>
+            to learne, of soe curst a scoole mast<ex>e</ex>r as hym selfe whoe will make <lb/>
+            <fw type="catch" place="bot-right">Noe</fw>
+            <pb n="[5r]" facs="/nro/ayl_192/ayl_192-005/ayl_192-005.jpg"/>
+            Noe scruple to whipp you and yo<ex>u</ex>r Children w<ex>i</ex>th yo<ex>u</ex>r owne Rodd<ex>es</ex> <lb/>
+            of Iron (though he fairely p<ex>ro</ex>miseth to vse them  ag<ex>ayns</ex>t <ex>th</ex>e turk<ex>es</ex>/ And <lb/>
+            <add place="LM">
+               The ordinances <lb/>
+               given to Gundamor
+            </add>
+            then <ex>i</ex>t wilbe too late to wishe you had beleeued yo<ex>u</ex>r Cassandra, <lb/>
+            the voice of yo<ex>u</ex>r louinge p<ex>ar</ex>liam<ex>en</ex>t who hearinge of <ex>i</ex>t made a <lb/>
+            start out of their owne busines, and could not be in quiet, till <lb/>
+            they had intreted yo<ex>u</ex>r Ma<ex>jes</ex>tie to consider what a dangerous quyst <lb/>
+            <ex>i</ex>t was and how fitt to be revoked, but yo<ex>u</ex>r Ma<ex>jes</ex>ties answere was <lb/>
+            <ex>tha</ex>t you had past yo<ex>u</ex>r Royall word to <ex>th</ex>e Spanish Ambassador and you <lb/>
+            would not breake it as though you were <ex>th</ex>e only vnfortunate <lb/>
+            prince in <ex>th</ex>e world, that were tyed to be faithfull to yo<ex>u</ex>r owne <lb/>
+            p<ex>re</ex>iudice, had yo<ex>u</ex>r minist<ex>e</ex>r in <ex>th</ex>e Courte of Spaine su<unclear>
+                    <del rend="strikethrough">p</del>
+                </unclear>brepiticiously <lb/>
+            strayned a grant from <ex>th</ex>e Kinge of lyke ymportance his  Catholique <lb/>
+            Ma<ex>jes</ex>tie would haue bene glad of soe good an occasion to render it <lb/>
+            of no effect, And w<ex>i</ex>thout standinge vppon soe gentle poynts of <lb/>
+            honor or framinge to hym selfe I knowe not what Chimeraes of <lb/>
+            Ielosie (betwene his owne absolute power and <del rend="strikethrough">his owne</del> <lb/>
+            <ex>th</ex>e peoples humble desyer) would haue bene soe farr  from <unclear/> <lb/>
+            his p<ex>ar</ex>liam<ex>en</ex>t opposition, as he would <unclear/> rather haue giuen them <lb/>
+            Charge (vnder hand) to haue made it, and by <ex>tha</ex>t meanes <lb/>
+            recalled <ex>th</ex>e benifitt &amp; p<ex>re</ex>served his thank<ex>es</ex>, but if yo<ex>u</ex>r Ma<ex>jes</ex>tie had made <lb/>
+            vse of this experiment their might p<ex>er</ex>happs some in<unclear>
+                    <del rend="strikethrough">s</del>
+                </unclear>convenience <lb/>
+            haue inferred for then it is to be feared that the Spanish Ambassad<ex>o</ex>r <lb/>
+            would haue bene discoraged for eu<ex>er</ex> askinge such an vnresonable <lb/>
+            thinge agayne, the only hope whereof mak<ex>es</ex> <del rend="strikethrough">hev</del> hym flatt<ex>e</ex>r <ex>th</ex>e state <lb/>
+            &amp; tell yo<ex>u</ex>r Ma<ex>jes</ex>tie many a plesant tale, wee are not yet willinge to <lb/>
+            Condiscend for <ex>i</ex>f wee werre wee should not stey, vntill wee <lb/>
+            saw <ex>th</ex>e mountains p<ex>ro</ex>mised vs turned into smoke, The pore <lb/>
+            pallattinate showes vs sufficiently what wee were &amp; what we are <lb/>
+            like to looke for from <ex>th</ex>e Spaniard, who if he were resolved to <lb/>
+            give vs shortely as much of his owne as is Imagined he would <lb/>
+            neu<ex>er</ex> haue kept soe gri<unclear/>pingly from vs that w<ex>hi</ex>ch is o<ex>u</ex>rs, But I cry <lb/>
+            <ex>th</ex>e Spanyard m<ex>er</ex>cy, it is not he good man, but <ex>th</ex>e revengfull Emp<ex>er</ex>or <lb/>
+            that doth vs this wrong, as if the Emp<ex>er</ex>or w<ex>i</ex>thout hym could wronge <lb/>
+            a mouse, or durst shewe hym selfe refractory, to <ex>th</ex>e least tittle of <lb/>
+            his knowne will, wee may aswell suppose the sea turbulent w<ex>i</ex>thout <lb/>
+            <unclear/> or the low spheares to moue w<ex>i</ex>thout <hi rend="italic">primu<ex>m</ex> mobile</hi>, I <unclear/> <lb/>
+            wee see <ex>th</ex>e spanyard<ex>es</ex> forces &amp; designes turned another way but soe <lb/>
+            as they involue w<ex>i</ex>th pourefull &amp; secrett touch the rupture of <ex>th</ex>e <lb/>
+            pallatinate and all the skirt<ex>es</ex> aboute it w<ex>i</ex>thout w<ex>hi</ex>ch the Emp<ex>er</ex>or could <lb/>
+            be as quiet a <unclear/> of Ma<ex>jes</ex>tie as wee could wish hym, and his <lb/>
+            Comissarie <ex>th</ex>e Duke of Bauaria doe nothinge but what became <lb/>
+            hym It is <ex>th</ex>e Catholique vsurp<ex>er</ex> <del rend="strikethrough">it</del> that setts them both on work <lb/>
+            and playes least in sight hym selfe, Betwene them they hould fast <lb/>
+            yo<ex>u</ex>r Childrens patremony &amp; play w<ex>i</ex>th yo<ex>u</ex>r Ma<ex>jes</ex>tie as men play w<ex>i</ex>th <lb/>
+            little Children handy Dandy w<ex>hi</ex>ch hand will you haue when <lb/>
+            they are disposed to keepe any thinge from them or as too that <lb/>
+            haue ioyned together in theft, he that tooke it saith he hath <ex>i</ex>t not <lb/>
+            and he <ex>tha</ex>t hath <ex>i</ex>t saies he tooke it not w<ex>hi</ex>ch is a mockery <add place="above">more</add> insufferable <lb/>
+            <fw type="catch" place="bot-right">then</fw>
+            <pb n="[5v]" facs="/nro/ayl_192/ayl_192-006/ayl_192-006.jpg"/>
+            Then <ex>tha</ex>t in <unclear/> iniury and ought to p<ex>ro</ex>voke yo<ex>u</ex>r Ma<ex>jes</ex>tie to <ex>th</ex>e highest <lb/>
+            straine of Indignac<ex>i</ex>on for <ex>i</ex>f you desist in yo<ex>u</ex>r obdurate pacience <lb/>
+            and take still for payment all the artifice <ex>tha</ex>t there falce dealinge can <lb/>
+            coyne, and shalbe tempted to beleeue <ex>th</ex>e author of all lies, who might <lb/>
+            iustifie <ex>th</ex>e kinge of Spaine &amp; the other princes of their Religion doe <lb/>
+            Constantly give out <ex>tha</ex>t yo<ex>u</ex>r Ma<ex>jes</ex>tie is suer of the pallattinate by a tretie <lb/>
+            and <ex>tha</ex>t you p<ex>re</ex>tend <ex>th</ex>e Contrary onely to drawe money from <ex>th</ex>e p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            out of w<ex>hi</ex>ch opinion <ex>i</ex>f it be once suffered to take Roote, may <lb/>
+            growe a great deale of poyson, and full vppon yo<ex>u</ex>r Ma<ex>jes</ex>tie as a <lb/>
+            iust iudgem<ex>en</ex>t of god, who because you would wilfully trust yo<ex>u</ex>r <lb/>
+            enemies to yo<ex>u</ex>r hurte may now see yo<ex>u</ex>r selfe soe vnhappie, as not to <lb/>
+            be beleeved of yo<ex>u</ex>r owne subiects for yo<ex>u</ex>r good, But I hope god in <lb/>
+            his m<ex>er</ex>cy will avert such a disast<ex>e</ex>r and give yo<ex>u</ex>r Ma<ex>jes</ex>tie <ex>th</ex>e grace to <lb/>
+            discover &amp; distroy at <ex>th</ex>e same instant this malicious invention w<unclear>
+                    <ex>hi</ex>ch</unclear> <lb/>
+            may easily be done <ex>i</ex>f w<ex>i</ex>thout any  more delay or reservac<ex>i</ex>on, you <lb/>
+            will really &amp; Royally Ingage yo<ex>u</ex>r selfe in this Righteous Warr nor <lb/>
+            let <ex>th</ex>e scarsitie of meanes, any way discorage you, for yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            knowes not what secret tresuers ly hid in yo<ex>u</ex>r peoples hart<ex>es</ex> w<ex>hi</ex>ch <lb/>
+            in so good an occasion as this wilbe brought fourth and laid at <lb/>
+            yo<ex>u</ex>r feete, in great<ex>e</ex>r heapes then <ex>th</ex>e world Imagens, yo<ex>u</ex>r faithfull <lb/>
+            p<ex>ar</ex>liam<ex>en</ex>t haue alredy made you a liberall offer of their  liues &amp; <lb/>
+            fortunes and every good English man hath longe since confirmed <lb/>
+            it in his p<ex>ar</ex>ticuler devosion, It wholie depends vppon yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            wisdome to make so right an vse of so greate a guift, for therin concist<ex>es</ex> <lb/>
+            all <ex>th</ex>e danger, all <ex>th</ex>e difficultie, The fundamentall origins of <lb/>
+            Warr eu<ex>er</ex>ie man knowes are two, men &amp; money, And would to <lb/>
+            god yo<ex>u</ex>r Ma<ex>jes</ex>ties dominions were as well stored w<ex>it</ex>h the one as the oth<ex>e</ex>r <lb/>
+            then should wee not prostitute o<ex>u</ex>r selues as wee doe to the great <lb/>
+            Whore of Babilon and for a fewe Clodes of his earth giue vp the <lb/>
+            honor of o<ex>u</ex>r Cuntry, and violate the loue wee owe to o<ex>u</ex>r religion, but <lb/>
+            this knowledge of o<ex>u</ex>r want<ex>es</ex> makes hym p<ex>re</ex>sume vppon <del rend="strikethrough">v</del> o<ex>u</ex>r easines <lb/>
+            and allure vs to his base and ympious Adultary, though I verily beleue <lb/>
+            in this p<ex>re</ex>sent occasion he &amp; his ba<unclear>n</unclear>des wilbe deceaved, For <ex>i</ex>f <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>tie &amp; yo<ex>u</ex>r estate assembled togither will tie <ex>th</ex>e wholly knot of <lb/>
+            Vnyon and make a firme Covenant each w<ex>i</ex>th other, wee shall not <lb/>
+            neede to <unclear>______________</unclear> so neere <unclear/> for gold as <ex>t</ex>e Spanish mynes, or <lb/>
+            if wee doe, wee will take a course to supplie yo<ex>u</ex>r Ma<ex>jes</ex>tie well enough <lb/>
+            for the busines in hand, out of  <ex>tha</ex>t wherew<ex>i</ex>th god Almightie hath <lb/>
+            blessed vs, only I must advertise yor ma<ex>jes</ex>tie that wee looke to <lb/>
+            see an army raised, as well as subsidies for if wee be at Charges <lb/>
+            for maynteyninge a watch It is reson wee should p<ex>ar</ex>take of <ex>th</ex>e <lb/>
+            honor &amp; benifit of especially cocnsideringe how hardly wee <lb/>
+            can spare money, There are many thousands of yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            subiects able and p<ex>ro</ex>p<ex>er</ex> fellowes that lye languishinge &amp; redy <lb/>
+            to rebell for want of ymploym<ex>en</ex>t I hope none will deny but <lb/>
+            that English men can earne there wages at this worke as <lb/>
+            any other nation sure I ame <ex>tha</ex>t it is to be found in very good <lb/>
+            histories that forraine princes vppon a day of battaile, haue thought <lb/>
+            <ex>i</ex>t none of their worst strattagems to haue cladd a greate p<ex>ar</ex>t of <lb/>
+            their owne people in English Cassacks to make them selues the <lb/>
+            <fw type="catch" place="bot-right">more</fw>
+            <pb n="[6r]" facs="/nro/ayl_192/ayl_192-006/ayl_192-006.jpg"/>
+            More terrable to their enimies, Count Mansfeild is a gallant <lb/>
+            man &amp; deserues not only to be well payd but highlie rewarded <lb/>
+            for <ex>th</ex>e good service done for yo<ex>u</ex>r Ma<ex>jes</ex>tie in <ex>tha</ex>t Cuntry, where had he <lb/>
+            not arived when he did those pore Cuntrymen of o<ex>u</ex>rs, that would <lb/>
+            not goe away before the last danger borne would haue byn <lb/>
+            miserably sacraficed to <ex>th</ex>e Spanyards butchery w<ex>hi</ex>ch would haue <lb/>
+            made vs Worne black in England for a while but nothinge <lb/>
+            should haue lasted black so longe as <ex>th</ex>e story of <ex>i</ex>t, w<ex>hi</ex>ch when <lb/>
+            posteritie came to reade they could certenly haue blurred <ex>tha</ex>t <lb/>
+            p<ex>ar</ex>t of yo<ex>u</ex>r Ma<ex>jes</ex>ties Reigne w<ex>i</ex>th teares, but as he cam thither by <lb/>
+            one accident, soe, for ought wee knowe he may goe away by <lb/>
+            another, And therefore it were fitt to <ex>pro</ex>vide more certen <lb/>
+            souldyers for so certen a warr, for as my lord Digby did very <lb/>
+            well shewe towards the end of his narrac<ex>i</ex>on Count Mansfeild<ex>es</ex> <lb/>
+            Armie doth not consist in such as haue there wives Children &amp; <lb/>
+            freinds dwellinge in the pallattinate, but such to whome all <lb/>
+            places are alike so they may be sett aworke and on whome <lb/>
+            there can be no other tye then their p<ex>re</ex>cise pay how much bett<ex>e</ex>r <lb/>
+            Were it then for yo<ex>u</ex>r Ma<ex>jes</ex>tie to satisfie the gen<ex>er</ex>all desyer and <lb/>
+            send ou<ex>er</ex> an Army of good English who you may be suer will neu<ex>er</ex> <lb/>
+            change p<ex>ar</ex>tie nor spoyle the Cuntrie but stedfastlie adhere <lb/>
+            as much out of affection as obligac<ex>i</ex>on to <ex>th</ex>e cause &amp; p<ex>er</ex>sons of yo<ex>u</ex>r <lb/>
+            Children, besydes <ex>i</ex>f yo<ex>u</ex>r Ma<ex>jes</ex>tie doe take thing<ex>es</ex> aright wee doe <lb/>
+            not contribute to this warr soe much to regaine <ex>th</ex>e pallattinate <lb/>
+            as to redeeme <ex>th</ex>e Credit of o<ex>u</ex>r nation w<ex>hi</ex>ch all <ex>th</ex>e mony in <ex>th</ex>e <lb/>
+            Kingdome is not able to doe w<ex>i</ex>thout acc<ex>i</ex>on, There are as I <lb/>
+            haue heard too resons to oppose this resoluc<ex>i</ex>on the one the odd<ex>es</ex> <lb/>
+            of <ex>th</ex>e Charge the other <ex>th</ex>e difficultie of gettinge thyther, To the <lb/>
+            first I answere breifly that in matt<ex>e</ex>rs of warr <ex>th</ex>e best is over <lb/>
+            cheapest and shortest best, I meane not <ex>th</ex>e shortest of beginning <lb/>
+            but <ex>th</ex>e shortest endinge, And for the other <ex>i</ex>t is to be p<ex>re</ex>sumed, that <lb/>
+            when yo<ex>u</ex>r Ma<ex>jes</ex>tie shall make this warr Royall, by takinge it vppon <lb/>
+            yo<ex>u</ex>r selfe, you will not for yo<ex>u</ex>r owne greatnes sake be seene to send <lb/>
+            any forces, but such as shalbe able to make their way if not a least <lb/>
+            they may haue Comissions to take lodgings by <ex>th</ex>e way for <unclear>_________</unclear> shall <lb/>
+            come after, and soe though they come shorte of their formes end <lb/>
+            they may happely make an end of that they goe for the sooner <lb/>
+            In playne termes <ex>th</ex>e pallattinate is very ill souted for vs to <lb/>
+            warr in it beinge remote from <ex>th</ex>e sea and surrounded on all <lb/>
+            sydes w<ex>i</ex>th o<ex>u</ex>r enimyes whome <ex>th</ex>e pope hath tyed together like <lb/>
+            Sampsons fox tailes, to sett these p<ex>ar</ex>ts of Christiandome of fyer, <lb/>
+            For w<ex>hi</ex>ch purpose they call them selues the Catolique league <lb/>
+            &amp; haue <ex>th</ex>e Catholique Kinge for their head whoe stick close to <lb/>
+            them in all adventures whereas yo<ex>u</ex>r Ma<ex>jes</ex>tie (I doe not knowe <lb/>
+            for what Cryme) haue beheaded <ex>th</ex>e p<ex>ro</ex>testants union, and left <lb/>
+            it as a body w<ex>i</ex>thout a soule yet it is not soe dead buried that ther <lb/>
+            is a hope it will rise againe at <ex>th</ex>e first sound of yo<ex>u</ex>r Ma<ex>jes</ex>ties trumpett <lb/>
+            and ioyfully receive a second more durable life from yo<ex>u</ex>r bett<ex>e</ex>r <lb/>
+            resoluc<ex>i</ex>ons, of all <ex>th</ex>e p<ex>ar</ex>ts belonginge to it, the easiest to be restituted <lb/>
+            &amp; <ex>th</ex>e most vsefull for <ex>th</ex>e p<ex>re</ex>sent busines are <ex>th</ex>e vnited p<ex>ro</ex>vinces of the <lb/>
+            <fw type="catch" place="bot-right">Lowe Cunt<add place="above">
+                        <ex>rise</ex>
+                    </add>
+                </fw>
+            <pb n="[6v]" facs="/nro/ayl_192/ayl_192-007/ayl_192-007.jpg"/>
+            <hi rend="italic">Lowe Cuntrise </hi>as beinge nerest &amp; strongest to the head <lb/>
+            dueringe the tyme if desolac<ex>i</ex>on, They haue<hi rend="italic"> </hi>bene faine to <lb/>
+            doe <ex>th</ex>e office of a beast in givinge yo<ex>u</ex>r Children suck and are <lb/>
+            indeede their Armes, and would ere this haue caried them <lb/>
+            into their owne, had they not had their hands full of <ex>th</ex>e Comon <lb/>
+            enemy at home. <ex>i</ex>f then yo<ex>u</ex>r Ma<ex>jes</ex>tie desyer to remove <ex>th</ex>e Spanyard <lb/>
+            out of <ex>th</ex>e pallatinate, the speedy course wilbe to giue <ex>th</ex>e holland<ex>e</ex>rs <lb/>
+            yo<ex>u</ex>r helpinge hand in Fland<ex>e</ex>rs, and if yo<ex>u</ex>r strict alliance w<ex>i</ex>th <lb/>
+            Spaine will not beare such an Imediate act of hostilitie from yo<ex>u</ex>r <lb/>
+            selfe you may for Ceremony sake lend <ex>th</ex>e prince yo<ex>u</ex>r sunn in lawe <lb/>
+            an army to dispose of, as he shall see cause, alwayes p<ex>ro</ex>vided <lb/>
+            <ex>tha</ex>t you Councell hym vnderhand to take his best advantage <lb/>
+            soe shall the spanyard be p<ex>ar</ex>t in his owne Coyne, and o<ex>u</ex>r princes <lb/>
+            restored to there owne possessions wheras if you confine the <lb/>
+            acc<ex>i</ex>on to <ex>th</ex>e bare <del rend="strikethrough">b</del> pallatinate and content yo<ex>u</ex>r selfe w<ex>i</ex>th <ex>th</ex>e doves <lb/>
+            Innocency, now <ex>tha</ex>t you see <ex>th</ex>e enemy as wise as a thousand s<ex>er</ex>pents <lb/>
+            it will neu<ex>er</ex> haue an end but draw it selfe into a Circle of <lb/>
+            Continuall truble, and wee may looke to see a dosen yeres <lb/>
+            hence two such Armies keepinge one an other in <ex>th</ex>e pallatinate <lb/>
+            as they do now in <ex>th</ex>e low Countries/ I will not shewe soe little <lb/>
+            respect to yo<ex>u</ex>r Ma<ex>jes</ex>ties Iudgem<ex>en</ex>t as to talke any longer in so <lb/>
+            clere a case, but will here Conclude, my resons, w<ex>i</ex>th my <lb/>
+            prayers humbly beseechinge yo<ex>u</ex>r Ma<ex>jes</ex>tie to doe yo<ex>u</ex>r selfe &amp; Christendom<unclear>e</unclear> <lb/>
+            right in this affaire &amp; let it be no longer sayd <ex>tha</ex>t <ex>th</ex>e Spanyard <lb/>
+            hath more wit then <ex>th</ex>e English or that the Kinge of Spaines <lb/>
+            Cozen Iermans are nerer a kinde to hym etc then yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            owne Children are to you.
+         </p>
+         <p>
+            It remaines now <ex>tha</ex>t I speake a word or too in <ex>th</ex>e behalfe of <lb/>
+            o<ex>u</ex>r brethren god<ex>es</ex> children in Fraunce against whome <ex>th</ex>e firebrand <lb/>
+            of hell hath kindled a <ex>per</ex>secuc<ex>i</ex>on w<ex>i</ex>thout all earthly matt<ex>e</ex>r it <lb/>
+            beinge <ex>th</ex>e heauenly cause pf Religion and no other for w<ex>hi</ex>ch they are <lb/>
+            made to suffer wherin yo<ex>u</ex>r Ma<ex>jes</ex>tie &amp; state haue as much int<ex>er</ex>est as <lb/>
+            it is possible for a man to haue when his neighbours house is <lb/>
+            on fyer, Indeede soe much as it  would <unclear/> become a private <lb/>
+            man to put you in mynde of <ex>i</ex>t at any tyme, but when it seemes <lb/>
+            a dead sleepe possesseth all <ex>th</ex>e land &amp; <ex>tha</ex>t wee had rather p<ex>er</ex>ish <ex>th</ex>en <lb/>
+            be disturbed, the vigilant p<ex>ar</ex>liam<ex>en</ex>t haue layne sentinall <unclear>perdu</unclear> <lb/>
+            and discouered the enemies approach but cannot be heard <lb/>
+            the watchmen of yo<ex>u</ex>r pallace <ex>tha</ex>t stand in high places though <lb/>
+            they cannot but see <ex>th</ex>e danger yet they dare not giue <ex>th</ex>e alaru<ex>m</ex> <lb/>
+            for feare of disquiettinge yo<ex>u</ex>r Ma<ex>jes</ex>tie
+         </p>
+         <p>
+            Lastly &amp; worse of all the Church men w<ex>hi</ex>ch be <ex>th</ex>e seers of Israell <lb/>
+            and ought to discry from <ex>th</ex>e holy place the phillist<unclear/>ines and <lb/>
+            their plott<ex>es</ex>, are they that doe most of all Conive at <ex>th</ex>e <lb/>
+            stupidities of <ex>th</ex>e tyme all of them alledge alredy for <ex>th</ex>e excuse <lb/>
+            of their weakenes the stronge opinion they haue of yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            ablenes, for they say it is in vaine either to advertise or advise <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>tie of any thinge touchinge gou<ex>er</ex>ment, because they are <lb/>
+            assured you know as much of it as mortall man can app<ex>re</ex>hend <lb/>
+            and for myne owne p<ex>ar</ex>t I thinke a greate deale more <lb/>
+            <fw type="catch" place="bot-right">other wise</fw>
+            <pb n="[7r]" facs="/nro/ayl_192/ayl_192-007/ayl_192-007.jpg"/>
+            Other wise it could not be <ex>tha</ex>t yo<ex>u</ex>r p<ex>ro</ex>ceeding<ex>es</ex> should soe vary as <lb/>
+            they doe from all scope of humane discourse, I grant <ex>tha</ex>t all <lb/>
+            Wise princes haue ever reserved to themselues certen cases <lb/>
+            of <ex>th</ex>e state w<ex>hi</ex>ch <ex>th</ex>e pollitique people call  <hi rend="italic">Arcana Imperij</hi> <lb/>
+            and wee should be <unclear>imurious</unclear> to yo<ex>u</ex>r Ma<ex>jes</ex>ties wisdome &amp; power <lb/>
+            <ex>i</ex>f wee should grudge you <ex>th</ex>e lyke priviledge but (Alas S<ex>i</ex>r) we<unclear/> <lb/>
+            that haue but resonable soules cannot but vse them in soe <lb/>
+            ymportant a matt<ex>e</ex>r and doe fynde a greate deale of difference <lb/>
+            betwene yo<ex>u</ex>r Ma<ex>jes</ex>tie and other princes in this poynt for though <lb/>
+            they haue lockt vp in <ex>th</ex>e Closetts of their brests their incomunicalle <lb/>
+            purposes &amp; soe worke vpon diu<ex>er</ex>s occasions, as <ex>th</ex>e effects haue <lb/>
+            sometymes byn seene to come abroade, before <ex>th</ex>e cause could <lb/>
+            be knowne yet at <ex>th</ex>e last it cam to be evident, that theise their <lb/>
+            secret designes ever tended to the publique good but the <lb/>
+            instrumentall causes were only such <unclear/> as did <lb/>
+            transcend &amp; not ou<ex>er</ex>throw Comon reson wheras yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            Courses are not only inscrutable but diametricall oposite <lb/>
+            to pore mens vnderstandinge, and soe farr from givinge vs <lb/>
+            any hope of good effects hereafter as they doe already fill <lb/>
+            <ex>th</ex>e vtmost of o<ex>u</ex>r feares in soe much as wee haue no way lefte <lb/>
+            to put o<ex>u</ex>r selues out of astonishm<ex>en</ex>t &amp; p<ex>re</ex>serue yo<ex>u</ex>r Ma<ex>jes</ex>ties wisdome <lb/>
+            blameles but by str<unclear>o</unclear>ngly beleuinge <ex>tha</ex>t wheras all other <lb/>
+            princes haue lib<ex>er</ex>tie to governe them selues accordinge to <ex>th</ex>e Rules <lb/>
+            of wordly pollicie yo<ex>u</ex>r Ma<ex>jes</ex>ties hands are tyed from vsinge such <lb/>
+            outward meanes and advantages by <ex>th</ex>e certen power of <lb/>
+            secret revelac<ex>i</ex>on, And as divid who was a kinge after god<ex>es</ex> <lb/>
+            owne hart might not for all that buyld god a temple because <lb/>
+            he had his hand<ex>es</ex> ymbrued in blood, soe happelie yo<ex>u</ex>r Ma<ex>jes</ex>tie may <lb/>
+            not be suffered to doe any thinge for <ex>th</ex>e Churche of god because <lb/>
+            you like wise haue yo<ex>u</ex>r hands defiled in blood, for how can they <lb/>
+            be other wise beinge ioyned soe straitly as they are w<ex>i</ex>th them, <lb/>
+            that are all redd w<ex>i</ex>th <ex>th</ex>e blood of saints, One <ex>tha</ex>t knowes <ex>th</ex>e <lb/>
+            sweetenes of yo<ex>u</ex>r Ma<ex>jes</ex>ties nature &amp; hath seene w<ex>i</ex>th what Clemency <lb/>
+            and m<ex>er</ex>cy you haue swayed <ex>th</ex>e septer would thinke it little lesse <lb/>
+            then blasphemy to accuse you of any thinge <ex>tha</ex>t is blooddy,  But <lb/>
+            god Iudgeth not lyke man And who can hinder <ex>th</ex>e eternall from <lb/>
+            callinge yo<ex>u</ex>r Ma<ex>jes</ex>tie to accoumpt for all <ex>th</ex>e Rage hath bene done in <lb/>
+            his Church of late since you haue byn his leifetenn<ex>en</ex>t of gretest <lb/>
+            trust and haue received of his heavenly grace sufficient right <lb/>
+            &amp; power to oppose such Innovations <unclear/> <ex>th</ex>e goodnes &amp; diuine <lb/>
+            p<ex>ro</ex>vidence of god that hath given yo<ex>u</ex>r Ma<ex>jes</ex>tie aboue all <ex>th</ex>e princes <lb/>
+            of the earth such tytles &amp; Royall attributes, as doe necessarily <lb/>
+            inferr &amp; transferr a right of p<ex>ro</ex>tection vppon those his power <lb/>
+            p<ex>ro</ex>secuted servants whatsoeu<ex>er</ex> yo<ex>u</ex>r Ma<ex>jes</ex>tie think<ex>es</ex> of <ex>i</ex>t I doe as <lb/>
+            verely beleue it as if there  were a text for it in <ex>th</ex>e appocalipp<ex>es</ex> <lb/>
+            that <ex>th</ex>e great gou<ex>er</ex>ner of <ex>th</ex>e World in his omniscience &amp; omnipotent <lb/>
+            p<ex>re</ex>science hath soe disposed of  states to <ex>th</ex>e benifit of his Churche as <lb/>
+            to Continue vppon yo<ex>u</ex>r Ma<ex>jes</ex>tie <ex>th</ex>e tytle of Fraunce to the end <ex>tha</ex>t <lb/>
+            little Flocke he hath thought  good to plant their amonge soe many <lb/>
+            <fw type="catch" place="bot-right">Wolues</fw>
+            <pb n="[7v]" facs="/nro/ayl_192/ayl_192-008/ayl_192-008.jpg"/>
+            Wolues might haue bene a iust p<ex>re</ex>tence of the defend<ex>er</ex> of the<unclear/> <lb/>
+            faithes, if yo<ex>u</ex>r Ma<ex>jes</ex>tie will not owne these pore people neither <unclear/> <lb/>
+            Kinge of Fraunce, nor defend<ex>e</ex>r of <ex>th</ex>e faith, yet ought you to <lb/>
+            p<ex>re</ex>serue them for yo<ex>u</ex>r Englands sake and doe that for state w<ex>hi</ex>ch <lb/>
+            religion cannot attaine, for should <ex>th</ex>e p<ex>ro</ex>testants of France be <lb/>
+            vtterly exturpated &amp; that puissant kingdome rendred w<ex>i</ex>th <lb/>
+            greivinge at soe terrable an alterac<ex>i</ex>on for myne owne p<ex>ar</ex>te <lb/>
+            i should then beleiue <ex>tha</ex>t <ex>th</ex>e tyme were come that <unclear/> the <lb/>
+            French men spake of, who beinge in discourse w<ex>i</ex>th an English man <lb/>
+            aboute <ex>th</ex>e warres wee had often &amp; w<ex>it</ex>h good successe made in Fraunce <lb/>
+            discretely sayd <ex>tha</ex>t god Almightie had brought <ex>th</ex>e Englishe unto France <lb/>
+            to punishe them for their  sinnes and when <ex>th</ex>e sins of England <lb/>
+            should be greater then those of France he would like wise send <ex>th</ex>e <lb/>
+            French thither to scourge them, And how willingly will <ex>tha</ex>t nation <lb/>
+            ymbrace such an ymployment may easilie be Iudged whether <lb/>
+            they consider the ould or <ex>th</ex>e new cause of <add place="above">there</add> hatred, the vertue of o<ex>u</ex>r <lb/>
+            Auncesters sticks in their stomock<ex>es</ex>, and <ex>th</ex>e true p<ex>ro</ex>fession of <ex>th</ex>e <lb/>
+            gospell encorageth their Conscience they whoe beleiue they do <lb/>
+            good service in Cuttinge their  owne Country men &amp; <unclear/> <lb/>
+            throats because they are not papists would doubt lesse thinke <lb/>
+            themselues damned <ex>i</ex>f they should not doe much more to <lb/>
+            strangers, and their Auncient enemyes vppon <ex>th</ex>e lyke occasion <lb/>
+            nor should they want powerfull enticem<ex>en</ex>t<ex>es</ex> to such an holy <lb/>
+            enterprise (though thanks be to god) he is nothing soe cunninge <lb/>
+            at it as <ex>th</ex>e devill for I knowe not by what pontificall fury <lb/>
+            he hath p<ex>re</ex>cipitated his  instigations &amp; suffered his mallice to <lb/>
+            out run <ex>th</ex>e seson would any but Antichrist out of his witt<ex>es</ex> <lb/>
+            haue soe abused his Christian chyld, as to put hym vppon <lb/>
+            <ex>th</ex>e Conquest of England before he was mast<ex>e</ex>r of Rochell, I must <lb/>
+            confesse when I first saw his Apostolicall lett<ex>e</ex>rs I had an <lb/>
+            opinion, that some craftie hugonist had devised them to <lb/>
+            giue yo<ex>u</ex>r Ma<ex>jes</ex>tie more sensible int<ex>er</ex>est in their cause, but <lb/>
+            havinge since ben made certen they came from Rome <lb/>
+            And that I fynde them incerted in a french Cattalogue <lb/>
+            (<hi rend="italic">Aver privilege du Roy</hi>) I knowe not what to wond<ex>e</ex>r <lb/>
+            at most whether at them that say <ex>th</ex>e pope cannot erre at <lb/>
+            all or at hym <ex>tha</ex>t he should err soe much I assure my selfe <lb/>
+            this favorable discourse hath longe since bene deliu<ex>er</ex>ed <lb/>
+            to yo<ex>u</ex>r Ma<ex>jes</ex>tie in its owne langwage, neu<ex>er</ex>thelesse I will <lb/>
+            craue leaue to make you see how vgly it shewes in English <lb/>
+            <fw type="catch" place="bot-right">/</fw>
+         </p>
+         <pb n="[8r]" facs="/nro/ayl_192/ayl_192-008/ayl_192-008.jpg"/>
+         <p>
+            To o<ex>u</ex>r deare sonne in Chr<ex>ist</ex> Iesus Lewis the most <lb/>
+            Christian kinge Pope Gregorio the xvth
+         </p>
+         <p>
+            Most deare sonne in Christ health &amp; the Apostolicall <lb/>
+            benediction the highe exploits of yo<ex>u</ex>r vallor, w<ex>hi</ex>ch haue drawne <lb/>
+            vppon them the eyes of all Christendome, beinge a great deale <lb/>
+            of Comforte to o<ex>u</ex>r fatherlie care, aswell in regard of <ex>th</ex>e glory <lb/>
+            of o<ex>u</ex>r Armes, as <ex>th</ex>e hope of o<ex>u</ex>r tryvmphes for Consideringe as <lb/>
+            wee doe w<ex>i</ex>th much greife, the ympietie of the heriticks livinge <lb/>
+            in some places w<ex>i</ex>thout feare of danger, exercisinge on others, the <lb/>
+            lawes of cruell gou<ex>er</ex>m<ex>en</ex>t,  we may thanke <ex>th</ex>e lord of hosts, that <lb/>
+            hath in soe fitt an oportunity, made yo<ex>u</ex>r Ma<ex>jes</ex>tie to take vp Armes <lb/>
+            to maintaine <ex>th</ex>e dignitie of the Catholicke religion A fare <lb/>
+            apprentyshipp of a royall warfarr, and worthie of s most <unclear/> <lb/>
+            kinge what an admirable thinge it is that youth w<ex>hi</ex>ch others out <lb/>
+            of a kinde of softnes &amp; idlenes vse to passe away their tyme <lb/>
+            in sport<ex>es</ex> &amp; delight<ex>es</ex>, yo<ex>u</ex>r Ma<ex>jes</ex>tie should imploye, and so fortunately <lb/>
+            in appeasinge differences, conductinge armies &amp; beseiginge <lb/>
+            the places of hereticks, and all not w<ex>i</ex>thout the spirituall Councell <lb/>
+            of god, by whome king<ex>es</ex> raigne, It is almost incredable, that <lb/>
+            <ex>th</ex>e very first stepp of yo<ex>u</ex>r youth should carrie you to soe highe and <lb/>
+            trublesome an enterprise, and that the dangers and difficulties <lb/>
+            w<ex>hi</ex>ch haue stopt others in their  course, should only serue for a spurr <lb/>
+            to <ex>th</ex>e greatnes of yo<ex>u</ex>r Courage, <unclear/> deere sonne the renowne <lb/>
+            yo<ex>u</ex>r name hath got and for <ex>th</ex>e god that fiteth for you. to the end, that <lb/>
+            as you are now held in eu<ex>er</ex>y mans opinion the thunderbolt of <lb/>
+            warr &amp; the buckler of peace, soe you may hereafter be esteemed <lb/>
+            the prayers of Israll and glory of <ex>th</ex>e world, from <ex>th</ex>e highest of <lb/>
+            o<ex>u</ex>r apostolicall dignitie when it shall please god of his goodnes to <lb/>
+            raise vs vnworthie of soe great a grace, wee assist yo<ex>u</ex>r Armes <lb/>
+            w<ex>i</ex>th hart &amp; affection and by o<ex>u</ex>r frequent prayers p<ex>re</ex>pare the <lb/>
+            divine remedies, and though wee doubt not but yo<ex>u</ex>r vertue will <lb/>
+            make you constant in the worke you haue begvn, nev<ex>er</ex>thelesse <lb/>
+            wee haue thought good to ad o<ex>u</ex>r exhortac<ex>i</ex>on, that the world might <lb/>
+            see the care wee haue, for <ex>th</ex>e advancem<ex>en</ex>t of true religion And <lb/>
+            how willinge wee are to give way to yo<ex>u</ex>r glorie, you haue hitherto <lb/>
+            ben infinitly bound to god for his bountie toward<ex>es</ex> you, and as wee <lb/>
+            hope &amp; wishe shall hereafter be a greate deale more, for you havinge <lb/>
+            yo<ex>u</ex>r mynde endued w<ex>i</ex>th Celestiall docktrine, and not w<ex>i</ex>th bare <lb/>
+            p<ex>re</ex>cepts of humane wisdome, doe know that kingdomes haue <lb/>
+            their foundac<ex>i</ex>ons vpon <ex>th</ex>e truth of orthodaxall faith And indeede <lb/>
+            vnlesse god keepe <ex>th</ex>e Cittie what principallitie can subsist w<ex>i</ex>th <unclear>-</unclear> <lb/>
+            any assuerance, It may easilie be iudged, w<ex>i</ex>th what fidelitie they are <lb/>
+            lyke to defend yo<ex>u</ex>r Royall throne, that haue cast <ex>th</ex>e very saint<ex>es</ex> themselues <lb/>
+            out of their temples and done as much as in them lay, to put them <lb/>
+            out of <ex>th</ex>e number of <ex>th</ex>e blessed, yea out of paradise it selfe, That w<ex>i</ex>th <lb/>
+            ympious crueltie Condeme<unclear>s</unclear> <ex>th</ex>e instituc<ex>i</ex>ons of o<ex>u</ex>r forefathers, the <lb/>
+            Customes of king<ex>es</ex> <ex>th</ex>e decrees of  popes &amp; <ex>th</ex>e Ceremonies of <ex>th</ex>e Church <lb/>
+            These are the disturban<unclear/> of <ex>th</ex>e <unclear/> Comon Wealth and the <lb/>
+            <fw type="catch" place="bot-right">
+               reprochers of <lb/>
+               France
+            </fw>
+            <pb n="[8v]" facs="/nro/ayl_192/ayl_192-009/ayl_192-009.jpg"/>
+            Fraunce whence <ex>th</ex>e great god hath reserved to be extirmined in <lb/>
+            the first yere of yo<ex>u</ex>r Ragne and nowe then <ex>tha</ex>t all Europe (w<ex>hi</ex>ch <ex>th</ex>e <lb/>
+            event of o<ex>u</ex>r Armes holds still in suspense hopes shortely to hoise sayle <lb/>
+            vppon <ex>th</ex>e ocean, vnder yo<ex>u</ex>r Conduct to <ex>th</ex>e end, that place w<ex>hi</ex>ch now <lb/>
+            serves for a sanctuary and p<ex>ro</ex>tection for hereticks &amp; rebells may on<unclear>e</unclear> <lb/>
+            day serue for a <unclear/> for yo<ex>u</ex>r virtories,  wee are constantly p<ex>er</ex>swaded <lb/>
+            <ex>tha</ex>t neither feare nor inconstancy shall ever be able to divert you from <lb/>
+            <ex>th</ex>e pursuite of yo<ex>u</ex>r enterprise, only wee would haue you remembe<unclear>r</unclear> <lb/>
+            that <ex>th</ex>e saint<ex>es</ex> in heauen assist<ex>es</ex> <ex>tha</ex>t prince whoe tak<ex>es</ex> vppon hym <ex>th</ex>e <lb/>
+            defence of religion &amp; fight on his side like fellowe souliors the sam<unclear>e</unclear> <lb/>
+            god w<ex>hi</ex>ch hardnes <ex>th</ex>e waters like dry land, and turned <ex>th</ex>e waues <unclear/> <lb/>
+            <ex>th</ex>e <del rend="strikethrough">say</del> sea into wales, to giue passage to his  Children<ex>es</ex> army will <lb/>
+            certenly be as favorable to you &amp; then wee shall haue good cause <lb/>
+            hereafter to hope you haue established yo<ex>u</ex>r Kingdome &amp; crusht <lb/>
+            <ex>th</ex>e ympietie <ex>tha</ex>t is there, you may one day by <ex>th</ex>e p<ex>ro</ex>grace of yo<ex>u</ex>r <lb/>
+            victori<unclear>
+                    <del rend="strikethrough">es</del>
+                </unclear>ous Armies ioyne the orient to <ex>th</ex>e occident imitatinge <lb/>
+            <ex>th</ex>e glory of yo<ex>u</ex>r Auncest<ex>e</ex>rs who haue eu<ex>er</ex> borne as much respect <lb/>
+            to <ex>th</ex>e exhortac<ex>i</ex>ons of popes as to <ex>th</ex>e comand of god &amp; lew<unclear>i</unclear>s <lb/>
+            Whose name you carry and whose stepes you followe invites yo<unclear>u</unclear> <lb/>
+            to it so did <ex>th</ex>e first of <unclear/> raigne, who in defendinge of <ex>th</ex>e apostolical<unclear>l</unclear> <lb/>
+            authoritie, appropa<unclear>
+                    <del rend="strikethrough">ga</del>
+                </unclear>tinge &amp; <unclear/> Religion laid <ex>th</ex>e best  &amp; surest <lb/>
+            foundac<ex>i</ex>on of yo<ex>u</ex>r Royall house, follow, dere sonn who are <ex>th</ex>e <lb/>
+            ornament<ex>es</ex> of <ex>th</ex>e world, the Comandem<ex>en</ex>t of heauen, power out <lb/>
+            yo<ex>u</ex>r wrath &amp; indignac<ex>i</ex>on vppon those people that haue not known<unclear>e</unclear> <lb/>
+            god, to the end the divine tresuer of heauen may belonge vnto <lb/>
+            you by iust acquisic<ex>i</ex>on In <ex>th</ex>e meane tyme wee send o<ex>u</ex>r apostolicall <lb/>
+            benediction / given at Rome in <ex>th</ex>e great S<ex>ain</ex>t Maries vnder the <lb/>
+            seale of <ex>th</ex>e fisher the 4 of Septembre 1621 the first  yere of o<ex>u</ex>r <lb/>
+            pontificall
+         </p>
+         <p>
+            Behold <ex>th</ex>e nett<ex>es</ex> of S<ex>ain</ex>t Peeters Success<ex>o</ex>rs hope to catch <lb/>
+            England with wherin yo<ex>u</ex>r Ma<ex>jes</ex>tie hath more to lose then any <lb/>
+            man I knowe be not offended w<ex>i</ex>th yo<ex>u</ex>r lovinge subiects, that <lb/>
+            their harts tremble not for feare, but for greif, to see yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie neglect both yo<ex>u</ex>r Children and them, In so pregnant &amp; soe <lb/>
+            considerable an occasion The pope needed not to haue bene so <lb/>
+            foolishe, as to advertise vs, wee should easilie haue bene soe wise <lb/>
+            o<ex>u</ex>r selues as to vnderstand how were <ex>th</ex>e p<ex>ro</ex>testants of France concerne <lb/>
+            England, they are indeede so many hostages, w<ex>hi</ex>ch god almightie <lb/>
+            hath put into yo<ex>u</ex>r Ma<ex>jes</ex>ties hands to serue you &amp; yo<ex>u</ex>r dominions from <lb/>
+            all dangers of <ex>tha</ex>t Cuntry, &amp; to lose them were in my opinion noe <lb/>
+            other then to tempt god wilfully, to deliver you into <ex>th</ex>e hands of yo<ex>u</ex>r <lb/>
+            enemyes As longe as god hath any children in France wee shalbe <lb/>
+            suer to haue brethren there but they once gone, o<ex>u</ex>r brother of Fran<unclear>ce</unclear> <lb/>
+            will quickly shewe whose chyld he is and how incompatible the <lb/>
+            obedience he owes hym is w<ex>i</ex>th any good will he beares to yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            since then the tye you haue vppon that princes Frindshipp is so <lb/>
+            loose a knott, what can yo<ex>u</ex>r Ma<ex>jes</ex>tie doe bett<ex>e</ex>r for yo<ex>u</ex>r selfe and yo<unclear/> then <lb/>
+            to keepe his enemies lodged by <ex>th</ex>e Cherishinge &amp; maynteninge of <lb/>
+            <fw type="catch" place="bot-right">soe good</fw>
+            <pb n="[9r]" facs="/nro/ayl_192/ayl_192-009/ayl_192-009.jpg"/>
+            Good a p<ex>ar</ex>tie in his Cuntrie, as those of yo<ex>u</ex>r religion, who you may <lb/>
+            be suer wilbe soe farr at yo<ex>u</ex>r devotion as to continue there <lb/>
+            publique praises for yo<ex>u</ex>r p<ex>ro</ex>speritie, nor hath <ex>th</ex>e wholy motion of <lb/>
+            god<ex>es</ex> spirit ben altogether wantinge in this poynt to yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            at least <ex>i</ex>f wee may beleue what is vnlawfull<unclear>
+                    <del rend="strikethrough">y</del>
+                </unclear> to doubt <lb/>
+            the p<ex>ro</ex>testac<ex>i</ex>on of yo<ex>u</ex>r tonge, <unclear>
+                    <add place="above">?</add>
+                </unclear> for it is true <ex>tha</ex>t when at <ex>th</ex>e first the <lb/>
+            deputies of Rochell p<ex>re</ex>sented them selues before yo<ex>u</ex>r Ma<ex>jes</ex>tie, you <lb/>
+            received their lamenta<unclear>ble</unclear> remonstrac<ex>i</ex>ons w<ex>i</ex>th all <ex>th</ex>e shewes of <lb/>
+            Compassion and sent them awaye astonished w<ex>i</ex>th yo<ex>u</ex>r good word<ex>es</ex> <lb/>
+            did not you tell them that although yo<ex>u</ex>r Conscience would not <lb/>
+            suffer you to assist yo<ex>u</ex>r owne Children in <ex>th</ex>e warr of Bohemia <lb/>
+            because you were not well satisfied in <ex>th</ex>e iustice of their <lb/>
+            quarrell, yet for them they might assuer themselues, you would <lb/>
+            imploy <ex>th</ex>e vttermost of yo<ex>u</ex>r forces in there defence,  that you had <lb/>
+            strickly examined all <ex>tha</ex>t had passed betwene there Kinge and <lb/>
+            them and could not fynde wherin they had any way offended, that <lb/>
+            you were more ingaged in their behalfe, then they p<ex>er</ex>haps knewe of <lb/>
+            for when you renewed <ex>th</ex>e allyance w<ex>i</ex>th <ex>th</ex>e Kinge, after the death <lb/>
+            of his father, you caused an expresse article to be incerted, That <lb/>
+            those of <ex>th</ex>e reformed Religion so longe as they Comported <lb/>
+            them selues as good subiects should be peaceably mayntained <lb/>
+            and enioy <ex>th</ex>e benifitt of <ex>th</ex>e edict in as ample a mann<ex>er</ex> as they <lb/>
+            had done in his fathers lyfe tyme w<ex>hi</ex>ch beinge soe fashoned <lb/>
+            wilfully infringed you held yo<ex>u</ex>r self both in conscience &amp; honor to <lb/>
+            take their cause in hand &amp; see them righted, as you vowed to god <lb/>
+            you would confirme this yo<ex>u</ex>r resoluc<ex>i</ex>on w<ex>i</ex>th ymprecac<ex>i</ex>ons of soe <lb/>
+            high a nature as though I doubt not they p<ex>ro</ex>ceede out of <unclear/> yet <lb/>
+            dare not for <ex>th</ex>e respect I owe yo<ex>u</ex>r Ma<ex>jes</ex>tie remember them in this <lb/>
+            place, and <ex>tha</ex>t nothinge might be wantinge to make Inocency &amp; <lb/>
+            religion credulous, my lo<ex>rd</ex> of Buckingham hym selfe fell vppon <lb/>
+            his knees &amp; besought yo<ex>u</ex>r Ma<ex>jes</ex>tie to take them into yo<ex>u</ex>r p<ex>ro</ex>tection in <lb/>
+            so much as <ex>th</ex>e pore men were almost ravished w<ex>i</ex>th ioye &amp; good <lb/>
+            successe, &amp; came away praysinge god for <ex>th</ex>e favor they had found <lb/>
+            in yo<ex>u</ex>r Ma<ex>jes</ex>ties eyes, but by <ex>tha</ex>t tyme they were ret<ex>ur</ex>ned, into their <lb/>
+            owne Country w<ex>hi</ex>ch was eight or nyne monethes &amp; nothinge done <lb/>
+            they honge downe their heads, &amp; said they would as longe as they <lb/>
+            lived call Engalnd <ex>th</ex>e land of p<ex>ro</ex>mise, for not w<ex>i</ex>thstandinge <ex>th</ex>e great <lb/>
+            p<ex>ro</ex>mises yo<ex>u</ex>r Ma<ex>jes</ex>tie had made them they met w<ex>i</ex>th noe man but could <lb/>
+            tell them they would be deceived in there expectac<ex>i</ex>on w<ex>hi</ex>ch yet <lb/>
+            they could not beleue till they saw nothinge done, At last yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie tould them (as became a great prince) they were noe people <lb/>
+            you had reson to flatt<ex>e</ex>r or dissemble w<ex>i</ex>th for <ex>i</ex>f you had not lyked their cause <lb/>
+            you would haue tuold them soe at first/ but alasse what are they <lb/>
+            <ex>th</ex>e bett<ex>e</ex>r for <ex>th</ex>e lykinge of their cause <ex>tha</ex>t only shewed <ex>th</ex>e goodnes of yo<ex>u</ex>r <lb/>
+            owne Iudgem<ex>en</ex>t but did no way lessen <ex>th</ex>e bitt<ex>e</ex>rnes of their Callamities <lb/>
+            true it was such was their humilitie &amp; discretion as they desyered <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>tie would first be pleased to try all peaceable meanes in <lb/>
+            <fw type="catch" place="bot-right">their favo<ex>ur</ex>
+                </fw>
+            <pb n="[9v]" facs="/nro/ayl_192/ayl_192-010/ayl_192-010.jpg"/>
+            before you had recourse to other, not out of any hope they had <lb/>
+            it would p<ex>ro</ex>duce any good effect, but because they knowe it was <lb/>
+            a course most sutable to yo<ex>u</ex>r Ma<ex>jes</ex>ties Inclynac<ex>i</ex>on, here vpppon yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie thought good to send my lo<ex>rd</ex> of Doncast<ex>e</ex>r into France to <lb/>
+            mediate their peace in the Choice of whose p<ex>er</ex>son, they themselues <lb/>
+            were as much gratified as in <ex>th</ex>e ambassage <ex>i</ex>t selfe, for though <lb/>
+            they were strangers and newly arived in yo<ex>u</ex>r Courte, yet had <lb/>
+            they learned whay a spotles &amp; open harted affection <ex>tha</ex>t lo<ex>rd</ex> bare to <lb/>
+            <ex>th</ex>e true service of god &amp; his mast<ex>e</ex>r But in his ymploym<ex>en</ex>t his <lb/>
+            well wishes were his owne and his instructions yo<ex>u</ex>r Ma<ex>jes</ex>ties and <lb/>
+            how farre soeu<ex>er</ex> the one went before he was bound to followe <lb/>
+            <ex>th</ex>e other all that he could doe voluntarily was to vse his best <lb/>
+            dilligence in matter of tyme, as I assuer my selfe he did, thought <lb/>
+            <ex>tha</ex>t was his misfortune to meete w<ex>i</ex>th many heavy Rubbes, for <lb/>
+            beinge arrived at <ex>th</ex>e French Kings Campe, the Cannons made <lb/>
+            such a noyse at Mount abon, as he could not of a longe tyme <lb/>
+            be heard, and when w<ex>i</ex>th much a doe he had p<ex>ro</ex>cured <ex>tha</ex>t favor (the <lb/>
+            answere he received was soe vnsavory) as both his busines &amp; <lb/>
+            hymselfe fell sick vppon it by occasion whereof more tyme was <lb/>
+            spent in this one voyage then o<ex>u</ex>r auncestors were wont to ymploy <lb/>
+            in Conqueringe halfe fraunce, and after all came home <lb/>
+            pittifully Complayninge of <ex>th</ex>e ill satisfaction he had received <lb/>
+            neu<ex>er</ex>thelesse yo<ex>u</ex>r Ma<ex>jes</ex>tie would not take his faithfull accompt for <lb/>
+            finall paym<ex>en</ex>t thought <ex>i</ex>t worth yo<ex>u</ex>r labore once againe furnished, <lb/>
+            as <ex>th</ex>e world conceived, w<ex>i</ex>th stranger Charmes then <ex>th</ex>e first, but <lb/>
+            <ex>th</ex>e effect was all one for he found <ex>th</ex>e yonge Kinge as obstinate as <lb/>
+            ever he was in pursuite of his Armes, and not to be p<ex>er</ex>swaded to <lb/>
+            lay downe vppon bare unholy <unclear>land</unclear> to speake <ex>th</ex>e truthe it was not <lb/>
+            to be expected at his hands, for he had <unclear>-</unclear> <add place="above">no</add> reson to increase the <lb/>
+            obligac<ex>i</ex>on his p<ex>ro</ex>testant subiects bare to yo<ex>u</ex>r Ma<ex>jes</ex>tie by shewinge them any <lb/>
+            favor at yo<ex>u</ex>r instance, Suir it is well knowne <ex>tha</ex>t a great p<ex>ar</ex>te of <ex>th</ex>e <lb/>
+            animositie he beares them, p<ex>ro</ex>ceed<ex>es</ex> meerely out of Iealousie he <lb/>
+            hath, that they haue alredy to much dependency vppon you, had yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie vsed <ex>th</ex>e same p<ex>er</ex>swasions to hym as <unclear/> did to lewis <ex>th</ex>e ii to make hym let <ex>th</ex>e <lb/>
+            duke of Brittanie alone I doubt not but his Councell, as fearce a warrior as he is, <lb/>
+            would haue advised hym for <ex>th</ex>e best, but this was a poynt of Rethorick beyond his <lb/>
+            lo: Comission And all <ex>tha</ex>t was lawfull for hym to vrge was easilie avoyded, either <lb/>
+            by a flat refusall or a vaine excusall, soe was forced <ex>th</ex>e second tyme to returne <lb/>
+            out of Fraunce w<ex>i</ex>thout leavinge behynde hym any signe he had bene there, but <lb/>
+            what appered only by my lord Tresurors accompt, there havinge issued as <lb/>
+            much money out of <ex>th</ex>e Excheq<ex>ue</ex>r for defrayinge his fruteles Ambassage, as <lb/>
+            would haue sufficed a greate p<ex>ar</ex>te of <ex>th</ex>e Churches necessities, as yo<ex>ur</ex> Ma<ex>jes</ex>tie came <lb/>
+            after to Consider though late &amp;c
+         </p>
+         <pb n="[10r]" facs="/nro/ayl_192/ayl_192-010/ayl_192-010.jpg"/>
+         <p>
+            When you tould <ex>th</ex>e deputies, you could haue wished, you had <lb/>
+            giuen them <ex>th</ex>e money my Lord of Doncast<ex>e</ex>r had and would cost in <lb/>
+            this tretie, And w<ex>i</ex>thout doubt, the one would haue done them a <lb/>
+            great deale more food then the other, for they were soe farr <lb/>
+            from receivinge any good by yo<ex>u</ex>r Ma<ex>jes</ex>ti<ex>es</ex> intercession, as it rather <lb/>
+            infinitely disadvantaged them &amp; noe way slackned nor appeased <lb/>
+            the furie of their prince who continued his assalts vppon them <lb/>
+            eu<ex>er</ex>y day ore Crewll then other, And yet was of such force <lb/>
+            w<ex>i</ex>th them (as not to agrauate matt<ex>e</ex>rs, &amp; to rend<ex>e</ex>r yo<ex>u</ex>r Ma<ex>jes</ex>ties p<ex>re</ex>uious <lb/>
+            endevors more difficult) they imposed <unclear/> &amp; modestie vppon <lb/>
+            their Armes, and in diu<ex>er</ex>ses cases chuse rather to suffer then to <lb/>
+            ymploy the extremities of warr in there defence, besides many of <lb/>
+            their p<ex>ar</ex>ties,  seinge yo<ex>u</ex>r Ma<ex>jes</ex>tie soe farr ingaged in a treate of peace <lb/>
+            thought it no poynt of wisdome, to declare themselues, before <lb/>
+            they sawe <ex>th</ex>e issue of <ex>i</ex>t, w<ex>hi</ex>ch could not be but a makinge to them <lb/>
+            soe as the very p<ex>re</ex>iudice they received by yo<ex>u</ex>r Ma<ex>jes</ex>ties occasions (were <lb/>
+            there no other motiue) doth sufficiently oblige you in poynt <lb/>
+            of iustice to doe somethinge for them, and in the name of god <lb/>
+            what should hinder you, after soe many vowes and p<ex>ro</ex>mises, from <lb/>
+            p<ex>er</ex>forminge soe easie and meritorius a worke p<ex>er</ex>happs some <lb/>
+            <unclear>falceforters achitophell</unclear> hath <unclear/> into yo<ex>u</ex>r app<ex>re</ex>hension that if you <lb/>
+            receive <ex>th</ex>e p<ex>ro</ex>testant<ex>es</ex> in France the French Kinge might lyke wise <lb/>
+            be drawne to assist <ex>th</ex>e papists in England against yo<ex>u</ex>r Ma<ex>jes</ex>tie <lb/>
+            but thank<ex>es</ex> be to god, wee are not there yet, for though <ex>th</ex>e papist<ex>es</ex> <lb/>
+            of o<ex>u</ex>r Cuntry haue had more skope given them of late then all that <lb/>
+            loue their Cuntry could haue wished, yet they are not  growne <lb/>
+            to such a formidable height, that this illation should be thought <lb/>
+            of any Consequence, The p<ex>ro</ex>testants of France haue lawes <lb/>
+            made in their favor &amp; townes given them for their securitie, but <lb/>
+            <ex>th</ex>e papists of England can expect nothinge from the lawes of their <lb/>
+            Cuntry but penaltie nor challenge any other assuerance but <lb/>
+            what p<ex>ro</ex>ceeds from more conveniency, Besides <ex>th</ex>e tenent<ex>es</ex> of <lb/>
+            <ex>th</ex>e one, are so conformable to good  gou<ex>er</ex>m<ex>en</ex>t as they are &amp; ought to be <lb/>
+            p<ex>er</ex>mitted, to assemble in provincyable &amp; nationall Synods, <lb/>
+            wheras <ex>th</ex>e other are in stile denied, because their positions &amp; <lb/>
+            dispositions are altogither repugnant to <ex>th</ex>e peace &amp; safetie <lb/>
+            of y<ex>ou</ex>r state well may they conspire in sects by too &amp; too but to <lb/>
+            rebell openly <ex>th</ex>e Constables will not suffer them, <ex>i</ex>f therefore in <lb/>
+            case to shewe them in their right Collurs wee shall haue newes <lb/>
+            quickly of o<ex>u</ex>r Freind<ex>es</ex> beyond <ex>th</ex>e seaes, there beinge a great prince <lb/>
+            in <ex>th</ex>e world <ex>tha</ex>t openly p<ex>ro</ex>fesseth <ex>tha</ex>t <ex>th</ex>e English Catholiques are as <lb/>
+            dere to hym as his owne p<ex>ro</ex>per Catholiques, <ex>i</ex>t is not yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            example but yo<ex>u</ex>r wisdome <ex>tha</ex>t must caution you from their doing<ex>es</ex> <lb/>
+            and to hynder them from any forreine assistans, there is noe <lb/>
+            way but one, to kepe them in such order as they may not be <lb/>
+            capable of <ex>i</ex>t, The Church of Rome as it is for <ex>th</ex>e most p<ex>ar</ex>t grounded <lb/>
+            vppon worldy pollicie, soe <ex>i</ex>t doth <unclear>-</unclear> aboue all excell in this <lb/>
+            <fw type="catch" place="bot-right">that it</fw>
+            <pb n="[10v]" facs="/nro/ayl_192/ayl_192-011/ayl_192-011.jpg"/>
+            That it hold<ex>es</ex> the p<ex>ar</ex>ties firmely linckt togither and possesseth <lb/>
+            them I know not be what fastination, w<ex>i</ex>th such a spirit of <lb/>
+            Confederacy as they p<ex>ar</ex>take a little of both fortunes, and <lb/>
+            passiuely <unclear/> one anothers interest, wheras <ex>i</ex>f wee pray <lb/>
+            once a weeke, more out of custome then any devotion for  the good <lb/>
+            estate of Christs Church, wee haue p<ex>er</ex>formed the vtter most of <lb/>
+            Christian dutie, hence it is that the Catholike cause makes <lb/>
+            such a noyse in <ex>th</ex>e world, and carried all before it, in these <lb/>
+            troblesome times, for amonge them it is no enough to p<ex>ro</ex>fesse <lb/>
+            religion w<ex>i</ex>thout contribution to it, whereas as wee thinke god <lb/>
+            sufficiently honored if wee beleive his truth, let hym defend <lb/>
+            it as he will, or if at any tyme wee be vrged to fight for o<ex>u</ex>r <lb/>
+            Religion, wee only vse the spirituall sword, whilest o<ex>u</ex>r adversarie<unclear/> <lb/>
+            make their victories by their materiall and confound more in <lb/>
+            one day w<ex>i</ex>th <ex>th</ex>e one, then S<ex>ain</ex>t Peter or S<ex>ain</ex>t Paule could ever conve<unclear/> <lb/>
+            w<ex>i</ex>th <ex>th</ex>e other, The princes <ex>tha</ex>t haue given there power to <ex>th</ex>e beast <lb/>
+            send Armes, and yo<ex>u</ex>r Ma<ex>jes</ex>tie that should fight <ex>th</ex>e battle of <ex>th</ex>e lord <lb/>
+            (Ambassadors) in a word whilest yo<ex>u</ex>r Ma<ex>jes</ex>tie, adviseth yo<ex>u</ex>r selfe <lb/>
+            to convince an odd error or two of theres, they fynde meanes <lb/>
+            to conquer a whole province of yo<ex>u</ex>rs Certenly the Children of <lb/>
+            darknes are wiser in their generation then the Children of <lb/>
+            light and shall rise vp against vs at <ex>th</ex>e last day for bearinge <lb/>
+            more affection to <ex>th</ex>e Alarum of Rome then wee doe to <ex>th</ex>e gospell <lb/>
+            of Christ, That I may yet giue yo<ex>u</ex>r Ma<ex>jes</ex>tie a more liuely touche <lb/>
+            of these thing<ex>es</ex>, let it be lawfull for me to change <ex>th</ex>e p<ex>re</ex>sent faith <lb/>
+            of Religion throughout Christendome, and see what necessarilie <lb/>
+            will result, Suppose yo<ex>u</ex>r Ma<ex>jes</ex>tie and <ex>th</ex>e body of yo<ex>u</ex>r estate were <lb/>
+            papists, &amp; <ex>th</ex>e recusant<ex>es</ex> p<ex>ro</ex>testant<ex>es</ex>,  <ex>th</ex>e French Kinge &amp; <ex>th</ex>e maior <lb/>
+            p<ex>ar</ex>te of his Kingdome p<ex>ro</ex>testants &amp; <ex>th</ex>e hugonist<ex>es</ex> papists, The Kinge <lb/>
+            of Spaine <ex>th</ex>e Emp<ex>er</ex>or &amp; all <ex>th</ex>e stribe of austria of <ex>th</ex>e Confession of <lb/>
+            Ausburges, yo<ex>u</ex>r Children and <ex>th</ex>e other princes of Germanie, <lb/>
+            their confederates romaine Catholiques suppose I say <ex>th</ex>e <lb/>
+            difference were in all p<ex>ar</ex>t<ex>es</ex> <ex>th</ex>e same, <ex>th</ex>e sydes only turned doth <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>tie thinke you could haue shewed yo<ex>u</ex>r selfe deafe at such <lb/>
+            cryinge occasions, w<ex>i</ex>thout seeinge yo<ex>u</ex>r whole Kingdomes in Comotion<unclear/> <lb/>
+            &amp; <ex>tha</ex>t they would haue suffered you to take yo<ex>u</ex>r plesuer a hun<unclear/>tinge <lb/>
+            whilest yo<ex>u</ex>r Children and brethren were made a prey to <ex>th</ex>e Comon <lb/>
+            Enemy, Noe assueredly you would haue found an other mann<ex>er</ex> of <lb/>
+            busines in it, and sene yo<ex>u</ex>r sefe forced to p<ex>re</ex>ferre yo<ex>u</ex>r safetie, before yo<ex>u</ex>r <lb/>
+            ease / <hi rend="italic">mondroit</hi>, before <hi rend="italic">beati pacifici</hi>, you would haue then <lb/>
+            seene <ex>th</ex>e difference betwene a puritan p<ex>ar</ex>liam<ex>en</ex>t &amp; a papist, and <lb/>
+            wonder for beinge soe vnequall as to feare <ex>th</ex>e one &amp; depise <ex>the</ex> <lb/>
+            other The popes Bull<ex>es</ex> and his feirce beastes <ex>th</ex>e Iesuits would <lb/>
+            haue bene continually vppon yo<ex>u</ex>r back &amp; neu<ex>er</ex> left yo<ex>u</ex>r Ma<ex>jes</ex>tie safe <lb/>
+            nor quiet till they thrust you into acc<ex>i</ex>on, and for one preacher of <lb/>
+            o<ex>u</ex>rs that chance to let fall a word or too to <del rend="strikethrough">his</del> this purpose, you <lb/>
+            <pb n="[11r]" facs="/nro/ayl_192/ayl_192-011/ayl_192-011.jpg"/>
+            Shall haue all theires treate of nothinge els, nor p<ex>re</ex>vention <lb/>
+            can be vsed to make them eyther sylent or sparinge in a <lb/>
+            cause <ex>tha</ex>t is soe highly concerninge their wholy mother <ex>th</ex>e Church <lb/>
+            what then shall the true religion because it teacheth noe doctrin <lb/>
+            but what agrees w<ex>i</ex>th <ex>th</ex>e symplicitie &amp; <del rend="strikethrough">true</del> purenes of <ex>th</ex>e <lb/>
+            gospell be therefore neglected, god forbidd , they that <lb/>
+            mayneteyne the excomunicac<ex>i</ex>on <unclear/> &amp; assassinac<ex>i</ex>on <lb/>
+            of princes, would desyer no bett<ex>e</ex>r ground for their opinion <lb/>
+            then such advantage, and could not but auger the very <lb/>
+            S<ex>ain</ex>t<ex>es</ex> them selues to see their enemies tryumphe over them <lb/>
+            w<ex>i</ex>th vnlawfull weapons yo<ex>u</ex>r Ma<ex>jes</ex>tie may say what you will of <lb/>
+            puritans and <ex>th</ex>e authoritie of yo<ex>u</ex>r knowne disfavor makes  <ex>tha</ex>t <lb/>
+            good word to be onely ill taken in all ill sence, but <ex>i</ex>f my <lb/>
+            observac<ex>i</ex>ons haue not erred in some p<ex>ar</ex>t<ex>es</ex> of <unclear/>, where <lb/>
+            I haue lived their is noe religion likes theires for a sou<ex>er</ex>aigne <lb/>
+            that desyers to make hymselfe  Absolute &amp; dissolute, Insomuch <lb/>
+            <ex>tha</ex>t I wonder <ex>tha</ex>t such princes as p<ex>ro</ex>fesse religion only for pollicy <lb/>
+            sake will suffer any other in their dominions, for let a p<ex>ro</ex>testant <lb/>
+            (I meane one <ex>tha</ex>t Rules over people of that p<ex>ro</ex>fession) be <lb/>
+            neu<ex>er</ex> so notoriously wicked in his p<ex>er</ex>son, nor so <unclear/> in <lb/>
+            his gou<ex>er</ex>m<ex>en</ex>t let hym stampe vice w<ex>i</ex>th his example &amp; make it <lb/>
+            curr<ex>en</ex>t by <del rend="strikethrough">his</del> beinge his, let hym remove <ex>th</ex>e Auncient Bond <lb/>
+            <unclear/> of sou<ex>er</ex>eignetie &amp; make eu<ex>er</ex>y day new walk<ex>es</ex> &amp; new <lb/>
+            Scourges for his pore people, let hym take reward<ex>es</ex> &amp; punishm<ex>en</ex>t<ex>es</ex> <lb/>
+            out of <ex>th</ex>e hands of Iustice &amp; soe distribute them to right or wronge <lb/>
+            as make his followers doubt whether there be heauen or hell <lb/>
+            w<ex>hi</ex>ch desp<ex>er</ex>ate poynt of beleife, is a great helpe &amp; p<ex>re</ex>paratiue to <lb/>
+            Courte p<ex>re</ex>ferment, in <ex>tha</ex>t let hym excell, soe in mischeife ruin &amp; <lb/>
+            opression as Nero compared w<ex>i</ex>th hym, may be held a very <lb/>
+            father to his people, when he hath done all <ex>tha</ex>t can be ymagined <lb/>
+            to <ex>pro</ex>cure hate &amp; contempt, he shall not for all that haue any occasion <lb/>
+            to feare, but bouldly goe forth In &amp; out to his owne sport<ex>es</ex>, w<ex>i</ex>thout <lb/>
+            a publique guarde, or a privie Coate, And although every day <lb/>
+            of his raigne bringe forth a new p<ex>ro</ex>dige to growe all <ex>tha</ex>t are <lb/>
+            honest &amp; astonish all <ex>tha</ex>t are wise, yet shall he not neede to <lb/>
+            take <ex>th</ex>e lesse drinke when he goeth to bed or the more thought <lb/>
+            when he riseth he may so lace hymselfe when he riseth securely <lb/>
+            in his bed chamber as the grande Signior in his Seraglio, <lb/>
+            haue the lord<ex>es</ex> sperituall for his <unclear>-</unclear> mutes &amp; <ex>th</ex>e lord<ex>es</ex> temporall <lb/>
+            for his Eunuckes, &amp; whence he will for his Incubus, There may <lb/>
+            he kis his minions w<ex>i</ex>thout shame &amp; make his groomes his <lb/>
+            Companions w<ex>i</ex>thout danger who because they are acquaynted <lb/>
+            w<ex>i</ex>th his secret sin<ex>n</ex>s assume to them selues, as much power and <lb/>
+            respect as Catholique princes vse to giue their  confessors/ A <lb/>
+            pack of Ravenous Currs that know noe more difference <lb/>
+            betwene <ex>th</ex>e Comon Weale, &amp; one of their Maist<ex>e</ex>rs Forrest<ex>es</ex> <lb/>
+            <fw type="catch" place="bot-right">but thinke</fw>
+            <pb n="[11v]" facs="/nro/ayl_192/ayl_192-012/ayl_192-012.jpg"/>
+            Think all other Subiects beasts &amp; onely made for them to <lb/>
+            pray on, That lickes their maist<ex>e</ex>rs sores not whole but <unclear>sucketh</unclear> <lb/>
+            and barkes at everie man that dares be found Cirkled w<ex>i</ex>th <lb/>
+            w<ex>i</ex>th these sweete Begles, he may rebell &amp; laugh, when all <ex>th</ex>e <lb/>
+            Kingdome mornes &amp; vpon eu<ex>er</ex>ie sorte of grounde his p<ex>ro</ex>rogatiue <lb/>
+            getts <unclear>_________________</unclear> his enquiers, and crys w<ex>i</ex>th Tiberius O peop<unclear/> <lb/>
+            p<ex>re</ex>pared for servitude, his pore p<ex>ro</ex>testant subiects will only <lb/>
+            thinke he is giuen their of god for <ex>th</ex>e punishm<ex>en</ex>t of their sinns <lb/>
+            and <ex>tha</ex>t he ought to be obeyed not because he is good but because <lb/>
+            he is their Kinge, not because he rules accordinge to iustice &amp; <lb/>
+            equitie, but because his power is <ex>th</ex>e ordinance of god, you <ex>th</ex>e <lb/>
+            preachers of greatest note &amp; credite will hold them selues bound <lb/>
+            in dutie to praise hym against their Conscience, and laying asyd<unclear/> <lb/>
+            duty make <ex>th</ex>e pulpit a stage for flattery whoe shall indure hy<unclear/> <lb/>
+            after a most poeticall manner, w<ex>i</ex>th more then all <ex>th</ex>e vertues <lb/>
+            and painte hym soe excellently good, as would make all that <lb/>
+            here hym happie <ex>i</ex>f they could beleiue <ex>th</ex>e thing<ex>es</ex> of princes aswell <lb/>
+            as those of god, in spite of their sinnes, Nor doe their fatherhood<ex>es</ex> <lb/>
+            this of symplicitie or ignorance (for they are well reade in <lb/>
+            the black booke of <ex>th</ex>e Courte) but for a polliticke &amp; officious <lb/>
+            purpose to sweten <ex>th</ex>e peoples myndes &amp; keepe them from <lb/>
+            rebellinge, theise are <ex>th</ex>e fruits and p<ex>ro</ex>perties of <ex>th</ex>e former <lb/>
+            Religion w<ex>hi</ex>ch teachinge divine p<ex>ro</ex>vidence accordinge to divine <lb/>
+            truthe ties <ex>th</ex>e subiects to such wonderfull pacience &amp; obedience, <lb/>
+            as doth almost verifie <ex>th</ex>e bould spech of Matchivell, when he <lb/>
+            saith <ex>tha</ex>t Christianitie made men Coward<ex>es</ex>, And if it be soe <lb/>
+            advantagious to a bad prince, how much more to a good, for <lb/>
+            though duties are &amp; must be payd to both yet is there a greate <lb/>
+            deale of difference in <ex>th</ex>e mann<ex>er</ex> and p<ex>ro</ex>porc<ex>i</ex>on noe more nor no <lb/>
+            lesse then vseth to be betwene <ex>th</ex>e work of his bare Charrett &amp; <lb/>
+            mutuall freindshipp, the one receives his peoples service and <lb/>
+            obedience, as more almes given for <ex>th</ex>e lord<ex>es</ex> sake <ex>th</ex>e other as <lb/>
+            a free benevolence wherin men extend themselues w<ex>i</ex>th <ex>th</ex>e <lb/>
+            more allacratie becaise they beleue it is rather due to his <lb/>
+            merrit <ex>th</ex>en to his power, The experience yo<ex>u</ex>r Ma<ex>jes</ex>tie hath had <lb/>
+            in yo<ex>u</ex>r longe &amp; p<ex>ro</ex>sperous Reigne, will bett<ex>e</ex>r declare <ex>th</ex>e trueth <lb/>
+            then any discourse of myne, I will therefore degresse no futher <lb/>
+            in this poynt but by way of inferrence returne to <ex>th</ex>e work I <lb/>
+            ame at w<ex>hi</ex>ch I doubt not but yo<ex>u</ex>r Ma<ex>jes</ex>ties quick app<ex>re</ex>hension <lb/>
+            will <unclear/> fitt then I cann them For how can yo<ex>u</ex>r Ma<ex>jes</ex>tie fynde <lb/>
+            <ex>i</ex>t more then resonable to favor &amp; assist a Religion <ex>tha</ex>t you see <lb/>
+            deserues <ex>i</ex>t soe well of princes &amp; all humane sosietie, That <lb/>
+            teacheth <ex>th</ex>e tumultious earth <ex>th</ex>e harmony of heauen &amp; makes <lb/>
+            men obay King<ex>es</ex>, as Angell<ex>es</ex> doe god that charitably beares <lb/>
+            w<ex>i</ex>th <ex>th</ex>e bad &amp; abundantly rewardes, <del rend="strikethrough">in</del> <ex>th</ex>e good, in short a religion <lb/>
+            <fw type="catch" place="bot-right">that hates</fw>
+            <pb n="[12r]" facs="/nro/ayl_192/ayl_192-012/ayl_192-012.jpg"/>
+            That hates <ex>th</ex>e Jesuits w<ex>i</ex>th a p<ex>er</ex>fect hatred, because they are <lb/>
+            Kinges enemies, how ill advised then is <ex>tha</ex>t younge prince, <lb/>
+            that seek<ex>es</ex> w<ex>i</ex>th fier &amp; sword to ruyn this holy &amp; only true <lb/>
+            religion out of this Kingdome, what can he p<ex>re</ex>tend by this his <lb/>
+            Crueltie, besides <ex>th</ex>e plesuer of makinge Martiers, would he <lb/>
+            haue all his subiects agree <ex>tha</ex>t it is lawfull to kill kinges <lb/>
+            &amp; none lefte aliue to wright ag<ex>ains</ex>t consecrated knives, would <lb/>
+            he haue all his greate ones to take pentions of his neighbors <lb/>
+            to winke at every publique p<ex>re</ex>iudice that may serue to <lb/>
+            augem<ex>en</ex>t theire estates, and lessen his, and now lest to oppose <lb/>
+            <ex>th</ex>e designe of his envious superiors in <ex>th</ex>e Romaine hirarchie <lb/>
+            who of longe tyme thought the growne of France to <lb/>
+            goodly a thinge for hym, or any Frenchman to possesse, <lb/>
+            <del rend="strikethrough">Conse</del> Conformable to this their is famous work composed <lb/>
+            by a spanish author, wherin for <ex>th</ex>e bett<ex>e</ex>r mannaginge of <lb/>
+            &amp; <unclear/> his wisdome think<ex>es</ex> it fit their should be <lb/>
+            too monarchies a spirituall &amp; a temporall, the pope <lb/>
+            to haue the one &amp; his Ma<ex>ie</ex>sty <ex>th</ex>e other, but suppose little lewis, <lb/>
+            by reson of <ex>th</ex>e straight alliance w<ex>i</ex>th spayne &amp; his devoute <lb/>
+            observance to Rome, may p<ex>ro</ex>mise hymselfe more assuerance <lb/>
+            of life Empire then henry <ex>th</ex>e greate, his more worthy <lb/>
+            father, neu<ex>er</ex>thelesse if he were ould enough to be wise he <lb/>
+            would neu<ex>er</ex> teach his people soe dangerous a lessen, as <lb/>
+            to knowe their owne strength, nor move them to take <lb/>
+            vp armes i any acc<ex>i</ex>ons, by Compellinge them to defend <lb/>
+            their cause in any cause, how fatall this Indiscretion <lb/>
+            hath p<ex>ro</ex>ved to as great princes as hymselfe, both auncient <lb/>
+            &amp; moderne examples doe instruct But I <del rend="strikethrough">sen</del> cease to <lb/>
+            wonder at hym that harkens to lyinge p<ex>ro</ex>fitts &amp; suffers <lb/>
+            hymselfe to be led away w<ex>i</ex>th <ex>th</ex>e spirit of illusion, That w<ex>hi</ex>ch <lb/>
+            disquiet<ex>es</ex> my vnderstandinge, is that yo<ex>u</ex>r Ma<ex>jes</ex>tie should forget <lb/>
+            the p<ex>ar</ex>te you haue in this good people, as to stand newter <lb/>
+            betwene his madnes &amp; there innocency, he is blynde and <lb/>
+            knoweth not what he doth, but god hath opened yo<ex>u</ex>r Ma<ex>jes</ex>ties <lb/>
+            Eyes, and by his powerfull illuminac<ex>i</ex>on bars your Conscience <lb/>
+            from all plea of Ignorance It is nothinge soe greivous in <lb/>
+            hym to Scatter &amp; murder as is in you<ex>ur</ex> Maies<ex>tie</ex> to looke on, who <lb/>
+            are his deputie shepphard as his viceroy, indeede you are <lb/>
+            nothinge, nor can be considered in any capacitie, function <lb/>
+            or dignitie w<ex>hi</ex>ch hath not highly obliged you to take <ex>th</ex>e cause <lb/>
+            of these pore men to hart, &amp; ymploy yo<ex>u</ex>r most potent <lb/>
+            meanes for their safetie &amp; p<ex>re</ex>servation, hitherto you haue <lb/>
+            put god Almightie to doe miracles for them, who will not suffer <lb/>
+            them to p<ex>er</ex>ish for his name sake, But it is expected both <lb/>
+            <fw type="catch" place="bot-right">of god</fw>
+            <pb n="[12v]" facs="/nro/ayl_192/ayl_192-013/ayl_192-013.jpg"/>
+            God &amp; man, <ex>tha</ex>t you should put to yo<ex>u</ex>r helpinge hand &amp; comand <lb/>
+            <ex>tha</ex>t reson w<ex>i</ex>th yo<ex>u</ex>r sword w<ex>hi</ex>ch you haue soe often desyered w<ex>i</ex>th yo<ex>u</ex>r <lb/>
+            pen yo<ex>u</ex>r Ma<ex>jes</ex>tie shall noe soeu<ex>er</ex> exceede word<ex>es</ex> and shew yo<ex>u</ex>r <lb/>
+            selfe R<unclear>o</unclear>yall in this worthy resoluc<ex>i</ex>on, but <ex>th</ex>e footeball wilbe <lb/>
+            p<ex>re</ex>sently on yo<ex>u</ex>r syde And then it wilbe o<ex>u</ex>r turne to receive <lb/>
+            Ambassadors, as fast as you haue sent them for mediation of <lb/>
+            peace, That w<ex>hi</ex>ch was then held to graunt yo<ex>u</ex>r Ma<ex>jes</ex>tie, may <lb/>
+            now thinke to little, &amp; haue much for <ex>th</ex>e p<ex>ro</ex>fitt, and cannot but <lb/>
+            answere yo<ex>u</ex>r honor when you shall see it, It is in yo<ex>u</ex>r power <lb/>
+            to sell <ex>th</ex>e warr to yo<ex>u</ex>r subiect<ex>es</ex>, and <ex>th</ex>e peace to yo<ex>u</ex>r enemies, at <lb/>
+            what rate you list, A trafficque farr bett<ex>e</ex>r becominge a <lb/>
+            great picture, <del rend="strikethrough">that</del> then that of tytles, offices, and such lyke <lb/>
+            pettie Comodities of Courte I would here willingly make <lb/>
+            an ende, but that their is a motive more, offers it selfe to my <lb/>
+            Conceipt w<ex>hi</ex>ch I thinke fit for yo<ex>u</ex>r Ma<ex>jes</ex>ties Considerac<ex>i</ex>on and <lb/>
+            <ex>i</ex>t is this
+         </p>
+         <p>
+            Yo<ex>u</ex>r Ma<ex>jes</ex>tie hath eu<ex>er</ex> expressed a desyer worthy yo<ex>u</ex>r selfe to <lb/>
+            <unclear/> yo<ex>u</ex>r people, as well as yo<ex>u</ex>r Cuntries of England and <lb/>
+            Scotland and whosoeu<ex>er</ex> doth not contribute his best endeavo<ex>r</ex>s <lb/>
+            too so good a worke, is vnworthy to be of either only it is to <lb/>
+            be wished that yo<ex>u</ex>r Ma<ex>jes</ex>tie would thinke vppon some bett<ex>e</ex>r <lb/>
+            meanes then hitherto hath byn vsed, such as may give <lb/>
+            vniu<ex>er</ex>sall satisfaction ( the true &amp; most naturall mother of <lb/>
+            vnion) It is not to be done by <del rend="strikethrough">cha</del> chuseinge yo<ex>u</ex>r <unclear>minion</unclear> <lb/>
+            Alternatively, out of Each nac<ex>i</ex>on, nor by makinge Scotteshm<add place="above">en</add> <lb/>
+            lord<ex>es</ex> of England nor Englishmen lord<ex>es</ex> of Scotland nor yet <lb/>
+            by mixture of marriages w<ex>hi</ex>ch though it makes too p<ex>er</ex>sons one <lb/>
+            yet cannot make too peoples soe, nor by <ex>th</ex>e most subtile <lb/>
+            way <ex>tha</ex>t is now practized by makinge England as pore as <lb/>
+            Scotland, these are too weak &amp; counterfeit engrediences <lb/>
+            to Compo<unclear>-</unclear>und a loue potion, that were wont to thirst after <lb/>
+            one anothers blood, It must be somethinge of more vertue <lb/>
+            <ex>tha</ex>t must change the dissonant humors of these too nations <lb/>
+            and make them forgett, whose fortune it was to be envied <lb/>
+            in tymes <del rend="strikethrough">b</del> past and whose contempned, and if any thinge <lb/>
+            vppon earth doe it, it wilbe yo<ex>u</ex>r fellowshipp at Armes in <lb/>
+            some fortunate warr where honor &amp; danger may be <lb/>
+            equally divided, nor no ielosie nor contention arise out <lb/>
+            of well doinge, one victory obteyned by <ex>th</ex>e wynte vallor <lb/>
+            of English and Scots, will more in deblely Cristen your <lb/>
+            Ma<ex>jes</ex>tie Emperor of greate Brittaine <ex>th</ex>en any act of p<ex>ar</ex>liam<ex>en</ex>t <lb/>
+            or article of state, <ex>i</ex>f then you<ex>ur</ex> Ma<ex>jes</ex>tie will p<ex>ro</ex>ceede in <lb/>
+            good earnest to <ex>th</ex>e accomplishm<ex>en</ex>t of this yo<ex>u</ex>r fatherly desyer <lb/>
+            and relinquish <ex>th</ex>e vnholsome vnnecessary pollicie of <lb/>
+            <fw type="catch" place="bot-right">keepinge the</fw>
+            <pb n="[12r]" facs="/nro/ayl_192/ayl_192-013/ayl_192-013.jpg"/>
+            The too nations in Continuall faction, and <lb/>
+            Counterpoize for the strengthinge yo<ex>u</ex>r authoritie what <lb/>
+            remaynes but to bringe forth yo<ex>u</ex>r Royall standard &amp; make <lb/>
+            <ex>th</ex>e Comission of yo<ex>u</ex>r armes <ex>th</ex>e happie instrument of yo<ex>u</ex>r peoples <lb/>
+            vnion, they shall <ex>th</ex>e <unclear/> behold <ex>th</ex>e Comon ensigne of honor <lb/>
+            wherin <add place="above">they haue</add> equall int<ex>er</ex>est, But all other matt<ex>e</ex>rs of diu<ex>er</ex>sities <lb/>
+            wilbe thought vnworthy their remembrance, and then <ex>th</ex>e <lb/>
+            enemy shall quickly fynd to his cost that <ex>th</ex>e too mightie and <lb/>
+            populus Kingdomes of England &amp; Scotland haue put one <lb/>
+            hand &amp; one hart, Now albeit yo<ex>u</ex>r Ma<ex>jes</ex>tie, haue at this tyme <lb/>
+            as good choice of occasions as <ex>th</ex>e world can afford, yet <ex>tha</ex>t <lb/>
+            of Fraunce seemes most p<ex>ro</ex>p<ex>er</ex> for this purpose, for as <ex>tha</ex>t Cuntry <lb/>
+            was <ex>th</ex>e cause of o<ex>u</ex>r auncient Enm<unclear>i</unclear>tie, soe would it be made <lb/>
+            to feele <ex>th</ex>e effects of o<ex>u</ex>r reconcylem<ex>en</ex>t, were it for nothinge els, <lb/>
+            but to cancell <ex>th</ex>e strict alliance, that was <unclear>
+                    <del rend="strikethrough">once</del>
+                </unclear> <add place="above">wont</add> to be <lb/>
+            suspected &amp; p<ex>re</ex>iudiciall to england, had not <ex>th</ex>e skotts of ould <lb/>
+            bene o<ex>u</ex>r back freind<ex>es</ex>, and shewed them selues in all acc<ex>i</ex>ons <lb/>
+            more affectionate to <ex>th</ex>e Frenche then to vs, yo<ex>u</ex>r ma<ex>jes</ex>tie might <lb/>
+            happelie at this day <unclear/> yo<ex>u</ex>r selfe Kinge of Fraunce &amp; <lb/>
+            yet had not wee p<ex>re</ex>vented Scotland before Fraunce yo<ex>u</ex>r <lb/>
+            Ma<ex>jes</ex>tie had neu<ex>er</ex> come to be Kinge of England, This will <lb/>
+            seeme no riddle to them w<ex>hi</ex>ch are neu<ex>er</ex> so little acquaynted <lb/>
+            w<ex>i</ex>th <ex>th</ex>e histories of those tymes, And if England was able <lb/>
+            to make their p<ex>ar</ex>ties good both w<ex>i</ex>th Scotland &amp; Fraunce <lb/>
+            when their leage both defensive &amp; offensive was at <ex>th</ex>e <lb/>
+            strongest what might not England &amp; Scotland doe now <lb/>
+            in France, when their is another mann<ex>er</ex> of p<ex>ar</ex>tie then that <lb/>
+            of Burgundie redie to receive vs Suerly wee might <lb/>
+            drive all <ex>th</ex>e Royallists into <ex>th</ex>e sheepefoldes of Berrye, and <lb/>
+            make another Kinge of Burges, But I will not labore <lb/>
+            in vayne to make yo<ex>u</ex>r Corage exceede yo<ex>u</ex>r Conscience god <lb/>
+            almightie I know hath filled yo<ex>u</ex>r harte w<ex>i</ex>th dominion &amp; sealed <lb/>
+            it vpp from Ambitious thought<ex>es</ex> as you esteeme conquest<ex>es</ex> <lb/>
+            but spended robberies, as you are pleased to expresse yo<ex>u</ex>r <lb/>
+            selfe in one of yo<ex>u</ex>r late work<ex>es</ex> of divinitie nor doe I intend <lb/>
+            to incyte yo<ex>u</ex>r Ma<ex>ies</ex>tie to any thinge but what may stand aswell w<ex>i</ex>th <lb/>
+            yo<ex>u</ex>r goodnes as yo<ex>u</ex>r greatnes, Cursed be they that tell <ex>th</ex>e Kinge <lb/>
+            he may doe all he can, for <ex>tha</ex>t I thinke my selfe blest of <lb/>
+            heaven <ex>i</ex>f I can but obteine any humbel dutie w<ex>hi</ex>ch goes noe <lb/>
+            further then to what you ought, It is not spoyle nor glorie <lb/>
+            the Comon bellowes of Warre, that I thinke worthie to moue <lb/>
+            yo<ex>u</ex>r Ma<ex>jes</ex>tie, to regoe <ex>th</ex>e longe contentm<ex>en</ex>t of peace, nothinge <lb/>
+            should make me soe hardy as to wish it were there any other <lb/>
+            hopes of yo<ex>u</ex>r Armes then to right <ex>th</ex>e wronged and acquite yo<ex>u</ex>r <lb/>
+            <fw type="catch" place="bot-right">selfe of</fw>
+            <pb n="[14r]" facs="/nro/ayl_192/ayl_192-014/ayl_192-014.jpg"/>
+            Yo<ex>u</ex>r dutie toward<ex>es</ex> god and nature <unclear>__________</unclear> Behould S<ex>i</ex>r <lb/>
+            as much as I ame able to p<ex>re</ex>sent and <ex>per</ex>happ<ex>es</ex> more, then I <lb/>
+            shall haue thank<ex>es</ex> for but that is <ex>th</ex>e least of my p<ex>re</ex>tention, <ex>th</ex>e <lb/>
+            love to <ex>th</ex>e truth &amp; yo<ex>u</ex>r Ma<ex>jes</ex>ties service deserves a greate deale <lb/>
+            more of an honest harte, and he that seek<ex>es</ex> for reward of <lb/>
+            welldoinge knowes not <ex>th</ex>e value of a good conscience,  I shalbe <lb/>
+            content to remayne vnknowne, soe as I make yo<ex>u</ex>r Ma<ex>jes</ex>tie knowne <lb/>
+            what falce and wicked men keepe from you the misfortune <lb/>
+            of <ex>th</ex>e gou<ex>er</ex>m<ex>en</ex>t and the iust Complaint of yo<ex>u</ex>r subiect<ex>es</ex>, If I haue <lb/>
+            offended yo<ex>u</ex>r pacience, yo<ex>u</ex>r Ma<ex>jes</ex>tie may be pleased to Consider <lb/>
+            how longe you haue offended all <ex>th</ex>e world, and forgiue me <lb/>
+            let it not seeme strange or evill in yo<ex>u</ex>r eyes, that I haue vsed <lb/>
+            a fewe word<ex>es</ex>, in a cause my soule loues aboue all <ex>tha</ex>t is mortall <lb/>
+            And for advancem<ex>en</ex>t whereof, I dare suffer I dare suffer <lb/>
+            as much as they deserve that diswade you from it
+         </p>
+         <p>
+            <hi rend="italic">The truth teller</hi>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/nro/ayl_192/ayl_192-001/ayl_192-001.jpg"/>
+      <graphic n="2" url="/nro/ayl_192/ayl_192-002/ayl_192-002.jpg"/>
+      <graphic n="3" url="/nro/ayl_192/ayl_192-003/ayl_192-003.jpg"/>
+      <graphic n="4" url="/nro/ayl_192/ayl_192-004/ayl_192-004.jpg"/>
+      <graphic n="5" url="/nro/ayl_192/ayl_192-005/ayl_192-005.jpg"/>
+      <graphic n="6" url="/nro/ayl_192/ayl_192-006/ayl_192-006.jpg"/>
+      <graphic n="7" url="/nro/ayl_192/ayl_192-007/ayl_192-007.jpg"/>
+      <graphic n="8" url="/nro/ayl_192/ayl_192-008/ayl_192-008.jpg"/>
+      <graphic n="9" url="/nro/ayl_192/ayl_192-009/ayl_192-009.jpg"/>
+      <graphic n="10" url="/nro/ayl_192/ayl_192-010/ayl_192-010.jpg"/>
+      <graphic n="11" url="/nro/ayl_192/ayl_192-011/ayl_192-011.jpg"/>
+      <graphic n="12" url="/nro/ayl_192/ayl_192-012/ayl_192-012.jpg"/>
+      <graphic n="13" url="/nro/ayl_192/ayl_192-013/ayl_192-013.jpg"/>
+      <graphic n="14" url="/nro/ayl_192/ayl_192-014/ayl_192-014.jpg"/>
+   </facsimile>
+</TEI>

@@ -16,7 +16,7 @@
                <name>Richard Bell</name>
                <resp>Research Associate</resp>
             </respStmt>
-                <respStmt xml:id="VA">
+            <respStmt xml:id="VA">
                <name>Victoria Anker</name>
                <resp>BRIHC Research Impact Fellow</resp>
             </respStmt>
@@ -123,17 +123,6 @@
             </msIdentifier>
                </bibl>
             </listBibl>
-                <listBibl xml:id="mss_witness_generated">
-                    <bibl>
-                        <ref type="text" target="YorkshirePetition1640v1.xml">Transcript</ref> of <ref type="ms" target="../mss/BLAddMS22959.xml">British Library, Additional MS 22959, ff. 63r–64r</ref>
-                    </bibl>
-                    <bibl>
-                        <ref type="text" target="YorkshirePetition1640v2.xml">Transcript</ref> of <ref type="ms" target="../mss/BLHarleyMS4931.xml">British Library, Harley MS 4931, f. 64r</ref>
-                    </bibl>
-                    <bibl>
-                        <ref type="ms" target="../mss/BLHarleyMS7162.xml">British Library, Harley MS 7162, ff. 45x–50x</ref>
-                    </bibl>
-                </listBibl>
             
             <listBibl xml:id="modern_print_witness">
                <bibl>
@@ -177,6 +166,7 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
+            <change when="2018-10-02" who="#SV" status="proofread"/>
             <change when="2018-09-13" who="#RB" status="drafted"/>
             <change when="2018-08-20" who="#EBh" status="transcribed"/>
             <change when="2018-08-20" who="#AC" status="transcribed"/>
@@ -190,30 +180,32 @@
             To the Kings most Excellent Maiesty <lb/>
             The humble petition of the gentry in your Maiesties county <lb/>
             of Yorke now assembled at your Assizes at Yorke this <lb/>
-            2<unclear>-</unclear>8th of July and 1640:
+            2<del>
+                    <unclear>0</unclear>
+                </del>8th of July and 1640:
          </head>
          <p>
-            May i<add place="above">t</add>
-                <unclear>-</unclear> please your sacred Ma<ex>jes</ex>ty: your most humble subieckts, shew <lb/>
-            to your most sacred Ma<ex>jes</ex>ty, <ex>tha</ex>t in all humility, this County hath en- <lb/>
+            May i<del>s</del>
+                <add place="above">t</add> please your sacred Ma<ex>jes</ex>ty: your most humble subieckts, shew <lb/>
+            to your most sacred Ma<ex>jes</ex>ty, <ex>tha</ex>t in all humility, this County hath en-<lb break="no"/>
             deuored to fullfill your Ma<ex>jes</ex>ties co<ex>m</ex>mand last yeare, with the forwardest <lb/>
-            of your Ma<ex>jes</ex>ties subiests: And the last yeare in the executio<ex>n</ex> of your <lb/>
+            of your Ma<ex>jes</ex>ties subiects: And the last yeare in the executio<ex>n</ex> of your <lb/>
             Ma<ex>jes</ex>ties royall co<ex>m</ex>mands about the millitary affaires did expend <lb/>
             one hundred thousand pounds, to our great impouerishme<ex>n</ex>t <lb/>
             and far above the proportions of other Countyes: w<ex>hi</ex>ch allthough <lb/>
             wee at <ex>th</ex>e time weare willing out of our duties to serue your <lb/>
-            Maj<ex>est</ex>tie todoe: yett for the future, the burthen is soe heauy <ex>tha</ex>t <lb/>
+            Maj<ex>est</ex>tie to doe: yett for the future, the burthen is soe heauy <ex>tha</ex>t <lb/>
             wee neither can, nor <add place="above">are</add>
                 <del rend="strikethrough">will</del> able to beare it: Now <add place="above">then</add> in this <lb/>
             our cherefullnesse to serue your Ma<ex>jes</ex>tie wee hoped to haue <lb/>
             found equall fauor w<ex>i</ex>th other countyes
          </p>
          <p>
-            But soe is it most gracious Soueraine, to our great greife <lb/>
+            But soe it is most gratious Soueraine, to our great greife <lb/>
             and as wee conceiue to the great disseruice of your Ma<ex>jes</ex>tie <lb/>
             wee find our selues oppressed w<ex>i</ex>th the billiting of vnrully <lb/>
             soldiers, whose speches and actions tend to the burning of <lb/>
-            our Villages, and howses, and to whose Vyolencies and in <lb/>
+            our Villages, and howses, and to whose Vyolencies and in<lb break="no"/>
             solencies wee are soe daily subieckt, as we can not say <lb/>
             we possesse our wiues, children and estates in saifty, <lb/>
             wherfore wee are imboldned hu<ex>mb</ex>ly to present these our co<ex>m</ex>plaints <lb/>
@@ -223,7 +215,7 @@
             Wee most hu<ex>mb</ex>ly desier your Ma<ex>jes</ex>tie <ex>tha</ex>t this insupportable <lb/>
             burthen may bee taken from vs, least by there insole<ex>n</ex>cies <lb/>
             som such sad accident may happen, as may be displeasing <lb/>
-            to your sacred Ma<ex>jes</ex>tie, and your loyall and obedient subieck <lb/>
+            to your sacred Ma<ex>jes</ex>tie, and your loyall and obedient subieck<lb break="no"/>
             ts: Who will neuer cease to pray, for your Ma<ex>jes</ex>ties <lb/>
             long and happy reinge ouer vs
          </p>
@@ -232,10 +224,10 @@
                <cb/>
                <l>Phillip Wharton</l>
                <l>Har: Fayrefax</l>
-               <l>Hen: Pellases</l>
+               <l>Hen: Bellases</l>
                <l>Will Savill</l>
                <l>Fran: Worthley</l>
-               <l>Ioh<ex>n</ex> Hottam</l>
+               <l>Ioh<ex>n</ex> Hottham</l>
                <l>Ed: Stanhop</l>
                <l>Tho: Gowar</l>
                <l>Hen: Griffith</l>
@@ -243,7 +235,7 @@
                <l>Rich: Parkey</l>
                <l>Iohn Ramsden</l>
                <l>Hugh Cholmley</l>
-               <l>Hugh Pethell</l>
+               <l>Hugh Bethell</l>
                <l>Will: Streckland</l>
                <cb/>
                <l>George Wentworth</l>

@@ -47,17 +47,17 @@
             <msContents>
                <msItem n="1">
                   <locus>175r-v</locus>
-                  <title>Letter to the Mayor of Marlborough</title>
-                        <author>
-               <persName corresp="../people/people.xml#P0066">Oliver St John</persName>
-            </author>
+                  <title when="1614">Letter to the Mayor of Marlborough</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0066">Oliver St John</persName>
+                  </author>
                   <respStmt>
                      <resp/>
                      <name>
                         <persName/>
                      </name>
                   </respStmt>
-                  <link target="../texts/StJohnLetterMayorMarlborough1614.xml" type="witness"/>
+                  <link target="../texts/StJohnLetterMayorMarlborough1614.xml" type="t_witness"/>
                   <msDesc>
                      <msIdentifier/>
                      <history>
@@ -67,26 +67,47 @@
                      </history>
                   </msDesc>
                </msItem>
-               <msItem n="2">
-                  <locus>177r-179r</locus>
-                  <title>Speech to the King, attributed to the Duke of Lennox</title>
-                        <author>
-               <persName corresp="../people/people.xml#P0081">
-                  James Stewart, Duke of Lennox
-               </persName>
-            </author>
-                        <author>
-               <persName corresp="../people/people.xml#P0080">
-                  Pseudo-Lennox
-               </persName>
-            </author>
+               <msItem n="1">
+                  <locus>176r-v</locus>
+                  <title when="1628">Account of Proceedings in Parliament</title>
+                  <author/>
                   <respStmt>
                      <resp/>
                      <name>
                         <persName/>
                      </name>
                   </respStmt>
-                  <link target="../texts/PseudoLennox1638.xml" type="witness"/>
+                  <link target="../texts/AccountProceedingsParliament1628.xml" type="t_witness"/>
+                  <msDesc>
+                     <msIdentifier/>
+                     <history>
+                        <summary/>
+                        <origin/>
+                        <provenance/>
+                     </history>
+                  </msDesc>
+               </msItem>
+               <msItem n="3">
+                  <locus>177r-179r</locus>
+                  <title when="1638">Speech to the King, attributed to the Duke of Lennox</title>
+                  <author>
+                     <persName corresp="../people/people.xml#P0080">
+                        Pseudo-Lennox
+                     </persName>
+                  </author>
+                  <author role="attributed">
+                     <persName corresp="../people/people.xml#P0081">
+                        James Stewart, Duke of Lennox
+                     </persName>
+                  </author>
+                  <respStmt>
+                     <resp/>
+                     <name>
+                        <persName/>
+                     </name>
+                  </respStmt>
+                  <link target="../texts/PseudoLennox1638v2.xml" type="t_witness"/>
+                  <link target="../texts/PseudoLennox1638v1.xml" type="witness"/>
                   <msDesc>
                      <msIdentifier/>
                      <history>
@@ -111,4 +132,11 @@
          </msDesc>
       </body>
    </text>
+   <facsimile>
+      <graphic n="1" url="/nro/hmn_7-308/hmn_7-308-001/hmn_7-308-001.jpg"/>
+      <graphic n="2" url="/nro/hmn_7-308/hmn_7-308-002/hmn_7-308-002.jpg"/>
+      <graphic n="3" url="/nro/hmn_7-308/hmn_7-308-003/hmn_7-308-003.jpg"/>
+      <graphic n="4" url="/nro/hmn_7-308/hmn_7-308-004/hmn_7-308-004.jpg"/>
+      <graphic n="5" url="/nro/hmn_7-308/hmn_7-308-005/hmn_7-308-005.jpg"/>
+   </facsimile>
 </TEI>

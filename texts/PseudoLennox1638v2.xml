@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech to the King, attributed to the Duke of Lennox</title>
+            <author>
+               <persName corresp="../people/people.xml#P0080">
+                  Pseudo-Lennox
+               </persName>
+            </author>
+            <author role="attributed">
+               <persName corresp="../people/people.xml#P0081">
+                  James Stewart, Duke of Lennox
+               </persName>
+            </author>
+            <respStmt xml:id="NM">
+               <name>Noah Millstone</name>
+               <resp>Principal Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="SV">
+               <name>Sebastiaan Verweij</name>
+               <resp>Co-Investigator MPESE</resp>
+            </respStmt>
+            <respStmt xml:id="RB">
+               <name>Richard Bell</name>
+               <resp>Research Associate</resp>
+            </respStmt>
+                <respStmt xml:id="VA">
+                    <name>Victoria Anker</name>
+                    <resp>BRIHC Research Impact Fellow</resp>
+                </respStmt>
+            <respStmt xml:id="MJ">
+               <name>Mike Jones</name>
+               <resp>Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="CW">
+               <name>Chloe Wakefield</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="LP">
+               <name>Lyle Probert</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="SW">
+               <name>Susan Ward</name>
+               <resp>Transcription Volunteer</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="mpese_pubstat">
+            <publisher>Manuscript Pamphleteering in Early Stuart England (MPESE)</publisher>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <msDesc corresp="../mss/NorfRO_HMN_7307_772X8.xml">
+               <msIdentifier xml:id="NorfRO_HMN_7307_772x8">
+               <country>United Kingdom</country>
+               <settlement>Norwich</settlement>
+               <repository>Norfolk Record Office</repository>
+               <collection/>
+               <idno>HMN 7/307, 772X8</idno>
+               <msName/>
+            </msIdentifier>
+                    <p xml:id="ms-label-generated">Norfolk Record Office,  HMN 7/307, 772X8</p>
+            </msDesc>
+            <listBibl xml:id="mss_witness">
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_4931">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 4931</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Stowe_MS_288">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Stowe</collection>
+               <idno>MS 288</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Lansdowne_MS_1232">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Lansdowne</collection>
+               <idno>MS 1232</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_6284">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Harley</collection>
+                <idno>MS 6284</idno>
+                <msName/>
+             </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1576">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1576</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Harley_MS_1219">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Harley</collection>
+               <idno>MS 1219</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_28011">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 28011</idno>
+               <msName/>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_69392">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 69392</idno>
+               <msName>Dropmore Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_72432">
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <repository>British Library</repository>
+               <collection>Additional</collection>
+               <idno>MS 72432</idno>
+               <msName>Weckherlin Papers</msName>
+            </msIdentifier>
+               </bibl>
+               <bibl>
+                  <msIdentifier xml:id="BL_Add_MS_23146">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Additional</collection>
+                <idno>MS 23146</idno>
+                <msName>Diary of the Rev. Thomas Dugard</msName>
+             </msIdentifier>
+               </bibl>
+            </listBibl>
+                <listBibl xml:id="mss_witness_generated"/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date when="1638">1638</date>
+            <placeName/>
+         </creation>
+         <langUsage>
+            <language ident="EN">English</language>
+            <language ident="LA">Latin</language>
+         </langUsage>
+         <textClass>
+            <keywords n="text-type">
+               <term>speech</term>
+               <term>false attribution</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords n="topic-keyword">
+               <term>war</term>
+               <term>Bishops' Wars</term>
+               <term>Scotland</term>
+               <term>kingship</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2018-09-24" who="#RB" status="drafted"/>
+            <change when="2018-08-20" who="#CW" status="transcribed"/>
+            <change when="2018-08-20" who="#LP" status="transcribed"/>
+            <change when="2018-08-20" who="#SW" status="transcribed"/>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="177r" facs="/nro/hmn_7-308/hmn_7-308-003/hmn_7-308-003.jpg"/>
+         <head>
+            The Duke of Lenox his speech to his Maiestie <lb/>
+            Concerninge the proposition of warr for <lb/>
+            Scotland July 80 – 1638 
+         </head>
+         <p>
+            Most gratious soueraigne.
+         </p>
+         <p>
+            <supplied reason="damage">I</supplied> am not altogether unsensible in this business wherein <lb/>
+            <supplied reason="damage">I</supplied> am now called to give my aduice for I know I shall <lb/>
+            suffer some disadvantage because I am a Scott by nation <lb/>
+            and education and the best blood that runnes in my veines <lb/>
+            I haue extracted from thence, and what I shall now <lb/>
+            speake examine and then execute:
+         </p>
+         <p>
+            Some may happily impute it as proceedinge from strength <lb/>
+            of affection to that place and people from whence I <lb/>
+            came but I protest my zeale to your Ma<ex>jes</ex>tie shall at this time <lb/>
+            suspend the aggitation of such principles and I will sett aside <lb/>
+            all perticuler relation and looke uppon the Question as it is <lb/>
+            not as passion and affection may sett it forth .
+         </p>
+         <p>
+            The question is concerninge warr an vnkowne subiect <lb/>
+            here which seemes sweet to those that haue not tryed <lb/>
+            it, and perhaps thinkes not to be troubled with it.
+         </p>
+         <p>
+            The worst of warr is in the close of it, for in the <lb/>
+            conclusion of the most aduentagious warr that euer was <lb/>
+            waged when all reckninges  be cast vp the Conquerour hath <lb/>
+            but litle whereof to glory.
+         </p>
+         <p>
+            But this is not a warr betwixt a king and a stranger but <lb/>
+            betwixt a soueraigne and his subiect a neer relation and <lb/>
+            they had nee of waighty motives that should dissolue this <lb/>
+            knott.
+         </p>
+         <p>
+            Subiects are easily lost we see see it in the worke of eu<unclear>-</unclear> <lb/>
+            dayes experience but once lost are hardly regayned <lb/>
+            affections are like to Christall glasses which once broken <lb/>
+            are hardly sett together againe .And thes people are <lb/>
+            <fw type="catch" place="bot-right">not</fw>
+            <pb n="177v" facs="/nro/hmn_7-308/hmn_7-308-004/hmn_7-308-004.jpg"/>
+            not such a people as the <unclear>--------</unclear> <lb/>
+            (a people whome I know not shall be subiect vnto me <lb/>
+            your Ma<ex>jes</ex>tie of them as Addam did of Eve w<unclear>-</unclear> <lb/>
+            was framed out of his owne Ribb thou art flesh of my f<unclear>-</unclear> <lb/>
+            and bone of my bone or rather as David of his su<unclear>-</unclear> <lb/>
+            in the day of his inauguration (for my bretheren <lb/>
+            compannions sake) soe your Maiestie beinge theirs <lb/>
+            they your Maiesties by a double tye you are not <lb/>
+            Rex factus but Rex natus, and therefore the vn<unclear>-</unclear> <lb/>
+            beinge soe streight the motiue had need to be waig<unclear>-</unclear> <lb/>
+            that shall cause a man to sett his house on fire an<unclear>-</unclear> <lb/>
+            destroy the work of his owne hands.
+         </p>
+         <p>
+            Now let us consider of 2 thinges requisite in this Qest<unclear>-</unclear>
+         </p>
+         <p>
+            <add place="LM">1</add> <lb/>
+            The necessity of this warr.
+         </p>
+         <p>
+            <add place="LM">2</add> <lb/>
+            Secondly the motives may induce us to it whether they <unclear>-</unclear> <lb/>
+            <unclear>tanti</unclear> of such moment that a kinge should hazard the uncer<unclear>-</unclear> <lb/>
+            chance  of warr and the miseries that accompanie it rat<unclear>-</unclear> <lb/>
+            then to forgoe the same <lb/>
+            for the first pointe it is a good noate of Tacitus, that warr <lb/>
+            shall be his vltimum refugium the last because the worst <lb/>
+            refuge.
+         </p>
+         <p>
+            And if we consider of the wisest kings that euer did sway a <lb/>
+            scepter in thes latter times how willinge they were to decline <lb/>
+            the stroake of warr almost vppon any tearmes; If your <lb/>
+            maiestie doe but consider the practise of Lewis the 11<unclear/>th <lb/>
+            king of france Henry the 7th king of England  
+         </p>
+         <p>
+            For in the large list and catolouge of all the kings of booth nations <lb/>
+            you cannot point out <unclear/> two of more deep and profound <lb/>
+            Iudgment and better verst in the misteries of gouernment <lb/>
+            yet what meanes the vsed or rather not vsed to diuert <lb/>
+            the course if <unclear/> that at any time they did waide <lb/>
+            <unclear/> with in their one channells, They counted it noe <lb/>
+            dishonour to yeeld to their subiects demaunds though <lb/>
+            <pb n="178r" facs="/nro/hmn_7-308/hmn_7-308-004/hmn_7-308-004.jpg"/>
+            <unclear>..e</unclear> times vniust and unreasonable, <unclear/>ay themselves to <lb/>
+            <unclear/> the first seekers and propounders of peace, and soe <lb/>
+            <unclear>y</unclear> those meanes when the storme was ouer and thing <del rend="strikethrough">es</del>, <del rend="strikethrough">a<unclear/>
+                </del> <lb/>
+            <unclear>ame</unclear> to be debated upon the gr<add place="above">e</add>at green carpet they <lb/>
+            <unclear/> were masters of their owne ends and their subiects <lb/>
+            <unclear>a</unclear>ffections and obteyned a victory without <del rend="strikethrough">stri</del> <lb/>
+            <unclear>st</unclear>rikinge a stroake.
+         </p>
+         <p>
+            Those wise kings considered that the end of warr <lb/>
+            was uncertaine and the euent uarious, and he that com<ex>m</ex>itteth <lb/>
+            one error in the warr (especially when the estate of it <lb/>
+            is in his owne kingdome seldome lives to com<unclear/>itt a second <lb/>
+            we need not to goe far for Instances, Rich: 2d: Ed =<lb break="no"/>
+            2d: will be fresh presidents for any that desire to try <lb/>
+            the experience. Thereof uppon such tearmes as they did/ <lb/>
+            It shoul<ex>d</ex> be in the body politique as it is in the body <lb/>
+            naturall: Philobotomie. shoul<ex>d</ex> not be used but when the humours <lb/>
+            be soe praedominant that noe other course can remoue them <lb/>
+            and unlesse <del rend="strikethrough">that</del> they be exiled they will occasion dissolution. but <lb/>
+            blessed be god there is noe such necessity in this case. <lb/>
+            That theire are some rough humo<add place="above">u</add>rs in the body politique it <lb/>
+            cannot be denyed and some there are it may be that worke <lb/>
+            obstructions in some of the lesser pipes of gouenment, <lb/>
+            But your va' na basillicca and your va'na caua are full <lb/>
+            and the royall spiritts in them haue there full and prope<unclear>r</unclear> <lb/>
+            influence and motion without any opposition, <lb/>
+            Then what is now to be donne since by force it is not fitt <lb/>
+            for euery subiect, some humours are to be expelled by <lb/>
+            <unclear/>enations when as purgations will make them more <lb/>
+            malignant, and there are three <add place="above">meanes</add> <unclear>obliteration</unclear> to be used or <lb/>
+            not yet have bin tryed any of which are better th<unclear>en</unclear> <lb/>
+            the meanes praescribed.
+         </p>
+         <fw type="catch" place="bot-right">The</fw>
+         <pb n="178v" facs="/nro/hmn_7-308/hmn_7-308-005/hmn_7-308-005.jpg"/>
+         <p>
+            <add place="LM">1</add>
+            The first is to remoue the occasion this can be <lb/>
+            impeachment to the scepter. <lb/>
+            The wisest kings haue had theire errours in goue<unclear/> <lb/>
+            which a wiser obseruance in auoidinge occasions<unclear/> <lb/>
+            end tought them to recall.
+         </p>
+         <p>
+            Your father raigned gloriously and com<ex>m</ex>anded<unclear/> <lb/>
+            affections as well as the bodies of the Scotts and yet n<unclear/> <lb/>
+            sought the obtrudinge of them either by sea or Lan<unclear>d</unclear> <lb/>
+            yett there was none more zealous of a kingly gou<unclear/> <lb/>
+            then he was.
+         </p>
+         <p>
+            It is an art of the greatest folly to hazard the<unclear/> <lb/>
+            substance for the shadowe not worth to be conten<unclear/> <lb/>
+            for, and if your Maiestie were master of your own<unclear>e</unclear> <lb/>
+            desire it woul<ex>d</ex> not add one cubite to your stature<unclear/>
+         </p>
+         <p>
+            <add place="LM">2</add>
+            Secondly if the course like not then <unclear>let</unclear> tim worke<unclear/> <lb/>
+            and by this meanes they will either swallow the hooke<unclear/> <lb/>
+            endure the proposall of it with less regrate, distast <unclear/> <lb/>
+            thinges makes most dislike at the first and least at last <unclear/> <lb/>
+            And your Ma<ex>ies</ex>tie by degrees may worke them to th<unclear/> <lb/>
+            at the last which for the present they will rather <lb/>
+            dye then imbrace.
+         </p>
+         <p>
+            We see how the Romanes by degrees brought royall <lb/>
+            slauery upon the world which if they had at first pro=<lb break="no"/>
+            =pounded in downe right tearmes had hardly beene <lb/>
+            accomplished if euer.
+         </p>
+         <p>
+            Soe Normane william by degrees had brought the English <lb/>
+            to weare the yoake which if he had at the first tendered <lb/>
+            he either must have mist his ayme or had noe people to <lb/>
+            impose it uppon soe impatient then were the english <lb/>
+            nation to heare the name of conquerour or be branded <lb/>
+            with the name of conque<add place="above">u</add>red nation
+         </p>
+         <p>
+            <unclear>3</unclear> Thirdly we see the way to conquour is some times costly what <lb/>
+            if your maiestie shoul<ex>d</ex> yeeld in these thinges to the Scotts <lb/>
+            demaunds and give the aduantage of a faire game <lb/>
+            <fw type="catch" place="bot-right">cannot</fw>
+            <pb n="179r" facs="/nro/hmn_7-308/hmn_7-308-005/hmn_7-308-005.jpg"/>
+            <unclear/> at your Ma<ex>ies</ex>ties remoue the obstacles by degression <unclear>and</unclear> <lb/>
+            <unclear/>ne the humours some other way and waite for a more <lb/>
+            <unclear>se</unclear>asonable time or opportunity to stirr in the thinges by <lb/>
+            <unclear>in</unclear>struments more fite and less subiect to opposition <lb/>
+            <unclear/>he proposall of this course I shoul<ex>d</ex> houl<ex>d</ex> more certaine <unclear/> <lb/>
+            <unclear>m</unclear>ore safe and more secure thent that cruell one of the <lb/>
+            <unclear>s</unclear>word which knowes noe law but deuoures one as well as <lb/>
+            <unclear>th</unclear>e other.
+         </p>
+         <p>
+            And I houl<ex>d</ex> that kingdome most miserable which is <del rend="strikethrough">enfo=</del> <lb/>
+            enforced to make use of a remedy worse then the disease and <lb/>
+            <unclear/> thuse much for the three meanes untryed and also for the <lb/>
+            <unclear/> fiset part of the consideration of this matter that there <lb/>
+            is noe necessity of war rebus sic stantibus.
+         </p>
+         <p>
+            To the second consideration thes thinges in aggitation <del rend="strikethrough">s</del> <lb/>
+            are not tanti of such an alley as shoul<ex>d</ex> require such a desperate <lb/>
+            aduenture as to hazard  kingdome at a cost for the gayning<unclear>e</unclear> <lb/>
+            of it, Plutarch wisely compared those that know not how to <lb/>
+            propose the meanes to the end to such as fish with a golden <lb/>
+            hooke the losse of the hooke is often of more consequence <lb/>
+            then the fish they can take.
+         </p>
+         <p>
+            And truely to speake plainely what I thinke they that adui<unclear>cs</unclear>e <lb/>
+            warr in this kingdome know not what it is to gett nor greatly <lb/>
+            <add place="above">care</add> for the losse of a kingdome soe they may play their owne <lb/>
+            game and fish in troubled waters.
+         </p>
+         <p>
+            Such counsellours as these were the B<ex>isho</ex>p of Rosse to the late Queen <lb/>
+            of Scotts and the B<ex>isho</ex>p of Broox to the late miserable King of Hun=<lb break="no"/>
+            =garie the successe of booth may easily be remembred the one <lb/>
+            was the cause and occasion of bringinge in the Turke into Hun <lb/>
+            garia and the other the French into Scotland two such guests <lb/>
+            as booth nations may wish that they may neuer know the way <lb/>
+            thither agayne.
+         </p>
+         <p>
+            Three reasons have beene given to praeswade to warr which <lb/>
+            I will not now answere but leave it to him that is better able <lb/>
+            and more fully instructed for such a purpose, wherefore <lb/>
+            consideringe nulla salus bello nulla necessitas belli my aduice to <lb/>
+            your Ma<ex>ies</ex>tie is not to vse warr but when the end of it is either <lb/>
+            a certaine peace or when there is noe other way left but <lb/>
+            that onely to obteyne it in this aduice (though I shall undoubte<supplied>d</supplied>
+                <lb break="no"/>
+            =ly displease others.) yet I shall please myselfe because I haue <lb/>
+            spoken as I thinke, and I hope when your Ma<ex>ies</ex>tie shall haue <lb/>
+            occasion or be necessitated to draw your sword in Iust warr <lb/>
+            I shall be ready to doe your ma<ex>ies</ex>tie seruice as they are that ta<add place="above">l</add>ke much <lb/>
+            of warr but neither know whence to beginue it nor-greatly care <lb/>
+            where or when to end it
+         </p>
+         <p rend="align-centre">
+            Finis
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <graphic n="1" url="/nro/hmn_7-308/hmn_7-308-003/hmn_7-308-003.jpg"/>
+      <graphic n="2" url="/nro/hmn_7-308/hmn_7-308-004/hmn_7-308-004.jpg"/>
+      <graphic n="3" url="/nro/hmn_7-308/hmn_7-308-005/hmn_7-308-005.jpg"/>
+   </facsimile>
+</TEI>
